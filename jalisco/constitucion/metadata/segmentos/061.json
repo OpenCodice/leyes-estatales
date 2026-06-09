@@ -1,0 +1,81 @@
+{
+  "clave": "061",
+  "etiqueta": "Artículo 61º",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "061.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61º › párrafo 1",
+      "texto": "Las y los magistrados del Supremo Tribunal de Justicia durarán en el ejercicio de su encargo doce años improrrogables, contados a partir de la fecha en que rindan protesta de ley."
+    },
+    {
+      "id": "061.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61º › párrafo 2",
+      "texto": "Las y los magistrados solo podrán ser removidos de sus cargos en los términos que establezcan esta Constitución y las leyes en materia de responsabilidad de los servidores públicos."
+    },
+    {
+      "id": "061.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61º › párrafo 3",
+      "texto": "Las y los magistrados del Supremo Tribunal de Justicia se retirarán de sus cargos en forma forzosa o voluntaria."
+    },
+    {
+      "id": "061.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61º › párrafo 4",
+      "texto": "Son causas de retiro forzoso:"
+    },
+    {
+      "id": "061.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61º › Fracción I",
+      "texto": "I. Haber concluido el periodo por el que fue electo;"
+    },
+    {
+      "id": "061.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61º › Fracción II",
+      "texto": "II. Haber cumplido setenta años de edad;"
+    },
+    {
+      "id": "061.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61º › Fracción III",
+      "texto": "III. La incapacidad total permanente declarada por autoridad judicial o administrativa competente; o"
+    },
+    {
+      "id": "061.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61º › Fracción IV",
+      "texto": "IV. No aprobar las evaluaciones de control de confianza.\n\nLas evaluaciones de control de confianza serán aplicables cada cuatro años a magistrados, mismas que se integrarán a su expediente laboral el cual será de carácter reservado."
+    }
+  ]
+}

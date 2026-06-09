@@ -1,0 +1,54 @@
+{
+  "clave": "085",
+  "etiqueta": "Artículo 85º",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "085.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85º › párrafo 1",
+      "texto": "Son obligaciones de los ayuntamientos:"
+    },
+    {
+      "id": "085.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85º › Fracción I",
+      "texto": "I. Difundir, cumplir y hacer cumplir, en su ámbito de competencia, las leyes que expidan el Congreso de la Unión y el Congreso del Estado;"
+    },
+    {
+      "id": "085.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85º › Fracción II",
+      "texto": "II. Publicar los bandos previstos por la ley;"
+    },
+    {
+      "id": "085.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85º › Fracción III",
+      "texto": "III. Garantizar en todo momento el combate y sanción a cualquier tipo de actos de corrupción en los términos de la legislación correspondiente; y"
+    },
+    {
+      "id": "085.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85º › Fracción IV",
+      "texto": "IV. Las demás que determinen las leyes, para la mejor administración de su patrimonio y prestación de los servicios públicos que les correspondan."
+    }
+  ]
+}

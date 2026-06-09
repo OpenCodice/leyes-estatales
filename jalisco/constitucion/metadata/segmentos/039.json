@@ -1,0 +1,27 @@
+{
+  "clave": "039",
+  "etiqueta": "Artículo 39º",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "039.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39º › párrafo 1",
+      "texto": "En caso de falta absoluta del Gobernador del Estado, ocurrida durante los dos primeros años de su ejercicio, el Congreso procederá al nombramiento de un Gobernador interino, quien ejercerá sus funciones hasta que tome posesión el Gobernador substituto que se elija en comicios extraordinarios."
+    },
+    {
+      "id": "039.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39º › párrafo 2",
+      "texto": "La convocatoria a elección extraordinaria de Gobernador substituto se expedirá conforme las disposiciones de la Ley Electoral y tendrá lugar a más tardar, en la fecha en la que tenga verificativo la siguiente elección ordinaria para renovar el Congreso del Estado."
+    }
+  ]
+}

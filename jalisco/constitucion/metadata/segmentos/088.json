@@ -1,0 +1,54 @@
+{
+  "clave": "088",
+  "etiqueta": "Artículo 88º",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "088.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88º › párrafo 1",
+      "texto": "Los municipios administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que el Congreso establezca a su favor y, en todo caso, con:"
+    },
+    {
+      "id": "088.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88º › Fracción I",
+      "texto": "I. Las contribuciones sobre la propiedad inmobiliaria, incluyendo tasas adicionales que establezca el Congreso, de su fraccionamiento, división, consolidación, translación y mejora.\n\nLos municipios podrán celebrar convenios con el Estado, para que éste se haga cargo de algunas de las funciones relacionadas con la administración de estas contribuciones;"
+    },
+    {
+      "id": "088.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88º › Fracción II",
+      "texto": "II. Las participaciones federales y estatales, así como las aportaciones federales que correspondan a los municipios, con arreglo a las bases, montos y plazos que anualmente se determinen por el Congreso del Estado;"
+    },
+    {
+      "id": "088.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88º › Fracción III",
+      "texto": "III. Los ingresos derivados de la prestación de servicios públicos a su cargo; y"
+    },
+    {
+      "id": "088.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88º › Fracción IV",
+      "texto": "IV. Los derivados de empréstitos u operaciones financieras y otros ingresos extraordinarios expresamente autorizadas por el Congreso del Estado, así como los ingresos de operaciones de crédito de corto plazo.\n\nEl patrimonio municipal se compondrá con los bienes de dominio público y los bienes de dominio privado, de conformidad con lo que establezca la ley de la materia."
+    }
+  ]
+}

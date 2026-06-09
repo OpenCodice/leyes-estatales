@@ -1,0 +1,117 @@
+{
+  "clave": "021",
+  "etiqueta": "Artículo 21º",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "021.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21º › párrafo 1",
+      "texto": "Para ser diputada o diputado se requiere:"
+    },
+    {
+      "id": "021.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21º › párrafo 2",
+      "texto": "l. Tener ciudadanía mexicana por nacimiento, en ejercicio de sus derechos; así como estar inscrito en el Registro Federal de Electores y contar con credencial para votar;"
+    },
+    {
+      "id": "021.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21º › Fracción II",
+      "texto": "II. Tener cuando menos veintiún años de edad el día de la elección;"
+    },
+    {
+      "id": "021.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21º › Fracción III",
+      "texto": "III. Ser persona nativa de Jalisco o avecindada legalmente en él, cuando menos los dos años inmediatos anteriores al día de la elección;"
+    },
+    {
+      "id": "021.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21º › Fracción IV",
+      "texto": "IV. No ser Consejera o Consejero Electoral, o Secretariado Ejecutivo del Consejo General del Instituto Electoral;\n\nMagistrada o Magistrado del Tribunal Electoral, ni pertenecer al Servicio Profesional Electoral Nacional, a menos que se separe de sus funciones dos años antes del día de la elección;"
+    },
+    {
+      "id": "021.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21º › Fracción V",
+      "texto": "V. No poseer cargo de Dirección, Presidencia, Secretaría o Consejería de los Consejos Distritales o Municipales Electorales del Instituto Electoral, a menos que se separe de sus funciones ciento ochenta días antes del día de la elección;"
+    },
+    {
+      "id": "021.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21º › Fracción VI",
+      "texto": "VI. No poseer cargo de Presidencia o Consejería ciudadana de la Comisión Estatal de Derechos Humanos, a menos que se separe de sus funciones noventa días antes del día de la elección;"
+    },
+    {
+      "id": "021.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21º › Fracción VII",
+      "texto": "VII. No poseer cargo de Presidencia o comisionado del Instituto de Transparencia, Información Pública y Protección de Datos Personales del Estado de Jalisco, a menos que se separe de sus funciones noventa días antes del día de la elección;"
+    },
+    {
+      "id": "021.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21º › Fracción VIII",
+      "texto": "VIII. No estar en servicio activo en el Ejército Nacional, ni tener mando en la policía o en cuerpos de seguridad pública en el distrito en que se pretenda su elección, cuando menos sesenta días antes de ella;"
+    },
+    {
+      "id": "021.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21º › Fracción IX",
+      "texto": "IX. No ser titular de la Secretaría General de Gobierno o quien haga sus veces, de Secretaría del Despacho del Poder Ejecutivo, de la Fiscalía General del Estado, de la Fiscalía Especial en materia de Delitos Electorales, ni de la Procuraduría Social; Magistrada o Magistrado del Supremo Tribunal de Justicia, del Tribunal de Justicia Administrativa, Consejera o Consejero del Consejo de la Judicatura del Estado, Magistrada o Magistrado del Tribunal de Arbitraje y Escalafón; a no ser que se separe del cargo noventa días antes del día de la elección;"
+    },
+    {
+      "id": "021.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21º › Fracción X",
+      "texto": "X. No ser Juez o Jueza, Secretario o Secretaria de Juzgado, Secretario o Secretaria del Consejo de la Judicatura del Estado, Presidente o Presidenta Municipal, Regidor o Regidora, Síndico o Síndica, Secretario o Secretaria de Ayuntamiento o titular de alguna dependencia de recaudación fiscal de la Federación o del Estado en el distrito por el cual se postule, a menos que se separe de su cargo noventa días antes del día de la elección; y"
+    },
+    {
+      "id": "021.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21º › Fracción XI",
+      "texto": "XI. No tener sentencia condenatoria que haya causado estado, por el delito de violencia política contra las mujeres por razón de género, así como, no ser deudor alimentario declarado judicialmente moroso o, en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios.\n\nLas y los servidores públicos que hubiesen solicitado licencia para contender por una Diputación, podrán regresar a su cargo un día después del día de la elección."
+    }
+  ]
+}
