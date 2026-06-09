@@ -4,31 +4,30 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:9d04f750698fabea",
+    "hash_texto": "sha256:21a6c018e7780d9e",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Independencia Judicial",
+  "denominacion_comun": "Independencia del Poder Judicial",
   "temas": [
-    "independencia de los tribunales",
-    "funciones de los magistrados",
-    "remuneración del Poder Judicial",
-    "presupuesto del Poder Judicial",
-    "jurisprudencia",
-    "relaciones laborales en el Poder Judicial"
+    "independencia judicial",
+    "remuneración magistrados",
+    "presupuesto Poder Judicial",
+    "jurisdicción",
+    "evaluación judicial"
   ],
   "terminos_coloquiales": [
-    "tribunales independientes",
-    "sueldos de jueces",
-    "presupuesto del poder judicial",
-    "qué es la jurisprudencia",
-    "funciones de los magistrados"
+    "jueces independientes",
+    "sueldos de los jueces",
+    "dinero para el Poder Judicial",
+    "quién resuelve demandas",
+    "evaluación de jueces"
   ],
-  "resumen": "El artículo garantiza la independencia de los tribunales y de los jueces, así como su remuneración y el manejo autónomo del presupuesto. Establece también la manera en que se regirá la jurisprudencia y las relaciones laborales del personal del Poder Judicial.",
+  "resumen": "El artículo garantiza la independencia de los tribunales y la remuneración de sus miembros. También establece la creación y ejecución del presupuesto del Poder Judicial, así como la competencia y función de los mismos.",
   "preguntas_ejemplo": [
-    "¿Cómo se asegura la independencia de los jueces?",
-    "¿Cuánto ganan los magistrados y jueces?",
-    "¿Qué es la jurisprudencia y cómo funciona?",
-    "¿Quién elabora el presupuesto del Poder Judicial?",
-    "¿Cómo se manejan las controversias en el Poder Judicial?"
+    "¿Los jueces pueden actuar libremente?",
+    "¿Cómo se financia el Poder Judicial?",
+    "¿Los magistrados reciben el mismo sueldo?",
+    "¿Qué hace el Supremo Tribunal de Justicia?",
+    "¿Cómo se evalúan a los jueces?"
   ]
 }

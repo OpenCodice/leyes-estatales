@@ -4,41 +4,37 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:5f5b587cc192b09c",
+    "hash_texto": "sha256:e9950021ef3d66da",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Libertades y derechos sociales",
+  "denominacion_comun": "Derechos y Libertades",
   "temas": [
     "libertad de las personas",
     "participación social",
-    "desarrollo infantil",
-    "apoyo a adultos mayores",
-    "derechos de personas con discapacidad",
+    "apoyo a grupos vulnerables",
     "transparencia",
-    "patrimonio cultural",
-    "desarrollo sustentable",
-    "derecho al agua",
-    "corrupción"
+    "educación",
+    "cultura",
+    "desarrollo sostenible",
+    "derecho al medio ambiente",
+    "ciudadanía activa"
   ],
   "terminos_coloquiales": [
-    "derechos de la gente",
-    "participación ciudadana",
-    "ayuda a ancianos",
-    "apoyo a personas con discapacidad",
+    "libertad personal",
+    "derechos sociales",
+    "apoyo a jóvenes y ancianos",
+    "no a la corrupción",
+    "educación pública",
+    "cultura y tradiciones",
     "cuidado del medio ambiente",
-    "acceso a información pública",
-    "promoción de la cultura",
-    "programas de desarrollo",
-    "derecho al agua",
-    "lucha contra la corrupción"
+    "información pública"
   ],
-  "resumen": "El artículo establece que el Estado debe promover la libertad de las personas y su participación en varios ámbitos. También asegura el apoyo a familias, jóvenes, adultos mayores y personas con discapacidad, y resalta la importancia de la transparencia y la lucha contra la corrupción.",
+  "resumen": "Este artículo establece que el Estado debe asegurar las condiciones para que las personas ejerzan su libertad y participen en la vida social. También menciona la importancia de apoyar a grupos como la infancia, la juventud y los adultos mayores, y el combate a la corrupción.",
   "preguntas_ejemplo": [
-    "¿Qué derechos tiene la gente en Jalisco?",
-    "¿Cómo se apoya a los ancianos en el estado?",
-    "¿Qué se hace para promover la cultura en Jalisco?",
+    "¿Qué derechos tiene la gente para participar en la sociedad?",
+    "¿Cómo se protege a las personas con discapacidad?",
+    "¿Qué hace el Estado para garantizar la educación?",
     "¿Cómo se combate la corrupción en el gobierno?",
-    "¿Cuál es el derecho al agua que tenemos?",
-    "¿Qué medidas hay para ayudar a personas con discapacidad?"
+    "¿Qué medidas hay para proteger el medio ambiente?"
   ]
 }
