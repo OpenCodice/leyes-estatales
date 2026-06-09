@@ -1,0 +1,63 @@
+{
+  "clave": "058",
+  "etiqueta": "Artículo 58",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO VII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "058.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 1",
+      "texto": "Composición pluricultural, plurilingüe y pluriétnica de la Ciudad de México INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "058.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › 1.",
+      "texto": "1. Esta Constitución reconoce que la Ciudad de México tiene una composición pluricultural, plurilingüe y pluriétnica sustentada en sus pueblos y barrios originarios y comunidades indígenas residentes."
+    },
+    {
+      "id": "058.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › 2.",
+      "texto": "2. Se entenderá por pueblos y barrios originarios y comunidades indígenas residentes lo siguiente:"
+    },
+    {
+      "id": "058.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › inciso a)",
+      "texto": "a) Los pueblos y barrios originarios son aquellos que descienden de poblaciones asentadas en el territorio actual de la Ciudad de México desde antes de la colonización y del establecimiento de las fronteras actuales y que conservan sus propias instituciones sociales, económicas, culturales y políticas, sistemas normativos propios, tradición histórica, territorialidad y cosmovisión, o parte de ellas; y"
+    },
+    {
+      "id": "058.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › inciso b)",
+      "texto": "b) Las comunidades indígenas residentes son una unidad social, económica y cultural de personas que forman parte de pueblos indígenas de otras regiones del país, que se han asentado en la Ciudad de México y que en forma comunitaria reproducen total o parcialmente sus instituciones y tradiciones."
+    },
+    {
+      "id": "058.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › 3.",
+      "texto": "3. Se reconoce el derecho a la autoadscripción de los pueblos y barrios originarios y comunidades indígenas residentes y de sus integrantes. La conciencia de su identidad colectiva e individual, deberá ser criterio fundamental para determinar a los sujetos que se aplicarán las disposiciones en la materia contenidas en ésta Constitución."
+    }
+  ]
+}

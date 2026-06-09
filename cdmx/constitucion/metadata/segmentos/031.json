@@ -1,0 +1,72 @@
+{
+  "clave": "031",
+  "etiqueta": "Artículo 31",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "031.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › párrafo 1",
+      "texto": "De la Comisión Permanente"
+    },
+    {
+      "id": "031.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › 1.",
+      "texto": "1. La Comisión Permanente estará conformada por el veinte por ciento de los integrantes del Congreso de la Ciudad de México, además de una o un sustituto por cada integrante. Sesionará en los recesos a fin de desahogar proposiciones y comunicaciones; turnar las iniciativas y mociones a los órganos correspondientes. No podrá desahogar dictámenes de mociones, leyes, decretos ni designaciones."
+    },
+    {
+      "id": "031.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › 2.",
+      "texto": "2. El día que se decrete el periodo de receso del Congreso de la Ciudad de México, el pleno nombrará a la Comisión Permanente y a su mesa directiva, misma que deberá instalarse inmediatamente y funcionar hasta el reinicio del periodo ordinario."
+    },
+    {
+      "id": "031.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › 3.",
+      "texto": "3. La Comisión Permanente acordará por mayoría relativa la convocatoria del Congreso de la Ciudad de México a períodos extraordinarios, la cual deberá señalar el objeto de los mismos."
+    },
+    {
+      "id": "031.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › 4.",
+      "texto": "4. La Comisión Permanente tiene competencia para tomar protesta de las y los funcionarios, en los casos que determinen esta Constitución y las leyes, y autorizar, en su caso, viajes al extranjero de la o el Jefe de Gobierno bajo las condiciones que fije el ordenamiento."
+    },
+    {
+      "id": "031.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › 5.",
+      "texto": "5. La Comisión Permanente tiene competencia para aprobar solicitudes de licencia de las y los diputados y tomar protesta a los legisladores suplentes."
+    },
+    {
+      "id": "031.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › párrafo 2",
+      "texto": "DE LA FUNCIÓN EJECUTIVA"
+    }
+  ]
+}

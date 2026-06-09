@@ -1,0 +1,531 @@
+{
+  "clave": "021",
+  "etiqueta": "Artículo 21",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "021.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 1",
+      "texto": "De la Hacienda Pública"
+    },
+    {
+      "id": "021.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado A",
+      "texto": "A. Disposiciones generales INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "021.A.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado A › 1.",
+      "texto": "1. En la Ciudad de México el ejercicio pleno de los derechos se sustenta en el cumplimiento general de las obligaciones en el marco de la hacienda pública."
+    },
+    {
+      "id": "021.A.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado A › 2.",
+      "texto": "2. La hacienda de la Ciudad se organizará conforme a criterios de unidad presupuestaria y financiera. El gasto y la inversión pública, además de lo que establece esta Constitución, se orientarán a incrementar la infraestructura y el patrimonio públicos, a garantizar servicios de calidad, al impulso de la actividad económica, el empleo, el salario y a la mejora de la calidad de vida de la población."
+    },
+    {
+      "id": "021.A.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado A › 3.",
+      "texto": "3. La hacienda pública conciliará su naturaleza unitaria con la diversidad económica y social de la ciudad, mediante una equitativa distribución de los recursos y las responsabilidades."
+    },
+    {
+      "id": "021.A.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado A › 4.",
+      "texto": "4. La generalidad, la sustentabilidad, honradez, proporcionalidad, equidad, efectividad, austeridad, certidumbre, transparencia y rendición de cuentas, son los principios que rigen la hacienda pública."
+    },
+    {
+      "id": "021.A.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado A › 5.",
+      "texto": "5. La recaudación y administración de los recursos quedará a cargo de las autoridades fiscales de la Ciudad en los términos que establezca la ley, sin menoscabo de los convenios de colaboración en la materia que puedan suscribir las alcaldías con el gobierno local."
+    },
+    {
+      "id": "021.A.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado A › 6.",
+      "texto": "6. El Gobierno de la Ciudad, conforme a la ley de la materia, podrá contraer deuda pública para destinarla a inversiones públicas productivas y a su refinanciamiento o reestructura, mismas que deberán realizarse bajo las mejores condiciones del mercado. No podrá utilizarse para cubrir gasto corriente o de operación."
+    },
+    {
+      "id": "021.A.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado A › 7.",
+      "texto": "7. Ninguna información de carácter público podrá restringirse en su conocimiento a la ciudadanía y deberá cumplir con los parámetros de gobierno abierto."
+    },
+    {
+      "id": "021.A.8",
+      "tipo": "numeral",
+      "marca": "8",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado A › 8.",
+      "texto": "8. La Ciudad de México podrá establecer contribuciones de conformidad con lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la legislación federal y local."
+    },
+    {
+      "id": "021.A.9",
+      "tipo": "numeral",
+      "marca": "9",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado A › 9.",
+      "texto": "9. El Gobierno de la Ciudad garantizará que la información catastral y registral sea estructurada, normalizada, vinculada y sistematizada en una institución única, conforme lo establezca la ley de la materia."
+    },
+    {
+      "id": "021.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado A › párrafo 2",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "021.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado B",
+      "texto": "B. Ingresos"
+    },
+    {
+      "id": "021.B.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado B › 1.",
+      "texto": "1. La hacienda pública de la Ciudad se conforma por las contribuciones, productos y aprovechamientos que el Congreso de la Ciudad establezca, el financiamiento aprobado por el Congreso de la Unión, así como por las participaciones, aportaciones, transferencias u otros ingresos de origen federal por cualquier concepto, los rendimientos de los bienes que pertenezcan a la Ciudad y cualquier otro ingreso que en su derecho le corresponda."
+    },
+    {
+      "id": "021.B.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado B › 2.",
+      "texto": "2. En la planeación de las finanzas públicas de la Ciudad se considerarán los recursos que determine la Cámara de Diputados en el Presupuesto de Egresos de la Federación, así como las bases que la misma establezca para su ejercicio, a fin de apoyar a la Ciudad de México en su carácter de capital de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "021.B.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado B › 3.",
+      "texto": "3. El Congreso de la Ciudad podrá establecer contribuciones especiales a las actividades que ocasionen consecuencias perjudiciales sobre la salud o el ambiente."
+    },
+    {
+      "id": "021.B.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado B › 4.",
+      "texto": "4. Las autoridades definirán las políticas de estímulos y compensaciones fiscales en los términos y condiciones que señale la ley."
+    },
+    {
+      "id": "021.B.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado B › 5.",
+      "texto": "5. La ley regulará los mecanismos que faciliten a las personas el cumplimiento de sus obligaciones fiscales, así como las instancias y procedimientos para la defensa de los derechos de los contribuyentes."
+    },
+    {
+      "id": "021.B.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado B › 6.",
+      "texto": "6. El Congreso de la Ciudad de México, de conformidad con la ley en materia de disciplina financiera de las entidades federativas y en la legislación local, en lo conducente, regulará la asignación de ingresos excedentes, excepcionales y remanentes; así como los procedimientos para efectuar las reducciones presupuestarias cuando la situación financiera lo requiera."
+    },
+    {
+      "id": "021.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado C",
+      "texto": "C. Egresos"
+    },
+    {
+      "id": "021.C.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado C › 1.",
+      "texto": "1. El Presupuesto de Egresos de los Poderes, las alcaldías y de todo organismo autónomo; se sujetará a las previsiones de ingresos de la hacienda pública de la Ciudad en los términos de la Constitución Política de los Estados Unidos Mexicanos, de esta Constitución, la normatividad general y local aplicable y los lineamientos propios que deriven de su autonomía, en materia de disciplina financiera, ejercicio y control presupuestario."
+    },
+    {
+      "id": "021.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado C › párrafo 3",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "021.C.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado C › 2.",
+      "texto": "2. El Presupuesto de Egresos deberá apegarse estrictamente a los objetivos y metas establecidos en el Plan General y los programas de desarrollo."
+    },
+    {
+      "id": "021.C.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado C › 3.",
+      "texto": "3. Ninguna autoridad podrá contraer obligaciones que impliquen erogaciones no comprendidas en sus presupuestos o determinadas por ley posterior."
+    },
+    {
+      "id": "021.C.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado C › 4.",
+      "texto": "4. Los resultados de las evaluaciones a programas, políticas públicas y proyectos de inversión a cargo del Consejo de Evaluación de la Ciudad de México se considerarán en el proceso presupuestario e incidirán para la orientación del gasto público."
+    },
+    {
+      "id": "021.C.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado C › 5.",
+      "texto": "5. La información y análisis sobre los egresos, el impacto presupuestal de iniciativas de ley y las estimaciones económicas y financieras de la Ciudad elaborados por la oficina presupuestal del Congreso de la Ciudad, serán considerados en la aprobación del Presupuesto de Egresos."
+    },
+    {
+      "id": "021.C.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado C › 6.",
+      "texto": "6. El Gobierno de la Ciudad podrá celebrar contratos multianuales de gasto, en los términos de la legislación aplicable en la materia, los cuales se deriven de contratos de obra pública, adquisiciones, arrendamientos y servicios."
+    },
+    {
+      "id": "021.C.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado C › 7.",
+      "texto": "7. El Gobierno de la Ciudad deberá transferir a las Alcaldías, con oportunidad y mediante calendarios públicos de ministración, los recursos públicos que de acuerdo a la ley, les correspondan."
+    },
+    {
+      "id": "021.D",
+      "tipo": "apartado",
+      "marca": "D",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado D",
+      "texto": "D. Alcaldías"
+    },
+    {
+      "id": "021.D.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado D › Fracción I",
+      "texto": "I. De los ingresos Sujeto a las previsiones de ingresos de la hacienda pública de la Ciudad de México, las alcaldías contarán con los recursos públicos siguientes:"
+    },
+    {
+      "id": "021.D.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "D",
+      "fraccion": "I",
+      "ruta": "Artículo 21 › Apartado D › Fracción I › inciso a)",
+      "texto": "a) Las participaciones, aportaciones y demás ingresos de procedencia federal, de conformidad con las leyes de la materia;"
+    },
+    {
+      "id": "021.D.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "D",
+      "fraccion": "I",
+      "ruta": "Artículo 21 › Apartado D › Fracción I › inciso b)",
+      "texto": "b) Los recursos de aplicación automática que generen;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "021.D.I.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "D",
+      "fraccion": "I",
+      "ruta": "Artículo 21 › Apartado D › Fracción I › inciso c)",
+      "texto": "c) Las asignaciones determinadas para sus presupuestos, contempladas en el Presupuesto de Egresos de la Ciudad de México; y"
+    },
+    {
+      "id": "021.D.I.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "D",
+      "fraccion": "I",
+      "ruta": "Artículo 21 › Apartado D › Fracción I › inciso d)",
+      "texto": "d) Los ingresos provenientes del fondo establecido en el artículo 55 de esta Constitución."
+    },
+    {
+      "id": "021.D.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado D › Fracción II",
+      "texto": "II. Bases para la determinación de criterios y fórmulas"
+    },
+    {
+      "id": "021.D.II.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "D",
+      "fraccion": "II",
+      "ruta": "Artículo 21 › Apartado D › Fracción II › 1.",
+      "texto": "1. El Congreso de la Ciudad de México expedirá las normas correspondientes en materia hacendaria, las cuales establecerán los criterios y fórmulas para la asignación presupuestal a las demarcaciones territoriales, de conformidad con lo siguiente:"
+    },
+    {
+      "id": "021.D.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "D",
+      "fraccion": "II",
+      "ruta": "Artículo 21 › Apartado D › Fracción II › inciso a)",
+      "texto": "a) Para la asignación del gasto público se considerará: población residente y flotante; población en situación de pobreza; marginación y rezago social;\n\nextensión territorial, áreas verdes y suelo de conservación; inversión en infraestructura, servicios públicos y equipamiento urbano, así como su mantenimiento;"
+    },
+    {
+      "id": "021.D.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "D",
+      "fraccion": "II",
+      "ruta": "Artículo 21 › Apartado D › Fracción II › inciso b)",
+      "texto": "b) Las participaciones federales se aplicarán conforme a los porcentajes y criterios establecidos en la normatividad aplicable;"
+    },
+    {
+      "id": "021.D.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "D",
+      "fraccion": "II",
+      "ruta": "Artículo 21 › Apartado D › Fracción II › inciso c)",
+      "texto": "c) El presupuesto asignado a las alcaldías, proveniente de los recursos señalados en el inciso c), fracción I del presente apartado, no podrá ser menor en términos porcentuales, a lo que éste representó en el ejercicio fiscal inmediato anterior, respecto al presupuesto total de la Ciudad de México, salvo los casos excepcionales que la ley determine."
+    },
+    {
+      "id": "021.D.II.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "D",
+      "fraccion": "II",
+      "ruta": "Artículo 21 › Apartado D › Fracción II › 2.",
+      "texto": "2. El Fondo establecido en el artículo 55, de la presente Constitución será adicional al monto que reciban las alcaldías por los conceptos de los incisos a), b) y c) de la fracción I del presente apartado, a la fecha de entrada en vigor de las disposiciones contenidas en este precepto."
+    },
+    {
+      "id": "021.D.II.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "D",
+      "fraccion": "II",
+      "ruta": "Artículo 21 › Apartado D › Fracción II › 3.",
+      "texto": "3. A este fondo, se le deberá destinar el monto equivalente al dos por ciento de lo que resulte de restar, al total de los ingresos de libre disposición, los recursos propios de los organismos, el gasto no programable del Gobierno de la Ciudad de México, y el presupuesto destinado a los organismos autónomos y de gobierno."
+    },
+    {
+      "id": "021.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado D › párrafo 4",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "021.D.II.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "D",
+      "fraccion": "II",
+      "ruta": "Artículo 21 › Apartado D › Fracción II › 4.",
+      "texto": "4. La orientación de este fondo se establece en el artículo 55 de esta Constitución. Su ejercicio deberá de apegarse a la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios y a la legislación que al efecto emita el Congreso de la Ciudad de México, así como a la normatividad que en materia de ejercicio y fiscalización emita la autoridad local. Las alcaldías ejercerán estos recursos con base en un programa de inversión en infraestructura, equipamiento urbano y servicios públicos."
+    },
+    {
+      "id": "021.D.II.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "D",
+      "fraccion": "II",
+      "ruta": "Artículo 21 › Apartado D › Fracción II › 5.",
+      "texto": "5. Este fondo deberá ser transparente en su aplicación, con informes trimestrales sobre su ejercicio al concejo, al Congreso, a las instancias de auditoría correspondientes y a las y los ciudadanos."
+    },
+    {
+      "id": "021.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado D › párrafo 5",
+      "texto": "En ningún caso los recursos de este fondo podrán transferirse a otros rubros o partidas de gasto."
+    },
+    {
+      "id": "021.D.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado D › Fracción III",
+      "texto": "III. De la autonomía del ejercicio presupuestal"
+    },
+    {
+      "id": "021.D.III.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "D",
+      "fraccion": "III",
+      "ruta": "Artículo 21 › Apartado D › Fracción III › 1.",
+      "texto": "1. En el ejercicio de sus presupuestos, las alcaldías gozarán de las facultades siguientes:"
+    },
+    {
+      "id": "021.D.III.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "D",
+      "fraccion": "III",
+      "ruta": "Artículo 21 › Apartado D › Fracción III › inciso a)",
+      "texto": "a) Elaborar el Presupuesto de Egresos de sus demarcaciones, el cual será aprobado por su respectivo concejo, y se enviará a la o el Jefe de Gobierno para su integración al proyecto de Presupuesto de Egresos de la Ciudad;"
+    },
+    {
+      "id": "021.D.III.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "D",
+      "fraccion": "III",
+      "ruta": "Artículo 21 › Apartado D › Fracción III › inciso b)",
+      "texto": "b) Administrar y ejercer con autonomía sus presupuestos, sujetándose a las leyes y reglamentos de la materia;"
+    },
+    {
+      "id": "021.D.III.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "D",
+      "fraccion": "III",
+      "ruta": "Artículo 21 › Apartado D › Fracción III › inciso c)",
+      "texto": "c) Elaborar y programar los calendarios presupuestales;"
+    },
+    {
+      "id": "021.D.III.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "D",
+      "fraccion": "III",
+      "ruta": "Artículo 21 › Apartado D › Fracción III › inciso d)",
+      "texto": "d) Disponer de los recursos asignados en sus presupuestos y efectuar los pagos con cargo a los mismos, conforme a las ministraciones de recursos que reciban, debiendo registrar y contabilizar sus operaciones en el sistema de contabilidad gubernamental, de acuerdo con la normatividad federal y local de la materia;"
+    },
+    {
+      "id": "021.D.III.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "D",
+      "fraccion": "III",
+      "ruta": "Artículo 21 › Apartado D › Fracción III › inciso e)",
+      "texto": "e) Autorizar las adecuaciones presupuestarias, de conformidad con la ley;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "021.D.III.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "D",
+      "fraccion": "III",
+      "ruta": "Artículo 21 › Apartado D › Fracción III › inciso f)",
+      "texto": "f) Determinar, en los casos de aumento o disminución de ingresos en el presupuesto, los ajustes que correspondan sujetándose a la normatividad aplicable; y"
+    },
+    {
+      "id": "021.D.III.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "D",
+      "fraccion": "III",
+      "ruta": "Artículo 21 › Apartado D › Fracción III › inciso g)",
+      "texto": "g) Captar, registrar, administrar y ejercer los recursos de aplicación automática que generen."
+    },
+    {
+      "id": "021.D.III.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "D",
+      "fraccion": "III",
+      "ruta": "Artículo 21 › Apartado D › Fracción III › 2.",
+      "texto": "2. Del presupuesto que el Congreso de la Ciudad les autorice en el correspondiente Decreto de Presupuesto de Egresos, cada una de las alcaldías deberá destinar al menos el 22% a proyectos de inversión en Infraestructura, equipamiento urbano y servicios públicos en todas las colonias, pueblos, barrios originarios y comunidades indígenas de la demarcación territorial. Dentro de este porcentaje se incluyen los recursos que la Alcaldía ejerza con cargo al fondo referido al apartado D, fracción II de este artículo."
+    },
+    {
+      "id": "021.D.III.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "D",
+      "fraccion": "III",
+      "ruta": "Artículo 21 › Apartado D › Fracción III › 3.",
+      "texto": "3. La Auditoría Superior de la Ciudad de México fiscalizará que las alcaldías cumplan con lo señalado en el numeral anterior."
+    },
+    {
+      "id": "021.D.III.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "D",
+      "fraccion": "III",
+      "ruta": "Artículo 21 › Apartado D › Fracción III › 4.",
+      "texto": "4. Las alcaldías no podrán, en ningún caso, contraer directa o indirectamente obligaciones o empréstitos."
+    },
+    {
+      "id": "021.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Apartado D › párrafo 6",
+      "texto": "DE LA CIUDADANÍA Y EL EJERCICIO DEMOCRÁTICO DE LAS PERSONAS ORIGINARIAS Y DE LAS QUE HABITAN LA CIUDAD DE MÉXICO"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "clave": "001",
+  "etiqueta": "Artículo 1",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "001.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 1",
+      "texto": "De la Ciudad de México"
+    },
+    {
+      "id": "001.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › 1.",
+      "texto": "1. La Ciudad de México es una entidad integrante de la Federación, sede de los Poderes de la Unión y capital de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "001.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › 2.",
+      "texto": "2. En la Ciudad la soberanía reside esencial y originariamente en el pueblo, quien la ejerce por conducto de sus poderes públicos y las figuras de democracia directa y participativa, a fin de preservar, ampliar, proteger y garantizar los derechos humanos y el desarrollo integral y progresivo de la sociedad."
+    },
+    {
+      "id": "001.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 2",
+      "texto": "Todo poder público dimana del pueblo y se instituye para beneficio de éste."
+    },
+    {
+      "id": "001.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › 3.",
+      "texto": "3. La Ciudad adopta para su gobierno la forma republicana, democrática, representativa, laica y popular, bajo un sistema de división de poderes, pluralismo político y participación social."
+    },
+    {
+      "id": "001.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › 4.",
+      "texto": "4. La Ciudad es libre y autónoma en todo lo concerniente a su régimen interior y a su organización política y administrativa."
+    },
+    {
+      "id": "001.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › 5.",
+      "texto": "5. Las autoridades de la Ciudad ejercen las facultades que les otorga la Constitución Política de los Estados Unidos Mexicanos, todas aquellas que ésta no concede expresamente a los funcionarios federales y las previstas en esta Constitución."
+    },
+    {
+      "id": "001.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › 6.",
+      "texto": "6. Para la construcción del futuro la Ciudad impulsa la sociedad del conocimiento, la educación integral e inclusiva, la investigación científica, la innovación tecnológica y la difusión del saber."
+    },
+    {
+      "id": "001.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › 7.",
+      "texto": "7. La sustentabilidad de la Ciudad exige eficiencia en el uso del territorio, así como en la gestión de bienes públicos, infraestructura, servicios y equipamiento. De ello depende su competitividad, productividad y prosperidad."
+    },
+    {
+      "id": "001.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 3",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "001.8",
+      "tipo": "numeral",
+      "marca": "8",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › 8.",
+      "texto": "8. El territorio de la Ciudad de México es el que actualmente tiene de conformidad con el artículo 44 de la Constitución Política de los Estados Unidos Mexicanos. Sus límites geográficos son los fijados por los decretos del 15 y 17 de diciembre de 1898 expedidos por el Congreso de la Unión."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "clave": "065",
+  "etiqueta": "Artículo 65",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "065.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › párrafo 1",
+      "texto": "De la responsabilidad política"
+    },
+    {
+      "id": "065.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › 1.",
+      "texto": "1. Quienes ocupen un cargo de elección popular, ostenten un cargo de magistratura dentro de la función judicial, sean titulares del Consejo de la Judicatura de la Ciudad, de los organismos autónomos, de las secretarías del gabinete, de la consejería jurídica del Poder Ejecutivo, del sistema anticorrupción, de los organismos descentralizados o fideicomisos, así como todo servidor público que haya sido nombrado o ratificado por el Congreso serán sujetos de juicio político por violaciones graves a esta Constitución y las leyes que de ella emanen, así como por el manejo indebido de fondos y recursos públicos de la Ciudad de México."
+    },
+    {
+      "id": "065.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › 2.",
+      "texto": "2. Toda solicitud deberá ser presentada ante el Congreso de la Ciudad y dictaminada en un plazo no mayor a treinta días. En su sustanciación se citará a comparecer ante el Congreso de la Ciudad al acusado a efecto de respetar su garantía de audiencia. Cumplido este requisito, el pleno determinará mediante resolución de las dos terceras partes de los miembros presentes en sesión, si ha lugar a separarlo del cargo."
+    },
+    {
+      "id": "065.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › párrafo 2",
+      "texto": "Las sanciones consistirán en la destitución de la persona servidora pública y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público."
+    },
+    {
+      "id": "065.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › párrafo 3",
+      "texto": "No procede el juicio político por la mera expresión de ideas."
+    },
+    {
+      "id": "065.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › párrafo 4",
+      "texto": "Las resoluciones emitidas en esta materia por el Congreso de la Ciudad son inatacables."
+    }
+  ]
+}

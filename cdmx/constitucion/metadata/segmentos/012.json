@@ -1,0 +1,36 @@
+{
+  "clave": "012",
+  "etiqueta": "Artículo 12",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "012.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › párrafo 1",
+      "texto": "Derecho a la Ciudad"
+    },
+    {
+      "id": "012.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › 1.",
+      "texto": "1. La Ciudad de México garantiza el derecho a la ciudad que consiste en el uso y el usufructo pleno y equitativo de la ciudad, fundado en principios de justicia social, democracia, participación, igualdad, sustentabilidad, de respeto a la diversidad cultural, a la naturaleza y al medio ambiente."
+    },
+    {
+      "id": "012.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › 2.",
+      "texto": "2. El derecho a la ciudad es un derecho colectivo que garantiza el ejercicio pleno de los derechos humanos, la función social de la ciudad, su gestión democrática y asegura la justicia territorial, la inclusión social y la distribución equitativa de bienes públicos con la participación de la ciudadanía."
+    }
+  ]
+}

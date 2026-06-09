@@ -1,0 +1,63 @@
+{
+  "clave": "050",
+  "etiqueta": "Artículo 50",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "050.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 1",
+      "texto": "Instituto Electoral de la Ciudad de México"
+    },
+    {
+      "id": "050.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › 1.",
+      "texto": "1. La organización, desarrollo y vigilancia de los procesos electorales para las elecciones de Jefatura de Gobierno, diputaciones al Congreso y alcaldías de la Ciudad de México, así como de los procesos de participación ciudadana en la Ciudad, mediante los cuales se ejerce la ciudadanía, son funciones que se realizan a través del Instituto Electoral de la Ciudad de México. Asimismo, tendrá a su cargo el diseño e implementación de las estrategias, programas, materiales y demás acciones orientadas al fomento de la educación cívica y la construcción de ciudadanía."
+    },
+    {
+      "id": "050.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › 2.",
+      "texto": "2. Este Instituto contará con un órgano superior de dirección, integrado por una persona Consejera o Consejero Presidente y seis personas Consejeras Electorales, con derecho a voz y voto, designadas por el Consejo General del Instituto Nacional Electoral. Asimismo, se integrará con un Secretario Ejecutivo y representantes de los partidos políticos con registro nacional o local, quienes concurrirán a las sesiones sólo con derecho a voz. Participarán también como invitadas e invitados permanentes a las sesiones del Consejo, sólo con derecho a voz, una o un diputado de cada grupo parlamentario del Congreso de la Ciudad."
+    },
+    {
+      "id": "050.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › 3.",
+      "texto": "3. En el ejercicio de esta función, serán principios rectores la certeza, legalidad, independencia, imparcialidad, objetividad y máxima publicidad."
+    },
+    {
+      "id": "050.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › 4.",
+      "texto": "4. El Instituto Electoral de la Ciudad de México ejercerá las atribuciones que le confieren la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes de la materia."
+    },
+    {
+      "id": "050.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 2",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    }
+  ]
+}

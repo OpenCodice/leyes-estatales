@@ -1,0 +1,504 @@
+{
+  "clave": "010",
+  "etiqueta": "Artículo 10",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "010.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 1",
+      "texto": "Ciudad productiva"
+    },
+    {
+      "id": "010.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado A",
+      "texto": "A. Derecho al desarrollo sustentable Toda persona tiene derecho a participar en un desarrollo económico, social, cultural y político en el que puedan realizarse plenamente todos los derechos humanos y libertades fundamentales."
+    },
+    {
+      "id": "010.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B",
+      "texto": "B. Derecho al trabajo"
+    },
+    {
+      "id": "010.B.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › 1.",
+      "texto": "1. La Ciudad de México tutela el derecho humano al trabajo, así como la promoción de habilidades para el emprendimiento, que generan valor mediante la producción de bienes y INSTITUTO DE INVESTIGACIONES LEGISLATIVAS servicios, así como en la reproducción de la sociedad. Asimismo, valora, fomenta y protege todo tipo de trabajo lícito, sea o no subordinado. El respeto a los derechos humanos laborales estará presente en todas las políticas públicas y en la estrategia de desarrollo de la Ciudad."
+    },
+    {
+      "id": "010.B.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › 2.",
+      "texto": "2. En la Ciudad de México todas las personas gozan de los derechos humanos en materia laboral reconocidos por la Constitución Política de los Estados Unidos Mexicanos, los tratados e instrumentos internacionales, esta Constitución y las leyes que de ella emanen."
+    },
+    {
+      "id": "010.B.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › 3.",
+      "texto": "3. Toda persona que desempeñe una ocupación en la ciudad, temporal o permanente, asalariada o no, tendrá derecho a ejercer un trabajo digno."
+    },
+    {
+      "id": "010.B.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › 4.",
+      "texto": "4. Las autoridades de la Ciudad, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, con las leyes aplicables y en el ámbito de sus competencias, promoverán:"
+    },
+    {
+      "id": "010.B.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › inciso a)",
+      "texto": "a) El cumplimiento de los programas que tengan por objeto identificar y erradicar el trabajo infantil esclavo y forzado, así como la discriminación laboral;"
+    },
+    {
+      "id": "010.B.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › inciso b)",
+      "texto": "b) La igualdad sustantiva en el trabajo y el salario;"
+    },
+    {
+      "id": "010.B.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › inciso c)",
+      "texto": "c) La generación de condiciones para el pleno empleo, el salario remunerador, el aumento de los ingresos reales de las personas trabajadoras y el incremento de los empleos formales;"
+    },
+    {
+      "id": "010.B.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › inciso d)",
+      "texto": "d) La realización de las tareas de inspección del trabajo. Las autoridades deberán otorgar los medios idóneos para su adecuado funcionamiento; y"
+    },
+    {
+      "id": "010.B.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › inciso e)",
+      "texto": "e) La protección eficaz de las personas trabajadoras frente a los riesgos de trabajo, incluyendo los riesgos psicosociales y ergonómicos, y el desarrollo de las labores productivas en un ambiente que garantice la seguridad, salud, higiene y bienestar."
+    },
+    {
+      "id": "010.B.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › 5.",
+      "texto": "5. Las autoridades de la Ciudad establecerán, de conformidad con las leyes aplicables y en el ámbito de sus competencias, programas de:"
+    },
+    {
+      "id": "010.B.a~2",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › inciso a)",
+      "texto": "a) Capacitación, adiestramiento, formación profesional y de acceso al empleo y a otras actividades productivas, así como servicios de asesoría y defensoría gratuitos, necesarios INSTITUTO DE INVESTIGACIONES LEGISLATIVAS para que las personas trabajadoras y sus organizaciones conozcan y ejerzan sus derechos a través de la autoridad competente. La realización de las tareas de inspección del trabajo atenderá los requerimientos de la defensoría laboral."
+    },
+    {
+      "id": "010.B.b~2",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › inciso b)",
+      "texto": "b) Seguro de desempleo, proporcionando a las personas beneficiarias los recursos y las condiciones necesarias para una vida digna, en tanto encuentran una actividad productiva;"
+    },
+    {
+      "id": "010.B.c~2",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › inciso c)",
+      "texto": "c) Fomento a la formalización de los empleos;"
+    },
+    {
+      "id": "010.B.d~2",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › inciso d)",
+      "texto": "d) Protección efectiva de los derechos de las personas trabajadoras del hogar, así como de los cuidadores de enfermos, promoviendo la firma de contratos entre éstas y sus empleadores. Su acceso a la seguridad social se realizará en los términos y condiciones que establezcan los programas, leyes y demás disposiciones de carácter federal aplicables en la materia;"
+    },
+    {
+      "id": "010.B.e~2",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › inciso e)",
+      "texto": "e) Protección especial de grupos de atención prioritaria y personas trabajadoras que por su condición de vulnerabilidad requieren de una atención especial;"
+    },
+    {
+      "id": "010.B.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › inciso f)",
+      "texto": "f) Reconocimiento del trabajo del hogar y de cuidados como generadores de bienes y servicios para la producción y reproducción social, y"
+    },
+    {
+      "id": "010.B.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › inciso g)",
+      "texto": "g) Promoción de mecanismos de conciliación entre trabajo y familia, incluyendo la movilidad geográfica voluntaria en razón de la proximidad del centro de trabajo y el domicilio de la persona trabajadora, con el acuerdo de los patrones o empleadores."
+    },
+    {
+      "id": "010.B.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › 6.",
+      "texto": "6. Las autoridades, en el ámbito de sus competencias y en los términos de la legislación aplicable, deben salvaguardar el derecho de asociación sindical a las personas trabajadoras y empleadores, así como la protección contra todo acto de discriminación tendiente a menoscabar la libertad sindical, incluyendo la injerencia de las autoridades o los empleadores en la vida sindical."
+    },
+    {
+      "id": "010.B.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › 7.",
+      "texto": "7. Las autoridades promoverán la negociación colectiva por rama de industria y cadena productiva para conciliar el reconocimiento al trabajo, modelos laborales sustentables, uso racional de los recursos humanos y desarrollo de los sectores productivos."
+    },
+    {
+      "id": "010.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › párrafo 2",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "010.B.8",
+      "tipo": "numeral",
+      "marca": "8",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › 8.",
+      "texto": "8. Las autoridades velarán por el respeto a la libertad y a la democracia sindical, incluyendo el derecho a elegir libremente a sus representantes sindicales y a participar en los procesos de firma y terminación de los contratos colectivos de trabajo mediante el voto personal, libre y secreto. La ley garantizará el cumplimiento de estos principios. Con base en lo anterior, para la elección de dirigentes, los estatutos sindicales podrán fijar modalidades procedimentales aplicables a los respectivos procesos."
+    },
+    {
+      "id": "010.B.9",
+      "tipo": "numeral",
+      "marca": "9",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › 9.",
+      "texto": "9. Las autoridades, en el ámbito de sus competencias, garantizarán el derecho al acceso a la información pública en materia laboral que obre en su poder."
+    },
+    {
+      "id": "010.B.10",
+      "tipo": "numeral",
+      "marca": "10",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › 10.",
+      "texto": "10. Las autoridades administrativas y el Poder Judicial de la Ciudad de México, en el ámbito de sus competencias, garantizarán una justicia laboral honesta, imparcial, profesional, pronta, expedita, pública y gratuita, que incluya los servicios de conciliación y mediación."
+    },
+    {
+      "id": "010.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › párrafo 3",
+      "texto": "Antes de acudir a los tribunales laborales, las personas trabajadoras y patronas deberán comparecer a la instancia conciliatoria correspondiente. En la Ciudad de México, la función conciliatoria estará a cargo de un Centro de Conciliación, especializado e imparcial. Será un organismo público descentralizado del Gobierno de la Ciudad de México con personalidad jurídica y patrimonio propio con autonomía técnica, operativa, presupuestaria, de decisión y de gestión."
+    },
+    {
+      "id": "010.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › párrafo 4",
+      "texto": "Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración, funcionamiento, sectorización y atribuciones, se determinarán en su ley correspondiente."
+    },
+    {
+      "id": "010.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › párrafo 5",
+      "texto": "La ley determinará el procedimiento que se deberá observar en la instancia conciliatoria, así como las reglas para que los convenios laborales adquieran condición de cosa juzgada para su ejecución. En todo caso, la etapa de conciliación consistirá en una sola audiencia obligatoria. Las subsecuentes audiencias de conciliación sólo se realizarán con el acuerdo de las partes en conflicto"
+    },
+    {
+      "id": "010.B.11",
+      "tipo": "numeral",
+      "marca": "11",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › 11.",
+      "texto": "11. Las autoridades impulsarán la constitución y funcionamiento de cooperativas de las personas trabajadoras y otras formas de organización productiva del sector social de la economía, que contribuyan al desarrollo económico de la Ciudad y el mejoramiento de las condiciones de vida de sus habitantes."
+    },
+    {
+      "id": "010.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › párrafo 6",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "010.B.12",
+      "tipo": "numeral",
+      "marca": "12",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › 12.",
+      "texto": "12. Las personas trabajadoras no asalariadas, prestadoras de servicios por cuenta propia, que producen bienes y artesanías y comerciantes, tienen derecho a realizar un trabajo digno y a poseer una identidad formal en la Ciudad de México, a asociarse para defender sus intereses, recibir capacitación, y las demás que establezca la legislación en la materia."
+    },
+    {
+      "id": "010.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › párrafo 7",
+      "texto": "Las autoridades de la Ciudad garantizarán a los locatarios de los mercados públicos condiciones sanitarias, certeza y seguridad jurídica adecuadas. Conservarán sus derechos adquiridos y gozarán de los mismos derechos que esta Constitución y las leyes reconocen a las personas trabajadoras no asalariadas."
+    },
+    {
+      "id": "010.B.13",
+      "tipo": "numeral",
+      "marca": "13",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › 13.",
+      "texto": "13. Los derechos de las personas trabajadoras no asalariadas, prestadoras de servicios por cuenta propia y comerciantes que realicen sus actividades en el espacio público serán ejercidos a través del establecimiento de zonas especiales de comercio y de cultura popular en los términos que defina la ley con la participación de los propios trabajadores."
+    },
+    {
+      "id": "010.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › párrafo 8",
+      "texto": "La ley determinará los mecanismos para un proceso gradual de regularización, formalización y regulación en materia urbana, de espacio público, fiscal, de salud pública y de seguridad social."
+    },
+    {
+      "id": "010.B.14",
+      "tipo": "numeral",
+      "marca": "14",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › 14.",
+      "texto": "14. Las autoridades de la Ciudad, en el ámbito de sus competencias y de conformidad con lo previsto por la ley protegerán los derechos laborales de las personas deportistas profesionales, de disciplinas artísticas, trabajadoras de la cultura y locatarios de mercados públicos."
+    },
+    {
+      "id": "010.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado C",
+      "texto": "C. De las relaciones de las instituciones públicas de la Ciudad, con sus personas trabajadoras."
+    },
+    {
+      "id": "010.C.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado C › 1.",
+      "texto": "1. Las personas trabajadoras que presten sus servicios en los poderes Legislativo, Ejecutivo y Judicial de la Ciudad, en los organismos autónomos y en las alcaldías, tienen derecho a la plena libertad de asociación sindical, tanto en sindicatos como en federaciones según convenga a sus intereses, en el marco de un modelo democrático que permita el pleno ejercicio de los derechos y el cumplimiento de las obligaciones en la materia. Se garantizará el voto libre, universal y secreto para la elección de los dirigentes sindicales y de los representantes y delegados en los términos que fije la ley."
+    },
+    {
+      "id": "010.C.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado C › 2.",
+      "texto": "2. Se garantiza el derecho de huelga, en los términos previstos por la ley."
+    },
+    {
+      "id": "010.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado C › párrafo 9",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "010.C.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado C › 3.",
+      "texto": "3. Las personas trabajadoras gozarán de los derechos establecidos en los contratos colectivos y condiciones generales de trabajo, mismos que no podrán ser menores que los reconocidos por esta Constitución. El principio de bilateralidad regirá en las negociaciones de las condiciones de trabajo, prevaleciendo los criterios de pluralidad y respeto a las minorías. La administración de los contratos colectivos se hará por el conjunto de las representaciones sindicales en razón de la proporción de sus trabajadores, en los términos fijados por la ley."
+    },
+    {
+      "id": "010.C.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado C › 4.",
+      "texto": "4. Las autoridades garantizarán que en las relaciones de trabajo no existan formas de simulación y contratación precaria que tiendan a desvirtuar la existencia, naturaleza y duración de las mismas."
+    },
+    {
+      "id": "010.C.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado C › 5.",
+      "texto": "5. Los empleados de confianza disfrutarán de las medidas de protección al salario y gozarán de los beneficios de la seguridad social. En caso de despido injustificado tendrán derecho a una indemnización de tres meses de salario más veinte días de salario por cada año de servicio prestados."
+    },
+    {
+      "id": "010.C.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado C › 6.",
+      "texto": "6. Las autoridades de la Ciudad garantizarán a sus trabajadoras y trabajadores un salario remunerador en los términos reconocidos por esta Constitución y que en ningún caso deberá de ser menor al doble del salario mínimo general vigente en el país."
+    },
+    {
+      "id": "010.C.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado C › 7.",
+      "texto": "7. La modernización de las relaciones de trabajo en el sector público se debe construir a partir de un esquema de formación profesional, salario remunerador y ejercicio de los derechos individuales y colectivos, incluyendo a las personas trabajadoras de base."
+    },
+    {
+      "id": "010.C.8",
+      "tipo": "numeral",
+      "marca": "8",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado C › 8.",
+      "texto": "8. Se garantizará que por cada cinco días de trabajo deberán disfrutarse de dos días de descanso."
+    },
+    {
+      "id": "010.C.9",
+      "tipo": "numeral",
+      "marca": "9",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado C › 9.",
+      "texto": "9. Los conflictos laborales que se presenten entre las instituciones públicas de la Ciudad y sus personas trabajadoras, así como aquellos que se presenten entre organizaciones sindicales o al interior de estas, serán dirimidos por un Tribunal Burocrático en los términos establecidos por la ley."
+    },
+    {
+      "id": "010.C.10",
+      "tipo": "numeral",
+      "marca": "10",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado C › 10.",
+      "texto": "10. El Gobierno de la Ciudad será garante y responsable de todos los derechos de las personas trabajadoras del poder Ejecutivo y de sus alcaldías."
+    },
+    {
+      "id": "010.D",
+      "tipo": "apartado",
+      "marca": "D",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado D",
+      "texto": "D. Inversión social productiva INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "010.D.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado D › 1.",
+      "texto": "1. El Gobierno de la Ciudad de México, establecerá programas y designará presupuesto para el fomento al emprendimiento y el impulso a las actividades económicas tendientes al desarrollo económico, social y el empleo en la Ciudad."
+    },
+    {
+      "id": "010.D.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado D › 2.",
+      "texto": "2. Las autoridades contribuirán a la generación de un entorno favorable a la innovación productiva, a la creación de nuevas empresas, al desarrollo y crecimiento de las empresas de reciente creación y a las ya existentes que propicien de manera dinámica, integral y permanente el bienestar económico y social de la Ciudad."
+    },
+    {
+      "id": "010.E",
+      "tipo": "apartado",
+      "marca": "E",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado E",
+      "texto": "E. De las y los campesinos y pequeños propietarios rurales"
+    },
+    {
+      "id": "010.E.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado E › 1.",
+      "texto": "1. La Ciudad de México tutela los derechos de toda persona campesina y todo propietario rural y promueve su participación en la adopción de políticas para el desarrollo de sus actividades, con pleno respeto a la propiedad social y la propiedad privada."
+    },
+    {
+      "id": "010.E.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado E › 2.",
+      "texto": "2. Las autoridades de la Ciudad adoptarán las medidas necesarias para salvaguardar el ejercicio de sus libertades en la determinación de las formas y modalidades de producción, comercialización y distribución, con el objetivo de lograr el bienestar de la población campesina."
+    },
+    {
+      "id": "010.E.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado E › 3.",
+      "texto": "3. Asimismo, las autoridades de la Ciudad estimularán y apoyarán los cultivos agropecuarios tradicionales, la organización familiar y cooperativa de producción y su transformación agroindustrial, así como las actividades en las que participen para realizar el aprovechamiento racional y tecnificado de las reservas forestales y la zona lacustre en los términos de la legislación aplicable y los compromisos internacionales asumidos por el Estado Mexicano."
+    }
+  ]
+}
