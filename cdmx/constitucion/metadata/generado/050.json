@@ -1,0 +1,33 @@
+{
+  "clave": "050",
+  "etiqueta": "Artículo 50",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:8a307ba763e34781",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Instituto Electoral de la Ciudad de México",
+  "temas": [
+    "procesos electorales",
+    "participación ciudadana",
+    "educación cívica",
+    "ciudadanía",
+    "organización electoral"
+  ],
+  "terminos_coloquiales": [
+    "votaciones en la ciudad",
+    "cómo se eligen a los jefes de gobierno",
+    "quién organiza las elecciones",
+    "proceso electoral en México",
+    "participación de los ciudadanos en las elecciones"
+  ],
+  "resumen": "El artículo establece que el Instituto Electoral de la Ciudad de México es responsable de organizar y vigilar las elecciones y procesos de participación ciudadana. También se ocupa de promover la educación cívica y la construcción de ciudadanía.",
+  "preguntas_ejemplo": [
+    "¿Quién organiza las elecciones en la Ciudad de México?",
+    "¿Qué funciones tiene el Instituto Electoral?",
+    "¿Cómo se asegura la imparcialidad en las elecciones?",
+    "¿Qué es la educación cívica y cómo se promueve?",
+    "¿Quiénes forman parte del Instituto Electoral de la Ciudad de México?"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "clave": "035",
+  "etiqueta": "Artículo 35",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:65f258a2b3233970",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Poder Judicial",
+  "temas": [
+    "función judicial",
+    "acceso a la justicia",
+    "Consejo de la Judicatura",
+    "tribunales",
+    "jueces",
+    "magistrados",
+    "medios alternativos de solución de controversias",
+    "transparencia",
+    "derechos humanos"
+  ],
+  "terminos_coloquiales": [
+    "justicia",
+    "jueces y magistrados",
+    "consejo de justicia",
+    "cómo funcionan los tribunales",
+    "solución de conflictos",
+    "acceso a la justicia"
+  ],
+  "resumen": "El Artículo 35 establece la organización y funcionamiento del Poder Judicial en la Ciudad de México, destacando la importancia de la transparencia y el acceso a la justicia. También menciona la designación y funciones de jueces y magistrados, así como la promoción de medios alternativos para resolver disputas.",
+  "preguntas_ejemplo": [
+    "¿Qué hace el Poder Judicial en la Ciudad de México?",
+    "¿Cómo se eligen los jueces y magistrados?",
+    "¿Qué es el Consejo de la Judicatura?",
+    "¿Qué medios hay para resolver conflictos fuera de los tribunales?",
+    "¿Cuáles son los principios del sistema judicial?",
+    "¿Qué derechos tienen los jueces y magistrados?"
+  ]
+}

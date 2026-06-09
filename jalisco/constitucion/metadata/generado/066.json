@@ -1,0 +1,35 @@
+{
+  "clave": "066",
+  "etiqueta": "Artículo 66º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:93eebe702ae6fb0e",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Magistrados del Tribunal de Justicia Administrativa",
+  "temas": [
+    "duración del cargo",
+    "remoción de magistrados",
+    "causas de retiro",
+    "evaluaciones de control de confianza",
+    "requisitos para ser magistrado",
+    "paridad de género"
+  ],
+  "terminos_coloquiales": [
+    "magistrados",
+    "duración de magistrados",
+    "remoción de magistrados",
+    "evaluaciones",
+    "causas de retiro",
+    "ley de magistrados"
+  ],
+  "resumen": "Los magistrados del Tribunal de Justicia Administrativa tienen un periodo fijo de doce años y solo pueden ser removidos bajo ciertas condiciones. Deben pasar evaluaciones cada cuatro años y hay requisitos específicos para ser elegido magistrado, incluyendo la igualdad de género en el proceso de selección.",
+  "preguntas_ejemplo": [
+    "¿Cuánto tiempo duran los magistrados en su cargo?",
+    "¿Bajo qué condiciones pueden remover a un magistrado?",
+    "¿Qué pasa si un magistrado no aprueba las evaluaciones?",
+    "¿Cuáles son los requisitos para ser magistrado del Tribunal de Justicia Administrativa?",
+    "¿Cómo se eligen a los magistrados?"
+  ]
+}

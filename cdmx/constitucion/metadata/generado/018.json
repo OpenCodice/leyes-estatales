@@ -1,0 +1,38 @@
+{
+  "clave": "018",
+  "etiqueta": "Artículo 18",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:f0afd4ba6e3e44e0",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Patrimonio de la Ciudad",
+  "temas": [
+    "patrimonio histórico",
+    "patrimonio cultural",
+    "bienes comunes",
+    "preservación",
+    "protección",
+    "conservación",
+    "patrimonio inmaterial",
+    "patrimonio urbano",
+    "gestión cultural"
+  ],
+  "terminos_coloquiales": [
+    "protección del patrimonio",
+    "conservación cultural",
+    "bienes de la ciudad",
+    "recuperación del patrimonio",
+    "historias de la ciudad",
+    "cultura urbana"
+  ],
+  "resumen": "Este artículo habla sobre la protección y conservación del patrimonio histórico, cultural y natural de la Ciudad de México, asegurando que estos bienes sean públicos y no se pueden vender. También promueve la participación de la comunidad en su cuidado.",
+  "preguntas_ejemplo": [
+    "¿Qué se está haciendo para preservar el patrimonio de la ciudad?",
+    "¿Cómo se protectan los lugares históricos en la Ciudad de México?",
+    "¿Qué significa que el patrimonio es inalienable e inembargable?",
+    "¿Cuáles son los derechos sobre el patrimonio cultural en la Ciudad?",
+    "¿Qué organizaciones ayudan en la conservación del patrimonio?"
+  ]
+}

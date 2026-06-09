@@ -1,0 +1,31 @@
+{
+  "clave": "025",
+  "etiqueta": "Artículo 25º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:045f6da783966ddf",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Sesiones del Congreso",
+  "temas": [
+    "sesiones del Congreso",
+    "responsabilidad de servidores públicos",
+    "convocatorias",
+    "dictámenes"
+  ],
+  "terminos_coloquiales": [
+    "reuniones del Congreso",
+    "juntas del Congreso",
+    "trabajo del Congreso",
+    "sesiones extraordinarias"
+  ],
+  "resumen": "El artículo establece la frecuencia de las sesiones del Congreso y menciona que se deben convocar sesiones extraordinarias para tratar temas de responsabilidad de los servidores públicos.",
+  "preguntas_ejemplo": [
+    "¿Con qué frecuencia se reúne el Congreso?",
+    "¿Qué son las sesiones extraordinarias?",
+    "¿Qué se discute sobre la responsabilidad de los servidores públicos?",
+    "¿Cuándo se convocan las reuniones del Congreso?",
+    "¿Cuántas veces al mes se reúne el Congreso?"
+  ]
+}

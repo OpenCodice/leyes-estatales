@@ -1,0 +1,30 @@
+{
+  "clave": "098",
+  "etiqueta": "Artículo 98º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:88e779a4e5ef2c12",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Juicio Político",
+  "temas": [
+    "resoluciones",
+    "juicio político",
+    "recursos",
+    "responsabilidad penal",
+    "corrupción"
+  ],
+  "terminos_coloquiales": [
+    "decisiones del juicio político",
+    "recursos ante el juicio político",
+    "corruptos",
+    "responsabilidad de los políticos"
+  ],
+  "resumen": "Este artículo establece que no se puede impugnar ninguna decisión que se tome en un juicio político. También menciona la responsabilidad penal por corrupción.",
+  "preguntas_ejemplo": [
+    "¿Se puede apelar una decisión del juicio político?",
+    "¿Qué pasa si un político es corrupto?",
+    "¿Cuáles son las consecuencias de un juicio político?"
+  ]
+}

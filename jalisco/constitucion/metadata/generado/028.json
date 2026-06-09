@@ -1,0 +1,35 @@
+{
+  "clave": "028",
+  "etiqueta": "Artículo 28º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:ea5c376e36b68b6a",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Iniciativas de leyes",
+  "temas": [
+    "presentación de iniciativas",
+    "diputados",
+    "Gobernador",
+    "Supremo Tribunal",
+    "ayuntamientos",
+    "ciudadanos"
+  ],
+  "terminos_coloquiales": [
+    "quién puede proponer leyes",
+    "propuestas de leyes",
+    "iniciativas ciudadanas",
+    "leyes estatales",
+    "quién presenta un decreto"
+  ],
+  "resumen": "El artículo establece quiénes pueden presentar iniciativas de leyes y decretos, incluyendo a diputados, el Gobernador, el Supremo Tribunal, ayuntamientos y ciudadanos. Las iniciativas deben ser evaluadas según lo que diga la ley correspondiente.",
+  "preguntas_ejemplo": [
+    "¿Quién puede proponer una nueva ley?",
+    "¿Pueden los ciudadanos sugerir cambios legales?",
+    "¿Qué papel tienen los diputados en la creación de leyes?",
+    "¿El Gobernador puede iniciar proyectos de ley?",
+    "¿Cómo se dictaminan las iniciativas de ley?",
+    "¿Qué instituciones pueden presentar iniciativas?"
+  ]
+}

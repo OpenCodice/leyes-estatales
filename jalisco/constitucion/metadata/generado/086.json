@@ -1,0 +1,34 @@
+{
+  "clave": "086",
+  "etiqueta": "Artículo 86º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:ab4e34b1680d2056",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Administración Municipal",
+  "temas": [
+    "Presidencia Municipal",
+    "Servicios Públicos",
+    "Reglamentos Municipales",
+    "Ayuntamiento",
+    "Infracciones Administrativas",
+    "Representación Jurídica"
+  ],
+  "terminos_coloquiales": [
+    "Gobierno del municipio",
+    "Alcalde",
+    "Reglamentos del pueblo",
+    "Cosas que hace el Ayuntamiento",
+    "Servicios que da el municipio"
+  ],
+  "resumen": "El artículo establece las funciones del Presidente Municipal y del Ayuntamiento en la administración y gestión de servicios públicos, así como la aprobación de reglamentos municipales. También menciona la calificación de infracciones y la representación legal del municipio.",
+  "preguntas_ejemplo": [
+    "¿Qué hace el Presidente Municipal?",
+    "¿Quién aprueba las leyes municipales?",
+    "¿Cómo se manejan las infracciones en el municipio?",
+    "¿Cuál es el papel del Ayuntamiento?",
+    "¿Qué servicios debe ofrecer el municipio?"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "clave": "031",
+  "etiqueta": "Artículo 31º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:537e6daaf09452b0",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Proyectos de ley",
+  "temas": [
+    "aprobación de leyes",
+    "Ejecutivo",
+    "Congreso",
+    "funciones del presidente"
+  ],
+  "terminos_coloquiales": [
+    "cómo se aprueban las leyes",
+    "quién firma las leyes",
+    "qué pasa con los proyectos de ley",
+    "procedimiento legislativo"
+  ],
+  "resumen": "El artículo establece que los proyectos de ley que han sido aprobados deben ser enviados al Ejecutivo, firmados por el presidente y los secretarios del Congreso, o por otros diputados que cumplan esas funciones. Esto asegura que las leyes cuentan con la firma adecuada para su validez.",
+  "preguntas_ejemplo": [
+    "¿Cómo se envían los proyectos de ley al Ejecutivo?",
+    "¿Quién firma los proyectos de ley aprobados?",
+    "¿Qué se necesita para que un proyecto de ley sea válido?",
+    "¿Quiénes pueden firmar un proyecto de ley después de la aprobación?",
+    "¿Cuál es el rol del Congreso en la aprobación de leyes?"
+  ]
+}

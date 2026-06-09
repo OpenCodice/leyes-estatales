@@ -1,0 +1,32 @@
+{
+  "clave": "043",
+  "etiqueta": "Artículo 43º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:4fe77b45c80a8196",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Ausencia del Gobernador",
+  "temas": [
+    "ausencia del gobernador",
+    "permisos del congreso",
+    "interinato",
+    "faltas absolutas"
+  ],
+  "terminos_coloquiales": [
+    "cuando puede faltar el gobernador",
+    "permisos que necesita el gobernador",
+    "quién lo suple cuando está ausente",
+    "qué pasa si el gobernador no regresa",
+    "cuánto tiempo puede estar fuera el gobernador"
+  ],
+  "resumen": "El Gobernador puede ausentarse del estado hasta por quince días sin permiso, pero si la ausencia es mayor o si se separa de su cargo, necesita autorización del Congreso. Si falta más de treinta días, el Congreso designa a alguien para que tome su lugar.",
+  "preguntas_ejemplo": [
+    "¿Cuánto tiempo puede estar ausente el gobernador?",
+    "¿Qué sucede si el gobernador no regresa después de un tiempo?",
+    "¿Quién asume las funciones del gobernador si está ausente por mucho tiempo?",
+    "¿El gobernador necesita permiso para ausentarse?",
+    "¿Qué se considera una falta absoluta del gobernador?"
+  ]
+}

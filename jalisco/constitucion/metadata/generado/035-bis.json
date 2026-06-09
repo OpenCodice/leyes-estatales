@@ -1,0 +1,38 @@
+{
+  "clave": "035-bis",
+  "etiqueta": "Artículo 35º Bis",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:ab2bf8a6b4bdeeec",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Fiscalización de cuentas públicas",
+  "temas": [
+    "auditoría",
+    "fiscalización",
+    "recursos públicos",
+    "transparencia",
+    "responsabilidades administrativas",
+    "informe de auditoría",
+    "autonomía",
+    "poder legislativo"
+  ],
+  "terminos_coloquiales": [
+    "revisión de cuentas",
+    "controles financieros",
+    "auditoría pública",
+    "revisión del gasto",
+    "verificación de recursos",
+    "responsabilidad fiscal"
+  ],
+  "resumen": "El artículo establece que el Congreso del Estado tiene la facultad de revisar y fiscalizar la cuenta pública del Estado y municipios a través de la Auditoría Superior. Esta entidad audita el manejo de recursos públicos y puede determinar responsabilidades en caso de irregularidades.",
+  "preguntas_ejemplo": [
+    "¿Quién se encarga de revisar las cuentas públicas en el estado?",
+    "¿Qué pasa si encuentro irregularidades en la cuenta pública?",
+    "¿Qué debe hacer la Auditoría Superior del Estado?",
+    "¿Cuáles son los derechos del auditor en su fiscalización?",
+    "¿Qué informes debe entregar la Auditoría al Congreso?",
+    "¿Cómo se garantiza la autonomía de la Auditoría Superior?"
+  ]
+}

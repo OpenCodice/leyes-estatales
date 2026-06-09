@@ -1,0 +1,40 @@
+{
+  "clave": "009",
+  "etiqueta": "Artículo 9",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:4656fc8a55808b51",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derechos a la vida digna y bienestar",
+  "temas": [
+    "vida digna",
+    "desigualdad",
+    "pobreza",
+    "cuidado",
+    "alimentación adecuada",
+    "salud",
+    "vivienda",
+    "agua"
+  ],
+  "terminos_coloquiales": [
+    "vida digna",
+    "derecho a una buena vida",
+    "comida sana",
+    "atención médica",
+    "vivienda digna",
+    "agua potable",
+    "cuidado de personas mayores",
+    "salud pública"
+  ],
+  "resumen": "Este artículo establece que todas las personas tienen derecho a vivir de manera digna, con acceso a alimentación, salud, vivienda y agua. También menciona que las autoridades deben crear sistemas de cuidados y garantizar que estas necesidades sean cubiertas adecuadamente.",
+  "preguntas_ejemplo": [
+    "¿Qué derechos tengo para asegurar una vida digna?",
+    "¿Cómo se garantiza el acceso a servicios de salud?",
+    "¿Qué se considera una vivienda adecuada?",
+    "¿Qué derechos tengo sobre la alimentación y el agua?",
+    "¿Cómo protege la Constitución mis derechos en situaciones de pobreza?",
+    "¿Qué medidas deben tomar las autoridades para asegurar mi bienestar?"
+  ]
+}

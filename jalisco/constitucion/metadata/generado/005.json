@@ -1,0 +1,38 @@
+{
+  "clave": "005",
+  "etiqueta": "Artículo 5º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:eb4966717800c75a",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derechos y obligaciones de la ciudadanía",
+  "temas": [
+    "Contribuciones",
+    "Obediencia a la ley",
+    "Respeto a autoridades",
+    "Participación política",
+    "Voto",
+    "Candidaturas",
+    "Empleo en el Estado",
+    "Afiliación política"
+  ],
+  "terminos_coloquiales": [
+    "pagar impuestos",
+    "seguir las reglas",
+    "respetar la ley",
+    "votación",
+    "ser candidato",
+    "empleo del gobierno",
+    "unirse a un partido"
+  ],
+  "resumen": "Este artículo establece las responsabilidades de las personas y los derechos de la ciudadanía. Habla sobre la necesidad de contribuir a los gastos del Estado y participar en la vida política, incluyendo votar y ser votado en elecciones.",
+  "preguntas_ejemplo": [
+    "¿Qué debo hacer para participar en las elecciones?",
+    "¿Cuáles son mis obligaciones como ciudadano?",
+    "¿Puedo ser candidato a un puesto público?",
+    "¿Tengo que pagar impuestos?",
+    "¿Cómo me puedo unir a un partido político?"
+  ]
+}

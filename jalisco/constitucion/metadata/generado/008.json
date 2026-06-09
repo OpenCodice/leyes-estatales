@@ -1,0 +1,36 @@
+{
+  "clave": "008",
+  "etiqueta": "Artículo 8º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:bd79127fc1cb9ca8",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Acción penal y sanciones",
+  "temas": [
+    "Ministerio Público",
+    "Policías",
+    "Sanciones administrativas",
+    "Derechos humanos",
+    "Seguridad pública",
+    "Extinción de dominio",
+    "Reglamentos gubernativos",
+    "Proporcionalidad de penas"
+  ],
+  "terminos_coloquiales": [
+    "cómo se castiga un delito",
+    "quién investiga los delitos",
+    "sanciones por infracciones",
+    "qué es el Ministerio Público",
+    "normas de seguridad pública"
+  ],
+  "resumen": "El artículo establece que la investigación de delitos es responsabilidad del Ministerio Público y las policías. Además, define las sanciones administrativas y prohíbe penas inusitadas, garantizando el respeto a los derechos humanos en la seguridad pública.",
+  "preguntas_ejemplo": [
+    "¿Quién se encarga de investigar los delitos?",
+    "¿Qué tipo de sanciones se pueden aplicar por infracciones?",
+    "¿Cuáles son los derechos de los ciudadanos en el proceso penal?",
+    "¿Qué es la extinción de dominio?",
+    "¿Qué pena no se puede imponer en México?"
+  ]
+}

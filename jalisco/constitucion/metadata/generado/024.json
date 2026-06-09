@@ -1,0 +1,30 @@
+{
+  "clave": "024",
+  "etiqueta": "Artículo 24º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:a3d95e2da28b2795",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Instalación del Congreso del Estado",
+  "temas": [
+    "Congreso del Estado",
+    "período de sesiones",
+    "elección",
+    "Ley Orgánica"
+  ],
+  "terminos_coloquiales": [
+    "cuándo se instala el Congreso",
+    "período del Congreso",
+    "días de elección del Congreso",
+    "qué dice la Ley Orgánica"
+  ],
+  "resumen": "El artículo explica que el Congreso del Estado comienza a funcionar cada tres años, el primero de noviembre, según lo que establezca su Ley Orgánica.",
+  "preguntas_ejemplo": [
+    "¿Cuándo empieza a funcionar el Congreso del Estado?",
+    "¿Cada cuánto se instala el Congreso local?",
+    "¿Qué dice la Ley sobre la instalación del Congreso?",
+    "¿Cuándo se elige a los miembros del Congreso?"
+  ]
+}

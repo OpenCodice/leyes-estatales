@@ -1,0 +1,39 @@
+{
+  "clave": "007",
+  "etiqueta": "Artículo 7",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:53f57e4e5c45ff7d",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derechos ciudadanos y participación",
+  "temas": [
+    "buena administración pública",
+    "libertad de reunión",
+    "libertad de expresión",
+    "derecho a la información",
+    "privacidad",
+    "protección de datos personales",
+    "gobierno democrático",
+    "participación política"
+  ],
+  "terminos_coloquiales": [
+    "servicios públicos",
+    "derecho a expresar opiniones",
+    "reuniones y manifestaciones",
+    "acceso a información",
+    "protección de datos",
+    "participar en la política",
+    "derechos de los ciudadanos"
+  ],
+  "resumen": "El artículo establece varios derechos fundamentales, como la buena administración pública, la libertad de reunión y expresión, y el derecho a la información. También garantiza la privacidad y la protección de datos, así como el derecho a vivir en una democracia y participar en la política.",
+  "preguntas_ejemplo": [
+    "¿Qué derechos tengo como ciudadano?",
+    "¿Cómo puedo reclamar si un servicio público no es bueno?",
+    "¿Cuáles son mis derechos al reunirme o manifestarme?",
+    "¿Tengo derecho a que se protejan mis datos personales?",
+    "¿Cómo puedo participar en la política de mi ciudad?",
+    "¿Qué puedo hacer si no me permiten expresar mi opinión?"
+  ]
+}

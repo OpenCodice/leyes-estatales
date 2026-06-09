@@ -1,0 +1,33 @@
+{
+  "clave": "070",
+  "etiqueta": "Artículo 70º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:57746d9226955695",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Impugnaciones electorales",
+  "temas": [
+    "elecciones locales",
+    "impugnaciones",
+    "derechos político-electorales",
+    "autoridad electoral",
+    "mecanismos de participación social"
+  ],
+  "terminos_coloquiales": [
+    "quejas por elecciones",
+    "reclamos electorales",
+    "problemáticas en votaciones",
+    "derechos al votar",
+    "controversias en procesos electorales"
+  ],
+  "resumen": "El Tribunal Electoral se encarga de resolver las impugnaciones relacionadas con elecciones locales y actos de la autoridad electoral. También protege los derechos de los ciudadanos en asuntos políticos y puede imponer sanciones por violaciones en estos procesos.",
+  "preguntas_ejemplo": [
+    "¿Qué hacer si me quejo de unas elecciones?",
+    "¿Dónde puedo impugnar un resultado electoral?",
+    "¿Cuáles son mis derechos al votar y postularme?",
+    "¿Cómo se manejan las quejas por actos de la autoridad electoral?",
+    "¿Qué sanciones puede aplicar el Tribunal Electoral?"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "clave": "018",
+  "etiqueta": "Artículo 18º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:8a3700efeab2cf93",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Composición del Congreso",
+  "temas": [
+    "diputados",
+    "mayoría relativa",
+    "representación proporcional",
+    "grupos parlamentarios",
+    "paridad de género"
+  ],
+  "terminos_coloquiales": [
+    "cómo se eligen los diputados",
+    "grupos en el Congreso",
+    "paridad en candidatos",
+    "diputados y suplentes",
+    "representación en el Congreso"
+  ],
+  "resumen": "El Artículo 18 establece cómo se conforma el Congreso, mencionando que debe haber una equidad de género en la elección de diputados y define los principios de mayoría relativa y representación proporcional. También habla sobre la organización de los diputados en grupos parlamentarios.",
+  "preguntas_ejemplo": [
+    "¿Cómo se eligen los diputados en México?",
+    "¿Qué es la representación proporcional?",
+    "¿Cómo funcionan los grupos parlamentarios?",
+    "¿Qué significa paridad de género en las elecciones?",
+    "¿Cuáles son los derechos de los diputados?"
+  ]
+}

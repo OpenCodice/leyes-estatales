@@ -1,0 +1,34 @@
+{
+  "clave": "032",
+  "etiqueta": "Artículo 32º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:3cdc71c5f7bd9cac",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Aprobación de leyes",
+  "temas": [
+    "iniciativas",
+    "leyes",
+    "Congreso",
+    "Ejecutivo",
+    "promulgación",
+    "publicación"
+  ],
+  "terminos_coloquiales": [
+    "cómo se hacen las leyes",
+    "qué es una iniciativa",
+    "quién aprueba las leyes",
+    "leyes nuevas",
+    "promulgación de leyes"
+  ],
+  "resumen": "Las iniciativas se convierten en leyes cuando el Congreso las aprueba y el Ejecutivo las promulga. Si una ley no establece cuándo debe comenzar a aplicarse, entra en vigor al día siguiente de su publicación.",
+  "preguntas_ejemplo": [
+    "¿Cómo se convierte una iniciativa en ley?",
+    "¿Quién aprueba una ley en México?",
+    "¿Qué pasa si no se dice cuándo inicia una ley?",
+    "¿Qué es la promulgación de una ley?",
+    "¿Desde cuándo es obligatoria una ley nueva?"
+  ]
+}

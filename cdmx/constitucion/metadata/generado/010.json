@@ -1,0 +1,37 @@
+{
+  "clave": "010",
+  "etiqueta": "Artículo 10",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:730bf5dc68271a4c",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derecho al trabajo y desarrollo económico",
+  "temas": [
+    "derecho al trabajo",
+    "desarrollo sustentable",
+    "igualdad laboral",
+    "trabajo digno",
+    "derechos humanos laborales",
+    "cooperativas",
+    "sindicatos"
+  ],
+  "terminos_coloquiales": [
+    "trabajo para todos",
+    "empleos dignos",
+    "derechos laborales",
+    "igualdad en el trabajo",
+    "luchas sindicales",
+    "apoyo a emprendedores"
+  ],
+  "resumen": "Este artículo garantiza el derecho de las personas a un trabajo digno y promueve el desarrollo económico y social. También asegura la protección de los derechos laborales y fomenta la igualdad y la erradicación de la discriminación en el trabajo.",
+  "preguntas_ejemplo": [
+    "¿Qué derechos tengo como trabajador en la Ciudad de México?",
+    "¿Cómo se protege el trabajo digno en la ciudad?",
+    "¿Cuáles son los derechos de los trabajadores no asalariados?",
+    "¿Qué hace el Gobierno para fomentar el empleo?",
+    "¿Cómo se asegura la igualdad en los salarios?",
+    "¿Dónde puedo obtener capacitación para un empleo?"
+  ]
+}

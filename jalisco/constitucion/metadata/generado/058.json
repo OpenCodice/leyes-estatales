@@ -1,0 +1,33 @@
+{
+  "clave": "058",
+  "etiqueta": "Artículo 58º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:c4a4ef9e81db4d9d",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Supremo Tribunal de Justicia",
+  "temas": [
+    "magistrados",
+    "sesiones",
+    "publicidad",
+    "composición de salas",
+    "competencia"
+  ],
+  "terminos_coloquiales": [
+    "jueces del estado",
+    "tribunal",
+    "sesiones del tribunal",
+    "reuniones del tribunal",
+    "magistrados"
+  ],
+  "resumen": "El Supremo Tribunal de Justicia del Estado está formado por varios magistrados y tiene sesiones que pueden ser públicas o reservadas. Además, decide cómo se combinan los magistrados en las salas de justicia.",
+  "preguntas_ejemplo": [
+    "¿Cómo se organiza el Supremo Tribunal de Justicia?",
+    "¿Quiénes forman parte del Supremo Tribunal?",
+    "¿Las sesiones del tribunal son siempre públicas?",
+    "¿Qué hace el pleno del tribunal?",
+    "¿Cómo se eligen los magistrados para cada sala?"
+  ]
+}

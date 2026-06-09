@@ -1,0 +1,30 @@
+{
+  "clave": "105",
+  "etiqueta": "Artículo 105º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:c19720710bf91523",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Sanciones administrativas",
+  "temas": [
+    "sanciones",
+    "administración",
+    "derechos administrativos"
+  ],
+  "terminos_coloquiales": [
+    "multas",
+    "infracciones",
+    "castigos administrativos",
+    "sanciones"
+  ],
+  "resumen": "Este artículo trataba sobre las sanciones que pueden imponer las autoridades administrativas. Aunque ya no está vigente, establecía normas sobre cómo se debían aplicar dichas sanciones.",
+  "preguntas_ejemplo": [
+    "¿Qué sanciones puede imponer una autoridad administrativa?",
+    "¿Cómo se aplican las multas administrativas?",
+    "¿Qué derechos tengo frente a una sanción administrativa?",
+    "¿Qué pasa si me imponen una infracción?",
+    "¿Cuáles son las normas sobre sanciones administrativas?"
+  ]
+}

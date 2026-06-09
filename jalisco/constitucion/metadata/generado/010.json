@@ -1,0 +1,36 @@
+{
+  "clave": "010",
+  "etiqueta": "Artículo 10º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:eac51735fb8e618b",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Comisión Estatal de Derechos Humanos",
+  "temas": [
+    "derechos humanos",
+    "quejas",
+    "autonomía",
+    "recomendaciones",
+    "participación ciudadana",
+    "organismos de derechos humanos"
+  ],
+  "terminos_coloquiales": [
+    "defensor de derechos",
+    "quejas a la comisión",
+    "ayuda para problemas legales",
+    "recomendaciones de derechos humanos",
+    "protección de derechos",
+    "comisión para quejas"
+  ],
+  "resumen": "El artículo establece la creación de una Comisión Estatal de Derechos Humanos que protege y defiende los derechos humanos mediante quejas y recomendaciones. La comisión es autónoma y tiene el deber de responder a las violaciones de derechos por parte de autoridades públicas.",
+  "preguntas_ejemplo": [
+    "¿Qué hace la Comisión Estatal de Derechos Humanos?",
+    "¿Cómo puedo presentar una queja por violaciones a mis derechos?",
+    "¿Las recomendaciones de la comisión son obligatorias?",
+    "¿Qué derechos protege la comisión?",
+    "¿Cómo se elige al presidente de la comisión de derechos humanos?",
+    "¿Puedo quejarme de una autoridad municipal ante la comisión?"
+  ]
+}

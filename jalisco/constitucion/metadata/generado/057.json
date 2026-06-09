@@ -1,0 +1,34 @@
+{
+  "clave": "057",
+  "etiqueta": "Artículo 57º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:9d04f750698fabea",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Independencia Judicial",
+  "temas": [
+    "independencia de los tribunales",
+    "funciones de los magistrados",
+    "remuneración del Poder Judicial",
+    "presupuesto del Poder Judicial",
+    "jurisprudencia",
+    "relaciones laborales en el Poder Judicial"
+  ],
+  "terminos_coloquiales": [
+    "tribunales independientes",
+    "sueldos de jueces",
+    "presupuesto del poder judicial",
+    "qué es la jurisprudencia",
+    "funciones de los magistrados"
+  ],
+  "resumen": "El artículo garantiza la independencia de los tribunales y de los jueces, así como su remuneración y el manejo autónomo del presupuesto. Establece también la manera en que se regirá la jurisprudencia y las relaciones laborales del personal del Poder Judicial.",
+  "preguntas_ejemplo": [
+    "¿Cómo se asegura la independencia de los jueces?",
+    "¿Cuánto ganan los magistrados y jueces?",
+    "¿Qué es la jurisprudencia y cómo funciona?",
+    "¿Quién elabora el presupuesto del Poder Judicial?",
+    "¿Cómo se manejan las controversias en el Poder Judicial?"
+  ]
+}

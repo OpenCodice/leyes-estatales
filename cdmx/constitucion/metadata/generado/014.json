@@ -1,0 +1,36 @@
+{
+  "clave": "014",
+  "etiqueta": "Artículo 14",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:9cb97caeab51f6b7",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derecho a la seguridad urbana",
+  "temas": [
+    "seguridad urbana",
+    "protección civil",
+    "atención a desastres",
+    "prevención de la violencia",
+    "seguridad ciudadana",
+    "convivencia pacífica",
+    "políticas de prevención",
+    "cultura de paz"
+  ],
+  "terminos_coloquiales": [
+    "vivir seguro en la ciudad",
+    "protección en desastres",
+    "seguridad en la calle",
+    "prevención de delitos",
+    "paz en la comunidad"
+  ],
+  "resumen": "El artículo establece el derecho de las personas a vivir en un entorno seguro y a recibir protección en caso de desastres. También garantiza la seguridad ciudadana y la prevención de la violencia, solicitando a las autoridades que implementen políticas adecuadas.",
+  "preguntas_ejemplo": [
+    "¿Qué derechos tengo para estar seguro en mi ciudad?",
+    "¿Cómo me protege la ley en caso de un desastre natural?",
+    "¿Qué se está haciendo para prevenir la violencia en mi comunidad?",
+    "¿Qué medidas debo esperar de las autoridades para mi seguridad?",
+    "¿Cuál es el derecho a la convivencia pacífica?"
+  ]
+}

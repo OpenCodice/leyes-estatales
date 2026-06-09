@@ -1,0 +1,36 @@
+{
+  "clave": "088",
+  "etiqueta": "Artículo 88º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:db494f750cc5361d",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Administración municipal de hacienda",
+  "temas": [
+    "hacienda municipal",
+    "contribuciones",
+    "participaciones federales",
+    "ingresos de servicios públicos",
+    "patrimonio municipal",
+    "bienes públicos",
+    "bienes privados",
+    "convenios con el Estado"
+  ],
+  "terminos_coloquiales": [
+    "dinero de los municipios",
+    "ingresos de los municipios",
+    "cómo manejan su dinero los municipios",
+    "contribuciones que pagan los municipios",
+    "acuerdos de municipios con el Estado"
+  ],
+  "resumen": "El artículo establece que los municipios tienen la libertad de administrar su propio dinero, que proviene de sus bienes y contribuciones. Además, menciona las diversas fuentes de ingresos que pueden tener y cómo se forma su patrimonio.",
+  "preguntas_ejemplo": [
+    "¿De dónde obtienen dinero los municipios?",
+    "¿Qué es la hacienda municipal?",
+    "¿Qué ingresos tienen los municipios?",
+    "¿Pueden los municipios hacer acuerdos con el Estado sobre sus finanzas?",
+    "¿Qué bienes componen el patrimonio de un municipio?"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "clave": "091",
+  "etiqueta": "Artículo 91º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:2c4d7c29328911c2",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Responsabilidad de Servidores Públicos",
+  "temas": [
+    "responsabilidad política",
+    "responsabilidad penal",
+    "responsabilidad administrativa",
+    "responsabilidad civil",
+    "disciplina financiera"
+  ],
+  "terminos_coloquiales": [
+    "qué les pasa a los funcionarios",
+    "responsabilidad de los servidores",
+    "funcionarios en problemas",
+    "juicios contra servidores públicos"
+  ],
+  "resumen": "El artículo establece que los servidores públicos pueden ser responsables políticamente, penalmente, administrativamente y civilmente. Esta responsabilidad se determina a través de diferentes procedimientos legales.",
+  "preguntas_ejemplo": [
+    "¿Cuáles son las consecuencias para un servidor público que comete un error?",
+    "¿Qué tipos de juicios pueden enfrentar los funcionarios?",
+    "¿Dónde se establecen las responsabilidades de los servidores públicos?",
+    "¿Qué significa la responsabilidad administrativa para un funcionario?",
+    "¿Qué procesos hay para juzgar a un servidor público?"
+  ]
+}

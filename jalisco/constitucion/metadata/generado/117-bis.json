@@ -1,0 +1,38 @@
+{
+  "clave": "117-bis",
+  "etiqueta": "Artículo 117º Bis",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:188667b6647967c9",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Congreso Constituyente",
+  "temas": [
+    "Convocatoria",
+    "Participación ciudadana",
+    "Pueblos originarios",
+    "Representación proporcional",
+    "Género",
+    "Normatividad",
+    "Elección de representantes",
+    "Aprobación constitucional"
+  ],
+  "terminos_coloquiales": [
+    "Crear una nueva Constitución",
+    "Reforma constitucional",
+    "Congreso para escribir la Constitución",
+    "Ellos van a redactar la Constitución",
+    "Participación de ciudadanos",
+    "Revocar la Constitución"
+  ],
+  "resumen": "El artículo establece cómo se debe formar un Congreso Constituyente para crear una nueva Constitución. Esto incluye quién puede solicitarlo, cómo se elegirán a los representantes y la importancia de incluir a la ciudadanía y a los pueblos originarios.",
+  "preguntas_ejemplo": [
+    "¿Quién puede pedir que se convoque un Congreso Constituyente?",
+    "¿Cómo se eligen a los representantes del Congreso Constituyente?",
+    "¿Qué importancia tiene la participación ciudadana en la nueva Constitución?",
+    "¿Cuánto tiempo tiene el Congreso Constituyente para aprobar la nueva Constitución?",
+    "¿Qué pasa si los ayuntamientos no votan sobre el nuevo texto?",
+    "¿Qué rol tienen los pueblos originarios en la creación de la nueva Constitución?"
+  ]
+}

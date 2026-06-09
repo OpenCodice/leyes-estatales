@@ -1,0 +1,31 @@
+{
+  "clave": "023",
+  "etiqueta": "Artículo 23º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:a1c78f70c3f5adb1",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Inviolabilidad de diputados",
+  "temas": [
+    "inviolabilidad",
+    "libertad de expresión",
+    "funciones del diputado",
+    "responsabilidad legislativa"
+  ],
+  "terminos_coloquiales": [
+    "protección de ideas",
+    "libertad de los diputados",
+    "no pueden ser castigados",
+    "opinar sin miedo"
+  ],
+  "resumen": "Los diputados no pueden ser castigados por lo que dicen al ejercer su trabajo. Esto les permite expresar libremente sus ideas sin temor a represalias.",
+  "preguntas_ejemplo": [
+    "¿Los diputados pueden expresar sus opiniones sin miedo a consecuencias?",
+    "¿Qué protección tienen los diputados por sus declaraciones?",
+    "¿Pueden los diputados ser acusados por lo que dicen en el Congreso?",
+    "¿Qué significa la inviolabilidad de los diputados?",
+    "¿Cómo se protegen las ideas de los legisladores?"
+  ]
+}

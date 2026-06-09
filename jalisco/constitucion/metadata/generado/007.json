@@ -1,0 +1,38 @@
+{
+  "clave": "007",
+  "etiqueta": "Artículo 7º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:1b59026f6b2ec49d",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derechos de las personas en procedimientos legales",
+  "temas": [
+    "protección de datos personales",
+    "orden de aprehensión",
+    "detenciones",
+    "jurisdicción",
+    "comunicaciones privadas",
+    "justicia gratuita",
+    "derechos de víctimas",
+    "defensa legal"
+  ],
+  "terminos_coloquiales": [
+    "derechos en la cárcel",
+    "detención y aprehensión",
+    "protección de datos",
+    "privacidad en comunicaciones",
+    "justicia rápida",
+    "defensor legal",
+    "proceso judicial"
+  ],
+  "resumen": "Este artículo establece que nadie puede ser molestado o detenido sin una orden legal y justificada. También garantiza la protección de los datos personales y detalla los derechos de las personas durante un proceso judicial, incluyendo la defensa y la justicia gratuita.",
+  "preguntas_ejemplo": [
+    "¿Cómo se protege mi información personal?",
+    "¿Qué debo hacer si me detienen?",
+    "¿Cuáles son mis derechos en un juicio?",
+    "¿Puedo ser detenido sin una orden?",
+    "¿Qué pasa si no me dan un defensor?"
+  ]
+}

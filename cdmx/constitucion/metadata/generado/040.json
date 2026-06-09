@@ -1,0 +1,31 @@
+{
+  "clave": "040",
+  "etiqueta": "Artículo 40",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:dbe73f2ff2408243",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Tribunal de Justicia Administrativa",
+  "temas": [
+    "justicia administrativa",
+    "sanciones administrativas",
+    "derecho a la buena administración",
+    "transparencia en nombramientos"
+  ],
+  "terminos_coloquiales": [
+    "justicia para la ciudad",
+    "tribunal de quejas",
+    "cómo sancionan a los funcionarios",
+    "donde reclamo problemas con la administración"
+  ],
+  "resumen": "El artículo establece un Tribunal de Justicia Administrativa en la Ciudad de México con autonomía para resolver controversias entre la administración pública y los ciudadanos. Este tribunal puede imponer sanciones a funcionarios y particulares por faltas administrativas y asegurar la buena administración.",
+  "preguntas_ejemplo": [
+    "¿Qué hace el Tribunal de Justicia Administrativa?",
+    "¿Cómo se impone una sanción a un funcionario público?",
+    "¿Qué puedo hacer si no se respeta mi derecho a la buena administración?",
+    "¿Dónde puedo acudir si tengo un problema con la administración de la CDMX?",
+    "¿Cómo se garantiza la transparencia en el nombramiento de magistrados?"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "041",
+  "etiqueta": "Artículo 41",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:ea021680f4dab533",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Seguridad Ciudadana",
+  "temas": [
+    "responsabilidad del gobierno",
+    "alcaldías",
+    "prevención del delito",
+    "impartición de justicia",
+    "derechos humanos",
+    "protección ciudadana"
+  ],
+  "terminos_coloquiales": [
+    "seguridad en la ciudad",
+    "prevención del crimen",
+    "justicia para todos",
+    "gobierno y seguridad",
+    "vida sin violencia",
+    "protección de derechos"
+  ],
+  "resumen": "El artículo establece que la seguridad ciudadana es responsabilidad del Gobierno de la Ciudad de México y las alcaldías, y se enfoca en prevenir y sancionar delitos, así como garantizar los derechos de las personas. También menciona que deben observarse los derechos y principios de la Constitución y tratados internacionales.",
+  "preguntas_ejemplo": [
+    "¿Quién es responsable de la seguridad en la ciudad?",
+    "¿Cómo se asegura la justicia en la Ciudad de México?",
+    "¿Qué se hace para prevenir delitos?",
+    "¿Qué derechos se protegen en relación a la seguridad?",
+    "¿Cómo se organiza la seguridad ciudadana?",
+    "¿Qué papel tienen las alcaldías en la seguridad?"
+  ]
+}

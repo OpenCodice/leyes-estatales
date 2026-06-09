@@ -1,0 +1,31 @@
+{
+  "clave": "093",
+  "etiqueta": "Artículo 93º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:e1086b56cf00b684",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Administración Municipal",
+  "temas": [
+    "servidores públicos",
+    "empleos municipales",
+    "cargos en municipios",
+    "comisiones municipales"
+  ],
+  "terminos_coloquiales": [
+    "trabajadores del municipio",
+    "empleados municipales",
+    "gente que trabaja en el ayuntamiento",
+    "funcionarios locales"
+  ],
+  "resumen": "Este artículo habla sobre la ley que define quiénes son considerados servidores públicos en los municipios. También menciona que se debe detallar cómo se desempeñan los empleos, cargos y comisiones en esta administración.",
+  "preguntas_ejemplo": [
+    "¿Quiénes son considerados servidores públicos en mi municipio?",
+    "¿Qué trabajos hay en la administración municipal?",
+    "¿Qué significa ser un funcionario municipal?",
+    "¿Cómo se regulan los empleos en los municipios?",
+    "¿Qué dice la ley sobre los cargos municipales?"
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "clave": "106",
+  "etiqueta": "Artículo 106º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:936cb4dccb491001",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Responsabilidad Administrativa",
+  "temas": [
+    "sanciones administrativas",
+    "faltas graves y no graves",
+    "auditorías",
+    "control interno",
+    "poder judicial",
+    "contraloría",
+    "responsabilidad penal",
+    "fiscalización"
+  ],
+  "terminos_coloquiales": [
+    "multas para funcionarios",
+    "falta de un servidor público",
+    "investigaciones de corrupción",
+    "control de gastos públicos",
+    "sanciones a empresas",
+    "falta administrativa"
+  ],
+  "resumen": "El artículo establece las reglas sobre las sanciones que se aplican a servidores públicos y particulares por actos que afectan la legalidad y la eficiencia en su trabajo. También define el papel de la Contraloría y la Auditoría Superior del Estado en la investigación y sanción de faltas administrativas.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si un funcionario comete una falta?",
+    "¿Cómo se sanciona a las empresas por irregularidades?",
+    "¿Quién investiga las faltas administrativas?",
+    "¿Qué son las faltas graves en la administración pública?",
+    "¿Cómo se impugna una sanción administrativa?",
+    "¿Qué puede hacer la Contraloría sobre faltas de servidores públicos?"
+  ]
+}

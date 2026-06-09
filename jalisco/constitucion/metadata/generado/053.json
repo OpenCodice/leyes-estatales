@@ -1,0 +1,39 @@
+{
+  "clave": "053",
+  "etiqueta": "Artículo 53º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:5f7e762c2d5427ed",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Fiscalías y sus funciones",
+  "temas": [
+    "acción penal",
+    "fiscalía general",
+    "delitos electorales",
+    "corrupción",
+    "fiscal especial",
+    "autonomía",
+    "investigación de delitos",
+    "nombramiento de fiscales"
+  ],
+  "terminos_coloquiales": [
+    "fiscalía",
+    "comisión de delitos",
+    "cargos de fiscales",
+    "delitos electorales",
+    "corrupción",
+    "proceso para elegir fiscales",
+    "poder judicial"
+  ],
+  "resumen": "Este artículo establece que la imposición de penas es exclusiva del poder judicial y detalla cómo se deben elegir a los fiscales que investigan delitos, tanto en general como en materia de corrupción y delitos electorales. También habla de la autonomía de estas fiscalías y de los requisitos para los fiscales.",
+  "preguntas_ejemplo": [
+    "¿Quién elige al fiscal general del estado?",
+    "¿Cuáles son las funciones de la fiscalía especializada en corrupción?",
+    "¿Qué requisitos necesita un fiscal para ser nombrado?",
+    "¿Cómo se lleva a cabo la acción penal en caso de delitos electorales?",
+    "¿Qué autonomía tienen las fiscalías en su gestión?",
+    "¿Cuánto tiempo dura un fiscal en su cargo?"
+  ]
+}

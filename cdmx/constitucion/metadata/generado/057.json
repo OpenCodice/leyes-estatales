@@ -1,0 +1,35 @@
+{
+  "clave": "057",
+  "etiqueta": "Artículo 57",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:6d447dae9f1fb90d",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derechos de pueblos indígenas",
+  "temas": [
+    "derechos colectivos",
+    "derechos individuales",
+    "pueblos indígenas",
+    "comunidades indígenas",
+    "mujeres indígenas",
+    "hombres indígenas",
+    "barrios originarios"
+  ],
+  "terminos_coloquiales": [
+    "derechos de indígenas",
+    "pueblos originarios",
+    "comunidades autóctonas",
+    "derechos de las comunidades",
+    "proteger a los indígenas"
+  ],
+  "resumen": "La Constitución reconoce y protege los derechos de los pueblos indígenas en la Ciudad de México, tanto colectivos como individuales, para todos sus integrantes. Esto incluye a los pueblos y barrios originarios y a las comunidades indígenas que residen en la ciudad.",
+  "preguntas_ejemplo": [
+    "¿Qué derechos tienen los pueblos indígenas en la ciudad?",
+    "¿Quiénes son considerados pueblos indígenas?",
+    "¿Qué dice la Constitución sobre las comunidades indígenas?",
+    "¿Las mujeres indígenas tienen derechos especiales?",
+    "¿Qué instrumentos internacionales protegen a los indígenas en México?"
+  ]
+}

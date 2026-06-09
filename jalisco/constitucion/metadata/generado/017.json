@@ -1,0 +1,31 @@
+{
+  "clave": "017",
+  "etiqueta": "Artículo 17º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:6dcaee9be7a370d6",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Congreso del Estado",
+  "temas": [
+    "representantes populares",
+    "elección",
+    "renovación",
+    "Ley Electoral"
+  ],
+  "terminos_coloquiales": [
+    "congreso local",
+    "diputados del estado",
+    "elección de representantes",
+    "renovación del congreso"
+  ],
+  "resumen": "El congreso del estado está compuesto por representantes que son elegidos por la gente y se cambia cada cierto tiempo según las reglas de la Ley Electoral.",
+  "preguntas_ejemplo": [
+    "¿Cómo se eligen los miembros del congreso en mi estado?",
+    "¿Cada cuánto se renueva el congreso del estado?",
+    "¿Quiénes son los representantes populares?",
+    "¿Qué dice la ley sobre las elecciones de congreso estatal?",
+    "¿Cómo funciona el proceso electoral para el congreso local?"
+  ]
+}

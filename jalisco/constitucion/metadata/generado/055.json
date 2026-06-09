@@ -1,0 +1,31 @@
+{
+  "clave": "055",
+  "etiqueta": "Artículo 55º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:818aa6d313a324fa",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Infracciones administrativas",
+  "temas": [
+    "sanciones",
+    "multas",
+    "arresto",
+    "derechos de los trabajadores"
+  ],
+  "terminos_coloquiales": [
+    "multas por infracciones",
+    "castigos administrativos",
+    "arrestos por no pagar",
+    "multas según el salario"
+  ],
+  "resumen": "Este artículo habla sobre las sanciones que se pueden aplicar por infracciones administrativas, como multas o arrestos. También establece límites en las multas para personas con bajos ingresos o sin salario fijo.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si no pago una multa?",
+    "¿Cuánto me pueden multar si soy trabajador?",
+    "¿Pueden llevarme al arresto por una multa?",
+    "¿Qué ocurre si no tengo dinero para pagar la multa?",
+    "¿Hay límites en las multas para personas de bajos ingresos?"
+  ]
+}

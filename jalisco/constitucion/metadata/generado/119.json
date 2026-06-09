@@ -1,0 +1,31 @@
+{
+  "clave": "119",
+  "etiqueta": "Artículo 119º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:5cb3c88134c53469",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Vigencia de la Constitución",
+  "temas": [
+    "vigencia",
+    "gobierno",
+    "libertad",
+    "sanciones"
+  ],
+  "terminos_coloquiales": [
+    "qué pasa si hay desorden",
+    "la constitución seguiría",
+    "leyes que se dejan de lado",
+    "gobierno injusto"
+  ],
+  "resumen": "La Constitución seguirá en vigor aunque haya problemas públicos que impidan su cumplimiento. Cuando el pueblo recupere su libertad, se volverá a acatar, y quienes la hayan violado serán juzgados.",
+  "preguntas_ejemplo": [
+    "¿Qué sucede si hay una crisis en el país?",
+    "¿La Constitución se aplica aunque haya un gobierno malo?",
+    "¿Qué pasa con los que rompen la Constitución?",
+    "¿La gente puede reclamar sus derechos si hay desorden?",
+    "¿Qué implica que la Constitución mantenga su vigor?"
+  ]
+}

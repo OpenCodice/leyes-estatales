@@ -1,0 +1,37 @@
+{
+  "clave": "048",
+  "etiqueta": "Artículo 48",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:4f466e0337fe96d3",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Comisión de Derechos Humanos",
+  "temas": [
+    "derechos humanos",
+    "quejas",
+    "violaciones",
+    "reparación del daño",
+    "mediación",
+    "publicidad de derechos",
+    "informes",
+    "educación en derechos humanos"
+  ],
+  "terminos_coloquiales": [
+    "defensores de derechos humanos",
+    "qué hacer si me violan mis derechos",
+    "acompañamiento legal",
+    "cómo presentar una queja",
+    "informes sobre derechos humanos",
+    "prevención de violaciones"
+  ],
+  "resumen": "La Comisión de Derechos Humanos de la Ciudad de México protege y promueve los derechos humanos. Se encarga de investigar quejas por violaciones que cometan entes públicos y ofrece apoyo a las víctimas.",
+  "preguntas_ejemplo": [
+    "¿Cómo puedo denunciar una violación a mis derechos?",
+    "¿Qué hace la Comisión de Derechos Humanos?",
+    "¿Qué tipo de quejas aceptan?",
+    "¿Pueden ayudarme si mis derechos han sido violados?",
+    "¿Dónde puedo encontrar informes sobre derechos humanos en mi ciudad?"
+  ]
+}

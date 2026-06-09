@@ -1,0 +1,35 @@
+{
+  "clave": "047",
+  "etiqueta": "Artículo 47",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:4aaa99ea58265b2f",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Consejo de Evaluación",
+  "temas": [
+    "evaluación de políticas",
+    "programas de gobierno",
+    "desarrollo económico",
+    "desarrollo social",
+    "seguridad ciudadana",
+    "medio ambiente"
+  ],
+  "terminos_coloquiales": [
+    "cómo se evalúan las políticas",
+    "programas de la ciudad",
+    "qué hace el Consejo de Evaluación",
+    "mejora de servicios públicos",
+    "participación ciudadana"
+  ],
+  "resumen": "La Ciudad de México tendrá un organismo que evalúa las políticas y programas del gobierno y de las alcaldías. Este consejo se compone de consejeros elegidos y sus recomendaciones ayudarán a mejorar estos programas.",
+  "preguntas_ejemplo": [
+    "¿Qué es el Consejo de Evaluación de la Ciudad de México?",
+    "¿Cómo se evalúan los programas del gobierno?",
+    "¿Qué funciones tiene el Consejo de Evaluación?",
+    "¿Qué temas se evalúan en la ciudad?",
+    "¿Cómo puedo participar en la evaluación de políticas?",
+    "¿Qué recomendaciones hace el Consejo de Evaluación?"
+  ]
+}

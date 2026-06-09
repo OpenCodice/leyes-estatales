@@ -1,0 +1,34 @@
+{
+  "clave": "090",
+  "etiqueta": "Artículo 90º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:239d1cf4a0a7fd31",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Responsabilidad de Servidores Públicos",
+  "temas": [
+    "responsabilidad",
+    "servicios públicos",
+    "actos u omisiones",
+    "manejo de recursos públicos",
+    "deuda pública",
+    "faltas administrativas"
+  ],
+  "terminos_coloquiales": [
+    "responsabilidad de funcionarios",
+    "funcionarios públicos y sus errores",
+    "cómo se sanciona a los servidores públicos",
+    "mala gestión de recursos",
+    "deuda de gobierno"
+  ],
+  "resumen": "Los servidores públicos son responsables por lo que hacen o dejan de hacer en su trabajo. También se les puede sancionar si no siguen las leyes sobre el uso de dinero público y otros asuntos relacionados.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si un funcionario hace algo mal?",
+    "¿Cómo se castiga a los servidores públicos?",
+    "¿Qué responsabilidades tienen los servidores públicos?",
+    "¿Qué leyes deben seguir los funcionarios en su trabajo?",
+    "¿Qué son las faltas administrativas graves?"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "112",
+  "etiqueta": "Artículo 112º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:b26db69d76d8b3cf",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Incompatibilidad de Cargos Públicos",
+  "temas": [
+    "cargos públicos",
+    "incompatibilidad",
+    "sueldo",
+    "licencias",
+    "magistrados",
+    "funciones",
+    "empleos",
+    "docencia"
+  ],
+  "terminos_coloquiales": [
+    "no se puede tener dos trabajos del gobierno",
+    "cargos públicos incompatibles",
+    "magistrados y otro empleo",
+    "prohibido llevar dos sueldos",
+    "licencia para trabajar en otro lado"
+  ],
+  "resumen": "Este artículo establece que los funcionarios públicos no pueden ocupar otros cargos que impliquen recibir sueldo a la vez, excepto en ciertos casos de docencia y beneficencia. También indica que los magistrados no pueden ejercer como abogados mientras sean magistrados, incluso si tienen licencia.",
+  "preguntas_ejemplo": [
+    "¿Un diputado puede tener otro trabajo?",
+    "¿Qué pasa si un magistrado trabaja como abogado?",
+    "¿Qué cargos son incompatibles con ser funcionario público?",
+    "¿Se puede trabajar en la docencia y ser diputado al mismo tiempo?",
+    "¿Cómo se castigan las violaciones a esta norma?"
+  ]
+}

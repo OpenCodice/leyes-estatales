@@ -1,0 +1,40 @@
+{
+  "clave": "013",
+  "etiqueta": "Artículo 13º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:5877d607f93eec63",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Partidos Políticos",
+  "temas": [
+    "personalidad jurídica",
+    "financiamiento",
+    "participación ciudadana",
+    "candidaturas",
+    "violencia política",
+    "paridad de género",
+    "propaganda electoral",
+    "derechos políticos"
+  ],
+  "terminos_coloquiales": [
+    "partidos",
+    "elecciones",
+    "candidatos",
+    "dinero para campañas",
+    "votaciones",
+    "mujeres en política",
+    "campañas",
+    "promoción política"
+  ],
+  "resumen": "El artículo habla sobre los partidos políticos, su derecho a existir, y cómo deben funcionar en la vida democrática, promoviendo la participación ciudadana y garantizando derechos políticos, especialmente para mujeres. También establece reglas sobre financiamiento y propaganda electoral.",
+  "preguntas_ejemplo": [
+    "¿Qué son los partidos políticos?",
+    "¿Cómo se financian las campañas electorales?",
+    "¿Qué derechos tienen las mujeres en la política?",
+    "¿Cómo se forman los partidos políticos?",
+    "¿Qué se prohíbe en la propaganda electoral?",
+    "¿Qué pasa si un partido no respeta las leyes electorales?"
+  ]
+}

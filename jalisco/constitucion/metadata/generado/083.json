@@ -1,0 +1,36 @@
+{
+  "clave": "083",
+  "etiqueta": "Artículo 83º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:d827b327e28386c6",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Concesiones de obras y servicios públicos",
+  "temas": [
+    "concesiones",
+    "obrasy servicios públicos",
+    "ayuntamientos",
+    "participación privada",
+    "ejecución de obras",
+    "mejoramiento",
+    "administración"
+  ],
+  "terminos_coloquiales": [
+    "concesiones a particulares",
+    "servicios públicos",
+    "obras públicas",
+    "participación en proyectos",
+    "mejorar servicios",
+    "trabajo con el gobierno"
+  ],
+  "resumen": "Los ayuntamientos pueden permitir que empresas privadas se encarguen de hacer obras y brindar servicios públicos. Esto es para asegurar que esos servicios se mantengan bien y se administren de forma eficaz.",
+  "preguntas_ejemplo": [
+    "¿Pueden los ayuntamientos dar concesiones a empresas?",
+    "¿Cómo se mejoran los servicios públicos a través de concesiones?",
+    "¿Qué significa que un ayuntamiento ofrezca una concesión?",
+    "¿Por qué los ayuntamientos otorgan concesiones para obras?",
+    "¿Quién puede participar en la ejecución de obras públicas?"
+  ]
+}

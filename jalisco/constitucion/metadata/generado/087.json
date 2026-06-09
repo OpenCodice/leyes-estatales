@@ -1,0 +1,32 @@
+{
+  "clave": "087",
+  "etiqueta": "Artículo 87º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:1d74f3dce0f727b3",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Áreas metropolitanas",
+  "temas": [
+    "planificación urbana",
+    "coordinación intermunicipal",
+    "servicios públicos",
+    "desarrollo metropolitano"
+  ],
+  "terminos_coloquiales": [
+    "conurbación",
+    "zonas urbanas cercanas",
+    "ciudades pegadas",
+    "servicios en la ciudad"
+  ],
+  "resumen": "Este artículo establece cómo los municipios pueden trabajar juntos para planificar y regular su crecimiento cuando forman un área metropolitana. Se busca una mejor prestación de servicios y un desarrollo coordinado entre las localidades cercanas.",
+  "preguntas_ejemplo": [
+    "¿Qué es un área metropolitana?",
+    "¿Cómo se coordinan los municipios en el crecimiento urbano?",
+    "¿Qué regula el desarrollo de las ciudades cercanas?",
+    "¿Qué servicios públicos se deben planear de manera conjunta?",
+    "¿Cómo se establece una región metropolitana?",
+    "¿Qué pasa si hay varios estados involucrados?"
+  ]
+}

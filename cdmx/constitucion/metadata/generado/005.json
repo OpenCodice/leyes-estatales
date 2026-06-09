@@ -1,0 +1,37 @@
+{
+  "clave": "005",
+  "etiqueta": "Artículo 5",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:eb75af06c0338537",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Progresividad de los derechos",
+  "temas": [
+    "derechos humanos",
+    "derecho a la reparación",
+    "justicia",
+    "inclusión",
+    "accion afirmativa",
+    "evaluación de derechos",
+    "sistema de derechos humanos"
+  ],
+  "terminos_coloquiales": [
+    "mejorar derechos",
+    "reparación de daños",
+    "justicia para todos",
+    "inclusión social",
+    "cómo exigir mis derechos",
+    "soluciones para la desigualdad"
+  ],
+  "resumen": "El artículo establece que se deben tomar medidas para asegurar que los derechos humanos sean progresivamente garantizados en la Ciudad de México. También se enfoca en la exigibilidad de estos derechos y en la reparación por violaciones a los mismos.",
+  "preguntas_ejemplo": [
+    "¿Cómo puedo hacer valer mis derechos?",
+    "¿Qué medidas hay para reparar violaciones a los derechos humanos?",
+    "¿Qué es el Sistema Integral de Derechos Humanos?",
+    "¿Cómo se evalúan los derechos en la ciudad?",
+    "¿Qué hago si no se cumplen mis derechos?",
+    "¿Qué significa la acción afirmativa en este contexto?"
+  ]
+}

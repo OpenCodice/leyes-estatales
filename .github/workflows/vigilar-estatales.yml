@@ -1,0 +1,159 @@
+name: Vigilar reformas estatales
+
+# Vigila el PDF oficial de cada constitución estatal y abre un PR cuando el
+# texto vigente cambia. La detección la hace git: se regenera el texto y se
+# compara; NO se comparan bytes del PDF. Un job por estado (matriz), cada uno
+# en su propia rama → sin carreras de push.
+#
+# ⚠️  Limitación real: a diferencia del DOF federal (URL estable), varios
+# estados NO publican el PDF en una URL fija — la de Jalisco incluso lleva la
+# FECHA de publicación embebida, así que rota en cada reforma. Por eso:
+#   - los estados sin URL descargable (pdf_url: "") se saltan: vigilancia manual;
+#   - cuando una URL rota, el job falla en rojo (señal de que hay que actualizarla)
+#     y puedes relanzar a mano con el input `pdf_url`.
+# La fuente de verdad sigue siendo el PDF versionado en el repo.
+
+on:
+  schedule:
+    - cron: '0 9 * * 1'        # cada lunes 09:00 UTC (best-effort)
+  workflow_dispatch:
+    inputs:
+      pdf_url:
+        description: 'URL del PDF a vigilar (override; requiere elegir un estado)'
+        type: string
+        default: ''
+      estado:
+        description: 'Estado al usar el override de URL'
+        type: choice
+        options: ['', jalisco, cdmx]
+        default: ''
+
+permissions:
+  contents: write
+  pull-requests: write
+
+env:
+  EXTRACTOR_REPO: https://github.com/OpenCodice/constitucion-extractor.git
+  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+jobs:
+  vigilar:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        include:
+          - estado: jalisco
+            perfil: jalisco
+            dir: jalisco/constitucion
+            pdf_url: "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/legislacion/Constitución/Documentos_PDF-Constitución/Constitución Política del Estado de Jalisco-180423.pdf"
+          - estado: cdmx
+            perfil: cdmx
+            dir: cdmx/constitucion
+            pdf_url: ""   # sin PDF oficial en URL fija → vigilancia manual
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+
+      - name: Resolver URL de este estado
+        id: url
+        run: |
+          OVERRIDE_ESTADO="${{ inputs.estado }}"
+          OVERRIDE_URL="${{ inputs.pdf_url }}"
+          URL="${{ matrix.pdf_url }}"
+          # Si se pasó un override y aplica a ESTE estado de la matriz, úsalo.
+          if [ -n "$OVERRIDE_ESTADO" ]; then
+            if [ "$OVERRIDE_ESTADO" = "${{ matrix.estado }}" ]; then
+              URL="$OVERRIDE_URL"
+            else
+              URL=""   # disparo manual dirigido a otro estado: saltar este
+            fi
+          fi
+          if [ -z "$URL" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "::notice::${{ matrix.estado }}: sin URL descargable — vigilancia manual."
+          else
+            echo "skip=false" >> "$GITHUB_OUTPUT"
+            echo "url=$URL" >> "$GITHUB_OUTPUT"
+          fi
+
+      - uses: actions/setup-python@v6
+        if: steps.url.outputs.skip == 'false'
+        with:
+          python-version: '3.12'
+
+      - name: Clonar extractor e instalar dependencias
+        if: steps.url.outputs.skip == 'false'
+        run: |
+          git clone --depth 1 "$EXTRACTOR_REPO" /tmp/extractor
+          pip install -r /tmp/extractor/requirements.txt
+
+      - name: Descargar el PDF vigente
+        if: steps.url.outputs.skip == 'false'
+        run: curl -sSL --retry 3 -o /tmp/estatal.pdf "${{ steps.url.outputs.url }}"
+
+      - name: Regenerar texto + metadata desde el PDF
+        if: steps.url.outputs.skip == 'false'
+        run: |
+          PYTHONPATH=/tmp/extractor python -m extractor build \
+            --pdf /tmp/estatal.pdf --out "$GITHUB_WORKSPACE/${{ matrix.dir }}" \
+            --perfil "${{ matrix.perfil }}"
+
+      - name: ¿Cambió el texto vigente?
+        if: steps.url.outputs.skip == 'false'
+        id: cambios
+        run: |
+          if [ -n "$(git status --porcelain -- "${{ matrix.dir }}")" ]; then
+            echo "hay_cambios=true" >> "$GITHUB_OUTPUT"
+            git status --short -- "${{ matrix.dir }}"
+          else
+            echo "hay_cambios=false" >> "$GITHUB_OUTPUT"
+            echo "Sin cambios: el texto vigente coincide con el repo."
+          fi
+
+      - name: Enriquecer artículos cambiados (opcional, best-effort)
+        if: steps.url.outputs.skip == 'false' && steps.cambios.outputs.hay_cambios == 'true' && env.OPENAI_API_KEY != ''
+        continue-on-error: true
+        run: |
+          pip install openai
+          PYTHONPATH=/tmp/extractor python -m extractor enriquecer \
+            --pdf /tmp/estatal.pdf --out "$GITHUB_WORKSPACE/${{ matrix.dir }}" \
+            --perfil "${{ matrix.perfil }}" --proveedor openai
+
+      - name: Actualizar el PDF fuente (solo si hubo reforma)
+        if: steps.url.outputs.skip == 'false' && steps.cambios.outputs.hay_cambios == 'true'
+        run: cp /tmp/estatal.pdf "$GITHUB_WORKSPACE/${{ matrix.dir }}/fuente/constitucion.pdf"
+
+      - name: Generar cuerpo del PR
+        if: steps.url.outputs.skip == 'false' && steps.cambios.outputs.hay_cambios == 'true'
+        run: |
+          {
+            echo "## 🏛️ Posible reforma — ${{ matrix.estado }} (detección automática)"
+            echo
+            echo "El texto regenerado desde el PDF oficial difiere del versionado"
+            echo "en este repositorio. PR abierto automáticamente para revisar el diff."
+            echo
+            echo "### Artículos con cambios"
+            git status --porcelain -- "${{ matrix.dir }}/articulos" | sed 's/^/ - /'
+            echo
+            echo "### Antes de aprobar"
+            echo "- Revisa el diff de \`${{ matrix.dir }}/articulos/\` contra el periódico"
+            echo "  oficial del estado — debe corresponder a una reforma real."
+          } > /tmp/cuerpo.md
+          cat /tmp/cuerpo.md
+
+      - name: Abrir Pull Request
+        if: steps.url.outputs.skip == 'false' && steps.cambios.outputs.hay_cambios == 'true'
+        uses: peter-evans/create-pull-request@v7
+        with:
+          branch: reforma/${{ matrix.estado }}-deteccion-automatica
+          base: main
+          title: '🏛️ Posible reforma — ${{ matrix.estado }} (detección automática)'
+          body-path: /tmp/cuerpo.md
+          commit-message: 'Actualización automática del texto vigente — ${{ matrix.estado }}'
+          add-paths: ${{ matrix.dir }}/**
+          labels: |
+            reforma
+            automatico
+          delete-branch: true

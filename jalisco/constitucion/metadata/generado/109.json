@@ -1,0 +1,31 @@
+{
+  "clave": "109",
+  "etiqueta": "Artículo 109º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:3a50033c06b504de",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Cargos de elección popular",
+  "temas": [
+    "restricciones de candidatos",
+    "cargos públicos",
+    "elección popular",
+    "proceso electoral"
+  ],
+  "terminos_coloquiales": [
+    "candidatos a la vez",
+    "no ser candidato en dos lugares",
+    "cargos políticos simultáneos",
+    "elecciones"
+  ],
+  "resumen": "Este artículo establece que una persona no puede ocupar más de un cargo de elección popular al mismo tiempo. Además, un candidato no puede postularse para diferentes cargos en el mismo proceso electoral, ni para cargos estatales y federales simultáneamente.",
+  "preguntas_ejemplo": [
+    "¿Puedo ser candidato a dos puestos diferentes en las elecciones?",
+    "¿Qué dice la ley sobre ser candidato a cargos estatales y federales al mismo tiempo?",
+    "¿Hay restricciones para los candidatos en las elecciones municipales?",
+    "¿Qué pasa si quiero postularme a varios cargos de elección?",
+    "¿Se pueden combinar candidaturas en distintas elecciones?"
+  ]
+}

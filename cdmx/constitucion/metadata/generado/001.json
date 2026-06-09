@@ -1,0 +1,36 @@
+{
+  "clave": "001",
+  "etiqueta": "Artículo 1",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:75a835beec4faabd",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Ciudad de México",
+  "temas": [
+    "soberanía",
+    "poder público",
+    "democracia",
+    "derechos humanos",
+    "autonomía",
+    "educación",
+    "sustentabilidad"
+  ],
+  "terminos_coloquiales": [
+    "gobierno de la Ciudad",
+    "derechos del pueblo",
+    "cómo se rige la ciudad",
+    "autonomía de la Ciudad",
+    "todo sobre la Ciudad de México"
+  ],
+  "resumen": "La Ciudad de México es una entidad autónoma que ejerce su soberanía a través del pueblo y sus poderes. Promueve la democracia, los derechos humanos, la educación y la sustentabilidad para un desarrollo integral.",
+  "preguntas_ejemplo": [
+    "¿Qué tipo de gobierno tiene la Ciudad de México?",
+    "¿Cómo se ejerce la soberanía en la Ciudad de México?",
+    "¿Cuáles son los derechos garantizados en la ciudad?",
+    "¿Qué papel juega el pueblo en el gobierno de la Ciudad de México?",
+    "¿Cómo se promueve la educación en la Ciudad?",
+    "¿Cuáles son las características de la autonomía de la Ciudad?"
+  ]
+}

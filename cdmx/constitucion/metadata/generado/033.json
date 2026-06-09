@@ -1,0 +1,33 @@
+{
+  "clave": "033",
+  "etiqueta": "Artículo 33",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:8315022b9d579697",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Administración Pública en la Ciudad de México",
+  "temas": [
+    "gobierno abierto",
+    "atención ciudadana",
+    "accesibilidad",
+    "informes de gestión",
+    "remuneraciones"
+  ],
+  "terminos_coloquiales": [
+    "cómo funciona el gobierno",
+    "qué es el gobierno abierto",
+    "informes de los secretarios",
+    "sueldos de funcionarios",
+    "accesibilidad en la ciudad"
+  ],
+  "resumen": "El artículo establece que la Administración Pública de la Ciudad de México será centralizada y debe ser accesible y transparente. Los secretarios tienen que presentar informes anuales sobre su trabajo.",
+  "preguntas_ejemplo": [
+    "¿Cómo se organiza el gobierno de la Ciudad de México?",
+    "¿Qué principios rigen la administración pública en la ciudad?",
+    "¿Cuándo tienen que reportar sus actividades los secretarios?",
+    "¿Cómo se aseguran que el gobierno sea accesible para todos?",
+    "¿Dónde se puede consultar el informe de un secretario?"
+  ]
+}

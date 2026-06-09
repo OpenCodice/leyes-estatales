@@ -1,0 +1,30 @@
+{
+  "clave": "048",
+  "etiqueta": "Artículo 48º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:44acbd73a4a4fe24",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Consejero Jurídico del Gobernador",
+  "temas": [
+    "Gobernador",
+    "Consejero Jurídico",
+    "Poder Ejecutivo",
+    "Dependencia"
+  ],
+  "terminos_coloquiales": [
+    "abogado del Gobernador",
+    "asesor legal del Gobernador",
+    "dependencia del Gobierno",
+    "función del consejero"
+  ],
+  "resumen": "El artículo establece que la función de consejero jurídico del Gobernador es ejercida por la dependencia del Poder Ejecutivo que lo determine la Ley.",
+  "preguntas_ejemplo": [
+    "¿Quién es el consejero jurídico del Gobernador?",
+    "¿Qué función tiene el consejero jurídico?",
+    "¿Qué dependencia se encarga del consejero jurídico?",
+    "¿Cómo se nombra al consejero jurídico del Gobernador?"
+  ]
+}

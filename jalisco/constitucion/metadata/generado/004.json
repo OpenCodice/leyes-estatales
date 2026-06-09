@@ -1,0 +1,40 @@
+{
+  "clave": "004",
+  "etiqueta": "Artículo 4º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:f6cd7ca13e1b0798",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derechos Humanos en Jalisco",
+  "temas": [
+    "derecho a la vida",
+    "no discriminación",
+    "derechos culturales",
+    "participación ciudadana",
+    "derechos de los pueblos indígenas",
+    "derecho a la información",
+    "movilidad",
+    "derechos en el trabajo doméstico",
+    "derecho a la salud"
+  ],
+  "terminos_coloquiales": [
+    "derechos de la gente",
+    "igualdad para todos",
+    "derechos de los pueblos indígenas",
+    "derechos culturales",
+    "acceso a la información",
+    "derecho a la vida",
+    "sin discriminación",
+    "movilidad segura"
+  ],
+  "resumen": "El Artículo 4º establece que todas las personas en Jalisco tienen derechos garantizados por la Constitución, incluyendo el derecho a la vida, a no ser discriminados, y a participar en la vida cultural. También se reconoce la importancia de proteger a los pueblos indígenas y sus derechos.",
+  "preguntas_ejemplo": [
+    "¿Cuáles son mis derechos si vivo en Jalisco?",
+    "¿Qué dice la ley sobre la vida y las personas?",
+    "¿Cómo se protege a los pueblos indígenas en Jalisco?",
+    "¿Cuáles son los derechos culturales que tengo?",
+    "¿Está prohibida la discriminación en Jalisco?"
+  ]
+}

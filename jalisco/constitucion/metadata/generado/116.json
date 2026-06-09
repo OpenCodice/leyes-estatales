@@ -1,0 +1,35 @@
+{
+  "clave": "116",
+  "etiqueta": "Artículo 116º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:0cd9c8160c7e43f5",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Relaciones Laborales del Estado",
+  "temas": [
+    "relaciones laborales",
+    "servidores públicos",
+    "imparcialidad",
+    "recursos públicos",
+    "propaganda institucional",
+    "eficiencia",
+    "sanciones"
+  ],
+  "terminos_coloquiales": [
+    "trabajos del gobierno",
+    "empleados públicos",
+    "manejo de recursos",
+    "propaganda de gobierno",
+    "cómo manejan el dinero público"
+  ],
+  "resumen": "Este artículo establece cómo se regulan las relaciones laborales de los servidores públicos en el Estado y los municipios. También menciona la obligación de aplicar los recursos públicos de manera imparcial y las reglas sobre la propaganda que deben seguir los entes públicos.",
+  "preguntas_ejemplo": [
+    "¿Cómo se regulan los trabajos de los empleados del gobierno?",
+    "¿Qué obligaciones tienen los servidores públicos respecto a los recursos públicos?",
+    "¿Qué tipo de propaganda pueden usar los poderes públicos?",
+    "¿Cómo se asegura la imparcialidad en el manejo del dinero público?",
+    "¿Qué pasa si un servidor público no cumple con estas reglas?"
+  ]
+}

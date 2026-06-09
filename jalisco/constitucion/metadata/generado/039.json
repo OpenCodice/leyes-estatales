@@ -1,0 +1,33 @@
+{
+  "clave": "039",
+  "etiqueta": "Artículo 39º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:204b2a79495c55eb",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Gobernador interino",
+  "temas": [
+    "falta absoluta",
+    "Gobernador del Estado",
+    "nombramiento interino",
+    "comicios extraordinarios",
+    "elección ordinaria"
+  ],
+  "terminos_coloquiales": [
+    "qué pasa si el gobernador se va",
+    "gobernador interino",
+    "elección de gobernador",
+    "gobernador sustituto",
+    "elecciones anticipadas"
+  ],
+  "resumen": "El artículo establece el procedimiento a seguir si el Gobernador del Estado deja su cargo de forma definitiva en los primeros dos años. Se nombra un Gobernador interino hasta que se realicen elecciones extraordinarias para elegir a un sustituto.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si el gobernador renuncia?",
+    "¿Cómo se elige a un gobernador interino?",
+    "¿Cuándo se hacen elecciones extraordinarias para gobernador?",
+    "¿Quién asume el cargo si el gobernador no puede continuar?",
+    "¿Qué procedimientos se siguen en caso de falta absoluta del gobernador?"
+  ]
+}

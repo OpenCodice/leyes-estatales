@@ -1,0 +1,35 @@
+{
+  "clave": "012",
+  "etiqueta": "Artículo 12º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:047c46cc18c24642",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Elecciones y procesos electorales",
+  "temas": [
+    "elecciones libres",
+    "principios electorales",
+    "organización electoral",
+    "Instituto Electoral",
+    "remuneraciones",
+    "impugnaciones electorales"
+  ],
+  "terminos_coloquiales": [
+    "votaciones",
+    "elecciones justas",
+    "gente que organiza elecciones",
+    "dinero en campañas",
+    "cómo votar",
+    "qué pasa si se impugna una elección"
+  ],
+  "resumen": "El artículo establece que las elecciones deben ser libres y periódicas, organizadas por el Instituto Electoral de Jalisco, que tiene autonomía. También detalla los principios que deben seguir las elecciones y cómo se manejan las impugnaciones y el presupuesto destinado a estos procesos.",
+  "preguntas_ejemplo": [
+    "¿Cómo se organizan las elecciones en Jalisco?",
+    "¿Qué principios deben seguir las elecciones?",
+    "¿Qué hacer si quiero impugnar una elección?",
+    "¿Cuánto ganan los consejeros electorales?",
+    "¿Cuáles son las reglas para las votaciones?"
+  ]
+}

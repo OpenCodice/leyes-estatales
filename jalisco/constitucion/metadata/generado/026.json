@@ -1,0 +1,34 @@
+{
+  "clave": "026",
+  "etiqueta": "Artículo 26º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:b17e7444ffde072c",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Presupuesto del Poder Legislativo",
+  "temas": [
+    "presupuesto",
+    "Poder Legislativo",
+    "entidades federativas",
+    "municipios",
+    "disciplina financiera",
+    "inflación"
+  ],
+  "terminos_coloquiales": [
+    "dinero del Congreso",
+    "presupuesto del gobierno",
+    "gastos del Poder Legislativo",
+    "cómo se gasta el presupuesto",
+    "finanzas públicas"
+  ],
+  "resumen": "Este artículo establece que el presupuesto del Poder Legislativo no puede ser menor que el del año anterior, ajustado por la inflación. Esto se aplica a las entidades federativas y municipios en relación con la disciplina financiera.",
+  "preguntas_ejemplo": [
+    "¿Cuánto dinero recibe el Poder Legislativo?",
+    "¿Puede el presupuesto del Congreso ser menor que el año pasado?",
+    "¿Cómo se ajusta el presupuesto por la inflación?",
+    "¿Qué leyes regulan la disciplina financiera de los municipios?",
+    "¿Qué pasa si el presupuesto del año anterior era muy bajo?"
+  ]
+}

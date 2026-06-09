@@ -1,0 +1,35 @@
+{
+  "clave": "066",
+  "etiqueta": "Artículo 66",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:56193472bb8e86f6",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Responsabilidad penal de servidores públicos",
+  "temas": [
+    "responsabilidad penal",
+    "servidores públicos",
+    "fuero",
+    "inviolabilidad",
+    "delitos",
+    "cohecho",
+    "peculado"
+  ],
+  "terminos_coloquiales": [
+    "responsabilidad de funcionarios",
+    "delitos de servidores públicos",
+    "fuero en CDMX",
+    "protección a diputados",
+    "corrupción en el gobierno"
+  ],
+  "resumen": "Este artículo establece que los servidores públicos son responsables por los delitos que cometan en su cargo y que en la Ciudad de México no tienen fuero. También menciona que los diputados son inviolables por sus opiniones en el ejercicio de su función.",
+  "preguntas_ejemplo": [
+    "¿Los funcionarios públicos pueden ser juzgados por delitos?",
+    "¿Qué dice la ley sobre el fuero en CDMX?",
+    "¿Los diputados pueden ser demandados por lo que dicen?",
+    "¿Qué delito afecta a los funcionarios en el desempeño de su trabajo?",
+    "¿Cómo se interrumpe el plazo para juzgar a un servidor público?"
+  ]
+}

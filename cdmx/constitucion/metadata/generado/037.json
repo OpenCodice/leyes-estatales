@@ -1,0 +1,31 @@
+{
+  "clave": "037",
+  "etiqueta": "Artículo 37",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:56d0bb981c806884",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Consejo Judicial Ciudadano",
+  "temas": [
+    "designación de fiscal",
+    "fiscales especializados",
+    "organismo ciudadano",
+    "equidad de género"
+  ],
+  "terminos_coloquiales": [
+    "quién elige al fiscal",
+    "Consejo Judicial",
+    "fiscales de corrupción",
+    "integrantes del consejo"
+  ],
+  "resumen": "El Consejo Judicial Ciudadano es un grupo de once personas, la mayoría abogados, que ayudan a elegir a fiscales en la Ciudad de México. Deben ser personas honorables y su cargo no se paga. Se busca que haya igualdad de género en sus integrantes.",
+  "preguntas_ejemplo": [
+    "¿Qué es el Consejo Judicial Ciudadano?",
+    "¿Cómo se elige a los fiscales en la Ciudad de México?",
+    "¿Quién forma parte del Consejo Judicial Ciudadano?",
+    "¿Cuáles son las funciones del Consejo Judicial?",
+    "¿Qué requisitos tienen que cumplir los integrantes del consejo?"
+  ]
+}

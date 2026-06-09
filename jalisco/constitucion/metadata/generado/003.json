@@ -1,0 +1,30 @@
+{
+  "clave": "003",
+  "etiqueta": "Artículo 3º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:4cf42d2095ce5f0a",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derechos Humanos y Garantías",
+  "temas": [
+    "territorio del Estado",
+    "derechos humanos",
+    "administración pública",
+    "municipios"
+  ],
+  "terminos_coloquiales": [
+    "dónde empieza el estado",
+    "derechos de la gente",
+    "cómo se organiza un municipio",
+    "derechos en mi comunidad"
+  ],
+  "resumen": "Este artículo habla sobre el territorio que pertenece al Estado y menciona que los municipios se definen en una ley específica para la administración pública. También trata sobre derechos humanos y sus garantías.",
+  "preguntas_ejemplo": [
+    "¿Qué es el territorio del Estado?",
+    "¿Cómo se definen los municipios en México?",
+    "¿Qué son los derechos humanos?",
+    "¿Cómo se garantizan los derechos en mi localidad?"
+  ]
+}

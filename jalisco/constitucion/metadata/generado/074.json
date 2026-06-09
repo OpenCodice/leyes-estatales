@@ -1,0 +1,37 @@
+{
+  "clave": "074",
+  "etiqueta": "Artículo 74º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:9965d4e257eb76d9",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Requisitos para Presidentes Municipales",
+  "temas": [
+    "ciudadanía",
+    "derechos políticos",
+    "sentencias condenatorias",
+    "violencia política",
+    "deudas alimentarias",
+    "servicio público",
+    "elecciones"
+  ],
+  "terminos_coloquiales": [
+    "quién puede ser presidente municipal",
+    "requisitos para regidores",
+    "candidatos a la alcaldía",
+    "violencia contra mujeres en política",
+    "puedo ser candidato si tengo deudas",
+    "dónde ver requisitos para elecciones"
+  ],
+  "resumen": "El artículo establece los requisitos que deben cumplir las personas que desean ser presidentes municipales o regidores, incluyendo la ciudadanía mexicana, no tener deudas alimentarias y no haber sido condenados por violencia política. También se menciona que ciertos servidores públicos deben separarse de sus funciones antes de la elección.",
+  "preguntas_ejemplo": [
+    "¿Qué se necesita para ser presidente municipal?",
+    "¿Puedo ser regidora si tengo una condena?",
+    "¿Cuánto tiempo antes debo dejar mi cargo para candidatearme?",
+    "¿Qué pasa si tengo deudas alimentarias?",
+    "¿Quiénes no pueden ser electos como funcionarios municipales?",
+    "¿Cuál es el proceso para ser candidato a alcalde?"
+  ]
+}

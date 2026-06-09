@@ -1,0 +1,33 @@
+{
+  "clave": "072",
+  "etiqueta": "Artículo 72º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:0ecf90800830f17c",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Controversias laborales de servidores públicos",
+  "temas": [
+    "Tribunal de Arbitraje",
+    "Relaciones de trabajo",
+    "Servidores públicos",
+    "Ley para los Servidores Públicos",
+    "Gobierno municipal"
+  ],
+  "terminos_coloquiales": [
+    "disputas laborales",
+    "problemas en el trabajo",
+    "conflictos con el gobierno",
+    "ley de servidores públicos",
+    "tribunales laborales"
+  ],
+  "resumen": "Este artículo establece que el Tribunal de Arbitraje y Escalafón se encarga de resolver disputas laborales entre el Estado, municipios y sus trabajadores. Regula cómo deben organizarse y funcionar los servidores públicos en este contexto.",
+  "preguntas_ejemplo": [
+    "¿Qué hace el Tribunal de Arbitraje y Escalafón?",
+    "¿Cómo se resuelven los problemas laborales con servidores públicos?",
+    "¿Quiénes están sujetos a la Ley para los Servidores Públicos en Jalisco?",
+    "¿Qué conflictos no maneja este tribunal?",
+    "¿Qué normas rigen las relaciones de trabajo en el gobierno municipal?"
+  ]
+}

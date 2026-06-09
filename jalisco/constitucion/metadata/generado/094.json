@@ -1,0 +1,31 @@
+{
+  "clave": "094",
+  "etiqueta": "Artículo 94º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:a5e900de0fc74059",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derecho a denunciar conductas ilícitas",
+  "temas": [
+    "derecho de denuncia",
+    "ciudadano",
+    "autoridad competente",
+    "conductas ilícitas"
+  ],
+  "terminos_coloquiales": [
+    "denunciar un delito",
+    "reportar algo malo",
+    "hacer una queja",
+    "avisar a las autoridades"
+  ],
+  "resumen": "Cualquier ciudadano tiene el derecho de denunciar conductas ilegales, siempre que presente pruebas y asuma la responsabilidad. Esto se hace ante la autoridad que corresponda.",
+  "preguntas_ejemplo": [
+    "¿Cómo puedo denunciar un delito?",
+    "¿Quién puede hacer una denuncia?",
+    "¿Qué se necesita para reportar algo ilegal?",
+    "¿Qué debo presentar para hacer una queja?",
+    "¿Dónde debo ir a denunciar un ilícito?"
+  ]
+}

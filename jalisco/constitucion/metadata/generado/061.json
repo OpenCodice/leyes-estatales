@@ -1,0 +1,33 @@
+{
+  "clave": "061",
+  "etiqueta": "Artículo 61º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:05dc860c46d22e97",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Magistrados del Supremo Tribunal",
+  "temas": [
+    "duración del cargo",
+    "remoción de magistrados",
+    "causas de retiro",
+    "evaluaciones de confianza"
+  ],
+  "terminos_coloquiales": [
+    "magistrados",
+    "jueces",
+    "tiempo en el cargo",
+    "cómo pueden ser despedidos",
+    "retirarse por edad",
+    "evaluaciones de jueces"
+  ],
+  "resumen": "Los magistrados del Supremo Tribunal de Justicia tienen un periodo de doce años en su puesto y solo pueden ser removidos bajo ciertas condiciones. También se retiran de manera forzosa o voluntaria, y deben pasar evaluaciones cada cuatro años.",
+  "preguntas_ejemplo": [
+    "¿Cuánto tiempo dura un magistrado en su puesto?",
+    "¿Qué pasa si un magistrado no pasa las evaluaciones?",
+    "¿Cuáles son las razones para que un magistrado sea removido?",
+    "¿Hasta qué edad pueden estar en el cargo los magistrados?",
+    "¿Cómo se retiran los magistrados del Supremo Tribunal?"
+  ]
+}

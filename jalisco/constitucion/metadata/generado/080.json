@@ -1,0 +1,40 @@
+{
+  "clave": "080",
+  "etiqueta": "Artículo 80º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:729551756b2e25bb",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Facultades de los municipios",
+  "temas": [
+    "desarrollo urbano",
+    "zonificación",
+    "utilización del suelo",
+    "licencias de construcción",
+    "tenencia de la tierra",
+    "reservas ecológicas",
+    "planeación municipal",
+    "transporte público",
+    "coordinación intermunicipal",
+    "combate a la corrupción"
+  ],
+  "terminos_coloquiales": [
+    "cómo se organizan los pueblos",
+    "permisos para construir",
+    "quién regula el urbanismo",
+    "zonas de reserva",
+    "participación ciudadana",
+    "administración de tierras",
+    "licencias de obras"
+  ],
+  "resumen": "El artículo establece que los municipios tienen el poder de planificar y regular el uso del suelo, así como gestionar el desarrollo urbano y espacios ecológicos. Además, les permite trabajar en coordinación con otros niveles de gobierno y la ciudadanía.",
+  "preguntas_ejemplo": [
+    "¿Qué pueden hacer los municipios en el desarrollo urbano?",
+    "¿Quién regula las construcciones en mi área?",
+    "¿Cómo se manejan las zonas ecológicas en el municipio?",
+    "¿Qué permisos necesito para construir en mi terreno?",
+    "¿Cómo puedo participar en la planificación de mi comunidad?"
+  ]
+}

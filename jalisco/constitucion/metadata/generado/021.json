@@ -1,0 +1,36 @@
+{
+  "clave": "021",
+  "etiqueta": "Artículo 21º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:3f4bbc128e769ab2",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Requisitos para ser diputado",
+  "temas": [
+    "ciudadanía",
+    "edad mínima",
+    "residencia",
+    "inelegibilidad",
+    "cargo público",
+    "servicio militar",
+    "violencia política"
+  ],
+  "terminos_coloquiales": [
+    "quién puede ser diputado",
+    "requisitos para ser legislador",
+    "edad para ser diputado",
+    "cargos que inhabilitan para ser diputado",
+    "documentos para postulación",
+    "cancelación de candidatura"
+  ],
+  "resumen": "El artículo establece los requisitos que se deben cumplir para ser diputado en Jalisco, incluyendo ser ciudadano mexicano, tener al menos 21 años y no ocupar ciertos cargos públicos. También menciona restricciones relacionadas con la violencia política y deudas alimentarias.",
+  "preguntas_ejemplo": [
+    "¿Cuáles son los requisitos para ser diputado en Jalisco?",
+    "¿Qué edad debo tener para postularme como diputado?",
+    "¿Puedo ser diputado si tengo deudas alimentarias?",
+    "¿Qué cargos públicos me impiden ser candidato a diputado?",
+    "¿Es necesario ser de Jalisco para ser diputado allí?"
+  ]
+}

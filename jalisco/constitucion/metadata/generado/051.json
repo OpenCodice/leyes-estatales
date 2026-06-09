@@ -1,0 +1,31 @@
+{
+  "clave": "051",
+  "etiqueta": "Artículo 51º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:306b33d76878a445",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Justicia y violencia",
+  "temas": [
+    "autojusticia",
+    "violencia",
+    "derechos",
+    "proceso legal"
+  ],
+  "terminos_coloquiales": [
+    "hacer justicia por mi cuenta",
+    "tomar la justicia en mis manos",
+    "resolver problemas a golpes",
+    "pelear por mis derechos"
+  ],
+  "resumen": "El artículo prohíbe que las personas tomen la justicia por su propia mano o usen la violencia para obtener lo que les corresponde. Hay que seguir el proceso legal para resolver conflictos.",
+  "preguntas_ejemplo": [
+    "¿Puedo hacer justicia por mi cuenta si siento que no se me respeta?",
+    "¿Qué dice la ley sobre tomar venganza?",
+    "¿Es legal pelear si creo que tengo razón?",
+    "¿Cómo debo actuar si me niegan un derecho?",
+    "¿Qué alternativas tengo si no puedo reclamar mis derechos?"
+  ]
+}

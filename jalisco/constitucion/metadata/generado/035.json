@@ -1,0 +1,37 @@
+{
+  "clave": "035",
+  "etiqueta": "Artículo 35º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:84035d54027f0f3d",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Facultades del Congreso",
+  "temas": [
+    "legislación",
+    "ejecutivo",
+    "división territorial",
+    "gastos del Estado",
+    "empleos públicos",
+    "plebiscitos",
+    "referéndums",
+    "fiscalización",
+    "derechos humanos"
+  ],
+  "terminos_coloquiales": [
+    "poder del Congreso",
+    "leyes que hace el Congreso",
+    "qué puede hacer el Congreso",
+    "decisiones del Congreso",
+    "administración del Estado"
+  ],
+  "resumen": "El artículo describe las atribuciones del Congreso, incluyendo la creación de leyes, la aprobación del presupuesto y la supervisión del Ejecutivo. También incluye la elección de ciertos funcionarios y la capacidad de convocar plebiscitos y referéndums.",
+  "preguntas_ejemplo": [
+    "¿Qué puede hacer el Congreso del Estado?",
+    "¿Cómo se elige a los magistrados según la Constitución?",
+    "¿Qué tipo de presupuesto debe presentar el Congreso?",
+    "¿Qué facultades tiene el Congreso en relación al Ejecutivo?",
+    "¿Cómo se convocan plebiscitos y referéndums?"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "clave": "001",
+  "etiqueta": "Artículo 1º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:9fff9e8aafe2975d",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Soberanía del Estado de Jalisco",
+  "temas": [
+    "soberanía",
+    "Estado de Jalisco",
+    "régimen interior",
+    "Federación",
+    "unión entre estados"
+  ],
+  "terminos_coloquiales": [
+    "libertad de Jalisco",
+    "Jalisco y la Federación",
+    "poder de Jalisco",
+    "autonomía de Jalisco"
+  ],
+  "resumen": "El artículo establece que Jalisco es un estado libre y soberano en su administración, pero forma parte de la Federación de México. Jalisco está unido a los demás estados que conforman el país.",
+  "preguntas_ejemplo": [
+    "¿Jalisco es soberano?",
+    "¿Qué dice la Constitución sobre Jalisco y la Federación?",
+    "¿Cómo se relaciona Jalisco con otros estados de México?",
+    "¿Qué significa ser un estado libre y soberano?",
+    "¿Jalisco tiene autonomía?"
+  ]
+}

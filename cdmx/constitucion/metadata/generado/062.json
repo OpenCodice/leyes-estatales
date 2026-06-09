@@ -1,0 +1,38 @@
+{
+  "clave": "062",
+  "etiqueta": "Artículo 62",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:5f31e584aab6406d",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Fiscalización Superior",
+  "temas": [
+    "autonomía de gestión",
+    "fiscalización",
+    "recursos públicos",
+    "auditorías",
+    "responsabilidades administrativas",
+    "transparencia",
+    "deuda pública",
+    "cuenta pública"
+  ],
+  "terminos_coloquiales": [
+    "control del dinero público",
+    "auditoría de cuentas",
+    "revisión de gastos",
+    "supervisión de fondos",
+    "transparencia financiera",
+    "informes de auditoría"
+  ],
+  "resumen": "Este artículo establece la autonomía de la entidad encargada de fiscalizar la administración pública en la Ciudad de México, permitiéndole llevar a cabo auditorías y supervisiones sobre el uso de recursos públicos. Además, garantiza la transparencia y la rendición de cuentas en el manejo de la deuda pública y los fondos asignados a diferentes entes públicos.",
+  "preguntas_ejemplo": [
+    "¿Cómo se supervisa el uso del dinero público en la Ciudad de México?",
+    "¿Qué facultades tiene la entidad de fiscalización?",
+    "¿Quién puede hacer auditorías a la administración pública?",
+    "¿Qué información debe presentar la cuenta pública?",
+    "¿Cómo se garantizan la transparencia y la rendición de cuentas?",
+    "¿Qué pasa si se detectan irregularidades en la fiscalización?"
+  ]
+}

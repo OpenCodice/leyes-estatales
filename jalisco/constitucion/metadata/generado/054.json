@@ -1,0 +1,34 @@
+{
+  "clave": "054",
+  "etiqueta": "Artículo 54º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:2b9818dfd6cdf110",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Procuraduría Social",
+  "temas": [
+    "defensa de intereses sociales",
+    "defensa de intereses familiares",
+    "defensoría de oficio",
+    "ramos penal",
+    "ramos familiar",
+    "Poder Ejecutivo"
+  ],
+  "terminos_coloquiales": [
+    "defensa social",
+    "ayuda legal gratuita",
+    "abogado de oficio",
+    "protección familiar",
+    "procuraduría"
+  ],
+  "resumen": "Este artículo establece la creación de la Procuraduría Social, que se encargará de defender los intereses sociales y familiares, además de ofrecer defensoría de oficio en casos penales y familiares. Este organismo dependerá del Poder Ejecutivo del Estado.",
+  "preguntas_ejemplo": [
+    "¿Qué es la Procuraduría Social?",
+    "¿Quién defiende los intereses familiares?",
+    "¿Dónde puedo encontrar ayuda legal gratuita?",
+    "¿Qué hace un defensor de oficio?",
+    "¿Quién designa al titular de la Procuraduría Social?"
+  ]
+}

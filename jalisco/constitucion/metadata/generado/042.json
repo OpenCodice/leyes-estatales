@@ -1,0 +1,33 @@
+{
+  "clave": "042",
+  "etiqueta": "Artículo 42º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:24c7f31245ee1fd0",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Gobernador interino",
+  "temas": [
+    "gobernador",
+    "ausencia absoluta",
+    "Congreso",
+    "Poder Ejecutivo",
+    "elección",
+    "periodo constitucional"
+  ],
+  "terminos_coloquiales": [
+    "gobernador temporal",
+    "quien gobierna mientras se elige",
+    "vacante del gobernador",
+    "interinato del gobernador"
+  ],
+  "resumen": "El artículo establece que si no se elige o presenta al gobernador al inicio de un periodo, cesa el actual gobernador y el Congreso designa un gobernador interino. Este interino asumirá hasta que se realice la elección correspondiente.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si no hay gobernador electo al inicio del periodo?",
+    "¿Quién asume el poder ejecutivo si el gobernador no se presenta?",
+    "¿Qué sucede si el gobernador sale antes de que termine su mandato?",
+    "¿Cómo se elige un gobernador interino?",
+    "¿Cuáles son las condiciones para que un gobernador sea interino?"
+  ]
+}

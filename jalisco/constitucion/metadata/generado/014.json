@@ -1,0 +1,35 @@
+{
+  "clave": "014",
+  "etiqueta": "Artículo 14º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:210c6bc9c05d42d0",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "División de poderes",
+  "temas": [
+    "poder público",
+    "Legislativo",
+    "Ejecutivo",
+    "Judicial",
+    "organismos estatales",
+    "autonomía",
+    "capital del Estado"
+  ],
+  "terminos_coloquiales": [
+    "separación de poderes",
+    "poderes del gobierno",
+    "tres poderes",
+    "poderes del Estado",
+    "organismos públicos"
+  ],
+  "resumen": "Este artículo establece que el poder del Estado se divide en tres poderes: Legislativo, Ejecutivo y Judicial, los cuales no pueden concentrarse en una sola persona. Además, todos los organismos públicos forman parte de estos poderes, excepto los autónomos.",
+  "preguntas_ejemplo": [
+    "¿Cuáles son los poderes del Estado?",
+    "¿Qué dice la Constitución sobre la separación de poderes?",
+    "¿Pueden estar los poderes en una sola persona?",
+    "¿Qué son los organismos públicos autónomos?",
+    "¿Dónde deben residir los poderes del Estado?"
+  ]
+}

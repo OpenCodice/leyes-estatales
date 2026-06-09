@@ -1,0 +1,34 @@
+{
+  "clave": "049",
+  "etiqueta": "Artículo 49",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:f090512f3323ac0d",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Instituto de Transparencia",
+  "temas": [
+    "acceso a la información",
+    "protección de datos personales",
+    "derechos ciudadanos",
+    "transparencia",
+    "recursos de revisión",
+    "responsabilidad administrativa"
+  ],
+  "terminos_coloquiales": [
+    "cómo puedo acceder a información pública",
+    "qué hacer si no me dan información",
+    "protección de mi información personal",
+    "derechos de transparencia",
+    "qué es el Instituto de Transparencia"
+  ],
+  "resumen": "El artículo establece un organismo que garantiza el acceso a la información pública y la protección de datos personales. Este instituto está compuesto por comisionados que deben ser ciudadanos con experiencia y trabaja con principios de transparencia y máxima publicidad.",
+  "preguntas_ejemplo": [
+    "¿Quiénes pueden acceder a información pública?",
+    "¿Qué debo hacer si me niegan información?",
+    "¿Qué es el Instituto de Transparencia?",
+    "¿Cómo se protege mi información personal?",
+    "¿Qué sucede si no cumplen con las resoluciones del instituto?"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "clave": "044",
+  "etiqueta": "Artículo 44º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:246311d3c45993e4",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Suplencia del Gobernador",
+  "temas": [
+    "Gobernador",
+    "Sustitución",
+    "Secretario General de Gobierno",
+    "Poder Ejecutivo"
+  ],
+  "terminos_coloquiales": [
+    "quién sustituye al gobernador",
+    "gobernador interino",
+    "falta del gobernador",
+    "quién se queda a cargo del estado"
+  ],
+  "resumen": "Este artículo explica quién asume el cargo si el Gobernador no puede desempeñar su función. El Secretario General de Gobierno toma el mando temporalmente hasta que se elija a un Gobernador interino o sustituto. También establece los requisitos para ser elegido como Gobernador interino.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si el Gobernador no puede cumplir con sus funciones?",
+    "¿Quién asume el puesto de Gobernador temporalmente?",
+    "¿Qué requisitos debe cumplir un Gobernador interino?",
+    "¿Qué sucede si el Gobernador interino no puede continuar?",
+    "¿El Secretario General de Gobierno puede ser Gobernador interino?"
+  ]
+}

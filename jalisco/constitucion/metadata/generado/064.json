@@ -1,0 +1,35 @@
+{
+  "clave": "064",
+  "etiqueta": "Artículo 64º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:bb1da5f56941b626",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Consejo de la Judicatura",
+  "temas": [
+    "administración judicial",
+    "vigilancia judicial",
+    "disciplina judicial",
+    "elección de magistrados",
+    "designación de jueces",
+    "independencia judicial",
+    "responsabilidad de servidores públicos"
+  ],
+  "terminos_coloquiales": [
+    "quién supervisa a los jueces",
+    "cómo se eligen los magistrados",
+    "quién manda en el Poder Judicial",
+    "quién elige a los jueces",
+    "qué hace el Consejo de la Judicatura"
+  ],
+  "resumen": "El Consejo de la Judicatura se encarga de la administración y vigilancia del Poder Judicial, excepto el Supremo Tribunal. Está formado por cinco miembros y se encarga de elegir y remover jueces, además de asegurar la independencia y responsabilidad de los servidores públicos del Poder Judicial.",
+  "preguntas_ejemplo": [
+    "¿Quién forma parte del Consejo de la Judicatura?",
+    "¿Cómo se nombra a un magistrado?",
+    "¿Qué responsabilidades tiene el Consejo de la Judicatura?",
+    "¿Qué requisitos tienen que cumplir los consejeros?",
+    "¿Cuánto tiempo duran en sus cargos los consejeros?"
+  ]
+}

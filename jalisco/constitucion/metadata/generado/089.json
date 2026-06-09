@@ -1,0 +1,38 @@
+{
+  "clave": "089",
+  "etiqueta": "Artículo 89º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:ffa3463a40b17777",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Finanzas Municipales",
+  "temas": [
+    "disciplina financiera",
+    "leyes de ingresos",
+    "presupuestos de egresos",
+    "obligaciones financieras",
+    "sostenibilidad financiera",
+    "responsabilidad hacendaria",
+    "impuestos",
+    "contribuciones"
+  ],
+  "terminos_coloquiales": [
+    "dinero de los municipios",
+    "presupuesto municipal",
+    "impuestos que paga la gente",
+    "deudas de los municipios",
+    "financiamiento municipal",
+    "gastos de los ayuntamientos"
+  ],
+  "resumen": "Este artículo habla sobre cómo los municipios deben manejar su dinero y sus gastos, así como la aprobación de sus presupuestos. También establece que no puede haber exenciones o subsidios a menos que se cumplan ciertas condiciones.",
+  "preguntas_ejemplo": [
+    "¿Cómo se aprueban los presupuestos municipales?",
+    "¿Qué pasa si un municipio tiene un déficit?",
+    "¿Qué leyes rigen los impuestos municipales?",
+    "¿Qué son las obligaciones financieras de los municipios?",
+    "¿Los municipios pueden exentar impuestos a alguien?",
+    "¿Quién aprueba las leyes de ingresos de los municipios?"
+  ]
+}

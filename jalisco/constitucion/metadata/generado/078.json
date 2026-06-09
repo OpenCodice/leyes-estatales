@@ -1,0 +1,32 @@
+{
+  "clave": "078",
+  "etiqueta": "Artículo 78º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:c7ef0b603eed1cb7",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Referéndum municipal",
+  "temas": [
+    "reglamentos",
+    "Ayuntamiento",
+    "disposiciones generales",
+    "referéndum",
+    "ley de la materia"
+  ],
+  "terminos_coloquiales": [
+    "votación en el municipio",
+    "decisiones del Ayuntamiento",
+    "reglas del Ayuntamiento",
+    "participación ciudadana"
+  ],
+  "resumen": "El artículo establece que los reglamentos del Ayuntamiento, a excepción de aquellos que son de tipo impositivo, pueden ser sometidos a votación por los ciudadanos, según lo que diga la ley correspondiente.",
+  "preguntas_ejemplo": [
+    "¿Qué reglamentos del Ayuntamiento se pueden votar?",
+    "¿Cómo se lleva a cabo un referéndum en el municipio?",
+    "¿Cuáles son las reglas del Ayuntamiento que no se pueden someter a votación?",
+    "¿Qué dice la ley sobre el referéndum municipal?",
+    "¿Qué tipo de disposiciones puede votar la gente?"
+  ]
+}

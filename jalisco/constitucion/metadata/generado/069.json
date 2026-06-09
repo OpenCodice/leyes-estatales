@@ -1,0 +1,34 @@
+{
+  "clave": "069",
+  "etiqueta": "Artículo 69º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:f242f9e0ca02521b",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Magistrados electorales",
+  "temas": [
+    "elección de magistrados",
+    "duración en el cargo",
+    "remuneración",
+    "reelección",
+    "vacantes",
+    "responsabilidades"
+  ],
+  "terminos_coloquiales": [
+    "cómo se eligen magistrados",
+    "cuánto tiempo sirven los magistrados",
+    "sueldos de magistrados",
+    "magistrados reelectos",
+    "qué pasa si hay vacantes"
+  ],
+  "resumen": "El artículo establece cómo se eligen los magistrados electorales, su duración en el cargo y las condiciones bajo las cuales trabajan. También menciona que la ley local puede establecer normas adicionales sobre su funcionamiento.",
+  "preguntas_ejemplo": [
+    "¿Quién elige a los magistrados electorales?",
+    "¿Cuánto tiempo duran los magistrados en su puesto?",
+    "¿Los magistrados pueden ser reelectos?",
+    "¿Qué sucede si hay una vacante en el cargo?",
+    "¿Cuál es el salario de los magistrados electorales?"
+  ]
+}

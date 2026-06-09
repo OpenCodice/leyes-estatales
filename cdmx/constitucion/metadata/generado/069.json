@@ -1,0 +1,33 @@
+{
+  "clave": "069",
+  "etiqueta": "Artículo 69",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:a25ba1bc20ab698e",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Reformas a la Constitución",
+  "temas": [
+    "reformas constitucionales",
+    "iniciativas de reforma",
+    "voto del Congreso",
+    "referéndum",
+    "participación ciudadana"
+  ],
+  "terminos_coloquiales": [
+    "cambio a la Constitución",
+    "modificaciones a la ley",
+    "cómo se reforma la Constitución",
+    "referéndum para reformas",
+    "proceso de votación en el Congreso"
+  ],
+  "resumen": "Este artículo explica cómo se pueden hacer cambios a la Constitución y quiénes están involucrados en ese proceso. También menciona la importancia del referéndum y la participación ciudadana en las reformas.",
+  "preguntas_ejemplo": [
+    "¿Cómo se puede reformar la Constitución?",
+    "¿Qué se necesita para aprobar una reforma?",
+    "¿Qué es un referéndum y cómo se aplica?",
+    "¿Quién puede proponer cambios a la Constitución?",
+    "¿Qué porcentaje de ciudadanos debe participar en un referéndum para que sea válido?"
+  ]
+}

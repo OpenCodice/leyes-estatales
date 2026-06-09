@@ -1,0 +1,30 @@
+{
+  "clave": "046",
+  "etiqueta": "Artículo 46º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:78ff8f833d37031a",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Secretarios del Gobierno",
+  "temas": [
+    "Poder Ejecutivo",
+    "Secretario General de Gobierno",
+    "Secretarios de despacho",
+    "Facultades del Gobernador"
+  ],
+  "terminos_coloquiales": [
+    "secretario del gobierno",
+    "gobernador",
+    "poder ejecutivo",
+    "funciones de los secretarios"
+  ],
+  "resumen": "El artículo establece que el Poder Ejecutivo tiene un Secretario General de Gobierno y varios secretarios para diferentes áreas. Los documentos del Gobernador deben ser firmados por el secretario correspondiente para ser válidos.",
+  "preguntas_ejemplo": [
+    "¿Qué es un secretario del gobierno?",
+    "¿Qué requisitos tienen las decisiones del gobernador?",
+    "¿Quién firma los documentos del Gobernador?",
+    "¿Qué hace el Secretario General de Gobierno?"
+  ]
+}

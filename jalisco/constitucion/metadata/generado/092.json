@@ -1,0 +1,35 @@
+{
+  "clave": "092",
+  "etiqueta": "Artículo 92º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:c6243cf292f19ef9",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Responsabilidades de servidores públicos",
+  "temas": [
+    "servidores públicos",
+    "declaración patrimonial",
+    "responsabilidades",
+    "Poder Judicial",
+    "organismos autónomos",
+    "congreso local",
+    "administración pública"
+  ],
+  "terminos_coloquiales": [
+    "responsabilidad de funcionarios",
+    "declaración de bienes",
+    "declaración fiscal de empleados",
+    "funcionarios públicos",
+    "transparencia en el gobierno"
+  ],
+  "resumen": "Este artículo menciona quiénes son considerados servidores públicos y establece que deben cumplir con presentar su declaración patrimonial y fiscal. También señala que son responsables de sus actos en función de sus cargos.",
+  "preguntas_ejemplo": [
+    "¿Quiénes son los servidores públicos según la Constitución?",
+    "¿Qué deben declarar los funcionarios públicos?",
+    "¿Qué responsabilidades tienen los miembros del Poder Judicial?",
+    "¿Qué pasa si un servidor público no presenta su declaración patrimonial?",
+    "¿Qué organismos están incluidos en la responsabilidad de los servidores públicos?"
+  ]
+}

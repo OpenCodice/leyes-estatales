@@ -1,0 +1,31 @@
+{
+  "clave": "107",
+  "etiqueta": "Artículo 107º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:a220e4466e1bb54b",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Responsabilidad de Servidores Públicos",
+  "temas": [
+    "obligaciones de servidores públicos",
+    "sanciones administrativas",
+    "responsabilidad patrimonial",
+    "indemnización"
+  ],
+  "terminos_coloquiales": [
+    "qué pasa si un funcionario la riega",
+    "sanciones a funcionarios",
+    "responsabilidad del gobierno",
+    "daños por el estado"
+  ],
+  "resumen": "Este artículo trata sobre las obligaciones y sanciones que enfrentan los servidores públicos por actos indebidos. También habla sobre cómo los ciudadanos pueden exigir indemnizaciones por daños causados por el estado.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si un servidor público comete un error?",
+    "¿Qué sanciones pueden enfrentar los funcionarios?",
+    "¿Cómo puedo reclamar por daños causados por el gobierno?",
+    "¿Qué responsabilidades tiene el estado ante sus ciudadanos?",
+    "¿Cuáles son las obligaciones de los servidores públicos?"
+  ]
+}

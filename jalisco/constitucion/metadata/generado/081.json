@@ -1,0 +1,34 @@
+{
+  "clave": "081",
+  "etiqueta": "Artículo 81º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:8fbf8189c9872271",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Convenios Municipales",
+  "temas": [
+    "Convenios",
+    "Servicios Públicos",
+    "Coordinación Municipal",
+    "Comunidades Indígenas",
+    "Conflictos",
+    "Legislación Estatal"
+  ],
+  "terminos_coloquiales": [
+    "acuerdos entre municipios",
+    "coordinación de servicios",
+    "trabajo conjunto de ayuntamientos",
+    "apoyo del Estado a municipios",
+    "asociación de municipios"
+  ],
+  "resumen": "El ayuntamiento puede pedir al Estado ayuda para ejecutar obras y servicios públicos de forma temporal. Los municipios pueden asociarse entre ellos y con comunidades indígenas para mejorar la prestación de estos servicios.",
+  "preguntas_ejemplo": [
+    "¿Cómo pueden los municipios coordinarse para trabajar juntos?",
+    "¿Qué tipo de convenios pueden hacer los ayuntamientos con el Estado?",
+    "¿Qué sucede si hay conflictos entre un municipio y el gobierno del Estado?",
+    "¿Las comunidades indígenas pueden asociarse con municipios?",
+    "¿Qué servicios públicos pueden gestionar en conjunto los municipios?"
+  ]
+}

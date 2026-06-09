@@ -1,0 +1,37 @@
+{
+  "clave": "031",
+  "etiqueta": "Artículo 31",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:9c054a15ae9bedb6",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Comisión Permanente",
+  "temas": [
+    "Congreso",
+    "receso",
+    "iniciativas",
+    "mociones",
+    "designaciones",
+    "funcionarios",
+    "licencias",
+    "protesta",
+    "períodos extraordinarios"
+  ],
+  "terminos_coloquiales": [
+    "Comisión del Congreso",
+    "receso del Congreso",
+    "cambio de funcionarios",
+    "votaciones extraordinarias",
+    "períodos especiales"
+  ],
+  "resumen": "La Comisión Permanente es un grupo del Congreso que se reúne durante los recesos para atender asuntos importantes. Tiene la capacidad de tomar decisiones sobre funcionarios y convocar a sesiones extraordinarias.",
+  "preguntas_ejemplo": [
+    "¿Qué hace la Comisión Permanente del Congreso?",
+    "¿Cómo se nombran a los funcionarios en receso?",
+    "¿Qué es un período extraordinario en el Congreso?",
+    "¿Quiénes son parte de la Comisión Permanente?",
+    "¿Qué decisiones puede tomar la Comisión Permanente?"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "clave": "049",
+  "etiqueta": "Artículo 49º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:4157070d5e8a6716",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Facultades del Gobernador",
+  "temas": [
+    "Poder Ejecutivo",
+    "Gobernador",
+    "Dependencias",
+    "Organismos descentralizados"
+  ],
+  "terminos_coloquiales": [
+    "poder del gobernador",
+    "qué puede hacer el gobernador",
+    "gobernador y sus funciones",
+    "organismos del gobierno"
+  ],
+  "resumen": "El artículo habla sobre cómo la ley establece la estructura y las funciones de las dependencias y organismos que dependen del Poder Ejecutivo, especialmente del Gobernador del Estado.",
+  "preguntas_ejemplo": [
+    "¿Cuáles son las funciones del gobernador?",
+    "¿Qué son las dependencias del gobierno?",
+    "¿Qué organismos dependen del Poder Ejecutivo?",
+    "¿Cómo se organizan las facultades del gobernador?",
+    "¿Qué dice la ley sobre el poder del gobernador?"
+  ]
+}

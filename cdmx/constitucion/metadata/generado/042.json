@@ -1,0 +1,38 @@
+{
+  "clave": "042",
+  "etiqueta": "Artículo 42",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:7c3e985a7e8ef5ac",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Seguridad Ciudadana",
+  "temas": [
+    "instituciones de seguridad",
+    "prevención del delito",
+    "protección de personas",
+    "derechos humanos",
+    "policía",
+    "programas de seguridad",
+    "coordinación de seguridad"
+  ],
+  "terminos_coloquiales": [
+    "seguridad pública",
+    "policías",
+    "prevención de delitos",
+    "programas de seguridad",
+    "derechos de los ciudadanos",
+    "violencia",
+    "protección ciudadana"
+  ],
+  "resumen": "Este artículo establece que las instituciones de seguridad ciudadana deben ser civiles y enfocarse en proteger a las personas. Además, menciona la importancia de la prevención del delito y la colaboración entre diferentes niveles de gobierno para asegurar la seguridad.",
+  "preguntas_ejemplo": [
+    "¿Qué es la seguridad ciudadana?",
+    "¿Cómo se seleccionan a los policías?",
+    "¿Qué programas hay para prevenir el delito?",
+    "¿Qué derechos tienen las personas en temas de seguridad?",
+    "¿Cómo se coordinan las fuerzas de seguridad?",
+    "¿Qué medidas se toman para proteger a las víctimas?"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "clave": "056",
+  "etiqueta": "Artículo 56º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:15d4ec4c9eacfae9",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Poder Judicial",
+  "temas": [
+    "Supremo Tribunal de Justicia",
+    "Consejo de la Judicatura",
+    "Instituto de Justicia Alternativa",
+    "Evaluación de Funcionarios"
+  ],
+  "terminos_coloquiales": [
+    "justicia",
+    "tribunales",
+    "jueces",
+    "resolución de problemas",
+    "control de confianza"
+  ],
+  "resumen": "El artículo establece la estructura y funciones del Poder Judicial, incluyendo el Supremo Tribunal de Justicia y el Instituto de Justicia Alternativa, además de detallar el sistema de evaluación de los funcionarios judiciales para asegurar su integridad y competencia.",
+  "preguntas_ejemplo": [
+    "¿Cómo funciona el Poder Judicial en el estado?",
+    "¿Quién elige al Presidente del Supremo Tribunal?",
+    "¿Qué hace el Instituto de Justicia Alternativa?",
+    "¿Cómo se evalúa a los jueces y funcionarios judiciales?",
+    "¿Cuáles son los requisitos para ser parte del Poder Judicial?"
+  ]
+}

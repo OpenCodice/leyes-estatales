@@ -1,0 +1,36 @@
+{
+  "clave": "065",
+  "etiqueta": "Artículo 65",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:1bdf31c991414c2c",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Juicio político",
+  "temas": [
+    "responsabilidad política",
+    "juicio político",
+    "servidores públicos",
+    "sanciones",
+    "derechos de audiencia",
+    "violaciones a la Constitución",
+    "manejo de fondos públicos"
+  ],
+  "terminos_coloquiales": [
+    "juicio político",
+    "responsabilidad de políticos",
+    "castigo a funcionarios",
+    "cómo se despide a un servidor público",
+    "mala administración"
+  ],
+  "resumen": "El artículo establece que los servidores públicos y funcionarios de elección popular pueden ser sometidos a juicio político si cometen violaciones graves a la Constitución o manejan mal los recursos públicos. Las sanciones incluyen la destitución y la inhabilitación para trabajar en el servicio público.",
+  "preguntas_ejemplo": [
+    "¿Qué es el juicio político?",
+    "¿Quiénes pueden ser juzgados políticamente?",
+    "¿Qué pasa si un funcionario maneja mal los fondos públicos?",
+    "¿Cuáles son las sanciones por juicio político?",
+    "¿Cómo se presenta una solicitud de juicio político?",
+    "¿Qué derechos tiene un acusado en un juicio político?"
+  ]
+}

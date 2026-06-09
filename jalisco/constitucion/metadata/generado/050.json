@@ -1,0 +1,37 @@
+{
+  "clave": "050",
+  "etiqueta": "Artículo 50º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:c0a83c2f87e4c944",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Facultades del Gobernador",
+  "temas": [
+    "ejecución de leyes",
+    "presupuesto del Estado",
+    "informe de administración",
+    "participación ciudadana",
+    "orden público",
+    "expropiación",
+    "servicios públicos",
+    "derechos humanos",
+    "corrupción"
+  ],
+  "terminos_coloquiales": [
+    "lo que puede hacer el Gobernador",
+    "funciones del Gobernador",
+    "obligaciones del Gobernador",
+    "qué hace el Gobernador",
+    "poderes del Gobernador"
+  ],
+  "resumen": "El artículo describe las facultades y responsabilidades del Gobernador del Estado, incluyendo la promulgación de leyes, la presentación de presupuestos y la administración del orden público. También menciona su papel en la participación ciudadana y la coordinación con otros niveles de gobierno.",
+  "preguntas_ejemplo": [
+    "¿Qué puede hacer un Gobernador?",
+    "¿Cuáles son las responsabilidades del Gobernador?",
+    "¿Cómo se presenta el presupuesto del Estado?",
+    "¿Qué informar debe dar el Gobernador al Congreso?",
+    "¿El Gobernador puede expropiar propiedades?"
+  ]
+}

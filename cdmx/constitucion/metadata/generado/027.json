@@ -1,0 +1,40 @@
+{
+  "clave": "027",
+  "etiqueta": "Artículo 27",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:ea935d29f4776684",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Candidaturas y Partidos Políticos",
+  "temas": [
+    "Candidaturas independientes",
+    "Partidos políticos",
+    "Financiamiento electoral",
+    "Derechos políticos",
+    "Paridad de género",
+    "Participación ciudadana",
+    "Elecciones",
+    "Nulidades electorales"
+  ],
+  "terminos_coloquiales": [
+    "candidaturas sin partido",
+    "postulaciones independientes",
+    "financiamiento de partidos",
+    "elecciones libres",
+    "derechos de los votantes",
+    "partidos políticos",
+    "voto secreto",
+    "violencia política"
+  ],
+  "resumen": "Este artículo establece las reglas para que ciudadanos puedan postularse a cargos de elección popular sin partido, así como las normas que rigen a los partidos políticos y su participación en elecciones. También se enfoca en la paridad de género y en garantizar procesos electorales justos y transparentes.",
+  "preguntas_ejemplo": [
+    "¿Cómo puedo postularme sin ser parte de un partido?",
+    "¿Cuáles son los derechos de los partidos políticos en las elecciones?",
+    "¿Qué se hace si hay irregularidades en una elección?",
+    "¿Cómo se garantiza la paridad de género en las candidaturas?",
+    "¿Qué requisitos deben cumplir los partidos políticos para registrarse?",
+    "¿Qué sucede con las elecciones que tienen violencia política?"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "clave": "063",
+  "etiqueta": "Artículo 63º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:c1e783639c623a81",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Elección y permanencia de jueces",
+  "temas": [
+    "elección de jueces",
+    "reelección",
+    "control de confianza",
+    "remoción de jueces",
+    "paridad de género"
+  ],
+  "terminos_coloquiales": [
+    "cómo se elige a un juez",
+    "permanencia de jueces",
+    "qué es el control de confianza",
+    "remover a un juez",
+    "paridad de género en jueces"
+  ],
+  "resumen": "Este artículo establece cómo se eligen y mantienen en su puesto a los jueces de primera instancia, así como los criterios y evaluaciones que deben cumplir. También menciona que deben seguirse principios de paridad de género en su designación.",
+  "preguntas_ejemplo": [
+    "¿Cómo se eligen los jueces en México?",
+    "¿Los jueces pueden ser reelectos?",
+    "¿Qué pasa si un juez no pasa su evaluación?",
+    "¿Qué condiciones se deben cumplir para la remoción de un juez?",
+    "¿Qué significa la paridad de género en la elección de jueces?"
+  ]
+}

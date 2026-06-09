@@ -1,0 +1,32 @@
+{
+  "clave": "019",
+  "etiqueta": "Artículo 19º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:5f4ae9bd31869b90",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Distritos electorales y representación",
+  "temas": [
+    "distritos electorales",
+    "votación mayoritaria",
+    "representación proporcional",
+    "diputados",
+    "censo de población"
+  ],
+  "terminos_coloquiales": [
+    "cómo se eligen a los diputados",
+    "distritos para votar",
+    "representación en el Congreso",
+    "votación en México"
+  ],
+  "resumen": "Este artículo habla sobre cómo se dividen los distritos electorales para elegir a los diputados. Describe los principios de votación mayoritaria y representación proporcional, y menciona que se basarán en el censo de la población.",
+  "preguntas_ejemplo": [
+    "¿Cómo se asignan los distritos electorales?",
+    "¿Qué criterios se utilizan para elegir a los diputados?",
+    "¿Qué es la representación proporcional?",
+    "¿Cómo influye el censo en las elecciones?",
+    "¿Qué es la votación mayoritaria relativa?"
+  ]
+}

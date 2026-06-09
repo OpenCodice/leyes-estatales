@@ -1,0 +1,37 @@
+{
+  "clave": "061",
+  "etiqueta": "Artículo 61",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:844ece2a11cda643",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Control interno en la CDMX",
+  "temas": [
+    "fiscalización",
+    "responsabilidades administrativas",
+    "corrupción",
+    "auditorías",
+    "denuncias ciudadanas",
+    "transparencia",
+    "órganos de control"
+  ],
+  "terminos_coloquiales": [
+    "cómo se controla el gasto público",
+    "qué hacer si hay corrupción",
+    "qué son los órganos de control",
+    "falta administrativa",
+    "denunciar corrupción",
+    "cómo auditar recursos"
+  ],
+  "resumen": "El artículo establece que todos los entes públicos en la Ciudad de México deben tener órganos internos de control para prevenir y sancionar actos de corrupción. Estos órganos son independientes y tienen la tarea de auditar el uso de recursos públicos y recibir denuncias de la ciudadanía.",
+  "preguntas_ejemplo": [
+    "¿Qué hace un órgano interno de control?",
+    "¿Cómo puedo denunciar un acto de corrupción en el gobierno?",
+    "¿Cuál es el proceso para sancionar a alguien por falta administrativa?",
+    "¿Qué son las auditorías especiales en elecciones?",
+    "¿Cómo son designados los titulares de los órganos de control?",
+    "¿Qué pasa si el órgano de control comete un error?"
+  ]
+}

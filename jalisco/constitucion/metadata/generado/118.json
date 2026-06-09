@@ -1,0 +1,32 @@
+{
+  "clave": "118",
+  "etiqueta": "Artículo 118º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:0802b587cfc4a8b8",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Reformas a la Constitución",
+  "temas": [
+    "reformas constitucionales",
+    "promulgación",
+    "Congreso",
+    "inviolabilidad"
+  ],
+  "terminos_coloquiales": [
+    "cambios en la Constitución",
+    "modificaciones constitucionales",
+    "reformas al documento",
+    "promulgar leyes",
+    "parte inviolable de la Constitución"
+  ],
+  "resumen": "Este artículo establece que cualquier reforma a la Constitución debe ser adoptada y promulgada de inmediato por el Congreso, sin necesidad de más trámites. Además, menciona la inviolabilidad de la Constitución.",
+  "preguntas_ejemplo": [
+    "¿Cómo se realizan las reformas a la Constitución?",
+    "¿Qué pasa cuando se cambia la Constitución?",
+    "¿El Congreso puede modificar la Constitución sin más procedimientos?",
+    "¿Qué significa que la Constitución sea inviolable?",
+    "¿Cómo se promulgan las reformas constitucionales?"
+  ]
+}

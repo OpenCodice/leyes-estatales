@@ -1,0 +1,37 @@
+{
+  "clave": "060",
+  "etiqueta": "Artículo 60º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:0b877c1763aabf4c",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Elección de Magistrados",
+  "temas": [
+    "Convocatoria pública",
+    "Evaluación de aspirantes",
+    "Entrevistas públicas",
+    "Exámenes teóricos",
+    "Votación secreta",
+    "Principio de paridad de género",
+    "Control de confianza",
+    "Opiniones técnicas"
+  ],
+  "terminos_coloquiales": [
+    "Cómo eligen a los magistrados",
+    "Magistrados del Tribunal",
+    "Proceso de selección de magistrados",
+    "Requisitos para ser magistrado",
+    "Convocatoria para magistrados",
+    "Evaluación de candidatos"
+  ],
+  "resumen": "El artículo establece el procedimiento para la elección de los magistrados del Supremo Tribunal de Justicia, que incluye la convocatoria pública, la evaluación de aspirantes, la realización de entrevistas y exámenes, y la votación por parte del Congreso del Estado. También resalta la importancia de la paridad de género en la designación de los magistrados.",
+  "preguntas_ejemplo": [
+    "¿Cómo se eligen los magistrados?",
+    "¿Cuáles son los requisitos para ser magistrado?",
+    "¿Qué pasos hay en el proceso de selección de magistrados?",
+    "¿Qué papel tiene el Comité de Participación Social en la elección?",
+    "¿Cómo se asegura la paridad de género en la designación de magistrados?"
+  ]
+}

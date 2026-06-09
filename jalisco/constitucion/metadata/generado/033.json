@@ -1,0 +1,33 @@
+{
+  "clave": "033",
+  "etiqueta": "Artículo 33º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:d62ce9035e1c2954",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Observaciones a proyectos de ley",
+  "temas": [
+    "sanción de leyes",
+    "proyectos de ley",
+    "poder legislativo",
+    "poder ejecutivo",
+    "publicación de leyes"
+  ],
+  "terminos_coloquiales": [
+    "revisión de leyes",
+    "aprobación de proyectos",
+    "cómo se aprueba una ley",
+    "objeciones a leyes",
+    "plazos para leyes"
+  ],
+  "resumen": "El Ejecutivo puede hacer observaciones a proyectos de ley aprobados por el Congreso. Si no hace observaciones en un tiempo determinado, el proyecto se considera aprobado y debe publicarse.",
+  "preguntas_ejemplo": [
+    "¿Qué puede hacer el Ejecutivo si no está de acuerdo con una ley?",
+    "¿Cuánto tiempo tiene el Ejecutivo para objetar un proyecto de ley?",
+    "¿Qué pasa si el Ejecutivo no devuelve un proyecto con observaciones?",
+    "¿Cómo se publican las leyes aprobadas?",
+    "¿Hay excepciones en las que el Ejecutivo no puede objetar una ley?"
+  ]
+}

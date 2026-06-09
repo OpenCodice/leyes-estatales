@@ -1,0 +1,40 @@
+{
+  "clave": "054",
+  "etiqueta": "Artículo 54",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:5c052e12ea5659b5",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Cabildo de la Ciudad de México",
+  "temas": [
+    "organo de gobierno",
+    "alcaldías",
+    "planeación",
+    "coordinación",
+    "consulta",
+    "decisión",
+    "administración pública",
+    "seguridad ciudadana",
+    "inversión pública",
+    "política hídrica"
+  ],
+  "terminos_coloquiales": [
+    "gobierno de la ciudad",
+    "alcaldes y alcaldesas",
+    "sesiones del cabildo",
+    "decisiones del cabildo",
+    "acuerdos del cabildo",
+    "proyectos de la ciudad"
+  ],
+  "resumen": "El Cabildo de la Ciudad de México es un órgano que reúne a los alcaldes y a la Jefatura de Gobierno para tomar decisiones sobre la administración pública. Establece acuerdos y opina sobre iniciativas que afectan a la ciudad y sus demarcaciones territoriales.",
+  "preguntas_ejemplo": [
+    "¿Qué es el Cabildo de la Ciudad de México?",
+    "¿Quiénes forman parte del Cabildo?",
+    "¿Cuál es la función del Cabildo en la administración pública?",
+    "¿Cómo se toman las decisiones en el Cabildo?",
+    "¿Qué se requiere para asistir a las sesiones del Cabildo?",
+    "¿Cuándo se reúnen los integrantes del Cabildo?"
+  ]
+}

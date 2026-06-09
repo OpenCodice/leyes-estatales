@@ -1,0 +1,33 @@
+{
+  "clave": "113",
+  "etiqueta": "Artículo 113º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:410fd3a43b23515e",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Gobernador provisional",
+  "temas": [
+    "Congreso",
+    "Poder Ejecutivo",
+    "Supremo Tribunal de Justicia",
+    "Convocatoria",
+    "Elección de diputados"
+  ],
+  "terminos_coloquiales": [
+    "gobernador temporal",
+    "elección de representantes",
+    "nuevo congreso",
+    "poderes del estado",
+    "cambio de gobierno"
+  ],
+  "resumen": "Este artículo establece que si no se puede reunir el Congreso y los poderes del Estado desaparecen, el Supremo Tribunal designa a un Gobernador provisional que debe convocar elecciones para formar un nuevo Congreso.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si no se reúne el Congreso?",
+    "¿Quién asume el poder si desaparecen los poderes del Estado?",
+    "¿Cómo se elige un nuevo Congreso?",
+    "¿Qué hace el Gobernador provisional?",
+    "¿Cuál es el papel del Supremo Tribunal en esta situación?"
+  ]
+}

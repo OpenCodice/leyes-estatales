@@ -1,0 +1,31 @@
+{
+  "clave": "071",
+  "etiqueta": "Artículo 71",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:20a6f4a73099ae45",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Inviolabilidad constitucional",
+  "temas": [
+    "modificación de la Constitución",
+    "actos de fuerza",
+    "vigencia constitucional",
+    "democracia"
+  ],
+  "terminos_coloquiales": [
+    "la Constitución no se toca",
+    "no se puede cambiar a la fuerza",
+    "cambios a la Constitución",
+    "siempre vigente"
+  ],
+  "resumen": "La Constitución no puede ser cambiada por la fuerza y sigue vigente aunque haya desorden institucional. Solo se puede modificar de manera democrática.",
+  "preguntas_ejemplo": [
+    "¿La Constitución puede ser cambiada sin un proceso democrático?",
+    "¿Qué pasa si hay un golpe de estado, se puede modificar la Constitución?",
+    "¿Puede alguien alterar la Constitución de forma violenta?",
+    "¿Qué significa que la Constitución sea inviolable?",
+    "¿La Constitución sigue en pie si el gobierno se interrumpe?"
+  ]
+}

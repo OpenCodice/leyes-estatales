@@ -1,0 +1,33 @@
+name: Notificar a la web (reingestar)
+
+# Cuando los datos estatales cambian en main (una reforma fusionada o un commit
+# de enriquecimiento), avisa a constitucion-web para que reconstruya su índice
+# del namespace estatal. No hace la ingestión aquí: vive en el repo de la app.
+#
+# Secret requerido en ESTE repo (leyes-estatales):
+#   WEB_DISPATCH_TOKEN  PAT con scope `repo` sobre OpenCodice/constitucion-web
+#                       (permite mandarle un repository_dispatch)
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "*/constitucion/metadata/**"
+      - "*/constitucion/articulos/**"
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  notificar:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Disparar reingestión en constitucion-web
+        run: |
+          curl -sSf -X POST \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.WEB_DISPATCH_TOKEN }}" \
+            https://api.github.com/repos/OpenCodice/constitucion-web/dispatches \
+            -d '{"event_type":"datos-actualizados","client_payload":{"corpus":"estatal"}}'
+          echo "✓ repository_dispatch enviado a constitucion-web (corpus: estatal)"

@@ -1,0 +1,33 @@
+{
+  "clave": "055",
+  "etiqueta": "Artículo 55",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:d63f198d690a0dad",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Recursos de las alcaldías",
+  "temas": [
+    "presupuestos",
+    "recursos públicos",
+    "autonomía financiera",
+    "rendición de cuentas",
+    "infraestructura"
+  ],
+  "terminos_coloquiales": [
+    "dinero de las alcaldías",
+    "presupuesto de mi alcaldía",
+    "cómo se manejan los recursos",
+    "financiamiento para obras",
+    "apoyo a las demarcaciones"
+  ],
+  "resumen": "El artículo establece cómo se aprueban y distribuyen los recursos financieros a las alcaldías de la Ciudad de México, asegurando su autonomía en el manejo de estos fondos. También se menciona la importancia de la rendición de cuentas y la inversión en infraestructura.",
+  "preguntas_ejemplo": [
+    "¿De dónde saca dinero mi alcaldía?",
+    "¿Qué presupuesto tiene mi alcaldía para obras públicas?",
+    "¿Cómo se manejan los recursos en las alcaldías?",
+    "¿Qué es el Fondo Adicional de Financiamiento de las Alcaldías?",
+    "¿Cuál es el proceso para que una alcaldía gaste su presupuesto?"
+  ]
+}

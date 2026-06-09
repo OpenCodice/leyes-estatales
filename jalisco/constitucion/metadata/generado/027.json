@@ -1,0 +1,30 @@
+{
+  "clave": "027",
+  "etiqueta": "Artículo 27º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:6848dc624bf48308",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Funciones del Congreso",
+  "temas": [
+    "concurrencia",
+    "diputados",
+    "asistencia",
+    "declaración de cargos"
+  ],
+  "terminos_coloquiales": [
+    "¿Cuántos diputados tienen que estar presentes?",
+    "¿Qué pasa si un diputado no va?",
+    "asistencia de diputados",
+    "funciones del Congreso"
+  ],
+  "resumen": "Este artículo establece que el Congreso necesita más de la mitad de sus miembros presentes para funcionar. Si algunos diputados no asisten sin justificación, pueden perder su cargo.",
+  "preguntas_ejemplo": [
+    "¿Qué sucede si un diputado no asiste a la sesión?",
+    "¿Cuántos diputados deben estar presentes para que el Congreso trabaje?",
+    "¿Qué pasa si un diputado no rinde protesta?",
+    "¿Qué se requiere para que el Congreso tome decisiones?"
+  ]
+}

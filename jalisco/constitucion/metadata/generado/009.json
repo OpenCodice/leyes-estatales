@@ -1,0 +1,35 @@
+{
+  "clave": "009",
+  "etiqueta": "Artículo 9º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:c37e127169c1daa8",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derecho a la información pública",
+  "temas": [
+    "transparencia",
+    "rendición de cuentas",
+    "participación ciudadana",
+    "protección de datos personales",
+    "acceso a la información",
+    "gobierno abierto",
+    "cultura de transparencia"
+  ],
+  "terminos_coloquiales": [
+    "pedir información",
+    "ver lo que hace el gobierno",
+    "acceso a documentos públicos",
+    "información pública",
+    "cómo reclamar información"
+  ],
+  "resumen": "Este artículo garantiza el derecho de los ciudadanos a acceder a la información pública y promueve la transparencia en las decisiones gubernamentales. Además, establece la protección de datos personales y la participación de la sociedad en la toma de decisiones.",
+  "preguntas_ejemplo": [
+    "¿Qué derechos tengo para pedir información al gobierno?",
+    "¿Cómo puedo acceder a documentos públicos?",
+    "¿Qué hace el Instituto de Transparencia?",
+    "¿Cómo se protege mi información personal?",
+    "¿Qué es la rendición de cuentas en el gobierno?"
+  ]
+}

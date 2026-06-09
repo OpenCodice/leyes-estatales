@@ -1,0 +1,31 @@
+{
+  "clave": "071",
+  "etiqueta": "Artículo 71º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:ba88988930c118b9",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Tribunal Electoral",
+  "temas": [
+    "magistrados",
+    "presidencia del tribunal",
+    "sesiones públicas",
+    "resoluciones del tribunal"
+  ],
+  "terminos_coloquiales": [
+    "jueces electorales",
+    "tribunal de elecciones",
+    "cómo se elige al presidente del tribunal",
+    "audiencias del tribunal"
+  ],
+  "resumen": "El Tribunal Electoral está formado por tres magistrados que eligen a su presidente entre ellos. Las sesiones donde se toman decisiones son públicas.",
+  "preguntas_ejemplo": [
+    "¿Cuántos magistrados hay en el Tribunal Electoral?",
+    "¿Cómo se elige al presidente del Tribunal Electoral?",
+    "¿Son públicas las sesiones del Tribunal Electoral?",
+    "¿Qué hace el Tribunal Electoral?",
+    "¿Quiénes forman el Tribunal Electoral?"
+  ]
+}

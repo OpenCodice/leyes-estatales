@@ -1,0 +1,31 @@
+{
+  "clave": "036",
+  "etiqueta": "Artículo 36º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:7c8ef9c47e628bcb",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Gobernador del Estado",
+  "temas": [
+    "Poder Ejecutivo",
+    "Gobernador",
+    "Estado",
+    "Ejercicio del poder"
+  ],
+  "terminos_coloquiales": [
+    "gobernador",
+    "poder del gobernador",
+    "ejercicio del gobierno",
+    "quién es el gobernador"
+  ],
+  "resumen": "El artículo habla sobre quién ejerce el Poder Ejecutivo en un Estado, que es una persona llamada Gobernador. Este gobernador es un ciudadano que tiene esta responsabilidad.",
+  "preguntas_ejemplo": [
+    "¿Quién es el Gobernador del Estado?",
+    "¿Qué funciones tiene el Gobernador?",
+    "¿Cómo se elige a un Gobernador?",
+    "¿Quién ejerce el Poder Ejecutivo en un Estado?",
+    "¿Qué es el Poder Ejecutivo?"
+  ]
+}

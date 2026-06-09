@@ -1,0 +1,31 @@
+{
+  "clave": "068",
+  "etiqueta": "Artículo 68º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:b29317e4be7202e9",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Tribunal Electoral",
+  "temas": [
+    "organismo autónomo",
+    "jurisdicción electoral",
+    "participación ciudadana",
+    "recursos electorales"
+  ],
+  "terminos_coloquiales": [
+    "cómo funciona el Tribunal Electoral",
+    "qué hace el Tribunal Electoral",
+    "recursos en elecciones",
+    "elecciones justas"
+  ],
+  "resumen": "El Tribunal Electoral es un organismo público independiente que se encarga de supervisar y resolver conflictos relacionados con elecciones y la participación de los ciudadanos. Actúa de manera imparcial y sigue principios de legalidad y objetividad.",
+  "preguntas_ejemplo": [
+    "¿Qué es el Tribunal Electoral?",
+    "¿Cuáles son las funciones del Tribunal Electoral?",
+    "¿Qué sucede si impugno una decisión electoral?",
+    "¿El Tribunal Electoral es imparcial?",
+    "¿Qué recursos puedo presentar en elecciones?"
+  ]
+}

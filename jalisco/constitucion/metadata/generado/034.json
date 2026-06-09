@@ -1,0 +1,31 @@
+{
+  "clave": "034",
+  "etiqueta": "Artículo 34º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:4bbbc5512ec8ac94",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Referéndum",
+  "temas": [
+    "legislación",
+    "poderes del estado",
+    "Congreso",
+    "referéndum"
+  ],
+  "terminos_coloquiales": [
+    "votación ciudadana",
+    "decisión popular",
+    "consulta pública",
+    "referendo"
+  ],
+  "resumen": "El artículo habla sobre la posibilidad de someter leyes a referéndum, excepto las leyes tributarias y orgánicas. Establece que el Congreso puede hacer esto bajo ciertas condiciones que la Constitución y leyes específicas determinan.",
+  "preguntas_ejemplo": [
+    "¿Qué leyes se pueden someter a referéndum?",
+    "¿Cómo se decide si una ley va a referéndum?",
+    "¿Qué es un referéndum según la Constitución?",
+    "¿Cuáles son las excepciones al referéndum?",
+    "¿Quién establece los términos para un referéndum?"
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "clave": "062",
+  "etiqueta": "Artículo 62º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:f7cecff9af8deacd",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Atribuciones del Supremo Tribunal",
+  "temas": [
+    "justicia",
+    "competencia",
+    "reglamento",
+    "administración",
+    "juicios en línea",
+    "magistrados",
+    "conflictos administrativos",
+    "licencias"
+  ],
+  "terminos_coloquiales": [
+    "poder judicial",
+    "jueces",
+    "tribunal",
+    "licencias de jueces",
+    "presidente del tribunal",
+    "problemas de autoridad"
+  ],
+  "resumen": "El artículo establece las atribuciones del Supremo Tribunal de Justicia, incluyendo conocer controversias legales y manejar su presupuesto. También regula la selección de magistrados y la implementación de juicios en línea.",
+  "preguntas_ejemplo": [
+    "¿Qué funciones tiene el Supremo Tribunal de Justicia?",
+    "¿Cómo se resuelven los conflictos entre juzgados?",
+    "¿Quién elige al presidente del Tribunal?",
+    "¿Qué puede hacer el tribunal en caso de conflictos administrativos?",
+    "¿Qué tipo de juicios puede manejar el Tribunal?"
+  ]
+}

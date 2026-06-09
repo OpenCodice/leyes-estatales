@@ -1,0 +1,30 @@
+{
+  "clave": "040",
+  "etiqueta": "Artículo 40º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:bd48c0fe1e0482de",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Gobernador sustituto",
+  "temas": [
+    "falta absoluta",
+    "Gobernador del Estado",
+    "Congreso",
+    "sustitución de Gobernador"
+  ],
+  "terminos_coloquiales": [
+    "qué pasa si el Gobernador ya no está",
+    "Gobernador interino",
+    "quién elige al nuevo Gobernador",
+    "sustitución del Gobernador"
+  ],
+  "resumen": "Este artículo habla sobre qué sucede si un Gobernador del Estado no puede continuar en su cargo. En ese caso, el Congreso elige a un Gobernador sustituto que ocupará su lugar hasta que termine el período.",
+  "preguntas_ejemplo": [
+    "¿Qué sucede si el Gobernador ya no puede gobernar?",
+    "¿Quién elige al Gobernador sustituto?",
+    "¿Hasta cuándo trabaja el Gobernador interino?",
+    "¿Qué pasa con el periodo del Gobernador si se necesita un sustituto?"
+  ]
+}

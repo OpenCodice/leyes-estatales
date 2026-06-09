@@ -1,0 +1,33 @@
+{
+  "clave": "068",
+  "etiqueta": "Artículo 68",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:7ecaed9abb026e56",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Régimen de capitalidad",
+  "temas": [
+    "Ciudad de México",
+    "Poderes de la Unión",
+    "Colaboración con la Federación",
+    "Cuidado de representaciones diplomáticas",
+    "Patrimonio de la Federación"
+  ],
+  "terminos_coloquiales": [
+    "La capital",
+    "Poderes del gobierno",
+    "Acuerdos con el gobierno",
+    "Embajadas",
+    "Recursos de la ciudad"
+  ],
+  "resumen": "El artículo establece que la Ciudad de México, como capital del país, debe garantizar las condiciones necesarias para el funcionamiento de los poderes federales y colaborar con la Federación en este ámbito. Además, se enfoca en el cuidado de las representaciones diplomáticas y el patrimonio federal en la ciudad.",
+  "preguntas_ejemplo": [
+    "¿Qué responsabilidades tiene la Ciudad de México como capital?",
+    "¿Cómo colabora la ciudad con el gobierno federal?",
+    "¿Qué se hace para proteger las embajadas en la ciudad?",
+    "¿Qué recursos recibe la Ciudad de México por ser la capital?",
+    "¿Cómo se administra el patrimonio federal en la Ciudad de México?"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "clave": "095",
+  "etiqueta": "Artículo 95º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:bfe37c05e0ca24ae",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Sanciones",
+  "temas": [
+    "procedimientos",
+    "sanciones",
+    "conducta",
+    "autonomía"
+  ],
+  "terminos_coloquiales": [
+    "castigos",
+    "multas",
+    "normas",
+    "reglas",
+    "sanciones dobles"
+  ],
+  "resumen": "El artículo establece que las sanciones se aplicarán de manera autónoma y no se podrá castigar dos veces por la misma acción. Esto asegura que una misma conducta no reciba múltiples castigos por la misma naturaleza.",
+  "preguntas_ejemplo": [
+    "¿Puedo ser sancionado dos veces por lo mismo?",
+    "¿Cómo se aplican las sanciones?",
+    "¿Qué significa que sea autónomo el procedimiento para las sanciones?",
+    "¿Son válidas las sanciones dobles?",
+    "¿Qué pasa si cometo la misma falta varias veces?"
+  ]
+}

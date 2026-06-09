@@ -1,0 +1,37 @@
+{
+  "clave": "111",
+  "etiqueta": "Artículo 111º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:a9abf337e29b087b",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Remuneraciones de servidores públicos",
+  "temas": [
+    "remuneración adecuada",
+    "servidores públicos",
+    "austeridad",
+    "presupuestos de egresos",
+    "sanciones",
+    "responsabilidades",
+    "bonos",
+    "gratificaciones"
+  ],
+  "terminos_coloquiales": [
+    "sueldos de funcionarios",
+    "pagos a servidores públicos",
+    "bonos para empleados del gobierno",
+    "sueldos justos",
+    "aumento de salario",
+    "sueldos altos en el gobierno"
+  ],
+  "resumen": "El artículo establece que los servidores públicos deben recibir una remuneración justa e irrenunciable por su trabajo, y que esta debe ser proporcional a sus responsabilidades. También regula cómo se fijan y limitan estas remuneraciones para evitar abusos y establece sanciones por incumplimientos.",
+  "preguntas_ejemplo": [
+    "¿Cuánto deben ganar los funcionarios del gobierno?",
+    "¿Se pueden dar bonos adicionales a los servidores públicos?",
+    "¿Qué pasa si un servidor público no recibe su sueldo adecuadamente?",
+    "¿Cómo se determinan los sueldos de los funcionarios?",
+    "¿Qué sanciones hay por incumplir con la remuneración establecida?"
+  ]
+}

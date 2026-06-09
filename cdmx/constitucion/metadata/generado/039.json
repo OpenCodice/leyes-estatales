@@ -1,0 +1,33 @@
+{
+  "clave": "039",
+  "etiqueta": "Artículo 39",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:ad6d707355d5eca8",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Sistema de Justicia Laboral",
+  "temas": [
+    "juzgados laborales",
+    "conflictos laborales",
+    "derechos de los trabajadores",
+    "tribunal burocrático",
+    "sindicatos"
+  ],
+  "terminos_coloquiales": [
+    "juicio de trabajo",
+    "pleito laboral",
+    "abogados de trabajo",
+    "demandas laborales",
+    "problemas con el jefe"
+  ],
+  "resumen": "Este artículo establece el Sistema de Justicia Laboral, que incluye juzgados laborales para resolver disputas entre empleadores y empleados, así como un tribunal específico para conflictos en el ámbito público. La ley definirá su funcionamiento y organización.",
+  "preguntas_ejemplo": [
+    "¿Cómo funcionan los juzgados laborales?",
+    "¿Qué hacer si tengo un problema con mi trabajo?",
+    "¿Dónde se resuelven las disputas entre sindicatos y empresas?",
+    "¿Qué es el tribunal burocrático?",
+    "¿Cuáles son mis derechos laborales?"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "clave": "096",
+  "etiqueta": "Artículo 96º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:6d32569fe7e606b2",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Juicio Político",
+  "temas": [
+    "juicio político",
+    "fuero",
+    "inmunidad",
+    "orden civil"
+  ],
+  "terminos_coloquiales": [
+    "responsabilidad de funcionarios",
+    "juicio a políticos",
+    "sin fuero",
+    "sin inmunidad"
+  ],
+  "resumen": "El artículo establece que en los juicios civiles no existen privilegios ni protecciones especiales para los funcionarios. Esto significa que todos están sujetos a la ley por igual.",
+  "preguntas_ejemplo": [
+    "¿Qué es el juicio político?",
+    "¿Los políticos pueden ser juzgados como cualquier ciudadano?",
+    "¿Qué significa que no hay fuero en juicios civiles?",
+    "¿Los funcionarios tienen inmunidad en los juicios?",
+    "¿Cómo se aplica la ley a los políticos en México?"
+  ]
+}

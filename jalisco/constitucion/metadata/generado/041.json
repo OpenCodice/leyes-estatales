@@ -1,0 +1,33 @@
+{
+  "clave": "041",
+  "etiqueta": "Artículo 41º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:d0e5bb6966f64a99",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Falta absoluta del Gobernador",
+  "temas": [
+    "muerte del Gobernador",
+    "incapacidad total",
+    "renuncia del Gobernador",
+    "ausencia injustificada",
+    "toma de posesión"
+  ],
+  "terminos_coloquiales": [
+    "qué pasa si el Gobernador muere",
+    "renuncia del Gobernador",
+    "Gobernador no se presenta",
+    "qué sucede si el Gobernador no puede",
+    "ausencia del Gobernador"
+  ],
+  "resumen": "Este artículo menciona las razones por las cuales un Gobernador puede ser considerado en falta absoluta, como la muerte, incapacidad total, renuncia y no presentación en el cargo. Estas situaciones son evaluadas por el Congreso del Estado.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si el Gobernador muere?",
+    "¿Cuáles son las razones para que un Gobernador deje su cargo?",
+    "¿Qué se considera incapacidad total para un Gobernador?",
+    "¿Qué sucede si el Gobernador no se presenta a trabajar?",
+    "¿Qué se necesita para que un Gobernador renuncie?"
+  ]
+}

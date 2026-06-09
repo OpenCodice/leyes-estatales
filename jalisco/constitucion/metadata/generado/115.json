@@ -1,0 +1,32 @@
+{
+  "clave": "115",
+  "etiqueta": "Artículo 115º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:265ef43025a14922",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Préstamos forzosos",
+  "temas": [
+    "préstamos forzosos",
+    "gastos públicos",
+    "presupuesto",
+    "responsabilidad de autoridades"
+  ],
+  "terminos_coloquiales": [
+    "dinero obligado",
+    "gastos no aprobados",
+    "gasto sin permiso",
+    "autoridades y dinero",
+    "presupuesto del gobierno"
+  ],
+  "resumen": "El artículo prohíbe que las autoridades impongan préstamos forzosos y establece que ningún gasto público puede hacerse sin autorización del Congreso. Si se infringe esta norma, tanto la autoridad como los servidores públicos son responsables.",
+  "preguntas_ejemplo": [
+    "¿Puede el gobierno obligarme a prestar dinero?",
+    "¿Quién aprueba el gasto público?",
+    "¿Qué pasa si una autoridad no sigue el presupuesto?",
+    "¿Puede un servidor público gastar sin autorización?",
+    "¿Qué son los préstamos forzosos?"
+  ]
+}

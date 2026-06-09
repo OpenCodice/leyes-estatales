@@ -1,0 +1,33 @@
+{
+  "clave": "067",
+  "etiqueta": "Artículo 67",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:619067e0c0476794",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Responsabilidad patrimonial",
+  "temas": [
+    "responsabilidad ciudadana",
+    "indemnización",
+    "daños",
+    "entes públicos",
+    "reparación de daños"
+  ],
+  "terminos_coloquiales": [
+    "daños causados por el gobierno",
+    "indemnización por daños",
+    "responsabilidad del gobierno",
+    "quejas contra la ciudad",
+    "como reclamar al gobierno"
+  ],
+  "resumen": "Este artículo establece que la Ciudad de México y sus entes públicos son responsables por los daños que causen en bienes o derechos de las personas. Los ciudadanos tienen derecho a recibir una indemnización y se promoverán acciones contra quienes actúen de forma negligente o dolosa.",
+  "preguntas_ejemplo": [
+    "¿Qué hago si el gobierno me causa daños?",
+    "¿Tengo derecho a una indemnización por daño causado por la ciudad?",
+    "¿Cómo reclamo daños ocasionados por servidores públicos?",
+    "¿Qué significa la responsabilidad patrimonial de la Ciudad de México?",
+    "¿Puede el gobierno ser demandado por daños?"
+  ]
+}

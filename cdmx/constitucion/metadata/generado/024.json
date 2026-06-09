@@ -1,0 +1,32 @@
+{
+  "clave": "024",
+  "etiqueta": "Artículo 24",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:dd37138c4f01d59f",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Ciudadanía",
+  "temas": [
+    "sufragio",
+    "derechos ciudadanos",
+    "participación ciudadana",
+    "educación cívica"
+  ],
+  "terminos_coloquiales": [
+    "derecho a votar",
+    "voto libre",
+    "elecciones",
+    "participar en decisiones",
+    "ciudadanía activa"
+  ],
+  "resumen": "Este artículo trata sobre la ciudadanía y el derecho al voto en México, destacando la importancia de participar en elecciones y en decisiones públicas. También establece derechos para los jóvenes en la educación cívica y promueve la participación ciudadana.",
+  "preguntas_ejemplo": [
+    "¿Qué derechos tengo como ciudadano?",
+    "¿Cómo puedo participar en las elecciones?",
+    "¿Qué es el sufragio universal?",
+    "¿Los jóvenes pueden votar?",
+    "¿Cómo se asegura el voto secreto?"
+  ]
+}

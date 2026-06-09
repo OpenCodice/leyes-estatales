@@ -1,0 +1,31 @@
+{
+  "clave": "038",
+  "etiqueta": "Artículo 38º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:5810c6a3deda97e6",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Gobernador del Estado",
+  "temas": [
+    "elección",
+    "mandato",
+    "reelección",
+    "duración del cargo"
+  ],
+  "terminos_coloquiales": [
+    "gobernador",
+    "elección del gobernador",
+    "mandato del gobernador",
+    "reelección del gobernador"
+  ],
+  "resumen": "El gobernador de un estado inicia su mandato en la fecha de la elección y tiene un periodo de seis años. No puede ser reelecto ni ocupar el cargo de manera interina o como sustituto.",
+  "preguntas_ejemplo": [
+    "¿Cuánto tiempo dura el mandato de un gobernador?",
+    "¿Puede un gobernador ser reelecto?",
+    "¿Cuándo empieza el mandato de un gobernador?",
+    "¿Qué pasa si el gobernador no puede continuar en su cargo?",
+    "¿Quién elige al gobernador del estado?"
+  ]
+}

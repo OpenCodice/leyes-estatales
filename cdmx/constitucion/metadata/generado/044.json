@@ -1,0 +1,38 @@
+{
+  "clave": "044",
+  "etiqueta": "Artículo 44",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:6597d11c468273e9",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Procuración de Justicia",
+  "temas": [
+    "Fiscalía General de Justicia",
+    "Ministerio Público",
+    "Derechos humanos",
+    "Competencia en delitos",
+    "Políticas de persecución criminal",
+    "Transparencia",
+    "Corrupción",
+    "Asesoría y orientación legal"
+  ],
+  "terminos_coloquiales": [
+    "cómo se investiga un delito",
+    "quién es el fiscal",
+    "qué hace el Ministerio Público",
+    "qué es la Fiscalía",
+    "cómo denunciar un delito",
+    "procuración de justicia en México"
+  ],
+  "resumen": "Este artículo establece la organización y funciones de la Fiscalía General de Justicia en la Ciudad de México, así como los requisitos para su titular y las atribuciones del Ministerio Público. También se mencionan mecanismos para garantizar la transparencia y la protección de los derechos humanos en el proceso penal.",
+  "preguntas_ejemplo": [
+    "¿Qué es la Fiscalía General de Justicia?",
+    "¿Cuáles son las funciones del Ministerio Público?",
+    "¿Qué requisitos necesita cumplir el Fiscal de la Ciudad de México?",
+    "¿Cómo se gestionan las denuncias de delitos?",
+    "¿Qué se hace para combatir la corrupción en el sistema de justicia?",
+    "¿Qué servicios ofrece la Fiscalía a las víctimas de delitos?"
+  ]
+}

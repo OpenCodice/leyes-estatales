@@ -1,0 +1,38 @@
+{
+  "clave": "011",
+  "etiqueta": "Artículo 11º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:f54959ea776b3dcf",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derecho al sufragio",
+  "temas": [
+    "sufragio",
+    "elecciones",
+    "participación ciudadana",
+    "igualdad de oportunidades",
+    "candidaturas",
+    "mecanismos de participación",
+    "ratificación de mandato",
+    "revocación de mandato"
+  ],
+  "terminos_coloquiales": [
+    "votar",
+    "derecho a votar",
+    "elecciones",
+    "participación en la política",
+    "igualdad en candidaturas",
+    "mecanismos de participación ciudadana"
+  ],
+  "resumen": "El sufragio es el derecho y obligación de votar en elecciones para elegir a los representantes en los poderes Legislativo y Ejecutivo y participar en otros mecanismos ciudadanos. También se asegura la igualdad de oportunidades en las candidaturas para hombres y mujeres.",
+  "preguntas_ejemplo": [
+    "¿Qué significa sufragio?",
+    "¿Cuáles son mis derechos al votar?",
+    "¿Cómo puedo participar en la política local?",
+    "¿Qué mecanismos de participación ciudadana existen?",
+    "¿Qué es la revocación de mandato?",
+    "¿Cómo se garantiza la igualdad en las elecciones?"
+  ]
+}

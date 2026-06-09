@@ -1,0 +1,33 @@
+{
+  "clave": "029",
+  "etiqueta": "Artículo 29º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:0439a5f3b2cab82c",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Participación del Gobernador en proyectos de ley",
+  "temas": [
+    "Gobernador",
+    "Congreso",
+    "debate legislativo",
+    "justicia",
+    "ayuntamientos"
+  ],
+  "terminos_coloquiales": [
+    "participación del gobernador",
+    "cómo se discuten las leyes",
+    "relación entre el gobernador y el congreso",
+    "orador en debates",
+    "iniciativa de ley"
+  ],
+  "resumen": "Este artículo establece que el Gobernador del Estado debe ser informado con al menos 24 horas de anticipación sobre los proyectos de ley relacionados con el Poder Ejecutivo. También aplica lo mismo para el Supremo Tribunal de Justicia y los ayuntamientos deben designar un orador para participar en los debates.",
+  "preguntas_ejemplo": [
+    "¿Cómo se asegura la participación del gobernador en las leyes?",
+    "¿Cuándo se informa al gobernador sobre nuevos proyectos de ley?",
+    "¿Qué deben hacer los ayuntamientos al presentar iniciativas?",
+    "¿Quién puede participar en los debates del congreso?",
+    "¿Hay un plazo para informar al tribunal sobre proyectos de ley?"
+  ]
+}

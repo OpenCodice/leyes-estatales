@@ -1,0 +1,38 @@
+{
+  "clave": "025",
+  "etiqueta": "Artículo 25",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:16cfe40645da73c9",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Democracia directa",
+  "temas": [
+    "participación ciudadana",
+    "iniciativa ciudadana",
+    "referéndum",
+    "plebiscito",
+    "consulta popular",
+    "revocación de mandato",
+    "derechos de pueblos indígenas",
+    "decisiones públicas"
+  ],
+  "terminos_coloquiales": [
+    "votación ciudadana",
+    "hacer leyes",
+    "preguntar a la gente",
+    "opinar sobre decisiones",
+    "decidir sobre asuntos públicos",
+    "revocar a políticos"
+  ],
+  "resumen": "El artículo establece que los ciudadanos tienen el derecho y la obligación de participar en la vida pública, proponiendo y decidiendo sobre asuntos que les afectan. También se reconocen mecanismos como consultas y referendos para asegurar que la voz de la gente se escuche en las decisiones importantes.",
+  "preguntas_ejemplo": [
+    "¿Cómo puedo participar en decisiones políticas?",
+    "¿Qué es una iniciativa ciudadana?",
+    "¿Cómo funciona el referéndum?",
+    "¿Qué pasos debo seguir para revocar a un funcionario?",
+    "¿Cuáles son mis derechos en un plebiscito?",
+    "¿Puedo proponer leyes al Congreso?"
+  ]
+}

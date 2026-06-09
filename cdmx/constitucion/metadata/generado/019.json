@@ -1,0 +1,38 @@
+{
+  "clave": "019",
+  "etiqueta": "Artículo 19",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:13f3fd2f83953d4c",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Coordinación Metropolitana",
+  "temas": [
+    "desarrollo incluyente",
+    "movilidad",
+    "sustentabilidad",
+    "calidad de vida",
+    "habitabilidad",
+    "servicios públicos",
+    "participación ciudadana",
+    "gestión ambiental"
+  ],
+  "terminos_coloquiales": [
+    "cómo se organizan las ciudades",
+    "vida en la ciudad",
+    "mejorar el transporte",
+    "servicios de la ciudad",
+    "proyectos para la ciudad",
+    "ayuda a la movilidad",
+    "participación de la gente"
+  ],
+  "resumen": "El artículo habla sobre la importancia de coordinar esfuerzos entre diferentes niveles de gobierno para mejorar la vida en la Ciudad de México y su zona metropolitana. Se busca hacer un desarrollo que incluya a todos y garantice buenos servicios públicos y participación de los ciudadanos.",
+  "preguntas_ejemplo": [
+    "¿Cómo se mejorará el transporte en la ciudad?",
+    "¿Qué se está haciendo para que los ciudadanos participen en decisiones urbanas?",
+    "¿Qué servicios públicos son responsabilidad de las alcaldías?",
+    "¿Cómo se coordinan los gobiernos locales para el desarrollo de la metrópoli?",
+    "¿Qué mecanismos existen para consultar a la ciudadanía?"
+  ]
+}

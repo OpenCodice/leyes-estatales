@@ -1,0 +1,36 @@
+{
+  "clave": "032",
+  "etiqueta": "Artículo 32",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:0de8e661d9c6e3f9",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Jefatura de Gobierno",
+  "temas": [
+    "elección",
+    "requisitos",
+    "competencias",
+    "faltas temporales",
+    "faltas absolutas",
+    "protesta",
+    "administración pública",
+    "vecindad"
+  ],
+  "terminos_coloquiales": [
+    "cómo se elige al Jefe de Gobierno",
+    "quién puede ser Jefe de Gobierno",
+    "cuáles son las funciones del Jefe de Gobierno",
+    "qué pasa si no hay Jefe de Gobierno",
+    "requisitos para ser Jefe de Gobierno"
+  ],
+  "resumen": "El Artículo 32 establece cómo se elige al Jefe o Jefa de Gobierno de la Ciudad de México, los requisitos que deben cumplir, sus competencias, y las situaciones en las que puede haber faltas en su cargo. También menciona que quienes ocupen dicho cargo no pueden volver a ejercerlo por ciertos motivos.",
+  "preguntas_ejemplo": [
+    "¿Cuáles son los requisitos para ser Jefe de Gobierno?",
+    "¿Cómo se lleva a cabo la elección del Jefe de Gobierno?",
+    "¿Qué sucede si el Jefe de Gobierno no puede seguir en el cargo?",
+    "¿Quiénes pueden ocupar el cargo de Jefe de Gobierno?",
+    "¿Qué funciones tiene el Jefe de Gobierno?"
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "117",
+  "etiqueta": "Artículo 117º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:fc9900d1136cd3c0",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Reforma de la Constitución",
+  "temas": [
+    "reformas constitucionales",
+    "aprobar reformas",
+    "ayuntamientos",
+    "referéndum",
+    "votación",
+    "requisitos legales"
+  ],
+  "terminos_coloquiales": [
+    "cambiar la Constitución",
+    "modificar leyes",
+    "votar cambios en la Constitución",
+    "cómo se aprueban cambios",
+    "referéndum sobre leyes",
+    "qué necesitan los ayuntamientos"
+  ],
+  "resumen": "Este artículo explica cómo se puede reformar la Constitución, incluyendo los pasos que deben seguir los diputados y los ayuntamientos. Si la mayoría de los ayuntamientos aprueba la reforma, se considera parte de la Constitución.",
+  "preguntas_ejemplo": [
+    "¿Cómo se puede cambiar la Constitución?",
+    "¿Qué se necesita para aprobar una reforma?",
+    "¿Qué papel tienen los ayuntamientos en las reformas?",
+    "¿Qué pasa si los ayuntamientos no responden sobre una reforma?",
+    "¿Se puede votar sobre cambios a la Constitución?",
+    "¿Qué requisitos hay para hacer una reforma constitucional?"
+  ]
+}

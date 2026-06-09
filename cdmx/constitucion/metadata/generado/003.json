@@ -1,0 +1,37 @@
+{
+  "clave": "003",
+  "etiqueta": "Artículo 3",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:da675fafe478e2f7",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derechos humanos y principios rectores",
+  "temas": [
+    "dignidad humana",
+    "libertad",
+    "igualdad",
+    "derechos humanos",
+    "no discriminación",
+    "inclusión",
+    "accesibilidad",
+    "participación ciudadana"
+  ],
+  "terminos_coloquiales": [
+    "derechos de las personas",
+    "igualdad para todos",
+    "respeto a los derechos",
+    "no a la discriminación",
+    "vida digna",
+    "participación de la gente"
+  ],
+  "resumen": "Este artículo habla sobre la importancia de la dignidad humana y establece que todos deben tener libertad e igualdad en derechos. También menciona que el gobierno debe respetar y proteger estos derechos para el bienestar de la sociedad.",
+  "preguntas_ejemplo": [
+    "¿Qué derechos tienen las personas según la Constitución?",
+    "¿Por qué es importante la dignidad humana?",
+    "¿Cómo se garantiza la igualdad en derechos?",
+    "¿Qué significa no discriminación en la ley?",
+    "¿Cómo puedo participar en la toma de decisiones de mi comunidad?"
+  ]
+}

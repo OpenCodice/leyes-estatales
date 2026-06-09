@@ -1,0 +1,33 @@
+{
+  "clave": "081-bis",
+  "etiqueta": "Artículo 81º Bis",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:1c700d7c9be22a25",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Coordinación Metropolitana",
+  "temas": [
+    "municipios",
+    "área metropolitana",
+    "coordinación",
+    "organismos públicos",
+    "participación ciudadana"
+  ],
+  "terminos_coloquiales": [
+    "cómo se organizan los municipios",
+    "trabajo en conjunto de municipios",
+    "gobierno metropolitano",
+    "instancias de coordinación",
+    "ciudadanos en la coordinación"
+  ],
+  "resumen": "Este artículo trata sobre cómo los municipios de un área metropolitana deben coordinarse entre sí. Establece distintas instancias para llevar a cabo esta coordinación, incluyendo órganos técnicos y de participación ciudadana.",
+  "preguntas_ejemplo": [
+    "¿Cómo se coordinan los municipios en una ciudad grande?",
+    "¿Qué organismos ayudan a los municipios a trabajar juntos?",
+    "¿Qué papel tienen los ciudadanos en la coordinación metropolitana?",
+    "¿Existen reglas para la cooperación entre municipios?",
+    "¿Cómo se asegura que los municipios colaboren efectivamente?"
+  ]
+}

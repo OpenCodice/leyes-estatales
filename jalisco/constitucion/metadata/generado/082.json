@@ -1,0 +1,32 @@
+{
+  "clave": "082",
+  "etiqueta": "Artículo 82º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:23d247b1f4cf2076",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Servicios de seguridad social",
+  "temas": [
+    "servicios de seguridad social",
+    "servidores públicos",
+    "ayuntamientos",
+    "Ejecutivo del Estado"
+  ],
+  "terminos_coloquiales": [
+    "beneficios para trabajadores",
+    "seguridad social municipal",
+    "apoyo social",
+    "convenios de seguridad",
+    "servicios de salud"
+  ],
+  "resumen": "El artículo establece que los ayuntamientos pueden acordar con el Estado para que este provea servicios de seguridad social a los trabajadores públicos municipales. Así, se facilita la atención social a los servidores públicos en sus municipios.",
+  "preguntas_ejemplo": [
+    "¿Cómo se gestionan los servicios de seguridad social para los empleados municipales?",
+    "¿Qué pueden hacer los ayuntamientos respecto a la seguridad social de sus trabajadores?",
+    "¿El Estado puede ayudar a los municipios con servicios de salud?",
+    "¿Quién se encarga de la seguridad social de los servidores públicos locales?",
+    "¿Qué acuerdos pueden tomar los ayuntamientos para ofrecer seguridad social?"
+  ]
+}

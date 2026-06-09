@@ -1,0 +1,34 @@
+{
+  "clave": "051",
+  "etiqueta": "Artículo 51",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:9074a112a57d6698",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Defensoría Pública",
+  "temas": [
+    "asistencia legal",
+    "defensa penal",
+    "acceso a la justicia",
+    "derechos humanos",
+    "mediación",
+    "justicia restaurativa"
+  ],
+  "terminos_coloquiales": [
+    "abogado gratis",
+    "ayuda legal",
+    "defensor público",
+    "asesoría jurídica",
+    "defensa penal gratuita"
+  ],
+  "resumen": "El artículo establece la creación del Instituto de Defensoría Pública, que proporciona defensa legal gratuita a personas que la necesitan. Este organismo se encarga de garantizar el acceso a la justicia y la defensa en diferentes materias, así como de capacitar a sus defensores.",
+  "preguntas_ejemplo": [
+    "¿Qué es el Instituto de Defensoría Pública?",
+    "¿Cómo puedo acceder a un abogado gratis?",
+    "¿Qué tipos de casos cubre la defensoría pública?",
+    "¿Cuáles son los derechos que protege este instituto?",
+    "¿Qué hace un defensor público?"
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "clave": "022",
+  "etiqueta": "Artículo 22º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:1d9811f931429e9d",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Reelección de Diputados",
+  "temas": [
+    "periodos de reelección",
+    "postulación",
+    "candidaturas independientes",
+    "militancia partidaria"
+  ],
+  "terminos_coloquiales": [
+    "cuántas veces puede reelegirse un diputado",
+    "reelección de legisladores",
+    "diputados independientes y su reelección",
+    "cómo funciona la reelección en el congreso"
+  ],
+  "resumen": "Los diputados pueden ser electos hasta por cuatro periodos y solo pueden postularse para la reelección con el mismo partido o una coalición. Los independientes pueden postularse de nuevo solo si mantienen su calidad como tales.",
+  "preguntas_ejemplo": [
+    "¿Cuántas veces puede un diputado ser reelecto?",
+    "¿Puede un diputado independiente postularse de nuevo?",
+    "¿Qué pasa si un diputado cambia de partido?",
+    "¿Cuáles son las reglas para la reelección de diputados?",
+    "¿Los diputados pueden ser reelectos sin pertenecer a un partido?"
+  ]
+}

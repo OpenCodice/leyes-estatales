@@ -1,0 +1,37 @@
+{
+  "clave": "002",
+  "etiqueta": "Artículo 2",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:1c98197718c249b5",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Diversidad Cultural en la Ciudad de México",
+  "temas": [
+    "interculturalidad",
+    "plurietnicidad",
+    "plurilingüismo",
+    "pluriculturalidad",
+    "migración",
+    "refugio",
+    "asilo político",
+    "desplazamiento interno"
+  ],
+  "terminos_coloquiales": [
+    "diversidad en la ciudad",
+    "culturas en la CDMX",
+    "pueblos indígenas",
+    "migrantes en la ciudad",
+    "refugiados",
+    "asilo en México"
+  ],
+  "resumen": "La Ciudad de México es un lugar diverso donde conviven múltiples culturas, lenguas y tradiciones. También es un destino importante para migrantes y personas en busca de refugio o asilo.",
+  "preguntas_ejemplo": [
+    "¿Qué comunidades indígenas hay en la Ciudad de México?",
+    "¿Cómo se apoya a los migrantes en la ciudad?",
+    "¿Qué significa ser un refugiado en México?",
+    "¿Qué es la pluriétnicidad?",
+    "¿Cómo se celebra la diversidad cultural en la CDMX?"
+  ]
+}

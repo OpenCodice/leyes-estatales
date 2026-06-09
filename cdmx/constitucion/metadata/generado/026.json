@@ -1,0 +1,39 @@
+{
+  "clave": "026",
+  "etiqueta": "Artículo 26",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:81213ca21003b318",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Participación ciudadana",
+  "temas": [
+    "democracia participativa",
+    "participación social",
+    "gobierno abierto",
+    "rendición de cuentas",
+    "presupuesto participativo",
+    "consultas ciudadanas",
+    "espacios públicos",
+    "organización comunitaria"
+  ],
+  "terminos_coloquiales": [
+    "cómo participar",
+    "decidir sobre el presupuesto",
+    "consultas ciudadanas",
+    "gobierno transparente",
+    "proyectos en mi barrio",
+    "participación en decisiones",
+    "mejoramiento de espacios públicos"
+  ],
+  "resumen": "El artículo establece cómo las personas en la Ciudad de México pueden participar en decisiones sobre su comunidad, desde el presupuesto hasta la gestión de servicios. También exige a las autoridades facilitar esta participación y rendir cuentas a la ciudadanía.",
+  "preguntas_ejemplo": [
+    "¿Cómo puedo participar en la toma de decisiones de mi comunidad?",
+    "¿Qué es el presupuesto participativo?",
+    "¿Cómo se asegura la transparencia en el uso de recursos públicos?",
+    "¿Qué mecanismos hay para que la ciudadanía opine sobre proyectos públicos?",
+    "¿Cómo se organiza una consulta ciudadana?",
+    "¿Qué deberes tienen las autoridades hacia la ciudadanía?"
+  ]
+}

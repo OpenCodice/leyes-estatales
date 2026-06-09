@@ -1,0 +1,37 @@
+{
+  "clave": "059",
+  "etiqueta": "Artículo 59",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:c83048e47730bd84",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derechos de comunidades indígenas",
+  "temas": [
+    "libre determinación",
+    "autonomía",
+    "derechos culturales",
+    "derecho a la tierra",
+    "participación política",
+    "educación",
+    "salud",
+    "justicia"
+  ],
+  "terminos_coloquiales": [
+    "derechos indígenas",
+    "autonomía indígena",
+    "determinación de pueblos",
+    "participación de comunidades",
+    "derechos culturales",
+    "territorio indígena"
+  ],
+  "resumen": "El artículo establece los derechos de los pueblos y barrios originarios y comunidades indígenas, asegurando su libre determinación y autonomía en aspectos políticos, económicos y culturales. Reconoce su derecho a participar en decisiones que les afecten y a gestionar sus territorios y recursos naturales.",
+  "preguntas_ejemplo": [
+    "¿Qué derechos tienen las comunidades indígenas?",
+    "¿Cómo se ejerce la autonomía de los pueblos originarios?",
+    "¿Pueden las comunidades indígenas gestionar sus propios recursos?",
+    "¿Qué implica la libre determinación para las comunidades indígenas?",
+    "¿Cómo participan los pueblos originarios en la política local?"
+  ]
+}

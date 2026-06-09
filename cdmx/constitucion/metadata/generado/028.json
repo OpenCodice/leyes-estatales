@@ -1,0 +1,31 @@
+{
+  "clave": "028",
+  "etiqueta": "Artículo 28",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:4121098d97d83a1a",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Poder público de la Ciudad de México",
+  "temas": [
+    "régimen interior",
+    "gobierno",
+    "poderes del Estado",
+    "división de poderes",
+    "gobierno democrático"
+  ],
+  "terminos_coloquiales": [
+    "cómo se gobierna la ciudad",
+    "poderes en la ciudad",
+    "gobierno de la Ciudad de México",
+    "quién manda en la ciudad"
+  ],
+  "resumen": "El Artículo 28 establece que la Ciudad de México tiene un gobierno republicano, representativo y laico, y que el poder público se divide en Legislativo, Ejecutivo y Judicial. Además, prohíbe que varios poderes se concentren en una sola persona o entidad.",
+  "preguntas_ejemplo": [
+    "¿Cómo se organiza el gobierno en la Ciudad de México?",
+    "¿Cuáles son los poderes que existen en la ciudad?",
+    "¿Qué significa que el gobierno sea democrático?",
+    "¿Quiénes controlan los diferentes poderes en la Ciudad de México?"
+  ]
+}

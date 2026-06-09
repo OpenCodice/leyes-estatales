@@ -1,0 +1,31 @@
+{
+  "clave": "110",
+  "etiqueta": "Artículo 110º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:f742841a8e5ae458",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Renuncias en cargos de elección popular",
+  "temas": [
+    "cargos de elección popular",
+    "renuncias",
+    "licencias",
+    "autoridad competente"
+  ],
+  "terminos_coloquiales": [
+    "renunciar a un puesto",
+    "cargos elegidos",
+    "vacantes en el gobierno",
+    "cómo dejar un cargo"
+  ],
+  "resumen": "Este artículo establece que los cargos elegidos por el pueblo son preferentes y solo se pueden renunciar por razones graves. La autoridad debe revisar y aprobar estas renuncias.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si quiero renunciar a un cargo elegido?",
+    "¿Cuáles son las causas para renunciar a un puesto público?",
+    "¿Quién evalúa las renuncias en cargos de elección?",
+    "¿Son todos los cargos públicos igual de fáciles de renunciar?",
+    "¿Qué significa que un cargo sea de elección popular?"
+  ]
+}

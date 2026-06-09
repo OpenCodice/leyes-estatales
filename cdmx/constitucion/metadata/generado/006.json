@@ -1,0 +1,41 @@
+{
+  "clave": "006",
+  "etiqueta": "Artículo 6",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:0750ca176fd43b32",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Derechos y Libertades",
+  "temas": [
+    "autodeterminación personal",
+    "integridad física y psicológica",
+    "identidad y seguridad jurídica",
+    "derechos de las familias",
+    "derechos sexuales",
+    "derechos reproductivos",
+    "defensa de derechos humanos",
+    "acceso a la justicia",
+    "libertad de creencias"
+  ],
+  "terminos_coloquiales": [
+    "libertad personal",
+    "derechos humanos",
+    "vida digna",
+    "respeto a la identidad",
+    "derechos de familia",
+    "derechos sexuales",
+    "justicia gratuita",
+    "libertad de religión"
+  ],
+  "resumen": "El artículo establece varios derechos fundamentales de las personas, incluyendo el derecho a la autodeterminación, a la integridad, a la identidad, y a una vida familiar protegida, así como a disfrutar de sus derechos sexuales y reproductivos. También garantiza el acceso a la justicia y la libertad de creencias.",
+  "preguntas_ejemplo": [
+    "¿Qué derechos tiene una persona sobre su identidad?",
+    "¿Cómo se protege a las familias según la Constitución?",
+    "¿Qué implica el derecho a la autodeterminación?",
+    "¿Qué derechos sexuales reconoce la Constitución?",
+    "¿Cómo se asegura el acceso a la justicia?",
+    "¿Qué dice sobre la libertad de creencias?"
+  ]
+}

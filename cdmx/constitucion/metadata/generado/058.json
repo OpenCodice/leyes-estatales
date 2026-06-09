@@ -1,0 +1,36 @@
+{
+  "clave": "058",
+  "etiqueta": "Artículo 58",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:6e76e3f40cd7b1cb",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Diversidad cultural de la Ciudad de México",
+  "temas": [
+    "pluriculturalidad",
+    "plurilingüismo",
+    "pluriétnicidad",
+    "comunidades indígenas",
+    "pueblos originarios",
+    "derechos culturales",
+    "identidad",
+    "autoadscripción"
+  ],
+  "terminos_coloquiales": [
+    "diversidad en la Ciudad de México",
+    "comunidades indígenas en la ciudad",
+    "pueblos originarios",
+    "identidad cultural",
+    "tradiciones indígenas"
+  ],
+  "resumen": "Este artículo reconoce la diversidad cultural de la Ciudad de México, incluyendo a sus pueblos y comunidades indígenas. También establece el derecho de estas comunidades a identificarse como tales y a preservar sus tradiciones y costumbres.",
+  "preguntas_ejemplo": [
+    "¿Qué se entiende por pueblos originarios en la Ciudad de México?",
+    "¿Cómo se definen las comunidades indígenas en la ciudad?",
+    "¿Qué derechos tienen los pueblos y barrios originarios?",
+    "¿Cómo se reconoce la diversidad cultural en la Constitución?",
+    "¿Qué significa la autoadscripción para las comunidades indígenas?"
+  ]
+}

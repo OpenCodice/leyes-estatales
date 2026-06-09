@@ -1,0 +1,37 @@
+{
+  "clave": "099",
+  "etiqueta": "Artículo 99º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:65a143ea2ffd6dcf",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Sanciones por corrupción",
+  "temas": [
+    "delitos comunes",
+    "corrupción",
+    "enriquecimiento ilícito",
+    "sanciones penales",
+    "servidores públicos",
+    "decomiso de bienes",
+    "procedencia lícita",
+    "patrimonio"
+  ],
+  "terminos_coloquiales": [
+    "castigos por corrupción",
+    "delitos de funcionarios",
+    "robos de servidores públicos",
+    "sanciones por enriquecimiento",
+    "cómo se castiga la corrupción",
+    "qué pasa con los bienes robados"
+  ],
+  "resumen": "El artículo establece que cualquier servidor público o particular que cometa delitos de corrupción será castigado según la ley. También menciona que los servidores públicos que aumenten su patrimonio sin demostrar cómo lo lograron pueden ser sancionados con la pérdida de esos bienes.",
+  "preguntas_ejemplo": [
+    "¿Qué sucede si un funcionario roba dinero?",
+    "¿Cómo se sanciona el enriquecimiento ilícito?",
+    "¿Qué pasa con los bienes de un servidor público corrupto?",
+    "¿Quién puede ser castigado por corrupción?",
+    "¿Cuáles son las consecuencias de la corrupción en el gobierno?"
+  ]
+}

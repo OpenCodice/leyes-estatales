@@ -1,0 +1,38 @@
+{
+  "clave": "043",
+  "etiqueta": "Artículo 43",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:dfbc1c68814ee78c",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Modelo de policías",
+  "temas": [
+    "policías de proximidad",
+    "investigación policial",
+    "derechos humanos",
+    "prevención del delito",
+    "estado de derecho",
+    "protección de bienes",
+    "violencias",
+    "capacitación policial"
+  ],
+  "terminos_coloquiales": [
+    "policía comunitaria",
+    "policías ciudadanas",
+    "derechos de los policías",
+    "contratación de policías",
+    "seguridad pública",
+    "trabajo de la policía"
+  ],
+  "resumen": "El artículo establece un modelo de policías que prioriza la solución pacífica de conflictos y el respeto a los derechos humanos. Se enfoca en la prevención del delito y el bienestar de la comunidad, además de garantizar condiciones dignas para los policías.",
+  "preguntas_ejemplo": [
+    "¿Cómo deben actuar las policías en conflictos?",
+    "¿Qué derechos tienen las víctimas y testigos?",
+    "¿Qué es el modelo de policías ciudadanas?",
+    "¿Cómo se asegura la capacitación de los policías?",
+    "¿Cuáles son las prioridades de las fuerzas de seguridad?",
+    "¿Qué garantías tienen los policías en su trabajo?"
+  ]
+}

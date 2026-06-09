@@ -1,0 +1,37 @@
+{
+  "clave": "079",
+  "etiqueta": "Artículo 79º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:68d5ee4833b9d487",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Funciones de los municipios",
+  "temas": [
+    "agua potable",
+    "drenaje",
+    "aseo público",
+    "alumbrado público",
+    "seguridad pública",
+    "mercados",
+    "cementerios",
+    "parques y jardines"
+  ],
+  "terminos_coloquiales": [
+    "servicios municipales",
+    "agua y drenaje",
+    "limpieza de calles",
+    "luz pública",
+    "seguridad del barrio",
+    "mercados locales"
+  ],
+  "resumen": "El artículo establece las responsabilidades que tienen los municipios para ofrecer servicios públicos como agua, drenaje, seguridad, y limpieza urbana. También menciona otros servicios que deben atender según sus necesidades y recursos.",
+  "preguntas_ejemplo": [
+    "¿Qué servicios deben ofrecer los municipios?",
+    "¿Cómo se encarga el ayuntamiento de la limpieza pública?",
+    "¿Qué pasa con el agua y el drenaje en mi municipio?",
+    "¿Quién se ocupa de la seguridad en mi barrio?",
+    "¿Dónde están los mercados y centrales de abasto de mi localidad?"
+  ]
+}

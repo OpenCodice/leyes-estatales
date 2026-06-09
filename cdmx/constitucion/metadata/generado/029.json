@@ -1,0 +1,38 @@
+{
+  "clave": "029",
+  "etiqueta": "Artículo 29",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:d290310ca93b77f5",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Congreso de la Ciudad de México",
+  "temas": [
+    "elección de diputados",
+    "representación proporcional",
+    "paridad de género",
+    "funcionamiento del Congreso",
+    "derechos de los diputados",
+    "audiencias públicas",
+    "rendición de cuentas",
+    "fiscalización",
+    "vacantes en el Congreso"
+  ],
+  "terminos_coloquiales": [
+    "cómo se eligen los diputados",
+    "qué es el Congreso",
+    "diputados en CDMX",
+    "votación en el Congreso",
+    "audiencias en el Congreso",
+    "vacantes en el Congreso"
+  ],
+  "resumen": "El artículo explica cómo se integra y funciona el Congreso de la Ciudad de México, incluyendo la elección de los diputados, la paridad de género y la importancia de la rendición de cuentas. Establece también las reglas para su funcionamiento y los derechos de los legisladores.",
+  "preguntas_ejemplo": [
+    "¿Cómo se eligen los diputados en la Ciudad de México?",
+    "¿Qué reglas de paridad de género hay en el Congreso?",
+    "¿Qué pasa si un diputado deja su puesto?",
+    "¿Qué funciones tiene el Congreso de la Ciudad de México?",
+    "¿Cómo se asegura la rendición de cuentas en el Congreso?"
+  ]
+}

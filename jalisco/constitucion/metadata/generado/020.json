@@ -1,0 +1,35 @@
+{
+  "clave": "020",
+  "etiqueta": "Artículo 20º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:882a90e126825393",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Representación proporcional",
+  "temas": [
+    "candidaturas",
+    "diputaciones",
+    "votación",
+    "partidos políticos",
+    "principio de paridad",
+    "curules",
+    "elecciones"
+  ],
+  "terminos_coloquiales": [
+    "cómo se eligen los diputados",
+    "candidatos independientes",
+    "partidos que pueden ganar curules",
+    "votación proporcional",
+    "asignación de diputados"
+  ],
+  "resumen": "Este artículo regula cómo se eligen a los diputados en base a la representación proporcional. Define las reglas que deben seguir los partidos políticos para obtener curules, basándose en los votos que reciban durante las elecciones y en la paridad de género.",
+  "preguntas_ejemplo": [
+    "¿Cómo se asignan los diputados por representación proporcional?",
+    "¿Qué requisitos deben cumplir los partidos para obtener diputaciones?",
+    "¿Qué pasa si un partido obtiene más votos?",
+    "¿Los candidatos independientes pueden participar en la asignación?",
+    "¿Cuál es el límite de diputaciones para un partido político?"
+  ]
+}

@@ -1,0 +1,33 @@
+{
+  "clave": "076",
+  "etiqueta": "Artículo 76º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:fd9f5cf591e1428e",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Desintegración de Ayuntamientos",
+  "temas": [
+    "Desintegración municipal",
+    "Suspensión de mandato",
+    "Derecho de audiencia",
+    "Elecciones extraordinarias",
+    "Concejos municipales"
+  ],
+  "terminos_coloquiales": [
+    "Ayuntamientos desintegrados",
+    "Suspensión de alcalde",
+    "Elecciones rápidas",
+    "Reemplazo de concejos",
+    "Problemas municipales"
+  ],
+  "resumen": "El Congreso del Estado puede declarar la desintegración de ayuntamientos y suspender o revocar mandatos por causas graves. Si esto ocurre, se convocarán elecciones extraordinarias o se designarán concejos municipales para concluir los períodos correspondientes.",
+  "preguntas_ejemplo": [
+    "¿Qué pasa si un ayuntamiento se desintegra?",
+    "¿Quién puede suspender a un alcalde?",
+    "¿Cómo se eligen nuevos concejos municipales?",
+    "¿Qué derechos tengo si alguien quiere desintegrar mi ayuntamiento?",
+    "¿Cuáles son las causas graves para desintegrar un ayuntamiento?"
+  ]
+}

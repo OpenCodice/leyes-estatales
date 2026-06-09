@@ -1,0 +1,35 @@
+{
+  "clave": "075",
+  "etiqueta": "Artículo 75º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:cded8c060fa987b5",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Asignación de regidores",
+  "temas": [
+    "regidores",
+    "representación proporcional",
+    "partidos políticos",
+    "coaliciones",
+    "candidatos independientes",
+    "votación",
+    "procedimientos electorales"
+  ],
+  "terminos_coloquiales": [
+    "cómo se asignan los regidores",
+    "regidores de partido",
+    "regidores independientes",
+    "votación para regidores",
+    "requisitos para regidores"
+  ],
+  "resumen": "Este artículo dice que solo los partidos y candidatos que no ganaron la mayoría pueden participar en la asignación de regidores. Además, tienen que obtener un porcentaje mínimo de votos para tener derecho a ello.",
+  "preguntas_ejemplo": [
+    "¿Quiénes pueden ser regidores?",
+    "¿Cómo se eligen los regidores de representación proporcional?",
+    "¿Qué necesitan los partidos para asignar regidores?",
+    "¿Qué es la representación proporcional en los regidores?",
+    "¿Cuánto se tiene que votar para que un partido participe en la asignación de regidores?"
+  ]
+}

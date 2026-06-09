@@ -57,3 +57,34 @@ python -m extractor build \
   --perfil jalisco
 python -m extractor validar --out ../leyes-estatales/jalisco/constitucion --perfil jalisco
 ```
+
+## Enriquecimiento (capa generada, no canónica)
+
+`metadata/generado/NNN.json` es metadata de búsqueda generada por LLM (temas,
+términos coloquiales, preguntas) para mejorar el *recall* del RAG. **No es texto
+oficial ni fuente de cita**; está cuarentenada y se regenera por hash solo
+cuando cambia el texto del artículo.
+
+```bash
+# desde constitucion-extractor (requiere OPENAI_API_KEY)
+python -m extractor enriquecer \
+  --pdf ../leyes-estatales/jalisco/constitucion/fuente/constitucion.pdf \
+  --out ../leyes-estatales/jalisco/constitucion --perfil jalisco
+```
+
+## Automatización (GitHub Actions)
+
+Los workflows en `.github/workflows/` iteran los estados presentes (matriz/loop
+`estado:perfil:directorio`):
+
+| Workflow | Disparo | Qué hace |
+|----------|---------|----------|
+| `revisar-pr.yml` | cada PR | valida invariantes por estado (GATE) + resumen LLM de los estados que cambiaron |
+| `enriquecer.yml` | manual | (re)genera `metadata/generado/` de uno o todos los estados |
+| `vigilar-estatales.yml` | lunes / manual | descarga el PDF oficial, regenera y abre PR si hubo reforma |
+| `notificar-web.yml` | push a `main` | avisa a `constitucion-web` para reingestar el namespace estatal |
+
+> ⚠️ `vigilar-estatales` es *best-effort*: varios estados no publican el PDF en
+> una URL fija (la de Jalisco lleva la fecha embebida y rota en cada reforma).
+> Los estados sin URL descargable quedan en vigilancia manual; cuando una URL
+> rota, relánzalo con el input `pdf_url`.

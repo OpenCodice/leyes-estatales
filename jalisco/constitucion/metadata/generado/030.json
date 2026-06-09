@@ -1,0 +1,33 @@
+{
+  "clave": "030",
+  "etiqueta": "Artículo 30º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:217964b93b09700a",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Reinserción de Iniciativas",
+  "temas": [
+    "iniciativa legislativa",
+    "desecho de propuestas",
+    "periodo de espera",
+    "replanteamiento"
+  ],
+  "terminos_coloquiales": [
+    "volver a presentar una idea",
+    "propuesta no aceptada",
+    "esperar para volver a intentar",
+    "cambiar la idea",
+    "iniciativa rechazada"
+  ],
+  "resumen": "Este artículo dice que si una propuesta es rechazada por el Pleno, solo se puede volver a presentar después de seis meses, a menos que se modifique de tal forma que se considere completamente diferente a la original.",
+  "preguntas_ejemplo": [
+    "¿Cuánto tiempo tengo que esperar para volver a presentar una propuesta rechazada?",
+    "¿Qué necesito hacer para que mi idea sea aceptada después de ser desechada?",
+    "¿Puedo reintentar proponer algo que ya fue rechazado?",
+    "¿Qué significa replantear una iniciativa?",
+    "¿Qué condiciones se requieren para volver a presentar una iniciativa?",
+    "¿Se puede presentar una idea igual que fue desechada?"
+  ]
+}

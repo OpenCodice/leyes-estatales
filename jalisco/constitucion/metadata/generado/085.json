@@ -1,0 +1,33 @@
+{
+  "clave": "085",
+  "etiqueta": "Artículo 85º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:6ee338b64dda1c39",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Obligaciones de los ayuntamientos",
+  "temas": [
+    "difusión de leyes",
+    "cumplimiento de leyes",
+    "corrupción",
+    "publicación de bandos",
+    "administración pública",
+    "servicios públicos"
+  ],
+  "terminos_coloquiales": [
+    "qué deben hacer los ayuntamientos",
+    "responsabilidades de los municipios",
+    "leyes que deben seguir los ayuntamientos",
+    "pelear contra la corrupción en los municipios"
+  ],
+  "resumen": "Los ayuntamientos tienen que difundir y cumplir con las leyes que les son aplicables, publicar bandos y combatir la corrupción. También deben cumplir con otras obligaciones que se establezcan en las leyes para manejar bien su patrimonio y los servicios que ofrecen.",
+  "preguntas_ejemplo": [
+    "¿Qué deben hacer los ayuntamientos para cumplir la ley?",
+    "¿Cómo luchan los municipios contra la corrupción?",
+    "¿Qué obligaciones tienen los ayuntamientos en su administración?",
+    "¿Qué son los bandos y por qué los deben publicar los ayuntamientos?",
+    "¿Qué servicios públicos deben asegurar los ayuntamientos?"
+  ]
+}

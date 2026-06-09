@@ -1,0 +1,34 @@
+{
+  "clave": "077",
+  "etiqueta": "Artículo 77º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:0a943e65333395ec",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Facultades de los ayuntamientos",
+  "temas": [
+    "administración pública municipal",
+    "reglamentos municipales",
+    "participación ciudadana",
+    "empleos públicos municipales",
+    "conflictos municipales",
+    "normas administrativas"
+  ],
+  "terminos_coloquiales": [
+    "leyes municipales",
+    "reglamentos de mi municipio",
+    "gobierno local",
+    "cómo se organizan los ayuntamientos",
+    "empleos en el municipio"
+  ],
+  "resumen": "El artículo establece que los ayuntamientos pueden crear reglamentos y normas para organizar su administración y regular servicios públicos. También asegura que los ciudadanos pueden participar en estos procesos.",
+  "preguntas_ejemplo": [
+    "¿Qué facultades tienen los ayuntamientos?",
+    "¿Cómo se organizan los servicios públicos en mi municipio?",
+    "¿Qué reglamentos puede emitir el gobierno local?",
+    "¿Cómo se regula la participación ciudadana en las decisiones municipales?",
+    "¿Qué pasa si hay conflictos entre el municipio y el estado?"
+  ]
+}

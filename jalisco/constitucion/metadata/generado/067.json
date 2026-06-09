@@ -1,0 +1,30 @@
+{
+  "clave": "067",
+  "etiqueta": "Artículo 67º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:c59df99d9179a0e1",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Tribunal de Justicia Administrativa",
+  "temas": [
+    "Magistrados",
+    "Sala Superior",
+    "Votación",
+    "Presupuesto"
+  ],
+  "terminos_coloquiales": [
+    "magistrados del tribunal",
+    "elección de magistrados",
+    "proyecto de presupuesto del tribunal",
+    "tribunal administrativo"
+  ],
+  "resumen": "El Tribunal de Justicia Administrativa del Estado de Jalisco está formado por una Sala Superior y salas unitarias. Los magistrados eligen a su presidente mediante voto secreto y tienen autonomía para elaborar y ejecutar su presupuesto.",
+  "preguntas_ejemplo": [
+    "¿Cómo se elige al presidente del Tribunal de Justicia Administrativa?",
+    "¿Cuántos magistrados hay en el Tribunal de Justicia Administrativa?",
+    "¿Qué hace la Sala Superior del Tribunal de Justicia Administrativa?",
+    "¿Quién aprueba el presupuesto del Tribunal de Justicia Administrativa?"
+  ]
+}

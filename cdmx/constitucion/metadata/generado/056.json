@@ -1,0 +1,34 @@
+{
+  "clave": "056",
+  "etiqueta": "Artículo 56",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:f8ea2244299f969a",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Participación ciudadana en las alcaldías",
+  "temas": [
+    "participación ciudadana",
+    "derechos humanos",
+    "transparencia",
+    "rendición de cuentas",
+    "consultas comunitarias",
+    "organización social"
+  ],
+  "terminos_coloquiales": [
+    "cómo puedo participar en mi alcaldía",
+    "derechos en mi comunidad",
+    "audiencias públicas",
+    "qué es la silla ciudadana",
+    "informes de alcaldía"
+  ],
+  "resumen": "El artículo habla sobre cómo los habitantes pueden participar en los asuntos de su alcaldía. Se establecen mecanismos para la consulta, transparencia y rendición de cuentas, asegurando el respeto a sus derechos y la colaboración con la comunidad.",
+  "preguntas_ejemplo": [
+    "¿Cómo puedo involucrarme en mi alcaldía?",
+    "¿Qué es la silla ciudadana?",
+    "¿Cómo se rinden cuentas las alcaldías?",
+    "¿Cuáles son mis derechos como habitante?",
+    "¿Qué mecanismos de participación existen?"
+  ]
+}

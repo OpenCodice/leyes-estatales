@@ -1,0 +1,33 @@
+{
+  "clave": "084",
+  "etiqueta": "Artículo 84º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:c0efecf684064848",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Obra pública y plebiscito",
+  "temas": [
+    "obra pública",
+    "patrimonio municipal",
+    "plebiscito",
+    "aprobación municipal"
+  ],
+  "terminos_coloquiales": [
+    "votación para obras",
+    "decidir sobre obras",
+    "plebiscito en mi localidad",
+    "aprobar proyectos",
+    "hacer obras en mi barrio"
+  ],
+  "resumen": "El artículo establece que los actos relacionados con la obra pública o la venta de bienes municipales necesitan ser aprobados por la comunidad a través de un plebiscito.",
+  "preguntas_ejemplo": [
+    "¿Qué se necesita para hacer una obra en mi comunidad?",
+    "¿Cómo se decide sobre las obras públicas en mi municipio?",
+    "¿Qué es un plebiscito y cómo afecta a las obras públicas?",
+    "¿La gente puede opinar sobre la venta de propiedades municipales?",
+    "¿Qué tipo de proyectos requieren aprobación de la población?",
+    "¿Cómo funciona el proceso de plebiscito para obras públicas?"
+  ]
+}

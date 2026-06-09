@@ -1,0 +1,35 @@
+{
+  "clave": "045",
+  "etiqueta": "Artículo 45",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:cddfd6deebf8eea5",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Sistema de justicia penal",
+  "temas": [
+    "proceso penal",
+    "principios de justicia",
+    "derecho a un juicio justo",
+    "atención a víctimas",
+    "debido proceso",
+    "indemnización",
+    "asistencia a víctimas"
+  ],
+  "terminos_coloquiales": [
+    "justicia penal",
+    "juicio oral",
+    "derechos de las víctimas",
+    "proceso justo",
+    "ayuda a víctimas"
+  ],
+  "resumen": "El artículo establece que en la Ciudad de México el proceso penal es acusatorio y oral, garantizando un juicio justo con derechos a las partes. También menciona la creación de una comisión para atender a las víctimas con servicios necesarios y accesibles.",
+  "preguntas_ejemplo": [
+    "¿Cómo es el proceso penal en la Ciudad de México?",
+    "¿Qué derechos tengo en un juicio penal?",
+    "¿Qué se hace por las víctimas de delitos?",
+    "¿Qué garantiza el debido proceso?",
+    "¿Qué tipo de asistencia reciben las víctimas?"
+  ]
+}

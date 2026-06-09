@@ -1,0 +1,40 @@
+{
+  "clave": "023",
+  "etiqueta": "Artículo 23",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:3d01b6909b0a8130",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Deberes de las personas",
+  "temas": [
+    "derechos humanos",
+    "responsabilidad social",
+    "medio ambiente",
+    "protección animal",
+    "gasto público",
+    "denuncia de delitos",
+    "solidaridad",
+    "patrimonio cultural",
+    "participación ciudadana",
+    "valores comunitarios"
+  ],
+  "terminos_coloquiales": [
+    "deberes que tenemos",
+    "responsabilidades ciudadanas",
+    "cuidar el medio ambiente",
+    "trato a los animales",
+    "ayudar a los demás",
+    "defender derechos",
+    "participación en la comunidad"
+  ],
+  "resumen": "El artículo habla sobre los deberes que tienen las personas en la Ciudad de México. Incluye responsabilidades como respetar derechos, cuidar el medio ambiente y participar en la vida comunitaria.",
+  "preguntas_ejemplo": [
+    "¿Cuáles son mis responsabilidades como ciudadano?",
+    "¿Qué debo hacer para ayudar a mi comunidad?",
+    "¿Cómo puedo cuidar el medio ambiente en mi ciudad?",
+    "¿Qué deberes tengo con los animales?",
+    "¿Cómo puedo participar en la vida política de mi comunidad?"
+  ]
+}

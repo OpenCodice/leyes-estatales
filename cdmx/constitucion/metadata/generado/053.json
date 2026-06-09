@@ -1,0 +1,36 @@
+{
+  "clave": "053",
+  "etiqueta": "Artículo 53",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:db1e823cf6b6ecf2",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Alcaldías",
+  "temas": [
+    "organización política",
+    "gobierno local",
+    "participación ciudadana",
+    "igualdad de género",
+    "servicios públicos",
+    "desarrollo urbano",
+    "seguridad ciudadana",
+    "desarrollo económico"
+  ],
+  "terminos_coloquiales": [
+    "cómo funcionan las alcaldías",
+    "quién elige a los alcaldes",
+    "qué hacen las alcaldías",
+    "derechos de los ciudadanos en las alcaldías",
+    "participación de vecinos en la alcaldía"
+  ],
+  "resumen": "El artículo establece cómo están organizadas y qué funciones tienen las alcaldías, que son organismos de gobierno local en la Ciudad de México. Las alcaldías trabajan para representar a la población, promover el bienestar social y garantizar la participación ciudadana en decisiones públicas.",
+  "preguntas_ejemplo": [
+    "¿Cómo se elige a un alcalde en la Ciudad de México?",
+    "¿Cuáles son las funciones de las alcaldías?",
+    "¿Qué derechos tienen los ciudadanos en su alcaldía?",
+    "¿Cómo pueden participar los vecinos en las decisiones de su alcaldía?",
+    "¿Qué servicios públicos ofrece la alcaldía?"
+  ]
+}

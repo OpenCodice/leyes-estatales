@@ -1,0 +1,31 @@
+{
+  "clave": "016",
+  "etiqueta": "Artículo 16º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:fe48ae87ca1614f1",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Congreso del Estado",
+  "temas": [
+    "Poder Legislativo",
+    "Asamblea",
+    "Congreso",
+    "Estado"
+  ],
+  "terminos_coloquiales": [
+    "congreso local",
+    "asamblea estatal",
+    "cámara de diputados del estado",
+    "poder legislativo estatal"
+  ],
+  "resumen": "El Poder Legislativo está organizado en una asamblea llamada Congreso del Estado, donde se toman decisiones para regular el estado.",
+  "preguntas_ejemplo": [
+    "¿Qué es el Congreso del Estado?",
+    "¿Quién forma parte del Poder Legislativo?",
+    "¿Cómo se organiza el Poder Legislativo en mi estado?",
+    "¿Qué funciones tiene el Congreso del Estado?",
+    "¿Qué decisiones toma el Congreso del Estado?"
+  ]
+}

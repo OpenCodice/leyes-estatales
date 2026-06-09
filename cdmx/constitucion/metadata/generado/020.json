@@ -1,0 +1,35 @@
+{
+  "clave": "020",
+  "etiqueta": "Artículo 20",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:0805aaa9055a77da",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Ciudad Global",
+  "temas": [
+    "derechos humanos",
+    "migración",
+    "refugio",
+    "cooperación internacional",
+    "desplazamiento forzado",
+    "cultura",
+    "identidad"
+  ],
+  "terminos_coloquiales": [
+    "ciudad migrante",
+    "protección de migrantes",
+    "apoyo a refugiados",
+    "ayuda a desplazados",
+    "cooperación entre ciudades"
+  ],
+  "resumen": "La Ciudad de México se compromete a ser un lugar solidario y hospitalario, protegiendo los derechos de las personas migrantes y aquellas que buscan asilo. También busca colaborar a nivel internacional y fomentar la identidad cultural de sus habitantes.",
+  "preguntas_ejemplo": [
+    "¿Qué hace la Ciudad de México por los migrantes?",
+    "¿Cómo se apoya a los refugiados en la ciudad?",
+    "¿Qué derechos tienen las personas desplazadas?",
+    "¿La Ciudad de México promueve la cooperación internacional?",
+    "¿Cómo se protege la cultura de las personas originarias?"
+  ]
+}

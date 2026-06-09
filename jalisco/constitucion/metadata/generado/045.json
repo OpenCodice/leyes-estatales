@@ -1,0 +1,34 @@
+{
+  "clave": "045",
+  "etiqueta": "Artículo 45º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:85040c4dedf5de9f",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Gobernador del Estado",
+  "temas": [
+    "elección popular",
+    "prohibiciones",
+    "Gobernador sustituto",
+    "Gobernador interino",
+    "falta temporal",
+    "poder ejecutivo"
+  ],
+  "terminos_coloquiales": [
+    "Gobernador elegido",
+    "impedimentos del Gobernador",
+    "sustitución del Gobernador",
+    "Gobernador provisional",
+    "elecciones extraordinarias"
+  ],
+  "resumen": "El artículo establece las prohibiciones para los Gobernadores elegidos de manera extraordinaria y los límites para quienes han ocupado cargos interinos o sustitutos. Especifica que no pueden ser elegidos para el período inmediato si han estado en el cargo durante un tiempo determinado.",
+  "preguntas_ejemplo": [
+    "¿Qué limitaciones tiene un Gobernador que fue electo de manera extraordinaria?",
+    "¿Un Gobernador interino puede ser elegido nuevamente?",
+    "¿Qué pasa si un Gobernador sustituto cumple con el período?",
+    "¿Cuáles son las prohibiciones para los Gobernadores interinos?",
+    "¿Puede un Gobernador provisional ser reelecto?"
+  ]
+}

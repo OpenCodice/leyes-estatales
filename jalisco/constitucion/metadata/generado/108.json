@@ -1,0 +1,31 @@
+{
+  "clave": "108",
+  "etiqueta": "Artículo 108º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:bdd45933bc108c1f",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Protesta de Servidores Públicos",
+  "temas": [
+    "servidores públicos",
+    "cumplimiento constitucional",
+    "Congreso del Estado",
+    "toma de protesta"
+  ],
+  "terminos_coloquiales": [
+    "honorarios de funcionarios",
+    "jura de cargo",
+    "promesa de cumplimiento",
+    "protestas de los gobernantes"
+  ],
+  "resumen": "El artículo establece que todos los servidores públicos deben rendir protesta de cumplir la Constitución mexicana antes de iniciar sus funciones. También señala que el Congreso del Estado es el encargado de tomar esta protesta a los funcionarios que debe nombrar o ratificar.",
+  "preguntas_ejemplo": [
+    "¿Qué deben hacer los nuevos servidores públicos al iniciar su trabajo?",
+    "¿Quién toma la protesta a los funcionarios en el Estado?",
+    "¿Qué significa rendir protesta en el contexto de un cargo público?",
+    "¿Cuál es el procedimiento para que un gobernador tome posesión de su cargo?",
+    "¿Qué responsabilidad tienen los servidores públicos al asumir su cargo?"
+  ]
+}

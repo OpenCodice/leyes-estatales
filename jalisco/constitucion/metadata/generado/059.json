@@ -1,0 +1,36 @@
+{
+  "clave": "059",
+  "etiqueta": "Artículo 59º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:8032b0ebde868a4a",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Requisitos para Magistrados",
+  "temas": [
+    "ciudadanía",
+    "edad",
+    "título profesional",
+    "buena reputación",
+    "inhabilitación",
+    "cargo público",
+    "evaluaciones"
+  ],
+  "terminos_coloquiales": [
+    "quién puede ser magistrado",
+    "requisitos para ser juez",
+    "edad para ser magistrado",
+    "título necesario para magistrados",
+    "buen comportamiento para ser magistrado",
+    "evaluaciones de magistrados"
+  ],
+  "resumen": "El artículo establece los requisitos que debe cumplir una persona para ser electo Magistrado del Supremo Tribunal de Justicia del Estado, incluyendo ser ciudadano mexicano, tener una edad mínima, poseer un título en derecho y gozar de buena reputación. También se especifica que no debe haber ocupado ciertos cargos en el último año antes de la elección.",
+  "preguntas_ejemplo": [
+    "¿Cuáles son los requisitos para ser magistrado?",
+    "¿Qué edad se necesita para ser magistrado?",
+    "¿Es necesario tener un título en derecho para ser magistrado?",
+    "¿Qué significa tener buena reputación para ser elegido magistrado?",
+    "¿Hay cargos que inhabilitan para ser magistrado?"
+  ]
+}

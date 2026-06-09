@@ -1,0 +1,44 @@
+{
+  "clave": "015",
+  "etiqueta": "Artículo 15º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:5f5b587cc192b09c",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Libertades y derechos sociales",
+  "temas": [
+    "libertad de las personas",
+    "participación social",
+    "desarrollo infantil",
+    "apoyo a adultos mayores",
+    "derechos de personas con discapacidad",
+    "transparencia",
+    "patrimonio cultural",
+    "desarrollo sustentable",
+    "derecho al agua",
+    "corrupción"
+  ],
+  "terminos_coloquiales": [
+    "derechos de la gente",
+    "participación ciudadana",
+    "ayuda a ancianos",
+    "apoyo a personas con discapacidad",
+    "cuidado del medio ambiente",
+    "acceso a información pública",
+    "promoción de la cultura",
+    "programas de desarrollo",
+    "derecho al agua",
+    "lucha contra la corrupción"
+  ],
+  "resumen": "El artículo establece que el Estado debe promover la libertad de las personas y su participación en varios ámbitos. También asegura el apoyo a familias, jóvenes, adultos mayores y personas con discapacidad, y resalta la importancia de la transparencia y la lucha contra la corrupción.",
+  "preguntas_ejemplo": [
+    "¿Qué derechos tiene la gente en Jalisco?",
+    "¿Cómo se apoya a los ancianos en el estado?",
+    "¿Qué se hace para promover la cultura en Jalisco?",
+    "¿Cómo se combate la corrupción en el gobierno?",
+    "¿Cuál es el derecho al agua que tenemos?",
+    "¿Qué medidas hay para ayudar a personas con discapacidad?"
+  ]
+}

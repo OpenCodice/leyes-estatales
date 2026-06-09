@@ -1,0 +1,33 @@
+{
+  "clave": "097",
+  "etiqueta": "Artículo 97º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:9e31b40aa1e6434e",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Juicio Político",
+  "temas": [
+    "Responsabilidad de Servidores Públicos",
+    "Juicio Político",
+    "Sanciones",
+    "Función Pública",
+    "Intereses Públicos"
+  ],
+  "terminos_coloquiales": [
+    "juicio político",
+    "castigo a funcionarios",
+    "responsabilidades",
+    "faltas de funcionarios",
+    "sanciones a políticos"
+  ],
+  "resumen": "El artículo establece el procedimiento para juicio político contra ciertos funcionarios públicos cuando sus actos perjudiquen intereses públicos. También define las sanciones como destitución e inhabilitación para el servicio público.",
+  "preguntas_ejemplo": [
+    "¿Quién puede ser sometido a juicio político?",
+    "¿Qué sanciones pueden recibir los funcionarios por juicio político?",
+    "¿Se puede hacer juicio político por expresar ideas?",
+    "¿Cuánto tiempo después de dejar el cargo se puede iniciar juicio político?",
+    "¿Cómo se lleva a cabo el procedimiento de juicio político?"
+  ]
+}

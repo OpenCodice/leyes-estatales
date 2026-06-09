@@ -1,0 +1,34 @@
+{
+  "clave": "038",
+  "etiqueta": "Artículo 38",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:b614ff57c5fd2752",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Tribunal Electoral de la Ciudad de México",
+  "temas": [
+    "autonomía electoral",
+    "magistrados electorales",
+    "impugnaciones electorales",
+    "derechos político-electorales",
+    "participación ciudadana",
+    "resoluciones electorales"
+  ],
+  "terminos_coloquiales": [
+    "tribunal electoral",
+    "magistrados de elecciones",
+    "quejas electorales",
+    "derechos de voto",
+    "elecciones locales"
+  ],
+  "resumen": "El Tribunal Electoral de la Ciudad de México es el órgano que resuelve problemas relacionados con elecciones y participación ciudadana. Está formado por cinco magistrados que tienen independencia en sus decisiones y deben cumplir con la ley. Se asegura de que se respeten los derechos políticos de los ciudadanos en estos procesos.",
+  "preguntas_ejemplo": [
+    "¿Qué es el Tribunal Electoral de la Ciudad de México?",
+    "¿Quiénes son los magistrados electorales?",
+    "¿Cómo se pueden impugnar los resultados de una elección?",
+    "¿Qué derechos tienen los ciudadanos en las elecciones?",
+    "¿Cuáles son las funciones del Tribunal Electoral?"
+  ]
+}

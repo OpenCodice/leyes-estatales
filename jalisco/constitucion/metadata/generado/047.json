@@ -1,0 +1,33 @@
+{
+  "clave": "047",
+  "etiqueta": "Artículo 47º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:03e9df189fed295c",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Referéndum de reglamentos",
+  "temas": [
+    "referéndum",
+    "Poder Ejecutivo",
+    "reglamentos",
+    "decretos",
+    "leyes",
+    "participación ciudadana"
+  ],
+  "terminos_coloquiales": [
+    "votación sobre reglamentos",
+    "consulta popular",
+    "decidir sobre leyes",
+    "referéndum de decretos"
+  ],
+  "resumen": "Este artículo establece que los reglamentos y decretos del Poder Ejecutivo, a excepción de los relacionados con impuestos, pueden ser sometidos a referéndum según lo que diga la Constitución y las leyes específicas.",
+  "preguntas_ejemplo": [
+    "¿Qué reglamentos se pueden votar?",
+    "¿Cómo funciona el referéndum sobre decretos?",
+    "¿Qué tipos de leyes no pueden ser sometidas a referéndum?",
+    "¿Quién puede iniciar un referéndum?",
+    "¿Cuál es el papel del Poder Ejecutivo en un referéndum?"
+  ]
+}

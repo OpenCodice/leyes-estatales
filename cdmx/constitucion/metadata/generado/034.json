@@ -1,0 +1,37 @@
+{
+  "clave": "034",
+  "etiqueta": "Artículo 34",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:0260c2581ea64e0e",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Relación entre Poderes",
+  "temas": [
+    "colaboración entre poderes",
+    "información parlamentaria",
+    "propuestas de gobierno",
+    "gobierno de coalición",
+    "funciones del Congreso",
+    "exhortos",
+    "oposición parlamentaria"
+  ],
+  "terminos_coloquiales": [
+    "cómo se comunican el Congreso y el Gobierno",
+    "preguntas que le hace el Congreso al Gobierno",
+    "gobierno de coalición",
+    "funciones del Congreso",
+    "exhortos del Congreso",
+    "oposición en el Congreso"
+  ],
+  "resumen": "El artículo establece cómo el Congreso puede solicitar información al Poder Ejecutivo y otros órganos, así como las condiciones para formar un gobierno de coalición. También regula cómo deben actuar los diputados y sus funciones de oposición.",
+  "preguntas_ejemplo": [
+    "¿Cómo se comunica el Congreso con el Gobierno?",
+    "¿Qué es un gobierno de coalición?",
+    "¿Cuánto tiempo tiene el Gobierno para responder al Congreso?",
+    "¿Qué puede hacer el Congreso si recibe información?",
+    "¿Cómo se forman los gabinetes en un gobierno de coalición?",
+    "¿Qué significa que haya oposición en el Congreso?"
+  ]
+}

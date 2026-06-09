@@ -1,0 +1,37 @@
+{
+  "clave": "065",
+  "etiqueta": "Artículo 65º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:bb1f1298cdfcf8a5",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Tribunal de Justicia Administrativa",
+  "temas": [
+    "controversias administrativas",
+    "conflictos laborales",
+    "sanciones a servidores públicos",
+    "responsabilidades administrativas",
+    "indemnizaciones",
+    "hechos de corrupción",
+    "evaluaciones de control de confianza"
+  ],
+  "terminos_coloquiales": [
+    "tribunal administrativo",
+    "conflictos con la administración",
+    "sanciones a funcionarios",
+    "problemas laborales con el gobierno",
+    "sanciones financieras",
+    "corrupción en el servicio público"
+  ],
+  "resumen": "El Tribunal de Justicia Administrativa se encarga de resolver controversias administrativas y laborales entre el gobierno y los particulares. También puede sancionar a funcionarios por responsabilidades graves y manejar los daños económicos que afecten a la hacienda pública.",
+  "preguntas_ejemplo": [
+    "¿Qué hace el Tribunal de Justicia Administrativa?",
+    "¿Cómo se manejan las sanciones a funcionarios públicos?",
+    "¿Qué tipo de conflictos laborales puede resolver este tribunal?",
+    "¿Qué responsabilidades puede imponer el tribunal a los servidores públicos?",
+    "¿Cómo se evalúan a los magistrados del tribunal?",
+    "¿Qué sucede si un particular causa daño a la hacienda pública?"
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "clave": "015",
+  "etiqueta": "Artículo 15",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:aa6d6671274e5de3",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Planeación del Desarrollo",
+  "temas": [
+    "derecho a la ciudad",
+    "planeación democrática",
+    "desarrollo sustentable",
+    "participación ciudadana",
+    "ordenamiento territorial",
+    "evaluación de políticas",
+    "programas de gobierno",
+    "instituciones de planeación"
+  ],
+  "terminos_coloquiales": [
+    "planificación urbana",
+    "derechos de la ciudad",
+    "cómo se planea la ciudad",
+    "evaluación de programas",
+    "participación en la ciudad",
+    "desarrollo de la ciudad",
+    "programas de alcaldías"
+  ],
+  "resumen": "Este artículo establece cómo se debe realizar la planeación del desarrollo en la Ciudad de México, garantizando la participación ciudadana y la evaluación de políticas públicas. Se busca un desarrollo sustentable y una ciudad inclusiva que responda a las necesidades de la población.",
+  "preguntas_ejemplo": [
+    "¿Qué es el derecho a la ciudad?",
+    "¿Cómo se involucra la ciudadanía en la planeación urbana?",
+    "¿Qué programas se crean para el desarrollo de la ciudad?",
+    "¿Cómo se evalúan las políticas de la administración pública?",
+    "¿Cuáles son los instrumentos de planeación en la ciudad?",
+    "¿Quiénes participan en la elaboración del Plan General de Desarrollo?"
+  ]
+}

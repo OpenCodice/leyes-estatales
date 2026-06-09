@@ -1,0 +1,37 @@
+{
+  "clave": "021",
+  "etiqueta": "Artículo 21",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:663cf7b0403c643c",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Hacienda Pública",
+  "temas": [
+    "recursos públicos",
+    "presupuesto",
+    "contribuciones",
+    "gasto público",
+    "ingresos",
+    "transparencia",
+    "deuda pública",
+    "autonomía municipal"
+  ],
+  "terminos_coloquiales": [
+    "dinero del gobierno",
+    "impuestos",
+    "cómo se gasta el dinero",
+    "cómo se maneja el presupuesto",
+    "recursos de la ciudad",
+    "gasto de las alcaldías"
+  ],
+  "resumen": "El artículo establece cómo debe organizarse y administrarse la hacienda pública en la Ciudad de México, incluyendo principios de transparencia y rendición de cuentas. También detalla el manejo de recursos y presupuestos tanto del gobierno local como de las alcaldías.",
+  "preguntas_ejemplo": [
+    "¿Cómo se distribuye el dinero en la Ciudad de México?",
+    "¿Qué principios rigen el uso del presupuesto público?",
+    "¿Puede el gobierno local endeudarse?",
+    "¿Qué recursos tienen las alcaldías?",
+    "¿Cómo se garantiza la transparencia en el uso de los fondos públicos?"
+  ]
+}

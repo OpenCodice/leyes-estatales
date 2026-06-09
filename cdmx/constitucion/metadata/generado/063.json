@@ -1,0 +1,35 @@
+{
+  "clave": "063",
+  "etiqueta": "Artículo 63",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:b0938596e6eba058",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Sistema Anticorrupción",
+  "temas": [
+    "prevención de la corrupción",
+    "sanciones administrativas",
+    "fiscalización de recursos",
+    "participación ciudadana",
+    "transparencia",
+    "denuncias sobre corrupción",
+    "comité coordinador"
+  ],
+  "terminos_coloquiales": [
+    "cómo se evita la corrupción",
+    "quién investiga la corrupción",
+    "dónde denunciar hechos de corrupción",
+    "alianza para combatir la corrupción",
+    "qué es el sistema anticorrupción"
+  ],
+  "resumen": "El artículo establece un sistema para prevenir y combatir la corrupción en la Ciudad de México, coordinando diferentes autoridades y fomentando la participación ciudadana. Se crean comités para recibir denuncias y formular políticas públicas en esta materia.",
+  "preguntas_ejemplo": [
+    "¿Qué hace el sistema anticorrupción en la Ciudad de México?",
+    "¿Cómo puedo denunciar un acto de corrupción?",
+    "¿Quiénes forman parte del comité coordinador?",
+    "¿Qué políticas se están implementando para combatir la corrupción?",
+    "¿Cómo se protege a los denunciantes de corrupción?"
+  ]
+}

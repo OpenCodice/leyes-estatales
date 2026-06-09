@@ -1,0 +1,30 @@
+{
+  "clave": "114",
+  "etiqueta": "Artículo 114º",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:4c6934b65452f9ad",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Duración del cargo de servidores públicos",
+  "temas": [
+    "servidores públicos",
+    "períodos de mandato",
+    "funciones",
+    "tiempo de servicio"
+  ],
+  "terminos_coloquiales": [
+    "cuánto dura un servidor público",
+    "período de un funcionario",
+    "tiempo en el cargo",
+    "mandato de funcionarios"
+  ],
+  "resumen": "Los servidores públicos que asumen su cargo después de la fecha establecida solo estarán en funciones el tiempo que les falte para completar su mandato. Los períodos y plazos son unidades de tiempo naturales.",
+  "preguntas_ejemplo": [
+    "¿Cuánto tiempo puede estar un servidor público en su cargo?",
+    "¿Qué pasa si un funcionario entra después de la fecha marcada?",
+    "¿Los períodos de los servidores públicos son siempre iguales?",
+    "¿Cómo se cuentan los períodos de mandato de un funcionario?"
+  ]
+}

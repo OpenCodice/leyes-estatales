@@ -1,0 +1,36 @@
+{
+  "clave": "046",
+  "etiqueta": "Artículo 46",
+  "_generado": {
+    "modelo": "openai:gpt-4o-mini",
+    "schema": 1,
+    "hash_texto": "sha256:e48da5c52f0681c8",
+    "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
+  },
+  "denominacion_comun": "Organismos Autónomos",
+  "temas": [
+    "autonomía",
+    "transparencia",
+    "derechos humanos",
+    "equidad de género",
+    "nombramientos",
+    "responsabilidades",
+    "control interno"
+  ],
+  "terminos_coloquiales": [
+    "organismos independientes",
+    "comisiones de derechos",
+    "fiscalías",
+    "comisiones de transparencia",
+    "elecciones",
+    "presupuestos de organismos"
+  ],
+  "resumen": "El artículo establece la existencia y características de los organismos autónomos, que son entidades independientes con personalidad jurídica y patrimonios propios. Estos organismos tienen la capacidad de gestionar su presupuesto y deben garantizar la transparencia y equidad de género en su funcionamiento.",
+  "preguntas_ejemplo": [
+    "¿Qué son los organismos autónomos?",
+    "¿Cómo se eligen a los titulares de los organismos autónomos?",
+    "¿Qué funciones tienen las comisiones de derechos humanos?",
+    "¿Qué garantías hay de transparencia en los organismos autónomos?",
+    "¿Qué pasa si un organismo autónomo no cumple con sus funciones?"
+  ]
+}
