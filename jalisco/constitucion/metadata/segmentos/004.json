@@ -93,7 +93,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 4º › párrafo 10",
-      "texto": "Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad (sic) Las personas en situación de dependencia tienen el derecho a ser cuidadas de manera digna y a recibir los elementos materiales y simbólicos que sustenten su vida para vivir en sociedad."
+      "texto": "Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad."
     },
     {
       "id": "004.p11",
@@ -102,7 +102,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 4º › párrafo 11",
-      "texto": "Las personas que realizan trabajo doméstico no remunerado o de cuidados a personas en situación de dependencia realizado en el propio hogar, serán atendidas y reconocidas como generadores de riqueza y bienestar social."
+      "texto": "Toda persona tiene el derecho a una vivienda digna y adecuada, que permita el libre desarrollo de una vida personal, familiar y comunitaria. El Estado establecerá las medidas normativas y políticas públicas necesarias para asegurar los elementos mínimos como la habitabilidad, el espacio y equipamiento suficientes, doméstico y comunitario para la producción y reproducción de la vida, la disponibilidad de servicios, la accesibilidad, la ubicación apropiada, la seguridad de la tenencia y la pertinencia cultural de las viviendas. El Estado podrá participar en el diseño, la construcción, la rehabilitación, la conservación y la innovación de la vivienda."
     },
     {
       "id": "004.p12",
@@ -111,7 +111,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 4º › párrafo 12",
-      "texto": "El Estado de Jalisco tiene una composición pluricultural sustentada originalmente en sus pueblos indígenas que son aquellos que descienden de poblaciones que habitaban en el territorio actual del país al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas."
+      "texto": "Considerará en el diseño de las políticas de vivienda a personas con bajos ingresos económicos o pertenecientes a grupos vulnerables. El Estado establecerá mecanismos para impedir la especulación en materia de suelo vivienda que vaya en detrimento del interés público."
     },
     {
       "id": "004.p13",
@@ -120,7 +120,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 4º › párrafo 13",
-      "texto": "La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas."
+      "texto": "Toda persona tiene derecho a una alimentación nutritiva, suficiente y de calidad. La Ley establecerá la forma y términos en los que se garantizará este derecho."
     },
     {
       "id": "004.p14",
@@ -129,7 +129,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 4º › párrafo 14",
-      "texto": "Son comunidades integrantes de un pueblo indígena, aquellas que formen una unidad social, económica y cultural, asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus usos y costumbres."
+      "texto": "Las personas en situación de dependencia tienen el derecho a ser cuidadas de manera digna y a recibir los elementos materiales y simbólicos que sustenten su vida para vivir en sociedad."
     },
     {
       "id": "004.p15",
@@ -138,7 +138,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 4º › párrafo 15",
-      "texto": "El derecho de los pueblos indígenas a la libre determinación se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional. El reconocimiento de los pueblos y comunidades indígenas se hará en las leyes reglamentarias, las que deberán tomar en cuenta, además de los principios generales establecidos en los párrafos anteriores de este artículo, criterios etnolingüísticos y de asentamiento físico."
+      "texto": "Las personas que realizan trabajo doméstico no remunerado o de cuidados a personas en situación de dependencia realizado en el propio hogar, serán atendidas y reconocidas como generadores de riqueza y bienestar social."
     },
     {
       "id": "004.p16",
@@ -147,6 +147,51 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 4º › párrafo 16",
+      "texto": "Toda persona tiene el derecho a la ciudad, que consiste en el uso y el goce pleno y equitativo de los espacios y bienes públicos, fundado en principios de democracia, de respeto a la diversidad cultural, a la naturaleza y al medio ambiente, igualdad sustantiva, inclusión social, justicia social, participación y paz. El derecho a la ciudad es un derecho colectivo e intergeneracional. El estado establecerá mecanismos para asegurar la justicia territorial con la participación ciudadana."
+    },
+    {
+      "id": "004.p17",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4º › párrafo 17",
+      "texto": "El Estado de Jalisco tiene una composición pluricultural sustentada originalmente en sus pueblos indígenas que son aquellos que descienden de poblaciones que habitaban en el territorio actual del país al iniciarse la colonización y que conservan sus propias instituciones sociales, económicas, culturales y políticas, o parte de ellas."
+    },
+    {
+      "id": "004.p18",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4º › párrafo 18",
+      "texto": "La conciencia de su identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas."
+    },
+    {
+      "id": "004.p19",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4º › párrafo 19",
+      "texto": "Son comunidades integrantes de un pueblo indígena, aquellas que formen una unidad social, económica y cultural, asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus usos y costumbres."
+    },
+    {
+      "id": "004.p20",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4º › párrafo 20",
+      "texto": "El derecho de los pueblos indígenas a la libre determinación se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional. El reconocimiento de los pueblos y comunidades indígenas se hará en las leyes reglamentarias, las que deberán tomar en cuenta, además de los principios generales establecidos en los párrafos anteriores de este artículo, criterios etnolingüísticos y de asentamiento físico."
+    },
+    {
+      "id": "004.p21",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4º › párrafo 21",
       "texto": "A.- Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía para:"
     },
     {
