@@ -57,34 +57,52 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 57º › párrafo 6",
-      "texto": "Salvo lo dispuesto por la legislación en materia de disciplina financiera de las entidades federativas y municipios, el presupuesto del Poder Judicial no podrá ser inferior al ejercido el año inmediato anterior, actualizado con base en la cifra de inflación señalada en los criterios generales de política económica para el ejercicio que se está presupuestando."
+      "texto": "Salvo lo dispuesto por la legislación en materia de disciplina financiera de las entidades federativas y municipios, el presupuesto del Poder Judicial no podrá ser inferior al dos por ciento del presupuesto de egresos del Estado para el ejercicio fiscal de que se trate, el cual será distribuido de la siguiente forma:"
     },
     {
-      "id": "057.p7",
-      "tipo": "parrafo",
-      "marca": "",
+      "id": "057.I",
+      "tipo": "fraccion",
+      "marca": "I",
       "apartado": "",
       "fraccion": "",
-      "ruta": "Artículo 57º › párrafo 7",
-      "texto": "La competencia del Supremo Tribunal de Justicia, su funcionamiento en pleno o salas; la competencia y funcionamiento de los juzgados de primera instancia, menores y de paz, así como de los jurados, se regirá por lo que dispongan las leyes, de conformidad con las bases que esta Constitución establece."
+      "ruta": "Artículo 57º › Fracción I",
+      "texto": "I. El presupuesto ordinario del Poder Judicial será el equivalente al uno punto cinco por ciento del presupuesto de egresos del Estado y se distribuirá de la siguiente manera:"
     },
     {
-      "id": "057.p8",
-      "tipo": "parrafo",
-      "marca": "",
+      "id": "057.I.a",
+      "tipo": "inciso",
+      "marca": "a",
       "apartado": "",
-      "fraccion": "",
-      "ruta": "Artículo 57º › párrafo 8",
-      "texto": "La ley fijará los términos en que sea obligatoria la jurisprudencia que establezcan los tribunales del Poder Judicial, funcionando en pleno o en salas, sobre interpretación de leyes de su competencia, así como los requisitos para su interpretación o modificación, sin que se contravenga la jurisprudencia que establezcan los tribunales del Poder Judicial de la Federación."
+      "fraccion": "I",
+      "ruta": "Artículo 57º › Fracción I › inciso a)",
+      "texto": "a) Setenta por ciento al Consejo de la Judicatura;"
     },
     {
-      "id": "057.p9",
-      "tipo": "parrafo",
-      "marca": "",
+      "id": "057.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 57º › Fracción I › inciso b)",
+      "texto": "b) Veinticinco por ciento al Supremo Tribunal de Justicia; y"
+    },
+    {
+      "id": "057.I.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 57º › Fracción I › inciso c)",
+      "texto": "c) Cinco por ciento al Instituto de Justicia Alternativa."
+    },
+    {
+      "id": "057.II",
+      "tipo": "fraccion",
+      "marca": "II",
       "apartado": "",
       "fraccion": "",
-      "ruta": "Artículo 57º › párrafo 9",
-      "texto": "El personal de los tribunales, juzgados y demás órganos del Poder Judicial, regirá sus relaciones de trabajo conforme a las disposiciones generales y a las reglas especiales que para cada caso señalen esta Constitución y las leyes aplicables."
+      "ruta": "Artículo 57º › Fracción II",
+      "texto": "II. El presupuesto para proyectos específicos de infraestructura del Poder Judicial será el equivalente al punto cinco por ciento del presupuesto de egresos del Estado, para lo cual deberá anexar a su proyecto de presupuesto la documentación que lo justifique.\n\nLa competencia del Supremo Tribunal de Justicia, su funcionamiento en pleno o salas; la competencia y funcionamiento de los juzgados de primera instancia, menores y de paz, así como de los jurados, se regirá por lo que dispongan las leyes, de conformidad con las bases que esta Constitución establece.\n\nLa ley fijará los términos en que sea obligatoria la jurisprudencia que establezcan los tribunales del Poder Judicial, funcionando en pleno o en salas, sobre interpretación de leyes de su competencia, así como los requisitos para su interpretación o modificación, sin que se contravenga la jurisprudencia que establezcan los tribunales del Poder Judicial de la Federación.\n\nEl personal de los tribunales, juzgados y demás órganos del Poder Judicial, regirá sus relaciones de trabajo conforme a las disposiciones generales y a las reglas especiales que para cada caso señalen esta Constitución y las leyes aplicables."
     }
   ]
 }
