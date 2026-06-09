@@ -104,7 +104,8 @@ jobs:
           fi
           PYTHONPATH=/tmp/extractor python -m extractor build \
             --pdf /tmp/estatal.pdf --out "$GITHUB_WORKSPACE/${{ matrix.dir }}" \
-            --perfil "${{ matrix.perfil }}" ${VER:+--version "$VER"}
+            --perfil "${{ matrix.perfil }}" \
+            --url-fuente "${{ steps.url.outputs.url }}" ${VER:+--version "$VER"}
 
       - name: ¿Cambió el texto vigente?
         if: steps.url.outputs.skip == 'false'
