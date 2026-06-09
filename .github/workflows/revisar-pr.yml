@@ -79,9 +79,8 @@ jobs:
             if [ -z "$(git diff --name-only "$BASE" -- "$dir/articulos")" ]; then
               continue
             fi
-            { echo "### 🔎 Resumen asistido — $estado"; echo; } > /tmp/resumen.md
             PYTHONPATH=/tmp/extractor python /tmp/extractor/scripts/resumir_pr.py \
-              "$GITHUB_WORKSPACE/$dir" "$BASE" "$perfil" >> /tmp/resumen.md || true
+              "$GITHUB_WORKSPACE/$dir" "$BASE" "$perfil" > /tmp/resumen.md || true
             gh pr comment "${{ github.event.pull_request.number }}" \
               --repo "${{ github.repository }}" --body-file /tmp/resumen.md
           done
