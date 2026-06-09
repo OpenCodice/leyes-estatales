@@ -1,0 +1,378 @@
+{
+  "clave": "044",
+  "etiqueta": "Artículo 44",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "044.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 1",
+      "texto": "Procuración de Justicia"
+    },
+    {
+      "id": "044.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado A",
+      "texto": "A. Fiscalía General de Justicia"
+    },
+    {
+      "id": "044.A.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado A › 1.",
+      "texto": "1. El Ministerio Público de la Ciudad de México se organizará en una Fiscalía General de Justicia como un organismo público autónomo que goza de personalidad jurídica y patrimonio propios."
+    },
+    {
+      "id": "044.A.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado A › 2.",
+      "texto": "2. La investigación de los delitos corresponde al Ministerio Público y a las policías investigadoras, las cuales actuarán bajo su mando y conducción de aquél en el ejercicio de esta función."
+    },
+    {
+      "id": "044.A.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado A › 3.",
+      "texto": "3. El ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público."
+    },
+    {
+      "id": "044.A.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado A › 4.",
+      "texto": "4. La persona titular de esta Fiscalía durará cuatro años y será electa por mayoría calificada del Congreso a propuesta del Consejo Judicial Ciudadano, mediante un proceso de examinación público y abierto de conformidad con lo que establezca la ley. La o el Fiscal podrá ser ratificado por un periodo más a propuesta de este Consejo."
+    },
+    {
+      "id": "044.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado A › párrafo 2",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "044.A.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado A › 5.",
+      "texto": "5. Para ser Titular de la Fiscalía de la Ciudad de México se requiere que al momento de su designación la persona, cumpla con los siguientes requisitos:"
+    },
+    {
+      "id": "044.A.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado A › inciso a)",
+      "texto": "a) Tener ciudadanía Mexicana;"
+    },
+    {
+      "id": "044.A.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado A › inciso b)",
+      "texto": "b) Tener cuando menos treinta y cinco años de edad;"
+    },
+    {
+      "id": "044.A.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado A › inciso c)",
+      "texto": "c) Contar con Título y Cédula de Licenciatura en Derecho, con experiencia mínima de 5 años;"
+    },
+    {
+      "id": "044.A.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado A › inciso d)",
+      "texto": "d) No haber sido condenada por delito doloso;"
+    },
+    {
+      "id": "044.A.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado A › inciso e)",
+      "texto": "e) Someterse y acreditar en los términos de la ley, las evaluaciones y certificación de confianza;"
+    },
+    {
+      "id": "044.A.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado A › inciso f)",
+      "texto": "f) Presentar y hacer pública en los términos de la ley su declaración patrimonial, fiscal y de intereses;"
+    },
+    {
+      "id": "044.A.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado A › inciso g)",
+      "texto": "g) No haber desempeñado un cargo de elección popular, o cargo de dirección de un Partido Político, un año previo."
+    },
+    {
+      "id": "044.A.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado A › 6.",
+      "texto": "6. El perfil de la o el Fiscal General será de una persona honorable, con conocimientos y experiencia en el ámbito jurídico y de procuración de justicia, capacidad de administración y dirección institucional, diseño y ejecución de políticas públicas, independiente en su actuación, con una visión de respeto y protección a los derechos humanos, atención a las víctimas y perspectiva de género."
+    },
+    {
+      "id": "044.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado B",
+      "texto": "B. Competencia"
+    },
+    {
+      "id": "044.B.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado B › 1.",
+      "texto": "1. La Fiscalía General de Justicia tendrá las siguientes atribuciones:"
+    },
+    {
+      "id": "044.B.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado B › inciso a)",
+      "texto": "a) (Se deroga)"
+    },
+    {
+      "id": "044.B.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado B › inciso b)",
+      "texto": "b) Establecer una política de persecución criminal que le permita gestionar, de manera estratégica los delitos del fuero común; aquellos en los que, por disposición de las leyes INSTITUTO DE INVESTIGACIONES LEGISLATIVAS generales, exista competencia concurrente, así como federales cuando lo determine la ley. Para tales efectos tendrá bajo su mando inmediato a la policía de investigación;"
+    },
+    {
+      "id": "044.B.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado B › inciso c)",
+      "texto": "c) (Se deroga)"
+    },
+    {
+      "id": "044.B.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado B › inciso d)",
+      "texto": "d) (Se deroga)"
+    },
+    {
+      "id": "044.B.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado B › inciso e)",
+      "texto": "e) (Se deroga)"
+    },
+    {
+      "id": "044.B.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado B › inciso f)",
+      "texto": "f) (Se deroga)"
+    },
+    {
+      "id": "044.B.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado B › inciso g)",
+      "texto": "g) (Se deroga)"
+    },
+    {
+      "id": "044.B.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado B › inciso h)",
+      "texto": "h) (Se deroga)"
+    },
+    {
+      "id": "044.B.i",
+      "tipo": "inciso",
+      "marca": "i",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado B › inciso i)",
+      "texto": "i) Crear una unidad interna de estadística y transparencia que garantice la publicación oportuna de información;"
+    },
+    {
+      "id": "044.B.j",
+      "tipo": "inciso",
+      "marca": "j",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado B › inciso j)",
+      "texto": "j) Crear una unidad interna de combate a la corrupción y la infiltración de la delincuencia organizada;"
+    },
+    {
+      "id": "044.B.k",
+      "tipo": "inciso",
+      "marca": "k",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado B › inciso k)",
+      "texto": "k) Expedir reglas para la administración eficiente de los recursos materiales y humanos de la institución;"
+    },
+    {
+      "id": "044.B.l",
+      "tipo": "inciso",
+      "marca": "l",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado B › inciso l)",
+      "texto": "l) Instituir mecanismos de asistencia con las instituciones de seguridad ciudadana, en las formas y modalidades que establezca la ley para la colaboración y autorización de sus actuaciones;"
+    },
+    {
+      "id": "044.B.m",
+      "tipo": "inciso",
+      "marca": "m",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado B › inciso m)",
+      "texto": "m) Establecer un servicio profesional de carrera, con reglas para la selección, ingreso, formación, promoción y permanencia de las personas servidoras públicas;"
+    },
+    {
+      "id": "044.B.n",
+      "tipo": "inciso",
+      "marca": "n",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado B › inciso n)",
+      "texto": "n) Solicitar el apoyo de las instituciones de seguridad ciudadana, en las formas y modalidades que establezca la ley para la colaboración y autorización de sus actuaciones;"
+    },
+    {
+      "id": "044.B.o",
+      "tipo": "inciso",
+      "marca": "o",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado B › inciso o)",
+      "texto": "o) (Se deroga) INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "044.B.p",
+      "tipo": "inciso",
+      "marca": "p",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado B › inciso p)",
+      "texto": "p) Fungir como representante social y de la Ciudad, cuando la ley lo disponga;"
+    },
+    {
+      "id": "044.B.q",
+      "tipo": "inciso",
+      "marca": "q",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado B › inciso q)",
+      "texto": "q) Participar en las instancias relacionadas con los sistemas local, regional y nacional de seguridad;"
+    },
+    {
+      "id": "044.B.r",
+      "tipo": "inciso",
+      "marca": "r",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado B › inciso r)",
+      "texto": "r) Establecer vínculos de coordinación interinstitucional con las alcaldías y demás dependencias del gobierno para el mejor desempeño de sus funciones; y"
+    },
+    {
+      "id": "044.B.s",
+      "tipo": "inciso",
+      "marca": "s",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado B › inciso s)",
+      "texto": "s) Las demás que determine la ley en la materia."
+    },
+    {
+      "id": "044.B.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado B › 2.",
+      "texto": "2. La o el Fiscal General deberá presentar un plan de política criminal cada año al Congreso, el primer día del segundo periodo de sesiones. Dicho plan consistirá en un diagnóstico de la criminalidad y la calidad del trabajo del Ministerio Público; criterios sobre los delitos que se atenderán de manera prioritaria, y metas de desempeño para el siguiente año."
+    },
+    {
+      "id": "044.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado C",
+      "texto": "C. Fiscalías especializadas y unidades de atención temprana"
+    },
+    {
+      "id": "044.C.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado C › 1.",
+      "texto": "1. El Ministerio Público tendrá fiscalías especializadas para la investigación de delitos complejos y contarán con personal multidisciplinario capacitado específicamente para cumplir su objeto. Sus titulares serán designados por mayoría calificada del Congreso, de conformidad con lo que establezca la ley."
+    },
+    {
+      "id": "044.C.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Apartado C › 2.",
+      "texto": "2. Se establecerán unidades de atención temprana que brindarán asesoría y orientación legal a las y los denunciantes. Tendrán como objetivo recibir de forma inmediata las denuncias de las personas y canalizarlas a la instancia competente de acuerdo a la naturaleza del acto denunciado, de conformidad con la ley en la materia."
+    }
+  ]
+}

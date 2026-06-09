@@ -1,0 +1,54 @@
+{
+  "clave": "068",
+  "etiqueta": "Artículo 68",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "068.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 1",
+      "texto": "Régimen de capitalidad INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "068.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › 1.",
+      "texto": "1. La Ciudad de México, en su carácter de capital de la República y sede de los Poderes de la Unión, garantizará las condiciones necesarias para el ejercicio de las facultades constitucionales de los poderes federales y, en el ámbito de sus competencias, brindará la colaboración que requiera la Federación en los términos de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "068.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › 2.",
+      "texto": "2. Las autoridades locales promoverán acuerdos y convenios con la Federación, en el ámbito de sus competencias, para asegurar el cuidado de las representaciones diplomáticas, así como de los bienes inmuebles y patrimonio de la Federación asentados en el territorio de la Ciudad."
+    },
+    {
+      "id": "068.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › 3.",
+      "texto": "3. Los recursos que la Ciudad de México reciba en su carácter de capital de la República, de conformidad con lo previsto en el artículo 122, apartado B de la Constitución Política de los Estados Unidos Mexicanos, se ejercerán conforme a las bases que establezca la normatividad aplicable."
+    },
+    {
+      "id": "068.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 2",
+      "texto": "DE LA ESTABILIDAD CONSTITUCIONAL"
+    }
+  ]
+}

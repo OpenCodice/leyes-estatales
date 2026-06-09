@@ -1,0 +1,594 @@
+{
+  "clave": "008",
+  "etiqueta": "Artículo 8",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "008.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 1",
+      "texto": "Ciudad educadora y del conocimiento"
+    },
+    {
+      "id": "008.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado A",
+      "texto": "A. Derecho a la educación"
+    },
+    {
+      "id": "008.A.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado A › 1.",
+      "texto": "1. En la Ciudad de México todas las personas tienen derecho a la educación en todos los niveles, al conocimiento y al aprendizaje continuo. Tendrán acceso igualitario a recibir formación adecuada a su edad, capacidades y necesidades específicas, así como la garantía de su permanencia, independientemente de su condición económica, étnica, cultural, lingüística, de credo, de género o de discapacidad."
+    },
+    {
+      "id": "008.A.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado A › 2.",
+      "texto": "2. Se garantizará el derecho universal a la educación obligatoria. La Ciudad de México asume la educación como un deber primordial y un bien público indispensable para la realización plena de sus habitantes, así como un proceso colectivo que es corresponsabilidad de las autoridades de los distintos órdenes de gobierno en el ámbito de sus facultades, el personal docente, las familias y los sectores de la sociedad."
+    },
+    {
+      "id": "008.A.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado A › 3.",
+      "texto": "3. Las autoridades educativas de la Ciudad de México impartirán educación en todos los niveles y modalidades, en los términos y las condiciones previstas en la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia. Toda la educación pública será gratuita, laica, inclusiva, intercultural, pertinente y de calidad. Tenderá a igualar las oportunidades y INSTITUTO DE INVESTIGACIONES LEGISLATIVAS disminuir las desigualdades entre los habitantes. Será democrática y contribuirá a la mejor convivencia humana. En la Ciudad de México, la población indígena tendrá derecho a recibir educación bilingüe, en su lengua originaria y en español con perspectiva intercultural."
+    },
+    {
+      "id": "008.A.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado A › 4.",
+      "texto": "4. La comunidad escolar es la base orgánica del sistema educativo, estará conformada por estudiantes, docentes, padres y madres de familia y autoridades escolares. Su labor principal será contribuir a mejorar el funcionamiento de las instituciones educativas y de los servicios educativos, en el diseño y ejecución de los mismos, conforme los derechos y obligaciones establecidos en las leyes en la materia. En todo momento se deberá respetar la libertad, la dignidad e integridad de todos los miembros de la comunidad escolar."
+    },
+    {
+      "id": "008.A.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado A › 5.",
+      "texto": "5. Queda prohibido condicionar la prestación de los servicios educativos a cargo del Estado, incluyendo la inscripción, la aplicación de exámenes, la permanencia y la entrega de documentos, a la entrega de aportaciones, cuotas, donaciones, dádivas o cualquier otro tipo de contraprestación en numerario, bienes o servicios."
+    },
+    {
+      "id": "008.A.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado A › 6.",
+      "texto": "6. Atendiendo al principio rector del interés superior de la niñez, las autoridades garantizarán el pleno acceso al derecho de las niñas y los niños a recibir educación."
+    },
+    {
+      "id": "008.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado A › párrafo 2",
+      "texto": "En la Ciudad de México, todas las niñas y niños inscritos en planteles públicos de educación básica, tendrán derecho a contar con una beca que se denominará Bienestar para niñas y niños."
+    },
+    {
+      "id": "008.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado A › párrafo 3",
+      "texto": "En cada ejercicio fiscal, los planteles educativos de educación pública básica en la Ciudad de México contarán con la asignación presupuestal que determine el Congreso a fin de dignificar las condiciones de los inmuebles, misma que se ejercerá con la participación de los padres y madres de familia. El programa para el ejercicio de este derecho se denominará La escuela es nuestra."
+    },
+    {
+      "id": "008.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado A › párrafo 4",
+      "texto": "Reforma publicada en la GOCDMX el 28 de Noviembre de 2022"
+    },
+    {
+      "id": "008.A.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado A › 7.",
+      "texto": "7. Las autoridades educativas promoverán la ampliación paulatina de las jornadas escolares hasta un máximo de ocho horas con programas artísticos, deportes y de apoyo al aprendizaje."
+    },
+    {
+      "id": "008.A.8",
+      "tipo": "numeral",
+      "marca": "8",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado A › 8.",
+      "texto": "8. La educación de los tipos medio superior y superior que se imparta en la Ciudad de México deberá tener contenidos que propicien el pensamiento crítico y la conciencia de las personas sobre su papel en la sociedad y su compromiso con la ciudad, el país y el mundo."
+    },
+    {
+      "id": "008.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado A › párrafo 5",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "008.A.9",
+      "tipo": "numeral",
+      "marca": "9",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado A › 9.",
+      "texto": "9. Las personas adultas tendrán derecho a servicios de alfabetización, educación primaria y secundaria, así como oportunidades de formación para el trabajo a lo largo de la vida, con las particularidades adecuadas que requieran."
+    },
+    {
+      "id": "008.A.10",
+      "tipo": "numeral",
+      "marca": "10",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado A › 10.",
+      "texto": "10. Las autoridades de conformidad con su ámbito de competencia, establecerán acciones afirmativas destinadas a prevenir o compensar situaciones de desventajas o dificultades de grupos vulnerables, con el fin de procurar su permanencia en el sistema educativo."
+    },
+    {
+      "id": "008.A.11",
+      "tipo": "numeral",
+      "marca": "11",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado A › 11.",
+      "texto": "11. Quienes ejercen la patria potestad, tutela o guarda y custodia de niñas, niños y adolescentes deberán asegurar que cursen la educación obligatoria, participar en su proceso educativo y proporcionarles las condiciones para su continuidad y permanencia en el sistema educativo."
+    },
+    {
+      "id": "008.A.12",
+      "tipo": "numeral",
+      "marca": "12",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado A › 12.",
+      "texto": "12. La Ciudad de México es un espacio público de aprendizaje que reconoce las diversas formas de acceso a la educación y a la cultura."
+    },
+    {
+      "id": "008.A.13",
+      "tipo": "numeral",
+      "marca": "13",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado A › 13.",
+      "texto": "13. Las autoridades de la Ciudad promoverán la lectura y la escritura como prácticas formativas, informativas y lúdicas. Se fortalecerá la red de bibliotecas públicas y bancos de datos que aseguren el acceso universal, gratuito y equitativo a los libros en sus diversos formatos. Además, fomentarán la cultura escrita y apoyarán la edición de publicaciones por cualquier medio."
+    },
+    {
+      "id": "008.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado B",
+      "texto": "B. Sistema educativo local"
+    },
+    {
+      "id": "008.B.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado B › 1.",
+      "texto": "1. Las autoridades educativas podrán proponer a la autoridad educativa federal contenidos regionales para los planes y programas de estudio de educación básica."
+    },
+    {
+      "id": "008.B.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado B › 2.",
+      "texto": "2. Las autoridades educativas deberán fomentar oportunidades de acceso a la educación superior, previendo que la misma tenga condiciones de calidad y pertinencia."
+    },
+    {
+      "id": "008.B.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado B › 3.",
+      "texto": "3. Las autoridades tomarán las medidas tendientes a prevenir y evitar la deserción escolar en todos los niveles. Las leyes locales establecerán apoyos para materiales educativos para estudiantes de educación inicial y básica, así como un apoyo económico para los estudiantes de educación media superior."
+    },
+    {
+      "id": "008.B.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado B › 4.",
+      "texto": "4. Esta Constitución reconoce la función primordial de la actividad docente, su dignificación social, así como la importancia de la formación continua para los docentes."
+    },
+    {
+      "id": "008.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado B › párrafo 6",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "008.B.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado B › 5.",
+      "texto": "5. El sistema educativo local se adaptará a las necesidades de la comunidad escolar y responderá a su diversidad social y cultural. Asimismo, fomentará la innovación, la preservación, la educación ambiental y el respeto a los derechos humanos, la cultura, la formación cívica, ética, la educación y creación artísticas, la educación tecnológica, la educación física y el deporte. Las autoridades de la Ciudad de México contarán con un sistema de escuelas de nivel medio superior en el que se impartirán estudios al más alto nivel académico."
+    },
+    {
+      "id": "008.B.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado B › 6.",
+      "texto": "6. Las autoridades promoverán esquemas eficientes para el suministro de alimentos sanos y nutritivos conforme a los lineamientos que la autoridad en la materia determine."
+    },
+    {
+      "id": "008.B.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado B › 7.",
+      "texto": "7. La Ciudad de México y sus demarcaciones territoriales velarán por que los materiales y métodos educativos, la organización escolar y la infraestructura física sean adaptables a las condiciones y contextos específicos de las y los alumnos asegurando su desarrollo progresivo e integral, conforme a las capacidades y habilidades personales. Se reconoce a la Lengua de Señas Mexicana como oficial y parte del patrimonio lingüístico de la Ciudad. Las personas sordas tendrán derecho a recibir educación en Lengua de Señas Mexicana y español."
+    },
+    {
+      "id": "008.B.8",
+      "tipo": "numeral",
+      "marca": "8",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado B › 8.",
+      "texto": "8. La Universidad Autónoma de la Ciudad de México es una institución pública autónoma de educación superior con personalidad jurídica y patrimonio propios, que debe proporcionar educación de calidad en la Ciudad de México. Tiene la facultad y responsabilidad de gobernarse a sí misma; de definir su estructura y las funciones académicas que le correspondan, realizando sus funciones de educar, investigar y difundir la cultura, atendiendo los principios contenidos en el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos, respetando las libertades de estudio, cátedra e investigación y de libre examen y discusión de las ideas; de determinar sus planes y programas; de fijar los términos de ingreso, promoción y permanencia de su personal académico; y de administrar su patrimonio."
+    },
+    {
+      "id": "008.B.9",
+      "tipo": "numeral",
+      "marca": "9",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado B › 9.",
+      "texto": "9. En la Ciudad de México los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, se otorgará y retirará el reconocimiento de validez oficial a los estudios de educación inicial, media superior y superior que se realicen en planteles particulares y, en el caso de la educación básica, deberán obtener previamente, en cada caso, la autorización expresa de la autoridad."
+    },
+    {
+      "id": "008.B.10",
+      "tipo": "numeral",
+      "marca": "10",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado B › 10.",
+      "texto": "10. La falta de documentación que acredite la identidad de niñas, niños y adolescentes no podrá ser impedimento para garantizar el acceso al sistema educativo. Las autoridades deberán facilitar INSTITUTO DE INVESTIGACIONES LEGISLATIVAS opciones para obtener la documentación requerida que permita la integración o tránsito del educando por el sistema educativo nacional."
+    },
+    {
+      "id": "008.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado C",
+      "texto": "C. Derecho a la ciencia y a la innovación tecnológica"
+    },
+    {
+      "id": "008.C.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado C › 1.",
+      "texto": "1. En la Ciudad de México el acceso al desarrollo científico y tecnológico es un derecho universal y elemento fundamental para el bienestar individual y social. El Gobierno de la Ciudad garantizará el libre acceso, uso y desarrollo de la ciencia, la tecnología y la innovación, la plena libertad de investigación científica y tecnológica, así como a disfrutar de sus beneficios."
+    },
+    {
+      "id": "008.C.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado C › 2.",
+      "texto": "2. Toda persona tiene derecho al acceso, uso y desarrollo de la ciencia, la tecnología y la innovación, así como a disfrutar de sus beneficios y desarrollar libremente los procesos científicos de conformidad con la ley."
+    },
+    {
+      "id": "008.C.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado C › 3.",
+      "texto": "3. Las autoridades impulsarán el uso de las tecnologías de la información y la comunicación. Habrá acceso gratuito de manera progresiva a internet en todos los espacios públicos, escuelas públicas, edificios gubernamentales y recintos culturales."
+    },
+    {
+      "id": "008.C.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado C › 4.",
+      "texto": "4. Las autoridades, en el ámbito de sus competencias, fortalecerán y apoyarán la generación, ejecución y difusión de proyectos de investigación científica y tecnológica, así como la vinculación de éstos con los sectores productivos, sociales y de servicios, a fin de resolver problemas y necesidades de la Ciudad, contribuir a su desarrollo económico y social, elevar el bienestar de la población y reducir la desigualdad; la formación de técnicos y profesionales que para el mismo se requieran; la enseñanza de la ciencia y la tecnología desde la enseñanza básica; y el apoyo a creadores e inventores."
+    },
+    {
+      "id": "008.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado C › párrafo 7",
+      "texto": "Garantizan igualmente la preservación, el rescate y desarrollo de técnicas y prácticas tradicionales y originarias en la medicina y en la protección, restauración y buen uso de los recursos naturales y el cuidado del medio ambiente."
+    },
+    {
+      "id": "008.C.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado C › 5.",
+      "texto": "5. El Instituto de Planeación Democrática y Prospectiva elaborará un Programa de Desarrollo Científico, Tecnológico y de Innovación que será parte integral del Plan General de Desarrollo de la Ciudad de México, con una visión de veinte años, y que se actualizará cada tres."
+    },
+    {
+      "id": "008.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado C › párrafo 8",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "008.C.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado C › 6.",
+      "texto": "6. En el presupuesto de la Ciudad de México, se considerará una partida específica para el desarrollo de la ciencia y la tecnología, que no podrá ser inferior al dos por ciento del Presupuesto de la Ciudad."
+    },
+    {
+      "id": "008.C.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado C › 7.",
+      "texto": "7. Se estimulará el establecimiento de empresas tecnológicas, así como la inversión en ciencia, tecnología e innovación, en los sectores social y privado en la Ciudad de México."
+    },
+    {
+      "id": "008.D",
+      "tipo": "apartado",
+      "marca": "D",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado D",
+      "texto": "D. Derechos culturales"
+    },
+    {
+      "id": "008.D.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado D › 1.",
+      "texto": "1. Toda persona, grupo o comunidad gozan del derecho irrestricto de acceso a la cultura. El arte y la ciencia son libres y queda prohibida toda forma de censura. De manera enunciativa y no limitativa, tienen derecho a:"
+    },
+    {
+      "id": "008.D.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado D › inciso a)",
+      "texto": "a) Elegir y que se respete su identidad cultural, en la diversidad de sus modos de expresión;"
+    },
+    {
+      "id": "008.D.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado D › inciso b)",
+      "texto": "b) Conocer y que se respete su propia cultura, como también las culturas que, en su diversidad, constituyen el patrimonio común de la humanidad;"
+    },
+    {
+      "id": "008.D.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado D › inciso c)",
+      "texto": "c) Una formación que contribuya al libre y pleno desarrollo de su identidad cultural;"
+    },
+    {
+      "id": "008.D.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado D › inciso d)",
+      "texto": "d) Acceder al patrimonio cultural que constituye las expresiones de las diferentes culturas;"
+    },
+    {
+      "id": "008.D.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado D › inciso e)",
+      "texto": "e) Acceder y participar en la vida cultural a través de las actividades que libremente elija y a los espacios públicos para el ejercicio de sus expresiones culturales y artísticas, sin contravenir la reglamentación en la materia;"
+    },
+    {
+      "id": "008.D.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado D › inciso f)",
+      "texto": "f) Ejercer las propias prácticas culturales y seguir un modo de vida asociado a sus formas tradicionales de conocimiento, organización y representación, siempre y cuando no se opongan a los principios y disposiciones de la Constitución Política de los Estados Unidos Mexicanos, de los tratados internacionales y de esta Constitución;"
+    },
+    {
+      "id": "008.D.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado D › inciso g)",
+      "texto": "g) Ejercer en libertad su derecho a emprender proyectos, iniciativas y propuestas culturales y artísticas;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "008.D.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado D › inciso h)",
+      "texto": "h) Constituir espacios colectivos, autogestivos, independientes y comunitarios de arte y cultura que contarán con una regulación específica para el fortalecimiento y desarrollo de sus actividades;"
+    },
+    {
+      "id": "008.D.i",
+      "tipo": "inciso",
+      "marca": "i",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado D › inciso i)",
+      "texto": "i) Ejercer la libertad creativa, cultural, artística, de opinión e información; y"
+    },
+    {
+      "id": "008.D.j",
+      "tipo": "inciso",
+      "marca": "j",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado D › inciso j)",
+      "texto": "j) Participar, por medios democráticos, en el desarrollo cultural de las comunidades a las que pertenece y en la elaboración, la puesta en práctica y la evaluación de las políticas culturales."
+    },
+    {
+      "id": "008.D.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado D › 2.",
+      "texto": "2. Toda persona tiene derecho al acceso a los bienes y servicios que presta el Gobierno de la Ciudad de México en materia de arte y cultura."
+    },
+    {
+      "id": "008.D.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado D › 3.",
+      "texto": "3. Las autoridades, en el ámbito de sus respectivas competencias protegerán los derechos culturales."
+    },
+    {
+      "id": "008.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado D › párrafo 9",
+      "texto": "Asimismo, favorecerán la promoción y el estímulo al desarrollo de la cultura y las artes. Los derechos culturales podrán ampliarse conforme a la ley en la materia que además establecerá los mecanismos y modalidades para su exigibilidad."
+    },
+    {
+      "id": "008.D.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado D › 4.",
+      "texto": "4. Toda persona y colectividad podrá, en el marco de la gobernanza democrática, tomar iniciativas para velar por el respeto de los derechos culturales y desarrollar modos de concertación y participación."
+    },
+    {
+      "id": "008.D.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado D › 5.",
+      "texto": "5. El patrimonio cultural, material e inmaterial, de las comunidades, grupos y personas de la Ciudad de México es de interés y utilidad pública, por lo que el Gobierno de la Ciudad garantizará su protección, conservación, investigación y difusión."
+    },
+    {
+      "id": "008.D.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado D › 6.",
+      "texto": "6. El Gobierno de la Ciudad otorgará estímulos fiscales para el apoyo y fomento de la creación y difusión del arte y cultura."
+    },
+    {
+      "id": "008.D.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado D › 7.",
+      "texto": "7. Los grupos y comunidades culturales gozarán del derecho de ser reconocidos en la sociedad."
+    },
+    {
+      "id": "008.E",
+      "tipo": "apartado",
+      "marca": "E",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado E",
+      "texto": "E. Derecho al deporte INSTITUTO DE INVESTIGACIONES LEGISLATIVAS Toda persona tiene derecho pleno al deporte. El Gobierno de la Ciudad garantizará este derecho, para lo cual:"
+    },
+    {
+      "id": "008.E.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado E › inciso a)",
+      "texto": "a) Promoverá la práctica del deporte individual y colectivo y de toda actividad física que ayude a promover la salud y el desarrollo integral de la persona, tanto en las escuelas como en las comunidades."
+    },
+    {
+      "id": "008.E.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado E › inciso b)",
+      "texto": "b) Establecerá instalaciones deportivas apropiadas, en las escuelas y en espacios públicos seguros, suficientes y amigables con el medio ambiente, próximos a las comunidades y que permitan el acceso al deporte a las personas con discapacidad."
+    },
+    {
+      "id": "008.E.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado E › inciso c)",
+      "texto": "c) Asignará instructores profesionales para que la práctica del deporte y el acondicionamiento físico se desarrolle en forma adecuada; y"
+    },
+    {
+      "id": "008.E.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado E › inciso d)",
+      "texto": "d) Otorgará a las y los deportistas de alto rendimiento apoyo técnico, material y económico para su mejor desempeño."
+    }
+  ]
+}

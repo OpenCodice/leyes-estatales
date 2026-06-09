@@ -1,0 +1,144 @@
+{
+  "clave": "023",
+  "etiqueta": "Artículo 23",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "023.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › párrafo 1",
+      "texto": "Deberes de las personas en la ciudad"
+    },
+    {
+      "id": "023.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › 1.",
+      "texto": "1. Toda persona tiene deberes con su familia, su comunidad y su entorno."
+    },
+    {
+      "id": "023.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › 2.",
+      "texto": "2. Son deberes de las personas en la Ciudad de México:"
+    },
+    {
+      "id": "023.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › inciso a)",
+      "texto": "a) Ejercer y respetar los derechos reconocidos en esta Constitución y contribuir al acceso universal de los mismos, así como tratar a todas las personas con dignidad y sin discriminación;"
+    },
+    {
+      "id": "023.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › inciso b)",
+      "texto": "b) Conocer y cumplir las disposiciones de la presente Constitución y las leyes que de ella emanen;"
+    },
+    {
+      "id": "023.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › inciso c)",
+      "texto": "c) Respetar y coadyuvar en el desarrollo integral de los miembros de las familias;"
+    },
+    {
+      "id": "023.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › inciso d)",
+      "texto": "d) Proteger, preservar y generar un medio ambiente sano y utilizar los recursos naturales de modo racional y sustentable;"
+    },
+    {
+      "id": "023.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › inciso e)",
+      "texto": "e) Respetar la vida y la integridad de los animales como seres sintientes, así como brindarles un trato digno y respetuoso en los términos que dispone esta Constitución;"
+    },
+    {
+      "id": "023.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › inciso f)",
+      "texto": "f) Contribuir al gasto público, conforme lo dispongan las leyes;"
+    },
+    {
+      "id": "023.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › inciso g)",
+      "texto": "g) Denunciar conductas que pudieran ser constitutivas de un delito, particularmente actos de corrupción;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "023.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › inciso h)",
+      "texto": "h) Promover la defensa del interés general por encima del interés particular;"
+    },
+    {
+      "id": "023.i",
+      "tipo": "inciso",
+      "marca": "i",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › inciso i)",
+      "texto": "i) Ser solidario con la comunidad y ayudar a otras personas en caso de un accidente o desastre natural, así como prestar a las autoridades el auxilio para el que fueren legalmente requeridos;"
+    },
+    {
+      "id": "023.j",
+      "tipo": "inciso",
+      "marca": "j",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › inciso j)",
+      "texto": "j) Conocer, valorar y conservar el patrimonio cultural, natural y rural de la ciudad, así como cuidar y respetar los bienes públicos;"
+    },
+    {
+      "id": "023.k",
+      "tipo": "inciso",
+      "marca": "k",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › inciso k)",
+      "texto": "k) Participar en la vida política, cívica y comunitaria, de manera honesta y transparente;\n\ny"
+    },
+    {
+      "id": "023.l",
+      "tipo": "inciso",
+      "marca": "l",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › inciso l)",
+      "texto": "l) Promover los valores comunitarios."
+    }
+  ]
+}

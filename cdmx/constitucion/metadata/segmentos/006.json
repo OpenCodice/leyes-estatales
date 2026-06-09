@@ -1,0 +1,225 @@
+{
+  "clave": "006",
+  "etiqueta": "Artículo 6",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "006.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › párrafo 1",
+      "texto": "Ciudad de libertades y derechos"
+    },
+    {
+      "id": "006.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado A",
+      "texto": "A. Derecho a la autodeterminación personal"
+    },
+    {
+      "id": "006.A.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado A › 1.",
+      "texto": "1. Toda persona tiene derecho a la autodeterminación y al libre desarrollo de una personalidad."
+    },
+    {
+      "id": "006.A.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado A › 2.",
+      "texto": "2. Este derecho humano fundamental deberá posibilitar que todas las personas puedan ejercer plenamente sus capacidades para vivir con dignidad. La vida digna contiene implícitamente el derecho a una muerte digna."
+    },
+    {
+      "id": "006.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado B",
+      "texto": "B. Derecho a la integridad INSTITUTO DE INVESTIGACIONES LEGISLATIVAS Toda persona tiene derecho a ser respetada en su integridad física y psicológica, así como a una vida libre de violencia."
+    },
+    {
+      "id": "006.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado C",
+      "texto": "C. Derecho a la identidad y a la seguridad jurídica"
+    },
+    {
+      "id": "006.C.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado C › 1.",
+      "texto": "1. Toda persona, grupo o comunidad tienen derecho al nombre, a su propia imagen y reputación, así como al reconocimiento de su identidad y personalidad jurídica."
+    },
+    {
+      "id": "006.C.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado C › 2.",
+      "texto": "2. Las autoridades facilitarán el acceso de las personas a obtener documentos de identidad."
+    },
+    {
+      "id": "006.C.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado C › 3.",
+      "texto": "3. Toda persona tiene derecho al servicio notarial y a la inscripción registral de bienes y actos jurídicos de forma accesible y asequible."
+    },
+    {
+      "id": "006.D",
+      "tipo": "apartado",
+      "marca": "D",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado D",
+      "texto": "D. Derechos de las familias"
+    },
+    {
+      "id": "006.D.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado D › 1.",
+      "texto": "1. Se reconoce a las familias la más amplia protección, en su ámbito individual y colectivo, así como su aporte en la construcción y bienestar de la sociedad por su contribución al cuidado, formación, desarrollo y transmisión de saberes para la vida, valores culturales, éticos y sociales."
+    },
+    {
+      "id": "006.D.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado D › 2.",
+      "texto": "2. Todas las estructuras, manifestaciones y formas de comunidad familiar son reconocidas en igualdad de derechos, protegidas integralmente por la ley y apoyadas en sus tareas de cuidado."
+    },
+    {
+      "id": "006.D.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado D › 3.",
+      "texto": "3. Se implementará una política pública de atención y protección a las familias de la Ciudad de México."
+    },
+    {
+      "id": "006.E",
+      "tipo": "apartado",
+      "marca": "E",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado E",
+      "texto": "E. Derechos sexuales Toda persona tiene derecho a la sexualidad; a decidir sobre la misma y con quién compartirla;"
+    },
+    {
+      "id": "006.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado E › párrafo 2",
+      "texto": "a ejercerla de forma libre, responsable e informada, sin discriminación, con respeto a la preferencia sexual, la orientación sexual, la identidad de género, la expresión de género y las características sexuales, sin coerción o violencia; así como a la educación en sexualidad y INSTITUTO DE INVESTIGACIONES LEGISLATIVAS servicios de salud integrales, con información completa, científica, no estereotipada, diversa y laica. Se respetará la autonomía progresiva de niñas, niños y adolescentes."
+    },
+    {
+      "id": "006.F",
+      "tipo": "apartado",
+      "marca": "F",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado F",
+      "texto": "F. Derechos reproductivos"
+    },
+    {
+      "id": "006.F.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado F › 1.",
+      "texto": "1. Toda persona tiene derecho a decidir de manera libre, voluntaria e informada tener hijos o no, con quién y el número e intervalo entre éstos, de forma segura, sin coacción ni violencia, así como a recibir servicios integrales para acceder al más alto nivel de salud reproductiva posible y el acceso a información sobre reproducción asistida."
+    },
+    {
+      "id": "006.F.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado F › 2.",
+      "texto": "2. Las autoridades adoptarán medidas para prevenir, investigar, sancionar y reparar la esterilización involuntaria o cualquier otro tipo de método anticonceptivo forzado, así como la violencia obstétrica."
+    },
+    {
+      "id": "006.G",
+      "tipo": "apartado",
+      "marca": "G",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado G",
+      "texto": "G. Derecho a defender los derechos humanos"
+    },
+    {
+      "id": "006.G.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "G",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado G › 1.",
+      "texto": "1. Toda persona tiene derecho, individual o colectivamente, a promover y procurar la protección y realización de los derechos humanos y las libertades fundamentales; de forma eventual o permanente."
+    },
+    {
+      "id": "006.G.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "G",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado G › 2.",
+      "texto": "2. Las autoridades facilitarán los medios necesarios para el desarrollo de sus actividades, establecerán mecanismos de protección frente a amenazas y situaciones de riesgo, se abstendrán de imponer obstáculos de cualquier índole a la realización de su labor e investigarán seria y eficazmente las violaciones cometidas en su contra."
+    },
+    {
+      "id": "006.H",
+      "tipo": "apartado",
+      "marca": "H",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado H",
+      "texto": "H. Acceso a la justicia Toda persona tiene derecho a acceder a la justicia, a la tutela judicial efectiva y al debido proceso, así como a la defensa y asistencia jurídica gratuitas y de calidad en todo proceso jurisdiccional, en los términos que establezca la ley."
+    },
+    {
+      "id": "006.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "H",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado H › párrafo 3",
+      "texto": "Los órganos de impartición de justicia implementarán los mecanismos que permitan el derecho de acceso a la justicia, mediante el uso de las tecnologías de la información y comunicación, a INSTITUTO DE INVESTIGACIONES LEGISLATIVAS efecto de tramitar los procesos jurisdiccionales en todas sus instancias de manera alternativa y adicional a su tramitación escrita, de acuerdo con su naturaleza y formalidades esenciales. Para ello, todos los órganos jurisdiccionales contarán con un Sistema de Justicia Electrónica, que garantice la interoperabilidad e interconexión entre los sistemas que utilicen, en los términos que señalen esta Constitución y las leyes."
+    },
+    {
+      "id": "006.H.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "H",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado H › Fracción I",
+      "texto": "I. Libertad de creencias Toda persona tiene derecho a la libertad de pensamiento, conciencia, y religión. Este derecho implica la libertad de tenerla o no, así como de conservarla o cambiarla. Toda persona tiene derecho a actuar de acuerdo a sus convicciones éticas."
+    }
+  ]
+}

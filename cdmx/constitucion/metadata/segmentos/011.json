@@ -1,0 +1,522 @@
+{
+  "clave": "011",
+  "etiqueta": "Artículo 11",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "011.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › párrafo 1",
+      "texto": "Ciudad incluyente"
+    },
+    {
+      "id": "011.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado A",
+      "texto": "A. Grupos de atención prioritaria La Ciudad de México garantizará la atención prioritaria para el pleno ejercicio de los derechos de las personas que debido a la desigualdad estructural enfrentan discriminación, INSTITUTO DE INVESTIGACIONES LEGISLATIVAS exclusión, maltrato, abuso, violencia y mayores obstáculos para el pleno ejercicio de sus derechos y libertades fundamentales."
+    },
+    {
+      "id": "011.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado B",
+      "texto": "B. Disposiciones comunes"
+    },
+    {
+      "id": "011.B.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado B › 1.",
+      "texto": "1. Las autoridades de la Ciudad adoptarán las medidas necesarias para promover, respetar, proteger y garantizar sus derechos, así como para eliminar progresivamente las barreras que impiden la realización plena de los derechos de los grupos de atención prioritaria y alcanzar su inclusión efectiva en la sociedad."
+    },
+    {
+      "id": "011.B.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado B › 2.",
+      "texto": "2. La Ciudad garantizará:"
+    },
+    {
+      "id": "011.B.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado B › inciso a)",
+      "texto": "a) Su participación en la adopción de medidas legislativas, administrativas, presupuestales, judiciales y de cualquier otra índole, para hacer efectivos sus derechos;"
+    },
+    {
+      "id": "011.B.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado B › inciso b)",
+      "texto": "b) El derecho a una vida libre de todo tipo de violencia o discriminación, motivada por su condición;"
+    },
+    {
+      "id": "011.B.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado B › inciso c)",
+      "texto": "c) La no criminalización, represión o reclusión, motivada por características específicas de su condición; y"
+    },
+    {
+      "id": "011.B.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado B › inciso d)",
+      "texto": "d) Su capacidad para decidir sobre su persona y su patrimonio, así como para el ejercicio de sus libertades, independencia, privacidad, intimidad y autonomía personal."
+    },
+    {
+      "id": "011.B.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado B › 3.",
+      "texto": "3. Se promoverán:"
+    },
+    {
+      "id": "011.B.a~2",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado B › inciso a)",
+      "texto": "a) Medidas de nivelación con enfoque de atención diferencial, atendiendo las causas multifactoriales de la discriminación;"
+    },
+    {
+      "id": "011.B.b~2",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado B › inciso b)",
+      "texto": "b) Estrategias para su visibilización y la sensibilización de la población sobre sus derechos;"
+    },
+    {
+      "id": "011.B.c~2",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado B › inciso c)",
+      "texto": "c) La creación, desarrollo y fortalecimiento de organizaciones de la sociedad civil dedicadas a la defensa de sus derechos; y INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "011.B.d~2",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado B › inciso d)",
+      "texto": "d) Condiciones de buen trato, convivencia armónica y cuidado, por parte de sus familiares y la sociedad."
+    },
+    {
+      "id": "011.B.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado B › 4.",
+      "texto": "4. Las autoridades deberán actuar con debida diligencia para prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, tomando en cuenta la situación y condiciones de vulnerabilidad de cada grupo."
+    },
+    {
+      "id": "011.B.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado B › 5.",
+      "texto": "5. Se reconocerá el derecho a la autoadscripción, en los supuestos en que las características de la persona y el grupo de atención prioritaria lo permitan."
+    },
+    {
+      "id": "011.B.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado B › 6.",
+      "texto": "6. La ley preverá un sistema integral de asistencia social a cargo de diseñar y ejecutar políticas públicas para la atención de personas, familias, grupos y comunidades con perspectiva de derechos humanos y resiliencia."
+    },
+    {
+      "id": "011.B.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado B › 7.",
+      "texto": "7. Esta Constitución reconoce como grupos de atención prioritaria, al menos y de manera enunciativa, a los referidos en los siguientes apartados."
+    },
+    {
+      "id": "011.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado C",
+      "texto": "C. Derechos de las mujeres Esta Constitución reconoce la contribución fundamental de las mujeres en el desarrollo de la ciudad, promueve la igualdad sustantiva y la paridad de género. Las autoridades adoptarán todas las medidas necesarias, temporales y permanentes, para erradicar la discriminación, la desigualdad de género y toda forma de violencia contra las mujeres."
+    },
+    {
+      "id": "011.D",
+      "tipo": "apartado",
+      "marca": "D",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado D",
+      "texto": "D. Derechos de las niñas, niños y adolescentes"
+    },
+    {
+      "id": "011.D.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado D › 1.",
+      "texto": "1. Las niñas, niños y adolescentes son titulares de derechos y gozan de la protección de esta Constitución. La actuación de las autoridades atenderá los principios del interés superior de las niñas, niños y adolescentes, de la autonomía progresiva y de su desarrollo integral; también garantizarán su adecuada protección a través del Sistema de Protección Integral de los Derechos de Niñas, Niños y Adolescentes de la Ciudad de México."
+    },
+    {
+      "id": "011.D.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado D › 2.",
+      "texto": "2. La convivencia familiar es un derecho humano tutelado por esta Constitución."
+    },
+    {
+      "id": "011.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado D › párrafo 2",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "011.E",
+      "tipo": "apartado",
+      "marca": "E",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado E",
+      "texto": "E. Derechos de las personas jóvenes Las personas jóvenes son titulares de derechos y tendrán la protección de la ley para participar en la vida pública y en la planeación y desarrollo de la Ciudad. Las autoridades adoptarán medidas para garantizar el pleno ejercicio de sus derechos, en particular a la identidad individual y colectiva, al libre desarrollo de su personalidad, a la autonomía, independencia y emancipación; a la participación política, económica, social, ambiental y cultural, y a la educación, al trabajo digno y a la vivienda. En razón de lo anterior se reconocerá el carácter diverso y heterogéneo de las personas jóvenes, así como sus necesidades específicas."
+    },
+    {
+      "id": "011.F",
+      "tipo": "apartado",
+      "marca": "F",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado F",
+      "texto": "F. Derechos de personas mayores Las personas mayores tienen los derechos reconocidos en esta Constitución, que comprenden, entre otros, a la identidad, a una ciudad accesible y segura, a servicios de salud especializados y cuidados paliativos, así como a una pensión económica no contributiva a partir de la edad que determine la ley. Tomando en cuenta las necesidades específicas de mujeres y hombres, la Ciudad establecerá un sistema integral para su atención que prevenga el abuso, abandono, aislamiento, negligencia, maltrato, violencia y cualquier situación que implique tratos o penas crueles, inhumanas o degradantes o atente contra su seguridad e integridad."
+    },
+    {
+      "id": "011.G",
+      "tipo": "apartado",
+      "marca": "G",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado G",
+      "texto": "G. Derechos de personas con discapacidad"
+    },
+    {
+      "id": "011.G.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "G",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado G › 1.",
+      "texto": "1. Esta Constitución reconoce los derechos de las personas con discapacidad."
+    },
+    {
+      "id": "011.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "G",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado G › párrafo 3",
+      "texto": "Se promoverá la asistencia personal, humana o animal, para su desarrollo en comunidad. Las autoridades adoptarán las medidas necesarias para salvaguardar integralmente el ejercicio de sus derechos y respetar su voluntad, garantizando en todo momento los principios de inclusión y accesibilidad, considerando el diseño universal y los ajustes razonables."
+    },
+    {
+      "id": "011.G.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "G",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado G › 2.",
+      "texto": "2. Las autoridades deben implementar un sistema de salvaguardias y apoyos en la toma de decisiones que respete su voluntad y capacidad jurídica."
+    },
+    {
+      "id": "011.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "G",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado G › párrafo 4",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "011.G.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "G",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado G › 3.",
+      "texto": "3. Las familias que tengan un integrante con discapacidad y sobre todo las que tengan una condición de gran dependencia o discapacidad múltiple, recibirán formación, capacitación y asesoría, de parte de las autoridades de la Ciudad de México."
+    },
+    {
+      "id": "011.G.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "G",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado G › 4.",
+      "texto": "4. Las personas con discapacidad tendrán derecho a recibir un apoyo no contributivo hasta el máximo de los recursos disponibles."
+    },
+    {
+      "id": "011.H",
+      "tipo": "apartado",
+      "marca": "H",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado H",
+      "texto": "H. Derechos de las personas LGBTTTI"
+    },
+    {
+      "id": "011.H.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "H",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado H › 1.",
+      "texto": "1. Esta Constitución reconoce y protege los derechos de las personas lesbianas, gays, bisexuales, transgénero, travesti, transexuales e intersexuales, para tener una vida libre de violencia y discriminación."
+    },
+    {
+      "id": "011.H.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "H",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado H › 2.",
+      "texto": "2. Se reconoce en igualdad de derechos a las familias formadas por parejas de personas LGBTTTI, con o sin hijas e hijos, que estén bajo la figura de matrimonio civil, concubinato o alguna otra unión civil."
+    },
+    {
+      "id": "011.H.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "H",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado H › 3.",
+      "texto": "3. Las autoridades establecerán políticas públicas y adoptarán las medidas necesarias para la atención y erradicación de conductas y actitudes de exclusión o discriminación por orientación sexual, preferencia sexual, identidad de género, expresión de género o características sexuales."
+    },
+    {
+      "id": "011.H.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "H",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado H › Fracción I",
+      "texto": "I. Derechos de las personas migrantes y sujetas de protección internacional Las personas migrantes y las personas sujetas de protección internacional y en otro contexto de movilidad humana, así como sus familiares, independientemente de su situación jurídica, tendrán la protección de la ley y no serán criminalizadas por su condición de migrantes. Las autoridades adoptarán las medidas necesarias para la protección efectiva de sus derechos, bajo criterios de hospitalidad, solidaridad, interculturalidad e inclusión."
+    },
+    {
+      "id": "011.J",
+      "tipo": "apartado",
+      "marca": "J",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado J",
+      "texto": "J. Derechos de las víctimas Esta Constitución protege y garantiza, en el ámbito de sus competencias, los derechos de las víctimas de violaciones a los derechos humanos o de la comisión de delitos. Las autoridades INSTITUTO DE INVESTIGACIONES LEGISLATIVAS adoptarán las medidas necesarias para su atención integral en los términos de la legislación aplicable, dándose prioridad a las víctimas de todo delito que ponga en peligro su vida e integridad física y emocional."
+    },
+    {
+      "id": "011.K",
+      "tipo": "apartado",
+      "marca": "K",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado K",
+      "texto": "K. Derechos de las personas en situación de calle"
+    },
+    {
+      "id": "011.K.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "K",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado K › 1.",
+      "texto": "1. Esta Constitución protege a las personas que habitan y sobreviven en las calles. Las autoridades adoptarán medidas para garantizar todos sus derechos, impidiéndose acciones de reclusión, desplazamiento forzado, tratamiento de rehabilitación, internamiento en instituciones o cualquier otra, sin su autorización. Se implementarán medidas destinadas a superar su situación de calle."
+    },
+    {
+      "id": "011.K.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "K",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado K › 2.",
+      "texto": "2. Las autoridades adoptarán las medidas necesarias para salvaguardar la dignidad y el desarrollo de las niñas, niños y adolescentes en situación de calle, evitándose su participación en actividades que atenten contra su seguridad e integridad."
+    },
+    {
+      "id": "011.L",
+      "tipo": "apartado",
+      "marca": "L",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado L",
+      "texto": "L. Derechos de las personas privadas de su libertad Las personas privadas de su libertad tendrán derecho a un trato humano, a vivir en condiciones de reclusión adecuadas que favorezcan su reinserción social y familiar, a la seguridad, al respeto de su integridad física y mental, a una vida libre de violencia, a no ser torturadas ni víctimas de tratos crueles, inhumanos o degradantes y a tener contacto con su familia."
+    },
+    {
+      "id": "011.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "L",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado L › párrafo 5",
+      "texto": "(Se deroga)"
+    },
+    {
+      "id": "011.M",
+      "tipo": "apartado",
+      "marca": "M",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado M",
+      "texto": "M. Derechos de personas que residen en instituciones de asistencia social Las personas que residen en instituciones de asistencia social tienen el derecho a disfrutar de un entorno seguro, afectivo, comprensivo y libre de violencia; a recibir cuidado y protección frente a actos u omisiones que atenten contra su integridad; a una atención integral que les permita lograr su desarrollo físico, cognitivo, afectivo y social; a servicios de calidad y calidez por personal capacitado, calificado, apto y suficiente."
+    },
+    {
+      "id": "011.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "M",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado M › párrafo 6",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "011.N",
+      "tipo": "apartado",
+      "marca": "N",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado N",
+      "texto": "N. Derechos de personas afrodescendientes"
+    },
+    {
+      "id": "011.N.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "N",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado N › 1.",
+      "texto": "1. Las personas afrodescendientes gozan de los derechos reconocidos por esta Constitución."
+    },
+    {
+      "id": "011.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "N",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado N › párrafo 7",
+      "texto": "Tienen derecho a la protección y promoción de sus conocimientos tradicionales y su patrimonio cultural, artístico, material e inmaterial."
+    },
+    {
+      "id": "011.N.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "N",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado N › 2.",
+      "texto": "2. Las autoridades adoptarán medidas efectivas de trato igualitario, en consulta y cooperación con estas personas, para el ejercicio pleno de sus derechos, combatir los prejuicios y estigmas, eliminar el racismo, así como para la prevención, atención, sanción y erradicación de las violencias en su contra."
+    },
+    {
+      "id": "011.N.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "N",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado N › 3.",
+      "texto": "3. Las autoridades fomentarán la autoadscripción de las personas afrodescendientes mediante campañas de información y sensibilización para su reconocimiento."
+    },
+    {
+      "id": "011.N.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "N",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado N › 4.",
+      "texto": "4. Esta Constitución reconoce y protege las contribuciones históricas de las personas afromexicanas en la construcción de la nación mexicana y de la Ciudad de México."
+    },
+    {
+      "id": "011.O",
+      "tipo": "apartado",
+      "marca": "O",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado O",
+      "texto": "O. Derechos de personas de identidad indígena Esta Constitución protege los derechos reconocidos a las personas de identidad indígena que habiten o estén de tránsito en la Ciudad de México. Las autoridades adoptarán las medidas necesarias para impedir la discriminación y garantizar el trato igualitario progresivo y culturalmente pertinente."
+    },
+    {
+      "id": "011.P",
+      "tipo": "apartado",
+      "marca": "P",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado P",
+      "texto": "P. Derechos de minorías religiosas"
+    },
+    {
+      "id": "011.P.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "P",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado P › 1.",
+      "texto": "1. Todas las personas tienen derecho a una vida libre de violencia y discriminación religiosa, así como a expresar sus convicciones en lo privado y en lo público, en los términos de la ley."
+    },
+    {
+      "id": "011.P.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "P",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado P › 2.",
+      "texto": "2. Se reconoce la igualdad de derechos a todas las personas, sin importar sus convicciones éticas, de conciencia y de su vida religiosa."
+    },
+    {
+      "id": "011.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "P",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado P › párrafo 8",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "011.P.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "P",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado P › 3.",
+      "texto": "3. Las autoridades implementarán mecanismos que protejan a las minorías religiosas para prevenir cualquier tipo de discriminación, exclusión, maltrato, abuso, violencia y violaciones a sus derechos y libertades."
+    }
+  ]
+}
