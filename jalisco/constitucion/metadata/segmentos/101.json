@@ -1,0 +1,18 @@
+{
+  "clave": "101",
+  "etiqueta": "Artículo 101º",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "101.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101º › párrafo 1",
+      "texto": "Derogado."
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "clave": "070",
+  "etiqueta": "Artículo 70º",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "070.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70º › párrafo 1",
+      "texto": "El Tribunal Electoral resolverá en forma definitiva, en los términos de esta Constitución y según lo disponga la ley:"
+    },
+    {
+      "id": "070.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70º › Fracción I",
+      "texto": "I. Las impugnaciones de las elecciones locales de presidentes, regidores y síndicos de los ayuntamientos, diputados por ambos principios, y Gobernador del Estado;"
+    },
+    {
+      "id": "070.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70º › Fracción II",
+      "texto": "II. Las impugnaciones que se presenten durante el proceso electoral en contra de los actos o resoluciones de la autoridad electoral, distintas a las señaladas en la fracción anterior;"
+    },
+    {
+      "id": "070.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70º › Fracción III",
+      "texto": "III. Las impugnaciones que se presenten durante el desarrollo de los procesos relativos a los mecanismos de participación social contemplados en esta Constitución y en la ley de la materia."
+    },
+    {
+      "id": "070.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70º › Fracción IV",
+      "texto": "IV. Las impugnaciones de actos y resoluciones que violen los derechos político-electorales de los ciudadanos a votar, a ser votado y a la afiliación libre y pacífica para tomar parte en los asuntos políticos del Estado;"
+    },
+    {
+      "id": "070.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70º › Fracción V",
+      "texto": "V. Los recursos que se presenten contra actos o resoluciones de la autoridad electoral, relativos a los mecanismos de participación social contemplados en esta Constitución y en la ley de la materia."
+    },
+    {
+      "id": "070.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70º › Fracción VI",
+      "texto": "VI. La determinación e imposición de sanciones en la materia;"
+    },
+    {
+      "id": "070.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70º › Fracción VII",
+      "texto": "VII. Los conflictos o diferencias laborales entre el Tribunal y sus trabajadores;"
+    },
+    {
+      "id": "070.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70º › Fracción VIII",
+      "texto": "VIII. Los conflictos o diferencias laborales entre el Instituto Electoral y sus trabajadores;"
+    },
+    {
+      "id": "070.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70º › Fracción IX",
+      "texto": "IX. Las demás que señale la ley.\n\nEl Tribunal Electoral del Estado hará uso de los medios de apremio necesarios para hacer cumplir de manera expedita sus sentencias y resoluciones, en los términos que fije la ley."
+    }
+  ]
+}

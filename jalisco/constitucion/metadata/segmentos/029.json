@@ -1,0 +1,36 @@
+{
+  "clave": "029",
+  "etiqueta": "Artículo 29º",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "029.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29º › párrafo 1",
+      "texto": "Se anunciará al Gobernador del Estado cuando haya de discutirse un proyecto de ley que se relacione con asuntos de la competencia del Poder Ejecutivo, con anticipación no menor a veinticuatro horas, a fin de que pueda enviar al Congreso, si lo juzga conveniente, un orador que tome parte en los debates."
+    },
+    {
+      "id": "029.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29º › párrafo 2",
+      "texto": "En los mismos términos se informará al Supremo Tribunal de Justicia del Estado, en el caso que el proyecto se refiera a asuntos del ramo de justicia."
+    },
+    {
+      "id": "029.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29º › párrafo 3",
+      "texto": "Los ayuntamientos, al mandar su iniciativa, designarán con el mismo propósito su orador si lo juzgan conveniente, el cual señalará domicilio en la población donde residan los poderes del Estado, para comunicarle el día en que aquella se discuta."
+    }
+  ]
+}

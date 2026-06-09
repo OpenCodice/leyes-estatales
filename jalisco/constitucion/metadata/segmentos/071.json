@@ -1,0 +1,36 @@
+{
+  "clave": "071",
+  "etiqueta": "Artículo 71º",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "071.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71º › párrafo 1",
+      "texto": "El Tribunal Electoral se integrará por tres magistrados, de entre los cuales será electo, por ellos mismos, su Presidente."
+    },
+    {
+      "id": "071.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71º › párrafo 2",
+      "texto": "Las sesiones de resolución serán públicas."
+    },
+    {
+      "id": "071.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71º › párrafo 3",
+      "texto": "DEL TRIBUNAL DE ARBITRAJE Y ESCALAFÓN"
+    }
+  ]
+}

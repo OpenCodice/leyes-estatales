@@ -1,0 +1,36 @@
+{
+  "clave": "109",
+  "etiqueta": "Artículo 109º",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "109.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109º › párrafo 1",
+      "texto": "Nadie puede ejercer a la vez, dos o más cargos de elección popular."
+    },
+    {
+      "id": "109.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109º › párrafo 2",
+      "texto": "Los ciudadanos no podrán ser candidatos, simultáneamente, a diferentes cargos de elección popular estatal o municipal en el mismo proceso electoral."
+    },
+    {
+      "id": "109.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109º › párrafo 3",
+      "texto": "Los candidatos a cargos de elección popular estatal o municipal no podrán serlo de manera simultánea a cargos de elección federal."
+    }
+  ]
+}

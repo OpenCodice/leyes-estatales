@@ -1,0 +1,72 @@
+{
+  "clave": "037",
+  "etiqueta": "Artículo 37º",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "037.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37º › párrafo 1",
+      "texto": "Para ser Gobernadora o Gobernador del Estado se requiere:"
+    },
+    {
+      "id": "037.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37º › Fracción I",
+      "texto": "I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;"
+    },
+    {
+      "id": "037.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37º › Fracción II",
+      "texto": "II. Tener cuando menos treinta años de edad el día de la elección;"
+    },
+    {
+      "id": "037.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37º › Fracción III",
+      "texto": "III. Ser nativo del Estado o avecindado en él cuando menos los dos años anteriores al día de la elección;"
+    },
+    {
+      "id": "037.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37º › Fracción IV",
+      "texto": "IV. No tener sentencia condenatoria que haya causado estado, por el delito de violencia política contra las mujeres por razón de género, así como, no ser deudor alimentario declarado judicialmente moroso o, en caso de serlo demostrar que ha pagado en su totalidad los adeudos alimenticios;"
+    },
+    {
+      "id": "037.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37º › Fracción V",
+      "texto": "V. No ser Magistrada o Magistrado del Tribunal Electoral del Estado, ni consejera o consejero y de Participación Ciudadana del Estado, salvo que se separe definitivamente de sus funciones, cuando menos dos años antes del día de la elección; y"
+    },
+    {
+      "id": "037.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37º › Fracción VI",
+      "texto": "VI. No ser servidora o servidor público federal, estatal o municipal, salvo que se separe temporal o definitivamente de sus funciones, cuando menos noventa días antes del día de la elección."
+    }
+  ]
+}

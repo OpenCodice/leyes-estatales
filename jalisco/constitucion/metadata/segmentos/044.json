@@ -1,0 +1,36 @@
+{
+  "clave": "044",
+  "etiqueta": "Artículo 44º",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "044.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44º › párrafo 1",
+      "texto": "Cuando ocurra la falta temporal o absoluta del Gobernador del Estado, en tanto el Congreso hace la designación de Gobernador interino o substituto, el despacho quedará a cargo del Secretario General de Gobierno, con las atribuciones que determine la Ley Orgánica del Poder Ejecutivo, sin que ello implique suplir al titular y ejercer las facultades propias de dicho Poder."
+    },
+    {
+      "id": "044.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44º › párrafo 2",
+      "texto": "El ciudadano que sea electo para suplir al titular del Poder Ejecutivo como Gobernador interino o substituto, deberá reunir los requisitos establecidos en esta Constitución para ser Gobernador del Estado, con excepción de no haber sido Secretario General de Gobierno o Secretario de Despacho del Poder Ejecutivo."
+    },
+    {
+      "id": "044.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44º › párrafo 3",
+      "texto": "En caso de falta temporal o absoluta del Gobernador interino o substituto, se procederá en la misma forma establecida para suplir al Gobernador del Estado cuyo origen sea la elección popular."
+    }
+  ]
+}

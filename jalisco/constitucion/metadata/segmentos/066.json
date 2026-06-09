@@ -1,0 +1,81 @@
+{
+  "clave": "066",
+  "etiqueta": "Artículo 66º",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "066.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › párrafo 1",
+      "texto": "Los magistrados del Tribunal de Justicia Administrativa durarán en su encargo doce años improrrogables, contados a partir de la fecha en que rindan protesta de ley."
+    },
+    {
+      "id": "066.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › párrafo 2",
+      "texto": "Los magistrados solo podrán ser removidos de sus cargos en los términos que establezcan esta Constitución, las leyes en materia de responsabilidad de los servidores públicos."
+    },
+    {
+      "id": "066.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › párrafo 3",
+      "texto": "Los magistrados del Tribunal de Justicia Administrativa se retirarán de sus cargos en forma forzosa o voluntaria."
+    },
+    {
+      "id": "066.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › párrafo 4",
+      "texto": "Son causas de retiro forzoso:"
+    },
+    {
+      "id": "066.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › Fracción I",
+      "texto": "I. Haber concluido el periodo por el que fue electo;"
+    },
+    {
+      "id": "066.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › Fracción II",
+      "texto": "II. Haber cumplido setenta años de edad;"
+    },
+    {
+      "id": "066.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › Fracción III",
+      "texto": "III. La incapacidad total permanente declarada por autoridad judicial o administrativa competente; o"
+    },
+    {
+      "id": "066.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › Fracción IV",
+      "texto": "IV. No aprobar las evaluaciones de control de confianza.\n\nLas evaluaciones de control de confianza, serán cada cuatro años mismas que se integrarán a su expediente laboral el cual será de carácter reservado.\n\nLos requisitos para ser magistrado del Tribunal de Justicia Administrativa serán los mismos que esta Constitución establece para los magistrados del Supremo Tribunal de Justicia.\n\nLos Magistrados del Tribunal de Justicia Administrativa serán elegidos mediante el procedimiento de designación de los Magistrados del Supremo Tribunal de Justicia del Estado señalado en esta Constitución.\n\nEn la designación de magistrados es obligatorio observar el principio de alternancia para la paridad de género."
+    }
+  ]
+}

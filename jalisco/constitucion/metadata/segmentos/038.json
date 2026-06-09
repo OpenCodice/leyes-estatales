@@ -1,0 +1,27 @@
+{
+  "clave": "038",
+  "etiqueta": "Artículo 38º",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "038.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38º › párrafo 1",
+      "texto": "El Gobernador del Estado entrará a ejercer su encargo el día seis de diciembre del año de la elección;"
+    },
+    {
+      "id": "038.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38º › párrafo 2",
+      "texto": "durará seis años y nunca podrá ser reelecto, ni volver a ocupar ese cargo, aun con el carácter de interino, substituto o encargado del despacho."
+    }
+  ]
+}
