@@ -1,0 +1,45 @@
+{
+  "clave": "063",
+  "etiqueta": "Artículo 63º",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "063.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63º › párrafo 1",
+      "texto": "Los jueces de primera instancia, menores y de paz, serán elegidos por el Consejo de la Judicatura, con base en los criterios, requisitos y procedimientos que establezca esta Constitución y la Ley Orgánica del Poder Judicial; el periodo de ejercicio judicial de un juez será de cuatro años, al vencimiento del cual podrá ser reelecto. Los jueces de primera instancia a fin de ser reelectos, deberán acreditar previamente la aprobación de las evaluaciones de control de confianza."
+    },
+    {
+      "id": "063.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63º › párrafo 2",
+      "texto": "Los jueces que sean reelectos por segunda ocasión, sólo podrán ser privados de su puesto en los términos establecidos por esta Constitución y las leyes secundarias en materia de responsabilidad de los servidores públicos. Durante su ejercicio, los jueces sólo podrán ser removidos o cambiados de adscripción por acuerdo del Consejo de la Judicatura dictado en los términos que establezca la ley."
+    },
+    {
+      "id": "063.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63º › párrafo 3",
+      "texto": "Las evaluaciones de control de confianza serán aplicables cada cuatro años a jueces, las que se integrarán a su expediente laboral el cual será de carácter reservado. Será causa de retiro forzoso el no acreditar las evaluaciones de control de confianza."
+    },
+    {
+      "id": "063.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63º › párrafo 4",
+      "texto": "En la designación de jueces de primera instancia, será obligatorio observar el principio de alternancia para la paridad de género."
+    }
+  ]
+}

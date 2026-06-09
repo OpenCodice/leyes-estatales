@@ -1,0 +1,45 @@
+{
+  "clave": "112",
+  "etiqueta": "Artículo 112º",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "112.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112º › párrafo 1",
+      "texto": "Todo cargo público de elección popular es incompatible con algún otro de la Federación, del Estado o del Municipio, cuando por ambos se perciba sueldo, salvo de los ramos de docencia, investigación científica y beneficencia."
+    },
+    {
+      "id": "112.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112º › párrafo 2",
+      "texto": "Los diputados, el Gobernador y los magistrados, durante el período de su encargo, no podrán desempeñar ninguna otra comisión o empleo de la Federación, del Estado o del Municipio, por los cuales se disfrute sueldo o gratificación, sino con licencia previa del Congreso; pero, entonces, cesarán en sus funciones respectivas mientras dure la nueva ocupación. Se exceptúan los empleos y comisiones de docencia, culturales, científicos y de beneficencia, los cuales se podrán desempeñar sin incurrir en incompatibilidad."
+    },
+    {
+      "id": "112.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112º › párrafo 3",
+      "texto": "La infracción de estas disposiciones será castigada conforme a lo establecido en la Ley de Responsabilidades de los Servidores Públicos."
+    },
+    {
+      "id": "112.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112º › párrafo 4",
+      "texto": "Los magistrados, aun cuando gocen de licencia, además del impedimento a que se refiere el párrafo segundo de este artículo, no podrán ejercer su profesión de abogado ni patrocinar negocios judiciales ante los tribunales."
+    }
+  ]
+}

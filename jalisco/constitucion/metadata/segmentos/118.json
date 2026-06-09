@@ -1,0 +1,27 @@
+{
+  "clave": "118",
+  "etiqueta": "Artículo 118º",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "118.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118º › párrafo 1",
+      "texto": "Las reformas hechas en la Constitución Federal que afecten a esta Constitución, serán inmediatamente adoptadas por el Congreso y promulgadas sin más trámite."
+    },
+    {
+      "id": "118.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118º › párrafo 2",
+      "texto": "DE LA INVIOLABILIDAD DE ESTA CONSTITUCIÓN"
+    }
+  ]
+}

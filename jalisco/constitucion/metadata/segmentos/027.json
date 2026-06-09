@@ -1,0 +1,45 @@
+{
+  "clave": "027",
+  "etiqueta": "Artículo 27º",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "027.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27º › párrafo 1",
+      "texto": "El Congreso no podrá ejercer sus funciones sin la concurrencia de más de la mitad del número total de sus miembros."
+    },
+    {
+      "id": "027.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27º › párrafo 2",
+      "texto": "Para obtener esta concurrencia, los diputados presentes deberán reunirse el día designado por la ley o la convocatoria, y conminar a los ausentes para que concurran dentro de los quince días siguientes al llamado. Los que sin alegar causa justificada no se presenten, cesarán en su cargo, previa declaración del Congreso."
+    },
+    {
+      "id": "027.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27º › párrafo 3",
+      "texto": "No se necesita esta declaración para los diputados que no hayan rendido la protesta de ley."
+    },
+    {
+      "id": "027.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27º › párrafo 4",
+      "texto": "DE LA INICIATIVA Y FORMACIÓN DE LAS LEYES"
+    }
+  ]
+}

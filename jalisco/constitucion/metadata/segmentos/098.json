@@ -1,0 +1,27 @@
+{
+  "clave": "098",
+  "etiqueta": "Artículo 98º",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "098.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98º › párrafo 1",
+      "texto": "Contra las resoluciones de juicio político no procede juicio o recurso alguno."
+    },
+    {
+      "id": "098.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98º › párrafo 2",
+      "texto": "DE LA RESPONSABILIDAD PENAL POR HECHOS DE CORRUPCIÓN"
+    }
+  ]
+}

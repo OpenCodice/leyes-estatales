@@ -1,0 +1,36 @@
+{
+  "clave": "014",
+  "etiqueta": "Artículo 14º",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "014.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14º › párrafo 1",
+      "texto": "El poder público del Estado se divide para su ejercicio en Legislativo, Ejecutivo y Judicial; nunca podrán reunirse dos o más de estos poderes en una persona o corporación, ni depositarse el Legislativo en un solo individuo."
+    },
+    {
+      "id": "014.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14º › párrafo 2",
+      "texto": "Los poderes del Estado deben residir en la capital del mismo."
+    },
+    {
+      "id": "014.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14º › párrafo 3",
+      "texto": "Todos los órganos, dependencias, entidades u organismos estatales de carácter público que establezcan las leyes, formarán parte de los poderes del Estado a que se refiere el presente artículo, con excepción de los organismos públicos autónomos que crea esta Constitución."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "067",
+  "etiqueta": "Artículo 67º",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "067.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67º › párrafo 1",
+      "texto": "El Tribunal de Justicia Administrativa del Estado de Jalisco se integrará por una Sala Superior conformada por tres magistrados; así como de salas unitarias, que tendrán la competencia que establezca la Ley."
+    },
+    {
+      "id": "067.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67º › párrafo 2",
+      "texto": "Para la elección del Magistrado que presidirá la Sala Superior del Tribunal de Justicia Administrativa, los integrantes de la misma realizarán una votación por cédula, secreta y en escrutinio público, en la primera sesión de cada año. El Magistrado que haya obtenido mayoría de votos, durará un año en su encargo y podrá ser reelecto por no más de dos periodos consecutivos."
+    },
+    {
+      "id": "067.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67º › párrafo 3",
+      "texto": "La Sala Superior del Tribunal de Justicia Administrativa elaborará el proyecto de presupuesto del Tribunal a propuesta de la Junta de Administración, en los términos establecidos en la Ley, que será remitido al titular del Poder Ejecutivo para su inclusión en la iniciativa de Presupuesto de Egresos del Estado. Una vez aprobado, será ejercido con plena autonomía de conformidad con la ley."
+    },
+    {
+      "id": "067.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67º › párrafo 4",
+      "texto": "Del Tribunal Electoral del Estado"
+    }
+  ]
+}

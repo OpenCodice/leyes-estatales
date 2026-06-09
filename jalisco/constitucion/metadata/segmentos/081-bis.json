@@ -1,0 +1,63 @@
+{
+  "clave": "081-bis",
+  "etiqueta": "Artículo 81º Bis",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "081-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81º Bis › párrafo 1",
+      "texto": "Los municipios que integren un área metropolitana se coordinarán a través de las instancias y conforme las bases que establezca la legislación estatal en materia de coordinación metropolitana y se establezcan en los respectivos estatutos orgánicos."
+    },
+    {
+      "id": "081-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81º Bis › párrafo 2",
+      "texto": "La coordinación metropolitana se efectuará a través de las siguientes instancias:"
+    },
+    {
+      "id": "081-bis.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81º Bis › Fracción I",
+      "texto": "I. Una instancia de coordinación política por cada una de las áreas metropolitanas;"
+    },
+    {
+      "id": "081-bis.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81º Bis › Fracción II",
+      "texto": "II. Una instancia de carácter técnico, constituido como organismo público descentralizado intermunicipal, con personalidad jurídica y patrimonio propio;"
+    },
+    {
+      "id": "081-bis.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81º Bis › Fracción III",
+      "texto": "III. Una instancia consultiva y de participación ciudadana, de carácter honorífico, por cada una de las áreas metropolitanas, que podrá participar en tareas de evaluación y seguimiento; y"
+    },
+    {
+      "id": "081-bis.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81º Bis › Fracción IV",
+      "texto": "IV. Las demás instancias que establezcan la legislación aplicable, o se establezcan en los respectivos estatutos orgánicos de las instancias de coordinación metropolitana de conformidad con la normativa respectiva"
+    }
+  ]
+}

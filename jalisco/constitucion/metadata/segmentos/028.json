@@ -1,0 +1,63 @@
+{
+  "clave": "028",
+  "etiqueta": "Artículo 28º",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "028.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28º › párrafo 1",
+      "texto": "La facultad de presentar iniciativas de leyes y decreto, corresponde a:"
+    },
+    {
+      "id": "028.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28º › Fracción I",
+      "texto": "I. Los diputados;"
+    },
+    {
+      "id": "028.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28º › Fracción II",
+      "texto": "II. El Gobernador del Estado;"
+    },
+    {
+      "id": "028.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28º › Fracción III",
+      "texto": "III. El Supremo Tribunal, en asuntos del ramo de justicia;"
+    },
+    {
+      "id": "028.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28º › Fracción IV",
+      "texto": "IV. Los ayuntamientos, en asuntos de competencia municipal; y"
+    },
+    {
+      "id": "028.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28º › Fracción V",
+      "texto": "V. Los ciudadanos inscritos en la lista nominal de electores en el Estado, en los términos que exija esta Constitución y la ley de la materia.\n\nDichas iniciativas deberán ser dictaminadas en los términos que establezca la ley en la materia."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "033",
+  "etiqueta": "Artículo 33",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "033.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › párrafo 1",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS De la Administración Pública de la Ciudad de México"
+    },
+    {
+      "id": "033.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › 1.",
+      "texto": "1. La Administración Pública de la Ciudad de México será centralizada y paraestatal y se regirá bajo los principios de la innovación, atención ciudadana, gobierno abierto, integridad y plena accesibilidad con base en diseño universal. La hacienda pública de la Ciudad, su administración y régimen patrimonial serán unitarios, incluyendo los tabuladores de remuneraciones y percepciones de las personas servidoras públicas."
+    },
+    {
+      "id": "033.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › 2.",
+      "texto": "2. Las personas titulares de las Secretarías del gabinete deberán presentar sus informes anuales de gestión durante el mes de octubre y acudir a la respectiva sesión de comparecencia en el pleno del Congreso cuando sean citados."
+    }
+  ]
+}

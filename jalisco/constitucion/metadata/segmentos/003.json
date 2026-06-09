@@ -1,0 +1,36 @@
+{
+  "clave": "003",
+  "etiqueta": "Artículo 3º",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "003.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3º › párrafo 1",
+      "texto": "El territorio del Estado es el que por derecho le corresponde."
+    },
+    {
+      "id": "003.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3º › párrafo 2",
+      "texto": "Los municipios del estado son aquellos señalados en la Ley que establece las bases generales de la administración pública municipal."
+    },
+    {
+      "id": "003.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3º › párrafo 3",
+      "texto": "DE LOS DERECHOS HUMANOS Y SUS GARANTÍAS"
+    }
+  ]
+}

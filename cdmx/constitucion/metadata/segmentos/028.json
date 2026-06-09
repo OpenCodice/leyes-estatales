@@ -1,0 +1,27 @@
+{
+  "clave": "028",
+  "etiqueta": "Artículo 28",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "028.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › párrafo 1",
+      "texto": "Del poder público de la Ciudad de México La Ciudad de México adoptará para su régimen interior la forma de gobierno republicano, representativo, democrático y laico. El poder público de la Ciudad de México se dividirá para su ejercicio en Legislativo, Ejecutivo y Judicial. No podrán reunirse dos o más de estos poderes en una sola persona o corporación ni depositarse el Legislativo en un solo individuo."
+    },
+    {
+      "id": "028.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › párrafo 2",
+      "texto": "DE LA FUNCIÓN LEGISLATIVA"
+    }
+  ]
+}

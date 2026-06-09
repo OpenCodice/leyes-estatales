@@ -1,0 +1,63 @@
+{
+  "clave": "066",
+  "etiqueta": "Artículo 66",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "066.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › párrafo 1",
+      "texto": "De la responsabilidad penal"
+    },
+    {
+      "id": "066.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › 1.",
+      "texto": "1. Las personas servidoras públicas son responsables por los delitos que cometan durante el tiempo de su encargo. En la Ciudad de México nadie goza de fuero."
+    },
+    {
+      "id": "066.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › párrafo 2",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "066.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › 2.",
+      "texto": "2. Las diputadas y los diputados al Congreso de la Ciudad de México son inviolables por las opiniones que manifiesten en el desempeño de su encargo y no podrán ser reconvenidos ni procesados por éstas. El presidente del Congreso de la Ciudad de México velará por el respeto a la inviolabilidad del recinto donde se reúnan a sesionar."
+    },
+    {
+      "id": "066.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › 3.",
+      "texto": "3. La ley determinará el procedimiento para el ejercicio de la acción penal tratándose de delitos del fuero común, observándose lo establecido en el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "066.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › 4.",
+      "texto": "4. El plazo de prescripción de los delitos cometidos por personas servidoras públicas, incluyendo cohecho, peculado, enriquecimiento ilícito, tráfico de influencias o cualquier otro que implique malversación de recursos o deuda públicos, se interrumpirá cuando el indiciado se sustraiga a la acción de la justicia y en los demás supuestos previstos en la legislación penal aplicable."
+    }
+  ]
+}

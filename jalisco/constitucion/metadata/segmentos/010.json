@@ -1,0 +1,81 @@
+{
+  "clave": "010",
+  "etiqueta": "Artículo 10º",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "010.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10º › párrafo 1",
+      "texto": "Para la preservación de los derechos a que alude el artículo 4º de esta Constitución, se instituye la Comisión Estatal de Derechos Humanos, dotada de plena autonomía, con personalidad jurídica y patrimonio propios, de participación ciudadana, con carácter permanente y de servicio gratuito, que conocerá de las quejas, en contra de actos u omisiones de índole administrativa, provenientes de cualquier autoridad o servidor público estatal o municipal, que viole estos derechos. Dicho organismo se sujetará a las siguientes bases:"
+    },
+    {
+      "id": "010.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10º › Fracción I",
+      "texto": "I. En la realización y cumplimiento de sus funciones, tendrá la integración, atribuciones, organización y competencia que le confiera su Ley, sin más restricciones que las señaladas en el artículo 102, apartado B, de la Constitución Política de los Estados Unidos Mexicanos y las leyes respectivas;"
+    },
+    {
+      "id": "010.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10º › Fracción II",
+      "texto": "II. En cumplimiento de sus funciones, formulará recomendaciones públicas, autónomas, no vinculatorias, así como denuncias y quejas ante las autoridades respectivas.\n\nTodo servidor público está obligado a responder las recomendaciones que les presente la Comisión Estatal de Derechos Humanos. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa. El Congreso del Estado podrá, a solicitud de la Comisión Estatal de Derechos Humanos, citar a comparecer ante la Asamblea a las autoridades o servidores públicos responsables para que expliquen el motivo de su negativa;"
+    },
+    {
+      "id": "010.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10º › Fracción III",
+      "texto": "III. Sólo podrá admitir o conocer de quejas contra actos u omisiones de autoridades locales judiciales y electorales, cuando éstos tengan carácter de trámite administrativo. La Comisión Estatal de Derechos Humanos por ningún motivo podrá examinar cuestiones jurisdiccionales de fondo de dichas materias, ni podrá dar consultas a autoridades y particulares sobre interpretación de leyes;"
+    },
+    {
+      "id": "010.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10º › Fracción IV",
+      "texto": "IV. Iniciará de oficio o a petición de parte, el procedimiento para la investigación de las violaciones de los derechos humanos de que tenga conocimiento. Igualmente, podrá promover ante las autoridades competentes, cambios y modificaciones al sistema jurídico estatal o municipal o de práctica administrativa, que redunden en una mejor protección y defensa de los derechos humanos;"
+    },
+    {
+      "id": "010.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10º › Fracción V",
+      "texto": "V. Estará integrado por un Presidente, un consejo compuesto por titulares y suplentes respectivamente y los demás órganos que determine su ley reglamentaria;"
+    },
+    {
+      "id": "010.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10º › Fracción VI",
+      "texto": "VI. Para la designación de su Presidente y de los consejeros ciudadanos, deberán satisfacerse los requisitos y observarse el procedimiento que determine la ley, basándose en un proceso de consulta pública, que deberá ser transparente; y"
+    },
+    {
+      "id": "010.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10º › Fracción VII",
+      "texto": "VII. La Comisión Estatal de los Derechos Humanos tendrá facultad para ejercitar acción de inconstitucionalidad en contra de leyes expedidas por el Congreso del Estado, en los términos de la legislación federal correspondiente.\n\nToda autoridad estatal o municipal que, en el ámbito de su competencia, tenga conocimiento de actos violatorios de derechos humanos, inmediatamente y bajo su estricta responsabilidad, procederá a dar cuenta del hecho a la Comisión Estatal de Derechos Humanos.\n\nDEL SUFRAGIO Y LA PARTICIPACIÓN CIUDADANA, LA POPULAR Y DE GOBERNANZA"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "096",
+  "etiqueta": "Artículo 96º",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "096.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96º › párrafo 1",
+      "texto": "En los juicios del orden civil no hay fuero ni inmunidad."
+    },
+    {
+      "id": "096.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96º › párrafo 2",
+      "texto": "DEL JUICIO POLÍTICO"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "002",
+  "etiqueta": "Artículo 2",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "002.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 1",
+      "texto": "De la naturaleza intercultural, pluriétnica, plurilingüe y pluricultural de la ciudad."
+    },
+    {
+      "id": "002.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › 1.",
+      "texto": "1. La Ciudad de México es intercultural, tiene una composición plurilingüe, pluriétnica y pluricultural sustentada en sus habitantes; sus pueblos y barrios originarios históricamente asentados en su territorio y en sus comunidades indígenas residentes. Se funda en la diversidad de sus tradiciones y expresiones sociales y culturales."
+    },
+    {
+      "id": "002.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › 2.",
+      "texto": "2. La Ciudad de México se enriquece con el tránsito, destino y retorno de la migración nacional e internacional."
+    },
+    {
+      "id": "002.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › 3.",
+      "texto": "3. La Ciudad de México es un espacio abierto a las personas internamente desplazadas y a las personas extranjeras a quienes el Estado Mexicano les ha reconocido su condición de refugiado u otorgado asilo político o la protección complementaria."
+    }
+  ]
+}

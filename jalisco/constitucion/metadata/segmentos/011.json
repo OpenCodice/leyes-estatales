@@ -1,0 +1,396 @@
+{
+  "clave": "011",
+  "etiqueta": "Artículo 11º",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "011.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › párrafo 1",
+      "texto": "El sufragio es la expresión de la voluntad popular para la elección de los integrantes de los poderes Legislativo y Ejecutivo, de los gobiernos municipales y para los procesos relativos a los mecanismos de participación ciudadana y popular. La renovación de los poderes Legislativo y Ejecutivo y de los ayuntamientos del Estado, se realizará en elecciones, mediante la emisión del sufragio universal, libre, secreto, directo e intransferible."
+    },
+    {
+      "id": "011.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › párrafo 2",
+      "texto": "Votar en las elecciones constituye un derecho y una obligación de la ciudadanía que se ejerce para elegir cargos de elección popular. También es derecho de la ciudadanía, y obligación para todos los partidos políticos, la igualdad de oportunidades y la paridad vertical y horizontal entre hombres y mujeres, en candidaturas a diputaciones locales tanto propietarios como suplentes, en candidaturas a presidencias municipales, integración de planillas a munícipes, así como para las autoridades electorales en la integración de los consejos distritales y municipales."
+    },
+    {
+      "id": "011.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › párrafo 3",
+      "texto": "La organización, desarrollo, cómputo y declaración de resultados de los mecanismos de participación ciudadana estará a cargo del Instituto Electoral y de Participación Ciudadana."
+    },
+    {
+      "id": "011.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › párrafo 4",
+      "texto": "Los Ayuntamientos emitirán los reglamentos y disposiciones administrativas que les permitan asegurar la participación ciudadana y popular, teniendo como bases mínimas, las establecidas en la ley estatal relativa a la materia."
+    },
+    {
+      "id": "011.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › párrafo 5",
+      "texto": "Apartado A. En el Estado de Jalisco se reconocen por lo menos, los siguientes mecanismos de participación ciudadana y popular:"
+    },
+    {
+      "id": "011.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › Fracción I",
+      "texto": "I. Plebiscito: es el mecanismo de participación mediante el cual se someten a la consideración de la ciudadanía los actos o decisiones del Poder Ejecutivo del Estado y de los ayuntamientos, conforme a lo siguiente:"
+    },
+    {
+      "id": "011.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 11º › Fracción I › inciso a)",
+      "texto": "a) En el ámbito estatal podrá ser solicitado por el 0.05 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al Estado;"
+    },
+    {
+      "id": "011.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 11º › Fracción I › inciso b)",
+      "texto": "b) En los municipios en que la población no exceda de cincuenta mil habitantes, podrá solicitarlo el 2 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio;"
+    },
+    {
+      "id": "011.I.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 11º › Fracción I › inciso c)",
+      "texto": "c) En los municipios en que la población exceda los cincuenta mil pero no los cien mil habitantes, podrán solicitarlo el 1.5 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio;"
+    },
+    {
+      "id": "011.I.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 11º › Fracción I › inciso d)",
+      "texto": "d) En los municipios en los que la población exceda los cien mil pero no los quinientos mil habitantes podrán solicitarlo el 0.5 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio; y"
+    },
+    {
+      "id": "011.I.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 11º › Fracción I › inciso e)",
+      "texto": "e) En los municipios en los que la población exceda los quinientos mil habitantes, podrán solicitarlo el 0.05 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio.\n\nEl resultado del plebiscito será vinculante cuando participe por lo menos el 33 por ciento de los ciudadanos inscritos en la lista nominal de electores correspondiente y de los mismos más del 50 por ciento emita su voto en un mismo sentido, ya sea a favor o en contra."
+    },
+    {
+      "id": "011.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › Fracción II",
+      "texto": "II. Referéndum: es el mecanismo de participación mediante el cual se somete a la consideración de la ciudadanía la abrogación o derogación de disposiciones legales y constitucionales, decretos, reglamentos, acuerdos y disposiciones de carácter general, expedidas por el Congreso, el Poder Ejecutivo del Estado o los ayuntamientos, conforme a lo siguiente:"
+    },
+    {
+      "id": "011.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 11º › Fracción II › inciso a)",
+      "texto": "a) En el ámbito estatal podrá ser solicitado por el 0.05 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al Estado;"
+    },
+    {
+      "id": "011.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 11º › Fracción II › inciso b)",
+      "texto": "b) En los municipios en que la población no exceda de cincuenta mil habitantes, podrá solicitarlo el 2 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio;"
+    },
+    {
+      "id": "011.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 11º › Fracción II › inciso c)",
+      "texto": "c) En los municipios en que la población exceda los cincuenta mil pero no los cien mil habitantes, podrán solicitarlo el 1.5 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio;"
+    },
+    {
+      "id": "011.II.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 11º › Fracción II › inciso d)",
+      "texto": "d) En los municipios en los que la población exceda los cien mil pero no los quinientos mil habitantes, podrán solicitarlo el 0.5 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio; y"
+    },
+    {
+      "id": "011.II.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 11º › Fracción II › inciso e)",
+      "texto": "e) En los municipios en los que la población exceda los quinientos mil habitantes, podrán solicitarlo el 0.05 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio.\n\nEl resultado del referéndum será vinculante y se declarará abrogado o derogado el acto sometido a este mecanismo, cuando participe por lo menos el 33 por ciento de los ciudadanos inscritos en la lista nominal de electores correspondiente y de los mismos más del 50 por ciento emita su voto a favor de la abrogación o derogación."
+    },
+    {
+      "id": "011.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › Fracción III",
+      "texto": "III. Ratificación Constitucional: es el mecanismo de participación mediante el cual la ciudadanía podrá validar o derogar una reforma a la Constitución Política del Estado de Jalisco, siempre y cuando sea solicitada, dentro de los treinta días naturales siguientes a la fecha de su publicación, por:"
+    },
+    {
+      "id": "011.III.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 11º › Fracción III › inciso a)",
+      "texto": "a) El Gobernador del Estado;"
+    },
+    {
+      "id": "011.III.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 11º › Fracción III › inciso b)",
+      "texto": "b) El 50 por ciento de los ayuntamientos del Estado; o"
+    },
+    {
+      "id": "011.III.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 11º › Fracción III › inciso c)",
+      "texto": "c) El 50 por ciento de los diputados integrantes del Congreso del Estado.\n\nLa votación de la ratificación constitucional se realizará el mismo día de la jornada electoral, salvo que el Instituto Electoral y de Participación Ciudadana autorice por unanimidad de votos su realización en una fecha distinta, fuera del periodo del proceso electoral, y siempre que exista suficiencia presupuestal para realizarla.\n\nEl resultado de la ratificación constitucional será vinculante cuando participe por lo menos el 33 por ciento de los ciudadanos inscritos en la lista nominal de electores del Estado y de los mismos más del 50 por ciento emita su voto a favor de la derogación de la reforma."
+    },
+    {
+      "id": "011.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › Fracción IV",
+      "texto": "IV. Iniciativa Ciudadana: es el mecanismo de participación mediante el cual los ciudadanos pueden presentar iniciativas de ley dirigidas al Congreso del Estado, o iniciativas de reglamento dirigidas al Poder Ejecutivo o a los ayuntamientos, para que sean analizadas y resueltas de conformidad con los procedimientos aplicables.\n\nLa iniciativa ciudadana dirigida al Congreso del Estado y al Poder Ejecutivo deberá ser solicitada al menos por el"
+    },
+    {
+      "id": "011.IV.0",
+      "tipo": "numeral",
+      "marca": "0",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 11º › Fracción IV › 0.",
+      "texto": "0.05 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al Estado."
+    },
+    {
+      "id": "011.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › párrafo 6",
+      "texto": "La iniciativa ciudadana de carácter municipal para su presentación se sujetará a los porcentajes establecidos en los ordenamientos municipales en la materia, los cuales no podrán exceder de:"
+    },
+    {
+      "id": "011.IV.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 11º › Fracción IV › inciso a)",
+      "texto": "a) En los municipios en que la población no exceda de cincuenta mil habitantes, el 2 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio;"
+    },
+    {
+      "id": "011.IV.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 11º › Fracción IV › inciso b)",
+      "texto": "b) En los municipios en que la población exceda los cincuenta mil pero no los cien mil habitantes, el 1.5 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio;"
+    },
+    {
+      "id": "011.IV.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 11º › Fracción IV › inciso c)",
+      "texto": "c) En los municipios en los que la población exceda los cien mil pero no los quinientos mil habitantes, el 0.5 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio; y"
+    },
+    {
+      "id": "011.IV.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 11º › Fracción IV › inciso d)",
+      "texto": "d) En los municipios en los que la población exceda los quinientos mil habitantes, el 0.05 por ciento de los ciudadanos inscritos en la lista nominal de electores, correspondiente al municipio."
+    },
+    {
+      "id": "011.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › Fracción V",
+      "texto": "V. Ratificación de Mandato: es el mecanismo de participación y de rendición de cuentas, mediante el cual la ciudadanía evalúa el desempeño del Gobernador, los diputados, presidentes municipales y regidores del Estado.\n\nLa ratificación de mandato únicamente pueden solicitarla los propios servidores públicos de elección popular que deseen someterse a este mecanismo.\n\nLa solicitud de ratificación de mandato sólo puede presentarse dentro de los primeros 120 días de la segunda mitad del periodo constitucional.\n\nLa votación para la ratificación de mandato debe llevarse a cabo a más tardar 120 días posteriores a la declaratoria de procedencia de la solicitud que emita la autoridad electoral.\n\nPara la validez del procedimiento de ratificación de mandato deberán participar por lo menos la misma cantidad de ciudadanos que lo hicieron en la elección donde resultó electo el servidor público sujeto a este mecanismo.\n\nCuando el número de votos en contra de la ratificación del servidor público sea mayor al número de votos a favor por el que fue electo, el servidor público cesará en el cargo y se estará a lo que se establece en esta Constitución para la sustitución de autoridades electas por sufragio.\n\nLa no ratificación de mandato no dará lugar a compensación, indemnización, ni pago de emolumento alguno a favor del servidor público sujeto a este mecanismo."
+    },
+    {
+      "id": "011.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › Fracción VI",
+      "texto": "VI. Revocación de Mandato: es el mecanismo de participación mediante el cual los ciudadanos deciden que un servidor público de elección popular concluya anticipadamente el ejercicio del cargo para el que fue electo, siempre y cuando se configuren las causales y se cumpla con los procedimientos establecidos en las leyes.\n\nLa revocación de mandato podrá ser solicitada por el 3 por ciento de los ciudadanos inscritos en la lista nominal de electores, distribuidos en las dos terceras partes de los distritos o secciones electorales de la demarcación territorial que corresponda.\n\nLa revocación de mandato sólo podrá solicitarse dentro de los primeros 120 días de la segunda mitad del periodo constitucional.\n\nLa votación debe llevarse a cabo a mas tardar 120 días posteriores a la declaratoria de procedencia de la solicitud que emita la autoridad electoral.\n\nPara la validez del procedimiento de revocación de mandato deberán participar por lo menos la misma cantidad de ciudadanos que lo hicieron en la elección donde resultó electo el servidor público sujeto a este mecanismo.\n\nCuando el número de votos a favor de la revocación del mandato del servidor público sea mayor al número de votos a favor por el que fue electo, el servidor público cesará en el cargo y se estará a lo que se establece en esta Constitución para la sustitución de autoridades electas por sufragio.\n\nLa revocación del mandato no dará lugar a compensación, indemnización, ni pago de emolumento alguno a favor del servidor público sujeto a este mecanismo."
+    },
+    {
+      "id": "011.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › Fracción VII",
+      "texto": "VII. Consulta Popular: es el mecanismo mediante el cual los habitantes del Estado, un municipio o demarcación territorial, expresan sus opiniones respecto a temas de carácter público o impacto social que son consultados por la autoridad correspondiente.\n\nCuando la consulta se dirija a temas relativos a los Poderes Ejecutivo o Legislativo podrá ser solicitada por: el 50 por ciento de los integrantes del Congreso del Estado; el Gobernador del Estado; o por el 0.05 por ciento de los habitantes de la demarcación territorial correspondiente.\n\nCuando la consulta se dirija a temas relativos a los gobiernos municipales podrá ser solicitada por: el 50 por ciento de los integrantes del ayuntamiento; o por el 0.05 por ciento de los habitantes de la demarcación territorial correspondiente."
+    },
+    {
+      "id": "011.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › Fracción VIII",
+      "texto": "VIII. Presupuesto Participativo: es el mecanismo de participación mediante el cual los habitantes del Estado definen el destino de un porcentaje de los recursos públicos, para lo cual el Gobierno del Estado proyectará anualmente en el Presupuesto de Egresos una partida equivalente al menos al quince por ciento del presupuesto destinado para inversión pública.\n\nPara impulsar el desarrollo municipal y regional, los ayuntamientos podrán convenir con el Poder Ejecutivo del Estado la realización de inversiones públicas conjuntas, que los habitantes de sus municipios determinen mediante el presupuesto participativo."
+    },
+    {
+      "id": "011.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › Fracción IX",
+      "texto": "IX. Comparecencia Pública: es el mecanismo de participación y democracia deliberativa, mediante el cual los habitantes del Estado o un municipio dialogan y debaten con los funcionarios públicos del Estado o los municipios para solicitarles la rendición de cuentas, pedir información, proponer acciones, cuestionar y solicitar la realización de determinados actos o la adopción de acuerdos."
+    },
+    {
+      "id": "011.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › Fracción X",
+      "texto": "X. Proyecto Social: es el mecanismo de participación social, mediante el cual los habitantes de un municipio colaboran, cooperan y trabajan en conjunto con el ayuntamiento para la solución de una necesidad o problemática existente en los barrios, fraccionamientos y colonias municipales."
+    },
+    {
+      "id": "011.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › Fracción XI",
+      "texto": "XI. Asamblea Popular: es un mecanismo de participación, mediante el cual los habitantes del Estado o de un municipio construyen un espacio para la opinión sobre temas de interés general o asuntos de carácter local o de impacto en la comunidad."
+    },
+    {
+      "id": "011.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › Fracción XII",
+      "texto": "XII. Ayuntamiento Abierto: es el mecanismo de participación, mediante el cual los habitantes de un municipio, a través de representantes de asociaciones vecinales debidamente registradas, tienen derecho a presentar propuestas o peticiones en por lo menos seis de las sesiones ordinarias que celebre el ayuntamiento en el año."
+    },
+    {
+      "id": "011.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › Fracción XIII",
+      "texto": "XIII. Colaboración Popular: es el mecanismo de participación, mediante el cual los habitantes del Estado o de un municipio, participan en la ejecución de una obra o prestación de un servicio existente, aportando recursos económicos, materiales o trabajo personal en coordinación con los gobiernos municipales y estatal."
+    },
+    {
+      "id": "011.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › Fracción XIV",
+      "texto": "XIV. Planeación Participativa: es el mecanismo de participación mediante el cual la toma de decisiones se construye en coordinación con la ciudadanía, para la creación de los instrumentos de planeación del desarrollo.\n\nSólo podrá ejercerse por la ciudadanía dentro de los periodos de elaboración o actualización de los citados instrumentos."
+    },
+    {
+      "id": "011.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › Fracción XV",
+      "texto": "XV. Diálogo Colaborativo: es el mecanismo de participación por el cual la autoridad establece acuerdos y consensos con la ciudadanía, a través de la construcción de nuevos espacios de representatividad para la toma de decisiones públicas, mediante la libre expresión de ideas y posiciones ciudadanas para el fortalecimiento de la democracia."
+    },
+    {
+      "id": "011.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › Fracción XVI",
+      "texto": "XVI. Contraloría Social: es el mecanismo de participación mediante el cual la ciudadanía y los organismos del sector social y privado forman una instancia de vigilancia y observación de las actividades de gobierno.\n\nApartado B. Se reconocen como políticas gubernamentales dirigidas a propiciar el trabajo colaborativo, con la finalidad de incentivar la participación ciudadana, las siguientes:"
+    },
+    {
+      "id": "011.I~2",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › Fracción I",
+      "texto": "I. Gobierno Abierto: es una política gubernamental estatal y municipal orientada a una nueva gobernanza enfocada a generar alternativas de solución a los problemas, demandas y necesidades sociales involucrando a los ciudadanos, facilitando el acceso a la información, la planeación, la colaboración y la co- creación, de manera proactiva."
+    },
+    {
+      "id": "011.II~2",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › Fracción II",
+      "texto": "II. Congreso Abierto: es una política gubernamental legislativa que pone a disposición de la ciudadanía información de forma transparente, sencilla y accesible; rinde cuentas y permite la vigilancia y el monitoreo de los ciudadanos, y utiliza las tecnologías de la información para definir el vínculo con la ciudadanía y hacerla partícipe de las decisiones de los asuntos públicos. De igual manera convoca a la ciudadanía a hacer propuestas de iniciativas de ley y reformas que impacten en el bienestar social; y"
+    },
+    {
+      "id": "011.III~2",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › Fracción III",
+      "texto": "III. Justicia Abierta: es la política gubernamental orientada a adoptar los principios del gobierno abierto para el ámbito jurisdiccional, traducidos en herramientas como lenguaje ciudadano en la redacción de documentos jurídicos, publicación y difusión de expedientes y de criterios legales aplicados, así como transparencia en los procesos de nombramiento, designación y evaluación de jueces y magistrados y en general todo aquello que haga más accesible el funcionamiento del Sistema de Administración de Justicia del Estado de Jalisco.\n\nDE LA FUNCIÓN ELECTORAL"
+    }
+  ]
+}

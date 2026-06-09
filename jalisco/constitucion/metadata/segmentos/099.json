@@ -1,0 +1,27 @@
+{
+  "clave": "099",
+  "etiqueta": "Artículo 99º",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "099.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99º › párrafo 1",
+      "texto": "La comisión de delitos del orden común por parte de cualquier servidor público o particulares que incurran en hechos de corrupción, será sancionada en los términos de la legislación penal aplicable."
+    },
+    {
+      "id": "099.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99º › párrafo 2",
+      "texto": "Las leyes determinarán los casos y las circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito, a los servidores públicos que, durante el tiempo de su encargo o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, sin que puedan demostrar su procedencia lícita. La ley sancionará con el decomiso y con la privación de la propiedad de dichos bienes, sin que se pueda considerar confiscatoria, además de las otras penas que correspondan."
+    }
+  ]
+}

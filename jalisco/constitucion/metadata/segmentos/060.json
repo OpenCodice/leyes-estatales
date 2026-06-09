@@ -1,0 +1,126 @@
+{
+  "clave": "060",
+  "etiqueta": "Artículo 60º",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "060.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60º › párrafo 1",
+      "texto": "Para la elección de las y los magistrados del Supremo Tribunal de Justicia se estará a lo siguiente:"
+    },
+    {
+      "id": "060.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60º › Fracción I",
+      "texto": "I. El Congreso del Estado emitirá convocatoria pública abierta a la sociedad en general;"
+    },
+    {
+      "id": "060.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60º › Fracción II",
+      "texto": "II. El Congreso del Estado recibirá las solicitudes y los expedientes de las y los aspirantes, cubriendo los requisitos que establece la Constitución y acompañado la acreditación de la evaluación de control de confianza, realizada por la institución precisada en la convocatoria;"
+    },
+    {
+      "id": "060.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60º › Fracción III",
+      "texto": "III. Cerrado el registro de las y los aspirantes, el Congreso del Estado remitirá al Comité de Participación Social del Sistema Anticorrupción del Estado, copia de los expedientes de las y los aspirantes, para que practique las evaluaciones curriculares y de aptitudes y elabore un informe con sus opiniones técnicas de idoneidad de cada aspirante, el cual deberá ser remitido al Congreso del Estado;"
+    },
+    {
+      "id": "060.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60º › Fracción IV",
+      "texto": "IV. El Congreso del Estado, a través de la comisión legislativa competente, realizará una entrevista pública a cada aspirante, a la cual se invitará al Comité de Participación Social para que participe en la misma;"
+    },
+    {
+      "id": "060.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60º › Fracción V",
+      "texto": "V. Las y los aspirantes deberán acreditar un examen teórico práctico de conocimientos jurídicos, para lo cual el Congreso del Estado a través de la comisión legislativa competente deberá solicitar a instituciones de educación superior públicas y privadas, y/o a organismos especializados en evaluación, con el seguimiento y vigilancia de representantes de organismos privados y de la sociedad civil;"
+    },
+    {
+      "id": "060.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60º › Fracción VI",
+      "texto": "VI. La comisión legislativa competente debe emitir el dictamen con la lista de las y los candidatos que hayan cumplido con los requisitos y aprobado las evaluaciones a que se refieren la fracciones II y V de este artículo, acompañando la opinión técnica del Comité de Participación Social;"
+    },
+    {
+      "id": "060.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60º › Fracción VII",
+      "texto": "VII. El Congreso del Estado, en votación por cédula, y con el voto de cuando menos las dos terceras partes de las y los diputados integrantes, elegirá dentro de un término improrrogable de treinta días una vez que sea entregado el dictamen por parte de la comisión legislativa competente, al Magistrado que debe cubrir la vacante, en caso de declararse desierta la convocatoria, se procederá a emitir una nueva convocatoria, pudiendo participar aquellas y aquellos aspirantes registrados dentro de la convocatoria previa.\n\nSe declarará desierta la convocatoria cuando:"
+    },
+    {
+      "id": "060.VII.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 60º › Fracción VII › inciso a)",
+      "texto": "a) No se elija a la Magistrada o Magistrado dentro del plazo señalado en la fracción anterior, o"
+    },
+    {
+      "id": "060.VII.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 60º › Fracción VII › inciso b)",
+      "texto": "b) Después de tres votaciones ninguna candidata o candidato alcancen la mayoría requerida, debiendo mediar al menos cinco días naturales entre cada votación, pero siempre dentro del plazo anterior."
+    },
+    {
+      "id": "060.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60º › Fracción VIII",
+      "texto": "VIII. El Congreso del Estado elige con libertad soberana a las magistradas y magistrados, en igualdad de circunstancias, preferentemente entre aquellas personas que hayan prestado sus servicios con eficiencia y probidad en la administración de justicia o que lo merezca por su honorabilidad, competencia y antecedentes en otras ramas de la profesión jurídica;"
+    },
+    {
+      "id": "060.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60º › Fracción IX",
+      "texto": "IX. Las y los diputados emitirán su voto libre y secreto, en cualquier sentido de los que prevea la ley, sin que su voto esté condicionado por lo señalado en el párrafo anterior; y"
+    },
+    {
+      "id": "060.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60º › Fracción X",
+      "texto": "X. En la designación de magistradas y magistrados será obligatorio observar el principio de alternancia para la paridad de género."
+    }
+  ]
+}

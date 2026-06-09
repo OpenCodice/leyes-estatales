@@ -1,0 +1,36 @@
+{
+  "clave": "041",
+  "etiqueta": "Artículo 41",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "041.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › párrafo 1",
+      "texto": "Disposiciones Generales"
+    },
+    {
+      "id": "041.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › 1.",
+      "texto": "1. La seguridad ciudadana es responsabilidad exclusiva del Gobierno de la Ciudad de México, en colaboración con las alcaldías y sus habitantes, para la prevención, investigación, sanción de infracciones administrativas y persecución de los delitos, la impartición de justicia, la reinserción social, el acceso a una vida libre de violencia y la protección de las personas frente a riesgos y amenazas que atenten contra sus derechos y libertades."
+    },
+    {
+      "id": "041.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › 2.",
+      "texto": "2. En la planeación, ejecución, control, vigilancia y disciplina de la seguridad y en la procuración e impartición de justicia en la Ciudad, regirán los derechos y principios contenidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado mexicano sea parte y su jurisprudencia, esta Constitución y las leyes de la materia."
+    }
+  ]
+}

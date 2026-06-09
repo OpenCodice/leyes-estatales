@@ -1,0 +1,27 @@
+{
+  "clave": "068",
+  "etiqueta": "Artículo 68º",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "068.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68º › párrafo 1",
+      "texto": "El Tribunal Electoral es un organismo público autónomo, con personalidad jurídica y patrimonio propios, con autonomía técnica y de gestión en su funcionamiento e independiente en sus decisiones, y que se rige bajo los principios de certeza, imparcialidad, objetividad, legalidad y probidad. Tendrá a su cargo la función jurisdiccional local en materia electoral y de participación ciudadana."
+    },
+    {
+      "id": "068.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68º › párrafo 2",
+      "texto": "En materia electoral la interposición de los recursos no producirá en ningún caso efectos suspensivos del acto o resolución impugnado."
+    }
+  ]
+}

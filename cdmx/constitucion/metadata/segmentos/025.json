@@ -1,0 +1,441 @@
+{
+  "clave": "025",
+  "etiqueta": "Artículo 25",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "025.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 1",
+      "texto": "Democracia directa"
+    },
+    {
+      "id": "025.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado A",
+      "texto": "A. Disposiciones comunes"
+    },
+    {
+      "id": "025.A.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado A › 1.",
+      "texto": "1. Las y los ciudadanos tienen el derecho y el deber de participar en la resolución de problemas y temas de interés general y en el mejoramiento de las normas que regulan las relaciones en la comunidad, a través de los mecanismos de democracia directa y participativa reconocidos por esta Constitución. Dichos mecanismos se podrán apoyar en el uso intensivo de las tecnologías de información y comunicación."
+    },
+    {
+      "id": "025.A.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado A › 2.",
+      "texto": "2. Las autoridades de la Ciudad garantizarán la democracia participativa, entendida como el derecho de las personas a incidir, individual o colectivamente, en las decisiones públicas y en la formulación, ejecución, evaluación y control del ejercicio de la función pública, en los términos que las leyes señalen."
+    },
+    {
+      "id": "025.A.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado A › 3.",
+      "texto": "3. La ley establecerá los mecanismos institucionales para prevenir y sancionar, en su caso, las prácticas que distorsionen, impidan o vulneren el derecho a la participación ciudadana en la vida pública de la Ciudad."
+    },
+    {
+      "id": "025.A.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado A › 4.",
+      "texto": "4. Las y los ciudadanos tienen derecho de proponer modificaciones a las iniciativas legislativas que se presenten al Congreso de la Ciudad de México. El período para recibir las propuestas no será menor a diez días hábiles a partir de su publicación en la Gaceta Parlamentaria. Todas las propuestas deberán ser tomadas en cuenta en el dictamen."
+    },
+    {
+      "id": "025.A.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado A › 5.",
+      "texto": "5. En los casos de referéndum, plebiscito, consulta popular, iniciativa ciudadana, consulta ciudadana y revocación de mandato, el Instituto Electoral de la Ciudad de México vigilará el cumplimiento y acreditación de los requisitos y plazos para que se lleve a cabo, y será INSTITUTO DE INVESTIGACIONES LEGISLATIVAS responsable de la organización, desarrollo, cómputo y declaración de resultados, de conformidad con lo que establezca la ley."
+    },
+    {
+      "id": "025.A.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado A › 6.",
+      "texto": "6. Esta Constitución reconoce el derecho de los pueblos y barrios originarios y comunidades indígenas, residentes a ser consultadas en los términos de esta Constitución y tratados internacionales."
+    },
+    {
+      "id": "025.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado B",
+      "texto": "B. Iniciativa ciudadana"
+    },
+    {
+      "id": "025.B.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado B › 1.",
+      "texto": "1. Se reconoce el derecho de las y los ciudadanos a iniciar leyes y decretos, así como reformas a esta Constitución ante el Congreso de la Ciudad de México, el cual establecerá una comisión para su debido procesamiento."
+    },
+    {
+      "id": "025.B.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado B › 2.",
+      "texto": "2. Dichos proyectos deberán contar con las firmas de al menos el cero punto trece por ciento de las personas inscritas en la lista nominal de electores de la Ciudad."
+    },
+    {
+      "id": "025.B.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado B › 3.",
+      "texto": "3. El Congreso de la Ciudad de México deberá resolver sobre la procedencia de la solicitud en un plazo no mayor de quince días hábiles. La ley establecerá los procedimientos para que, una vez admitida la iniciativa ciudadana, las personas proponentes puedan incorporarse a la discusión de los proyectos de legislación."
+    },
+    {
+      "id": "025.B.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado B › 4.",
+      "texto": "4. Tendrá el carácter de preferente aquella iniciativa que cuente con al menos el cero punto veinticinco por ciento de las firmas de las personas inscritas en la lista nominal de electores de la Ciudad y que sea presentada el día de la apertura del periodo ordinario de sesiones."
+    },
+    {
+      "id": "025.B.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado B › 5.",
+      "texto": "5. La iniciativa ciudadana no procederá en materia penal, tributaria y en ninguna materia que contravenga los derechos humanos."
+    },
+    {
+      "id": "025.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado C",
+      "texto": "C. Referéndum"
+    },
+    {
+      "id": "025.C.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado C › 1.",
+      "texto": "1. Se reconoce el derecho ciudadano a aprobar mediante referéndum las reformas a esta Constitución conforme a lo establecido en el artículo 69 de esta Constitución, así como a las demás disposiciones normativas de carácter general que sean competencia del Congreso de la Ciudad de México, a solicitud de:"
+    },
+    {
+      "id": "025.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado C › párrafo 2",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "025.C.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado C › inciso a)",
+      "texto": "a) Al menos el cero punto cuatro por ciento de las y los ciudadanos inscritos en la lista nominal de electores de la Ciudad; y"
+    },
+    {
+      "id": "025.C.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado C › inciso b)",
+      "texto": "b) Dos terceras partes de las y los integrantes del Congreso de la Ciudad."
+    },
+    {
+      "id": "025.C.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado C › 2.",
+      "texto": "2. Las decisiones legislativas en las materias de derechos humanos, penal o tributaria, no serán sometidas a referéndum."
+    },
+    {
+      "id": "025.C.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado C › 3.",
+      "texto": "3. El Congreso de la Ciudad de México determinará la entrada en vigor de las leyes o decretos de su competencia, conforme al resultado del referéndum que pudiera celebrarse."
+    },
+    {
+      "id": "025.D",
+      "tipo": "apartado",
+      "marca": "D",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado D",
+      "texto": "D. Plebiscito"
+    },
+    {
+      "id": "025.D.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado D › 1.",
+      "texto": "1. Las y los ciudadanos tienen derecho a ser consultados en plebiscito para aprobar o rechazar decisiones públicas que sean competencia del Poder Ejecutivo de la Ciudad o de las alcaldías, a solicitud de:"
+    },
+    {
+      "id": "025.D.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado D › inciso a)",
+      "texto": "a) Al menos el cero punto cuatro por ciento de las personas inscritas en la lista nominal de electores del ámbito respectivo;"
+    },
+    {
+      "id": "025.D.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado D › inciso b)",
+      "texto": "b) La persona titular de la Jefatura de Gobierno;"
+    },
+    {
+      "id": "025.D.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado D › inciso c)",
+      "texto": "c) Una tercera parte de las y los integrantes del Congreso de la Ciudad de México; y"
+    },
+    {
+      "id": "025.D.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado D › inciso d)",
+      "texto": "d) Las dos terceras partes de las alcaldías."
+    },
+    {
+      "id": "025.D.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado D › 2.",
+      "texto": "2. Las decisiones en materia de derechos humanos, penal, tributaria y fiscal no podrán ser sometidas a plebiscito."
+    },
+    {
+      "id": "025.E",
+      "tipo": "apartado",
+      "marca": "E",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado E",
+      "texto": "E. Consulta ciudadana"
+    },
+    {
+      "id": "025.E.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado E › 1.",
+      "texto": "1. Las y los ciudadanos tienen derecho a la consulta en los términos de los dispuesto en esta Constitución y la ley en la materia. A través de este instrumento, las autoridades someterán a INSTITUTO DE INVESTIGACIONES LEGISLATIVAS consideración de las y los ciudadanos cualquier tema que tenga impacto trascendental en los distintos ámbitos temáticos o territoriales de la Ciudad."
+    },
+    {
+      "id": "025.E.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado E › 2.",
+      "texto": "2. La consulta ciudadana podrá ser solicitada por al menos el dos por ciento de las personas inscritas en el listado nominal del ámbito territorial correspondiente."
+    },
+    {
+      "id": "025.F",
+      "tipo": "apartado",
+      "marca": "F",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado F",
+      "texto": "F. Consulta popular"
+    },
+    {
+      "id": "025.F.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado F › 1.",
+      "texto": "1. Las y los ciudadanos tienen derecho a la consulta popular sobre temas de trascendencia de la Ciudad. El Congreso de la Ciudad de México convocará a la consulta, a solicitud de:"
+    },
+    {
+      "id": "025.F.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado F › inciso a)",
+      "texto": "a) Al menos el dos por ciento de las personas inscritas en la lista nominal de electores de la Ciudad;"
+    },
+    {
+      "id": "025.F.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado F › inciso b)",
+      "texto": "b) La persona titular de la Jefatura de Gobierno;"
+    },
+    {
+      "id": "025.F.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado F › inciso c)",
+      "texto": "c) Una tercera parte de las y los integrantes del Congreso de la Ciudad de México;"
+    },
+    {
+      "id": "025.F.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado F › inciso d)",
+      "texto": "d) Un tercio de las alcaldías;"
+    },
+    {
+      "id": "025.F.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado F › inciso e)",
+      "texto": "e) El equivalente al diez por ciento de los Comités Ciudadanos o las Asambleas Ciudadanas; y"
+    },
+    {
+      "id": "025.F.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado F › inciso f)",
+      "texto": "f) El equivalente al diez por ciento de los pueblos y barrios originarios y comunidades indígenas residentes."
+    },
+    {
+      "id": "025.F.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado F › 2.",
+      "texto": "2. La consulta popular se realizará el mismo día de la jornada electoral local. Ningún instrumento de participación ciudadana, excluyendo la consulta popular, podrá llevarse a cabo cuando exista proceso electoral en la Ciudad de México."
+    },
+    {
+      "id": "025.F.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado F › 3.",
+      "texto": "3. No podrán ser objeto de consulta popular las decisiones en materia de derechos humanos, penal, tributaria y fiscal."
+    },
+    {
+      "id": "025.G",
+      "tipo": "apartado",
+      "marca": "G",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado G",
+      "texto": "G. Revocación del mandato INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "025.G.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "G",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado G › 1.",
+      "texto": "1. Las y los ciudadanos tienen derecho a solicitar la revocación del mandato de representantes electos cuando así lo demande al menos el diez por ciento de las personas inscritas en la lista nominal de electores del ámbito respectivo."
+    },
+    {
+      "id": "025.G.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "G",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado G › 2.",
+      "texto": "2. La consulta para la revocación del mandato sólo procederá una vez, cuando haya transcurrido al menos la mitad de la duración del cargo de representación popular de que se trate."
+    },
+    {
+      "id": "025.H",
+      "tipo": "apartado",
+      "marca": "H",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado H",
+      "texto": "H. Vinculatoriedad del referéndum, plebiscito, consultas ciudadanas y revocación de mandato"
+    },
+    {
+      "id": "025.H.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "H",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado H › 1.",
+      "texto": "1. Los resultados del referéndum y plebiscito serán vinculantes cuando cuenten con la participación de al menos la tercera parte de las personas inscritas en el listado nominal de electores del ámbito respectivo."
+    },
+    {
+      "id": "025.H.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "H",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado H › 2.",
+      "texto": "2. Las consultas ciudadanas serán vinculantes cuando cuenten con la participación de al menos el quince por ciento de las personas inscritas en el listado nominal de electores del ámbito respectivo."
+    },
+    {
+      "id": "025.H.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "H",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado H › 3.",
+      "texto": "3. En el caso de la revocación del mandato, sus resultados serán obligatorios siempre que participe al menos el cuarenta por ciento de las personas inscritas en el listado nominal de electores del ámbito respectivo y que de éstas el sesenta por ciento se manifieste a favor de la revocación."
+    }
+  ]
+}

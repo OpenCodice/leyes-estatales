@@ -1,0 +1,45 @@
+{
+  "clave": "018",
+  "etiqueta": "Artículo 18º",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "018.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18º › párrafo 1",
+      "texto": "El Congreso se compondrá de veinte diputadas y diputados electos por el principio de mayoría relativa y dieciocho electos según el principio de representación proporcional."
+    },
+    {
+      "id": "018.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18º › párrafo 2",
+      "texto": "Todas las diputadas y diputados tendrán los mismos derechos y obligaciones y podrán organizarse en grupos parlamentarios."
+    },
+    {
+      "id": "018.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18º › párrafo 3",
+      "texto": "La ley establecerá los procedimientos para la conformación de grupos parlamentarios y promoverá la coordinación de las actividades parlamentarias."
+    },
+    {
+      "id": "018.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18º › párrafo 4",
+      "texto": "Cada fórmula de candidatos a diputados de mayoría relativa se integrará por un propietario y un suplente del mismo género. Los partidos políticos deberán respetar la paridad de género en el registro de candidatos a diputados al Congreso del Estado, por ambos principios, conforme determine la ley."
+    }
+  ]
+}

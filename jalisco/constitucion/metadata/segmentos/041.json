@@ -1,0 +1,72 @@
+{
+  "clave": "041",
+  "etiqueta": "Artículo 41º",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "041.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41º › párrafo 1",
+      "texto": "Son hechos que implican la falta absoluta del Gobernador del Estado:"
+    },
+    {
+      "id": "041.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41º › Fracción I",
+      "texto": "I. La muerte;"
+    },
+    {
+      "id": "041.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41º › Fracción II",
+      "texto": "II. La incapacidad total y permanente para ejercer el cargo declarada por la autoridad judicial;"
+    },
+    {
+      "id": "041.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41º › Fracción III",
+      "texto": "III. Derogado"
+    },
+    {
+      "id": "041.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41º › Fracción IV",
+      "texto": "IV. La renuncia expresa por causa grave que será calificada por el Congreso del Estado;"
+    },
+    {
+      "id": "041.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41º › Fracción V",
+      "texto": "V. Si convocado por el Congreso, el Gobernador ausente o separado de sus funciones no se presenta, sin causa justificada, a asumir el ejercicio de su cargo; y"
+    },
+    {
+      "id": "041.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41º › Fracción VI",
+      "texto": "VI. No presentarse, sin causa justificada, en la fecha en que deba tomar posesión del cargo."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "110",
+  "etiqueta": "Artículo 110º",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "110.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110º › párrafo 1",
+      "texto": "Los cargos de elección popular directa son preferentes a los de nombramiento, salvo razón justificada y sólo son renunciables por causa grave. La autoridad a quien corresponda conocer de las renuncias o licencias, calificará las razones o causas que las motiven."
+    },
+    {
+      "id": "110.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110º › párrafo 2",
+      "texto": "Los demás cargos serán aceptables voluntariamente."
+    }
+  ]
+}

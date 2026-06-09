@@ -1,0 +1,27 @@
+{
+  "clave": "034",
+  "etiqueta": "Artículo 34º",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "034.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34º › párrafo 1",
+      "texto": "Las leyes que expida el Congreso, con excepción de la de carácter contributivo y de las leyes orgánicas de los poderes del Estado, podrán ser sometidas a referéndum, en los términos que establezca esta Constitución y la ley de la materia."
+    },
+    {
+      "id": "034.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34º › párrafo 2",
+      "texto": "DE LAS FACULTADES DEL CONGRESO DEL ESTADO"
+    }
+  ]
+}

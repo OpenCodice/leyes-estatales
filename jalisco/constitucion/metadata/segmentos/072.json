@@ -1,0 +1,36 @@
+{
+  "clave": "072",
+  "etiqueta": "Artículo 72º",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "072.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72º › párrafo 1",
+      "texto": "Corresponde al Tribunal de Arbitraje y Escalafón conocer de las controversias que se susciten entre el Estado, los municipios, los organismos descentralizados y empresas de participación mayoritaria de ambos, con sus servidores, con motivo de las relaciones de trabajo y se regirán por la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, por todas las demás leyes y reglamentos de la materia, con excepción de las controversias relativas a las relaciones de trabajo de los servidores públicos integrantes del Poder Judicial del Estado, del Tribunal Electoral, del Tribunal de Justicia Administrativa y del Instituto Electoral del Estado."
+    },
+    {
+      "id": "072.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72º › párrafo 2",
+      "texto": "La Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, establecerá las normas para su organización y funcionamiento, así como los requisitos que deban tener los servidores públicos que presten sus servicios en dicho Tribunal."
+    },
+    {
+      "id": "072.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72º › párrafo 3",
+      "texto": "DEL GOBIERNO MUNICIPAL"
+    }
+  ]
+}

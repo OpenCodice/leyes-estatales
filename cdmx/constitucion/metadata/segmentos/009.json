@@ -1,0 +1,351 @@
+{
+  "clave": "009",
+  "etiqueta": "Artículo 9",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "009.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › párrafo 1",
+      "texto": "Ciudad solidaria"
+    },
+    {
+      "id": "009.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado A",
+      "texto": "A. Derecho a la vida digna"
+    },
+    {
+      "id": "009.A.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado A › 1.",
+      "texto": "1. Las autoridades adoptarán las medidas necesarias para que progresivamente, se erradiquen las desigualdades estructurales y la pobreza, y se promueva el desarrollo sustentable, que permita alcanzar una justa distribución de la riqueza y del ingreso entre personas, familias, grupos sociales y ámbitos territoriales."
+    },
+    {
+      "id": "009.A.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado A › 2.",
+      "texto": "2. Todas las personas tienen derecho a un mínimo vital para asegurar una vida digna en los términos de esta Constitución."
+    },
+    {
+      "id": "009.A.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado A › 3.",
+      "texto": "3. Las autoridades garantizarán progresivamente la vigencia de los derechos, hasta el máximo de los recursos públicos disponibles. Se asegurará la no discriminación, la igualdad sustantiva y la transparencia en el acceso a los programas y servicios sociales de carácter público. Su acceso y permanencia se establecerá en las leyes y normas respectivas."
+    },
+    {
+      "id": "009.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado A › párrafo 2",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "009.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado B",
+      "texto": "B. Derecho al cuidado Toda persona tiene derecho al cuidado que sustente su vida y le otorgue los elementos materiales y simbólicos para vivir en sociedad a lo largo de toda su vida. Las autoridades establecerán un sistema de cuidados que preste servicios públicos universales, accesibles, pertinentes, suficientes y de calidad y desarrolle políticas públicas. El sistema atenderá de manera prioritaria a las personas en situación de dependencia por enfermedad, discapacidad, ciclo vital, especialmente la infancia y la vejez y a quienes, de manera no remunerada, están a cargo de su cuidado."
+    },
+    {
+      "id": "009.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado C",
+      "texto": "C. Derecho a la alimentación y a la nutrición"
+    },
+    {
+      "id": "009.C.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado C › 1.",
+      "texto": "1. Toda persona tiene derecho a una alimentación adecuada, nutritiva, diaria, suficiente y de calidad con alimentos inocuos, saludables, accesibles, asequibles y culturalmente aceptables que le permitan gozar del más alto nivel de desarrollo humano posible y la protejan contra el hambre, la malnutrición y la desnutrición."
+    },
+    {
+      "id": "009.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado C › párrafo 3",
+      "texto": "La lactancia materna forma parte integral del derecho a la alimentación y a la nutrición."
+    },
+    {
+      "id": "009.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado C › párrafo 4",
+      "texto": "Constituye un derecho de la niñez al ser un medio idóneo que le asegura una adecuada nutrición, al tiempo que favorece su crecimiento y desarrollo físico, cognitivo y emocional, previniendo enfermedades; además, permite a las madres ejercer su derecho a la salud y a decidir sobre su cuerpo."
+    },
+    {
+      "id": "009.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado C › párrafo 5",
+      "texto": "Reforma publicada en la GOCDMX el 24 de marzo de 2023 Las autoridades fomentarán de forma progresiva y armónica el ejercicio de este derecho."
+    },
+    {
+      "id": "009.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado C › párrafo 6",
+      "texto": "Reforma publicada en la GOCDMX el 24 de marzo de 2023"
+    },
+    {
+      "id": "009.C.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado C › 2.",
+      "texto": "2. Las autoridades, de manera progresiva, fomentarán la disponibilidad, distribución, abastecimiento equitativo y oportuno de alimentos nutritivos y de calidad; promoverán la seguridad y sustentabilidad alimentarias; y garantizarán el acceso a este derecho dando prioridad a las personas en pobreza y a las demás que determine la ley."
+    },
+    {
+      "id": "009.D",
+      "tipo": "apartado",
+      "marca": "D",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado D",
+      "texto": "D. Derecho a la salud INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "009.D.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado D › 1.",
+      "texto": "1. Toda persona tiene derecho al más alto nivel posible de salud física y mental, con las mejores prácticas médicas, lo más avanzado del conocimiento científico y políticas activas de prevención, así como al acceso a servicios de salud de calidad. A nadie le será negada la atención médica de urgencia."
+    },
+    {
+      "id": "009.D.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado D › 2.",
+      "texto": "2. Las personas que residen en la Ciudad tienen derecho al acceso a un sistema de salud público local que tenga por objeto mejorar la calidad de la vida humana y su duración, la reducción de los riesgos a la salud, la morbilidad y la mortalidad. Asimismo, deberá incluir medidas de promoción de la salud, prevención, atención y rehabilitación de las enfermedades y discapacidades mediante la prestación de servicios médico-sanitarios universales, equitativos, gratuitos, seguros, de calidad y al alcance de todas las personas. Aquéllas con discapacidad tienen derecho a la rehabilitación integral de calidad."
+    },
+    {
+      "id": "009.D.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado D › 3.",
+      "texto": "3. Las autoridades de la Ciudad de México asegurarán progresivamente, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y las leyes generales aplicables:"
+    },
+    {
+      "id": "009.D.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado D › inciso a)",
+      "texto": "a) La cobertura universal de los servicios e infraestructura médica y hospitalaria, de manera prioritaria en las zonas que enfrentan mayores rezagos y el abasto gratuito y oportuno de medicamentos esenciales;"
+    },
+    {
+      "id": "009.D.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado D › inciso b)",
+      "texto": "b) Las condiciones necesarias para asegurar que en las instituciones de salud pública local existan los servicios de salud, asistencia social y atención médica, la disponibilidad, accesibilidad, seguridad e higiene en las instalaciones de los centros de salud y hospitales, así como la suficiencia de personal y profesionales de la salud capacitados, equipamiento, insumos y medicamentos;"
+    },
+    {
+      "id": "009.D.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado D › inciso c)",
+      "texto": "c) La existencia de entornos salubres y seguros, espacios públicos, actividades sociales culturales y deportivas que mejoren la calidad de vida y la convivencia, propicien modos de vida saludables, desincentiven las violencias, las adicciones y las prácticas sedentarias;"
+    },
+    {
+      "id": "009.D.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado D › inciso d)",
+      "texto": "d) La prevención, el tratamiento y el control de las enfermedades transmisibles, no transmisibles, crónicas e infecciosas;"
+    },
+    {
+      "id": "009.D.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado D › inciso e)",
+      "texto": "e) El desarrollo de investigación científica para rescate y promoción de la medicina tradicional indígena; y INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "009.D.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado D › inciso f)",
+      "texto": "f) La prestación de los servicios locales de salud pública es competencia del Gobierno de la Ciudad y en lo que corresponda a las alcaldías."
+    },
+    {
+      "id": "009.D.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado D › 4.",
+      "texto": "4. Las personas usuarias de los servicios de salud tienen derecho a un trato digno, con calidad y calidez, a una atención médica oportuna y eficaz, a que se realicen los estudios y diagnósticos para determinar las intervenciones estrictamente necesarias y debidamente justificadas, a gozar de los beneficios del progreso científico y de sus aplicaciones, a recibir información sobre su condición, a contar con alternativas de tratamiento, así como a expresar su consentimiento para la realización de procedimientos médicos y a solicitar una segunda opinión."
+    },
+    {
+      "id": "009.D.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado D › 5.",
+      "texto": "5. Los servicios y atenciones de salud públicos y privados respetarán los derechos sexuales y los reproductivos de todas las personas y brindarán atención sin discriminación alguna, en los términos de la legislación aplicable."
+    },
+    {
+      "id": "009.D.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado D › 6.",
+      "texto": "6. Se respetará en todo momento el derecho fundamental a la autodeterminación personal, la autonomía, así como las decisiones libres y voluntarias del paciente a someterse a tratamientos o procedimientos médicos que pretendan prolongar de manera innecesaria su vida, protegiendo en todo momento su dignidad. Para ello, se estará a lo que disponga esta Constitución y las leyes."
+    },
+    {
+      "id": "009.D.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado D › 7.",
+      "texto": "7. A toda persona se le permitirá el uso médico y terapéutico de la cannabis sativa, índica, americana o marihuana y sus derivados, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y la legislación aplicable."
+    },
+    {
+      "id": "009.E",
+      "tipo": "apartado",
+      "marca": "E",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado E",
+      "texto": "E. Derecho a la vivienda"
+    },
+    {
+      "id": "009.E.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado E › 1.",
+      "texto": "1. Toda persona tiene derecho a una vivienda adecuada para sí y su familia, adaptada a sus necesidades."
+    },
+    {
+      "id": "009.E.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado E › 2.",
+      "texto": "2. Las autoridades tomarán medidas para que las viviendas reúnan condiciones de accesibilidad, asequibilidad, habitabilidad, adaptación cultural, tamaño suficiente, diseño y ubicación seguros que cuenten con infraestructura y servicios básicos de agua potable, saneamiento, energía y servicios de protección civil."
+    },
+    {
+      "id": "009.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado E › párrafo 7",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "009.E.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado E › 3.",
+      "texto": "3. Se impulsarán planes accesibles de financiamiento, medidas para asegurar gastos soportables y la seguridad jurídica en la tenencia de la vivienda."
+    },
+    {
+      "id": "009.E.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado E › 4.",
+      "texto": "4. Se adoptarán medidas, de conformidad con la ley, contra el desalojo arbitrario e ilegal de los ocupantes de la vivienda."
+    },
+    {
+      "id": "009.F",
+      "tipo": "apartado",
+      "marca": "F",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado F",
+      "texto": "F. Derecho al agua y a su saneamiento"
+    },
+    {
+      "id": "009.F.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado F › 1.",
+      "texto": "1. Toda persona tiene derecho al acceso, a la disposición y saneamiento de agua potable suficiente, salubre, segura, asequible, accesible y de calidad para el uso personal y doméstico de una forma adecuada a la dignidad, la vida y la salud; así como a solicitar, recibir y difundir información sobre las cuestiones del agua."
+    },
+    {
+      "id": "009.F.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado F › 2.",
+      "texto": "2. La Ciudad garantizará la cobertura universal del agua, su acceso diario, continuo, equitativo y sustentable. Se incentivará la captación del agua pluvial."
+    },
+    {
+      "id": "009.F.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado F › 3.",
+      "texto": "3. El agua es un bien público, social y cultural. Es inalienable, inembargable, irrenunciable y esencial para la vida. La gestión del agua será pública y sin fines de lucro."
+    }
+  ]
+}

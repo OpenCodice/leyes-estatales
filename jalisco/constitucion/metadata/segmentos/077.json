@@ -1,0 +1,126 @@
+{
+  "clave": "077",
+  "etiqueta": "Artículo 77º",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "077.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77º › párrafo 1",
+      "texto": "Los ayuntamientos tendrán facultades para aprobar, de acuerdo con las leyes en materia municipal que expida el Congreso del Estado:"
+    },
+    {
+      "id": "077.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77º › Fracción I",
+      "texto": "I. Los bandos de policía y gobierno;"
+    },
+    {
+      "id": "077.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77º › Fracción II",
+      "texto": "II. Los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, con el objeto de:"
+    },
+    {
+      "id": "077.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 77º › Fracción II › inciso a)",
+      "texto": "a) Organizar la administración pública municipal;"
+    },
+    {
+      "id": "077.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 77º › Fracción II › inciso b)",
+      "texto": "b) Regular las materias, procedimientos, funciones y servicios públicos de su competencia; y"
+    },
+    {
+      "id": "077.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 77º › Fracción II › inciso c)",
+      "texto": "c) Asegurar la participación ciudadana y vecinal;"
+    },
+    {
+      "id": "077.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77º › Fracción III",
+      "texto": "III. Los reglamentos y disposiciones administrativas que fueren necesarios para cumplir los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos; y"
+    },
+    {
+      "id": "077.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77º › Fracción IV",
+      "texto": "IV. Los reglamentos que normen la creación y supresión de los empleos públicos municipales y las condiciones y relaciones de trabajo entre el municipio y sus servidores públicos.\n\nLas leyes en materia municipal que expida el Congreso del Estado únicamente deberán establecer:"
+    },
+    {
+      "id": "077.I~2",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77º › Fracción I",
+      "texto": "I. Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;"
+    },
+    {
+      "id": "077.II~2",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77º › Fracción II",
+      "texto": "II. Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento;"
+    },
+    {
+      "id": "077.III~2",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77º › Fracción III",
+      "texto": "III. Las normas de aplicación general para celebrar los convenios a que se refieren tanto las fracciones III y IV del artículo 115, como el segundo párrafo de la fracción VII del artículo 116, de la Constitución Política de los Estados Unidos Mexicanos;"
+    },
+    {
+      "id": "077.IV~2",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77º › Fracción IV",
+      "texto": "IV. El procedimiento y condiciones para que el gobierno estatal asuma una función o servicio municipal, cuando al no existir el convenio correspondiente, la legislatura estatal considere que el municipio de que se trate esté imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes; y"
+    },
+    {
+      "id": "077.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77º › Fracción V",
+      "texto": "V. Las normas que establezcan los procedimientos mediante las cuales se resolverán los conflictos que se presenten entre los municipios y el gobierno del estado, o entre aquellos, con motivo de los actos derivados de los incisos II y IV anteriores."
+    }
+  ]
+}

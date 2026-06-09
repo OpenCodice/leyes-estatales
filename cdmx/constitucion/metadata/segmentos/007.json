@@ -1,0 +1,279 @@
+{
+  "clave": "007",
+  "etiqueta": "Artículo 7",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 1",
+      "texto": "Ciudad democrática"
+    },
+    {
+      "id": "007.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado A",
+      "texto": "A. Derecho a la buena administración pública"
+    },
+    {
+      "id": "007.A.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado A › 1.",
+      "texto": "1. Toda persona tiene derecho a una buena administración pública, de carácter receptivo, eficaz y eficiente, así como a recibir los servicios públicos de conformidad con los principios de generalidad, uniformidad, regularidad, continuidad, calidad y uso de las tecnologías de la información y la comunicación."
+    },
+    {
+      "id": "007.A.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado A › 2.",
+      "texto": "2. Las autoridades administrativas deberán garantizar la audiencia previa de los gobernados frente a toda resolución que constituya un acto privativo de autoridad. En dichos supuestos, deberán resolver de manera imparcial y equitativa, dentro de un plazo razonable y de conformidad con las formalidades esenciales del procedimiento."
+    },
+    {
+      "id": "007.A.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado A › 3.",
+      "texto": "3. En los supuestos a que se refiere el numeral anterior, se garantizará el acceso al expediente correspondiente, con respeto a la confidencialidad, reserva y protección de datos personales."
+    },
+    {
+      "id": "007.A.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado A › 4.",
+      "texto": "4. La ley determinará los casos en los que deba emitirse una carta de derechos de los usuarios y obligaciones de los prestadores de servicios públicos. Las autoridades conformarán un sistema de índices de calidad de los servicios públicos basado en criterios técnicos y acorde a los principios señalados en el primer numeral de este apartado."
+    },
+    {
+      "id": "007.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado A › párrafo 2",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "007.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado B",
+      "texto": "B. Libertad de reunión y asociación Todas las personas tienen derecho a reunirse pacíficamente y asociarse libremente para promover, ejercer y proteger intereses u objetos lícitos, observándose las previsiones contenidas en la Constitución Política de los Estados Unidos Mexicanos y en esta Constitución."
+    },
+    {
+      "id": "007.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado C",
+      "texto": "C. Libertad de expresión"
+    },
+    {
+      "id": "007.C.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado C › 1.",
+      "texto": "1. Toda persona tiene derecho a la libertad de expresión por cualquier medio. Su ejercicio no podrá ser objeto de previa censura y sólo podrá ser limitado en los casos que señala la Constitución Política de los Estados Unidos Mexicanos. El derecho de réplica será ejercido en los términos dispuestos por la ley."
+    },
+    {
+      "id": "007.C.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado C › 2.",
+      "texto": "2. Las personas profesionales de la información tienen derecho a desempeñarse de manera libre y a mantener el secreto profesional, que salvaguarda a periodistas y colaboradores periodísticos en cumplimiento de sus funciones, así como a no ser obligados a revelar sus fuentes de información. En su desempeño se respetará, como eje fundamental, la cláusula de conciencia para salvaguarda de su dignidad personal y profesional e independencia."
+    },
+    {
+      "id": "007.C.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado C › 3.",
+      "texto": "3. Se garantizará la seguridad de las personas que ejerzan el periodismo; así como las condiciones para que quienes sean perseguidos arbitrariamente en el ejercicio de dicha actividad profesional puedan vivir y trabajar en la Ciudad."
+    },
+    {
+      "id": "007.C.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado C › 4.",
+      "texto": "4. La protesta social es un derecho individual y colectivo, que se ejercerá de manera pacífica sin afectar derechos de terceros. Las autoridades adoptarán protocolos de actuación en manifestaciones conforme a parámetros internacionales dirigidos a la protección de las personas en el ejercicio de este derecho, sin vulnerar otros derechos. Queda prohibida la criminalización de la protesta social y la manifestación pública."
+    },
+    {
+      "id": "007.D",
+      "tipo": "apartado",
+      "marca": "D",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado D",
+      "texto": "D. Derecho a la información"
+    },
+    {
+      "id": "007.D.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado D › 1.",
+      "texto": "1. Toda persona tiene derecho al libre acceso a información plural, suficiente y oportuna, así como a producirla, buscarla, recibirla y difundirla por cualquier medio."
+    },
+    {
+      "id": "007.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado D › párrafo 3",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "007.D.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado D › 2.",
+      "texto": "2. Se garantiza el acceso a la información pública que posea, transforme o genere cualquier instancia pública, o privada que reciba o ejerza recursos públicos o realice actos de autoridad o de interés público. Esta información deberá estar disponible en formatos de datos abiertos, de diseño universal y accesibles."
+    },
+    {
+      "id": "007.D.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado D › 3.",
+      "texto": "3. En la interpretación de este derecho prevalecerá el principio de máxima publicidad. Los sujetos obligados deberán documentar los actos del ejercicio de sus funciones. La información sólo podrá reservarse temporalmente por razones de interés público para los casos y en los términos que fijen la Constitución Política de los Estados Unidos Mexicanos y las leyes."
+    },
+    {
+      "id": "007.D.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado D › 4.",
+      "texto": "4. No podrá clasificarse como reservada aquella información que esté relacionada con violaciones graves a derechos humanos o delitos de lesa humanidad."
+    },
+    {
+      "id": "007.E",
+      "tipo": "apartado",
+      "marca": "E",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado E",
+      "texto": "E. Derecho a la privacidad y a la protección de los datos personales"
+    },
+    {
+      "id": "007.E.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado E › 1.",
+      "texto": "1. Toda persona tiene derecho a que se respete y proteja su privacidad individual y familiar, a la inviolabilidad del domicilio y de sus comunicaciones."
+    },
+    {
+      "id": "007.E.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado E › 2.",
+      "texto": "2. Se protegerá la información que se refiera a la privacidad y los datos personales, en los términos y con las excepciones que establezcan la Constitución Política de los Estados Unidos Mexicanos y las leyes."
+    },
+    {
+      "id": "007.E.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado E › 3.",
+      "texto": "3. Se prohíbe y será sancionada cualquier injerencia arbitraria, oculta o injustificada en la vida de las personas."
+    },
+    {
+      "id": "007.E.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado E › 4.",
+      "texto": "4. Toda persona tiene derecho al acceso, rectificación, cancelación y portabilidad de sus datos personales, así como a manifestar su oposición respecto del tratamiento de estos, en los términos que disponga la ley. Su manejo se regirá por los principios de veracidad, licitud, consentimiento, información, calidad, finalidad, lealtad, proporcionalidad y responsabilidad."
+    },
+    {
+      "id": "007.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado E › párrafo 4",
+      "texto": "Reforma publicada en la GOCDMX el 02 de Junio de 2022"
+    },
+    {
+      "id": "007.F",
+      "tipo": "apartado",
+      "marca": "F",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado F",
+      "texto": "F. Derecho a un gobierno democrático y a la participación política paritaria INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "007.F.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado F › 1.",
+      "texto": "1. Toda persona tiene derecho a vivir en una sociedad libre y democrática, fundada en el constante mejoramiento económico, social y cultural de las personas."
+    },
+    {
+      "id": "007.F.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado F › 2.",
+      "texto": "2. Las y los ciudadanos que habiten en la Ciudad de México tienen derecho a ejercer el sufragio efectivo, universal, libre, directo y secreto."
+    },
+    {
+      "id": "007.F.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado F › 3.",
+      "texto": "3. Las personas originarias de la Ciudad que residen fuera del país tienen derecho a votar y ser votadas en elecciones locales, de conformidad con lo previsto en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes."
+    },
+    {
+      "id": "007.F.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado F › 4.",
+      "texto": "4. Toda persona podrá acceder a cargos de la función pública, en condiciones de igualdad y paridad, libre de todo tipo de violencia y discriminación, de conformidad con los requisitos de ingreso establecidos por la ley."
+    }
+  ]
+}

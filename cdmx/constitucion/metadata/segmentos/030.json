@@ -1,0 +1,153 @@
+{
+  "clave": "030",
+  "etiqueta": "Artículo 30",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "030.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 1",
+      "texto": "De la iniciativa y formación de las leyes"
+    },
+    {
+      "id": "030.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › 1.",
+      "texto": "1. La facultad de iniciar leyes o decretos compete a:"
+    },
+    {
+      "id": "030.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › inciso a)",
+      "texto": "a) La o el Jefe de Gobierno de la Ciudad de México;"
+    },
+    {
+      "id": "030.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › inciso b)",
+      "texto": "b) Las diputadas y diputados al Congreso de la Ciudad de México;"
+    },
+    {
+      "id": "030.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › inciso c)",
+      "texto": "c) Las alcaldías;"
+    },
+    {
+      "id": "030.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › inciso d)",
+      "texto": "d) El Tribunal Superior de Justicia de la Ciudad de México, en las materias de su competencia;"
+    },
+    {
+      "id": "030.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › inciso e)",
+      "texto": "e) El Tribunal de Justicia Administrativa de la Ciudad de México, en las materias de su competencia;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "030.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › inciso f)",
+      "texto": "f) Las y los ciudadanos que reúnan al menos el cero punto trece por ciento de la lista nominal de electores vigente en los términos previstos por esta Constitución y las leyes. Para que la iniciativa ciudadana sea considerada preferente deberá cumplir con lo establecido en el numeral 4 del apartado B del artículo 25 de esta Constitución, y"
+    },
+    {
+      "id": "030.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › inciso g)",
+      "texto": "g) Los organismos autónomos, en las materias de su competencia."
+    },
+    {
+      "id": "030.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › 2.",
+      "texto": "2. Las leyes establecerán los requisitos para la presentación de estas iniciativas."
+    },
+    {
+      "id": "030.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › 3.",
+      "texto": "3. El día de la apertura del periodo ordinario de sesiones la o el Jefe de Gobierno podrá presentar una iniciativa para trámite preferente, en los términos previstos por esta Constitución. Las y los ciudadanos podrán hacerlo cumpliendo con lo establecido en el numeral 4 del apartado B del artículo 25 de esta Constitución. Los dictámenes de éstas deberán ser discutidos y votados por el pleno en un plazo máximo de cuarenta y cinco días naturales, de lo contrario las iniciativas serán discutidas y votadas en sus términos en la siguiente sesión del pleno. Las iniciativas de reforma a la Constitución no podrán tener carácter preferente."
+    },
+    {
+      "id": "030.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › 4.",
+      "texto": "4. Cada decreto de ley aprobado por el Congreso de la Ciudad de México será remitido a la o el Jefe de Gobierno para su consideración; si ésta o éste tuviere observaciones, las remitirá durante los treinta días naturales a partir de su recepción al Congreso para su análisis; vencido este plazo el Ejecutivo dispondrá de hasta diez días naturales para promulgar el decreto. Transcurrido este segundo plazo, el proyecto será ley, se considerará promulgado y la mesa directiva del Congreso contará con un plazo máximo de diez días naturales para ordenar la publicación del decreto."
+    },
+    {
+      "id": "030.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › 5.",
+      "texto": "5. Tras el análisis de las observaciones del Ejecutivo, si el Congreso insistiese en el mismo decreto con la confirmación de dos terceras partes de los presentes, el proyecto será ley. El Congreso lo remitirá al Ejecutivo, quien contará con quince días naturales para su promulgación y publicación. Si no lo hiciere en este término se considerará promulgado y la mesa directiva del Congreso ordenará la publicación del decreto en los siguientes diez días naturales. Quedan exceptuadas las reformas constitucionales, las normas aprobadas mediante referéndum, las leyes constitucionales, las normas de funcionamiento del Congreso, los ingresos, egresos y los asuntos o designaciones para los que esta Constitución disponga un procedimiento distinto, así como las decisiones del Congreso al resolver procedimientos de juicio político."
+    },
+    {
+      "id": "030.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › 6.",
+      "texto": "6. Las leyes y decretos deberán aprobarse por la mayoría de las y los diputados, con excepción de las leyes constitucionales, que deberán ser aprobadas por el voto de las dos terceras partes de las y los integrantes del Congreso de la Ciudad. El procedimiento para su creación y reforma, será establecido por la ley."
+    },
+    {
+      "id": "030.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 2",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "030.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › 7.",
+      "texto": "7. El sistema al que se refiere el inciso p) del apartado D del artículo 29 de esta Constitución realizará la evaluación cuantitativa y cualitativa de las leyes."
+    }
+  ]
+}

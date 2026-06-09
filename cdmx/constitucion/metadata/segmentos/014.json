@@ -1,0 +1,45 @@
+{
+  "clave": "014",
+  "etiqueta": "Artículo 14",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "014.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › párrafo 1",
+      "texto": "Ciudad segura"
+    },
+    {
+      "id": "014.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado A",
+      "texto": "A. Derecho a la seguridad urbana y a la protección civil Toda persona tiene derecho a vivir en un entorno seguro, a la protección civil, a la atención en caso de que ocurran fenómenos de carácter natural o antropogénico, así como en caso de accidentes por fallas en la infraestructura de la ciudad. Las autoridades adoptarán las medidas necesarias para proteger a las personas y comunidades frente a riesgos y amenazas derivados de esos fenómenos."
+    },
+    {
+      "id": "014.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado B",
+      "texto": "B. Derecho a la seguridad ciudadana y a la prevención de la violencia y del delito Toda persona tiene derecho a la convivencia pacífica y solidaria, a la seguridad ciudadana y a vivir libre de amenazas generadas por el ejercicio de las violencias y los delitos. Las autoridades elaborarán políticas públicas de prevención y no violencia, así como de una INSTITUTO DE INVESTIGACIONES LEGISLATIVAS cultura de paz, para brindar protección y seguridad a las personas frente a riesgos y amenazas."
+    },
+    {
+      "id": "014.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado B › párrafo 2",
+      "texto": "DESARROLLO SUSTENTABLE DE LA CIUDAD CAPÍTULO ÚNICO DESARROLLO Y PLANEACIÓN DEMOCRÁTICA"
+    }
+  ]
+}

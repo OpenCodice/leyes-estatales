@@ -1,0 +1,36 @@
+{
+  "clave": "055",
+  "etiqueta": "Artículo 55º",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "055.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 55º › párrafo 1",
+      "texto": "En los casos de infracciones administrativas, los responsables podrán ser sancionados con multa o arresto, que no deberá exceder de treinta y seis horas; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por arresto hasta por treinta y seis horas. La ley y los reglamentos regularán todo lo relativo a la sanción de las faltas a que alude este artículo."
+    },
+    {
+      "id": "055.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 55º › párrafo 2",
+      "texto": "En tratándose de personas de escasos recursos, dependientes económicos, jornaleros u obreros, en ningún caso podrán ser castigados con multa mayor del importe de su jornal o salario de un día. Tratándose de trabajadores no asalariados, la multa no excederá de un día de su ingreso."
+    },
+    {
+      "id": "055.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 55º › párrafo 3",
+      "texto": "DEL PODER JUDICIAL"
+    }
+  ]
+}

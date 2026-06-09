@@ -1,0 +1,36 @@
+{
+  "clave": "108",
+  "etiqueta": "Artículo 108º",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "108.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108º › párrafo 1",
+      "texto": "Todos los servidores públicos del Estado y de los municipios, antes de asumir el desempeño de sus cargos, rendirán protesta formal de cumplir y vigilar el cumplimiento de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y todas las leyes que de ellas emanen."
+    },
+    {
+      "id": "108.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108º › párrafo 2",
+      "texto": "Corresponde al Congreso del Estado tomar protesta a los servidores públicos que con arreglo a esta Constitución deban ser nombrados o ratificados por éste, en el recinto oficial del Poder Legislativo."
+    },
+    {
+      "id": "108.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108º › párrafo 3",
+      "texto": "El Gobernador al tomar posesión de su cargo rendirá protesta ante el Congreso del Estado en el Recinto oficial del Poder Legislativo."
+    }
+  ]
+}

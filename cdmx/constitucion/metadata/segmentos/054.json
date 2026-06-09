@@ -1,0 +1,234 @@
+{
+  "clave": "054",
+  "etiqueta": "Artículo 54",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "054.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › párrafo 1",
+      "texto": "Del Cabildo de la Ciudad de México"
+    },
+    {
+      "id": "054.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › 1.",
+      "texto": "1. El consejo de alcaldes y alcaldesas se denominará Cabildo y funcionará como un órgano de planeación, coordinación, consulta, acuerdo y decisión del Gobierno de la Ciudad de México, y las personas titulares de las alcaldías. Sus decisiones serán por consenso y garantizará el cumplimiento de sus acuerdos."
+    },
+    {
+      "id": "054.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › 2.",
+      "texto": "2. El Cabildo será integrado por:"
+    },
+    {
+      "id": "054.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › Fracción I",
+      "texto": "I. La persona titular de la Jefatura de Gobierno, quien lo presidirá; y"
+    },
+    {
+      "id": "054.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › Fracción II",
+      "texto": "II. Las personas titulares de las alcaldías.\n\nEl Cabildo sesionará de manera ordinaria bimestralmente, en los términos que establezca su reglamento interior."
+    },
+    {
+      "id": "054.II.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 54 › Fracción II › 3.",
+      "texto": "3. El Cabildo de la Ciudad de México contará con una secretaría técnica cuyo titular será nombrado por consenso de los alcaldes y alcaldesas, a propuesta del Jefe de Gobierno y durará en su encargo por el tiempo que el Cabildo lo determine."
+    },
+    {
+      "id": "054.II.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 54 › Fracción II › 4.",
+      "texto": "4. En ningún caso se aceptará que las personas integrantes del Cabildo designen suplentes. Los cargos son honoríficos."
+    },
+    {
+      "id": "054.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › párrafo 2",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "054.II.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 54 › Fracción II › 5.",
+      "texto": "5. Podrán asistir a las sesiones del Cabildo, por invitación de cualquiera de sus integrantes, las personas titulares de las dependencias, unidades administrativas, órganos desconcentrados y entidades de la administración pública de la Ciudad de México, así como aquellas relacionadas con las materias previstas para dichas sesiones."
+    },
+    {
+      "id": "054.II.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 54 › Fracción II › 6.",
+      "texto": "6. El Cabildo de la Ciudad de México tiene las siguientes funciones:"
+    },
+    {
+      "id": "054.I~2",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › Fracción I",
+      "texto": "I. I I. Establecer acuerdos generales sobre los asuntos de la administración pública de la Ciudad y de las demarcaciones territoriales que se sometan a su consideración;"
+    },
+    {
+      "id": "054.II~2",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › Fracción II",
+      "texto": "II. Opinar sobre los proyectos de iniciativas de ley y de cualquier otra norma que promueva la persona titular de la Jefatura de Gobierno de la Ciudad de México y que tengan un impacto en el ámbito específico de las demarcaciones territoriales;"
+    },
+    {
+      "id": "054.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › Fracción III",
+      "texto": "III. Acordar políticas, programas y acciones para el desarrollo de infraestructura, servicios, y otras actividades de interés para la ciudad;"
+    },
+    {
+      "id": "054.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › Fracción IV",
+      "texto": "IV. Acordar inversiones respecto a las obras y acciones que realice el Gobierno de la Ciudad de México en las demarcaciones territoriales;"
+    },
+    {
+      "id": "054.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › Fracción V",
+      "texto": "V. Opinar y proponer los proyectos de obra de los fondos metropolitanos;"
+    },
+    {
+      "id": "054.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › Fracción VI",
+      "texto": "VI. Establecer la política hídrica de la Ciudad;"
+    },
+    {
+      "id": "054.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › Fracción VII",
+      "texto": "VII. Adoptar acuerdos en materia de seguridad ciudadana y prevención social del delito;"
+    },
+    {
+      "id": "054.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › Fracción VIII",
+      "texto": "VIII. Fomentar el intercambio de experiencias en cuanto a la administración de las alcaldías con la finalidad de hacerla más eficiente;"
+    },
+    {
+      "id": "054.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › Fracción IX",
+      "texto": "IX. Fungir como una instancia de deliberación y acuerdo sobre políticas de ingreso y gasto público, así como componentes y destino de recursos del Fondo de Capitalidad de la Ciudad;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "054.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › Fracción X",
+      "texto": "X. Establecer esquemas de coordinación entre alcaldías, así como entre éstas y la administración pública, lo anterior a efecto de ejecutar, en el ámbito de sus respectivas atribuciones, acciones de gobierno;"
+    },
+    {
+      "id": "054.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › Fracción XI",
+      "texto": "XI. Proponer alternativas de conciliación para solucionar las controversias que en el ejercicio de la función pública se suscitaren entre las alcaldías, y entre éstas y la administración pública centralizada;"
+    },
+    {
+      "id": "054.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › Fracción XII",
+      "texto": "XII. Emitir su reglamento interno; y"
+    },
+    {
+      "id": "054.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › Fracción XIII",
+      "texto": "XIII. Acordar las acciones complementarias para su adecuado funcionamiento, así como para el cumplimiento de los acuerdos que adopte."
+    },
+    {
+      "id": "054.XIII.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "",
+      "fraccion": "XIII",
+      "ruta": "Artículo 54 › Fracción XIII › 7.",
+      "texto": "7. El Cabildo celebrará sesiones ordinarias y extraordinarias. La organización y desarrollo de las sesiones, se determinarán en su reglamento."
+    },
+    {
+      "id": "054.XIII.8",
+      "tipo": "numeral",
+      "marca": "8",
+      "apartado": "",
+      "fraccion": "XIII",
+      "ruta": "Artículo 54 › Fracción XIII › 8.",
+      "texto": "8. En las sesiones del Cabildo existirá una silla ciudadana que será ocupada por las o los ciudadanos que así lo soliciten. La ley de la materia establecerá las bases para el acceso en forma transparente, representativa y democrática. Las personas ocupantes contarán sólo con voz."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "clave": "022",
+  "etiqueta": "Artículo 22",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "022.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › párrafo 1",
+      "texto": "De las y los originarios, habitantes, vecinos y transeúntes En la Ciudad de México se entiende por:"
+    },
+    {
+      "id": "022.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › inciso a)",
+      "texto": "a) Originarias, a las personas nacidas en su territorio, así como a sus hijos e hijas;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "022.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › inciso b)",
+      "texto": "b) Habitantes, a las personas que residan en la Ciudad;"
+    },
+    {
+      "id": "022.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › inciso c)",
+      "texto": "c) Vecinas, a las personas que residen por más de seis meses. Esta calidad no se perderá en los casos que la ley establezca; y"
+    },
+    {
+      "id": "022.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › inciso d)",
+      "texto": "d) Transeúntes, a las personas que no cumplan con las características anteriores y transitan por su territorio."
+    }
+  ]
+}

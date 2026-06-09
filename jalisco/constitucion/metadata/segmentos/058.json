@@ -1,0 +1,36 @@
+{
+  "clave": "058",
+  "etiqueta": "Artículo 58º",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "058.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › párrafo 1",
+      "texto": "El Supremo Tribunal de Justicia del Estado se integra por treinta y cuatro magistrados propietarios y funciona en pleno y en salas, de conformidad con lo que establezca la ley reglamentaria."
+    },
+    {
+      "id": "058.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › párrafo 2",
+      "texto": "Las sesiones del pleno serán públicas y, por excepción, reservadas, en los casos que así lo determine la ley o lo exijan la moral o el interés público."
+    },
+    {
+      "id": "058.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › párrafo 3",
+      "texto": "El pleno del Supremo Tribunal de Justicia determinará los magistrados que integrarán cada sala, las cuales serán colegiadas, así como la competencia de las mismas."
+    }
+  ]
+}

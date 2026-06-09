@@ -1,0 +1,171 @@
+{
+  "clave": "117-bis",
+  "etiqueta": "Artículo 117º Bis",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "117-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117º Bis › párrafo 1",
+      "texto": "Para crear una nueva Constitución, será necesaria la conformación de un Congreso Constituyente que se sujetará a las siguientes bases:"
+    },
+    {
+      "id": "117-bis.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117º Bis › Fracción I",
+      "texto": "I. Podrán solicitar la convocatoria para el Congreso Constituyente:"
+    },
+    {
+      "id": "117-bis.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 117º Bis › Fracción I › inciso a)",
+      "texto": "a) El Gobernador del Estado, más el 5% del listado nominal en las dos terceras partes de los municipios de la entidad;"
+    },
+    {
+      "id": "117-bis.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 117º Bis › Fracción I › inciso b)",
+      "texto": "b) Los Ayuntamientos que integren al menos las dos terceras partes de la totalidad de la entidad, más el 5% del listado nominal;"
+    },
+    {
+      "id": "117-bis.I.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 117º Bis › Fracción I › inciso c)",
+      "texto": "c) Los ciudadanos, siempre que representen el ocho por ciento de la lista nominal de electores, distribuidos en por lo menos ochenta y cuatro municipios."
+    },
+    {
+      "id": "117-bis.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117º Bis › Fracción II",
+      "texto": "II. Al Congreso del Estado le corresponderá aprobar la convocatoria, mediante la votación de dos terceras partes de los integrantes de la legislatura.\n\nLa convocatoria deberá establecer las bases, requisitos y métodos de elección para el Congreso Constituyente."
+    },
+    {
+      "id": "117-bis.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117º Bis › Fracción III",
+      "texto": "III. El Congreso Constituyente deberá considerar la más amplia participación ciudadana, garantizando la inclusión de los pueblos originarios, jaliscienses residentes en el extranjero, libre de toda discriminación y respetando en todo momento la perspectiva de género."
+    },
+    {
+      "id": "117-bis.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117º Bis › Fracción IV",
+      "texto": "IV. El Congreso Constituyente se integrará por:"
+    },
+    {
+      "id": "117-bis.IV.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 117º Bis › Fracción IV › inciso a)",
+      "texto": "a) Diez representantes designados por el Congreso del Estado de Jalisco, de la legislatura en turno;"
+    },
+    {
+      "id": "117-bis.IV.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 117º Bis › Fracción IV › inciso b)",
+      "texto": "b) Diez representantes designados por el Poder Ejecutivo."
+    },
+    {
+      "id": "117-bis.IV.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 117º Bis › Fracción IV › inciso c)",
+      "texto": "c) Diez representantes designados por el Poder Judicial;"
+    },
+    {
+      "id": "117-bis.IV.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 117º Bis › Fracción IV › inciso d)",
+      "texto": "d) Cuatro representantes de los pueblos originarios del Estado de Jalisco;"
+    },
+    {
+      "id": "117-bis.IV.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 117º Bis › Fracción IV › inciso e)",
+      "texto": "e) Cuatro representantes de la comunidad jalisciense radicada en el extranjero;"
+    },
+    {
+      "id": "117-bis.IV.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 117º Bis › Fracción IV › inciso f)",
+      "texto": "f) Cuatro representantes por cada uno de los distritos electorales uninominales en el Estado de Jalisco, elegidos bajo el principio de mayoría relativa y veinte representantes bajo el principio de representación proporcional;\n\natendiendo el principio de paridad de género.\n\nLos representantes electos en términos de los incisos e) y f), deberán cubrir los mismos requisitos que la presente Constitución establece para ser diputado del Congreso estatal.\n\nEl cargo de diputado del Congreso Constituyente será honorífico."
+    },
+    {
+      "id": "117-bis.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117º Bis › Fracción V",
+      "texto": "V. La elección de los representantes de cada uno de los distritos electorales uninominales, será organizada por la autoridad electoral, siendo aplicable la normativa de la materia;"
+    },
+    {
+      "id": "117-bis.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117º Bis › Fracción VI",
+      "texto": "VI. El Congreso del Estado emitirá la normatividad reglamentaria para la elección, instauración, organización y funcionamiento del Congreso Constituyente, mediante consultas de parlamento abierto; en dicha normatividad deberá considerarse al menos mesas públicas de consulta social y ciudadana mediante formato previsto en dicha normatividad;"
+    },
+    {
+      "id": "117-bis.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117º Bis › Fracción VII",
+      "texto": "VII. A partir de su instauración, el Congreso Constituyente tendrá un plazo de hasta 12 meses para aprobar el dictamen de la nueva Constitución.\n\nEl Congreso Constituyente actuará conforme a los principios de soberanía, eficacia y transparencia que señalan los artículos 39, 40, 41 y 134 de la Constitución Política de los Estados Unidos Mexicanos.\n\nEl Congreso Constituyente, al término de sus sesiones, presentará el resultado de sus trabajos al Congreso del Estado, con su respectivo diario de los debates, para ser sometido a la aprobación de las dos terceras partes de los diputados que integren la Legislatura y, de aprobarse, se enviará a los ayuntamientos del Estado para su aprobación; si del cómputo efectuado por el Congreso resultare que la mayoría de los ayuntamientos lo aprueban, se realizará la declaratoria del nuevo texto constitucional y se remitirá al Poder Ejecutivo para su publicación.\n\nEl Congreso del Estado si lo juzga conveniente podrá hacer observaciones por una sola ocasión al dictamen de nueva Constitución remitido por el Congreso Constituyente, las cuales serán enviadas a éste para su nueva discusión, y que versará únicamente sobre las observaciones realizadas, sin poder alterarse en manera alguna los artículos no observados.\n\nEl Congreso Constituyente, una vez llevada a cabo la discusión de las observaciones remitidas enviará la resolución de las mismas al Congreso del Estado para ser sometido a la aprobación de las dos terceras partes de los diputados que integren la Legislatura y de aprobarse se enviará a los ayuntamientos del Estado para su aprobación; si del cómputo efectuado por el Congreso resultare que la mayoría de los ayuntamientos lo aprueban, se realizará la declaratoria del nuevo texto constitucional y se remitirá al Poder Ejecutivo para su publicación.\n\nSi transcurriere un mes después de que se compruebe que ha sido recibido el proyecto de que se trata, sin que los ayuntamientos remitieren al Congreso el resultado de la votación, se entenderá que aceptan el nuevo texto constitucional."
+    },
+    {
+      "id": "117-bis.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117º Bis › Fracción VIII",
+      "texto": "VIII. El Congreso Constituyente contará con un Consejo Técnico-Académico, que será un órgano de asesoría y de apoyo consultivo para los constituyentes, nombrado de conformidad a la normatividad reglamentaria del Constituyente."
+    }
+  ]
+}

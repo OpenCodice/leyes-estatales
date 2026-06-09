@@ -1,0 +1,153 @@
+{
+  "clave": "005",
+  "etiqueta": "Artículo 5º",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "005.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5º › párrafo 1",
+      "texto": "Las personas físicas o jurídicas, en los términos que señalen las leyes, tendrán la obligación de:"
+    },
+    {
+      "id": "005.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5º › Fracción I",
+      "texto": "I. Contribuir para los gastos públicos de la manera proporcional y equitativa que dispongan las leyes;"
+    },
+    {
+      "id": "005.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5º › Fracción II",
+      "texto": "II. Obedecer y respetar las instituciones, leyes y autoridades del Estado;"
+    },
+    {
+      "id": "005.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5º › Fracción III",
+      "texto": "III. Sujetarse a los fallos y sentencias de los tribunales; y"
+    },
+    {
+      "id": "005.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5º › Fracción IV",
+      "texto": "IV. Respetar y preservar el patrimonio cultural y natural del Estado.\n\nArt. 6º. Corresponde exclusivamente a la ciudadanía mexicana, participar en la vida política del Estado, en la forma y términos que señalen las leyes."
+    },
+    {
+      "id": "005.I~2",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5º › Fracción I",
+      "texto": "I. Son jaliscienses:"
+    },
+    {
+      "id": "005.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 5º › Fracción I › inciso a)",
+      "texto": "a) Los hombres y mujeres nacidos en el territorio del Estado; y"
+    },
+    {
+      "id": "005.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 5º › Fracción I › inciso b)",
+      "texto": "b) Las personas mexicanas por nacimiento o naturalización avecindados en el Estado y que no manifiesten su deseo de conservar su residencia anterior, en la forma que establezca la ley.\n\nLa vecindad no se pierde por ausencia debida al desempeño de cargos públicos, de elección popular, o en defensa de la patria y de sus instituciones."
+    },
+    {
+      "id": "005.II~2",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5º › Fracción II",
+      "texto": "II. Son prerrogativas de la ciudadanía jalisciense:"
+    },
+    {
+      "id": "005.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 5º › Fracción II › inciso a)",
+      "texto": "a) Votar en las elecciones populares;"
+    },
+    {
+      "id": "005.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 5º › Fracción II › inciso b)",
+      "texto": "b) Poder ser votada en condiciones de paridad de género para todos los cargos de elección popular, siempre que reúna los requisitos que determinen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y sus respectivas leyes reglamentarias y no estar comprendido en alguna de las causas de inelegibilidad establecidas por las mismas, así como solicitar su registro como candidata o candidato independiente para lo cual se requiere el apoyo de cuando menos el 1 por ciento de las y los ciudadanos inscritos en la lista nominal de electores de la demarcación territorial correspondiente, en las condiciones y términos que determine la ley;"
+    },
+    {
+      "id": "005.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 5º › Fracción II › inciso c)",
+      "texto": "c) Desempeñar preferentemente cualquier empleo del Estado, cuando el individuo tenga las condiciones que la ley exija para cada caso;"
+    },
+    {
+      "id": "005.II.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 5º › Fracción II › inciso d)",
+      "texto": "d) Afiliarse individual y libremente al partido político de su preferencia;"
+    },
+    {
+      "id": "005.II.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 5º › Fracción II › inciso e)",
+      "texto": "e) Cuando residan en el extranjero, votar para elegir Gobernador del Estado y Diputados locales por el principio de representación proporcional, en los términos que establezcan las leyes; y"
+    },
+    {
+      "id": "005.II.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 5º › Fracción II › inciso f)",
+      "texto": "f) Hacer uso de los instrumentos de participación ciudadana que establece esta Constitución y la ley de la materia;"
+    },
+    {
+      "id": "005.III~2",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5º › Fracción III",
+      "texto": "III. Son obligaciones de la ciudadanía jalisciense, las contenidas en los artículos 31 y 36 de la Constitución Política de los Estados Unidos Mexicanos."
+    }
+  ]
+}

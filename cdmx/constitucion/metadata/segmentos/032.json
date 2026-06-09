@@ -1,0 +1,432 @@
+{
+  "clave": "032",
+  "etiqueta": "Artículo 32",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "032.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › párrafo 1",
+      "texto": "De la Jefatura de Gobierno"
+    },
+    {
+      "id": "032.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado A",
+      "texto": "A. De la elección INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "032.A.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado A › 1.",
+      "texto": "1. La persona titular del Poder Ejecutivo se denominará Jefa o Jefe de Gobierno de la Ciudad de México y tendrá a su cargo la administración pública de la entidad; será electa por votación universal, libre, secreta y directa; no podrá durar en su encargo más de seis años y entrará en funciones el 5 de octubre del año de la elección. Durante el tiempo que dure su encargo deberá residir en la Ciudad de México."
+    },
+    {
+      "id": "032.A.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado A › 2.",
+      "texto": "2. Quien haya ocupado la titularidad del ejecutivo local designado o electo, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni con el carácter de interino, provisional, sustituto o encargado del despacho."
+    },
+    {
+      "id": "032.A.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado A › 3.",
+      "texto": "3. La persona que asuma la titularidad de la Jefatura de Gobierno rendirá protesta ante el Congreso de la Ciudad de México en los siguientes términos: “Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política de la Ciudad de México y las leyes que de ellas emanen, desempeñar leal y patrióticamente el cargo de Jefe o Jefa de Gobierno de la Ciudad de México, mirando en todo por el bien y prosperidad de la Unión y de la Ciudad de México, y si así no lo hiciere que el pueblo me lo demande”."
+    },
+    {
+      "id": "032.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado B",
+      "texto": "B. De los requisitos para ser titular de la Jefatura de Gobierno Para acceder a la Jefatura de Gobierno se requiere:"
+    },
+    {
+      "id": "032.B.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado B › inciso a)",
+      "texto": "a) Ser ciudadana o ciudadano originario de la Ciudad de México en pleno goce de sus derechos;"
+    },
+    {
+      "id": "032.B.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado B › inciso b)",
+      "texto": "b) Para las personas no nacidas en la Ciudad, se requerirá vecindad de al menos 5 años.\n\nLa ausencia de la Ciudad hasta por seis meses no interrumpe la vecindad, así como la ausencia por cumplimiento de un encargo del servicio público;"
+    },
+    {
+      "id": "032.B.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado B › inciso c)",
+      "texto": "c) Tener 30 años cumplidos al día de la elección;"
+    },
+    {
+      "id": "032.B.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado B › inciso d)",
+      "texto": "d) No haber recibido sentencia por delito doloso;"
+    },
+    {
+      "id": "032.B.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado B › inciso e)",
+      "texto": "e) No ser titular de una Secretaría o Subsecretaría en el Ejecutivo local o federal, a menos que se separe definitivamente de su puesto al menos 180 días antes de la jornada electoral local correspondiente;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "032.B.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado B › inciso f)",
+      "texto": "f) No tener mando en instituciones militares o policiales, a menos que se separe del cargo antes de la fecha de inicio del proceso electoral local correspondiente;"
+    },
+    {
+      "id": "032.B.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado B › inciso g)",
+      "texto": "g) No ejercer una magistratura de Circuito o ser Juez de Distrito en la Ciudad de México, a menos que se haya separado definitivamente de sus funciones antes de la fecha de inicio del proceso electoral local correspondiente;"
+    },
+    {
+      "id": "032.B.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado B › inciso h)",
+      "texto": "h) No ejercer una magistratura en el Poder Judicial, el Tribunal de Justicia Administrativa ni ser integrante del Consejo de la Judicatura de la Ciudad de México, a menos que se haya separado definitivamente de sus funciones antes de la fecha de inicio del proceso electoral local correspondiente;"
+    },
+    {
+      "id": "032.B.i",
+      "tipo": "inciso",
+      "marca": "i",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado B › inciso i)",
+      "texto": "i) No ser legislador local o federal, ni ser titular o concejal de una alcaldía, dependencia, unidad administrativa, órgano desconcentrado, organismo autónomo o entidad paraestatal de la Administración Pública de la Ciudad de México o de la Fiscalía General de Justicia de la Ciudad de México, a menos que se haya separado definitivamente de sus funciones al menos 180 días antes de la jornada electoral local correspondiente;"
+    },
+    {
+      "id": "032.B.j",
+      "tipo": "inciso",
+      "marca": "j",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado B › inciso j)",
+      "texto": "j) No ser ministro de culto religioso, a menos que hubiere dejado de serlo con cinco años de anticipación y en la forma que establezca la ley; y"
+    },
+    {
+      "id": "032.B.k",
+      "tipo": "inciso",
+      "marca": "k",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado B › inciso k)",
+      "texto": "k) No haber sido consejera o consejero, magistrada o magistrado electorales, a menos que haya concluido su encargo o se haya separado del mismo, al menos tres años antes de la fecha de inicio del proceso electoral local correspondiente."
+    },
+    {
+      "id": "032.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado C",
+      "texto": "C. De las Competencias"
+    },
+    {
+      "id": "032.C.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado C › 1.",
+      "texto": "1. La persona titular de la Jefatura de Gobierno tiene las siguientes competencias:"
+    },
+    {
+      "id": "032.C.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado C › inciso a)",
+      "texto": "a) Promulgar y ejecutar las leyes y decretos expedidos por el Congreso de la Ciudad de México, proveyendo en la esfera administrativa a su exacta observancia;"
+    },
+    {
+      "id": "032.C.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado C › inciso b)",
+      "texto": "b) Cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes generales expedidas por el Congreso de la Unión y por el Congreso de la Ciudad de México;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "032.C.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado C › inciso c)",
+      "texto": "c) Nombrar y remover libremente a su gabinete o proponer ante el Congreso de la Ciudad de México a las y los integrantes del mismo para su ratificación, en caso de gobierno de coalición. La o el Jefe de Gobierno deberá garantizar la paridad de género en su gabinete;"
+    },
+    {
+      "id": "032.C.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado C › inciso d)",
+      "texto": "d) Presentar al Congreso de la Ciudad de México la iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos en los términos previstos por esta Constitución;"
+    },
+    {
+      "id": "032.C.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado C › inciso e)",
+      "texto": "e) Proponer al Congreso a la persona titular encargada del control interno de la Ciudad de México observando lo dispuesto en el numeral 3 del artículo 61 de esta Constitución;"
+    },
+    {
+      "id": "032.C.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado C › inciso f)",
+      "texto": "f) Remitir en los términos que establezca la Constitución Política de los Estados Unidos Mexicanos la propuesta de los montos de endeudamiento necesarios para el financiamiento del Presupuesto de Egresos de la Ciudad e informar sobre el ejercicio de los recursos correspondientes, en los términos que disponga la ley en la materia;"
+    },
+    {
+      "id": "032.C.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado C › inciso g)",
+      "texto": "g) Realizar estudios, análisis e investigaciones apropiadas que permitan proponer al Gobierno Federal la implementación de políticas de recuperación de los salarios mínimos históricos de las personas trabajadoras de la Ciudad de México;"
+    },
+    {
+      "id": "032.C.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado C › inciso h)",
+      "texto": "h) Presentar la Cuenta de la hacienda pública de la Ciudad;"
+    },
+    {
+      "id": "032.C.i",
+      "tipo": "inciso",
+      "marca": "i",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado C › inciso i)",
+      "texto": "i) Rendir al Congreso de la Ciudad los informes anuales sobre la ejecución y cumplimiento de los planes, programas y presupuestos;"
+    },
+    {
+      "id": "032.C.j",
+      "tipo": "inciso",
+      "marca": "j",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado C › inciso j)",
+      "texto": "j) Presentar observaciones a las leyes y decretos expedidos por el Congreso de la Ciudad, en los plazos y bajo las condiciones señaladas en las leyes;"
+    },
+    {
+      "id": "032.C.k",
+      "tipo": "inciso",
+      "marca": "k",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado C › inciso k)",
+      "texto": "k) Dirigir las instituciones de seguridad ciudadana de la entidad, así como nombrar y remover libremente a la persona servidora pública que ejerza el mando directo de la fuerza pública;"
+    },
+    {
+      "id": "032.C.l",
+      "tipo": "inciso",
+      "marca": "l",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado C › inciso l)",
+      "texto": "l) Expedir las patentes de Notario para el ejercicio de la función notarial en favor de las personas que resulten triunfadoras en el examen público de oposición correspondiente y acrediten los demás requisitos que al efecto establezca la ley de la materia, misma que INSTITUTO DE INVESTIGACIONES LEGISLATIVAS invariablemente será desempeñada por profesionales del Derecho independientes económica y jerárquicamente del poder público;"
+    },
+    {
+      "id": "032.C.m",
+      "tipo": "inciso",
+      "marca": "m",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado C › inciso m)",
+      "texto": "m) (Se deroga)"
+    },
+    {
+      "id": "032.C.n",
+      "tipo": "inciso",
+      "marca": "n",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado C › inciso n)",
+      "texto": "n) Informar de manera permanente y completa mediante el sistema de gobierno abierto;"
+    },
+    {
+      "id": "032.C.o",
+      "tipo": "inciso",
+      "marca": "o",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado C › inciso o)",
+      "texto": "o) Garantizar los derechos laborales de las personas trabajadoras del Poder Ejecutivo y de sus alcaldías;"
+    },
+    {
+      "id": "032.C.p",
+      "tipo": "inciso",
+      "marca": "p",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado C › inciso p)",
+      "texto": "p) Las que señala la Constitución Política de los Estados Unidos Mexicanos; y"
+    },
+    {
+      "id": "032.C.q",
+      "tipo": "inciso",
+      "marca": "q",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado C › inciso q)",
+      "texto": "q) Las demás expresamente conferidas en la presente Constitución y las leyes."
+    },
+    {
+      "id": "032.C.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado C › 2.",
+      "texto": "2. La persona titular de la Jefatura de Gobierno deberá remitir al Congreso de la Ciudad de México los convenios generales suscritos con otras entidades federativas para su ratificación. El Congreso contará con un plazo de noventa días para su análisis y votación; de no ratificarse dentro de este plazo, el convenio se tendrá por aprobado."
+    },
+    {
+      "id": "032.C.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado C › 3.",
+      "texto": "3. La persona titular de la Jefatura de Gobierno remitirá por escrito su informe de gestión ante el Congreso de la Ciudad de México el día de su instalación de cada año y acudirá invariablemente a la respectiva sesión de informe y comparecencia en el pleno a más tardar el 15 de octubre siguiente, con excepción del último año de gobierno, que deberá acudir antes del 5 de octubre."
+    },
+    {
+      "id": "032.D",
+      "tipo": "apartado",
+      "marca": "D",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado D",
+      "texto": "D. De las faltas temporales y absolutas"
+    },
+    {
+      "id": "032.D.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado D › 1.",
+      "texto": "1. Si antes de iniciar un periodo constitucional la elección no estuviese hecha o declarada válida, cesará la o el Jefe de Gobierno cuyo periodo haya concluido y el Congreso de la Ciudad de México designará a la o el interino en los términos del presente artículo."
+    },
+    {
+      "id": "032.D.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado D › 2.",
+      "texto": "2. Si al comenzar el periodo constitucional hubiese falta absoluta de la o el Jefe de Gobierno, asumirá provisionalmente el cargo quien presida el Congreso de la Ciudad de México, en tanto se designa a la o el interino, conforme a lo dispuesto en este artículo."
+    },
+    {
+      "id": "032.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado D › párrafo 2",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "032.D.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado D › 3.",
+      "texto": "3. En caso de falta temporal de la o el Jefe de Gobierno, que no exceda de treinta días naturales, la o el Secretario de Gobierno se encargará del despacho de los asuntos de la Administración Pública de la Ciudad de México por el tiempo que dure dicha falta. Cuando la falta sea mayor a treinta días naturales, se convertirá en absoluta y el Congreso procederá en los términos de lo dispuesto en este artículo."
+    },
+    {
+      "id": "032.D.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado D › 4.",
+      "texto": "4. Cuando la o el Jefe de Gobierno solicite licencia para separarse del cargo hasta por sesenta días naturales, una vez autorizada por el Congreso, la o el Secretario de Gobierno asumirá provisionalmente la titularidad del Poder Ejecutivo para el despacho de los asuntos de la Administración Pública de la Ciudad de México por el tiempo que dure dicha falta. Si la falta temporal se convierte en absoluta, se procederá como dispone este artículo."
+    },
+    {
+      "id": "032.D.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado D › 5.",
+      "texto": "5. En caso de falta absoluta de la o el Jefe de Gobierno, en tanto el Congreso nombra a quien lo sustituya, la o el Secretario de Gobierno asumirá provisionalmente la titularidad del Poder Ejecutivo. Quien ocupe provisionalmente la Jefatura de Gobierno no podrá remover o designar a las y los integrantes del gabinete sin autorización previa del Congreso. Dentro de los quince días siguientes a la conclusión del encargo deberá entregar al Congreso un informe de labores."
+    },
+    {
+      "id": "032.D.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado D › 6.",
+      "texto": "6. Cuando la falta absoluta de la o el Jefe de Gobierno ocurriese en los cuatro primeros años del período respectivo, si el Congreso se encontrase en sesiones, con la asistencia de cuando menos las dos terceras partes del número total de sus miembros, se constituirá inmediatamente en Colegio Electoral y nombrará en escrutinio secreto y por mayoría de dos terceras partes de las y los diputados presentes, una o un Jefe de Gobierno interino, en los términos que disponga la ley. El mismo Congreso expedirá, dentro de los diez días siguientes a dicho nombramiento, la convocatoria para la elección de la o el Jefe de Gobierno que deba concluir el período respectivo, debiendo mediar entre la fecha de la convocatoria y la que se señale para la realización de la jornada electoral, un plazo no menor de seis meses ni mayor de ocho. Quien haya sido electo iniciará su encargo y rendirá protesta ante el Congreso siete días después de concluido el proceso electoral."
+    },
+    {
+      "id": "032.D.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Apartado D › 7.",
+      "texto": "7. Si el Congreso no estuviere en sesiones, la Comisión Permanente lo convocará inmediatamente a sesiones extraordinarias para que se constituya en Colegio Electoral, nombre a la o el interino y expida la convocatoria a elecciones en los términos del párrafo anterior."
+    }
+  ]
+}

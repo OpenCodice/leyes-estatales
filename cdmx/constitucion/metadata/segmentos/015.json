@@ -1,0 +1,468 @@
+{
+  "clave": "015",
+  "etiqueta": "Artículo 15",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "015.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › párrafo 1",
+      "texto": "De los instrumentos de la planeación del desarrollo"
+    },
+    {
+      "id": "015.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado A",
+      "texto": "A. Sistema de planeación y evaluación"
+    },
+    {
+      "id": "015.A.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado A › 1.",
+      "texto": "1. Esta Constitución garantiza el derecho a la ciudad a través de instrumentos de planeación, jurídicos, administrativos, financieros, fiscales y de participación ciudadana para hacer efectivas las funciones social, económica, cultural, territorial y ambiental de la ciudad."
+    },
+    {
+      "id": "015.A.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado A › 2.",
+      "texto": "2. La planeación será democrática, abierta, participativa, descentralizada, transparente, transversal y con deliberación pública para impulsar la transformación económica, asegurar el desarrollo sustentable, satisfacer las necesidades individuales y los intereses de la comunidad, la funcionalidad y el uso, disfrute y aprovechamiento equitativo de la ciudad, así como propiciar la redistribución del ingreso y la riqueza."
+    },
+    {
+      "id": "015.A.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado A › 3.",
+      "texto": "3. El sistema de planeación será un proceso articulado, perdurable, con prospectiva, orientado al cumplimiento y al ejercicio progresivo de todos los derechos reconocidos en esta Constitución, así como a la prosperidad y funcionalidad de la Ciudad de México. Sus etapas y escalas serán establecidas en las leyes correspondientes."
+    },
+    {
+      "id": "015.A.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado A › 4.",
+      "texto": "4. La planeación del desarrollo tendrá como instrumentos el Plan General de Desarrollo de la Ciudad de México, el Programa General de Ordenamiento Territorial y los de cada alcaldía; el Programa de Gobierno de la Ciudad de México; los programas sectoriales, especiales e institucionales; los programas de gobierno de las alcaldías; y los programas parciales de las INSTITUTO DE INVESTIGACIONES LEGISLATIVAS colonias, pueblos y barrios originarios y comunidades indígenas residentes. Sus características y contenidos serán precisados en la ley correspondiente, los cuales deberán armonizarse y elaborarse con la participación ciudadana en todas las etapas de consulta del proceso de planeación."
+    },
+    {
+      "id": "015.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado A › párrafo 2",
+      "texto": "De conformidad con lo previsto en esta Constitución, el Sistema Integral de Derechos Humanos se articulará con el sistema de planeación de la Ciudad."
+    },
+    {
+      "id": "015.A.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado A › 5.",
+      "texto": "5. Para el logro de los propósitos del sistema de planeación, todos los entes de la administración pública que determine el Instituto de Planeación Democrática y Prospectiva, y las alcaldías, deberán contar con unidades administrativas especializadas, observando los criterios y mecanismos emitidos por este Instituto."
+    },
+    {
+      "id": "015.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado A › párrafo 3",
+      "texto": "La programación y ejecución presupuestal deberán elaborarse considerando la información estadística y los resultados de las evaluaciones de que se dispongan y deberán establecer con claridad y precisión los resultados esperados, los objetivos, estrategias, indicadores, metas y plazos."
+    },
+    {
+      "id": "015.A.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado A › 6.",
+      "texto": "6. La Ciudad de México será una ciudad con baja huella ecológica, territorialmente eficiente, incluyente, compacta y diversa, ambientalmente sustentable, con espacios y servicios públicos de calidad para todos."
+    },
+    {
+      "id": "015.A.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado A › 7.",
+      "texto": "7. La evaluación externa de las políticas, programas y acciones que instrumente la administración pública estará a cargo del organismo autónomo previsto en esta Constitución."
+    },
+    {
+      "id": "015.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado A › párrafo 4",
+      "texto": "Los resultados de las evaluaciones serán instrumentos esenciales para fundamentar y motivar la planeación, programación y presupuesto, así como para el diseño de políticas públicas y proyectos."
+    },
+    {
+      "id": "015.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado B",
+      "texto": "B. De la planeación"
+    },
+    {
+      "id": "015.B.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado B › 1.",
+      "texto": "1. El Plan General de Desarrollo de la Ciudad es el instrumento al que se sujetarán los planes, programas, políticas y proyectos públicos; la programación y ejecución presupuestal incorporará sus objetivos, estrategias y metas. Su observancia será de carácter obligatorio para el sector público y regulatorio e indicativo para los demás sectores."
+    },
+    {
+      "id": "015.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado B › párrafo 5",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "015.B.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado B › 2.",
+      "texto": "2. El Plan General de Desarrollo de la Ciudad de México definirá las políticas de largo plazo en las materias de relevancia estratégica para la Ciudad. Tendrá por objeto la cohesión social, el desarrollo sustentable, el mejoramiento de la calidad de vida de sus habitantes, el equilibrio territorial y la transformación económica."
+    },
+    {
+      "id": "015.B.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado B › 3.",
+      "texto": "3. El Plan General de Desarrollo de la Ciudad será elaborado por el Instituto de Planeación Democrática y Prospectiva. Para su aprobación, será enviado por la o el Jefe de Gobierno al Congreso, el cual deberá resolver en un periodo no mayor a seis meses posteriores a su presentación; trascurrido este plazo sin resolución, se considerará aprobado. Su vigencia será de veinte años y podrá ser modificado conforme a los procedimientos previstos para su aprobación."
+    },
+    {
+      "id": "015.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado B › párrafo 6",
+      "texto": "La ley contendrá las sanciones por el incumplimiento en su aplicación."
+    },
+    {
+      "id": "015.B.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado B › 4.",
+      "texto": "4. El Programa de Gobierno de la Ciudad de México establecerá las metas y objetivos de la acción pública en el ámbito del Poder Ejecutivo, para dar cumplimiento a lo establecido por esta Constitución. Se elaborará por la o el Jefe de Gobierno y será remitido al Congreso durante los primeros tres meses de la administración correspondiente, para su conocimiento y formulación de opinión en el plazo que señale la ley. El Programa tendrá una duración de seis años, será obligatorio para la administración pública de la Ciudad y los programas de la misma se sujetarán a sus previsiones. La planeación presupuestal y los proyectos de inversión incorporarán sus metas, objetivos y estrategias."
+    },
+    {
+      "id": "015.B.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado B › 5.",
+      "texto": "5. Los programas de gobierno de las alcaldías establecerán las metas y objetivos de la acción pública en el ámbito de las demarcaciones territoriales, para dar cumplimiento a lo establecido por esta Constitución. Se elaborarán por las personas titulares de las alcaldías, con la opinión del concejo y serán remitidos al Congreso durante los primeros tres meses de la administración correspondiente, para su conocimiento y formulación de opinión en el plazo que señale la ley."
+    },
+    {
+      "id": "015.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado B › párrafo 7",
+      "texto": "Los programas tendrán una duración de tres años, serán obligatorios para la administración pública de la alcaldía y los programas de la misma se sujetarán a sus previsiones."
+    },
+    {
+      "id": "015.B.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado B › 6.",
+      "texto": "6. Estos programas se difundirán entre las autoridades y la ciudadanía."
+    },
+    {
+      "id": "015.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado C",
+      "texto": "C. De la planeación del ordenamiento territorial INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "015.C.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado C › 1.",
+      "texto": "1. El Programa General de Ordenamiento Territorial se sujetará al Plan General de Desarrollo, tendrá carácter de ley. Será elaborado por el Instituto de Planeación Democrática y Prospectiva, con la participación de la administración pública de la Ciudad, las alcaldías y la sociedad y enviado por la o el Jefe de Gobierno al Congreso. Para su aprobación deberán privilegiarse los criterios y lineamientos técnicos del instrumento. El Congreso deberá resolver en un periodo no mayor a seis meses posteriores a su presentación; transcurrido este plazo, se considerará aprobado."
+    },
+    {
+      "id": "015.C.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado C › 2.",
+      "texto": "2. El Programa General de Ordenamiento Territorial será el instrumento que regulará la transformación de la ciudad y fortalecerá la función social de la misma para su desarrollo sustentable."
+    },
+    {
+      "id": "015.C.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado C › 3.",
+      "texto": "3. Tendrá una vigencia de quince años, deberá evaluarse y actualizarse cada cinco o cuando ocurran cambios significativos en las condiciones que le dieron origen. Para su actualización deberán seguirse las mismas reglas y procedimientos que para su aprobación. En caso de no actualizarse o modificarse, la vigencia del programa prevalecerá."
+    },
+    {
+      "id": "015.C.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado C › 4.",
+      "texto": "4. Los programas de ordenamiento territorial de las alcaldías serán formulados por éstas, con base en los lineamientos que establezca el Instituto de Planeación Democrática y Prospectiva."
+    },
+    {
+      "id": "015.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado C › párrafo 8",
+      "texto": "Serán aprobados por el Congreso a propuesta de la o el Jefe de Gobierno, previo dictamen del Instituto."
+    },
+    {
+      "id": "015.C.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado C › 5.",
+      "texto": "5. Los programas parciales serán formulados con participación ciudadana, con base en los lineamientos que establezca el Instituto de Planeación Democrática y Prospectiva. Serán aprobados por el concejo de la alcaldía respectiva, previo dictamen del Instituto, y serán enviados a la o el Jefe de Gobierno para que sea remitido al Congreso de la Ciudad."
+    },
+    {
+      "id": "015.D",
+      "tipo": "apartado",
+      "marca": "D",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado D",
+      "texto": "D. Instituto de Planeación Democrática y Prospectiva de la Ciudad de México"
+    },
+    {
+      "id": "015.D.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado D › 1.",
+      "texto": "1. El Instituto será un organismo público con autonomía técnica y de gestión dotado de personalidad jurídica y patrimonio propio."
+    },
+    {
+      "id": "015.D.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado D › 2.",
+      "texto": "2. Tendrá a su cargo la elaboración y seguimiento del Plan General de Desarrollo y del Programa General de Ordenamiento Territorial, y garantizará la participación directa de los sectores académicos, culturales, sociales y económicos, con las modalidades que establezca la ley."
+    },
+    {
+      "id": "015.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado D › párrafo 9",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "015.D.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado D › 3.",
+      "texto": "3. El Instituto de Planeación Democrática y Prospectiva de la Ciudad de México tendrá una Junta de Gobierno, una o un Director General, un Directorio Técnico y un Consejo Ciudadano. Su estructura será determinada por la ley conforme a las siguientes disposiciones:"
+    },
+    {
+      "id": "015.D.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado D › inciso a)",
+      "texto": "a) La Junta de Gobierno será el órgano rector del Instituto, de carácter plural e interdisciplinario, que se integrará por la o el Jefe de Gobierno, en carácter de presidente, cinco representantes del gabinete, tres representantes del Cabildo de la Ciudad de México y siete consejeras y consejeros ciudadanos;"
+    },
+    {
+      "id": "015.D.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado D › inciso b)",
+      "texto": "b) La o el Director General deberá ser un experto reconocido en planeación del desarrollo.\n\nSerá designado por mayoría calificada del Congreso a partir de una terna propuesta por un comité de selección, conforme a los requisitos y métodos previstos por la ley. Durará en su encargo cinco años y podrá ser reelecto por otro periodo de tres años bajo el mismo procedimiento previsto para su nombramiento;"
+    },
+    {
+      "id": "015.D.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado D › inciso c)",
+      "texto": "c) El Directorio Técnico será un órgano multidisciplinario y especializado encargado de la integración, operación, verificación y seguimiento del sistema de planeación. Se integrará por, cuando menos, quince expertos en temas de relevancia estratégica para la sustentabilidad de la ciudad, incluyendo a las y los siete integrantes ciudadanos que forman parte de la Junta de Gobierno. Durarán en su cargo tres años con posibilidad de reelegirse, con un mecanismo de escalonamiento en la sustitución; y"
+    },
+    {
+      "id": "015.D.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado D › inciso d)",
+      "texto": "d) El Consejo Ciudadano fungirá como un órgano de consulta obligatoria y diálogo público, con carácter consultivo y propositivo en materia económica, social, cultural, territorial, ambiental y las demás relacionadas con la planeación para el desarrollo y la ordenación territorial. Verificará el cumplimiento progresivo de los derechos. Tendrá el número de integrantes determinado por la ley, para asegurar la participación y representación igualitaria de los sectores público, social, privado y académico. La ley establecerá su funcionamiento."
+    },
+    {
+      "id": "015.D.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado D › 4.",
+      "texto": "4. Las y los ciudadanos que integren la Junta de Gobierno y del Directorio Técnico deberán gozar de buena reputación y contar con reconocido mérito y trayectoria profesional y pública, en las materias relacionadas con la planeación del desarrollo."
+    },
+    {
+      "id": "015.p10",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado D › párrafo 10",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS Las y los ciudadanos que integren la Junta de Gobierno, el Directorio Técnico y el Consejo Ciudadano serán designados, de forma escalonada, por un comité técnico de selección integrado por once personalidades con fama pública de probidad y solvencia profesional en las materias de relevancia para la sustentabilidad."
+    },
+    {
+      "id": "015.D.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado D › 5.",
+      "texto": "5. El Instituto tendrá las siguientes funciones:"
+    },
+    {
+      "id": "015.D.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado D › Fracción I",
+      "texto": "I. Formular el Plan General de Desarrollo y el Programa General de Ordenamiento Territorial, y sus actualizaciones;"
+    },
+    {
+      "id": "015.D.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado D › Fracción II",
+      "texto": "II. Integrar un sistema de información estadística y geográfica científico, público, accesible y transparente y elaborar los diagnósticos y estudios requeridos por los procesos de planeación y prospectiva. La información generada deberá estar disponible en formato abierto;"
+    },
+    {
+      "id": "015.D.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado D › Fracción III",
+      "texto": "III. Elaborar el sistema de indicadores de la Ciudad de México a utilizar en las diversas etapas del proceso de planeación. Este sistema dará prioridad a la definición y actualización de los indicadores para la fijación de metas y el cumplimiento progresivo en materia de derechos humanos;"
+    },
+    {
+      "id": "015.D.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado D › Fracción IV",
+      "texto": "IV. Elaborar los dictámenes técnicos para la actualización de los usos del suelo conforme a los principios y lineamientos previstos en esta Constitución y las leyes en la materia;"
+    },
+    {
+      "id": "015.D.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado D › Fracción V",
+      "texto": "V. Participar en la integración de los instrumentos de planeación para la Zona Metropolitana del Valle de México y en los acuerdos regionales en los que participe la Ciudad de México;"
+    },
+    {
+      "id": "015.D.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado D › Fracción VI",
+      "texto": "VI. Promover, convocar y capacitar a la ciudadanía y organizaciones sociales para participar en todas las etapas de los procesos de planeación y transparentar y difundir el conocimiento sobre la ciudad, mediante observatorios ciudadanos y otros mecanismos de participación ciudadana establecidos en esta Constitución y las leyes;"
+    },
+    {
+      "id": "015.D.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado D › Fracción VII",
+      "texto": "VII. Verificar la congruencia y alineación entre la asignación presupuestal del gasto, las estrategias y acciones establecidas en el Plan General de Desarrollo y los demás planes y programas aprobados; así como generar recomendaciones, en caso de incongruencias;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "015.D.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado D › Fracción VIII",
+      "texto": "VIII. Definir los lineamientos de los instrumentos de planeación de las alcaldías, asesorarlas y apoyarlas técnicamente en su elaboración; y"
+    },
+    {
+      "id": "015.D.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Apartado D › Fracción IX",
+      "texto": "IX. Las demás que determinen esta Constitución y las leyes."
+    },
+    {
+      "id": "015.D.IX.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "D",
+      "fraccion": "IX",
+      "ruta": "Artículo 15 › Apartado D › Fracción IX › 6.",
+      "texto": "6. El Instituto contará con una oficina especializada de consulta pública y participación social."
+    }
+  ]
+}

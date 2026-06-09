@@ -1,0 +1,45 @@
+{
+  "clave": "067",
+  "etiqueta": "Artículo 67",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "067.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 › párrafo 1",
+      "texto": "De la responsabilidad patrimonial de la Ciudad de México"
+    },
+    {
+      "id": "067.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 › 1.",
+      "texto": "1. La responsabilidad de la Ciudad de México y sus entes públicos por los daños que, con motivo de su actividad administrativa irregular, causen en los bienes o derechos de los particulares será objetiva y directa; en la determinación de estas responsabilidades se privilegiará la reparación o remediación del daño causado y, en su caso la adopción de garantías de no repetición. Los particulares tendrán derecho a una indemnización conforme a lo que establezcan las leyes."
+    },
+    {
+      "id": "067.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 › 2.",
+      "texto": "2. La Ciudad de México y sus entes públicos promoverán los procedimientos correspondientes contra la persona servidora pública a quien, por acción u omisión, dolo, negligencia o mala fe, resulte atribuible la responsabilidad a que se refiere este artículo y solicitarán a la autoridad resolutora la determinación e imposición de la reparación del daño."
+    },
+    {
+      "id": "067.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 › párrafo 2",
+      "texto": "DEL CARÁCTER DE CAPITAL DE LOS ESTADOS UNIDOS MEXICANOS"
+    }
+  ]
+}

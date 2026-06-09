@@ -1,0 +1,27 @@
+{
+  "clave": "025",
+  "etiqueta": "Artículo 25º",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "025.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25º › párrafo 1",
+      "texto": "El Congreso sesionará por lo menos cuatro veces al mes durante los períodos comprendidos del primero de febrero al treinta y uno de marzo y del primero de octubre al treinta y uno de diciembre de cada año, fuera de los cuales sesionará al menos una vez al mes."
+    },
+    {
+      "id": "025.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25º › párrafo 2",
+      "texto": "Para el conocimiento de los dictámenes relativos a la materia de responsabilidad de los servidores públicos, deberá convocarse a la celebración de sesiones extraordinarias."
+    }
+  ]
+}

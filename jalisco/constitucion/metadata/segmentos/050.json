@@ -1,0 +1,270 @@
+{
+  "clave": "050",
+  "etiqueta": "Artículo 50º",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "050.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › párrafo 1",
+      "texto": "Son facultades y obligaciones del Gobernador del Estado:"
+    },
+    {
+      "id": "050.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción I",
+      "texto": "I. Promulgar, ejecutar, hacer que se ejecuten las leyes y ejercer en su caso, la facultad de hacer observaciones a las mismas en los términos y plazos que establece esta Constitución;"
+    },
+    {
+      "id": "050.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción II",
+      "texto": "II. Presentar cada año al Congreso, a más tardar el día 1º. de noviembre, los proyectos de presupuestos de ingresos y egresos del Estado, para el ejercicio fiscal siguiente, en términos de lo que establezcan las disposiciones legales;"
+    },
+    {
+      "id": "050.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción III",
+      "texto": "III. Rendir por escrito al Congreso, el día seis del mes de noviembre de cada año, un informe anual del estado que guarda la administración pública, mismo que podrá enviar o presentarlo personalmente;"
+    },
+    {
+      "id": "050.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción IV",
+      "texto": "IV. Pedir y dar informes al Congreso sobre cualquier ramo de la administración, y a los tribunales del Poder Judicial, sobre el de justicia;"
+    },
+    {
+      "id": "050.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción V",
+      "texto": "V. Solicitar al Instituto Electoral del Estado someta a plebiscito, en los términos que disponga la ley, propuestas de actos o decisiones de su gobierno, considerados como trascendentales para el orden público o el interés social del Estado;"
+    },
+    {
+      "id": "050.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción VI",
+      "texto": "VI. Solicitar ante el Instituto Electoral, que se sometan a proceso de referéndum, las leyes que expida el Congreso consideradas particularmente trascendentes para el orden público o el interés social del Estado, en los términos que establezca la ley de la materia;"
+    },
+    {
+      "id": "050.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción VII",
+      "texto": "VII. Celebrar convenios sobre límites con los estados vecinos, con el requisito de someterlos a aprobación del Congreso del Estado y en su caso a la ratificación del Congreso de la Unión;"
+    },
+    {
+      "id": "050.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción VIII",
+      "texto": "VIII. Expedir los reglamentos que resulten necesarios, a fin de proveer en la esfera administrativa, la exacta observancia de las leyes y para el buen despacho de la administración pública;"
+    },
+    {
+      "id": "050.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción IX",
+      "texto": "IX. Nombrar y remover a los servidores públicos cuyos nombramientos o remoción no corresponda, conforme a la ley, a otra autoridad;"
+    },
+    {
+      "id": "050.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción X",
+      "texto": "X. Organizar y conducir la planeación del desarrollo del Estado, velando por la sostenibilidad de las finanzas públicas y establecer los medios para la consulta ciudadana y la participación social;"
+    },
+    {
+      "id": "050.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción XI",
+      "texto": "XI. Cuidar de la recaudación, aplicación e inversión de los caudales del Estado, con arreglo a las leyes;"
+    },
+    {
+      "id": "050.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción XII",
+      "texto": "XII. Vigilar la conservación del orden público, disponiendo al efecto de las fuerzas armadas del Estado, pudiendo, con autorización del Congreso, celebrar convenios para descentralizar la organización y supervisión de las funciones de seguridad pública, con participación de los municipios y colaboración de los particulares, en su caso;"
+    },
+    {
+      "id": "050.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción XIII",
+      "texto": "XIII. Dar órdenes a la policía preventiva municipal en aquellos casos que bajo su responsabilidad juzgue como de fuerza mayor o alteración grave del orden público;"
+    },
+    {
+      "id": "050.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción XIV",
+      "texto": "XIV. Decretar la expropiación por causa de utilidad pública, en la forma que determinen las leyes;"
+    },
+    {
+      "id": "050.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción XV",
+      "texto": "XV. Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los tribunales;"
+    },
+    {
+      "id": "050.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción XVI",
+      "texto": "XVI. Conceder, conforme a las leyes, indulto, reducción o conmutación de pena;"
+    },
+    {
+      "id": "050.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción XVII",
+      "texto": "XVII. Celebrar convenios con los gobiernos federal y de los estados para que los reos sentenciados por delitos del orden común, puedan cumplir las sanciones privativas de libertad en establecimientos ubicados fuera de la entidad;"
+    },
+    {
+      "id": "050.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción XVIII",
+      "texto": "XVIII. Celebrar convenios con la Federación, con los municipios y con particulares, respecto de la prestación de servicios públicos, cuando el desarrollo económico y social lo haga necesario, conforme a las disposiciones de esta Constitución y las leyes;"
+    },
+    {
+      "id": "050.XIX",
+      "tipo": "fraccion",
+      "marca": "XIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción XIX",
+      "texto": "XIX. Representar al Estado de Jalisco, con las facultades que determine la ley o el Congreso, en los términos establecidos en esta Constitución y designar apoderados;"
+    },
+    {
+      "id": "050.XX",
+      "tipo": "fraccion",
+      "marca": "XX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción XX",
+      "texto": "XX. Expedir decretos y acuerdos de carácter administrativo para la eficaz prestación de los servicios públicos y otorgar concesiones a los particulares para este mismo efecto, en el ámbito de su competencia, requiriéndose en este último caso, cuando su vigencia trascienda el término del ejercicio para el que fue electo, la autorización del Congreso del Estado;"
+    },
+    {
+      "id": "050.XXI",
+      "tipo": "fraccion",
+      "marca": "XXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción XXI",
+      "texto": "XXI. Ejercer en forma concurrente con la Federación y los municipios, las atribuciones en materia de preservación y restauración del equilibrio ecológico y protección del ambiente, protección civil, ordenamiento territorial de los asentamientos humanos y desarrollo urbano, conforme a la distribución de competencias y disposiciones de las leyes federales y estatales;"
+    },
+    {
+      "id": "050.XXII",
+      "tipo": "fraccion",
+      "marca": "XXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción XXII",
+      "texto": "XXII. Delegar facultades específicas en el ámbito administrativo, cuando no exista disposición en contrario para ello, a las secretarías, dependencias, organismos y entidades que se constituyan para auxiliarlo en el desempeño de sus atribuciones;"
+    },
+    {
+      "id": "050.XXIII",
+      "tipo": "fraccion",
+      "marca": "XXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción XXIII",
+      "texto": "XXIII. Divulgar la legislación local en el Estado;"
+    },
+    {
+      "id": "050.XXIV",
+      "tipo": "fraccion",
+      "marca": "XXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción XXIV",
+      "texto": "XXIV. Hacer la propuesta de delimitación de las regiones metropolitanas que se encuentren ubicadas dentro del territorio del estado, a partir de la declaratoria de áreas metropolitanas que haga el Congreso del Estado de Jalisco;"
+    },
+    {
+      "id": "050.XXV",
+      "tipo": "fraccion",
+      "marca": "XXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción XXV",
+      "texto": "XXV. Solicitar a la Comisión Nacional de los Derechos Humanos que investigue hechos que constituyan violaciones graves de derechos humanos;"
+    },
+    {
+      "id": "050.XXVI",
+      "tipo": "fraccion",
+      "marca": "XXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción XXVI",
+      "texto": "XXVI. Celebrar convenios de coordinación con la Federación, Estados y Municipios, en materia de combate a la corrupción;"
+    },
+    {
+      "id": "050.XXVII",
+      "tipo": "fraccion",
+      "marca": "XXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción XXVII",
+      "texto": "XXVII. Celebrar convenios de coordinación fiscal con la Federación, así como darlos por terminados cuando ya no resulten convenientes para el Estado, previa autorización del Congreso.\n\nEl Gobernador en turno, dentro de los tres primeros años de su encargo y por una sola ocasión, deberá llevar a cabo un proceso de revisión integral de la política fiscal del Estado y sus convenios de coordinación, en el que se pondere el equilibrio entre el componente federal de la aportación del Estado al Sistema Nacional de Coordinación Fiscal en su conjunto con sus necesidades solidarias, y presentar sus conclusiones al Congreso.\n\nPara dar por terminados los convenios de coordinación fiscal con la Federación, se deberá demostrar que ya no se cumplen las condiciones que justificaron la adhesión al Sistema Nacional de Coordinación Fiscal y motivar que el Estado puede hacerse cargo de la conducción de la política fiscal a través del Sistema Tributario Estatal.\n\nEste Sistema no implica la creación de nuevos impuestos, sin que con ello se limiten las atribuciones del Congreso del Estado en materia hacendaria; y"
+    },
+    {
+      "id": "050.XXVIII",
+      "tipo": "fraccion",
+      "marca": "XXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › Fracción XXVIII",
+      "texto": "XXVIII. Las demás que le otorgan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de éstas se deriven.\n\nDE LOS PRINCIPIOS GENERALES DE LA JUSTICIA"
+    }
+  ]
+}

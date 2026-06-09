@@ -1,0 +1,45 @@
+{
+  "clave": "069",
+  "etiqueta": "Artículo 69º",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "069.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69º › párrafo 1",
+      "texto": "Los magistrados electorales serán electos por la Cámara de Senadores en los términos dispuestos en el ordinal 5° del inciso c) de la fracción IV del artículo 116 de la Constitución federal, y por lo establecido en la ley general en la materia."
+    },
+    {
+      "id": "069.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69º › párrafo 2",
+      "texto": "Los magistrados electorales durarán en el cargo siete años; se renovarán de forma escalonada y no podrán ser reelectos. Percibirán una remuneración igual a la prevista para los magistrados del Poder Judicial del Estado. Las normas relativas a los requisitos que deberán cumplir los designados, la forma para cubrir las vacantes, remoción, el régimen de responsabilidades, impedimentos y excusas serán los establecidos en la ley general en la materia."
+    },
+    {
+      "id": "069.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69º › párrafo 3",
+      "texto": "Sin perjuicio de lo dispuesto en el párrafo anterior, la legislación local establecerá las demás normas aplicables."
+    },
+    {
+      "id": "069.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69º › párrafo 4",
+      "texto": "A la iniciativa de Presupuesto de Egresos del Estado de Jalisco, se deberá adjuntar el proyecto de presupuesto elaborado por el Tribunal Electoral del Estado."
+    }
+  ]
+}

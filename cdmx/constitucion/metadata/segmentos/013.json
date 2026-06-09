@@ -1,0 +1,297 @@
+{
+  "clave": "013",
+  "etiqueta": "Artículo 13",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "013.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 1",
+      "texto": "Ciudad habitable"
+    },
+    {
+      "id": "013.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado A",
+      "texto": "A. Derecho a un medio ambiente sano"
+    },
+    {
+      "id": "013.A.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado A › 1.",
+      "texto": "1. Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar. Las autoridades adoptarán las medidas necesarias, en el ámbito de sus competencias, para la protección del medio ambiente y la preservación y restauración del equilibrio ecológico, con el objetivo de satisfacer las necesidades ambientales para el desarrollo de las generaciones presentes y futuras."
+    },
+    {
+      "id": "013.A.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado A › 2.",
+      "texto": "2. El derecho a la preservación y protección de la naturaleza será garantizado por las autoridades de la Ciudad de México en el ámbito de su competencia, promoviendo siempre la participación ciudadana en la materia."
+    },
+    {
+      "id": "013.A.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado A › 3.",
+      "texto": "3. Para el cumplimiento de esta disposición se expedirá una ley secundaria que tendrá por objeto reconocer y regular la protección más amplia de los derechos de la naturaleza conformada por todos sus ecosistemas y especies como un ente colectivo sujeto de derechos."
+    },
+    {
+      "id": "013.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado A › párrafo 2",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "013.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado B",
+      "texto": "B. Protección a los animales"
+    },
+    {
+      "id": "013.B.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado B › 1.",
+      "texto": "1. Esta Constitución reconoce a los animales como seres sintientes y, por lo tanto, deben recibir trato digno. En la Ciudad de México toda persona tiene un deber ético y obligación jurídica de respetar la vida y la integridad de los animales; éstos, por su naturaleza son sujetos de consideración moral. Su tutela es de responsabilidad común."
+    },
+    {
+      "id": "013.B.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado B › 2.",
+      "texto": "2. Las autoridades de la Ciudad garantizarán la protección, bienestar, así como el trato digno y respetuoso a los animales y fomentarán una cultura de cuidado y tutela responsable. Asimismo, realizarán acciones para la atención de animales en abandono."
+    },
+    {
+      "id": "013.B.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado B › 3.",
+      "texto": "3. La ley determinará:"
+    },
+    {
+      "id": "013.B.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado B › inciso a)",
+      "texto": "a) Las medidas de protección de los animales en espectáculos públicos, así como en otras actividades, de acuerdo a su naturaleza, características y vínculos con la persona;"
+    },
+    {
+      "id": "013.B.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado B › inciso b)",
+      "texto": "b) Las conductas prohibidas con objeto de proteger a los animales y las sanciones aplicables por los actos de maltrato y crueldad;"
+    },
+    {
+      "id": "013.B.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado B › inciso c)",
+      "texto": "c) Las bases para promover la conservación, así como prevenir y evitar maltratos en la crianza y el aprovechamiento de animales de consumo humano;"
+    },
+    {
+      "id": "013.B.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado B › inciso d)",
+      "texto": "d) Las medidas necesarias para atender el control de plagas y riesgos sanitarios, y"
+    },
+    {
+      "id": "013.B.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado B › inciso e)",
+      "texto": "e) Las facilidades para quienes busquen dar albergue y resguardo a animales en abandono."
+    },
+    {
+      "id": "013.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado C",
+      "texto": "C. Derecho a la vía pública Toda persona tiene derecho al uso pacífico de la vía pública, en los términos previstos por la ley."
+    },
+    {
+      "id": "013.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado C › párrafo 3",
+      "texto": "Las autoridades adoptarán las medidas necesarias para garantizar el ejercicio de este derecho, con base en los objetivos de funcionalidad y movilidad de las vías públicas."
+    },
+    {
+      "id": "013.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado C › párrafo 4",
+      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+    },
+    {
+      "id": "013.D",
+      "tipo": "apartado",
+      "marca": "D",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado D",
+      "texto": "D. Derecho al espacio público"
+    },
+    {
+      "id": "013.D.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado D › 1.",
+      "texto": "1. Los espacios públicos son bienes comunes. Tienen una función política, social, educativa, cultural, lúdica y recreativa. Las personas tienen derecho a usar, disfrutar y aprovechar todos los espacios públicos para la convivencia pacífica y el ejercicio de las libertades políticas y sociales reconocidas por esta Constitución, de conformidad con lo previsto por la ley."
+    },
+    {
+      "id": "013.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado D › párrafo 5",
+      "texto": "Se entiende por espacio público al conjunto de bienes de uso común destinados a la generación y fomento de la interacción social, o bien, que permitan el desarrollo de las personas."
+    },
+    {
+      "id": "013.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado D › párrafo 6",
+      "texto": "Son objetivos del espacio público:"
+    },
+    {
+      "id": "013.D.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado D › inciso a)",
+      "texto": "a) Generar símbolos que sean fuente de pertenencia, herencia e identidad para la población"
+    },
+    {
+      "id": "013.D.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado D › inciso b)",
+      "texto": "b) Mejorar la calidad de vida de las personas"
+    },
+    {
+      "id": "013.D.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado D › inciso c)",
+      "texto": "c) Fortalecer el tejido social, a través de su uso, disfrute y aprovechamiento bajo condiciones dignas, seguras, asequible, de inclusión, libre accesibilidad, circulación y traslación"
+    },
+    {
+      "id": "013.D.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado D › inciso d)",
+      "texto": "d) Garantizar el pleno disfrute y ejercicio del Derecho a la Ciudad"
+    },
+    {
+      "id": "013.D.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado D › inciso e)",
+      "texto": "e) Permitir la convivencia, el esparcimiento, descanso, disfrute del ocio, la movilidad y el desarrollo de actividades físicas y de expresiones artísticas y culturales."
+    },
+    {
+      "id": "013.D.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado D › 2.",
+      "texto": "2. Las autoridades de la Ciudad garantizarán el carácter colectivo, comunitario y participativo de los espacios públicos y promoverán su creación y regeneración en condiciones de calidad, de igualdad, de inclusión, accesibilidad y diseño universal, así como de apertura y de seguridad que favorezcan la construcción de la ciudadanía y eviten su privatización."
+    },
+    {
+      "id": "013.E",
+      "tipo": "apartado",
+      "marca": "E",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado E",
+      "texto": "E. Derecho a la movilidad"
+    },
+    {
+      "id": "013.E.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado E › 1.",
+      "texto": "1. Toda persona tiene derecho a la movilidad en condiciones de seguridad, accesibilidad, comodidad, eficiencia, calidad e igualdad. De acuerdo a la jerarquía de movilidad, se otorgará INSTITUTO DE INVESTIGACIONES LEGISLATIVAS prioridad a los peatones y conductores de vehículos no motorizados, y se fomentará una cultura de movilidad sustentable."
+    },
+    {
+      "id": "013.E.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado E › 2.",
+      "texto": "2. Las autoridades adoptarán las medidas necesarias para garantizar el ejercicio de este derecho, particularmente en el uso equitativo del espacio vial y la conformación de un sistema integrado de transporte público, impulsando el transporte de bajas emisiones contaminantes, respetando en todo momento los derechos de los usuarios más vulnerables de la vía, el cual será adecuado a las necesidades sociales y ambientales de la ciudad."
+    },
+    {
+      "id": "013.F",
+      "tipo": "apartado",
+      "marca": "F",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado F",
+      "texto": "F. Derecho al tiempo libre En la Ciudad de México, toda persona tiene derecho a tener tiempo para la convivencia, el esparcimiento, el cuidado personal, el descanso, el disfrute del ocio y a una duración razonable de sus jornadas de trabajo. En atención al principio de igualdad sustantiva, las autoridades impulsarán políticas sociales, económicas y territoriales que liberen tiempo y permitan a las personas alcanzar el bienestar."
+    }
+  ]
+}

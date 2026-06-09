@@ -1,0 +1,324 @@
+{
+  "clave": "012",
+  "etiqueta": "Artículo 12º",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "012.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › párrafo 1",
+      "texto": "La renovación de los titulares de los poderes Legislativo y Ejecutivo, así como de los ayuntamientos, se realizará mediante elecciones libres, auténticas y periódicas conforme a las siguientes bases:"
+    },
+    {
+      "id": "012.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Fracción I",
+      "texto": "I. En el ejercicio de la función electoral, serán principios rectores la certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad;"
+    },
+    {
+      "id": "012.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Fracción II",
+      "texto": "II. En los términos de la ley, toda elección popular será directa, exceptuando las que haga el Congreso para:"
+    },
+    {
+      "id": "012.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 12º › Fracción II › inciso a)",
+      "texto": "a) Suplir al Gobernador del Estado en sus faltas temporales o absolutas;"
+    },
+    {
+      "id": "012.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 12º › Fracción II › inciso b)",
+      "texto": "b) Para elegir a los magistrados del Poder Judicial del Estado y a los integrantes de órganos jurisdiccionales o administrativos previstos en esta Constitución; y"
+    },
+    {
+      "id": "012.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 12º › Fracción II › inciso c)",
+      "texto": "c) Para elegir a los integrantes de los Concejos Municipales en los casos que esta Constitución dispone;"
+    },
+    {
+      "id": "012.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Fracción III",
+      "texto": "III. . La organización de los procesos electorales es una función estatal que se realiza a través del Instituto Nacional Electoral y del Organismo Público Local Electoral, denominado Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, esta constitución y las leyes que se derivan de ambas;"
+    },
+    {
+      "id": "012.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Fracción IV",
+      "texto": "IV. El Instituto Electoral y de Participación Ciudadana del Estado de Jalisco será autoridad en la materia, profesional en su desempeño, dotado de autonomía en su funcionamiento e independencia en sus decisiones; contará en su estructura con órganos de dirección, ejecutivos, técnicos y de vigilancia. El Consejo General será su órgano superior de dirección y estará conformado: por un Consejero Presidente y seis consejeros electorales con derecho a voz y voto; por un representante de cada partido político y el Secretario Ejecutivo, los cuales sólo tendrán derecho a voz.\n\nLa ley determinará las reglas para la organización, funcionamiento y jerarquía de los órganos de dicho Instituto. Las instancias ejecutivas y técnicas dispondrán del personal calificado necesario para prestar el servicio profesional electoral, que se regirá por las disposiciones que al efecto expida la autoridad competente, conforme a lo dispuesto en el apartado D del artículo 41 de la Constitución federal y la ley general en la materia."
+    },
+    {
+      "id": "012.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Fracción V",
+      "texto": "V. La Consejera o el Consejero Presidente y los consejeros electorales durarán en su cargo siete años y no podrán ser reelectos; se renovarán de manera escalonada. Uno y otros serán designados por el Instituto Nacional Electoral conforme a lo dispuesto en la fracción IV, inciso c), ordinal 2°, del artículo 116 de la Constitución federal, cumpliendo los requisitos establecidos en el citado precepto y en la ley general en la materia.\n\nDe darse la falta absoluta de la Consejera o el Consejero Presidente o de cualquiera de los consejeros electorales, se estará a lo dispuesto en la norma citada en el primer párrafo de esta fracción y la ley general en la materia.\n\nLa Consejera o el Consejero Presidente y los consejeros electorales percibirán una remuneración acorde con sus funciones que será establecida previamente en el Presupuesto de Egresos del Estado, conforme a los principios, bases y lineamientos que prevén la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, las leyes y demás disposiciones reglamentarias que de ellas emanen; la cual en ningún supuesto podrá ser igual ni superior a la de los magistrados del Poder Judicial del Estado. No podrán tener otro empleo, cargo o comisión, con excepción de aquellos no remunerados en que actúen en representación del Instituto o que desempeñen en actividades docentes, científicas, culturales, de investigación o beneficencia.\n\nNo podrán ser designados como Consejera o Consejero Presidente ni como consejera o consejero electorales del Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, quienes hayan ocupado cargos públicos de elección popular o dirigencia de algún partido político, de conformidad a lo establecido en la Ley General.\n\nLa Consejera o el Consejero Presidente, los consejeros electorales y el Secretario Ejecutivo del Consejo General, no podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años siguientes a la fecha de conclusión de su encargo."
+    },
+    {
+      "id": "012.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Fracción VI",
+      "texto": "VI. La remoción del Consejero Presidente y de los consejeros electorales, será facultad del Instituto Nacional Electoral, en los términos y bajo las condiciones que establece la Constitución Federal y la Ley General de Instituciones y Procedimientos Electorales;\n\nVll. El Secretaria Ejecutivo o Secretario Ejecutivo, será nombrado por mayoría de votos de las consejeras y los consejeros electorales del instituto Electoral y de Participación Ciudadana del Estado de Jalisco, a propuesta de su Presidenta o Presidente; deberá reunir los requisitos que señale la ley;"
+    },
+    {
+      "id": "012.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Fracción VIII",
+      "texto": "VIII. El Instituto Electoral y de Participación Ciudadana del Estado de Jalisco, en los términos de la Constitución Política de los Estados Unidos Mexicanos y la ley aplicable, ejercerá funciones en las siguientes materias:"
+    },
+    {
+      "id": "012.VIII.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 12º › Fracción VIII › inciso a)",
+      "texto": "a) Derechos y el acceso a las prerrogativas de los candidatos y partidos políticos;"
+    },
+    {
+      "id": "012.VIII.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 12º › Fracción VIII › inciso b)",
+      "texto": "b) Educación cívica;"
+    },
+    {
+      "id": "012.VIII.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 12º › Fracción VIII › inciso c)",
+      "texto": "c) Preparación de la jornada electoral;"
+    },
+    {
+      "id": "012.VIII.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 12º › Fracción VIII › inciso d)",
+      "texto": "d) Impresión de documentos y la producción de materiales electorales;"
+    },
+    {
+      "id": "012.VIII.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 12º › Fracción VIII › inciso e)",
+      "texto": "e) Escrutinios y cómputos en los términos que señale la ley;"
+    },
+    {
+      "id": "012.VIII.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 12º › Fracción VIII › inciso f)",
+      "texto": "f) Declaración de validez y el otorgamiento de constancias en las elecciones locales;"
+    },
+    {
+      "id": "012.VIII.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 12º › Fracción VIII › inciso g)",
+      "texto": "g) Cómputo de la elección del titular del poder ejecutivo;"
+    },
+    {
+      "id": "012.VIII.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 12º › Fracción VIII › inciso h)",
+      "texto": "h) Resultados preliminares; encuestas o sondeos de opinión; observación electoral, y conteos rápidos, conforme a los lineamientos establecidos en la propia Constitución Federal y leyes generales aplicables;"
+    },
+    {
+      "id": "012.VIII.i",
+      "tipo": "inciso",
+      "marca": "i",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 12º › Fracción VIII › inciso i)",
+      "texto": "i) Organización, desarrollo, cómputo y declaración de resultados en los mecanismos de participación ciudadana que prevé la legislación local;"
+    },
+    {
+      "id": "012.VIII.j",
+      "tipo": "inciso",
+      "marca": "j",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 12º › Fracción VIII › inciso j)",
+      "texto": "j) Las delegadas por el Consejo General del Instituto Nacional Electoral;"
+    },
+    {
+      "id": "012.VIII.k",
+      "tipo": "inciso",
+      "marca": "k",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 12º › Fracción VIII › inciso k)",
+      "texto": "k) Coadyuvará en la generación de información y estadística para prevenir, atender, sancionar y erradicar la violencia política contra las mujeres en razón de género;"
+    },
+    {
+      "id": "012.VIII.l",
+      "tipo": "inciso",
+      "marca": "l",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 12º › Fracción VIII › inciso l)",
+      "texto": "l) Capacitación al personal del instituto, organismos públicos locales para prevenir, atender y erradicar la violencia política contra las mujeres en razón de género, así como en igualdad sustantiva;"
+    },
+    {
+      "id": "012.VIII.m",
+      "tipo": "inciso",
+      "marca": "m",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 12º › Fracción VIII › inciso m)",
+      "texto": "m) Las demás que determinen las leyes aplicables; y"
+    },
+    {
+      "id": "012.VIII.n",
+      "tipo": "inciso",
+      "marca": "n",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 12º › Fracción VIII › inciso n)",
+      "texto": "n) Todas las no reservadas al Instituto Nacional Electoral por la Constitución Federal.\n\nLas sesiones de todos los órganos colegiados de dirección serán públicas, en los términos que señale la ley;"
+    },
+    {
+      "id": "012.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Fracción IX",
+      "texto": "IX. A la iniciativa de Presupuesto de Egresos del estado de Jalisco, se deberá adjuntar el proyecto de presupuesto elaborado por el Instituto Electoral y de Participación Ciudadana del estado de Jalisco;"
+    },
+    {
+      "id": "012.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Fracción X",
+      "texto": "X. Para garantizar el principio de legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos.\n\nEn materia electoral la interposición de los medios de impugnación, no producirá efectos suspensivos sobre la resolución o el acto impugnado;"
+    },
+    {
+      "id": "012.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Fracción XI",
+      "texto": "XI. El Instituto Electoral y de Participación Ciudadana del Estado de Jalisco podrá, con la aprobación de la mayoría de votos de su consejo general, solicitar al Instituto Nacional Electoral la asunción parcial de alguna actividad propia de la función electoral que les corresponde.\n\nLa solicitud a que se refiere el párrafo anterior podrá presentarse en cualquier momento del proceso electoral de que se trate y, en su caso, sólo tendrá efectos durante el mismo;\n\nXll. El instituto Electoral y de Participación Ciudadana del Estado de Jalisco deberá, en su caso, solicitar la colaboración del instituto Nacional Electoral a fin de superar el secreto bancario, fiduciario y fiscal en los actos de fiscalización que realice a las finanzas de los partidos políticos, agrupaciones políticas locales, aspirantes, precandidatos y candidatos, en términos de lo dispuesto en el artículo 41 de la Constitución federal y lo que determinen las leyes;\n\nXlll. El Instituto Electoral y de Participación Ciudadana del Estado de Jalisco accederá, para sus propios fines, a los tiempos en radio y televisión en términos de lo dispuesto por la Constitución federal y la ley general en la materia;"
+    },
+    {
+      "id": "012.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Fracción XIV",
+      "texto": "XIV. La ley señalará los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación;"
+    },
+    {
+      "id": "012.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Fracción XV",
+      "texto": "XV. Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, se establecerá un sistema de medios de impugnación en los términos que señalen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes aplicables. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votados y de asociación.\n\nLa ley establecerá el sistema de nulidades de las elecciones locales por violaciones graves, dolosas y determinantes en los siguientes casos:"
+    },
+    {
+      "id": "012.XV.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "XV",
+      "ruta": "Artículo 12º › Fracción XV › inciso a)",
+      "texto": "a) Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;"
+    },
+    {
+      "id": "012.XV.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "XV",
+      "ruta": "Artículo 12º › Fracción XV › inciso b)",
+      "texto": "b) Se compre cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley;"
+    },
+    {
+      "id": "012.XV.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "XV",
+      "ruta": "Artículo 12º › Fracción XV › inciso c)",
+      "texto": "c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos ya sean económicos o materiales en las campañas; o"
+    },
+    {
+      "id": "012.XV.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "XV",
+      "ruta": "Artículo 12º › Fracción XV › inciso d)",
+      "texto": "d) Se acredite el uso sistemático de publicidad negativa en contra de uno o varios candidatos durante las campañas.\n\nDichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.\n\nEn caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada."
+    },
+    {
+      "id": "012.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Fracción XVI",
+      "texto": "XVI. La jornada electoral ordinaria deberá realizarse el primer domingo de junio del año que corresponda.\n\nDE LOS PARTIDOS Y AGRUPACIONES POLÍTICAS"
+    }
+  ]
+}

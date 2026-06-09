@@ -1,0 +1,18 @@
+{
+  "clave": "001",
+  "etiqueta": "Artículo 1º",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "001.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1º › párrafo 1",
+      "texto": "El Estado de Jalisco es libre y soberano en su régimen interior, pero unido a las demás partes integrantes de los Estados Unidos Mexicanos, en la Federación establecida por la Ley Fundamental."
+    }
+  ]
+}

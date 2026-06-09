@@ -1,0 +1,45 @@
+{
+  "clave": "047",
+  "etiqueta": "Artículo 47",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "047.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › párrafo 1",
+      "texto": "Consejo de Evaluación de la Ciudad de México"
+    },
+    {
+      "id": "047.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › 1.",
+      "texto": "1. La Ciudad de México contará con un organismo autónomo técnico colegiado, encargado de la evaluación de las políticas, programas y acciones que implementen los entes de la administración pública y las alcaldías. La ley determinará las atribuciones, funciones y composición de dicho órgano, así como la participación de las y los ciudadanos en los procesos de evaluación."
+    },
+    {
+      "id": "047.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › 2.",
+      "texto": "2. Se integrará por cinco consejeras o consejeros de entre los cuales se elegirá a la persona que lo presida."
+    },
+    {
+      "id": "047.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › 3.",
+      "texto": "3. El Consejo de Evaluación de la Ciudad de México, con base en la ley de la materia, determinará mediante acuerdos generales el número de comités encargados de evaluar respectivamente las políticas, programas y acciones en materia de desarrollo económico, desarrollo social, desarrollo urbano y rural, seguridad ciudadana y medio ambiente. Las recomendaciones que emitan los comités serán vinculantes para orientar el mejoramiento de las políticas, programas y acciones."
+    }
+  ]
+}

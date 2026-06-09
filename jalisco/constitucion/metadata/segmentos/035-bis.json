@@ -1,0 +1,342 @@
+{
+  "clave": "035-bis",
+  "etiqueta": "Artículo 35º Bis",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "035-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º Bis › párrafo 1",
+      "texto": "La revisión, examen y fiscalización de la cuenta pública del Estado y los municipios es una facultad soberana, inalienable e imprescriptible del Congreso del Estado, lo cual realiza a través de la Auditoría Superior del Estado de Jalisco, cuya titularidad será ocupada por el Auditor Superior."
+    },
+    {
+      "id": "035-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º Bis › párrafo 2",
+      "texto": "La Auditoría Superior del Estado, es un organismo del Poder Legislativo con carácter técnico, profesional y especializado, de revisión y examen, dotado con autonomía técnica y de gestión, con personalidad jurídica, patrimonio propio y capacidad de decisión, integrado por personal profesional, seleccionado por oposición, bajo el régimen de servicio profesional de carrera, y que en el ejercicio de sus atribuciones, puede decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley."
+    },
+    {
+      "id": "035-bis.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º Bis › párrafo 3",
+      "texto": "Corresponde a la Auditoría Superior del Estado la fiscalización de las cuentas públicas, estados financieros y del destino y ejercicio de los recursos obtenidos mediante empréstitos u obligaciones de los órganos del poder público, los ayuntamientos, los organismos públicos autónomos, los organismos públicos descentralizados, la Universidad de Guadalajara, los fideicomisos y las empresas de participación pública estatal o municipal mayoritaria."
+    },
+    {
+      "id": "035-bis.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º Bis › párrafo 4",
+      "texto": "La Auditoría Superior del Estado fiscalizará los recursos públicos estatales que se destinen y se ejerzan por cualquier entidad, persona física o jurídica, pública o privada, y los transferidos a fideicomisos, fondos o mandatos, públicos y privados, o a cualquier otra figura jurídica."
+    },
+    {
+      "id": "035-bis.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º Bis › párrafo 5",
+      "texto": "Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la Ley."
+    },
+    {
+      "id": "035-bis.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º Bis › párrafo 6",
+      "texto": "En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, la Auditoría Superior del Estado sólo podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la ley."
+    },
+    {
+      "id": "035-bis.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º Bis › párrafo 7",
+      "texto": "Serán principios rectores de la fiscalización la legalidad, definitividad, imparcialidad, certeza, racionalidad, confiabilidad, independencia, transparencia, objetividad y profesionalismo."
+    },
+    {
+      "id": "035-bis.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º Bis › párrafo 8",
+      "texto": "La Auditoría Superior del Estado podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en la cuenta pública."
+    },
+    {
+      "id": "035-bis.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º Bis › párrafo 9",
+      "texto": "La cuenta pública del año anterior deberá ser enviada a la Legislatura del Estado, a más tardar el 30 de abril."
+    },
+    {
+      "id": "035-bis.p10",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º Bis › párrafo 10",
+      "texto": "Sólo se podrá ampliar el plazo de presentación cuando medie solicitud del Gobernador tratándose de la cuenta pública estatal o de los presidentes municipales para el caso de la respectiva cuenta pública municipal, suficientemente justificada a juicio del Congreso."
+    },
+    {
+      "id": "035-bis.p11",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º Bis › párrafo 11",
+      "texto": "La Auditoría Superior del Estado podrá auditar el ejercicio del año en curso por lo que corresponde a los trabajos de planeación de las auditorías."
+    },
+    {
+      "id": "035-bis.p12",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º Bis › párrafo 12",
+      "texto": "La Auditoría Superior del Estado tendrá a su cargo:"
+    },
+    {
+      "id": "035-bis.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º Bis › Fracción I",
+      "texto": "I. Auditar los ingresos, los egresos, el manejo, la custodia y la aplicación de fondos, recursos y deuda pública de los poderes Ejecutivo, Legislativo y Judicial, de los organismos públicos autónomos y de los municipios de la entidad, así como de los entes públicos de índole estatal y municipal e instituciones que administren fondos o valores públicos, incluyendo la aplicación de recursos de origen federal, cuando éstos formen parte de la respectiva cuenta pública, estatal, municipal y de los particulares. Lo anterior, en coordinación con la Auditoría Superior de la Federación tratándose de recursos de origen federal y cuando así proceda conforme a la ley, a través de los informes que se rendirán en los términos que establezcan las disposiciones legales estatales y federales según corresponda.\n\nLos informes a que se refiere el párrafo precedente de esta fracción, en las situaciones excepcionales que determine la ley, podrán requerir a los sujetos auditados que procedan a la revisión de los conceptos que se estimen pertinentes y le rindan un informe. Si estos requerimientos no fueren atendidos en los plazos y formas señalados por la ley, se podrá dar lugar al establecimiento de las responsabilidades que correspondan, de conformidad con la ley.\n\nLas observaciones y recomendaciones que, respectivamente, la Auditoría Superior del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la cuenta pública en revisión que no se encuentren previamente aprobados. Sin perjuicio de lo anterior podrá solicitarse información de ejercicios anteriores exclusivamente cuando el programa, proyecto o erogación contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales.\n\nDe igual manera, previa dictaminación de procedencia por el titular de la Auditoría Superior del Estado, ésta podrá revisar a las entidades fiscalizadas respecto al ejercicio fiscal en curso y ejercicios anteriores, derivado de denuncias presentadas, en los términos de la Constitución Federal y conforme a la Ley. Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma. La Auditoría Superior del Estado rendirá un informe específico al Congreso del Estado y, en su caso, promoverá las acciones que correspondan ante el Tribunal de Justicia Administrativa, la Fiscalía Especializada en Combate a la Corrupción o las autoridades competentes.\n\nLa Auditoría Superior del Estado y los órganos internos de control propios de los poderes del Estado, de los municipios, de los organismos públicos estatales autónomos, organismos públicos descentralizados y fideicomisos estatales o municipales, establecerán los procedimientos necesarios que les permitan el mejor cumplimiento de sus respectivas atribuciones;"
+    },
+    {
+      "id": "035-bis.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º Bis › Fracción II",
+      "texto": "II. La Auditoría Superior del Estado deberá entregar al Congreso del Estado, en el plazo que fije la ley, los informes generales del resultado de la fiscalización superior de la cuenta pública, los cuales serán sometidos a la consideración de la Asamblea para su revisión; de igual forma deberá entregar al Congreso del Estado los informes individuales de auditoría correspondiente a cada entidad fiscalizada, en los plazos previstos por la ley.\n\nLos informes generales y los informes individuales serán de carácter público y tendrán el contenido que determine la ley. Los informes individuales incluirán como mínimo el dictamen de su revisión, un apartado específico con las observaciones de la Auditoría Superior del Estado, así como las justificaciones y aclaraciones que, en su caso, las entidades fiscalizadas hayan presentado sobre las mismas.\n\nLa ley establecerá las bases y procedimientos para que las entidades fiscalizadas conozcan con oportunidad los resultados de revisión y puedan presentar justificaciones o aclaraciones a efectos de ser consideradas y valoradas en los respectivos informes generales e individuales de auditoría.\n\nEl objeto de revisión de los informes generales, individuales y específicos por parte del Congreso, comprende un análisis exhaustivo de los mismos a efecto de comprobar el ejercicio estricto y adecuado de las atribuciones de la Auditoría Superior del Estado en el cumplimiento riguroso de los procedimientos de fiscalización superior y los relacionados con las responsabilidades administrativas que esta entidad tiene a su cargo, garantizando la autonomía técnica de la Auditoría Superior del Estado.\n\nLa Auditoría Superior del Estado deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes a que se refiere este artículo y los ordenamientos en la materia; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición;"
+    },
+    {
+      "id": "035-bis.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º Bis › Fracción III",
+      "texto": "III. Investigar los actos y omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia y aplicación de fondos y recursos de cualquier tipo, y efectuar visitas domiciliarias para exigir la exhibición de los libros y documentos indispensables para la realización de sus investigaciones, sujetándose a las leyes respectivas y a las formalidades para cateos. Verificar y realizar la fiscalización superior del desempeño y el cumplimiento de los objetivos contenidos en los planes y programas de los órganos, dependencias y entidades públicas, sin perjuicio de los sistemas de supervisión del desempeño que implementen los entes públicos; solo para efectos de recomendar mejoras en el desempeño;"
+    },
+    {
+      "id": "035-bis.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º Bis › Fracción IV",
+      "texto": "IV. La revisión del gasto y de la cuenta pública que realice la Auditoría Superior del Estado se sujetará a las siguientes bases:"
+    },
+    {
+      "id": "035-bis.IV.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 35º Bis › Fracción IV › inciso a)",
+      "texto": "a) Será conforme a los principios rectores que establece esta Constitución, dictaminada por el personal del servicio civil de carrera y el Auditor Superior del estado de Jalisco; y"
+    },
+    {
+      "id": "035-bis.IV.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 35º Bis › Fracción IV › inciso b)",
+      "texto": "b) Propondrá las sanciones administrativas bajo el principio de responsabilidad directa del funcionario y subsidiaria del titular de la entidad auditada, en caso de negligencia o falta de supervisión adecuada.\n\nLa fiscalización superior realizada por la Auditoría Superior del Estado, tiene por objeto conocer los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados en el presupuesto, así como determinar la eficacia y economía en el gasto público, de conformidad con los indicadores aprobados en los presupuestos de cada ente fiscalizable, en los términos que establezca la ley reglamentaria.\n\nLa revisión de la cuenta pública de la Auditoría Superior del Estado se llevará a cabo de conformidad con lo que establecen las leyes en la materia, las disposiciones generales que expida el Congreso de la Unión y de acuerdo con las bases que establece esta Constitución;"
+    },
+    {
+      "id": "035-bis.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º Bis › Fracción V",
+      "texto": "V. Promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa, la Fiscalía Especializada en Combate a la Corrupción o los órganos internos de control, según corresponda, para la imposición de sanciones a los servidores públicos y a los particulares. Así como proponer las medidas resarcitorias para cada caso concreto, cuando se afecte a la hacienda pública o al patrimonio estatal o municipal, o al de los entes públicos estatales autónomos, organismos descentralizados y fideicomisos estatales o municipales.\n\nLas resoluciones de naturaleza jurisdiccional en las que se imponga el resarcimiento de los daños o perjuicios a la hacienda o patrimonio públicos, tendrán el carácter de créditos fiscales;"
+    },
+    {
+      "id": "035-bis.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º Bis › Fracción VI",
+      "texto": "VI. Al frente de la Auditoría Superior del Estado habrá un Auditor Superior que será elegido conforme al procedimiento que determine la ley, por el Congreso del Estado, con voto de cuando menos dos terceras partes de los diputados integrantes de la Legislatura.\n\nEl Auditor Superior durará en su cargo ocho años y podrá ser elegido para un nuevo periodo por una sola ocasión, de acuerdo con el procedimiento que establece la ley. Sólo podrá ser removido por las causas graves que señale la ley, con la misma votación requerida para su nombramiento, así como por las causas y conforme a los procedimientos previstos en esta Constitución;"
+    },
+    {
+      "id": "035-bis.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º Bis › Fracción VII",
+      "texto": "VII. Para ser titular de la Auditoría Superior del Estado o auditor especial se requiere cumplir con los siguientes requisitos:"
+    },
+    {
+      "id": "035-bis.VII.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 35º Bis › Fracción VII › inciso a)",
+      "texto": "a) Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles, y ser nativo del estado o, en su defecto, haber residido en la entidad durante los últimos cinco años, salvo en el caso de ausencia motivada por el desempeño de algún cargo en el servicio público, siempre y cuando no haya sido fuera del país;"
+    },
+    {
+      "id": "035-bis.VII.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 35º Bis › Fracción VII › inciso b)",
+      "texto": "b) Tener cuando menos treinta años cumplidos al día de su designación;"
+    },
+    {
+      "id": "035-bis.VII.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 35º Bis › Fracción VII › inciso c)",
+      "texto": "c) Poseer el día de su designación, con antigüedad mínima de cinco años, título profesional de licenciado en Contaduría Pública, licenciado en Derecho o abogado, licenciado en Administración Pública o licenciado en Economía, expedido por la autoridad o institución legalmente facultada para ello;"
+    },
+    {
+      "id": "035-bis.VII.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 35º Bis › Fracción VII › inciso d)",
+      "texto": "d) Tener título profesional registrado en la Dirección de Profesiones del Estado;"
+    },
+    {
+      "id": "035-bis.VII.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 35º Bis › Fracción VII › inciso e)",
+      "texto": "e) Tener, al momento de su designación, experiencia de cinco años en materia de control, auditoría financiera y de responsabilidades;"
+    },
+    {
+      "id": "035-bis.VII.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 35º Bis › Fracción VII › inciso f)",
+      "texto": "f) No haber sido condenado por delito doloso que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro considerado como grave por la legislación penal, lo inhabilitará para el cargo, cualquiera que haya sido la pena;"
+    },
+    {
+      "id": "035-bis.VII.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 35º Bis › Fracción VII › inciso g)",
+      "texto": "g) No ser ministro de alguna asociación religiosa, a menos de que se separe formal, material y definitivamente de su ministerio en la forma y con la anticipación que establezcan las leyes;"
+    },
+    {
+      "id": "035-bis.VII.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 35º Bis › Fracción VII › inciso h)",
+      "texto": "h) No haber sido titular de alguna de las secretarías de despacho del Ejecutivo, Fiscal General del Estado, Fiscal Central, Fiscal Especializado de Delitos Electorales, Fiscal Especializado en Combate a la Corrupción, Procurador Social del Estado, magistrado de algún tribunal estatal, integrante del Consejo de la Judicatura del Estado, encargado de alguna hacienda municipal o diputado, durante los dos años previos a su designación;"
+    },
+    {
+      "id": "035-bis.VII.i",
+      "tipo": "inciso",
+      "marca": "i",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 35º Bis › Fracción VII › inciso i)",
+      "texto": "i) No haber sido Secretario de Estado, Procurador General de la República, Senador o Diputado federal, a menos que se separe de su cargo dos años antes al día en que tenga verificativo su designación;"
+    },
+    {
+      "id": "035-bis.VII.j",
+      "tipo": "inciso",
+      "marca": "j",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 35º Bis › Fracción VII › inciso j)",
+      "texto": "j) No tener parentesco de consanguinidad en línea recta y colateral hasta el cuarto grado ni de afinidad, al día de su designación, con los titulares de las entidades sujetas por esta Constitución y la ley a ser auditadas;"
+    },
+    {
+      "id": "035-bis.VII.k",
+      "tipo": "inciso",
+      "marca": "k",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 35º Bis › Fracción VII › inciso k)",
+      "texto": "k) No haber desempeñado cargo de elección popular en el estado en los tres años anteriores a su designación;"
+    },
+    {
+      "id": "035-bis.VII.l",
+      "tipo": "inciso",
+      "marca": "l",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 35º Bis › Fracción VII › inciso l)",
+      "texto": "l) No haber sido, durante los últimos seis años, miembro de la dirigencia nacional, estatal o municipal de un partido político, ni haber formado parte de los órganos electorales con derecho a voto durante dicho lapso; y"
+    },
+    {
+      "id": "035-bis.VII.m",
+      "tipo": "inciso",
+      "marca": "m",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 35º Bis › Fracción VII › inciso m)",
+      "texto": "m) Durante el ejercicio de su encargo, el Auditor Superior no podrá militar o formar parte activa de partido político alguno, ni asumir otro empleo, cargo o comisión, salvo los desempeñados en asociaciones científicas, docentes, artísticas o de beneficencia y los no remunerados. El nombramiento deberá recaer preferentemente entre aquellas personas que tengan prestigio profesional, capacidad y experiencia técnica en la materia; y"
+    },
+    {
+      "id": "035-bis.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º Bis › Fracción VIII",
+      "texto": "VIII. Las entidades auditadas y los sujetos a ser auditados por la Constitución y que señale la ley deberán:"
+    },
+    {
+      "id": "035-bis.VIII.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 35º Bis › Fracción VIII › inciso a)",
+      "texto": "a) Facilitar los auxilios que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones; y"
+    },
+    {
+      "id": "035-bis.VIII.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 35º Bis › Fracción VIII › inciso b)",
+      "texto": "b) Facilitar los apoyos necesarios para que los funcionarios y ex funcionarios rindan sus cuentas públicas, así como para dar contestación a los pliegos de observaciones que notifique la Auditoría Superior del Estado.\n\nEl Poder Ejecutivo del Estado y los ayuntamientos aplicarán el procedimiento administrativo de ejecución para el cobro de los créditos fiscales a que se refiere el presente artículo, en su respectivo ámbito de competencia y en términos de las disposiciones fiscales y administrativas que en cada caso resulten aplicables.\n\nA la iniciativa de Presupuesto de Egresos del Estado de Jalisco se deberá adjuntar invariablemente, para su valoración por el Congreso del Estado, el proyecto de presupuesto de la Auditoría Superior del Estado que elabore este organismo público, sin menoscabo de la facultad del Congreso del Estado de determinar los gastos del estado.\n\nDEL PODER EJECUTIVO"
+    }
+  ]
+}

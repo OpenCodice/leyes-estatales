@@ -1,0 +1,126 @@
+{
+  "clave": "033",
+  "etiqueta": "Artículo 33º",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "033.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › párrafo 1",
+      "texto": "Si el Ejecutivo juzga conveniente hacer observaciones a un proyecto de ley aprobado por el Congreso, podrá negarle su sanción y remitirlas dentro de los ocho días siguientes a aquél en que se le haga saber, para que tomadas en consideración, se examine de nuevo el negocio."
+    },
+    {
+      "id": "033.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › párrafo 2",
+      "texto": "En casos urgentes, a juicio del Congreso, el término de que se trata será de tres días, y así se anunciará al Ejecutivo."
+    },
+    {
+      "id": "033.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › párrafo 3",
+      "texto": "Se considerará aprobado por el Ejecutivo todo proyecto que no se devuelva con observaciones al Poder Legislativo dentro de los mencionados términos."
+    },
+    {
+      "id": "033.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › párrafo 4",
+      "texto": "El proyecto de ley al que se hubieren hecho observaciones, será sancionado y publicado si el Congreso vuelve a aprobarlo por los dos tercios del número total de sus miembros presentes."
+    },
+    {
+      "id": "033.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › párrafo 5",
+      "texto": "Todo proyecto de ley o decreto al que no hubiese hecho observaciones el Ejecutivo dentro del término que establece este artículo, debe ser publicado en un plazo de veinte días, como máximo, contados a partir de la fecha en que lo haya recibido."
+    },
+    {
+      "id": "033.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › párrafo 6",
+      "texto": "Los proyectos de ley o decreto objetados por el Gobernador del Estado y que ratifique el Congreso del Estado, deberán ser publicados en un término que no exceda de ocho días, contados a partir de la fecha en que los haya recibido nuevamente."
+    },
+    {
+      "id": "033.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › párrafo 7",
+      "texto": "La facultad de objetar proyectos de ley o decreto no comprenderá lo siguiente:"
+    },
+    {
+      "id": "033.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › Fracción I",
+      "texto": "I. La aprobación, modificación, derogación o abrogación de la Ley Orgánica del Poder Legislativo y los reglamentos internos que se deriven;"
+    },
+    {
+      "id": "033.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › Fracción II",
+      "texto": "II. La revisión y fiscalización de las cuentas públicas de las autoridades del Estado y de los municipios;"
+    },
+    {
+      "id": "033.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › Fracción III",
+      "texto": "III. Las resoluciones que dicte el Congreso como Jurado;"
+    },
+    {
+      "id": "033.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › Fracción IV",
+      "texto": "IV. Los decretos que con motivo de un proceso de referéndum declaren derogada una ley o disposición;"
+    },
+    {
+      "id": "033.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › Fracción V",
+      "texto": "V. Los nombramientos que en ejercicio de sus facultades realice el Congreso del Estado; y"
+    },
+    {
+      "id": "033.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › Fracción VI",
+      "texto": "VI. El voto que tenga que emitir en su calidad de constituyente permanente federal, en los términos que determina para tal efecto la Constitución Política de los Estados Unidos Mexicanos.\n\nLas Leyes y decretos a que se refieren las fracciones anteriores, para efectos de la publicación por parte del Poder Ejecutivo, deberán ser enviadas al Periódico Oficial del Estado, debiendo publicarse dentro del plazo que establece el quinto párrafo del presente artículo."
+    }
+  ]
+}

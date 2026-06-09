@@ -1,0 +1,27 @@
+{
+  "clave": "019",
+  "etiqueta": "Artículo 19º",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "019.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19º › párrafo 1",
+      "texto": "La demarcación territorial de los veinte distritos electorales uninominales, para elegir a diputadas y diputados por el principio de votación mayoritaria relativa, será la que resulte de dividir la población total del Estado entre el número de los distritos mencionados y para su distribución se tomará en cuenta el último censo general de población."
+    },
+    {
+      "id": "019.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19º › párrafo 2",
+      "texto": "Para la elección de las diputadas y diputados por el principio de representación proporcional, se constituirá el territorio del Estado en una sola circunscripción o en varias circunscripciones plurinominales La ley establecerá la fórmula electoral, las bases y el procedimiento que se aplicará en la asignación de diputaciones por este principio."
+    }
+  ]
+}

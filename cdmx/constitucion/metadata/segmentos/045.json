@@ -1,0 +1,117 @@
+{
+  "clave": "045",
+  "etiqueta": "Artículo 45",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "045.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45 › párrafo 1",
+      "texto": "Sistema de justicia penal"
+    },
+    {
+      "id": "045.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45 › Apartado A",
+      "texto": "A. Principios"
+    },
+    {
+      "id": "045.A.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 45 › Apartado A › 1.",
+      "texto": "1. En la Ciudad de México el proceso penal será acusatorio, adversarial y oral, y se regirá por los principios de publicidad, contradicción, concentración, continuidad, de igualdad ante la ley, de igualdad entre las partes, de derecho a un juicio previo y debido proceso, presunción INSTITUTO DE INVESTIGACIONES LEGISLATIVAS de inocencia, prohibición de doble enjuiciamiento e inmediación. Para las garantías y principios del debido proceso penal se estará a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, los instrumentos internacionales en la materia, esta Constitución y las leyes generales y locales."
+    },
+    {
+      "id": "045.A.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 45 › Apartado A › 2.",
+      "texto": "2. Las autoridades de la Ciudad establecerán una comisión ejecutiva de atención a víctimas que tome en cuenta sus diferencias, necesidades e identidad cultural; proporcione procedimientos judiciales y administrativos oportunos, expeditos, accesibles y gratuitos; e incluya el resarcimiento, indemnización, asistencia y el apoyo material, médico, psicológico y social necesarios, en los términos de lo previsto en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes generales y locales en la materia."
+    },
+    {
+      "id": "045.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45 › Apartado B",
+      "texto": "B. (Se deroga)"
+    },
+    {
+      "id": "045.B.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 45 › Apartado B › 1.",
+      "texto": "1. (Se deroga)"
+    },
+    {
+      "id": "045.B.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 45 › Apartado B › 2.",
+      "texto": "2. (Se deroga)"
+    },
+    {
+      "id": "045.B.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 45 › Apartado B › 3.",
+      "texto": "3. (Se deroga)"
+    },
+    {
+      "id": "045.B.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 45 › Apartado B › 4.",
+      "texto": "4. (Se deroga)"
+    },
+    {
+      "id": "045.B.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 45 › Apartado B › 5.",
+      "texto": "5. (Se deroga)"
+    },
+    {
+      "id": "045.B.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 45 › Apartado B › 6.",
+      "texto": "6. (Se deroga)"
+    },
+    {
+      "id": "045.B.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 45 › Apartado B › 7.",
+      "texto": "7. (Se deroga) DE LOS ORGANISMOS AUTÓNOMOS"
+    }
+  ]
+}

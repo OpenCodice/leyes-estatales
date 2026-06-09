@@ -1,0 +1,81 @@
+{
+  "clave": "059",
+  "etiqueta": "Artículo 59º",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "059.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59º › párrafo 1",
+      "texto": "Para ser electo Magistrado del Supremo Tribunal de Justicia del Estado se requiere:"
+    },
+    {
+      "id": "059.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59º › Fracción I",
+      "texto": "I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles; ser nativo del Estado o, en su defecto, haber residido en la entidad durante los últimos cinco años, salvo en el caso de ausencia motivada por el desempeño de algún cargo en el servicio público, siempre y cuando no haya sido fuera del país;"
+    },
+    {
+      "id": "059.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59º › Fracción II",
+      "texto": "II. Tener cuando menos treinta y cinco años cumplidos al día de la elección;"
+    },
+    {
+      "id": "059.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59º › Fracción III",
+      "texto": "III. Poseer el día de la elección, con antigüedad mínima de diez años, título profesional de licenciado en derecho, abogado o su equivalente, expedido por autoridad o institución legalmente facultada para ello;"
+    },
+    {
+      "id": "059.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59º › Fracción IV",
+      "texto": "IV. Gozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;"
+    },
+    {
+      "id": "059.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59º › Fracción V",
+      "texto": "V. No haber sido Gobernador, titular de alguna de las secretarías de despacho del Ejecutivo, jefe de departamento administrativo, Fiscal General del Estado, Fiscal Ejecutivo de Investigación Criminal, Fiscal Especializado de Delitos Electorales, Fiscal Especializado en Combate a la Corrupción, Procurador Social del Estado, Magistrado del Supremo Tribunal de Justicia o integrante del Consejo de la Judicatura, Magistrado del Tribunal de Justicia Administrativa o Magistrado del Tribunal de Arbitraje y Escalafón, Diputado local, Presidente, Síndico o Regidor de Ayuntamiento durante el año previo al día de la elección;"
+    },
+    {
+      "id": "059.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59º › Fracción VI",
+      "texto": "VI. No haber sido Secretario de Estado, Fiscal General de la República, Senador o Diputado Federal, a menos que se separe de su encargo un año antes al día en que tenga verificativo la elección; y"
+    },
+    {
+      "id": "059.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59º › Fracción VII",
+      "texto": "VII. Realizar y aprobar las evaluaciones correspondientes, en los términos de esta Constitución y la ley."
+    }
+  ]
+}
