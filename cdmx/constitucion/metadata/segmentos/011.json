@@ -21,7 +21,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 11 › Apartado A",
-      "texto": "A. Grupos de atención prioritaria La Ciudad de México garantizará la atención prioritaria para el pleno ejercicio de los derechos de las personas que debido a la desigualdad estructural enfrentan discriminación, INSTITUTO DE INVESTIGACIONES LEGISLATIVAS exclusión, maltrato, abuso, violencia y mayores obstáculos para el pleno ejercicio de sus derechos y libertades fundamentales."
+      "texto": "A. Grupos de atención prioritaria La Ciudad de México garantizará la atención prioritaria para el pleno ejercicio de los derechos de las personas que debido a la desigualdad estructural enfrentan discriminación, exclusión, maltrato, abuso, violencia y mayores obstáculos para el pleno ejercicio de sus derechos y libertades fundamentales."
     },
     {
       "id": "011.B",
@@ -120,7 +120,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 11 › Apartado B › inciso c)",
-      "texto": "c) La creación, desarrollo y fortalecimiento de organizaciones de la sociedad civil dedicadas a la defensa de sus derechos; y INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "c) La creación, desarrollo y fortalecimiento de organizaciones de la sociedad civil dedicadas a la defensa de sus derechos; y"
     },
     {
       "id": "011.B.d~2",
@@ -204,15 +204,6 @@
       "texto": "2. La convivencia familiar es un derecho humano tutelado por esta Constitución."
     },
     {
-      "id": "011.p2",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "D",
-      "fraccion": "",
-      "ruta": "Artículo 11 › Apartado D › párrafo 2",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
-    },
-    {
       "id": "011.E",
       "tipo": "apartado",
       "marca": "E",
@@ -246,16 +237,7 @@
       "apartado": "G",
       "fraccion": "",
       "ruta": "Artículo 11 › Apartado G › 1.",
-      "texto": "1. Esta Constitución reconoce los derechos de las personas con discapacidad."
-    },
-    {
-      "id": "011.p3",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "G",
-      "fraccion": "",
-      "ruta": "Artículo 11 › Apartado G › párrafo 3",
-      "texto": "Se promoverá la asistencia personal, humana o animal, para su desarrollo en comunidad. Las autoridades adoptarán las medidas necesarias para salvaguardar integralmente el ejercicio de sus derechos y respetar su voluntad, garantizando en todo momento los principios de inclusión y accesibilidad, considerando el diseño universal y los ajustes razonables."
+      "texto": "1. Esta Constitución reconoce los derechos de las personas con discapacidad. Se promoverá la asistencia personal, humana o animal, para su desarrollo en comunidad. Las autoridades adoptarán las medidas necesarias para salvaguardar integralmente el ejercicio de sus derechos y respetar su voluntad, garantizando en todo momento los principios de inclusión y accesibilidad, considerando el diseño universal y los ajustes razonables."
     },
     {
       "id": "011.G.2",
@@ -265,15 +247,6 @@
       "fraccion": "",
       "ruta": "Artículo 11 › Apartado G › 2.",
       "texto": "2. Las autoridades deben implementar un sistema de salvaguardias y apoyos en la toma de decisiones que respete su voluntad y capacidad jurídica."
-    },
-    {
-      "id": "011.p4",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "G",
-      "fraccion": "",
-      "ruta": "Artículo 11 › Apartado G › párrafo 4",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
     },
     {
       "id": "011.G.3",
@@ -345,7 +318,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 11 › Apartado J",
-      "texto": "J. Derechos de las víctimas Esta Constitución protege y garantiza, en el ámbito de sus competencias, los derechos de las víctimas de violaciones a los derechos humanos o de la comisión de delitos. Las autoridades INSTITUTO DE INVESTIGACIONES LEGISLATIVAS adoptarán las medidas necesarias para su atención integral en los términos de la legislación aplicable, dándose prioridad a las víctimas de todo delito que ponga en peligro su vida e integridad física y emocional."
+      "texto": "J. Derechos de las víctimas Esta Constitución protege y garantiza, en el ámbito de sus competencias, los derechos de las víctimas de violaciones a los derechos humanos o de la comisión de delitos. Las autoridades adoptarán las medidas necesarias para su atención integral en los términos de la legislación aplicable, dándose prioridad a las víctimas de todo delito que ponga en peligro su vida e integridad física y emocional."
     },
     {
       "id": "011.K",
@@ -375,6 +348,15 @@
       "texto": "2. Las autoridades adoptarán las medidas necesarias para salvaguardar la dignidad y el desarrollo de las niñas, niños y adolescentes en situación de calle, evitándose su participación en actividades que atenten contra su seguridad e integridad."
     },
     {
+      "id": "011.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "K",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado K › párrafo 2",
+      "texto": "(REFORMADO SEGUNDO PÁRRAFO G.O. CDMX 26 DE JULIO DE 2019)"
+    },
+    {
       "id": "011.L",
       "tipo": "apartado",
       "marca": "L",
@@ -384,13 +366,13 @@
       "texto": "L. Derechos de las personas privadas de su libertad Las personas privadas de su libertad tendrán derecho a un trato humano, a vivir en condiciones de reclusión adecuadas que favorezcan su reinserción social y familiar, a la seguridad, al respeto de su integridad física y mental, a una vida libre de violencia, a no ser torturadas ni víctimas de tratos crueles, inhumanos o degradantes y a tener contacto con su familia."
     },
     {
-      "id": "011.p5",
+      "id": "011.p3",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "L",
       "fraccion": "",
-      "ruta": "Artículo 11 › Apartado L › párrafo 5",
-      "texto": "(Se deroga)"
+      "ruta": "Artículo 11 › Apartado L › párrafo 3",
+      "texto": "(DEROGADO SEGUNDO PÁRRAFO G.O. CDMX 26 DE JULIO DE 2019)"
     },
     {
       "id": "011.M",
@@ -400,15 +382,6 @@
       "fraccion": "",
       "ruta": "Artículo 11 › Apartado M",
       "texto": "M. Derechos de personas que residen en instituciones de asistencia social Las personas que residen en instituciones de asistencia social tienen el derecho a disfrutar de un entorno seguro, afectivo, comprensivo y libre de violencia; a recibir cuidado y protección frente a actos u omisiones que atenten contra su integridad; a una atención integral que les permita lograr su desarrollo físico, cognitivo, afectivo y social; a servicios de calidad y calidez por personal capacitado, calificado, apto y suficiente."
-    },
-    {
-      "id": "011.p6",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "M",
-      "fraccion": "",
-      "ruta": "Artículo 11 › Apartado M › párrafo 6",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
     },
     {
       "id": "011.N",
@@ -429,12 +402,12 @@
       "texto": "1. Las personas afrodescendientes gozan de los derechos reconocidos por esta Constitución."
     },
     {
-      "id": "011.p7",
+      "id": "011.p4",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "N",
       "fraccion": "",
-      "ruta": "Artículo 11 › Apartado N › párrafo 7",
+      "ruta": "Artículo 11 › Apartado N › párrafo 4",
       "texto": "Tienen derecho a la protección y promoción de sus conocimientos tradicionales y su patrimonio cultural, artístico, material e inmaterial."
     },
     {
@@ -499,15 +472,6 @@
       "fraccion": "",
       "ruta": "Artículo 11 › Apartado P › 2.",
       "texto": "2. Se reconoce la igualdad de derechos a todas las personas, sin importar sus convicciones éticas, de conciencia y de su vida religiosa."
-    },
-    {
-      "id": "011.p8",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "P",
-      "fraccion": "",
-      "ruta": "Artículo 11 › Apartado P › párrafo 8",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
     },
     {
       "id": "011.P.3",
