@@ -4,33 +4,34 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:75a835beec4faabd",
+    "hash_texto": "sha256:7c8c2b41977bafb3",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Ciudad de México",
   "temas": [
     "soberanía",
-    "poder público",
-    "democracia",
     "derechos humanos",
+    "gobierno democrático",
     "autonomía",
+    "participación ciudadana",
+    "sustentabilidad",
     "educación",
-    "sustentabilidad"
+    "innovación"
   ],
   "terminos_coloquiales": [
-    "gobierno de la Ciudad",
-    "derechos del pueblo",
-    "cómo se rige la ciudad",
-    "autonomía de la Ciudad",
-    "todo sobre la Ciudad de México"
+    "gobierno de la ciudad",
+    "Derechos de los ciudadanos",
+    "soberanía capitalina",
+    "ciudad autónoma",
+    "educación en la ciudad",
+    "participación en la ciudad"
   ],
-  "resumen": "La Ciudad de México es una entidad autónoma que ejerce su soberanía a través del pueblo y sus poderes. Promueve la democracia, los derechos humanos, la educación y la sustentabilidad para un desarrollo integral.",
+  "resumen": "El artículo define a la Ciudad de México como una entidad con soberanía que pertenece al pueblo y establece un gobierno democrático y participativo. También resalta la autonomía de la ciudad en su organización y la importancia de la sustentabilidad y la educación para su desarrollo.",
   "preguntas_ejemplo": [
-    "¿Qué tipo de gobierno tiene la Ciudad de México?",
-    "¿Cómo se ejerce la soberanía en la Ciudad de México?",
-    "¿Cuáles son los derechos garantizados en la ciudad?",
-    "¿Qué papel juega el pueblo en el gobierno de la Ciudad de México?",
-    "¿Cómo se promueve la educación en la Ciudad?",
-    "¿Cuáles son las características de la autonomía de la Ciudad?"
+    "¿Qué derechos tiene el pueblo en la Ciudad de México?",
+    "¿Cómo se gobierna la Ciudad de México?",
+    "¿Qué significa que la ciudad sea autónoma?",
+    "¿Cómo se promueve la educación en la Ciudad de México?",
+    "¿Cuáles son los principales temas que se abordan en la Constitución de la Ciudad de México?"
   ]
 }

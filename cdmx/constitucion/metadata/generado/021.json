@@ -4,7 +4,7 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:663cf7b0403c643c",
+    "hash_texto": "sha256:aa88bc4ee132f831",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Hacienda Pública",
@@ -13,25 +13,25 @@
     "presupuesto",
     "contribuciones",
     "gasto público",
-    "ingresos",
     "transparencia",
     "deuda pública",
-    "autonomía municipal"
+    "alcaldías",
+    "finanzas públicas"
   ],
   "terminos_coloquiales": [
-    "dinero del gobierno",
-    "impuestos",
-    "cómo se gasta el dinero",
-    "cómo se maneja el presupuesto",
-    "recursos de la ciudad",
-    "gasto de las alcaldías"
+    "dinero de la ciudad",
+    "cómo se gasta el presupuesto",
+    "impuestos de la ciudad",
+    "aportes del gobierno",
+    "cómo funcionan las alcaldías",
+    "deudas de la ciudad"
   ],
-  "resumen": "El artículo establece cómo debe organizarse y administrarse la hacienda pública en la Ciudad de México, incluyendo principios de transparencia y rendición de cuentas. También detalla el manejo de recursos y presupuestos tanto del gobierno local como de las alcaldías.",
+  "resumen": "El artículo establece cómo se organiza y maneja la Hacienda Pública en la Ciudad de México, asegurando la transparencia y el uso adecuado de los recursos. También habla de cómo las alcaldías distribuyen y utilizan el presupuesto para mejorar la vida de sus habitantes.",
   "preguntas_ejemplo": [
-    "¿Cómo se distribuye el dinero en la Ciudad de México?",
-    "¿Qué principios rigen el uso del presupuesto público?",
-    "¿Puede el gobierno local endeudarse?",
-    "¿Qué recursos tienen las alcaldías?",
-    "¿Cómo se garantiza la transparencia en el uso de los fondos públicos?"
+    "¿Cómo se financia la Ciudad de México?",
+    "¿Qué reglas hay sobre el gasto del gobierno local?",
+    "¿Cómo se distribuyen los recursos entre las alcaldías?",
+    "¿Qué principios rigen la hacienda pública?",
+    "¿Pueden las alcaldías pedir dinero prestado?"
   ]
 }

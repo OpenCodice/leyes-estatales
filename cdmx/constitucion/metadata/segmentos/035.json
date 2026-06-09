@@ -24,15 +24,6 @@
       "texto": "A. De la función judicial La función judicial se regirá por los principios de legalidad y honradez, accesibilidad, transparencia, máxima publicidad y rendición de cuentas."
     },
     {
-      "id": "035.p2",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "A",
-      "fraccion": "",
-      "ruta": "Artículo 35 › Apartado A › párrafo 2",
-      "texto": "Para garantizar el acceso a la justicia de forma ágil y oportuna, el Poder Judicial, a través del Consejo de la Judicatura; el Tribunal Electoral, el Sistema de Justicia Laboral y el Tribunal de Justicia Administrativa, todos de la Ciudad de México, contarán con un Sistema de Justicia INSTITUTO DE INVESTIGACIONES LEGISLATIVAS Electrónica, acorde con el principio de equivalencia funcional y mediante el uso de las tecnologías de la información y la comunicación, a efecto de proporcionar las herramientas para tramitar los juicios y sus instancias, en forma electrónica, de manera alternativa y adicional a su tramitación escrita, de acuerdo con su naturaleza y formalidades esenciales."
-    },
-    {
       "id": "035.B",
       "tipo": "apartado",
       "marca": "B",
@@ -57,7 +48,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado B › 2.",
-      "texto": "2. La administración, gestión vigilancia, evaluación, disciplina y servicio de carrera del Poder Judicial de la Ciudad de México estarán a cargo del Consejo de la Judicatura local."
+      "texto": "2. La administración, vigilancia, evaluación, disciplina y servicio de carrera del Poder Judicial de la Ciudad de México estarán a cargo del Consejo de la Judicatura local."
     },
     {
       "id": "035.B.3",
@@ -69,13 +60,22 @@
       "texto": "3. El Consejo de la Judicatura designará a las y los jueces conforme a lo previsto por esta Constitución y la ley en la materia."
     },
     {
+      "id": "035.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 35 › Apartado B › párrafo 2",
+      "texto": "Las y los jueces deberán presentar el respectivo examen de oposición, con base en lo dispuesto en el apartado E, numeral 11 del presente artículo y en lo dispuesto por la ley orgánica."
+    },
+    {
       "id": "035.p3",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado B › párrafo 3",
-      "texto": "Las y los jueces deberán presentar el respectivo examen de oposición, con base en lo dispuesto en el apartado E, numeral 11 del presente artículo y en lo dispuesto por la ley orgánica."
+      "texto": "Las y los jueces durarán seis años en su cargo y podrán ser ratificados, previa evaluación pública, en los términos ya descritos. Durarán en el cargo hasta los setenta años de edad, y sólo podrán ser privados de sus puestos en los términos que establece esta Constitución y las leyes."
     },
     {
       "id": "035.p4",
@@ -84,15 +84,6 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado B › párrafo 4",
-      "texto": "Las y los jueces durarán seis años en su cargo y podrán ser ratificados, previa evaluación pública, en los términos ya descritos. Durarán en el cargo hasta los setenta años de edad, y sólo podrán ser privados de sus puestos en los términos que establece esta Constitución y las leyes."
-    },
-    {
-      "id": "035.p5",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "B",
-      "fraccion": "",
-      "ruta": "Artículo 35 › Apartado B › párrafo 5",
       "texto": "Las y los jueces no podrán actuar como patronos, abogados o representantes en cualquier proceso ante los órganos judiciales de la Ciudad de México mientras estén en el cargo, cuando hayan sido separados del mismo por sanción disciplinaria o dentro de los dos años siguientes a su retiro."
     },
     {
@@ -102,7 +93,16 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado B › 4.",
-      "texto": "4. A propuesta del Consejo de la Judicatura las y los magistrados del Tribunal Superior de Justicia serán designados y en su caso ratificados por las dos terceras partes de las y los diputados del Congreso."
+      "texto": "4. A propuesta del Consejo de la Judicatura las y los magistrados del Tribunal Superior de Justicia serán designados y en su caso ratificados por las dos terceras partes de las y los diputados del Congreso, de entre las ternas que les remita el propio Consejo."
+    },
+    {
+      "id": "035.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 35 › Apartado B › párrafo 5",
+      "texto": "Las ternas serán integradas por las y los aspirantes que hayan cubierto los requisitos y la evaluación que al efecto se lleve a cabo en los términos del apartado E, numeral 11 del presente artículo."
     },
     {
       "id": "035.p6",
@@ -111,7 +111,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado B › párrafo 6",
-      "texto": "Las personas aspirantes propuestas deberán cumplir los requisitos establecidos en el apartado E, numeral 11 del presente artículo."
+      "texto": "Las y los magistrados durarán seis años en su cargo y podrán ser ratificados, previa evaluación pública en los términos dispuestos en esta Constitución y en la ley de la materia. Una vez ratificados permanecerán en su encargo hasta los setenta años de edad, y sólo podrán ser privados del mismo en los términos que establecen esta Constitución y las leyes."
     },
     {
       "id": "035.p7",
@@ -120,15 +120,6 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado B › párrafo 7",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS Las y los magistrados durarán seis años en su cargo y podrán ser ratificados, previa evaluación pública en los términos dispuestos en esta Constitución y en la ley de la materia. Una vez ratificados permanecerán en su encargo hasta los setenta años de edad, y sólo podrán ser privados del mismo en los términos que establecen esta Constitución y las leyes."
-    },
-    {
-      "id": "035.p8",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "B",
-      "fraccion": "",
-      "ruta": "Artículo 35 › Apartado B › párrafo 8",
       "texto": "Las y los magistrados no podrán actuar como patronos, abogados o representantes en cualquier proceso ante los órganos judiciales de la Ciudad de México, mientras estén en el cargo, cuando hayan sido separados del mismo por sanción disciplinaria o dentro de los dos años siguientes a su retiro."
     },
     {
@@ -168,6 +159,15 @@
       "texto": "8. En la integración del Poder Judicial se garantizará en todo momento, el principio de paridad de género."
     },
     {
+      "id": "035.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 35 › Apartado B › párrafo 8",
+      "texto": "(REFORMADO G.O. CDMX 10 DE DICIEMBRE DE 2019)"
+    },
+    {
       "id": "035.B.9",
       "tipo": "numeral",
       "marca": "9",
@@ -193,15 +193,6 @@
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado C",
       "texto": "C. Facultades y atribuciones del Tribunal Superior de Justicia El Tribunal Superior de Justicia de la Ciudad de México tendrá las siguientes funciones:"
-    },
-    {
-      "id": "035.p10",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "C",
-      "fraccion": "",
-      "ruta": "Artículo 35 › Apartado C › párrafo 10",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
     },
     {
       "id": "035.C.a",
@@ -246,7 +237,7 @@
       "apartado": "D",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado D › 2.",
-      "texto": "2. El Centro de Justicia Alternativa dependerá de la Presidencia del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México; su titular será nombrado por éste última de conformidad con lo previsto por la ley orgánica y durará seis años en su cargo, sin posibilidad de reelección."
+      "texto": "2. El Centro de Justicia Alternativa será un órgano desconcentrado del Tribunal Superior de Justicia de la Ciudad de México con plena autonomía técnica, operativa, presupuestaria y de decisión; su titular será nombrado por el Consejo de la Judicatura de conformidad con lo previsto por la ley orgánica y durará seis años en su cargo, sin posibilidad de reelección."
     },
     {
       "id": "035.D.3",
@@ -300,7 +291,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado E",
-      "texto": "E. Consejo de la Judicatura INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "E. Consejo de la Judicatura"
     },
     {
       "id": "035.E.1",
@@ -310,6 +301,15 @@
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado E › 1.",
       "texto": "1. El Consejo de la Judicatura de la Ciudad de México es un órgano del Poder Judicial dotado de autonomía, independencia técnica y de gestión para realizar sus funciones. Sus resoluciones serán definitivas e inatacables."
+    },
+    {
+      "id": "035.p10",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 35 › Apartado E › párrafo 10",
+      "texto": "(REFORMADO G.O. CDMX 10 DE DICIEMBRE DE 2019)"
     },
     {
       "id": "035.E.2",
@@ -327,7 +327,7 @@
       "apartado": "E",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado E › párrafo 11",
-      "texto": "La designación de las tres últimas Consejeras o Consejeros que refiere el párrafo anterior, deberá recaer en personas que se hayan distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de las actividades jurídicas y administrativas, y no representarán los intereses del Órgano que los haya elegido."
+      "texto": "La designación de las tres últimas Consejeras o Consejeros que refiere el párrafo anterior, deberá recaer en personas que se hayan distinguido por su capacidad, honestidad y honorabilidad en el ejercicio de las actividades jurídicas y administrativas, y no representarán los intereses del Órgano que los haya elegido. La persona que presida el Tribunal Superior de Justicia también presidirá el Consejo de la Judicatura."
     },
     {
       "id": "035.p12",
@@ -336,7 +336,7 @@
       "apartado": "E",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado E › párrafo 12",
-      "texto": "La persona que presida el Tribunal Superior de Justicia también presidirá el Consejo de la Judicatura."
+      "texto": "(REFORMADO G.O. CDMX 10 DE DICIEMBRE DE 2019)"
     },
     {
       "id": "035.E.3",
@@ -355,15 +355,6 @@
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado E › párrafo 13",
       "texto": "Asimismo, las y los Consejeros serán sustituidos escalonadamente, conforme se produzcan las vacantes una vez concluido el periodo para el cual se les hubiere designado; la persona que presida el Consejo será sustituida conforme lo sea en la Presidencia del Tribunal."
-    },
-    {
-      "id": "035.p14",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "E",
-      "fraccion": "",
-      "ruta": "Artículo 35 › Apartado E › párrafo 14",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
     },
     {
       "id": "035.E.4",
@@ -420,22 +411,22 @@
       "texto": "9. El Consejo de la Judicatura seguirá los principios de legalidad y honradez, accesibilidad, transparencia, máxima publicidad y rendición de cuentas."
     },
     {
+      "id": "035.p14",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 35 › Apartado E › párrafo 14",
+      "texto": "El Consejo de la Judicatura funcionará en pleno y en comisiones y contará con los órganos auxiliares necesarios para el desempeño de sus atribuciones. Será competente en la adscripción y remoción de jueces y magistrados; velará por los derechos humanos laborales de las personas servidoras públicas para nombrar y remover al personal administrativo; nombrará y removerá al personal administrativo del Poder Judicial respetando el servicio civil de carrera, a propuesta de las y los titulares de los órganos; y en la aplicación de las normas que regulan las relaciones de trabajo de las personas servidoras públicas y los poderes de la Ciudad, así como las demás facultades que la ley señale."
+    },
+    {
       "id": "035.p15",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "E",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado E › párrafo 15",
-      "texto": "El Consejo de la Judicatura funcionará en pleno y en comisiones y contará con los órganos auxiliares necesarios para el desempeño de sus atribuciones. Será competente en la adscripción y remoción de jueces y magistrados; velará por los derechos humanos laborales de las personas servidoras públicas para nombrar y remover al personal administrativo; nombrará y removerá al personal administrativo del Poder Judicial respetando el servicio civil de carrera, a propuesta de las y los titulares de los órganos; y en la aplicación de las normas que regulan las relaciones de trabajo de las personas servidoras públicas y los poderes de la Ciudad, así como las demás facultades que la ley señale."
-    },
-    {
-      "id": "035.p16",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "E",
-      "fraccion": "",
-      "ruta": "Artículo 35 › Apartado E › párrafo 16",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "(REFORMADO G.O. CDMX 10 DE DICIEMBRE DE 2019)"
     },
     {
       "id": "035.E.10",
@@ -453,7 +444,7 @@
       "apartado": "E",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado E › 11.",
-      "texto": "11. El ingreso, formación, permanencia y especialización de la carrera judicial se basará en los resultados del desempeño y el reconocimiento de méritos. Se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, honradez e independencia. El ingreso se hará mediante concursos públicos de oposición a cargo del Instituto de Estudios Judiciales que dependerá de la Presidencia del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México, contará con un Consejo Académico. La permanencia estará sujeta al cumplimiento de los requisitos para el cargo, así como a la evaluación y vigilancia sobre el desempeño en los términos previstos en la ley y en los acuerdos generales que con arreglo a ésta, emita este Consejo Académico. La ley regulará el servicio de carrera para el personal de la rama administrativa."
+      "texto": "11. El ingreso, formación, permanencia y especialización de la carrera judicial se basará en los resultados del desempeño y el reconocimiento de méritos. Se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, honradez e independencia. El ingreso se hará mediante concursos públicos de oposición a cargo del Instituto de Estudios Judiciales como órgano desconcentrado del Consejo de la Judicatura, que contará con un Consejo Académico. La permanencia estará sujeta al cumplimiento de los requisitos para el cargo, así como a la evaluación y vigilancia sobre el desempeño en los términos previstos en la ley y en los acuerdos generales que con arreglo a ésta, emita este Consejo Académico. La ley regulará el servicio de carrera para el personal de la rama administrativa."
     },
     {
       "id": "035.F",
@@ -462,15 +453,15 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado F",
-      "texto": "F. Instituto de Servicios Periciales y Ciencias Forenses Es un órgano dependiente de la Presidencia del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México, especializado en la prestación de servicios periciales y forenses. La ley regulará su organización y funcionamiento. Contará con un consejo técnico que coadyuvará en el debido funcionamiento y el ejercicio de las atribuciones del propio Instituto, cuya integración y facultades estarán previstas en la ley."
+      "texto": "F. Instituto de Servicios Periciales y Ciencias Forenses Es un órgano desconcentrado del Consejo de la Judicatura, dotado de autonomía técnica y presupuestal, especializado en la prestación de servicios periciales y forenses. La ley regulará su organización y funcionamiento. Contará con un consejo técnico que coadyuvará en el debido funcionamiento y el ejercicio de las atribuciones del propio Instituto, cuya integración y facultades estarán previstas en la ley."
     },
     {
-      "id": "035.p17",
+      "id": "035.p16",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "F",
       "fraccion": "",
-      "ruta": "Artículo 35 › Apartado F › párrafo 17",
+      "ruta": "Artículo 35 › Apartado F › párrafo 16",
       "texto": "En el ejercicio de sus funciones deberá garantizar la objetividad e imparcialidad de los dictámenes que emita, de conformidad con las leyes y los estándares nacionales e internacionales en la materia."
     }
   ]

@@ -4,7 +4,7 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:8ef5c5bf7ac597ef",
+    "hash_texto": "sha256:2fb56ffcf33d9c6b",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Derechos Humanos en la Ciudad de México",
@@ -13,26 +13,24 @@
     "igualdad",
     "no discriminación",
     "accesibilidad",
-    "justicia social",
-    "dignidad humana",
-    "inclusión",
-    "perspectiva de género"
+    "bienestar",
+    "distribución del ingreso",
+    "responsabilidad común"
   ],
   "terminos_coloquiales": [
     "derechos de las personas",
     "igualdad para todos",
-    "discriminación",
-    "acceso para todos",
-    "derechos básicos",
+    "no ser discriminado",
+    "acceso a servicios",
+    "medidas de bienestar",
     "justicia social"
   ],
-  "resumen": "Este artículo establece que todos tienen derechos humanos garantizados en la Ciudad de México y prohíbe cualquier forma de discriminación. Además, las autoridades deben asegurar que estos derechos sean accesibles y promover la igualdad entre las personas.",
+  "resumen": "El artículo establece que en la Ciudad de México todas las personas tienen derechos humanos que deben ser protegidos y garantizados por las autoridades. Se prohíbe la discriminación y se promueve la igualdad sustantiva entre todas las personas.",
   "preguntas_ejemplo": [
     "¿Qué derechos tengo en la Ciudad de México?",
-    "¿Cómo se protege la igualdad entre las personas?",
-    "¿Qué se considera discriminación en la ciudad?",
-    "¿Qué debo hacer si se violan mis derechos?",
-    "¿Las autoridades deben ayudar en caso de discriminación?",
-    "¿Qué significa accesibilidad en términos de derechos humanos?"
+    "¿Cómo se garantiza la igualdad para todos?",
+    "¿Qué medidas se toman para prevenir la discriminación?",
+    "¿Qué debo hacer si se violan mis derechos humanos?",
+    "¿Cómo asegura el gobierno el acceso a servicios básicos?"
   ]
 }

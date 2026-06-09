@@ -4,34 +4,32 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:0ea22daef3bcb2e5",
+    "hash_texto": "sha256:389dca2efa3943e1",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Iniciativas de ley",
+  "denominacion_comun": "Iniciativa y formación de leyes",
   "temas": [
-    "iniciativa de ley",
-    "Jefe de Gobierno",
-    "Congreso",
-    "ciudadanos",
-    "observaciones",
+    "iniciativa de leyes",
+    "congreso",
     "promulgación",
-    "mayoría",
-    "procedimiento legislativo"
+    "ciudadanos",
+    "observaciones del ejecutivo",
+    "mayoría legislativa",
+    "organismos autónomos"
   ],
   "terminos_coloquiales": [
     "cómo se hacen las leyes",
-    "quién puede proponer una ley",
+    "quién puede proponer leyes",
     "iniciativas ciudadanas",
-    "cambio de leyes",
-    "presentar una ley",
-    "promulgar una ley"
+    "proceso legislativo",
+    "promulgación de leyes"
   ],
-  "resumen": "Este artículo explica quiénes tienen el derecho de proponer leyes en la Ciudad de México, incluyendo al Jefe de Gobierno, al Congreso y a los ciudadanos. También establece cómo se deben tramitar y aprobar las iniciativas de ley.",
+  "resumen": "Este artículo establece quiénes pueden iniciar leyes en la Ciudad de México, incluyendo al Jefe de Gobierno, diputados, alcaldías y ciudadanos. Además, describe el proceso para la aprobación y promulgación de estas leyes.",
   "preguntas_ejemplo": [
-    "¿Quién puede presentar propuestas de ley?",
-    "¿Cuánto tiempo tiene el Congreso para aprobar una ley?",
-    "¿Qué pasa si el Gobierno tiene observaciones a una ley?",
-    "¿Cómo se consideran las iniciativas ciudadanas?",
-    "¿Qué mayoría se necesita para aprobar una ley?"
+    "¿Quién puede proponer una ley en la Ciudad de México?",
+    "¿Cómo se aprueban las leyes?",
+    "¿Qué pasa si el Ejecutivo tiene observaciones a una ley?",
+    "¿Cuánto tiempo tiene el Congreso para votar una iniciativa?",
+    "¿Los ciudadanos pueden iniciar leyes?"
   ]
 }

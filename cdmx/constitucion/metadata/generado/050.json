@@ -4,30 +4,32 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:8a307ba763e34781",
+    "hash_texto": "sha256:5611554efe512c5b",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Instituto Electoral de la Ciudad de México",
   "temas": [
     "procesos electorales",
-    "participación ciudadana",
+    "elecciones",
     "educación cívica",
-    "ciudadanía",
-    "organización electoral"
+    "participación ciudadana",
+    "órgano de dirección",
+    "imparcialidad",
+    "transparencia"
   ],
   "terminos_coloquiales": [
-    "votaciones en la ciudad",
-    "cómo se eligen a los jefes de gobierno",
+    "cómo votamos en la ciudad",
     "quién organiza las elecciones",
-    "proceso electoral en México",
-    "participación de los ciudadanos en las elecciones"
+    "participación en la votación",
+    "educación cívica en la ciudad",
+    "quiénes son los consejeros electorales"
   ],
-  "resumen": "El artículo establece que el Instituto Electoral de la Ciudad de México es responsable de organizar y vigilar las elecciones y procesos de participación ciudadana. También se ocupa de promover la educación cívica y la construcción de ciudadanía.",
+  "resumen": "El Instituto Electoral de la Ciudad de México se encarga de organizar y supervisar las elecciones locales y promover la participación ciudadana. También se ocupa de fomentar la educación cívica entre los ciudadanos.",
   "preguntas_ejemplo": [
-    "¿Quién organiza las elecciones en la Ciudad de México?",
-    "¿Qué funciones tiene el Instituto Electoral?",
-    "¿Cómo se asegura la imparcialidad en las elecciones?",
-    "¿Qué es la educación cívica y cómo se promueve?",
-    "¿Quiénes forman parte del Instituto Electoral de la Ciudad de México?"
+    "¿Qué hace el Instituto Electoral de la Ciudad de México?",
+    "¿Cómo puedo participar en las elecciones de la ciudad?",
+    "¿Quiénes forman parte del Instituto Electoral?",
+    "¿Qué principios rigen las elecciones en la ciudad?",
+    "¿Qué programas existen para enseñar sobre votación?"
   ]
 }

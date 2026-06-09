@@ -4,10 +4,10 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:39ced7ad80a7679f",
+    "hash_texto": "sha256:42c3dbe5d4efadfb",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Definición de residentes en la Ciudad de México",
+  "denominacion_comun": "Definición de habitantes en la Ciudad de México",
   "temas": [
     "originarios",
     "habitantes",
@@ -16,17 +16,17 @@
   ],
   "terminos_coloquiales": [
     "quién es originario",
-    "habitantes de la ciudad",
-    "vecinos",
-    "transeuntes en la ciudad"
+    "quiénes son los vecinos",
+    "quién puede ser habitante",
+    "gente de paso",
+    "definición de habitante en CDMX"
   ],
-  "resumen": "Este artículo define quiénes son las personas originarias, habitantes, vecinos y transeúntes en la Ciudad de México. Establece criterios claros para cada uno de estos grupos.",
+  "resumen": "Este artículo define quiénes son las personas originarias, habitantes, vecinos y transeúntes en la Ciudad de México. Establece criterios claros para cada categoría de persona que se encuentra en el territorio.",
   "preguntas_ejemplo": [
-    "¿Quién se considera originario en la Ciudad de México?",
-    "¿Qué significa ser habitante de la Ciudad?",
-    "¿Cuánto tiempo hay que vivir en un lugar para ser vecino?",
-    "¿Quién es un transeúnte en la ciudad?",
-    "¿Pierdo mi calidad de vecino si me voy por un tiempo?",
-    "¿Cuáles son las diferencias entre originarios y habitantes?"
+    "¿Quiénes son considerados originarios en la Ciudad de México?",
+    "¿Qué se entiende por habitantes en la CDMX?",
+    "¿Cuánto tiempo hay que vivir para ser vecino?",
+    "¿Qué pasa si solo estoy de paso?",
+    "¿Cómo se define un transeúnte?"
   ]
 }

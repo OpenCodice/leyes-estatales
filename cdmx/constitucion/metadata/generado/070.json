@@ -4,30 +4,28 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:2c0bbac52cc3592b",
+    "hash_texto": "sha256:49102c9c40979709",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Progresividad de derechos",
   "temas": [
     "derechos humanos",
     "libertades",
-    "reformas constitucionales",
+    "reformas",
     "protección de derechos"
   ],
   "terminos_coloquiales": [
-    "ampliación de derechos",
-    "mejoras en la constitución",
-    "protección de libertades",
-    "cambios en derechos",
-    "garantizar derechos"
+    "mejora de derechos",
+    "ampliación de libertades",
+    "cambio en leyes",
+    "proteger derechos"
   ],
-  "resumen": "Este artículo dice que los derechos y libertades en la Ciudad de México pueden mejorarse y ampliarse a través de cambios en la Constitución y las leyes, pero nunca se pueden disminuir.",
+  "resumen": "Este artículo dice que los derechos y libertades en la Ciudad de México pueden mejorarse y ampliarse a través de reformas. Nunca se pueden hacer cambios que dañen esos derechos.",
   "preguntas_ejemplo": [
-    "¿Cómo se pueden mejorar mis derechos?",
-    "¿Qué dice la constitución sobre los derechos en la Ciudad de México?",
-    "¿Se pueden cambiar las leyes para proteger más mis libertades?",
-    "¿Qué significa que mis derechos no pueden ser disminuidos?",
-    "¿Puede la constitución cambiar para ampliar libertades?",
-    "¿Qué se hace si quiero más derechos en mi ciudad?"
+    "¿Se pueden aumentar mis derechos en la Ciudad de México?",
+    "¿Cómo se protegen mis libertades?",
+    "¿Qué significa que los derechos pueden reformarse?",
+    "¿Pueden cambiar las leyes para mejorar mis derechos?",
+    "¿Qué pasa si hay reformas que perjudican los derechos?"
   ]
 }

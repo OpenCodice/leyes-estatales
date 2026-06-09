@@ -4,34 +4,35 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:c83048e47730bd84",
+    "hash_texto": "sha256:2877f22c9c1a9828",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Derechos de comunidades indígenas",
+  "denominacion_comun": "Derechos de pueblos y comunidades indígenas",
   "temas": [
     "libre determinación",
     "autonomía",
+    "derechos políticos",
     "derechos culturales",
-    "derecho a la tierra",
-    "participación política",
-    "educación",
-    "salud",
-    "justicia"
+    "derecho a la salud",
+    "derecho a la educación",
+    "derecho a la justicia",
+    "protección de la tierra"
   ],
   "terminos_coloquiales": [
     "derechos indígenas",
     "autonomía indígena",
-    "determinación de pueblos",
-    "participación de comunidades",
-    "derechos culturales",
-    "territorio indígena"
+    "libertad de los pueblos",
+    "comunidades indígenas",
+    "consulta a pueblos",
+    "justicia para indígenas"
   ],
-  "resumen": "El artículo establece los derechos de los pueblos y barrios originarios y comunidades indígenas, asegurando su libre determinación y autonomía en aspectos políticos, económicos y culturales. Reconoce su derecho a participar en decisiones que les afecten y a gestionar sus territorios y recursos naturales.",
+  "resumen": "Los pueblos y comunidades indígenas tienen derechos a la libre determinación y autonomía, lo que les permite tomar decisiones sobre su desarrollo cultural, social, y económico. También tienen derechos relacionados con la educación, la salud, y la protección de su territorio y cultura.",
   "preguntas_ejemplo": [
-    "¿Qué derechos tienen las comunidades indígenas?",
-    "¿Cómo se ejerce la autonomía de los pueblos originarios?",
-    "¿Pueden las comunidades indígenas gestionar sus propios recursos?",
-    "¿Qué implica la libre determinación para las comunidades indígenas?",
-    "¿Cómo participan los pueblos originarios en la política local?"
+    "¿Qué derechos tienen las comunidades indígenas en México?",
+    "¿Cómo se garantiza la autonomía de los pueblos originarios?",
+    "¿Qué mecanismos existen para que los pueblos indígenas participen en decisiones públicas?",
+    "¿Cómo se protege el patrimonio cultural de los pueblos indígenas?",
+    "¿Qué derechos de salud tienen las comunidades indígenas?",
+    "¿Qué es la libre determinación en el contexto indígena?"
   ]
 }

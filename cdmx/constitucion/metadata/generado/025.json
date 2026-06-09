@@ -4,7 +4,7 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:16cfe40645da73c9",
+    "hash_texto": "sha256:1c4a12c938f6d277",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Democracia directa",
@@ -15,24 +15,22 @@
     "plebiscito",
     "consulta popular",
     "revocación de mandato",
-    "derechos de pueblos indígenas",
-    "decisiones públicas"
+    "tecnologías de información"
   ],
   "terminos_coloquiales": [
-    "votación ciudadana",
-    "hacer leyes",
-    "preguntar a la gente",
-    "opinar sobre decisiones",
-    "decidir sobre asuntos públicos",
-    "revocar a políticos"
+    "votar",
+    "derecho a decidir",
+    "participar en decisiones",
+    "hacer propuestas",
+    "consultas populares",
+    "plebiscitos"
   ],
-  "resumen": "El artículo establece que los ciudadanos tienen el derecho y la obligación de participar en la vida pública, proponiendo y decidiendo sobre asuntos que les afectan. También se reconocen mecanismos como consultas y referendos para asegurar que la voz de la gente se escuche en las decisiones importantes.",
+  "resumen": "Este artículo establece que las y los ciudadanos tienen el derecho y el deber de participar en decisiones públicas y proponer iniciativas. También regula mecanismos de consulta como referendos y plebiscitos para involucrar a la población en la vida pública.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo participar en decisiones políticas?",
-    "¿Qué es una iniciativa ciudadana?",
-    "¿Cómo funciona el referéndum?",
-    "¿Qué pasos debo seguir para revocar a un funcionario?",
-    "¿Cuáles son mis derechos en un plebiscito?",
-    "¿Puedo proponer leyes al Congreso?"
+    "¿Cómo puedo involucrarme en decisiones de mi comunidad?",
+    "¿Qué es la iniciativa ciudadana y cómo funciona?",
+    "¿Cuáles son mis derechos en un referéndum?",
+    "¿Cómo se lleva a cabo una consulta popular?",
+    "¿Puedo solicitar un plebiscito sobre un tema local?"
   ]
 }

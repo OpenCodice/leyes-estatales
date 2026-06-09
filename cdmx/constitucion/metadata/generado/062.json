@@ -4,35 +4,34 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:5f31e584aab6406d",
+    "hash_texto": "sha256:1b6531db1a8fbae1",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Fiscalización Superior",
   "temas": [
-    "autonomía de gestión",
+    "autonomía",
     "fiscalización",
     "recursos públicos",
-    "auditorías",
+    "auditoría",
     "responsabilidades administrativas",
-    "transparencia",
+    "informes públicos",
     "deuda pública",
-    "cuenta pública"
+    "gobierno"
   ],
   "terminos_coloquiales": [
-    "control del dinero público",
-    "auditoría de cuentas",
-    "revisión de gastos",
-    "supervisión de fondos",
-    "transparencia financiera",
-    "informes de auditoría"
+    "control del gasto",
+    "auditorías en el gobierno",
+    "dinero público",
+    "información financiera",
+    "revisión de cuentas",
+    "fiscalización de obras"
   ],
-  "resumen": "Este artículo establece la autonomía de la entidad encargada de fiscalizar la administración pública en la Ciudad de México, permitiéndole llevar a cabo auditorías y supervisiones sobre el uso de recursos públicos. Además, garantiza la transparencia y la rendición de cuentas en el manejo de la deuda pública y los fondos asignados a diferentes entes públicos.",
+  "resumen": "El artículo establece que la entidad de fiscalización de la Ciudad de México tiene autonomía y debe auditar el uso de recursos públicos. Además, señala que los informes de auditoría serán públicos y regula cómo se deben llevar a cabo estas fiscalizaciones.",
   "preguntas_ejemplo": [
-    "¿Cómo se supervisa el uso del dinero público en la Ciudad de México?",
-    "¿Qué facultades tiene la entidad de fiscalización?",
-    "¿Quién puede hacer auditorías a la administración pública?",
-    "¿Qué información debe presentar la cuenta pública?",
-    "¿Cómo se garantizan la transparencia y la rendición de cuentas?",
-    "¿Qué pasa si se detectan irregularidades en la fiscalización?"
+    "¿Qué hace la entidad de fiscalización?",
+    "¿Cómo se controla el uso de recursos públicos?",
+    "¿Qué información debe ser pública sobre las auditorías?",
+    "¿Quién nombra a la persona al frente de la fiscalización?",
+    "¿Qué sucede si no se entregan las cuentas públicas a tiempo?"
   ]
 }

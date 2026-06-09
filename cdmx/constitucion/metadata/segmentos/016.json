@@ -57,16 +57,7 @@
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 16 › Apartado A › párrafo 4",
-      "texto": "El sistema protegerá, al menos, el Desierto de los Leones, el Parque Nacional Cumbres del Ajusco, el Parque Ecológico de la Ciudad de México del Ajusco Medio, los Dinamos de Contreras, el Cerro de la Estrella, la Sierra de Santa Catarina, la Sierra de Guadalupe y las zonas lacustres de Xochimilco y Tláhuac, el Parque Nacional de Fuentes Brotantes, los parques estratégicos de Chapultepec en sus tres secciones, el Bosque de Tlalpan y el INSTITUTO DE INVESTIGACIONES LEGISLATIVAS Bosque de Aragón, así como las áreas de valor ambiental decretadas y que se decreten."
-    },
-    {
-      "id": "016.p5",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "A",
-      "fraccion": "",
-      "ruta": "Artículo 16 › Apartado A › párrafo 5",
-      "texto": "Estas áreas serán de acceso público."
+      "texto": "El sistema protegerá, al menos, el Desierto de los Leones, el Parque Nacional Cumbres del Ajusco, el Parque Ecológico de la Ciudad de México del Ajusco Medio, los Dinamos de Contreras, el Cerro de la Estrella, la Sierra de Santa Catarina, la Sierra de Guadalupe y las zonas lacustres de Xochimilco y Tláhuac, el Parque Nacional de Fuentes Brotantes, los parques estratégicos de Chapultepec en sus tres secciones, el Bosque de Tlalpan y el Bosque de Aragón, así como las áreas de valor ambiental decretadas y que se decreten. Estas áreas serán de acceso público."
     },
     {
       "id": "016.A.2",
@@ -78,12 +69,12 @@
       "texto": "2. La biodiversidad, los ecosistemas naturales, el patrimonio genético y las especies nativas son bienes comunes y de interés público; su protección, preservación y recuperación es corresponsabilidad entre los sectores público, privado y social. En la Ciudad de México los seres sintientes gozarán de protección especial. Las leyes garantizarán su protección para las presentes y futuras generaciones. La Ciudad atenderá a los criterios de sustentabilidad, minimización de la huella ecológica y reversión del daño ambiental."
     },
     {
-      "id": "016.p6",
+      "id": "016.p5",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "A",
       "fraccion": "",
-      "ruta": "Artículo 16 › Apartado A › párrafo 6",
+      "ruta": "Artículo 16 › Apartado A › párrafo 5",
       "texto": "La Ciudad de México minimizará su huella ecológica, en los términos de emisión de gases de efecto invernadero, a través de una estructura urbana compacta y vertical, nuevas tecnologías, uso de energía renovable, una estructura modal del transporte orientada hacia la movilidad colectiva y no motorizada, vehículos de cero emisiones de servicio público y privado, medidas y políticas de eficiencia energética, políticas de recuperación y conservación de ecosistemas y políticas de aprovechamiento energético del metano generado por residuos orgánicos."
     },
     {
@@ -105,15 +96,6 @@
       "texto": "4. Las autoridades garantizarán el derecho a un medio ambiente sano. Aplicarán las medidas necesarias para reducir las causas, prevenir, mitigar y revertir las consecuencias del cambio climático. Se crearán políticas públicas y un sistema eficiente con la mejor tecnología disponible de prevención, medición y monitoreo ambiental de emisiones de gases de efecto invernadero, agua, suelo, biodiversidad y contaminantes, así como de la huella ecológica de la ciudad. Asimismo, establecerán las medidas necesarias y los calendarios para la transición energética acelerada del uso de combustibles fósiles al de energías limpias."
     },
     {
-      "id": "016.p7",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "A",
-      "fraccion": "",
-      "ruta": "Artículo 16 › Apartado A › párrafo 7",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
-    },
-    {
       "id": "016.A.5",
       "tipo": "numeral",
       "marca": "5",
@@ -123,13 +105,31 @@
       "texto": "5. Las autoridades, en el marco de su competencia, adoptarán medidas de prevención y reducción de la generación de residuos sólidos, de manejo especial y de materiales peligrosos, así como su gestión integral de manera concurrente con los sectores social y privado, para evitar riesgos a la salud y contaminación al medio ambiente. Quienes generen residuos son corresponsables de su gestión integral y de la remediación de los sitios contaminados."
     },
     {
+      "id": "016.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Apartado A › párrafo 6",
+      "texto": "Las autoridades prestarán de manera exclusiva y gratuita los servicios de barrido, recolección, transportación y destino final."
+    },
+    {
+      "id": "016.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Apartado A › párrafo 7",
+      "texto": "El tratamiento, aprovechamiento y manejo de los residuos sólidos, se desarrollarán con base en los mecanismos que las leyes permitan."
+    },
+    {
       "id": "016.p8",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 16 › Apartado A › párrafo 8",
-      "texto": "Las autoridades prestarán de manera exclusiva y gratuita los servicios de barrido, recolección, transportación y destino final."
+      "texto": "Queda prohibida la privatización y concesión de los servicios públicos de recolección y tratamiento de residuos sólidos."
     },
     {
       "id": "016.p9",
@@ -138,7 +138,7 @@
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 16 › Apartado A › párrafo 9",
-      "texto": "El tratamiento, aprovechamiento y manejo de los residuos sólidos, se desarrollarán con base en los mecanismos que las leyes permitan."
+      "texto": "Se abandonará de forma progresiva el uso de productos no biodegradables, no reciclables y de elevado impacto ambiental. El Gobierno de la Ciudad contará con una política educativa e informativa dirigida a sus habitantes sobre el manejo de los residuos y su impacto al medio ambiente."
     },
     {
       "id": "016.p10",
@@ -147,7 +147,7 @@
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 16 › Apartado A › párrafo 10",
-      "texto": "Queda prohibida la privatización y concesión de los servicios públicos de recolección y tratamiento de residuos sólidos."
+      "texto": "La prestación de los servicios de gestión integral de los residuos sólidos es responsabilidad pública, para lo cual se desarrollarán los mecanismos que las leyes permitan."
     },
     {
       "id": "016.p11",
@@ -156,24 +156,6 @@
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 16 › Apartado A › párrafo 11",
-      "texto": "Se abandonará de forma progresiva el uso de productos no biodegradables, no reciclables y de elevado impacto ambiental. El Gobierno de la Ciudad contará con una política educativa e informativa dirigida a sus habitantes sobre el manejo de los residuos y su impacto al medio ambiente."
-    },
-    {
-      "id": "016.p12",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "A",
-      "fraccion": "",
-      "ruta": "Artículo 16 › Apartado A › párrafo 12",
-      "texto": "La prestación de los servicios de gestión integral de los residuos sólidos es responsabilidad pública, para lo cual se desarrollarán los mecanismos que las leyes permitan."
-    },
-    {
-      "id": "016.p13",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "A",
-      "fraccion": "",
-      "ruta": "Artículo 16 › Apartado A › párrafo 13",
       "texto": "El Gobierno de la Ciudad deberá adoptar las tecnologías que permitan el manejo sustentable de los residuos sólidos."
     },
     {
@@ -193,15 +175,6 @@
       "fraccion": "",
       "ruta": "Artículo 16 › Apartado A › 7.",
       "texto": "7. El daño o deterioro ambiental genera responsabilidad. Quienes los provoquen están obligados a la compensación y reparación integral del daño, sin perjuicio de las sanciones penales o administrativas que establezcan las leyes."
-    },
-    {
-      "id": "016.p14",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "A",
-      "fraccion": "",
-      "ruta": "Artículo 16 › Apartado A › párrafo 14",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
     },
     {
       "id": "016.A.8",
@@ -291,7 +264,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 16 › Apartado B › inciso d)",
-      "texto": "d) El establecimiento de tarifas diferenciadas y progresivas de acuerdo a su consumo;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "d) El establecimiento de tarifas diferenciadas y progresivas de acuerdo a su consumo;"
     },
     {
       "id": "016.B.e",
@@ -381,7 +354,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 16 › Apartado C",
-      "texto": "C. Regulación del suelo INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "C. Regulación del suelo"
     },
     {
       "id": "016.C.1",
@@ -417,7 +390,16 @@
       "apartado": "C",
       "fraccion": "",
       "ruta": "Artículo 16 › Apartado C › 4.",
-      "texto": "4. El desarrollo de obras y proyectos urbanos, públicos o privados, privilegiará el interés público. Las autoridades competentes de la Ciudad de México establecerán en sus programas y políticas, mecanismos para mitigar sus impactos, así como para minimizar las afectaciones sociales y económicas sobre residentes y actividades, y a las urbanas, ambientales, a la movilidad, patrimonio natural y cultural y los bienes comunes y públicos."
+      "texto": "4. El desarrollo de obras y proyectos urbanos, públicos o privados, privilegiará el interés público."
+    },
+    {
+      "id": "016.p12",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Apartado C › párrafo 12",
+      "texto": "Las autoridades competentes de la Ciudad de México establecerán en sus programas y políticas, mecanismos para mitigar sus impactos, así como para minimizar las afectaciones sociales y económicas sobre residentes y actividades, y a las urbanas, ambientales, a la movilidad, patrimonio natural y cultural y los bienes comunes y públicos."
     },
     {
       "id": "016.C.5",
@@ -435,7 +417,7 @@
       "apartado": "C",
       "fraccion": "",
       "ruta": "Artículo 16 › Apartado C › inciso a)",
-      "texto": "a) Se establecerán principios e instrumentos asociados al desarrollo sustentable en el suelo de conservación, se promoverá la compensación o pagos por servicios ambientales y se evitará su ocupación irregular;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "a) Se establecerán principios e instrumentos asociados al desarrollo sustentable en el suelo de conservación, se promoverá la compensación o pagos por servicios ambientales y se evitará su ocupación irregular;"
     },
     {
       "id": "016.C.b",
@@ -465,30 +447,21 @@
       "texto": "6. El Gobierno de la Ciudad regulará los cambios de uso de suelo, con la participación que corresponda al Congreso en los casos de alto impacto. La ley definirá los procedimientos para las modificaciones a los usos de suelo solicitados por un particular, dependencia u órgano de la administración pública local o federal ante el Gobierno de la Ciudad. En todos los casos se integrará un expediente para dictamen del Instituto de Planeación Democrática y Prospectiva, con la opinión de las alcaldías."
     },
     {
-      "id": "016.p15",
+      "id": "016.p13",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "C",
       "fraccion": "",
-      "ruta": "Artículo 16 › Apartado C › párrafo 15",
-      "texto": "Los principios de transparencia y máxima publicidad regirán los cambios de uso del suelo."
+      "ruta": "Artículo 16 › Apartado C › párrafo 13",
+      "texto": "Los principios de transparencia y máxima publicidad regirán los cambios de uso del suelo. La autoridad está obligada a informar oportunamente a la comunidad sobre las solicitudes turnadas ante el Instituto de Planeación Democrática y Prospectiva para su dictamen, así como los estudios establecidos en la legislación correspondiente. El proceso de transparencia en el cambio de uso de suelo incluye el informe que rinda el registro público de la propiedad respecto de la inscripción de los bienes amparados. Las consultas tendrán carácter vinculante según lo establecido en esta Constitución. En todo caso se privilegiará el interés público."
     },
     {
-      "id": "016.p16",
+      "id": "016.p14",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "C",
       "fraccion": "",
-      "ruta": "Artículo 16 › Apartado C › párrafo 16",
-      "texto": "La autoridad está obligada a informar oportunamente a la comunidad sobre las solicitudes turnadas ante el Instituto de Planeación Democrática y Prospectiva para su dictamen, así como los estudios establecidos en la legislación correspondiente. El proceso de transparencia en el cambio de uso de suelo incluye el informe que rinda el registro público de la propiedad respecto de la inscripción de los bienes amparados. Las consultas tendrán carácter vinculante según lo establecido en esta Constitución. En todo caso se privilegiará el interés público."
-    },
-    {
-      "id": "016.p17",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "C",
-      "fraccion": "",
-      "ruta": "Artículo 16 › Apartado C › párrafo 17",
+      "ruta": "Artículo 16 › Apartado C › párrafo 14",
       "texto": "La ley deberá prever sanciones penales para aquellas personas servidoras públicas que otorguen permisos, licencias o autorizaciones cuyo contenido sea violatorio de las leyes o programas de ordenamiento territorial, y para aquellas personas que destinen dolosamente, un bien inmueble a un uso distinto del uso de suelo que tenga permitido u obtenga un beneficio económico derivado de dicha conducta, o presenten documentos apócrifos en relación con algún permiso, licencia, autorización o manifestación ante las autoridades competentes en las materias de obras, ordenamiento territorial o medio ambiente."
     },
     {
@@ -499,15 +472,6 @@
       "fraccion": "",
       "ruta": "Artículo 16 › Apartado C › 7.",
       "texto": "7. La regulación del uso del suelo considerará:"
-    },
-    {
-      "id": "016.p18",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "C",
-      "fraccion": "",
-      "ruta": "Artículo 16 › Apartado C › párrafo 18",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
     },
     {
       "id": "016.C.a~2",
@@ -543,7 +507,7 @@
       "apartado": "C",
       "fraccion": "",
       "ruta": "Artículo 16 › Apartado C › inciso d)",
-      "texto": "d) La ley regulará la obligación de los propietarios de desarrollos inmobiliarios de pagar una compensación monetaria para mitigar el impacto urbano y ambiental, a fin de contribuir al desarrollo y mejoramiento del equipamiento urbano, la infraestructura vial e hidráulica y el espacio público. La ley establecerá las fórmula y criterios para la aplicación de dichos ingresos en las zonas de influencia o de afectación, en condiciones de equidad, transparencia y rendición de cuentas."
+      "texto": "d) La ley regulará la obligación de los propietarios de desarrollos inmobiliarios de pagar una compensación monetaria para mitigar el impacto urbano y ambiental, a fin de contribuir al desarrollo y mejoramiento del equipamiento urbano, la infraestructura vial e hidráulica y el espacio público. La ley establecerá las fórmula (sic) y criterios para la aplicación de dichos ingresos en las zonas de influencia o de afectación, en condiciones de equidad, transparencia y rendición de cuentas."
     },
     {
       "id": "016.C.e",
@@ -579,7 +543,7 @@
       "apartado": "C",
       "fraccion": "",
       "ruta": "Artículo 16 › Apartado C › inciso h)",
-      "texto": "h) Los programas y planes parciales contemplarán cambios o actualizaciones de usos del suelo cuando se disponga de la dotación suficiente de infraestructura y servicios públicos.\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "h) Los programas y planes parciales contemplarán cambios o actualizaciones de usos del suelo cuando se disponga de la dotación suficiente de infraestructura y servicios públicos."
     },
     {
       "id": "016.C.8",
@@ -588,7 +552,7 @@
       "apartado": "C",
       "fraccion": "",
       "ruta": "Artículo 16 › Apartado C › 8.",
-      "texto": "8. Para los fines de regulación del suelo se establecerán los mecanismos, incentivos y sanciones que garanticen su preservación y mantenimiento."
+      "texto": "8. Para los fines de regulación del suelo se establecerán los mecansimos, incentivos y sanciones que garanticen su preservación y mantenimiento."
     },
     {
       "id": "016.D",
@@ -609,13 +573,22 @@
       "texto": "1. Las zonas rurales serán protegidas y conservadas como parte de la funcionalidad territorial y el desarrollo de la entidad, promoviendo un aprovechamiento racional y sustentable que permita garantizar el derecho a la tierra, así como la prosperidad de las personas propietarias y poseedoras originarias."
     },
     {
-      "id": "016.p19",
+      "id": "016.p15",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "D",
       "fraccion": "",
-      "ruta": "Artículo 16 › Apartado D › párrafo 19",
-      "texto": "En las zonas rurales se preservarán el equilibrio ecológico, los recursos naturales y los servicios ambientales que prestan, así como su valor patrimonial y el derecho de las personas a disfrutarlos. Para conciliar el interés productivo y el medioambiental, se diseñarán políticas e instrumentos que favorezcan este propósito."
+      "ruta": "Artículo 16 › Apartado D › párrafo 15",
+      "texto": "En las zonas rurales se preservarán el equilibrio ecológico, los recursos naturales y los servicios ambientales que prestan, así como su valor patrimonial y el derecho de las personas a disfrutarlos."
+    },
+    {
+      "id": "016.p16",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Apartado D › párrafo 16",
+      "texto": "Para conciliar el interés productivo y el medioambiental, se diseñarán políticas e instrumentos que favorezcan este propósito."
     },
     {
       "id": "016.D.2",
@@ -645,22 +618,22 @@
       "texto": "4. En el aprovechamiento productivo se fomentará el desarrollo de la agroecología, se protegerá la diversidad biológica, principalmente del maíz y las especies características de los sistemas rurales locales y se estimulará la seguridad alimentaria."
     },
     {
-      "id": "016.p20",
+      "id": "016.p17",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "D",
       "fraccion": "",
-      "ruta": "Artículo 16 › Apartado D › párrafo 20",
+      "ruta": "Artículo 16 › Apartado D › párrafo 17",
       "texto": "Se impedirá el uso de todo producto genéticamente modificado que pueda causar daño a los ecosistemas, a la salud y a la sociedad; se favorecerá el desarrollo de la agricultura orgánica."
     },
     {
-      "id": "016.p21",
+      "id": "016.p18",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "D",
       "fraccion": "",
-      "ruta": "Artículo 16 › Apartado D › párrafo 21",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS Se aplicará el principio precautorio a las actividades y productos que causen daño a los ecosistemas, a la salud y a la sociedad."
+      "ruta": "Artículo 16 › Apartado D › párrafo 18",
+      "texto": "Se aplicará el principio precautorio a las actividades y productos que causen daño a los ecosistemas, a la salud y a la sociedad."
     },
     {
       "id": "016.D.5",
@@ -708,12 +681,12 @@
       "texto": "1. La vivienda es un componente esencial del espacio urbano, del ordenamiento territorial, de la vida comunitaria y del bienestar de las personas y las familias."
     },
     {
-      "id": "016.p22",
+      "id": "016.p19",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "E",
       "fraccion": "",
-      "ruta": "Artículo 16 › Apartado E › párrafo 22",
+      "ruta": "Artículo 16 › Apartado E › párrafo 19",
       "texto": "Esta Constitución reconoce la producción social y privada de vivienda."
     },
     {
@@ -741,7 +714,7 @@
       "apartado": "E",
       "fraccion": "",
       "ruta": "Artículo 16 › Apartado E › inciso b)",
-      "texto": "b) Determinarán la ubicación, densidad y normas de construcción para el desarrollo de vivienda, en colaboración con los organismos federales y locales y con los INSTITUTO DE INVESTIGACIONES LEGISLATIVAS promotores privados y sociales, con base en las políticas de suelo urbano y reservas territoriales;"
+      "texto": "b) Determinarán la ubicación, densidad y normas de construcción para el desarrollo de vivienda, en colaboración con los organismos federales y locales y con los promotores privados y sociales, con base en las políticas de suelo urbano y reservas territoriales;"
     },
     {
       "id": "016.E.c",
@@ -804,25 +777,7 @@
       "apartado": "E",
       "fraccion": "",
       "ruta": "Artículo 16 › Apartado E › 3.",
-      "texto": "3. El Gobierno de la Ciudad protegerá y apoyará la producción social de la vivienda y del hábitat que realizan sus habitantes en forma individual u organizada, sin fines de lucro."
-    },
-    {
-      "id": "016.p23",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "E",
-      "fraccion": "",
-      "ruta": "Artículo 16 › Apartado E › párrafo 23",
-      "texto": "Para tales efectos:"
-    },
-    {
-      "id": "016.p24",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "E",
-      "fraccion": "",
-      "ruta": "Artículo 16 › Apartado E › párrafo 24",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "3. El Gobierno de la Ciudad protegerá y apoyará la producción social de la vivienda y del hábitat que realizan sus habitantes en forma individual u organizada, sin fines de lucro. Para tales efectos:"
     },
     {
       "id": "016.E.a~2",
@@ -903,7 +858,7 @@
       "apartado": "F",
       "fraccion": "",
       "ruta": "Artículo 16 › Apartado F › inciso a)",
-      "texto": "a) El impacto de la inversión para mejorar, de manera específica tanto la entrega de los servicios públicos, como el buen funcionamiento e imagen pública de la ciudad;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "a) El impacto de la inversión para mejorar, de manera específica tanto la entrega de los servicios públicos, como el buen funcionamiento e imagen pública de la ciudad;"
     },
     {
       "id": "016.F.b",
@@ -1002,7 +957,7 @@
       "apartado": "F",
       "fraccion": "",
       "ruta": "Artículo 16 › Apartado F › inciso b)",
-      "texto": "b) Formularán planes y programas de corto y de mediano plazo de equipamiento urbano, entendiéndose por éste los inmuebles e instalaciones para prestar a la INSTITUTO DE INVESTIGACIONES LEGISLATIVAS población servicios públicos de administración, educación y cultura, abasto y comercio, salud y asistencia, deporte y recreación, movilidad, transporte y otros; y"
+      "texto": "b) Formularán planes y programas de corto y de mediano plazo de equipamiento urbano, entendiéndose por éste los inmuebles e instalaciones para prestar a la población servicios públicos de administración, educación y cultura, abasto y comercio, salud y asistencia, deporte y recreación, movilidad, transporte y otros; y"
     },
     {
       "id": "016.F.c~2",
@@ -1032,12 +987,12 @@
       "texto": "6. Las autoridades facilitarán a sus habitantes el acceso a las tecnologías de la información y la comunicación a fin de asegurar su integración a la sociedad del conocimiento y el ejercicio de los derechos reconocidos en esta Constitución."
     },
     {
-      "id": "016.p25",
+      "id": "016.p20",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "F",
       "fraccion": "",
-      "ruta": "Artículo 16 › Apartado F › párrafo 25",
+      "ruta": "Artículo 16 › Apartado F › párrafo 20",
       "texto": "La conectividad será ofrecida en condiciones de eficiencia, calidad y alta velocidad que permitan consolidar una ciudad digital con acceso universal, equitativo, asequible y progresivo. Será gratuita en el espacio público. Para ello se promoverá la concurrencia de los sectores público, social y privado."
     },
     {
@@ -1059,21 +1014,30 @@
       "texto": "8. Los poderes públicos crearán un Sistema Público de Radiodifusión de la Ciudad de México que será garante y promotor del conjunto de derechos que gozan sus habitantes, así como del ejercicio de ciudadanía y participación social. Tendrá por objeto garantizar el derecho a la información y comunicación, el carácter público del servicio, la independencia editorial, la perspectiva intercultural, el acceso pleno a las tecnologías, los mecanismos de accesibilidad, la promoción de la cultura, la libertad de expresión, la difusión de información objetiva, plural y oportuna, la formación educativa, el respeto y la igualdad entre las personas; así como informar sobre construcción y funcionamiento de obras públicas estratégicas y servicios públicos."
     },
     {
-      "id": "016.p26",
+      "id": "016.p21",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "F",
       "fraccion": "",
-      "ruta": "Artículo 16 › Apartado F › párrafo 26",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS Este Sistema será operado por un organismo público descentralizado, no sectorizado en los términos que la ley establezca y observando los principios rectores que esta Constitución define. Contará con un Consejo de Administración de siete integrantes con mayoría ciudadana como órgano de gobierno; un Consejo Consultivo Ciudadano de Programación de once integrantes y una persona titular de la Dirección General, designada por el Consejo de Administración y electa a partir de una terna propuesta por el Congreso de la Ciudad de México."
+      "ruta": "Artículo 16 › Apartado F › párrafo 21",
+      "texto": "Este Sistema será operado por un organismo público descentralizado, no sectorizado en los términos que la ley establezca y observando los principios rectores que esta Constitución define."
     },
     {
-      "id": "016.p27",
+      "id": "016.p22",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "F",
       "fraccion": "",
-      "ruta": "Artículo 16 › Apartado F › párrafo 27",
+      "ruta": "Artículo 16 › Apartado F › párrafo 22",
+      "texto": "Contará con un Consejo de Administración de siete integrantes con mayoría ciudadana como órgano de gobierno; un Consejo Consultivo Ciudadano de Programación de once integrantes y una persona titular de la Dirección General, designada por el Consejo de Administración y electa a partir de una terna propuesta por el Congreso de la Ciudad de México."
+    },
+    {
+      "id": "016.p23",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Apartado F › párrafo 23",
       "texto": "Las y los ciudadanos integrantes de ambos Consejos durarán cinco años en el cargo, nombrados de manera escalonada y sin posibilidad de reelección. Las y los consejeros ciudadanos y la terna para la Dirección General se elegirán mediante convocatoria pública, a propuesta de las organizaciones sociales y ciudadanas, el sector académico y expertos en la materia y serán electos por las dos terceras partes de las y los diputados presentes en sesión del Congreso de la Ciudad de México. Las y los ciudadanos que integren dichos consejos deberán tener plena independencia de los gobiernos, los partidos políticos y las empresas de radiodifusión de carácter privado."
     },
     {
@@ -1095,12 +1059,12 @@
       "texto": "1. En la Ciudad de México es prioridad la creación, recuperación, mantenimiento y defensa de los espacios públicos y de convivencia social. Las calles, banquetas, plazas, bosques urbanos, parques y jardines públicos, así como los bajo puentes son el componente fundamental de la convivencia, la expresión ciudadana y la cohesión social."
     },
     {
-      "id": "016.p28",
+      "id": "016.p24",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "G",
       "fraccion": "",
-      "ruta": "Artículo 16 › Apartado G › párrafo 28",
+      "ruta": "Artículo 16 › Apartado G › párrafo 24",
       "texto": "Las autoridades de la Ciudad garantizarán el rescate, mantenimiento e incremento progresivo del espacio público; en ningún caso podrán tomarse medidas que tiendan a su destrucción o disminución. Todas las personas tienen la obligación de respetar y contribuir a la conservación de los espacios públicos y áreas verdes."
     },
     {
@@ -1110,16 +1074,7 @@
       "apartado": "G",
       "fraccion": "",
       "ruta": "Artículo 16 › Apartado G › 2.",
-      "texto": "2. El diseño y gestión de los espacios públicos deberán estar en armonía con la imagen y el paisaje urbano de las colonias, pueblos y barrios originarios de acuerdo con el ordenamiento territorial y con los usos y necesidades de las comunidades."
-    },
-    {
-      "id": "016.p29",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "G",
-      "fraccion": "",
-      "ruta": "Artículo 16 › Apartado G › párrafo 29",
-      "texto": "Su diseño se regirá por las normas de accesibilidad y diseño universal. El Gobierno INSTITUTO DE INVESTIGACIONES LEGISLATIVAS de la Ciudad regulará su cuidado y protección a fin de evitar la contaminación visual, acústica o ambiental provocada por cualquier publicidad o instalación de servicios."
+      "texto": "2. El diseño y gestión de los espacios públicos deberán estar en armonía con la imagen y el paisaje urbano de las colonias, pueblos y barrios originarios de acuerdo con el ordenamiento territorial y con los usos y necesidades de las comunidades. Su diseño se regirá por las normas de accesibilidad y diseño universal. El Gobierno de la Ciudad regulará su cuidado y protección a fin de evitar la contaminación visual, acústica o ambiental provocada por cualquier publicidad o instalación de servicios."
     },
     {
       "id": "016.G.3",
@@ -1140,12 +1095,12 @@
       "texto": "4. El Gobierno de la Ciudad, de acuerdo con la ley, impedirá la ocupación privada de los espacios públicos, vías de circulación y áreas no urbanizables."
     },
     {
-      "id": "016.p30",
+      "id": "016.p25",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "G",
       "fraccion": "",
-      "ruta": "Artículo 16 › Apartado G › párrafo 30",
+      "ruta": "Artículo 16 › Apartado G › párrafo 25",
       "texto": "Las leyes establecerán incentivos urbanos y fiscales para generar espacios abiertos de uso público y áreas verdes. Se sancionará a quien haga uso inapropiado o dañe el espacio público."
     },
     {
@@ -1164,24 +1119,15 @@
       "apartado": "G",
       "fraccion": "",
       "ruta": "Artículo 16 › Apartado G › 6.",
-      "texto": "6. La Ciudad de México garantiza el derecho a realizar actividades de ocio, esparcimiento, recreativas, artísticas y turísticas, privilegiando el interés público."
+      "texto": "6. La Ciudad de México garantiza el derecho a realizar actividades de ocio, esparcimiento, recreativas, artísticas y turísticas, privilegiando el interés público. Las actividades comerciales y de servicios vinculadas con este derecho deberán contar con permiso de las alcaldías."
     },
     {
-      "id": "016.p31",
+      "id": "016.p26",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "G",
       "fraccion": "",
-      "ruta": "Artículo 16 › Apartado G › párrafo 31",
-      "texto": "Las actividades comerciales y de servicios vinculadas con este derecho deberán contar con permiso de las alcaldías."
-    },
-    {
-      "id": "016.p32",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "G",
-      "fraccion": "",
-      "ruta": "Artículo 16 › Apartado G › párrafo 32",
+      "ruta": "Artículo 16 › Apartado G › párrafo 26",
       "texto": "El Gobierno de la Ciudad y las alcaldías, en los ámbitos de su competencia, definirán programas de uso, mantenimiento y ampliación del espacio público con la participación ciudadana."
     },
     {
@@ -1200,7 +1146,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 16 › Apartado H",
-      "texto": "H. Movilidad y accesibilidad INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "H. Movilidad y accesibilidad"
     },
     {
       "id": "016.H.1",
@@ -1272,7 +1218,7 @@
       "apartado": "H",
       "fraccion": "",
       "ruta": "Artículo 16 › Apartado H › inciso e)",
-      "texto": "e) Promover y desarrollar paraderos y centros especializados de transferencia modal con el equipamiento requerido para garantizar la seguridad y el confort de los usuarios;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "e) Promover y desarrollar paraderos y centros especializados de transferencia modal con el equipamiento requerido para garantizar la seguridad y el confort de los usuarios;"
     },
     {
       "id": "016.H.f",
@@ -1329,40 +1275,40 @@
       "texto": "4. Corresponde al Gobierno de la Ciudad autorizar y regular la prestación de servicios públicos de transporte de personas por particulares y las tarifas correspondientes, en los términos que establezca la ley."
     },
     {
-      "id": "016.p33",
+      "id": "016.p27",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "H",
       "fraccion": "",
-      "ruta": "Artículo 16 › Apartado H › párrafo 33",
+      "ruta": "Artículo 16 › Apartado H › párrafo 27",
       "texto": "La prestación directa de servicios de transporte por parte del Gobierno de la Ciudad se hará a través de organismos públicos con planes y programas de desarrollo a mediano y largo plazo, participación ciudadana y rendición de cuentas sobre su desempeño funcional y financiero."
     },
     {
-      "id": "016.p34",
+      "id": "016.p28",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "H",
       "fraccion": "",
-      "ruta": "Artículo 16 › Apartado H › párrafo 34",
-      "texto": "Las autorizaciones o concesiones para el servicio de transporte público colectivo sólo podrán ser otorgadas a empresas sociales y particulares, con operadores con salarios y prestaciones de ley. Las concesiones otorgadas con anterioridad a la entrada en vigor de esta Constitución, continuarán vigentes y sus titulares tienen derecho a la renovación en los términos en que fueron otorgadas."
+      "ruta": "Artículo 16 › Apartado H › párrafo 28",
+      "texto": "Las autorizaciones o concesiones para el servicio de transporte público colectivo sólo podrán ser otorgadas a empresas sociales y particulares, con operadores con salarios y prestaciones de ley."
     },
     {
-      "id": "016.p35",
+      "id": "016.p29",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "H",
       "fraccion": "",
-      "ruta": "Artículo 16 › Apartado H › párrafo 35",
+      "ruta": "Artículo 16 › Apartado H › párrafo 29",
+      "texto": "Las concesiones otorgadas con anterioridad a la entrada en vigor de esta Constitución, continuarán vigentes y sus titulares tienen derecho a la renovación en los términos en que fueron otorgadas."
+    },
+    {
+      "id": "016.p30",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "H",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Apartado H › párrafo 30",
       "texto": "El Gobierno de la Ciudad establecerá mecanismos de apoyo financiero directo a los sistemas de movilidad y transporte colectivo para asegurar su cobertura, eficiencia y confort, los cuales serán fondeados con instrumentos fiscales y económicos de interiorización de costos ambientales."
-    },
-    {
-      "id": "016.p36",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "H",
-      "fraccion": "",
-      "ruta": "Artículo 16 › Apartado H › párrafo 36",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
     },
     {
       "id": "016.H.I",
@@ -1434,7 +1380,7 @@
       "apartado": "H",
       "fraccion": "I",
       "ruta": "Artículo 16 › Apartado H › Fracción I › inciso f)",
-      "texto": "f) Desarrollará la cultura de la seguridad y la resiliencia, promoviendo la participación ciudadana, el voluntariado, la autoprotección, la corresponsabilidad, la ayuda mutua y el auxilio a la población;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "f) Desarrollará la cultura de la seguridad y la resiliencia, promoviendo la participación ciudadana, el voluntariado, la autoprotección, la corresponsabilidad, la ayuda mutua y el auxilio a la población;"
     },
     {
       "id": "016.H.I.g",

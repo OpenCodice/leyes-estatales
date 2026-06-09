@@ -4,35 +4,34 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:cd7e0bf25637b131",
+    "hash_texto": "sha256:fc53b9c0f5e9b0a5",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Ordenamiento Territorial",
   "temas": [
     "Medio Ambiente",
-    "Biodiversidad",
-    "Gestión del Agua",
-    "Residuos Sólidos",
-    "Vivienda",
-    "Desarrollo Rural",
-    "Movilidad",
-    "Espacios Públicos"
+    "Gestión del agua",
+    "Derecho a un ambiente sano",
+    "Protección de recursos naturales",
+    "Gestión de residuos",
+    "Desarrollo urbano sustentable",
+    "Vivienda adecuada"
   ],
   "terminos_coloquiales": [
-    "cuidado del medio ambiente",
-    "espacios verdes en la ciudad",
-    "manejo de residuos",
-    "acceso al agua",
-    "vivienda accesible",
-    "movilidad en la ciudad",
-    "desarrollo urbano"
+    "cuidados del medio ambiente",
+    "uso del agua",
+    "sustentabilidad",
+    "basura y reciclaje",
+    "espacios verdes",
+    "vivienda para todos"
   ],
-  "resumen": "El artículo aborda el ordenamiento territorial en la Ciudad de México, enfocándose en la protección del medio ambiente, la gestión sostenible de agua, el manejo de residuos y la necesidad de garantizar vivienda adecuada. También destaca la importancia de los espacios públicos y la movilidad para los ciudadanos.",
+  "resumen": "El artículo establece la importancia del ordenamiento territorial para proteger el medio ambiente, la gestión del agua, la vivienda y los recursos naturales en la Ciudad de México. Se subraya la responsabilidad compartida entre autoridades y la sociedad en la preservación de un entorno saludable y sustentable.",
   "preguntas_ejemplo": [
-    "¿Cómo se protege el medio ambiente en la Ciudad de México?",
-    "¿Qué políticas hay para el manejo de residuos?",
-    "¿Cómo se garantiza el acceso al agua potable?",
-    "¿Qué se está haciendo para mejorar los espacios públicos?",
-    "¿Qué derechos tienen las personas sobre su vivienda en la ciudad?"
+    "¿Qué dice la Constitución sobre el medio ambiente?",
+    "¿Cómo se maneja el agua en la Ciudad de México según la Constitución?",
+    "¿Cuáles son mis derechos sobre el uso de espacio público?",
+    "¿Qué se está haciendo para cuidar el medio ambiente en la ciudad?",
+    "¿Qué se debe hacer con los residuos y la basura?",
+    "¿Cómo se garantiza el acceso a vivienda adecuada?"
   ]
 }

@@ -60,15 +60,6 @@
       "texto": "4. La ley determinará los casos en los que deba emitirse una carta de derechos de los usuarios y obligaciones de los prestadores de servicios públicos. Las autoridades conformarán un sistema de índices de calidad de los servicios públicos basado en criterios técnicos y acorde a los principios señalados en el primer numeral de este apartado."
     },
     {
-      "id": "007.p2",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "A",
-      "fraccion": "",
-      "ruta": "Artículo 7 › Apartado A › párrafo 2",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
-    },
-    {
       "id": "007.B",
       "tipo": "apartado",
       "marca": "B",
@@ -102,7 +93,16 @@
       "apartado": "C",
       "fraccion": "",
       "ruta": "Artículo 7 › Apartado C › 2.",
-      "texto": "2. Las personas profesionales de la información tienen derecho a desempeñarse de manera libre y a mantener el secreto profesional, que salvaguarda a periodistas y colaboradores periodísticos en cumplimiento de sus funciones, así como a no ser obligados a revelar sus fuentes de información. En su desempeño se respetará, como eje fundamental, la cláusula de conciencia para salvaguarda de su dignidad personal y profesional e independencia."
+      "texto": "2. Las personas profesionales de la información tienen derecho a desempeñarse de manera libre y a mantener el secreto profesional, que salvaguarda a periodistas y colaboradores periodísticos en cumplimiento de sus funciones, así como a no ser obligados a revelar sus fuentes de información."
+    },
+    {
+      "id": "007.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado C › párrafo 2",
+      "texto": "En su desempeño se respetará, como eje fundamental, la cláusula de conciencia para salvaguarda de su dignidad personal y profesional e independencia."
     },
     {
       "id": "007.C.3",
@@ -139,15 +139,6 @@
       "fraccion": "",
       "ruta": "Artículo 7 › Apartado D › 1.",
       "texto": "1. Toda persona tiene derecho al libre acceso a información plural, suficiente y oportuna, así como a producirla, buscarla, recibirla y difundirla por cualquier medio."
-    },
-    {
-      "id": "007.p3",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "D",
-      "fraccion": "",
-      "ruta": "Artículo 7 › Apartado D › párrafo 3",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
     },
     {
       "id": "007.D.2",
@@ -219,16 +210,7 @@
       "apartado": "E",
       "fraccion": "",
       "ruta": "Artículo 7 › Apartado E › 4.",
-      "texto": "4. Toda persona tiene derecho al acceso, rectificación, cancelación y portabilidad de sus datos personales, así como a manifestar su oposición respecto del tratamiento de estos, en los términos que disponga la ley. Su manejo se regirá por los principios de veracidad, licitud, consentimiento, información, calidad, finalidad, lealtad, proporcionalidad y responsabilidad."
-    },
-    {
-      "id": "007.p4",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "E",
-      "fraccion": "",
-      "ruta": "Artículo 7 › Apartado E › párrafo 4",
-      "texto": "Reforma publicada en la GOCDMX el 02 de Junio de 2022"
+      "texto": "4. Toda persona tiene derecho al acceso, rectificación y cancelación de sus datos personales, así como a manifestar su oposición respecto del tratamiento de los mismos, en los términos que disponga la ley. Su manejo se regirá por los principios de veracidad, licitud, consentimiento, información, calidad, finalidad, lealtad, proporcionalidad y responsabilidad."
     },
     {
       "id": "007.F",
@@ -237,7 +219,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 7 › Apartado F",
-      "texto": "F. Derecho a un gobierno democrático y a la participación política paritaria INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "F. Derecho a un gobierno democrático y a la participación política paritaria"
     },
     {
       "id": "007.F.1",

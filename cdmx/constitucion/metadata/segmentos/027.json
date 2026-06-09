@@ -21,7 +21,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 27 › Apartado A",
-      "texto": "A. Candidaturas sin partido INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "A. Candidaturas sin partido"
     },
     {
       "id": "027.A.1",
@@ -96,15 +96,6 @@
       "texto": "3. Los partidos políticos respetarán los derechos de militancia, asociación y libre expresión de sus integrantes."
     },
     {
-      "id": "027.p2",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "B",
-      "fraccion": "",
-      "ruta": "Artículo 27 › Apartado B › párrafo 2",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
-    },
-    {
       "id": "027.B.4",
       "tipo": "numeral",
       "marca": "4",
@@ -174,7 +165,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 27 › Apartado B › Fracción IV",
-      "texto": "IV. El monto total del financiamiento de origen público a distribuir entre los partidos políticos, que será determinado anualmente por el Instituto Electoral de la Ciudad de México;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "IV. El monto total del financiamiento de origen público a distribuir entre los partidos políticos, que será determinado anualmente por el Instituto Electoral de la Ciudad de México;"
     },
     {
       "id": "027.B.V",
@@ -258,15 +249,6 @@
       "texto": "1. Las agrupaciones políticas locales son formas de asociación ciudadana."
     },
     {
-      "id": "027.p3",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "C",
-      "fraccion": "",
-      "ruta": "Artículo 27 › Apartado C › párrafo 3",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
-    },
-    {
       "id": "027.C.2",
       "tipo": "numeral",
       "marca": "2",
@@ -330,12 +312,12 @@
       "texto": "4. En los casos de faltas graves, las y los candidatos responsables serán sancionados con la cancelación de la candidatura por la autoridad electoral competente."
     },
     {
-      "id": "027.p4",
+      "id": "027.p2",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "D",
       "fraccion": "",
-      "ruta": "Artículo 27 › Apartado D › párrafo 4",
+      "ruta": "Artículo 27 › Apartado D › párrafo 2",
       "texto": "Además, los partidos políticos, ciudadanos y ciudadanas, militantes y personas servidoras públicas involucrados serán sancionados de conformidad con lo que establezcan las leyes."
     },
     {
@@ -348,15 +330,6 @@
       "texto": "5. La autoridad electoral realizará el recuento total de los votos emitidos en la jornada electoral siempre que el resultado de la elección arroje una diferencia entre el primero y el segundo lugar igual o inferior al uno por ciento."
     },
     {
-      "id": "027.p5",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "D",
-      "fraccion": "",
-      "ruta": "Artículo 27 › Apartado D › párrafo 5",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
-    },
-    {
       "id": "027.D.6",
       "tipo": "numeral",
       "marca": "6",
@@ -366,12 +339,12 @@
       "texto": "6. Durante los procesos electorales en los tiempos del Estado que corresponde a la autoridad electoral y que sean de mayor audiencia se difundirá que el voto es libre y secreto y se señalará que no puede ser obtenido mediante compra, coacción o violencia."
     },
     {
-      "id": "027.p6",
+      "id": "027.p3",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "D",
       "fraccion": "",
-      "ruta": "Artículo 27 › Apartado D › párrafo 6",
+      "ruta": "Artículo 27 › Apartado D › párrafo 3",
       "texto": "DE LA DISTRIBUCIÓN DEL PODER"
     }
   ]

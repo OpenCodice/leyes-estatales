@@ -4,7 +4,7 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:20a6f4a73099ae45",
+    "hash_texto": "sha256:76fec9fae415ba82",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Inviolabilidad constitucional",
@@ -12,20 +12,20 @@
     "modificación de la Constitución",
     "actos de fuerza",
     "vigencia constitucional",
-    "democracia"
+    "orden institucional"
   ],
   "terminos_coloquiales": [
-    "la Constitución no se toca",
-    "no se puede cambiar a la fuerza",
-    "cambios a la Constitución",
-    "siempre vigente"
+    "cambiar la Constitución",
+    "alterar la Constitución",
+    "hacer reformas",
+    "proteger la Constitución"
   ],
-  "resumen": "La Constitución no puede ser cambiada por la fuerza y sigue vigente aunque haya desorden institucional. Solo se puede modificar de manera democrática.",
+  "resumen": "La Constitución no puede ser cambiada por la fuerza y sigue vigente aunque haya crisis en el orden del país. Solo se puede modificar de manera democrática.",
   "preguntas_ejemplo": [
-    "¿La Constitución puede ser cambiada sin un proceso democrático?",
-    "¿Qué pasa si hay un golpe de estado, se puede modificar la Constitución?",
-    "¿Puede alguien alterar la Constitución de forma violenta?",
-    "¿Qué significa que la Constitución sea inviolable?",
-    "¿La Constitución sigue en pie si el gobierno se interrumpe?"
+    "¿Quién puede modificar la Constitución?",
+    "¿Qué pasa si se intenta cambiar la Constitución por la fuerza?",
+    "¿La Constitución se sigue aplicando en situaciones críticas?",
+    "¿Cómo se puede reformar la Constitución?",
+    "¿Qué significa que la Constitución sea inviolable?"
   ]
 }

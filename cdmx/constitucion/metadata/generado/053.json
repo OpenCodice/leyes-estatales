@@ -4,33 +4,37 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:db1e823cf6b6ecf2",
+    "hash_texto": "sha256:5bd347d406846338",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Alcaldías",
   "temas": [
-    "organización política",
-    "gobierno local",
+    "integración política",
+    "autonomía",
     "participación ciudadana",
-    "igualdad de género",
-    "servicios públicos",
-    "desarrollo urbano",
     "seguridad ciudadana",
-    "desarrollo económico"
+    "desarrollo urbano",
+    "servicios públicos",
+    "gobernabilidad",
+    "transparencia",
+    "derechos de pueblos originarios",
+    "género"
   ],
   "terminos_coloquiales": [
     "cómo funcionan las alcaldías",
-    "quién elige a los alcaldes",
-    "qué hacen las alcaldías",
-    "derechos de los ciudadanos en las alcaldías",
-    "participación de vecinos en la alcaldía"
+    "poder local",
+    "gobierno de la ciudad",
+    "servicios de la alcaldía",
+    "alcaldes y concejales",
+    "participación de la gente"
   ],
-  "resumen": "El artículo establece cómo están organizadas y qué funciones tienen las alcaldías, que son organismos de gobierno local en la Ciudad de México. Las alcaldías trabajan para representar a la población, promover el bienestar social y garantizar la participación ciudadana en decisiones públicas.",
+  "resumen": "El artículo establece la estructura, funciones y facultades de las alcaldías en la Ciudad de México, así como la electividad de sus integrantes. También menciona la importancia de la participación ciudadana y la autonomía en la gestión de recursos y servicios públicos.",
   "preguntas_ejemplo": [
-    "¿Cómo se elige a un alcalde en la Ciudad de México?",
-    "¿Cuáles son las funciones de las alcaldías?",
-    "¿Qué derechos tienen los ciudadanos en su alcaldía?",
-    "¿Cómo pueden participar los vecinos en las decisiones de su alcaldía?",
-    "¿Qué servicios públicos ofrece la alcaldía?"
+    "¿Qué es una alcaldía?",
+    "¿Quién elige a los alcaldes?",
+    "¿Cuáles son las funciones de una alcaldía?",
+    "¿Cómo se asegura la participación ciudadana en las alcaldías?",
+    "¿Qué servicios ofrecen las alcaldías?",
+    "¿Qué papel juegan las mujeres en las alcaldías?"
   ]
 }

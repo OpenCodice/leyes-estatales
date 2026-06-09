@@ -21,7 +21,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 52 › 1.",
-      "texto": "1. Las demarcaciones territoriales son la base de la división territorial y de la organización político- administrativa de la Ciudad de México. Serán autónomas en su gobierno interior, el cual estará a cargo de un órgano político administrativo denominado alcaldía."
+      "texto": "1. Las demarcaciones territoriales son la base de la división territorial y de la organización político administrativa de la Ciudad de México. Serán autónomas en su gobierno interior, el cual estará a cargo de un órgano político administrativo denominado alcaldía."
     },
     {
       "id": "052.2",
@@ -84,7 +84,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 52 › Fracción V",
-      "texto": "V. Factores históricos;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "V. Factores históricos;"
     },
     {
       "id": "052.VI",
@@ -138,133 +138,142 @@
       "apartado": "",
       "fraccion": "X",
       "ruta": "Artículo 52 › Fracción X › 4.",
-      "texto": "4. La Ciudad de México está integrada por las siguientes demarcaciones territoriales: Álvaro Obregón, Azcapotzalco, Benito Juárez, Coyoacán, Cuajimalpa de Morelos, Cuauhtémoc, Gustavo A. Madero, Iztacalco, Iztapalapa, Magdalena Contreras, Miguel Hidalgo, Milpa Alta, Tláhuac, Tlalpan, Venustiano Carranza y Xochimilco."
+      "texto": "4. La Ciudad de México está integrada por las siguientes demarcaciones territoriales: Álvaro Obregón, Azcapotzalco, Benito Juárez, Coyoacán, Cuajimalpa de Morelos, Cuauhtémoc, Gustavo"
+    },
+    {
+      "id": "052.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › Apartado A",
+      "texto": "A. Madero, Iztacalco, Iztapalapa, Magdalena Contreras, Miguel Hidalgo, Milpa Alta, Tláhuac, Tlalpan, Venustiano Carranza y Xochimilco."
     },
     {
       "id": "052.p2",
       "tipo": "parrafo",
       "marca": "",
-      "apartado": "",
+      "apartado": "A",
       "fraccion": "",
-      "ruta": "Artículo 52 › párrafo 2",
+      "ruta": "Artículo 52 › Apartado A › párrafo 2",
       "texto": "Las demarcaciones territoriales podrán ser modificadas en los términos establecidos en esta Constitución, sin que puedan ser menos en cantidad a las establecidas al momento de su entrada en vigor."
     },
     {
-      "id": "052.X.5",
+      "id": "052.A.5",
       "tipo": "numeral",
       "marca": "5",
-      "apartado": "",
-      "fraccion": "X",
-      "ruta": "Artículo 52 › Fracción X › 5.",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 52 › Apartado A › 5.",
       "texto": "5. La modificación en el número, denominación y límites de las demarcaciones territoriales, tendrá por objeto:"
     },
     {
-      "id": "052.I~2",
+      "id": "052.A.I",
       "tipo": "fraccion",
       "marca": "I",
-      "apartado": "",
+      "apartado": "A",
       "fraccion": "",
-      "ruta": "Artículo 52 › Fracción I",
+      "ruta": "Artículo 52 › Apartado A › Fracción I",
       "texto": "I. Alcanzar un equilibrio demográfico, respetando la identidad histórica de sus colonias y pueblos y barrios originarios, existentes entre las demarcaciones territoriales;"
     },
     {
-      "id": "052.II~2",
+      "id": "052.A.II",
       "tipo": "fraccion",
       "marca": "II",
-      "apartado": "",
+      "apartado": "A",
       "fraccion": "",
-      "ruta": "Artículo 52 › Fracción II",
+      "ruta": "Artículo 52 › Apartado A › Fracción II",
       "texto": "II. El equilibrio en el desarrollo urbano, rural, ecológico, social, económico y cultural de la ciudad;"
     },
     {
-      "id": "052.III~2",
+      "id": "052.A.III",
       "tipo": "fraccion",
       "marca": "III",
-      "apartado": "",
+      "apartado": "A",
       "fraccion": "",
-      "ruta": "Artículo 52 › Fracción III",
+      "ruta": "Artículo 52 › Apartado A › Fracción III",
       "texto": "III. La integración territorial y la cohesión social;"
     },
     {
-      "id": "052.IV~2",
+      "id": "052.A.IV",
       "tipo": "fraccion",
       "marca": "IV",
-      "apartado": "",
+      "apartado": "A",
       "fraccion": "",
-      "ruta": "Artículo 52 › Fracción IV",
+      "ruta": "Artículo 52 › Apartado A › Fracción IV",
       "texto": "IV. La mayor oportunidad, eficacia y cobertura de los servicios públicos y los actos de gobierno;"
     },
     {
-      "id": "052.V~2",
+      "id": "052.A.V",
       "tipo": "fraccion",
       "marca": "V",
-      "apartado": "",
+      "apartado": "A",
       "fraccion": "",
-      "ruta": "Artículo 52 › Fracción V",
-      "texto": "V. El incremento de la eficacia gubernativa;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "ruta": "Artículo 52 › Apartado A › Fracción V",
+      "texto": "V. El incremento de la eficacia gubernativa;"
     },
     {
-      "id": "052.VI~2",
+      "id": "052.A.VI",
       "tipo": "fraccion",
       "marca": "VI",
-      "apartado": "",
+      "apartado": "A",
       "fraccion": "",
-      "ruta": "Artículo 52 › Fracción VI",
+      "ruta": "Artículo 52 › Apartado A › Fracción VI",
       "texto": "VI. La mayor participación social; y"
     },
     {
-      "id": "052.VII~2",
+      "id": "052.A.VII",
       "tipo": "fraccion",
       "marca": "VII",
-      "apartado": "",
+      "apartado": "A",
       "fraccion": "",
-      "ruta": "Artículo 52 › Fracción VII",
+      "ruta": "Artículo 52 › Apartado A › Fracción VII",
       "texto": "VII. Otros elementos que convengan a los intereses de la población."
     },
     {
-      "id": "052.VII.6",
+      "id": "052.A.VII.6",
       "tipo": "numeral",
       "marca": "6",
-      "apartado": "",
+      "apartado": "A",
       "fraccion": "VII",
-      "ruta": "Artículo 52 › Fracción VII › 6.",
+      "ruta": "Artículo 52 › Apartado A › Fracción VII › 6.",
       "texto": "6. Cualquier modificación en el número, denominación y límites de las demarcaciones territoriales deberá ser presentada ante el Congreso de la Ciudad de México a propuesta de:"
     },
     {
-      "id": "052.I~3",
+      "id": "052.A.I~2",
       "tipo": "fraccion",
       "marca": "I",
-      "apartado": "",
+      "apartado": "A",
       "fraccion": "",
-      "ruta": "Artículo 52 › Fracción I",
+      "ruta": "Artículo 52 › Apartado A › Fracción I",
       "texto": "I. La persona titular de la Jefatura de Gobierno de la Ciudad de México;"
     },
     {
-      "id": "052.II~3",
+      "id": "052.A.II~2",
       "tipo": "fraccion",
       "marca": "II",
-      "apartado": "",
+      "apartado": "A",
       "fraccion": "",
-      "ruta": "Artículo 52 › Fracción II",
+      "ruta": "Artículo 52 › Apartado A › Fracción II",
       "texto": "II. De un tercio de las y los diputados que integran el Congreso de la Ciudad de México;"
     },
     {
-      "id": "052.III~3",
+      "id": "052.A.III~2",
       "tipo": "fraccion",
       "marca": "III",
-      "apartado": "",
+      "apartado": "A",
       "fraccion": "",
-      "ruta": "Artículo 52 › Fracción III",
+      "ruta": "Artículo 52 › Apartado A › Fracción III",
       "texto": "III. De la alcaldía o alcaldías, cuyas demarcaciones territoriales resulten sujetas a análisis para su modificación; o"
     },
     {
-      "id": "052.IV~3",
+      "id": "052.A.IV~2",
       "tipo": "fraccion",
       "marca": "IV",
-      "apartado": "",
+      "apartado": "A",
       "fraccion": "",
-      "ruta": "Artículo 52 › Fracción IV",
-      "texto": "IV. Una iniciativa ciudadana.\n\nEn todos los casos, deberá ser aprobada por las dos terceras partes del Congreso de la Ciudad de México.\n\nLas propuestas deberán incluir el estudio que satisfaga los criterios de extensión y delimitación establecidos en el numeral 3.\n\nEn el supuesto de que la propuesta no sea presentada por la o las alcaldías sujetas a análisis para su modificación, éstas deberán expresar su opinión en torno a la creación, modificación o supresión de demarcaciones en un plazo no mayor a sesenta días naturales, contados a partir del día siguiente de su notificación.\n\nEl Congreso de la Ciudad de México deberá consultar a las personas que habitan la o las demarcaciones territoriales sujetas a análisis para su modificación, en los términos que establezca la ley.\n\nEl Congreso de la Ciudad de México establecerá el procedimiento y fecha de creación e inicio de funciones de la nueva demarcación, así como la forma de integración de sus autoridades y asignación presupuestal, lo cual no incidirá ni tendrá efectos para el proceso electoral inmediato posterior a su creación.\n\nLas diferencias que se susciten sobre los límites y extensión de las demarcaciones territoriales serán resueltas por el Congreso de la Ciudad de México.\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "ruta": "Artículo 52 › Apartado A › Fracción IV",
+      "texto": "IV. Una iniciativa ciudadana.\n\nEn todos los casos, deberá ser aprobada por las dos terceras partes del Congreso de la Ciudad de México. Las propuestas deberán incluir el estudio que satisfaga los criterios de extensión y delimitación establecidos en el numeral 3.\n\nEn el supuesto de que la propuesta no sea presentada por la o las alcaldías sujetas a análisis para su modificación, éstas deberán expresar su opinión en torno a la creación, modificación o supresión de demarcaciones en un plazo no mayor a sesenta días naturales, contados a partir del día siguiente de su notificación.\n\nEl Congreso de la Ciudad de México deberá consultar a las personas que habitan la o las demarcaciones territoriales sujetas a análisis para su modificación, en los términos que establezca la ley.\n\nEl Congreso de la Ciudad de México establecerá el procedimiento y fecha de creación e inicio de funciones de la nueva demarcación, así como la forma de integración de sus autoridades y asignación presupuestal, lo cual no incidirá ni tendrá efectos para el proceso electoral inmediato posterior a su creación.\n\nLas diferencias que se susciten sobre los límites y extensión de las demarcaciones territoriales serán resueltas por el Congreso de la Ciudad de México."
     }
   ]
 }

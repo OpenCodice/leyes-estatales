@@ -4,10 +4,10 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:1c98197718c249b5",
+    "hash_texto": "sha256:31a4c20097c97763",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Diversidad Cultural en la Ciudad de México",
+  "denominacion_comun": "Diversidad cultural en la Ciudad de México",
   "temas": [
     "interculturalidad",
     "plurietnicidad",
@@ -19,19 +19,20 @@
     "desplazamiento interno"
   ],
   "terminos_coloquiales": [
-    "diversidad en la ciudad",
     "culturas en la CDMX",
-    "pueblos indígenas",
+    "pueblos originarios",
     "migrantes en la ciudad",
     "refugiados",
-    "asilo en México"
+    "gente desplazada",
+    "diversidad en la ciudad"
   ],
-  "resumen": "La Ciudad de México es un lugar diverso donde conviven múltiples culturas, lenguas y tradiciones. También es un destino importante para migrantes y personas en busca de refugio o asilo.",
+  "resumen": "La Ciudad de México es un lugar con diversas culturas, lenguas y tradiciones gracias a sus habitantes y comunidades indígenas. También acoge a personas migrantes y a quienes buscan refugio o asilo.",
   "preguntas_ejemplo": [
-    "¿Qué comunidades indígenas hay en la Ciudad de México?",
-    "¿Cómo se apoya a los migrantes en la ciudad?",
-    "¿Qué significa ser un refugiado en México?",
+    "¿Qué significa que la ciudad es intercultural?",
+    "¿Cómo se reconoce a los pueblos originarios en la CDMX?",
+    "¿Quiénes son considerados refugiados en la ciudad?",
+    "¿Qué derechos tienen los migrantes en la Ciudad de México?",
     "¿Qué es la pluriétnicidad?",
-    "¿Cómo se celebra la diversidad cultural en la CDMX?"
+    "¿Cómo se apoya a las personas desplazadas dentro de la ciudad?"
   ]
 }

@@ -30,7 +30,7 @@
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 45 › Apartado A › 1.",
-      "texto": "1. En la Ciudad de México el proceso penal será acusatorio, adversarial y oral, y se regirá por los principios de publicidad, contradicción, concentración, continuidad, de igualdad ante la ley, de igualdad entre las partes, de derecho a un juicio previo y debido proceso, presunción INSTITUTO DE INVESTIGACIONES LEGISLATIVAS de inocencia, prohibición de doble enjuiciamiento e inmediación. Para las garantías y principios del debido proceso penal se estará a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, los instrumentos internacionales en la materia, esta Constitución y las leyes generales y locales."
+      "texto": "1. En la Ciudad de México el proceso penal será acusatorio, adversarial y oral, y se regirá por los principios de publicidad, contradicción, concentración, continuidad, de igualdad ante la ley, de igualdad entre las partes, de derecho a un juicio previo y debido proceso, presunción de inocencia, prohibición de doble enjuiciamiento e inmediación. Para las garantías y principios del debido proceso penal se estará a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, los instrumentos internacionales en la materia, esta Constitución y las leyes generales y locales."
     },
     {
       "id": "045.A.2",
@@ -42,13 +42,22 @@
       "texto": "2. Las autoridades de la Ciudad establecerán una comisión ejecutiva de atención a víctimas que tome en cuenta sus diferencias, necesidades e identidad cultural; proporcione procedimientos judiciales y administrativos oportunos, expeditos, accesibles y gratuitos; e incluya el resarcimiento, indemnización, asistencia y el apoyo material, médico, psicológico y social necesarios, en los términos de lo previsto en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes generales y locales en la materia."
     },
     {
+      "id": "045.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 45 › Apartado A › párrafo 2",
+      "texto": "(DEROGADO G.O. CDMX 26 DE JULIO DE 2019)"
+    },
+    {
       "id": "045.B",
       "tipo": "apartado",
       "marca": "B",
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 45 › Apartado B",
-      "texto": "B. (Se deroga)"
+      "texto": "B. SE DEROGA (DEROGADO G.O. CDMX 26 DE JULIO DE 2019)"
     },
     {
       "id": "045.B.1",
@@ -57,7 +66,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 45 › Apartado B › 1.",
-      "texto": "1. (Se deroga)"
+      "texto": "1. SE DEROGA (DEROGADO G.O. CDMX 26 DE JULIO DE 2019)"
     },
     {
       "id": "045.B.2",
@@ -66,7 +75,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 45 › Apartado B › 2.",
-      "texto": "2. (Se deroga)"
+      "texto": "2. SE DEROGA (DEROGADO G.O. CDMX 26 DE JULIO DE 2019)"
     },
     {
       "id": "045.B.3",
@@ -75,7 +84,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 45 › Apartado B › 3.",
-      "texto": "3. (Se deroga)"
+      "texto": "3. SE DEROGA (DEROGADO G.O. CDMX 26 DE JULIO DE 2019)"
     },
     {
       "id": "045.B.4",
@@ -84,7 +93,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 45 › Apartado B › 4.",
-      "texto": "4. (Se deroga)"
+      "texto": "4. SE DEROGA (DEROGADO G.O. CDMX 26 DE JULIO DE 2019)"
     },
     {
       "id": "045.B.5",
@@ -93,7 +102,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 45 › Apartado B › 5.",
-      "texto": "5. (Se deroga)"
+      "texto": "5. SE DEROGA (DEROGADO G.O. CDMX 26 DE JULIO DE 2019)"
     },
     {
       "id": "045.B.6",
@@ -102,7 +111,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 45 › Apartado B › 6.",
-      "texto": "6. (Se deroga)"
+      "texto": "6. SE DEROGA (DEROGADO G.O. CDMX 26 DE JULIO DE 2019)"
     },
     {
       "id": "045.B.7",
@@ -111,7 +120,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 45 › Apartado B › 7.",
-      "texto": "7. (Se deroga) DE LOS ORGANISMOS AUTÓNOMOS"
+      "texto": "7. SE DEROGA DE LOS ORGANISMOS AUTÓNOMOS"
     }
   ]
 }

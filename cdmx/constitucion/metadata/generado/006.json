@@ -4,14 +4,15 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:0750ca176fd43b32",
+    "hash_texto": "sha256:d3d0d64035bdf514",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Derechos y Libertades",
+  "denominacion_comun": "Derechos fundamentales",
   "temas": [
     "autodeterminación personal",
     "integridad física y psicológica",
-    "identidad y seguridad jurídica",
+    "identidad",
+    "seguridad jurídica",
     "derechos de las familias",
     "derechos sexuales",
     "derechos reproductivos",
@@ -20,22 +21,24 @@
     "libertad de creencias"
   ],
   "terminos_coloquiales": [
-    "libertad personal",
-    "derechos humanos",
+    "derechos de las personas",
+    "libertades personales",
     "vida digna",
-    "respeto a la identidad",
-    "derechos de familia",
-    "derechos sexuales",
-    "justicia gratuita",
+    "identidad y documentos",
+    "familias en la ley",
+    "educación sexual",
+    "decisiones sobre hijos",
+    "defensa de derechos",
+    "justicia para todos",
     "libertad de religión"
   ],
-  "resumen": "El artículo establece varios derechos fundamentales de las personas, incluyendo el derecho a la autodeterminación, a la integridad, a la identidad, y a una vida familiar protegida, así como a disfrutar de sus derechos sexuales y reproductivos. También garantiza el acceso a la justicia y la libertad de creencias.",
+  "resumen": "Este artículo establece derechos fundamentales para todas las personas, como el derecho a la autodeterminación, a ser respetados en su integridad, y a tener una identidad legal. También reconoce la protección de las familias, los derechos sexuales y reproductivos, y el acceso a la justicia y a la libertad de creencias.",
   "preguntas_ejemplo": [
-    "¿Qué derechos tiene una persona sobre su identidad?",
-    "¿Cómo se protege a las familias según la Constitución?",
-    "¿Qué implica el derecho a la autodeterminación?",
-    "¿Qué derechos sexuales reconoce la Constitución?",
-    "¿Cómo se asegura el acceso a la justicia?",
-    "¿Qué dice sobre la libertad de creencias?"
+    "¿Qué derechos tengo sobre mi identidad?",
+    "¿Cómo se protege a las familias en la ley?",
+    "¿Cuáles son mis derechos sexuales?",
+    "¿Qué es la autodeterminación personal?",
+    "¿Cómo puedo acceder a la justicia?",
+    "¿Qué significa tener una vida digna?"
   ]
 }

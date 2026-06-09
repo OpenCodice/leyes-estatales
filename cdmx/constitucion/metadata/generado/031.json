@@ -4,34 +4,28 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:9c054a15ae9bedb6",
+    "hash_texto": "sha256:7bfd88560def0991",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Comisión Permanente",
   "temas": [
-    "Congreso",
-    "receso",
-    "iniciativas",
-    "mociones",
-    "designaciones",
-    "funcionarios",
-    "licencias",
-    "protesta",
-    "períodos extraordinarios"
+    "funciones del Congreso",
+    "períodos extraordinarios",
+    "protesta de funcionarios",
+    "licencias de diputados"
   ],
   "terminos_coloquiales": [
-    "Comisión del Congreso",
-    "receso del Congreso",
-    "cambio de funcionarios",
-    "votaciones extraordinarias",
-    "períodos especiales"
+    "qué hace la Comisión Permanente",
+    "funciones del Congreso en recesos",
+    "quién toma protesta a funcionarios",
+    "quién aprueba licencias de diputados"
   ],
-  "resumen": "La Comisión Permanente es un grupo del Congreso que se reúne durante los recesos para atender asuntos importantes. Tiene la capacidad de tomar decisiones sobre funcionarios y convocar a sesiones extraordinarias.",
+  "resumen": "La Comisión Permanente es un grupo del Congreso que trabaja durante los recesos para desahogar propuestas y convocar a sesiones extraordinarias. También puede tomar protesta a funcionarios y aprobar licencias para los diputados.",
   "preguntas_ejemplo": [
-    "¿Qué hace la Comisión Permanente del Congreso?",
-    "¿Cómo se nombran a los funcionarios en receso?",
-    "¿Qué es un período extraordinario en el Congreso?",
-    "¿Quiénes son parte de la Comisión Permanente?",
-    "¿Qué decisiones puede tomar la Comisión Permanente?"
+    "¿Qué es la Comisión Permanente del Congreso?",
+    "¿Cuándo se reúne la Comisión Permanente?",
+    "¿Qué funciones tiene la Comisión Permanente?",
+    "¿Quién aprueba las licencias de los diputados?",
+    "¿Qué tipo de decisiones toma la Comisión Permanente?"
   ]
 }

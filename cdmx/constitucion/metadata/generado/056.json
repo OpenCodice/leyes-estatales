@@ -4,31 +4,35 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:f8ea2244299f969a",
+    "hash_texto": "sha256:2f37fa361fe912da",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Participación ciudadana en las alcaldías",
+  "denominacion_comun": "Participación ciudadana en alcaldías",
   "temas": [
     "participación ciudadana",
     "derechos humanos",
     "transparencia",
     "rendición de cuentas",
-    "consultas comunitarias",
-    "organización social"
+    "representación ciudadana",
+    "consultas públicas",
+    "organización social",
+    "servicios públicos",
+    "democracia"
   ],
   "terminos_coloquiales": [
-    "cómo puedo participar en mi alcaldía",
-    "derechos en mi comunidad",
-    "audiencias públicas",
-    "qué es la silla ciudadana",
-    "informes de alcaldía"
+    "cómo participar en mi alcaldía",
+    "derechos de los ciudadanos",
+    "informes de la alcaldía",
+    "sillas ciudadanas",
+    "cómo quejarme de servicios públicos",
+    "cómo se toman decisiones en la alcaldía"
   ],
-  "resumen": "El artículo habla sobre cómo los habitantes pueden participar en los asuntos de su alcaldía. Se establecen mecanismos para la consulta, transparencia y rendición de cuentas, asegurando el respeto a sus derechos y la colaboración con la comunidad.",
+  "resumen": "El artículo asegura que los ciudadanos pueden participar activamente en los asuntos de su alcaldía y que las autoridades deben facilitar esto de manera transparente. También establece la creación de espacios como asambleas y órganos de representación donde los habitantes pueden expresar sus opiniones y participar en la toma de decisiones.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo involucrarme en mi alcaldía?",
-    "¿Qué es la silla ciudadana?",
-    "¿Cómo se rinden cuentas las alcaldías?",
-    "¿Cuáles son mis derechos como habitante?",
-    "¿Qué mecanismos de participación existen?"
+    "¿Cómo puedo hacerle llegar mis propuestas a la alcaldía?",
+    "¿Qué mecanismos de participación existen en mi demarcación?",
+    "¿Los ciudadanos pueden influir en el uso de presupuesto?",
+    "¿Cómo se eligen a los representantes ciudadanos?",
+    "¿Dónde puedo encontrar información sobre las obras en mi comunidad?"
   ]
 }

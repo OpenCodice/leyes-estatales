@@ -30,7 +30,7 @@
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 42 › Apartado A › 1.",
-      "texto": "1. Las instituciones de seguridad ciudadana serán de carácter civil, disciplinado y profesional."
+      "texto": "1. Las instituciones de seguridad ciudadana serán de carácter civil, disciplinado (sic) y profesional."
     },
     {
       "id": "042.p2",
@@ -48,7 +48,16 @@
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 42 › Apartado A › 2.",
-      "texto": "2. La selección, ingreso, formación, evaluación, permanencia, reconocimiento y certificación de las y los integrantes de las instituciones de seguridad ciudadana, se hará conforme a lo previsto por la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes de la materia. La ley local establecerá el servicio profesional de carrera."
+      "texto": "2. La selección, ingreso, formación, evaluación, permanencia, reconocimiento y certificación de las y los integrantes de las instituciones de seguridad ciudadana, se hará conforme a lo previsto por la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes de la materia."
+    },
+    {
+      "id": "042.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 42 › Apartado A › párrafo 3",
+      "texto": "La ley local establecerá el servicio profesional de carrera."
     },
     {
       "id": "042.A.3",
@@ -58,15 +67,6 @@
       "fraccion": "",
       "ruta": "Artículo 42 › Apartado A › 3.",
       "texto": "3. La ley contemplará mecanismos institucionales de evaluación, control y vigilancia sobre las actividades que lleven a cabo las fuerzas policiales y las de seguridad privada, así como los procedimientos de participación ciudadana para coadyuvar en esta materia."
-    },
-    {
-      "id": "042.p3",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "A",
-      "fraccion": "",
-      "ruta": "Artículo 42 › Apartado A › párrafo 3",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
     },
     {
       "id": "042.B",
@@ -138,7 +138,7 @@
       "apartado": "C",
       "fraccion": "",
       "ruta": "Artículo 42 › Apartado C › 3.",
-      "texto": "3. Las alcaldías establecerán mecanismos de seguridad ciudadana y justicia cívica acordes a sus necesidades, mismos que deberán coordinarse con el mecanismo de seguimiento en la ejecución de las actividades en la materia, así como opinar y otorgar el aval ante la dependencia o institución encargada de la seguridad ciudadana ante el Gobierno de la Ciudad INSTITUTO DE INVESTIGACIONES LEGISLATIVAS respecto de la designación, desempeño y remoción de los mandos policiacos en su ámbito territorial."
+      "texto": "3. Las alcaldías establecerán mecanismos de seguridad ciudadana y justicia cívica acordes a sus necesidades, mismos que deberán coordinarse con el mecanismo de seguimiento en la ejecución de las actividades en la materia, así como opinar y otorgar el aval ante la dependencia o institución encargada de la seguridad ciudadana ante el Gobierno de la Ciudad respecto de la designación, desempeño y remoción de los mandos policiacos en su ámbito territorial."
     },
     {
       "id": "042.C.4",

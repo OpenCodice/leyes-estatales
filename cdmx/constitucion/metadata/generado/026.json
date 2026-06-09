@@ -4,36 +4,33 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:81213ca21003b318",
+    "hash_texto": "sha256:cf72a56162c50b24",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Participación ciudadana",
+  "denominacion_comun": "Democracia participativa",
   "temas": [
-    "democracia participativa",
-    "participación social",
+    "participación ciudadana",
     "gobierno abierto",
     "rendición de cuentas",
     "presupuesto participativo",
-    "consultas ciudadanas",
-    "espacios públicos",
-    "organización comunitaria"
+    "organización comunitaria",
+    "consulta ciudadana",
+    "transparencia",
+    "gestión pública"
   ],
   "terminos_coloquiales": [
-    "cómo participar",
-    "decidir sobre el presupuesto",
-    "consultas ciudadanas",
-    "gobierno transparente",
-    "proyectos en mi barrio",
-    "participación en decisiones",
-    "mejoramiento de espacios públicos"
+    "cómo puedo participar en mi comunidad",
+    "¿qué es el presupuesto participativo?",
+    "derechos para opinar sobre el gobierno",
+    "participación en decisiones públicas",
+    "consulta sobre proyectos en mi barrio"
   ],
-  "resumen": "El artículo establece cómo las personas en la Ciudad de México pueden participar en decisiones sobre su comunidad, desde el presupuesto hasta la gestión de servicios. También exige a las autoridades facilitar esta participación y rendir cuentas a la ciudadanía.",
+  "resumen": "Este artículo trata sobre la importancia de la participación de las personas en la Ciudad de México en la toma de decisiones públicas. Establece que las autoridades deben apoyar y respetar las formas en que la gente se organiza para participar en la democracia, además de garantizar transparencia y rendición de cuentas en el uso de recursos públicos.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo participar en la toma de decisiones de mi comunidad?",
-    "¿Qué es el presupuesto participativo?",
-    "¿Cómo se asegura la transparencia en el uso de recursos públicos?",
-    "¿Qué mecanismos hay para que la ciudadanía opine sobre proyectos públicos?",
-    "¿Cómo se organiza una consulta ciudadana?",
-    "¿Qué deberes tienen las autoridades hacia la ciudadanía?"
+    "¿Cómo puedo involucrarme en decisiones de mi ciudad?",
+    "¿Qué es el gobierno abierto y cómo funciona?",
+    "¿Qué derechos tengo para participar en el presupuesto participativo?",
+    "¿Cómo se asegura la rendición de cuentas en mi comunidad?",
+    "¿Qué mecanismos existen para que los ciudadanos opinen sobre proyectos públicos?"
   ]
 }

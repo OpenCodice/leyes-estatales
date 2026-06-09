@@ -4,34 +4,32 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:c726c072cbacd3e2",
+    "hash_texto": "sha256:e162161181cc5da0",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Demarcaciones territoriales",
   "temas": [
     "división territorial",
     "organización política",
-    "alcaldía",
+    "alcaldías",
     "participación ciudadana",
-    "modificación de límites",
-    "identidades culturales",
-    "desarrollo urbano",
-    "cohesión social"
+    "modificaciones territoriales",
+    "equilibrio demográfico",
+    "desarrollo urbano"
   ],
   "terminos_coloquiales": [
     "barrios",
     "colonias",
-    "límites de colonias",
-    "cambios en demarcaciones",
-    "alcaldías",
-    "cómo se divide la ciudad"
+    "lugares en la ciudad",
+    "límites de las colonias",
+    "cambiar de colonia"
   ],
-  "resumen": "El artículo establece las demarcaciones territoriales de la Ciudad de México y cómo se organizan políticamente. Estas demarcaciones están formadas por habitantes y autoridades electas, y pueden modificarse para mejorar la gobernanza y los servicios públicos.",
+  "resumen": "Las demarcaciones territoriales son divisiones en la Ciudad de México que permiten un gobierno autónomo a través de alcaldías. Estas demarcaciones tienen en cuenta factores como la población, la identidad cultural y la infraestructura para su creación y modificación.",
   "preguntas_ejemplo": [
-    "¿Qué son las demarcaciones territoriales en la Ciudad de México?",
-    "¿Cómo se organizan las alcaldías en la ciudad?",
-    "¿Qué factores se consideran para modificar los límites de una colonia?",
-    "¿Quién puede proponer cambios en las demarcaciones territoriales?",
-    "¿Qué requisitos tiene que cumplir una propuesta para modificar una demarcación?"
+    "¿Cuáles son las demarcaciones territoriales de la Ciudad de México?",
+    "¿Cómo se pueden modificar las colonias en la ciudad?",
+    "¿Qué factores se consideran al crear una demarcación territorial?",
+    "¿Quién decide sobre los límites de las colonias?",
+    "¿Cómo se eligen los alcaldes de las demarcaciones?"
   ]
 }

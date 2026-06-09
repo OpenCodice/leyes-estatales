@@ -4,31 +4,31 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:9074a112a57d6698",
+    "hash_texto": "sha256:b43664043e911f73",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Defensoría Pública",
   "temas": [
     "asistencia legal",
-    "defensa penal",
-    "acceso a la justicia",
+    "defensa pública",
+    "derecho a la defensa",
+    "justicia gratuita",
     "derechos humanos",
     "mediación",
-    "justicia restaurativa"
+    "organismo autónomo"
   ],
   "terminos_coloquiales": [
-    "abogado gratis",
+    "abogados gratis",
+    "defensores públicos",
     "ayuda legal",
-    "defensor público",
-    "asesoría jurídica",
-    "defensa penal gratuita"
+    "justicia para todos"
   ],
-  "resumen": "El artículo establece la creación del Instituto de Defensoría Pública, que proporciona defensa legal gratuita a personas que la necesitan. Este organismo se encarga de garantizar el acceso a la justicia y la defensa en diferentes materias, así como de capacitar a sus defensores.",
+  "resumen": "El Instituto de Defensoría Pública ofrece asistencia gratuita de abogados para garantizar el derecho a la defensa en diversos temas legales. Además, se encarga de capacitar a los defensores y de velar por los derechos humanos en el proceso judicial.",
   "preguntas_ejemplo": [
-    "¿Qué es el Instituto de Defensoría Pública?",
-    "¿Cómo puedo acceder a un abogado gratis?",
-    "¿Qué tipos de casos cubre la defensoría pública?",
-    "¿Cuáles son los derechos que protege este instituto?",
-    "¿Qué hace un defensor público?"
+    "¿Cómo puedo obtener un abogado gratis?",
+    "¿Qué hace el Instituto de Defensoría Pública?",
+    "¿Tienen derecho a defensa todas las personas?",
+    "¿Qué tipos de casos pueden atender los defensores públicos?",
+    "¿Qué es la justicia restaurativa?"
   ]
 }

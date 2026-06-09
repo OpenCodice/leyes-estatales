@@ -4,39 +4,38 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:cb2460c04cfea067",
+    "hash_texto": "sha256:2f904639c161cf88",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Derecho a la educación",
   "temas": [
-    "derecho a la educación",
-    "educación inclusiva",
-    "educación gratuita",
-    "educación obligatoria",
-    "comunidad escolar",
-    "acceso a la cultura",
-    "derechos de niñas y niños",
-    "alfabetización",
-    "educación bilingüe",
-    "equidad educativa"
+    "Educación",
+    "Acceso igualitario",
+    "Educación inclusiva",
+    "Educación obligatoria",
+    "Alfabetización",
+    "Derechos de la niñez",
+    "Formación continua",
+    "Cultura",
+    "Innovación tecnológica"
   ],
   "terminos_coloquiales": [
-    "derecho a aprender",
+    "derecho a estudiar",
+    "acceso a la escuela",
+    "educación gratuita",
     "educación para todos",
-    "escuela pública gratuita",
-    "clases inclusivas",
-    "no más cuotas en las escuelas",
-    "apoyo para estudiantes",
-    "becas escolares",
-    "educación en lengua indígena"
+    "sin cuota escolar",
+    "educación bilingüe",
+    "apoyo escolar",
+    "educación de calidad"
   ],
-  "resumen": "En la Ciudad de México, todas las personas tienen el derecho a recibir educación a cualquier edad y con perspectiva inclusiva. Se garantiza que la educación sea gratuita y de calidad, sin importar la condición económica o social de los estudiantes.",
+  "resumen": "El artículo establece que todas las personas en la Ciudad de México tienen derecho a acceder a la educación en todos los niveles, sin importar su situación económica, cultural o de discapacidad. La educación pública es gratuita, inclusiva y orientada a reducir desigualdades entre los habitantes.",
   "preguntas_ejemplo": [
-    "¿Cuáles son mis derechos educativos en la Ciudad de México?",
-    "¿La educación es gratuita para todos?",
-    "¿Qué pasa si no puedo pagar cuotas en la escuela?",
-    "¿Qué tipo de educación se ofrece a los niños indígenas?",
-    "¿Cómo puedo obtener becas para mis hijos en la escuela?",
-    "¿Qué medidas hay para que nadie se quede sin estudiar?"
+    "¿Quién tiene derecho a la educación en la Ciudad de México?",
+    "¿La educación pública es gratuita para todos?",
+    "¿Qué garantiza el gobierno para apoyar la educación de los niños?",
+    "¿Se puede exigir cuotas para inscribir a un niño en la escuela?",
+    "¿Qué tipo de educación reciben las comunidades indígenas?",
+    "¿Qué pasa si no tengo documentos para inscribir a mi hijo en la escuela?"
   ]
 }

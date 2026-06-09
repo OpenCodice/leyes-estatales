@@ -4,34 +4,39 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:da675fafe478e2f7",
+    "hash_texto": "sha256:8a0237914b749a39",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Derechos humanos y principios rectores",
+  "denominacion_comun": "Derechos Humanos",
   "temas": [
     "dignidad humana",
     "libertad",
     "igualdad",
-    "derechos humanos",
     "no discriminación",
-    "inclusión",
-    "accesibilidad",
-    "participación ciudadana"
+    "derechos humanos",
+    "bienestar",
+    "desarrollo sustentable",
+    "propiedad",
+    "participación ciudadana",
+    "transparencia"
   ],
   "terminos_coloquiales": [
-    "derechos de las personas",
+    "derechos de la gente",
     "igualdad para todos",
-    "respeto a los derechos",
-    "no a la discriminación",
-    "vida digna",
-    "participación de la gente"
+    "respeto a las personas",
+    "derechos básicos",
+    "ayuda a la comunidad",
+    "no al maltrato",
+    "vivienda digna",
+    "cuidar el planeta"
   ],
-  "resumen": "Este artículo habla sobre la importancia de la dignidad humana y establece que todos deben tener libertad e igualdad en derechos. También menciona que el gobierno debe respetar y proteger estos derechos para el bienestar de la sociedad.",
+  "resumen": "Este artículo establece que la dignidad humana es fundamental y que todos tienen derecho a la libertad e igualdad. También se mencionan principios para el bienestar de la comunidad y la protección del medio ambiente.",
   "preguntas_ejemplo": [
-    "¿Qué derechos tienen las personas según la Constitución?",
-    "¿Por qué es importante la dignidad humana?",
-    "¿Cómo se garantiza la igualdad en derechos?",
-    "¿Qué significa no discriminación en la ley?",
-    "¿Cómo puedo participar en la toma de decisiones de mi comunidad?"
+    "¿Cuáles son los derechos básicos que todos tienen?",
+    "¿Cómo se protege la dignidad humana en la Constitución?",
+    "¿Qué principios guían la vida social en la Ciudad de México?",
+    "¿Qué se dice sobre la propiedad en este artículo?",
+    "¿Cómo se garantiza la igualdad entre las personas?",
+    "¿Qué importancia tiene la participación ciudadana en el ejercicio del poder?"
   ]
 }

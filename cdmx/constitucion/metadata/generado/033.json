@@ -4,30 +4,29 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:8315022b9d579697",
+    "hash_texto": "sha256:1818ca8696527c88",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Administración Pública en la Ciudad de México",
+  "denominacion_comun": "Administración Pública de la Ciudad de México",
   "temas": [
+    "administración pública",
     "gobierno abierto",
     "atención ciudadana",
     "accesibilidad",
-    "informes de gestión",
-    "remuneraciones"
+    "informes de gestión"
   ],
   "terminos_coloquiales": [
     "cómo funciona el gobierno",
-    "qué es el gobierno abierto",
-    "informes de los secretarios",
-    "sueldos de funcionarios",
-    "accesibilidad en la ciudad"
+    "qué es la administración pública",
+    "informes del gobierno",
+    "gobierno y ciudadanía"
   ],
-  "resumen": "El artículo establece que la Administración Pública de la Ciudad de México será centralizada y debe ser accesible y transparente. Los secretarios tienen que presentar informes anuales sobre su trabajo.",
+  "resumen": "El artículo establece que la administración pública de la Ciudad de México debe ser centralizada y paraestatal, y debe regirse por principios como la innovación y atención a la ciudadanía. Además, se menciona que los titulares de las Secretarías deben presentar informes anuales al Congreso.",
   "preguntas_ejemplo": [
-    "¿Cómo se organiza el gobierno de la Ciudad de México?",
-    "¿Qué principios rigen la administración pública en la ciudad?",
-    "¿Cuándo tienen que reportar sus actividades los secretarios?",
-    "¿Cómo se aseguran que el gobierno sea accesible para todos?",
-    "¿Dónde se puede consultar el informe de un secretario?"
+    "¿Cómo se organiza la administración pública en la Ciudad de México?",
+    "¿Cuáles son los principios del gobierno en la CDMX?",
+    "¿Qué tienen que hacer los secretarios del gabinete cada octubre?",
+    "¿Qué es el gobierno abierto en la Ciudad de México?",
+    "¿Cómo se asegura la atención ciudadana en el gobierno de la CDMX?"
   ]
 }

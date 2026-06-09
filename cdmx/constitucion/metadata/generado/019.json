@@ -4,35 +4,32 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:13f3fd2f83953d4c",
+    "hash_texto": "sha256:b782a1e0db57931d",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Coordinación Metropolitana",
+  "denominacion_comun": "Coordinación Metropolitana y Regional",
   "temas": [
     "desarrollo incluyente",
     "movilidad",
     "sustentabilidad",
     "calidad de vida",
-    "habitabilidad",
-    "servicios públicos",
     "participación ciudadana",
-    "gestión ambiental"
+    "planeación democrática",
+    "servicios públicos"
   ],
   "terminos_coloquiales": [
-    "cómo se organizan las ciudades",
-    "vida en la ciudad",
-    "mejorar el transporte",
-    "servicios de la ciudad",
-    "proyectos para la ciudad",
-    "ayuda a la movilidad",
-    "participación de la gente"
+    "cómo mejorar la ciudad",
+    "servicios en la ciudad",
+    "coordinación entre municipios",
+    "planificación urbana",
+    "desarrollo de la zona metropolitana"
   ],
-  "resumen": "El artículo habla sobre la importancia de coordinar esfuerzos entre diferentes niveles de gobierno para mejorar la vida en la Ciudad de México y su zona metropolitana. Se busca hacer un desarrollo que incluya a todos y garantice buenos servicios públicos y participación de los ciudadanos.",
+  "resumen": "Este artículo establece la importancia de la coordinación entre las autoridades de la Ciudad de México y los municipios cercanos para mejorar la calidad de vida de sus habitantes. Promueve el desarrollo equitativo y sostenible mediante la participación ciudadana y la planeación conjunta de servicios públicos.",
   "preguntas_ejemplo": [
-    "¿Cómo se mejorará el transporte en la ciudad?",
-    "¿Qué se está haciendo para que los ciudadanos participen en decisiones urbanas?",
-    "¿Qué servicios públicos son responsabilidad de las alcaldías?",
-    "¿Cómo se coordinan los gobiernos locales para el desarrollo de la metrópoli?",
-    "¿Qué mecanismos existen para consultar a la ciudadanía?"
+    "¿Cómo se coordina la Ciudad de México con los municipios vecinos?",
+    "¿Qué servicios públicos se pueden mejorar en la metrópoli?",
+    "¿Cómo puedo participar en la planeación de mi ciudad?",
+    "¿Qué es el Consejo de Desarrollo Metropolitano?",
+    "¿Qué se está haciendo para mejorar la movilidad en la ciudad?"
   ]
 }

@@ -4,34 +4,34 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:389f82f1497458c6",
+    "hash_texto": "sha256:9fd2fadd0fae0f4e",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Control constitucional local",
   "temas": [
-    "Tribunal Superior de Justicia",
     "Sala Constitucional",
-    "Inconstitucionalidad",
-    "Derechos humanos",
-    "Referéndum",
-    "Controversias constitucionales",
-    "Omisión legislativa"
+    "Tribunal Superior de Justicia",
+    "supremacía constitucional",
+    "acciones de inconstitucionalidad",
+    "controversias constitucionales",
+    "derechos humanos",
+    "legitimación"
   ],
   "terminos_coloquiales": [
-    "tribunal local",
-    "normas inconstitucionales",
-    "defensa de derechos",
-    "referendo",
-    "juicios constitucionales",
-    "reglas del gobierno"
+    "cómo se garantiza la constitución",
+    "quién gobierna la constitución local",
+    "qué es la sala constitucional",
+    "bajo qué condiciones se impugnan leyes",
+    "qué derechos protege la sala constitucional",
+    "cómo se pueden hacer valer mis derechos"
   ],
-  "resumen": "Este artículo define la existencia de una Sala Constitucional en el Tribunal Superior de Justicia que se encarga de interpretar y garantizar la Constitución local. Establece las atribuciones de esta sala, así como los procesos para interponer acciones por inconstitucionalidad y proteger derechos humanos.",
+  "resumen": "El artículo establece la existencia de una Sala Constitucional en el Tribunal Superior de Justicia de la Ciudad de México, encargada de garantizar la supremacía y control de la Constitución local. También detalla las atribuciones de la sala y quiénes pueden interponer acciones de inconstitucionalidad.",
   "preguntas_ejemplo": [
-    "¿Qué hace la Sala Constitucional?",
-    "¿Cómo se puede impugnar una norma que no cumple con la Constitución?",
-    "¿Qué es un referéndum y cómo se solicita?",
-    "¿Quién puede presentar una acción de inconstitucionalidad?",
-    "¿Qué pasa si el Congreso no corrige una ley declarada inconstitucional?",
-    "¿Cuáles son los plazos para resolver acciones de protección de derechos?"
+    "¿Qué hace la Sala Constitucional en la Ciudad de México?",
+    "¿Quiénes pueden pedir que se declare una ley inconstitucional?",
+    "¿Cómo se pueden defender mis derechos ante la sala?",
+    "¿Cuáles son las funciones del Tribunal Superior de Justicia?",
+    "¿Qué ocurre si una ley es declarada inconstitucional?",
+    "¿Quién elige a los magistrados de la Sala Constitucional?"
   ]
 }

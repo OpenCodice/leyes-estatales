@@ -30,7 +30,7 @@
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado A › 1.",
-      "texto": "1. Las alcaldías son órganos político-administrativos que se integran por un alcalde o alcaldesa y un concejo, electos por votación universal, libre, secreta y directa para un periodo de tres años."
+      "texto": "1. Las alcaldías son órganos político administrativos que se integran por un alcalde o alcaldesa y un concejo, electos por votación universal, libre, secreta y directa para un periodo de tres años."
     },
     {
       "id": "053.p2",
@@ -48,16 +48,7 @@
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado A › párrafo 3",
-      "texto": "Las alcaldías son parte de la administración pública de la Ciudad de México y un nivel de gobierno, en los términos de las competencias constitucionales y legales correspondientes."
-    },
-    {
-      "id": "053.p4",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "A",
-      "fraccion": "",
-      "ruta": "Artículo 53 › Apartado A › párrafo 4",
-      "texto": "No existirán autoridades intermedias entre la o el Jefe de Gobierno y las alcaldías."
+      "texto": "Las alcaldías son parte de la administración pública de la Ciudad de México y un nivel de gobierno, en los términos de las competencias constitucionales y legales correspondientes. No existirán autoridades intermedias entre la o el Jefe de Gobierno y las alcaldías."
     },
     {
       "id": "053.A.2",
@@ -120,7 +111,7 @@
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado A › Fracción VI",
-      "texto": "VI. Impulsar en las políticas públicas y los programas, la transversalidad de género para erradicar la desigualdad, discriminación y violencia contra las mujeres;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "VI. Impulsar en las políticas públicas y los programas, la transversalidad de género para erradicar la desigualdad, discriminación y violencia contra las mujeres;"
     },
     {
       "id": "053.A.VII",
@@ -192,7 +183,7 @@
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado A › Fracción XIV",
-      "texto": "XIV. Preservar el patrimonio, las culturas, identidades, festividades y la representación democrática de los pueblos, comunidades, barrios y colonias asentadas en las demarcaciones; así como el respeto y promoción de los derechos de los pueblos y barrios originarios y de las comunidades indígenas residentes en la demarcación territorial.\n\nTratándose de la representación democrática, las alcaldías reconocerán a las autoridades y representantes tradicionales elegidos en los pueblos y barrios originarios y comunidades indígenas residentes, de conformidad con sus sistemas normativos y se garantizará su independencia y legitimidad, de acuerdo con esta Constitución y la legislación en la materia;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "XIV. Preservar el patrimonio, las culturas, identidades, festividades y la representación democrática de los pueblos, comunidades, barrios y colonias asentadas en las demarcaciones; así como el respeto y promoción de los derechos de los pueblos y barrios originarios y de las comunidades indígenas residentes en la demarcación territorial.\n\nTratándose de la representación democrática, las alcaldías reconocerán a las autoridades y representantes tradicionales elegidos en los pueblos y barrios originarios y comunidades indígenas residentes, de conformidad con sus sistemas normativos y se garantizará su independencia y legitimidad, de acuerdo con esta Constitución y la legislación en la materia;"
     },
     {
       "id": "053.A.XV",
@@ -267,22 +258,22 @@
       "texto": "3. Las personas integrantes de la alcaldía se elegirán por planillas de entre siete y diez candidatos, según corresponda, ordenadas en forma progresiva, iniciando con la persona candidata a alcalde o alcaldesa y después con las y los concejales y sus respectivos suplentes, donde cada uno representará una circunscripción dentro de la demarcación territorial. Las fórmulas estarán integradas por personas del mismo género, de manera alternada, y deberán incluir personas jóvenes con edad entre los 18 y 29 años de edad, de conformidad con la ley de la materia."
     },
     {
+      "id": "053.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 53 › Apartado A › párrafo 4",
+      "texto": "La ley en la materia establecerá las bases y procedimientos para garantizar su cumplimiento."
+    },
+    {
       "id": "053.p5",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado A › párrafo 5",
-      "texto": "La ley en la materia establecerá las bases y procedimientos para garantizar su cumplimiento."
-    },
-    {
-      "id": "053.p6",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "A",
-      "fraccion": "",
-      "ruta": "Artículo 53 › Apartado A › párrafo 6",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS En ningún caso el número de las y los concejales podrá ser menor de diez ni mayor de quince, ni se otorgará registro a una planilla en la que algún ciudadano aspire a ocupar dos cargos de elección popular dentro de la misma."
+      "texto": "En ningún caso el número de las y los concejales podrá ser menor de diez ni mayor de quince, ni se otorgará registro a una planilla en la que algún ciudadano aspire a ocupar dos cargos de elección popular dentro de la misma."
     },
     {
       "id": "053.A.XXI.4",
@@ -303,12 +294,12 @@
       "texto": "5. El número de concejales de representación proporcional que se asigne a cada partido, así como a las candidaturas independientes, se determinará en función del porcentaje de votos efectivos obtenidos mediante la aplicación de la fórmula de cociente y resto mayor, bajo el sistema de listas cerradas por demarcación territorial. En todo caso la asignación se hará siguiendo el orden que tuvieron las candidaturas en la planilla correspondiente, respetando en la prelación de la lista el principio de paridad de género."
     },
     {
-      "id": "053.p7",
+      "id": "053.p6",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "A",
       "fraccion": "",
-      "ruta": "Artículo 53 › Apartado A › párrafo 7",
+      "ruta": "Artículo 53 › Apartado A › párrafo 6",
       "texto": "La ley de la materia definirá lo no previsto por esta Constitución en materia electoral."
     },
     {
@@ -348,22 +339,22 @@
       "texto": "9. En los supuestos en que alguna o alguno de los concejales titulares, dejare de desempeñar su cargo por un periodo mayor a sesenta días naturales, será sustituido por su suplente, en los términos establecidos por la ley."
     },
     {
+      "id": "053.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 53 › Apartado A › párrafo 7",
+      "texto": "En los casos en que la o el suplente no asuma el cargo, la vacante será cubierta por la o el concejal de la fórmula siguiente registrada en la planilla."
+    },
+    {
       "id": "053.p8",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado A › párrafo 8",
-      "texto": "En los casos en que la o el suplente no asuma el cargo, la vacante será cubierta por la o el concejal de la fórmula siguiente registrada en la planilla."
-    },
-    {
-      "id": "053.p9",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "A",
-      "fraccion": "",
-      "ruta": "Artículo 53 › Apartado A › párrafo 9",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS La o el concejal propietario podrá asumir nuevamente sus funciones en el momento que haya cesado el motivo de su suplencia, siempre y cuando no exista impedimento legal alguno."
+      "texto": "La o el concejal propietario podrá asumir nuevamente sus funciones en el momento que haya cesado el motivo de su suplencia, siempre y cuando no exista impedimento legal alguno."
     },
     {
       "id": "053.A.XXI.10",
@@ -462,7 +453,7 @@
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado A › Fracción V",
-      "texto": "V. Vía pública;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "V. Vía pública;"
     },
     {
       "id": "053.A.VI~2",
@@ -579,7 +570,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B",
-      "texto": "B. De las personas titulares de las alcaldías INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "B. De las personas titulares de las alcaldías"
     },
     {
       "id": "053.B.1",
@@ -660,7 +651,7 @@
       "apartado": "B",
       "fraccion": "V",
       "ruta": "Artículo 53 › Apartado B › Fracción V › inciso a)",
-      "texto": "a) De manera exclusiva:\n\nGobierno y régimen interior"
+      "texto": "a) De manera exclusiva:\n\nGOBIERNO Y RÉGIMEN INTERIOR"
     },
     {
       "id": "053.B.I~2",
@@ -678,7 +669,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción II",
-      "texto": "II. Someter a la aprobación del concejo, propuestas de disposiciones generales con el carácter de bando, únicamente sobre materias que sean de su competencia exclusiva;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "II. Someter a la aprobación del concejo, propuestas de disposiciones generales con el carácter de bando, únicamente sobre materias que sean de su competencia exclusiva;"
     },
     {
       "id": "053.B.III~2",
@@ -777,7 +768,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción XIII",
-      "texto": "XIII. Designar a las personas servidoras públicas de la alcaldía, sujetándose a las disposiciones del servicio profesional de carrera. En todo caso, los funcionarios de confianza, mandos medios y superiores, serán designados y removidos libremente por el alcalde o alcaldesa;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "XIII. Designar a las personas servidoras públicas de la alcaldía, sujetándose a las disposiciones del servicio profesional de carrera. En todo caso, los funcionarios de confianza, mandos medios y superiores, serán designados y removidos libremente por el alcalde o alcaldesa;"
     },
     {
       "id": "053.B.XIV",
@@ -795,7 +786,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción XV",
-      "texto": "XV. Legalizar las firmas de sus subalternos, y certificar y expedir copias y constancias de los documentos que obren en los archivos de la demarcación territorial;\n\nObra pública, desarrollo urbano y servicios públicos"
+      "texto": "XV. Legalizar las firmas de sus subalternos, y certificar y expedir copias y constancias de los documentos que obren en los archivos de la demarcación territorial;\n\nOBRA PÚBLICA, DESARROLLO URBANO Y SERVICIOS PÚBLICOS"
     },
     {
       "id": "053.B.XVI",
@@ -813,7 +804,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción XVII",
-      "texto": "XVII. Registrar las manifestaciones de obra y expedir las autorizaciones, permisos, licencias de construcción de demoliciones, instalaciones aéreas o subterráneas en vía pública, edificaciones en suelo de conservación, estaciones repetidoras de comunicación celular o inalámbrica y demás, correspondiente a su demarcación territorial, conforme a la normativa aplicable;"
+      "texto": "XVII. Registrar las manifestaciones de obra y expedir las autorizaciones, permisos, licencias de construcción de demoliciones, instalaciones aéreas o subterráneas en vía pública, edificaciones en suelo de conservación, estaciones repetidoras de comunicación celular o inalámbrica y demás, correspondientes a su demarcación territorial, conforme a la normativa aplicable;"
     },
     {
       "id": "053.B.XVIII",
@@ -831,7 +822,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción XIX",
-      "texto": "XIX. Prestar los siguientes servicios públicos: alumbrado público en las vialidades;\n\nlimpia y recolección de basura; poda de árboles; regulación de mercados; y pavimentación, de conformidad con la normatividad aplicable;"
+      "texto": "XIX. Prestar los siguientes servicios públicos: alumbrado público en las vialidades; limpia y recolección de basura; poda de árboles; regulación de mercados; y pavimentación, de conformidad con la normatividad aplicable;"
     },
     {
       "id": "053.B.XX",
@@ -858,7 +849,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción XXII",
-      "texto": "XXII. Vigilar y verificar administrativamente el cumplimiento de las disposiciones, así como aplicar las sanciones que correspondan en materia de establecimientos INSTITUTO DE INVESTIGACIONES LEGISLATIVAS mercantiles, estacionamientos públicos, construcciones, edificaciones, mercados públicos, protección civil, protección ecológica, anuncios, uso de suelo, cementerios, servicios funerarios, servicios de alojamiento, protección de no fumadores, y desarrollo urbano;"
+      "texto": "XXII. Vigilar y verificar administrativamente el cumplimiento de las disposiciones, así como aplicar las sanciones que correspondan en materia de establecimientos mercantiles, estacionamientos públicos, construcciones, edificaciones, mercados públicos, protección civil, protección ecológica, anuncios, uso de suelo, cementerios, servicios funerarios, servicios de alojamiento, protección de no fumadores, y desarrollo urbano;"
     },
     {
       "id": "053.B.XXIII",
@@ -867,7 +858,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción XXIII",
-      "texto": "XXIII. Elaborar, digitalizar y mantener actualizado el padrón de los giros mercantiles que funcionen en su jurisdicción y otorgar los permisos, licencias y autorizaciones de funcionamiento de los giros y avisos, con sujeción a las leyes y reglamentos aplicables;\n\nMovilidad, vía pública y espacios públicos"
+      "texto": "XXIII. Elaborar, digitalizar y mantener actualizado el padrón de los giros mercantiles que funcionen en su jurisdicción y otorgar los permisos, licencias y autorizaciones de funcionamiento de los giros y avisos, con sujeción a las leyes y reglamentos aplicables;\n\nMOVILIDAD, VÍA PÚBLICA Y ESPACIOS PÚBLICOS"
     },
     {
       "id": "053.B.XXIV",
@@ -930,7 +921,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción XXX",
-      "texto": "XXX. Construir, rehabilitar y mantener las vialidades, así como las guarniciones y banquetas requeridas en su demarcación, con base en los principios de diseño universal y accesibilidad;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "XXX. Construir, rehabilitar y mantener las vialidades, así como las guarniciones y banquetas requeridas en su demarcación, con base en los principios de diseño universal y accesibilidad;"
     },
     {
       "id": "053.B.XXXI",
@@ -957,7 +948,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción XXXIII",
-      "texto": "XXXIII. Ordenar y ejecutar las medidas administrativas encaminadas a mantener o recuperar la posesión de bienes del dominio público que detenten particulares, pudiendo ordenar el retiro de obstáculos que impidan su adecuado uso;\n\nDesarrollo económico y social"
+      "texto": "XXXIII. Ordenar y ejecutar las medidas administrativas encaminadas a mantener o recuperar la posesión de bienes del dominio público que detenten particulares, pudiendo ordenar el retiro de obstáculos que impidan su adecuado uso;\n\nDESARROLLO ECONÓMICO Y SOCIAL"
     },
     {
       "id": "053.B.XXXIV",
@@ -993,7 +984,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción XXXVII",
-      "texto": "XXXVII. Diseñar e instrumentar políticas y acciones sociales, encaminadas a la promoción de la cultura, la inclusión, la convivencia social y la igualdad sustantiva;\n\nasí como desarrollar estrategias de mejoramiento urbano y territorial, dirigidas a la juventud y los diversos sectores sociales, con el propósito de avanzar en la reconstrucción del tejido social, el bienestar y el ejercicio pleno de los derechos sociales.\n\nLo anterior se regirá bajo los principios de transparencia, objetividad, universalidad, integralidad, igualdad, territorialidad, efectividad, participación y no discriminación. Por ningún motivo serán utilizadas para fines de promoción INSTITUTO DE INVESTIGACIONES LEGISLATIVAS personal o política de las personas servidoras públicas, ni para influir de manera indebida en los procesos electorales o mecanismos de participación ciudadana.\n\nLa ley de la materia establecerá la prohibición de crear nuevos programas sociales en año electoral;"
+      "texto": "XXXVII. Diseñar e instrumentar políticas y acciones sociales, encaminadas a la promoción de la cultura, la inclusión, la convivencia social y la igualdad sustantiva; así como desarrollar estrategias de mejoramiento urbano y territorial, dirigidas a la juventud y los diversos sectores sociales, con el propósito de avanzar en la reconstrucción del tejido social, el bienestar y el ejercicio pleno de los derechos sociales.\n\nLo anterior se regirá bajo los principios de transparencia, objetividad, universalidad, integralidad, igualdad, territorialidad, efectividad, participación y no discriminación. Por ningún motivo serán utilizadas para fines de promoción personal o política de las personas servidoras públicas, ni para influir de manera indebida en los procesos electorales o mecanismos de participación ciudadana.\n\nLa ley de la materia establecerá la prohibición de crear nuevos programas sociales en año electoral;"
     },
     {
       "id": "053.B.XXXVIII",
@@ -1002,7 +993,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción XXXVIII",
-      "texto": "XXXVIII. Prestar en forma gratuita, servicios funerarios cuando se trate de personas en situación de calle, y no hubiera quien reclame el cadáver, o sus deudos carezcan de recursos económicos;\n\nEducación y cultura"
+      "texto": "XXXVIII. Prestar en forma gratuita, servicios funerarios cuando se trate de personas en situación de calle, y no hubiera quien reclame el cadáver, o sus deudos carezcan de recursos económicos;\n\nEDUCACIÓN Y CULTURA"
     },
     {
       "id": "053.B.XXXIX",
@@ -1020,7 +1011,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción XL",
-      "texto": "XL. Desarrollar, de manera permanente, programas dirigidos al fortalecimiento de la cultura cívica, la democracia participativa, y los derechos humanos en la demarcación territorial;\n\nAsuntos jurídicos"
+      "texto": "XL. Desarrollar, de manera permanente, programas dirigidos al fortalecimiento de la cultura cívica, la democracia participativa, y los derechos humanos en la demarcación territorial;\n\nASUNTOS JURÍDICOS"
     },
     {
       "id": "053.B.XLI",
@@ -1047,7 +1038,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción XLIII",
-      "texto": "XLIII. Realizar acciones de conciliación en conflictos vecinales que permitan a las y los ciudadanos dirimir sus conflictos de manera pacífica y la promoción de medios alternos de solución de controversias;\n\nRendición de cuentas"
+      "texto": "XLIII. Realizar acciones de conciliación en conflictos vecinales que permitan a las y los ciudadanos dirimir sus conflictos de manera pacífica y la promoción de medios alternos de solución de controversias;\n\nRENDICIÓN DE CUENTAS"
     },
     {
       "id": "053.B.XLIV",
@@ -1056,7 +1047,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción XLIV",
-      "texto": "XLIV. Cumplir con sus obligaciones en materia de transparencia y acceso a la información, de conformidad con la ley aplicable;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "XLIV. Cumplir con sus obligaciones en materia de transparencia y acceso a la información, de conformidad con la ley aplicable;"
     },
     {
       "id": "053.B.XLV",
@@ -1065,7 +1056,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción XLV",
-      "texto": "XLV. Participar en el sistema local contra la corrupción y establecer una estrategia anual en la materia con indicadores públicos de evaluación y mecanismos de participación ciudadana, así como implementar controles institucionales para prevenir actos de corrupción; mecanismos de seguimiento, evaluación y observación pública de las licitaciones, contrataciones y concesiones que realicen; y adopción de tabuladores de precios máximos, sujetándose a lo dispuesto en las leyes generales de la materia; y Seguridad ciudadana y protección civil"
+      "texto": "XLV. Participar en el sistema local contra la corrupción y establecer una estrategia anual en la materia con indicadores públicos de evaluación y mecanismos de participación ciudadana, así como implementar controles institucionales para prevenir actos de corrupción; mecanismos de seguimiento, evaluación y observación pública de las licitaciones, contrataciones y concesiones que realicen; y adopción de tabuladores de precios máximos, sujetándose a lo dispuesto en las leyes generales de la materia; y SEGURIDAD CIUDADANA Y PROTECCIÓN CIVIL"
     },
     {
       "id": "053.B.XLVI",
@@ -1083,7 +1074,7 @@
       "apartado": "B",
       "fraccion": "XLVI",
       "ruta": "Artículo 53 › Apartado B › Fracción XLVI › inciso b)",
-      "texto": "b) En forma coordinada con el Gobierno de la Ciudad de México u otras autoridades:\n\nGobierno y régimen interior"
+      "texto": "b) En forma coordinada con el Gobierno de la Ciudad de México u otras autoridades:\n\nGOBIERNO Y RÉGIMEN INTERIOR"
     },
     {
       "id": "053.B.I~3",
@@ -1092,7 +1083,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción I",
-      "texto": "I. Elaborar los proyectos de Presupuesto de Egresos de la demarcación y de calendario de ministraciones y someterlos a la aprobación del concejo;\n\nObra pública, desarrollo urbano y servicios públicos"
+      "texto": "I. Elaborar los proyectos de Presupuesto de Egresos de la demarcación y de calendario de ministraciones y someterlos a la aprobación del concejo;\n\nOBRA PÚBLICA, DESARROLLO URBANO Y SERVICIOS PÚBLICOS"
     },
     {
       "id": "053.B.II~3",
@@ -1119,7 +1110,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción IV",
-      "texto": "IV. Dar mantenimiento a los monumentos, plazas públicas y obras de ornato, propiedad de la Ciudad de México, así como participar en el mantenimiento de aquéllos de propiedad federal que se encuentren dentro de su demarcación INSTITUTO DE INVESTIGACIONES LEGISLATIVAS territorial, sujeto a la autorización de las autoridades competentes, y respetando las leyes, los acuerdos y convenios que les competan;"
+      "texto": "IV. Dar mantenimiento a los monumentos, plazas públicas y obras de ornato, propiedad de la Ciudad de México, así como participar en el mantenimiento de aquéllos de propiedad federal que se encuentren dentro de su demarcación territorial, sujeto a la autorización de las autoridades competentes, y respetando las leyes, los acuerdos y convenios que les competan;"
     },
     {
       "id": "053.B.V~3",
@@ -1173,7 +1164,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción X",
-      "texto": "X. Formular y presentar ante el Gobierno de la Ciudad de México las propuestas de programas de ordenamiento territorial de la demarcación con base en el procedimiento que establece esta Constitución y la ley en la materia;"
+      "texto": "X. Formular y presentar ante el Gobierno de la Ciudad de México las propuestas de programas de ordenamiento territorial de la demarcación, con base en el procedimiento que establece esta Constitución y la ley en la materia;"
     },
     {
       "id": "053.B.XI~2",
@@ -1191,7 +1182,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción XII",
-      "texto": "XII. Promover la consulta ciudadana y la participación social bajo el principio de planeación participativa en los programas de ordenamiento territorial;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "XII. Promover la consulta ciudadana y la participación social bajo el principio de planeación participativa en los programas de ordenamiento territorial;"
     },
     {
       "id": "053.B.XIII~2",
@@ -1200,7 +1191,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción XIII",
-      "texto": "XIII. Colaborar en la evaluación de los proyectos que requiere el Estudio de Impacto Urbano, con base en los mecanismos previstos en la ley de la materia cuyo resultado tendrá carácter vinculante;\n\nDesarrollo económico y social"
+      "texto": "XIII. Colaborar en la evaluación de los proyectos que requiere el Estudio de Impacto Urbano, con base en los mecanismos previstos en la ley de la materia cuyo resultado tendrá carácter vinculante;\n\nDESARROLLO ECONÓMICO Y SOCIAL"
     },
     {
       "id": "053.B.XIV~2",
@@ -1254,7 +1245,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción XIX",
-      "texto": "XIX. Formular y ejecutar programas de apoyo a la participación de las mujeres en los diversos ámbitos del desarrollo, pudiendo coordinarse con otras instituciones públicas o privadas, para la implementación de los mismos. Estos programas deberán ser formulados observando las políticas generales que al efecto determine el Gobierno de la Ciudad de México;\n\nEducación y cultura"
+      "texto": "XIX. Formular y ejecutar programas de apoyo a la participación de las mujeres en los diversos ámbitos del desarrollo, pudiendo coordinarse con otras instituciones públicas o privadas, para la implementación de los mismos. Estos programas deberán ser formulados observando las políticas generales que al efecto determine el Gobierno de la Ciudad de México;\n\nEDUCACIÓN Y CULTURA"
     },
     {
       "id": "053.B.XX~2",
@@ -1263,7 +1254,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción XX",
-      "texto": "XX. Efectuar ceremonias cívicas para conmemorar acontecimientos históricos de carácter nacional o local, y organizar actos culturales, artísticos y sociales;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS Protección al medio ambiente"
+      "texto": "XX. Efectuar ceremonias cívicas para conmemorar acontecimientos históricos de carácter nacional o local, y organizar actos culturales, artísticos y sociales;\n\nPROTECCIÓN AL MEDIO AMBIENTE"
     },
     {
       "id": "053.B.XXI~2",
@@ -1308,7 +1299,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción XXV",
-      "texto": "XXV. Promover la educación y participación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente;\n\nAsuntos jurídicos"
+      "texto": "XXV. Promover la educación y participación comunitaria, social y privada para la preservación y restauración de los recursos naturales y la protección al ambiente;\n\nASUNTOS JURÍDICOS"
     },
     {
       "id": "053.B.XXVI~2",
@@ -1344,7 +1335,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción XXIX",
-      "texto": "XXIX. Proporcionar los servicios de filiación para identificar a los habitantes de la demarcación territorial y expedir certificados de residencia a persona que tengan su domicilio dentro de los límites de la demarcación territorial;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "XXIX. Proporcionar los servicios de filiación para identificar a los habitantes de la demarcación territorial y expedir certificados de residencia a persona (sic) que tengan su domicilio dentro de los límites de la demarcación territorial;"
     },
     {
       "id": "053.B.XXX~2",
@@ -1362,7 +1353,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción XXXI",
-      "texto": "XXXI. Intervenir en las juntas de reclutamiento del Servicio Militar Nacional;\n\nAlcaldía digital"
+      "texto": "XXXI. Intervenir en las juntas de reclutamiento del Servicio Militar Nacional;\n\nALCALDÍA DIGITAL"
     },
     {
       "id": "053.B.XXXII~2",
@@ -1398,7 +1389,7 @@
       "apartado": "B",
       "fraccion": "XXXIV",
       "ruta": "Artículo 53 › Apartado B › Fracción XXXIV › inciso c)",
-      "texto": "c) En forma subordinada con el Gobierno de la Ciudad de México:\n\nGobierno y régimen interior"
+      "texto": "c) En forma subordinada con el Gobierno de la Ciudad de México:\n\nGOBIERNO Y RÉGIMEN INTERIOR"
     },
     {
       "id": "053.B.I~4",
@@ -1416,7 +1407,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción II",
-      "texto": "II. Participar en la instancia de coordinación metropolitana, de manera particular aquellas demarcaciones territoriales que colindan con los municipios conurbados de la Zona Metropolitana del Valle de México;\n\nMovilidad, vía pública y espacios públicos"
+      "texto": "II. Participar en la instancia de coordinación metropolitana, de manera particular aquellas demarcaciones territoriales que colindan con los municipios conurbados de la Zona Metropolitana del Valle de México;\n\nMOVILIDAD, VÍA PÚBLICA Y ESPACIOS PÚBLICOS"
     },
     {
       "id": "053.B.III~4",
@@ -1425,7 +1416,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción III",
-      "texto": "III. Proponer a la Jefatura de Gobierno de la Ciudad de México la aplicación de las medidas para mejorar la vialidad, circulación y seguridad de vehículos y peatones;\n\nSeguridad ciudadana y protección civil"
+      "texto": "III. Proponer a la Jefatura de Gobierno de la Ciudad de México la aplicación de las medidas para mejorar la vialidad, circulación y seguridad de vehículos y peatones;\n\nSEGURIDAD CIUDADANA Y PROTECCIÓN CIVIL"
     },
     {
       "id": "053.B.IV~4",
@@ -1434,7 +1425,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción IV",
-      "texto": "IV. Ejecutar las políticas de seguridad ciudadana en la demarcación territorial, de conformidad con la ley de la materia;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "IV. Ejecutar las políticas de seguridad ciudadana en la demarcación territorial, de conformidad con la ley de la materia;"
     },
     {
       "id": "053.B.V~4",
@@ -1488,7 +1479,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción X",
-      "texto": "X. Establecer y organizar un comité de seguridad ciudadana como instancia colegiada da de consulta y participación ciudadana, en los términos de las disposiciones jurídicas aplicables;"
+      "texto": "X. Establecer y organizar un comité de seguridad ciudadana como instancia colegiada da (sic) de consulta y participación ciudadana, en los términos de las disposiciones jurídicas aplicables;"
     },
     {
       "id": "053.B.XI~3",
@@ -1497,7 +1488,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción XI",
-      "texto": "XI. Elaborar el atlas de riesgo y el programa de protección civil de la demarcación territorial, y ejecutarlo de manera coordinada con el órgano público garante de la gestión integral de riesgos de conformidad con la normatividad aplicable;"
+      "texto": "XI. Elaborar el atlas de riesgo y el programa de protección civil de la demarcación territorial, y ejecutarlo de manera coordinada con el órgano público garante de la gestión integral de riesgos, de conformidad con la normatividad aplicable;"
     },
     {
       "id": "053.B.XII~3",
@@ -1515,7 +1506,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado B › Fracción XIII",
-      "texto": "XIII. Solicitar, en su caso, a la Jefatura de Gobierno de la Ciudad de México, la emisión de la declaratoria de emergencia o la declaratoria de desastre en los términos de la ley.\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "XIII. Solicitar, en su caso, a la Jefatura de Gobierno de la Ciudad de México, la emisión de la declaratoria de emergencia o la declaratoria de desastre en los términos de la ley."
     },
     {
       "id": "053.C",
@@ -1536,21 +1527,21 @@
       "texto": "1. Los concejos son los órganos colegiados electos en cada demarcación territorial, que tienen como funciones la supervisión y evaluación de las acciones de gobierno, el control del ejercicio del gasto público y la aprobación del Proyecto de Presupuesto de Egresos correspondiente a las demarcaciones territoriales, en los términos que señalen las leyes."
     },
     {
+      "id": "053.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 53 › Apartado C › párrafo 9",
+      "texto": "Su actuación se sujetará en todo momento a los principios de transparencia, rendición de cuentas, accesibilidad, difusión, y participación ciudadana. El concejo presentará un informe anual de sus actividades que podrá ser difundido y publicado para conocimiento de las y los ciudadanos."
+    },
+    {
       "id": "053.p10",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "C",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado C › párrafo 10",
-      "texto": "Su actuación se sujetará en todo momento a los principios de transparencia, rendición de cuentas, accesibilidad, difusión, y participación ciudadana. El concejo presentará un informe anual de sus actividades que podrá ser difundido y publicado para conocimiento de las y los ciudadanos."
-    },
-    {
-      "id": "053.p11",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "C",
-      "fraccion": "",
-      "ruta": "Artículo 53 › Apartado C › párrafo 11",
       "texto": "Serán presididos por la persona titular de la alcaldía, y en ningún caso ejercerán funciones de gobierno y de administración pública."
     },
     {
@@ -1605,7 +1596,7 @@
       "apartado": "C",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado C › Fracción IV",
-      "texto": "IV. Emitir opinión respecto a los cambios de uso de suelo y construcciones dentro de la demarcación territorial;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "IV. Emitir opinión respecto a los cambios de uso de suelo y construcciones dentro de la demarcación territorial;"
     },
     {
       "id": "053.C.V",
@@ -1695,7 +1686,7 @@
       "apartado": "C",
       "fraccion": "",
       "ruta": "Artículo 53 › Apartado C › Fracción XIV",
-      "texto": "XIV. Celebrar audiencias públicas, en los términos que establezca su reglamento;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "XIV. Celebrar audiencias públicas, en los términos que establezca su reglamento;"
     },
     {
       "id": "053.C.XV",

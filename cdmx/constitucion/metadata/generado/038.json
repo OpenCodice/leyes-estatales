@@ -4,31 +4,36 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:b614ff57c5fd2752",
+    "hash_texto": "sha256:87c17557a6c17238",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Tribunal Electoral de la Ciudad de México",
   "temas": [
-    "autonomía electoral",
-    "magistrados electorales",
-    "impugnaciones electorales",
-    "derechos político-electorales",
+    "autonomía",
+    "magistrados",
+    "impugnación electoral",
+    "derechos políticos",
     "participación ciudadana",
-    "resoluciones electorales"
+    "competencias",
+    "resoluciones",
+    "funciones del Tribunal"
   ],
   "terminos_coloquiales": [
-    "tribunal electoral",
-    "magistrados de elecciones",
-    "quejas electorales",
+    "tribunal de elecciones",
+    "magistrados electorales",
+    "impugnación de resultados",
+    "voto",
     "derechos de voto",
-    "elecciones locales"
+    "elecciones en la ciudad",
+    "participación en elecciones"
   ],
-  "resumen": "El Tribunal Electoral de la Ciudad de México es el órgano que resuelve problemas relacionados con elecciones y participación ciudadana. Está formado por cinco magistrados que tienen independencia en sus decisiones y deben cumplir con la ley. Se asegura de que se respeten los derechos políticos de los ciudadanos en estos procesos.",
+  "resumen": "Este artículo habla sobre el Tribunal Electoral de la Ciudad de México, su autonomía y funciones. Establece cómo está compuesto y sus competencias para resolver conflictos en procesos electorales y de participación ciudadana.",
   "preguntas_ejemplo": [
     "¿Qué es el Tribunal Electoral de la Ciudad de México?",
-    "¿Quiénes son los magistrados electorales?",
-    "¿Cómo se pueden impugnar los resultados de una elección?",
-    "¿Qué derechos tienen los ciudadanos en las elecciones?",
-    "¿Cuáles son las funciones del Tribunal Electoral?"
+    "¿Cómo se eligen los magistrados del tribunal electoral?",
+    "¿Qué funciones tiene el Tribunal Electoral en las elecciones?",
+    "¿Qué pasa si hay irregularidades en las elecciones?",
+    "¿Los magistrados pueden participar en la política después de su mandato?",
+    "¿Cómo se protegen los derechos de los ciudadanos en el proceso electoral?"
   ]
 }

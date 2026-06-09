@@ -21,16 +21,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 62 › 1.",
-      "texto": "1. La entidad de fiscalización de la Ciudad de México tendrá autonomía de gestión, técnica y presupuestal."
-    },
-    {
-      "id": "062.p2",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "",
-      "fraccion": "",
-      "ruta": "Artículo 62 › párrafo 2",
-      "texto": "Será independiente en sus decisiones y profesional en su funcionamiento."
+      "texto": "1. La entidad de fiscalización de la Ciudad de México tendrá autonomía de gestión, técnica y presupuestal. Será independiente en sus decisiones y profesional en su funcionamiento."
     },
     {
       "id": "062.2",
@@ -42,21 +33,21 @@
       "texto": "2. La entidad de fiscalización iniciará los procesos ordinarios de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente, con excepción de lo establecido en la fracción I, del numeral 9 del presente artículo y sin perjuicio de las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en la cuenta pública. La fiscalización de la cuenta pública comprende la gestión financiera y al desempeño para verificar el grado de cumplimiento de los objetivos de los entes públicos, siendo ambos resultados vinculatorios en materia de responsabilidades de las personas servidoras públicas."
     },
     {
+      "id": "062.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › párrafo 2",
+      "texto": "Sin demérito de lo anterior, la entidad de fiscalización de la Ciudad de México podrá llevar a cabo, conforme a la ley de la materia, fiscalizaciones, observaciones, auditorías parciales, en todo momento, a toda acción u obra de la administración que utilice recursos públicos de la Ciudad y podrá solicitar información del ejercicio en curso, respecto de procesos concluidos."
+    },
+    {
       "id": "062.p3",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 62 › párrafo 3",
-      "texto": "Sin demérito de lo anterior, la entidad de fiscalización de la Ciudad de México podrá llevar a cabo, conforme a la ley de la materia, fiscalizaciones, observaciones, auditorías parciales, en todo momento, a toda acción u obra de la administración que utilice recursos públicos de la Ciudad y podrá solicitar información del ejercicio en curso, respecto de procesos concluidos."
-    },
-    {
-      "id": "062.p4",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "",
-      "fraccion": "",
-      "ruta": "Artículo 62 › párrafo 4",
       "texto": "En el ejercicio de su función fiscalizadora, no le serán oponibles las disposiciones dirigidas a proteger la secrecía de la información en materia fiscal o la relacionada con operaciones de depósito, administración, ahorro e inversión de recursos monetarios. La ley establecerá los procedimientos para que le sea entregada dicha información."
     },
     {
@@ -67,15 +58,6 @@
       "fraccion": "",
       "ruta": "Artículo 62 › 3.",
       "texto": "3. Dicha entidad deberá fiscalizar las acciones del Gobierno de la Ciudad de México y de las alcaldías en materia de fondos, recursos patrimoniales, así como contratación, uso y destino de la deuda pública. Los informes de auditoría tendrán carácter público y deberán cumplir con estándares de datos abiertos. La entidad de referencia fiscalizará y auditará el manejo, custodia y aplicación de los recursos públicos que se asignen al Poder Judicial, al Congreso de la Ciudad de México, así como a cualquier órgano o ente público de la Ciudad."
-    },
-    {
-      "id": "062.p5",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "",
-      "fraccion": "",
-      "ruta": "Artículo 62 › párrafo 5",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
     },
     {
       "id": "062.4",
@@ -192,7 +174,7 @@
       "apartado": "",
       "fraccion": "I",
       "ruta": "Artículo 62 › Fracción I › inciso b)",
-      "texto": "b) El manejo, la custodia y la aplicación de fondos y recursos de los entes públicos de la Ciudad;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "b) El manejo, la custodia y la aplicación de fondos y recursos de los entes públicos de la Ciudad;"
     },
     {
       "id": "062.II~2",
@@ -246,7 +228,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 62 › Fracción VII",
-      "texto": "VII. Sin perjuicio de lo anterior, en las situaciones que determine la ley derivado de denuncias, la entidad de fiscalización revisará el ejercicio fiscal en curso o anteriores de las entidades fiscalizadas. La entidad de fiscalización de la Ciudad de México rendirá un informe específico al Congreso de la Ciudad y promoverá las acciones que correspondan ante el Tribunal de Justicia Administrativa de la Ciudad de México, la Fiscalía Especializada en Combate a la Corrupción o las autoridades competentes;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "VII. Sin perjuicio de lo anterior, en las situaciones que determine la ley derivado de denuncias, la entidad de fiscalización revisará el ejercicio fiscal en curso o anteriores de las entidades fiscalizadas. La entidad de fiscalización de la Ciudad de México rendirá un informe específico al Congreso de la Ciudad y promoverá las acciones que correspondan ante el Tribunal de Justicia Administrativa de la Ciudad de México, la Fiscalía Especializada en Combate a la Corrupción o las autoridades competentes;"
     },
     {
       "id": "062.VIII",
@@ -303,15 +285,6 @@
       "texto": "8. Los entes públicos fiscalizados deberán llevar el control y registro contable, patrimonial y presupuestario de los recursos de la Ciudad de México que les sean transferidos y asignados, de acuerdo con los criterios que establezca la ley."
     },
     {
-      "id": "062.p6",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "",
-      "fraccion": "",
-      "ruta": "Artículo 62 › párrafo 6",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
-    },
-    {
       "id": "062.XII.9",
       "tipo": "numeral",
       "marca": "9",
@@ -354,7 +327,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 62 › Fracción IV",
-      "texto": "IV. La entidad de fiscalización de la Ciudad de México deberá entregar al Congreso de la Ciudad, los días 1 de los meses de mayo y noviembre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes a cada uno de los informes individuales de auditoría que haya presentado en los términos de este artículo. En dicho informe, el cual tendrá carácter público, la entidad de fiscalización se incluirán los montos efectivamente resarcidos a la hacienda pública de la Ciudad o al patrimonio de los entes públicos locales, como consecuencia de sus acciones de fiscalización, las denuncias penales presentadas y los procesos iniciados ante el Tribunal de Justicia Administrativa de la Ciudad de México; y"
+      "texto": "IV. La entidad de fiscalización de la Ciudad de México deberá entregar al Congreso de la Ciudad, los días 1 de los meses de mayo y noviembre de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas, correspondientes a cada uno de los informes individuales de auditoría que haya presentado en los términos de este artículo.\n\nEn dicho informe, el cual tendrá carácter público, la entidad de fiscalización se incluirán los montos efectivamente resarcidos a la hacienda pública de la Ciudad o al patrimonio de los entes públicos locales, como consecuencia de sus acciones de fiscalización, las denuncias penales presentadas y los procesos iniciados ante el Tribunal de Justicia Administrativa de la Ciudad de México; y"
     },
     {
       "id": "062.V~3",
@@ -363,7 +336,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 62 › Fracción V",
-      "texto": "V. La entidad de fiscalización de la Ciudad de México deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes individuales de auditoría y el Informe General INSTITUTO DE INVESTIGACIONES LEGISLATIVAS Ejecutivo al Congreso de la Ciudad; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición."
+      "texto": "V. La entidad de fiscalización de la Ciudad de México deberá guardar reserva de sus actuaciones y observaciones hasta que rinda los informes individuales de auditoría y el Informe General Ejecutivo al Congreso de la Ciudad; la ley establecerá las sanciones aplicables a quienes infrinjan esta disposición."
     }
   ]
 }

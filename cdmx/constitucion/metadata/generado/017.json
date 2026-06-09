@@ -4,35 +4,39 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:d0c8356af65f08c7",
+    "hash_texto": "sha256:716dc912a3d94ab6",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Bienestar social y desarrollo económico",
+  "denominacion_comun": "Bienestar social y economía distributiva",
   "temas": [
     "bienestar social",
     "desarrollo económico",
-    "políticas públicas",
-    "equidad",
+    "justicia social",
     "participación ciudadana",
+    "igualdad de oportunidades",
     "derechos económicos",
-    "dignidad",
-    "redistribución de la riqueza"
+    "políticas públicas",
+    "sustentabilidad",
+    "empleo",
+    "salud"
   ],
   "terminos_coloquiales": [
-    "mejorar la vida de la gente",
-    "programas sociales",
-    "ayudas económicas",
-    "oportunidades de empleo",
-    "apoyo a emprendedores",
-    "igualdad de oportunidades",
-    "desarrollo comunitario"
+    "mejorar la calidad de vida",
+    "apoyo social",
+    "programas de ayuda",
+    "desarrollo de la ciudad",
+    "igualdad social",
+    "ayuda económica",
+    "participación de la gente",
+    "empleos bien pagados"
   ],
-  "resumen": "Este artículo se centra en el bienestar social y la economía en la Ciudad de México, destacando la importancia de las políticas públicas para mejorar la calidad de vida y asegurar la dignidad de sus habitantes. Fomenta la participación ciudadana y la coordinación entre diferentes sectores para alcanzar una distribución justa de recursos.",
+  "resumen": "El artículo busca asegurar el bienestar de los ciudadanos a través de políticas sociales y económicas que fomenten el desarrollo y la igualdad. También promueve la participación de la población en la toma de decisiones y la implementación de programas para mejorar la vida en la ciudad.",
   "preguntas_ejemplo": [
-    "¿Qué se está haciendo para mejorar la calidad de vida en la Ciudad?",
-    "¿Cuáles son los programas de apoyo social disponibles?",
-    "¿Cómo pueden los ciudadanos participar en la toma de decisiones sobre políticas públicas?",
-    "¿Qué se busca lograr con el desarrollo económico en la ciudad?",
-    "¿Existen ayudas para startups y emprendedores en la Ciudad de México?"
+    "¿Qué hace el gobierno para mejorar el bienestar de la población?",
+    "¿Cómo se implementan los programas sociales en la Ciudad de México?",
+    "¿Qué se entiende por desarrollo económico distributivo?",
+    "¿Qué derechos sociales se garantizan en la ciudad?",
+    "¿Cómo participa la gente en las decisiones gubernamentales?",
+    "¿Cómo se combate la pobreza en la Ciudad de México?"
   ]
 }

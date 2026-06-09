@@ -4,32 +4,28 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:56193472bb8e86f6",
+    "hash_texto": "sha256:0a382e8c481b1e63",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Responsabilidad penal de servidores públicos",
+  "denominacion_comun": "Responsabilidad penal",
   "temas": [
-    "responsabilidad penal",
-    "servidores públicos",
-    "fuero",
-    "inviolabilidad",
-    "delitos",
-    "cohecho",
-    "peculado"
+    "responsabilidad pública",
+    "delitos servidores públicos",
+    "inviolabilidad diputadas y diputados",
+    "acción penal"
   ],
   "terminos_coloquiales": [
-    "responsabilidad de funcionarios",
-    "delitos de servidores públicos",
-    "fuero en CDMX",
-    "protección a diputados",
-    "corrupción en el gobierno"
+    "castigo a funcionarios",
+    "delitos de políticos",
+    "protección de diputados",
+    "juicios por corrupción"
   ],
-  "resumen": "Este artículo establece que los servidores públicos son responsables por los delitos que cometan en su cargo y que en la Ciudad de México no tienen fuero. También menciona que los diputados son inviolables por sus opiniones en el ejercicio de su función.",
+  "resumen": "Las personas que trabajan en el servicio público son responsables de los delitos que cometan mientras estén en su puesto. Los diputados no pueden ser demandados por lo que digan en el ejercicio de sus funciones. La ley también establece cómo se debe proceder con los delitos de funcionarios.",
   "preguntas_ejemplo": [
-    "¿Los funcionarios públicos pueden ser juzgados por delitos?",
-    "¿Qué dice la ley sobre el fuero en CDMX?",
-    "¿Los diputados pueden ser demandados por lo que dicen?",
-    "¿Qué delito afecta a los funcionarios en el desempeño de su trabajo?",
-    "¿Cómo se interrumpe el plazo para juzgar a un servidor público?"
+    "¿Qué pasa si un funcionario comete un delito?",
+    "¿Los diputados pueden ser juzgados por lo que dicen?",
+    "¿Qué delitos están relacionados con los servidores públicos?",
+    "¿Cómo se interrumpe la prescripción de delitos de funcionarios?",
+    "¿Qué protección tienen los diputados en su trabajo?"
   ]
 }

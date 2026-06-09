@@ -4,35 +4,33 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:917b4f75596b26e4",
+    "hash_texto": "sha256:ccc5607165472fd2",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Derecho a la buena administración",
+  "denominacion_comun": "Función pública y corrupción",
   "temas": [
     "transparencia",
     "rendición de cuentas",
-    "acceso a la información",
+    "derechos laborales",
     "austeridad",
     "profesionalización",
-    "evaluación del servicio público",
-    "derechos humanos",
-    "justicia administrativa"
+    "evaluación del desempeño",
+    "acceso a la información"
   ],
   "terminos_coloquiales": [
-    "buen gobierno",
-    "gobierno transparente",
-    "acceso a la info",
-    "evitar la corrupción",
-    "servicio público",
-    "evaluación de funcionarios",
-    "dinero del gobierno"
+    "gobierno abierto",
+    "servidores públicos",
+    "trabajo del gobierno",
+    "sueldo de funcionarios",
+    "lucha contra la corrupción",
+    "derechos de los trabajadores"
   ],
-  "resumen": "El artículo garantiza que el gobierno debe ser honesto, transparente y eficiente, asegurando que las personas tengan acceso a la información y que los recursos se usen de manera adecuada. También establece que se deben realizar políticas para combatir la corrupción y evaluar el desempeño de los servidores públicos.",
+  "resumen": "Este artículo establece garantías para una función pública eficiente y transparente, incluyendo la correcta administración de recursos y la obligación de rendir cuentas. También asegura derechos laborales para los servidores públicos y prohíbe incentivos no establecidos en la ley.",
   "preguntas_ejemplo": [
-    "¿Cómo se asegura que el gobierno actúe con transparencia?",
-    "¿Qué derechos tengo para acceder a la información pública?",
-    "¿Cómo se evalúa el desempeño de los servidores públicos?",
-    "¿Qué significa la austeridad en el gobierno?",
-    "¿Cómo se combate la corrupción en la administración pública?"
+    "¿Qué derechos tienen los servidores públicos en su trabajo?",
+    "¿Cómo se garantiza la transparencia en el gobierno?",
+    "¿Qué medidas se toman para evitar la corrupción?",
+    "¿Qué significa el gobierno abierto?",
+    "¿Cómo se evalúa el desempeño de los funcionarios?"
   ]
 }

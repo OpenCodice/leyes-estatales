@@ -39,7 +39,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 10 › Apartado B › 1.",
-      "texto": "1. La Ciudad de México tutela el derecho humano al trabajo, así como la promoción de habilidades para el emprendimiento, que generan valor mediante la producción de bienes y INSTITUTO DE INVESTIGACIONES LEGISLATIVAS servicios, así como en la reproducción de la sociedad. Asimismo, valora, fomenta y protege todo tipo de trabajo lícito, sea o no subordinado. El respeto a los derechos humanos laborales estará presente en todas las políticas públicas y en la estrategia de desarrollo de la Ciudad."
+      "texto": "1. La Ciudad de México tutela el derecho humano al trabajo, así como la promoción de habilidades para el emprendimiento, que generan valor mediante la producción de bienes y servicios, así como en la reproducción de la sociedad. Asimismo, valora, fomenta y protege todo tipo de trabajo lícito, sea o no subordinado. El respeto a los derechos humanos laborales estará presente en todas las políticas públicas y en la estrategia de desarrollo de la Ciudad."
     },
     {
       "id": "010.B.2",
@@ -129,7 +129,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 10 › Apartado B › inciso a)",
-      "texto": "a) Capacitación, adiestramiento, formación profesional y de acceso al empleo y a otras actividades productivas, así como servicios de asesoría y defensoría gratuitos, necesarios INSTITUTO DE INVESTIGACIONES LEGISLATIVAS para que las personas trabajadoras y sus organizaciones conozcan y ejerzan sus derechos a través de la autoridad competente. La realización de las tareas de inspección del trabajo atenderá los requerimientos de la defensoría laboral."
+      "texto": "a) Capacitación, adiestramiento, formación profesional y de acceso al empleo y a otras actividades productivas, así como servicios de asesoría y defensoría gratuitos, necesarios para que las personas trabajadoras y sus organizaciones conozcan y ejerzan sus derechos a través de la autoridad competente. La realización de las tareas de inspección del trabajo atenderá los requerimientos de la defensoría laboral."
     },
     {
       "id": "010.B.b~2",
@@ -204,15 +204,6 @@
       "texto": "7. Las autoridades promoverán la negociación colectiva por rama de industria y cadena productiva para conciliar el reconocimiento al trabajo, modelos laborales sustentables, uso racional de los recursos humanos y desarrollo de los sectores productivos."
     },
     {
-      "id": "010.p2",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "B",
-      "fraccion": "",
-      "ruta": "Artículo 10 › Apartado B › párrafo 2",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
-    },
-    {
       "id": "010.B.8",
       "tipo": "numeral",
       "marca": "8",
@@ -237,34 +228,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 10 › Apartado B › 10.",
-      "texto": "10. Las autoridades administrativas y el Poder Judicial de la Ciudad de México, en el ámbito de sus competencias, garantizarán una justicia laboral honesta, imparcial, profesional, pronta, expedita, pública y gratuita, que incluya los servicios de conciliación y mediación."
-    },
-    {
-      "id": "010.p3",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "B",
-      "fraccion": "",
-      "ruta": "Artículo 10 › Apartado B › párrafo 3",
-      "texto": "Antes de acudir a los tribunales laborales, las personas trabajadoras y patronas deberán comparecer a la instancia conciliatoria correspondiente. En la Ciudad de México, la función conciliatoria estará a cargo de un Centro de Conciliación, especializado e imparcial. Será un organismo público descentralizado del Gobierno de la Ciudad de México con personalidad jurídica y patrimonio propio con autonomía técnica, operativa, presupuestaria, de decisión y de gestión."
-    },
-    {
-      "id": "010.p4",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "B",
-      "fraccion": "",
-      "ruta": "Artículo 10 › Apartado B › párrafo 4",
-      "texto": "Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración, funcionamiento, sectorización y atribuciones, se determinarán en su ley correspondiente."
-    },
-    {
-      "id": "010.p5",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "B",
-      "fraccion": "",
-      "ruta": "Artículo 10 › Apartado B › párrafo 5",
-      "texto": "La ley determinará el procedimiento que se deberá observar en la instancia conciliatoria, así como las reglas para que los convenios laborales adquieran condición de cosa juzgada para su ejecución. En todo caso, la etapa de conciliación consistirá en una sola audiencia obligatoria. Las subsecuentes audiencias de conciliación sólo se realizarán con el acuerdo de las partes en conflicto"
+      "texto": "10. Las autoridades en el ámbito de sus competencias garantizarán una justicia laboral honesta, imparcial y profesional, pronta y expedita, pública y gratuita que incluya los servicios de conciliación y mediación."
     },
     {
       "id": "010.B.11",
@@ -276,15 +240,6 @@
       "texto": "11. Las autoridades impulsarán la constitución y funcionamiento de cooperativas de las personas trabajadoras y otras formas de organización productiva del sector social de la economía, que contribuyan al desarrollo económico de la Ciudad y el mejoramiento de las condiciones de vida de sus habitantes."
     },
     {
-      "id": "010.p6",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "B",
-      "fraccion": "",
-      "ruta": "Artículo 10 › Apartado B › párrafo 6",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
-    },
-    {
       "id": "010.B.12",
       "tipo": "numeral",
       "marca": "12",
@@ -294,12 +249,12 @@
       "texto": "12. Las personas trabajadoras no asalariadas, prestadoras de servicios por cuenta propia, que producen bienes y artesanías y comerciantes, tienen derecho a realizar un trabajo digno y a poseer una identidad formal en la Ciudad de México, a asociarse para defender sus intereses, recibir capacitación, y las demás que establezca la legislación en la materia."
     },
     {
-      "id": "010.p7",
+      "id": "010.p2",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "B",
       "fraccion": "",
-      "ruta": "Artículo 10 › Apartado B › párrafo 7",
+      "ruta": "Artículo 10 › Apartado B › párrafo 2",
       "texto": "Las autoridades de la Ciudad garantizarán a los locatarios de los mercados públicos condiciones sanitarias, certeza y seguridad jurídica adecuadas. Conservarán sus derechos adquiridos y gozarán de los mismos derechos que esta Constitución y las leyes reconocen a las personas trabajadoras no asalariadas."
     },
     {
@@ -312,12 +267,12 @@
       "texto": "13. Los derechos de las personas trabajadoras no asalariadas, prestadoras de servicios por cuenta propia y comerciantes que realicen sus actividades en el espacio público serán ejercidos a través del establecimiento de zonas especiales de comercio y de cultura popular en los términos que defina la ley con la participación de los propios trabajadores."
     },
     {
-      "id": "010.p8",
+      "id": "010.p3",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "B",
       "fraccion": "",
-      "ruta": "Artículo 10 › Apartado B › párrafo 8",
+      "ruta": "Artículo 10 › Apartado B › párrafo 3",
       "texto": "La ley determinará los mecanismos para un proceso gradual de regularización, formalización y regulación en materia urbana, de espacio público, fiscal, de salud pública y de seguridad social."
     },
     {
@@ -336,7 +291,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 10 › Apartado C",
-      "texto": "C. De las relaciones de las instituciones públicas de la Ciudad, con sus personas trabajadoras."
+      "texto": "C. De las relaciones de las instituciones públicas de la Ciudad con sus trabajadores"
     },
     {
       "id": "010.C.1",
@@ -355,15 +310,6 @@
       "fraccion": "",
       "ruta": "Artículo 10 › Apartado C › 2.",
       "texto": "2. Se garantiza el derecho de huelga, en los términos previstos por la ley."
-    },
-    {
-      "id": "010.p9",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "C",
-      "fraccion": "",
-      "ruta": "Artículo 10 › Apartado C › párrafo 9",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
     },
     {
       "id": "010.C.3",
@@ -426,7 +372,7 @@
       "apartado": "C",
       "fraccion": "",
       "ruta": "Artículo 10 › Apartado C › 9.",
-      "texto": "9. Los conflictos laborales que se presenten entre las instituciones públicas de la Ciudad y sus personas trabajadoras, así como aquellos que se presenten entre organizaciones sindicales o al interior de estas, serán dirimidos por un Tribunal Burocrático en los términos establecidos por la ley."
+      "texto": "9. Los conflictos laborales que se presenten entre las instituciones públicas de la Ciudad y sus trabajadores, así como los conflictos internos sindicales y los intersindicales, serán dirimidos por el Tribunal Local de Conciliación y Arbitraje, en los términos establecidos por la ley."
     },
     {
       "id": "010.C.10",
@@ -444,7 +390,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 10 › Apartado D",
-      "texto": "D. Inversión social productiva INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "D. Inversión social productiva"
     },
     {
       "id": "010.D.1",

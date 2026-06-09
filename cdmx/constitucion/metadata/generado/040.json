@@ -4,7 +4,7 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:dbe73f2ff2408243",
+    "hash_texto": "sha256:815e46ea32116358",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Tribunal de Justicia Administrativa",
@@ -12,20 +12,24 @@
     "justicia administrativa",
     "sanciones administrativas",
     "derecho a la buena administración",
-    "transparencia en nombramientos"
+    "transparencia en nombramientos",
+    "responsabilidades administrativas",
+    "indemnizaciones",
+    "resolución de controversias"
   ],
   "terminos_coloquiales": [
-    "justicia para la ciudad",
-    "tribunal de quejas",
-    "cómo sancionan a los funcionarios",
-    "donde reclamo problemas con la administración"
+    "tribunal donde se resuelven problemas con el gobierno",
+    "justicia para ciudadanos",
+    "sanciones a servidores públicos",
+    "reclamos contra la administración",
+    "ley de justicia administrativa"
   ],
-  "resumen": "El artículo establece un Tribunal de Justicia Administrativa en la Ciudad de México con autonomía para resolver controversias entre la administración pública y los ciudadanos. Este tribunal puede imponer sanciones a funcionarios y particulares por faltas administrativas y asegurar la buena administración.",
+  "resumen": "El artículo establece un Tribunal de Justicia Administrativa en la Ciudad de México que tiene autonomía y se encarga de resolver conflictos entre el gobierno y los ciudadanos, así como de imponer sanciones a servidores públicos y a particulares. También regula el proceso de selección de sus magistrados y garantiza la capacitación del personal.",
   "preguntas_ejemplo": [
     "¿Qué hace el Tribunal de Justicia Administrativa?",
-    "¿Cómo se impone una sanción a un funcionario público?",
-    "¿Qué puedo hacer si no se respeta mi derecho a la buena administración?",
-    "¿Dónde puedo acudir si tengo un problema con la administración de la CDMX?",
-    "¿Cómo se garantiza la transparencia en el nombramiento de magistrados?"
+    "¿Cómo se pueden impugnar las decisiones del gobierno?",
+    "¿Cuáles son las sanciones para los servidores públicos?",
+    "¿Qué debo hacer si tengo un problema con la administración pública?",
+    "¿Cómo se eligen los magistrados del Tribunal?"
   ]
 }

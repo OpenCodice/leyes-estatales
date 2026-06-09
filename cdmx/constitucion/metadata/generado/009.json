@@ -4,37 +4,35 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:4656fc8a55808b51",
+    "hash_texto": "sha256:b6df9c140ece0f0e",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Derechos a la vida digna y bienestar",
+  "denominacion_comun": "Derechos a la vida digna",
   "temas": [
     "vida digna",
-    "desigualdad",
-    "pobreza",
     "cuidado",
-    "alimentación adecuada",
+    "alimentación",
     "salud",
     "vivienda",
-    "agua"
+    "agua",
+    "nutrición",
+    "no discriminación",
+    "acceso a servicios públicos"
   ],
   "terminos_coloquiales": [
-    "vida digna",
-    "derecho a una buena vida",
-    "comida sana",
-    "atención médica",
-    "vivienda digna",
-    "agua potable",
-    "cuidado de personas mayores",
-    "salud pública"
+    "derecho a una vida digna",
+    "servicios de salud",
+    "viviendas para todos",
+    "comida y agua para vivir",
+    "cuidado a las personas",
+    "derecho a la salud"
   ],
-  "resumen": "Este artículo establece que todas las personas tienen derecho a vivir de manera digna, con acceso a alimentación, salud, vivienda y agua. También menciona que las autoridades deben crear sistemas de cuidados y garantizar que estas necesidades sean cubiertas adecuadamente.",
+  "resumen": "El artículo garantiza el derecho a una vida digna, con acceso a servicios de salud, alimentación, vivienda y agua. También establece la necesidad de cuidar a las personas y promover la igualdad y no discriminación.",
   "preguntas_ejemplo": [
-    "¿Qué derechos tengo para asegurar una vida digna?",
-    "¿Cómo se garantiza el acceso a servicios de salud?",
-    "¿Qué se considera una vivienda adecuada?",
-    "¿Qué derechos tengo sobre la alimentación y el agua?",
-    "¿Cómo protege la Constitución mis derechos en situaciones de pobreza?",
-    "¿Qué medidas deben tomar las autoridades para asegurar mi bienestar?"
+    "¿Qué derechos tengo para vivir dignamente?",
+    "¿Cómo se asegura el acceso a la salud para todos?",
+    "¿Qué medidas existen para evitar la pobreza?",
+    "¿Se garantiza acceso a vivienda adecuada?",
+    "¿Qué derechos tengo sobre la alimentación y el agua?"
   ]
 }

@@ -4,35 +4,33 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:7c3e985a7e8ef5ac",
+    "hash_texto": "sha256:e95daa94dc8476b1",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Seguridad Ciudadana",
   "temas": [
     "instituciones de seguridad",
     "prevención del delito",
-    "protección de personas",
-    "derechos humanos",
-    "policía",
+    "protección de derechos humanos",
+    "coordinación en seguridad",
+    "evaluación y control policial",
     "programas de seguridad",
-    "coordinación de seguridad"
+    "rehabilitación de víctimas"
   ],
   "terminos_coloquiales": [
     "seguridad pública",
     "policías",
-    "prevención de delitos",
-    "programas de seguridad",
-    "derechos de los ciudadanos",
-    "violencia",
-    "protección ciudadana"
+    "programas de prevención del delito",
+    "protección ciudadana",
+    "violencias",
+    "justicia cívica"
   ],
-  "resumen": "Este artículo establece que las instituciones de seguridad ciudadana deben ser civiles y enfocarse en proteger a las personas. Además, menciona la importancia de la prevención del delito y la colaboración entre diferentes niveles de gobierno para asegurar la seguridad.",
+  "resumen": "Este artículo habla sobre la organización y principios de las instituciones de seguridad ciudadana en México, enfocándose en la prevención de delitos y violencia. Se establecen mecanismos para evaluar y coordinar las acciones de seguridad a nivel local y nacional.",
   "preguntas_ejemplo": [
-    "¿Qué es la seguridad ciudadana?",
-    "¿Cómo se seleccionan a los policías?",
-    "¿Qué programas hay para prevenir el delito?",
-    "¿Qué derechos tienen las personas en temas de seguridad?",
-    "¿Cómo se coordinan las fuerzas de seguridad?",
-    "¿Qué medidas se toman para proteger a las víctimas?"
+    "¿Cómo se organizan las instituciones de seguridad en México?",
+    "¿Qué se está haciendo para prevenir el delito y la violencia?",
+    "¿Cómo se evalúa a las fuerzas policiales?",
+    "¿Qué programas de seguridad existen en las ciudades?",
+    "¿Cómo se involucra a la comunidad en la seguridad ciudadana?"
   ]
 }

@@ -4,34 +4,34 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:730bf5dc68271a4c",
+    "hash_texto": "sha256:013253713a5e5617",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Derecho al trabajo y desarrollo económico",
+  "denominacion_comun": "Derechos laborales y desarrollo sustentable",
   "temas": [
     "derecho al trabajo",
-    "desarrollo sustentable",
-    "igualdad laboral",
-    "trabajo digno",
     "derechos humanos laborales",
-    "cooperativas",
-    "sindicatos"
+    "empleo dignos",
+    "igualdad en el trabajo",
+    "sindicatos",
+    "capacitación laboral",
+    "justicia laboral",
+    "derechos de trabajadores no asalariados"
   ],
   "terminos_coloquiales": [
-    "trabajo para todos",
-    "empleos dignos",
-    "derechos laborales",
-    "igualdad en el trabajo",
-    "luchas sindicales",
-    "apoyo a emprendedores"
+    "trabajo digno",
+    "empleo justo",
+    "ayuda para encontrar trabajo",
+    "derechos de los trabajadores",
+    "sindicatos y huelgas",
+    "capacitación"
   ],
-  "resumen": "Este artículo garantiza el derecho de las personas a un trabajo digno y promueve el desarrollo económico y social. También asegura la protección de los derechos laborales y fomenta la igualdad y la erradicación de la discriminación en el trabajo.",
+  "resumen": "Este artículo garantiza el derecho al trabajo y promueve el desarrollo sustentable en la Ciudad de México. Se enfoca en asegurar condiciones laborales justas, fomentar la igualdad entre trabajadores y proteger sus derechos a través de diversas políticas públicas.",
   "preguntas_ejemplo": [
     "¿Qué derechos tengo como trabajador en la Ciudad de México?",
-    "¿Cómo se protege el trabajo digno en la ciudad?",
-    "¿Cuáles son los derechos de los trabajadores no asalariados?",
-    "¿Qué hace el Gobierno para fomentar el empleo?",
-    "¿Cómo se asegura la igualdad en los salarios?",
-    "¿Dónde puedo obtener capacitación para un empleo?"
+    "¿Cómo se garantiza un trabajo digno aquí?",
+    "¿Qué apoyo hay para quienes buscan empleo?",
+    "¿Puedo sindicalizarme y qué beneficios tiene?",
+    "¿Qué medidas existen contra la discriminación laboral?"
   ]
 }

@@ -4,34 +4,35 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:c7cfa92b80eb08b6",
+    "hash_texto": "sha256:badae8bf8b584d89",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Responsabilidades Administrativas",
+  "denominacion_comun": "Responsabilidades administrativas",
   "temas": [
-    "responsabilidades",
-    "servidores públicos",
     "faltas administrativas",
     "transparencia",
     "declaraciones patrimoniales",
-    "sanciones",
     "conflictos de interés",
-    "personas morales"
+    "sanciones",
+    "personas servidoras públicas",
+    "personas morales",
+    "contratación pública"
   ],
   "terminos_coloquiales": [
-    "castigos para funcionarios",
-    "responsabilidad de servidores públicos",
-    "quién puede ser sancionado",
-    "declaraciones de bienes",
-    "multas por faltas",
-    "conflictos de intereses"
+    "responsabilidades de funcionarios",
+    "declaración de bienes",
+    "sanciones a servidores públicos",
+    "falta grave en el trabajo",
+    "publicidad de recursos",
+    "contratos del gobierno"
   ],
-  "resumen": "Este artículo habla sobre las responsabilidades de los servidores públicos y las consecuencias de cometer faltas administrativas. Establece que deben presentar sus declaraciones patrimoniales y que quienes cometan faltas pueden ser sancionados, tanto ellos como las empresas que representen.",
+  "resumen": "El artículo establece las responsabilidades de las personas servidoras públicas en caso de faltas administrativas y la obligación de presentar sus declaraciones patrimoniales. También menciona las sanciones para particulares y personas morales que incurran en estas faltas.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si un funcionario comete una falta administrativa?",
-    "¿Qué obligaciones tienen los servidores públicos en cuanto a sus bienes?",
-    "¿Qué sanciones existen para particulares que incumplen?",
-    "¿Cómo se sancionan las faltas administrativas de las empresas?",
-    "¿Qué es un conflicto de intereses?"
+    "¿Qué pasa si un funcionario comete una falta?",
+    "¿Cómo deben declarar sus bienes los servidores públicos?",
+    "¿Cuáles son las sanciones por conflictos de interés?",
+    "¿Qué responsabilidades tienen las empresas que contratan con el gobierno?",
+    "¿Se puede contratar propaganda con dinero público?",
+    "¿Cuál es la duración de la prescripción de las responsabilidades administrativas?"
   ]
 }

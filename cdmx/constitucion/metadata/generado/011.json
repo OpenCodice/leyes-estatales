@@ -4,37 +4,41 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:cdd8b49b9cba3d9c",
+    "hash_texto": "sha256:ec19036fca2b3ed1",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Ciudad incluyente",
+  "denominacion_comun": "Derechos de grupos vulnerables",
   "temas": [
     "discriminación",
+    "inclusión",
     "violencia",
-    "inclusión social",
     "derechos humanos",
-    "atención prioritaria",
-    "autoadscripción",
-    "participación",
-    "igualdad de género",
-    "derechos de grupos vulnerables"
+    "mujeres",
+    "niños",
+    "personas jóvenes",
+    "personas mayores",
+    "personas con discapacidad",
+    "personas LGBTTTI"
   ],
   "terminos_coloquiales": [
-    "derechos de las minorías",
-    "protección de grupos vulnerables",
-    "igualdad para todos",
-    "vida sin discriminación",
-    "apoyo a personas con discapacidad",
-    "derechos de mujeres y niños",
-    "inclusión de migrantes"
+    "derechos humanos",
+    "protección a grupos vulnerables",
+    "inclusión social",
+    "igualdad de derechos",
+    "derechos de las mujeres",
+    "derechos de los niños",
+    "apoyo a jóvenes",
+    "derechos de personas mayores",
+    "discapacidad",
+    "respeto por la diversidad"
   ],
-  "resumen": "Este artículo busca garantizar que las personas en situación de vulnerabilidad, como mujeres, niños, personas con discapacidad y migrantes, reciban atención prioritaria y protección de sus derechos. Se promueve su inclusión en la sociedad y su participación en la toma de decisiones.",
+  "resumen": "Este artículo establece que la Ciudad de México debe garantizar la protección y promoción de los derechos de grupos en situación de vulnerabilidad, asegurando su inclusión en la sociedad y el respeto a sus derechos humanos. Se proponen medidas para erradicar la discriminación y la violencia en su contra.",
   "preguntas_ejemplo": [
-    "¿Qué hace la Ciudad para proteger a los grupos vulnerables?",
-    "¿Cómo se garantizan los derechos de las personas con discapacidad?",
-    "¿Qué se entiende por atención prioritaria en la Constitución?",
-    "¿Cuáles son los derechos de las mujeres según esta Constitución?",
-    "¿Cómo se protege a las personas migrantes en la Ciudad?",
-    "¿Qué medidas se toman para erradicar la discriminación?"
+    "¿Qué derechos tienen las personas que enfrentan discriminación?",
+    "¿Cómo se protege a las mujeres en la Constitución?",
+    "¿Qué medidas se toman para apoyar a las personas con discapacidad?",
+    "¿Cuáles son los derechos de los niños y adolescentes según esta ley?",
+    "¿Cómo se garantiza la inclusión de personas LGBTTTI en la sociedad?",
+    "¿Qué derechos tienen las personas mayores en la Ciudad de México?"
   ]
 }

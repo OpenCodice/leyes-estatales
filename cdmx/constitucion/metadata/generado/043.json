@@ -4,35 +4,34 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:dfbc1c68814ee78c",
+    "hash_texto": "sha256:64393dbed769fca6",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Modelo de policías",
+  "denominacion_comun": "Policías de Proximidad y Seguridad",
   "temas": [
-    "policías de proximidad",
-    "investigación policial",
-    "derechos humanos",
-    "prevención del delito",
-    "estado de derecho",
-    "protección de bienes",
-    "violencias",
-    "capacitación policial"
+    "Derechos Humanos",
+    "Seguridad Ciudadana",
+    "Prevención del Delito",
+    "Uso de la Fuerza",
+    "Modelo Policial",
+    "Buen Trato",
+    "Capacitación Policial",
+    "Transparencia"
   ],
   "terminos_coloquiales": [
-    "policía comunitaria",
-    "policías ciudadanas",
-    "derechos de los policías",
-    "contratación de policías",
-    "seguridad pública",
-    "trabajo de la policía"
+    "policías de confianza",
+    "seguridad en la calle",
+    "cómo se maneja la policía",
+    "derechos de las víctimas",
+    "prevención del delito",
+    "actuación de la policía"
   ],
-  "resumen": "El artículo establece un modelo de policías que prioriza la solución pacífica de conflictos y el respeto a los derechos humanos. Se enfoca en la prevención del delito y el bienestar de la comunidad, además de garantizar condiciones dignas para los policías.",
+  "resumen": "El artículo establece un modelo de policías que prioriza el convencimiento y la solución pacífica de conflictos, respetando los derechos humanos. Además, plantea la creación de instituciones de seguridad al servicio de la sociedad que garanticen la prevención del delito y un buen trato hacia las personas.",
   "preguntas_ejemplo": [
-    "¿Cómo deben actuar las policías en conflictos?",
-    "¿Qué derechos tienen las víctimas y testigos?",
-    "¿Qué es el modelo de policías ciudadanas?",
-    "¿Cómo se asegura la capacitación de los policías?",
-    "¿Cuáles son las prioridades de las fuerzas de seguridad?",
-    "¿Qué garantías tienen los policías en su trabajo?"
+    "¿Cómo se debe comportar la policía en un conflicto?",
+    "¿Qué derechos tienen las víctimas frente a la policía?",
+    "¿Qué es el modelo de policía de proximidad?",
+    "¿Cómo se garantiza la transparencia en la actuación policial?",
+    "¿Qué se hace para formar a los policías correctamente?"
   ]
 }

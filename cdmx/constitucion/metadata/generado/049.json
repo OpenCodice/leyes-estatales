@@ -4,7 +4,7 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:f090512f3323ac0d",
+    "hash_texto": "sha256:f468366b11609489",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Instituto de Transparencia",
@@ -12,23 +12,22 @@
     "acceso a la información",
     "protección de datos personales",
     "derechos ciudadanos",
-    "transparencia",
     "recursos de revisión",
     "responsabilidad administrativa"
   ],
   "terminos_coloquiales": [
-    "cómo puedo acceder a información pública",
-    "qué hacer si no me dan información",
-    "protección de mi información personal",
-    "derechos de transparencia",
-    "qué es el Instituto de Transparencia"
+    "cómo pedir información al gobierno",
+    "protección de mis datos",
+    "qué hacer si me niegan información",
+    "derechos de información",
+    "transparencia gubernamental"
   ],
-  "resumen": "El artículo establece un organismo que garantiza el acceso a la información pública y la protección de datos personales. Este instituto está compuesto por comisionados que deben ser ciudadanos con experiencia y trabaja con principios de transparencia y máxima publicidad.",
+  "resumen": "El Instituto de Transparencia es el organismo que garantiza el acceso a la información y la protección de datos personales. Está formado por cinco comisionados que no pueden ser políticos y se encarga de resolver conflictos relacionados con la transparencia en la Ciudad de México.",
   "preguntas_ejemplo": [
-    "¿Quiénes pueden acceder a información pública?",
-    "¿Qué debo hacer si me niegan información?",
-    "¿Qué es el Instituto de Transparencia?",
-    "¿Cómo se protege mi información personal?",
-    "¿Qué sucede si no cumplen con las resoluciones del instituto?"
+    "¿Cómo puedo acceder a información pública?",
+    "¿Qué derechos tengo sobre mis datos personales?",
+    "¿Qué hago si no me dan información que solicité?",
+    "¿Quiénes son los comisionados del Instituto de Transparencia?",
+    "¿Qué pasa si no cumplen con las resoluciones del Instituto?"
   ]
 }

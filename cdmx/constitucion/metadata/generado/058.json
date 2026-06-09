@@ -4,33 +4,34 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:6e76e3f40cd7b1cb",
+    "hash_texto": "sha256:eb5021dec55ab6dd",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Diversidad cultural de la Ciudad de México",
+  "denominacion_comun": "Composición pluricultural de la Ciudad de México",
   "temas": [
     "pluriculturalidad",
     "plurilingüismo",
     "pluriétnicidad",
     "comunidades indígenas",
     "pueblos originarios",
-    "derechos culturales",
-    "identidad",
-    "autoadscripción"
+    "autoadscripción",
+    "identidad cultural"
   ],
   "terminos_coloquiales": [
-    "diversidad en la Ciudad de México",
-    "comunidades indígenas en la ciudad",
+    "diversidad cultural",
+    "comunidades indígenas",
     "pueblos originarios",
-    "identidad cultural",
-    "tradiciones indígenas"
+    "barrio indígena",
+    "gente de distintas culturas",
+    "identidad étnica"
   ],
-  "resumen": "Este artículo reconoce la diversidad cultural de la Ciudad de México, incluyendo a sus pueblos y comunidades indígenas. También establece el derecho de estas comunidades a identificarse como tales y a preservar sus tradiciones y costumbres.",
+  "resumen": "La Constitución reconoce que la Ciudad de México es diversa en culturas, lenguas y etnias, formada por pueblos y comunidades indígenas. También se respeta el derecho de las personas a identificarse como parte de estas comunidades según su propia conciencia cultural.",
   "preguntas_ejemplo": [
-    "¿Qué se entiende por pueblos originarios en la Ciudad de México?",
-    "¿Cómo se definen las comunidades indígenas en la ciudad?",
-    "¿Qué derechos tienen los pueblos y barrios originarios?",
-    "¿Cómo se reconoce la diversidad cultural en la Constitución?",
-    "¿Qué significa la autoadscripción para las comunidades indígenas?"
+    "¿Qué significa que la Ciudad de México sea pluricultural?",
+    "¿Cómo se consideran a los pueblos originarios en la Constitución?",
+    "¿Qué derechos tienen las comunidades indígenas en la ciudad?",
+    "¿Qué es la autoadscripción de los pueblos y comunidades?",
+    "¿Cómo se reconoce la diversidad étnica en la Constitución?",
+    "¿Qué instituciones apoyan a las comunidades indígenas en la Ciudad de México?"
   ]
 }

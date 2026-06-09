@@ -4,29 +4,29 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:dd37138c4f01d59f",
+    "hash_texto": "sha256:2a24ec8ab24d59b1",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Ciudadanía",
+  "denominacion_comun": "Ciudadanía y Sufragio",
   "temas": [
+    "ciudadanía",
     "sufragio",
-    "derechos ciudadanos",
-    "participación ciudadana",
-    "educación cívica"
+    "elecciones",
+    "participación ciudadana"
   ],
   "terminos_coloquiales": [
-    "derecho a votar",
-    "voto libre",
-    "elecciones",
-    "participar en decisiones",
-    "ciudadanía activa"
+    "derechos de los ciudadanos",
+    "voto",
+    "elecciones libres",
+    "participación en la democracia"
   ],
-  "resumen": "Este artículo trata sobre la ciudadanía y el derecho al voto en México, destacando la importancia de participar en elecciones y en decisiones públicas. También establece derechos para los jóvenes en la educación cívica y promueve la participación ciudadana.",
+  "resumen": "El artículo establece que la ciudadanía permite a las personas ejercer derechos y participar en elecciones de manera libre y secreta. También garantiza que los jóvenes puedan involucrarse en la toma de decisiones y fomenta la participación ciudadana a través de espacios y tecnologías.",
   "preguntas_ejemplo": [
-    "¿Qué derechos tengo como ciudadano?",
-    "¿Cómo puedo participar en las elecciones?",
-    "¿Qué es el sufragio universal?",
-    "¿Los jóvenes pueden votar?",
-    "¿Cómo se asegura el voto secreto?"
+    "¿Qué significa ser ciudadano en México?",
+    "¿Cómo funciona el derecho al voto?",
+    "¿Los jóvenes pueden participar en elecciones?",
+    "¿Qué es la democracia participativa?",
+    "¿Cuáles son mis derechos como ciudadano?",
+    "¿Cómo puedo involucrarme en la toma de decisiones en mi comunidad?"
   ]
 }

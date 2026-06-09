@@ -4,37 +4,31 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:3d01b6909b0a8130",
+    "hash_texto": "sha256:3022b670b08cba60",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Deberes de las personas",
   "temas": [
     "derechos humanos",
-    "responsabilidad social",
     "medio ambiente",
-    "protección animal",
-    "gasto público",
-    "denuncia de delitos",
     "solidaridad",
-    "patrimonio cultural",
     "participación ciudadana",
-    "valores comunitarios"
+    "respeto animal",
+    "patrimonio cultural"
   ],
   "terminos_coloquiales": [
-    "deberes que tenemos",
-    "responsabilidades ciudadanas",
-    "cuidar el medio ambiente",
-    "trato a los animales",
-    "ayudar a los demás",
-    "defender derechos",
-    "participación en la comunidad"
+    "deberes ciudadanos",
+    "responsabilidades en la comunidad",
+    "respeto a la naturaleza",
+    "ayuda a los demás",
+    "derechos y obligaciones"
   ],
-  "resumen": "El artículo habla sobre los deberes que tienen las personas en la Ciudad de México. Incluye responsabilidades como respetar derechos, cuidar el medio ambiente y participar en la vida comunitaria.",
+  "resumen": "Todas las personas tienen deberes con su familia y comunidad. Deben respetar derechos, cuidar el medio ambiente, y ayudar a otros en situaciones difíciles.",
   "preguntas_ejemplo": [
-    "¿Cuáles son mis responsabilidades como ciudadano?",
-    "¿Qué debo hacer para ayudar a mi comunidad?",
-    "¿Cómo puedo cuidar el medio ambiente en mi ciudad?",
-    "¿Qué deberes tengo con los animales?",
-    "¿Cómo puedo participar en la vida política de mi comunidad?"
+    "¿Cuáles son los deberes que tengo como ciudadano?",
+    "¿Qué responsabilidades tengo hacia mi comunidad?",
+    "¿Cómo debo tratar a los animales según la ley?",
+    "¿Qué debo hacer si soy testigo de un delito?",
+    "¿Cómo puedo contribuir al cuidado del medio ambiente?"
   ]
 }

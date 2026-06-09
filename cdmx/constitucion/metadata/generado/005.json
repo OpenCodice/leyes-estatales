@@ -4,34 +4,30 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:eb75af06c0338537",
+    "hash_texto": "sha256:923874a80108b661",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Progresividad de los derechos",
+  "denominacion_comun": "Progresividad y Protección de Derechos",
   "temas": [
     "derechos humanos",
-    "derecho a la reparación",
-    "justicia",
-    "inclusión",
-    "accion afirmativa",
-    "evaluación de derechos",
-    "sistema de derechos humanos"
+    "justiciabilidad",
+    "reparación integral",
+    "indemnización",
+    "protección de derechos"
   ],
   "terminos_coloquiales": [
-    "mejorar derechos",
-    "reparación de daños",
-    "justicia para todos",
-    "inclusión social",
     "cómo exigir mis derechos",
-    "soluciones para la desigualdad"
+    "derechos de las personas",
+    "reparación por abusos",
+    "programas de derechos humanos",
+    "derechos vulnerados"
   ],
-  "resumen": "El artículo establece que se deben tomar medidas para asegurar que los derechos humanos sean progresivamente garantizados en la Ciudad de México. También se enfoca en la exigibilidad de estos derechos y en la reparación por violaciones a los mismos.",
+  "resumen": "El artículo garantiza que las autoridades trabajen para que los derechos de las personas se hagan efectivos, incluso en situaciones de escasez de recursos. También establece el derecho a exigir justicia y reparación cuando estos derechos son violados.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo hacer valer mis derechos?",
-    "¿Qué medidas hay para reparar violaciones a los derechos humanos?",
-    "¿Qué es el Sistema Integral de Derechos Humanos?",
-    "¿Cómo se evalúan los derechos en la ciudad?",
-    "¿Qué hago si no se cumplen mis derechos?",
-    "¿Qué significa la acción afirmativa en este contexto?"
+    "¿Cómo puedo reclamar si se violan mis derechos?",
+    "¿Qué debo hacer si sufro un abuso?",
+    "¿Qué significa reparación integral por violación de derechos?",
+    "¿Cómo se asegura que mis derechos sean respetados?",
+    "¿Qué programas hay para proteger mis derechos en la ciudad?"
   ]
 }

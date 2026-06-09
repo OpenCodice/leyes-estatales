@@ -4,33 +4,34 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:af04bd2aa43fc1a6",
+    "hash_texto": "sha256:b677fab2b3b2de0a",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Ciudad habitable",
+  "denominacion_comun": "Derechos ambientales y de bienestar",
   "temas": [
     "medio ambiente sano",
-    "protección de animales",
-    "vía pública",
+    "protección de la naturaleza",
+    "bienestar animal",
+    "uso de la vía pública",
     "espacios públicos",
     "movilidad",
     "tiempo libre"
   ],
   "terminos_coloquiales": [
-    "derecho a vivir en un lugar limpio",
+    "derecho a un ambiente limpio",
     "cuidado de los animales",
-    "uso de la calle",
+    "uso de calles",
     "espacios para todos",
-    "transporte y movilidad",
-    "tiempo libre y ocio"
+    "transporte seguro",
+    "descanso y esparcimiento"
   ],
-  "resumen": "Este artículo establece el derecho de las personas a un medio ambiente sano, a la protección de los animales y al uso de la vía y el espacio público. También se menciona el derecho a la movilidad y a disfrutar del tiempo libre.",
+  "resumen": "El Artículo 13 establece derechos relacionados con el medio ambiente, la protección de los animales, el uso de la vía pública y el acceso a espacios públicos. También resalta la importancia de la movilidad segura y el derecho al tiempo libre para todos los ciudadanos.",
   "preguntas_ejemplo": [
     "¿Qué derechos tengo sobre el medio ambiente?",
-    "¿Cómo se protegen a los animales en la ciudad?",
-    "¿Puedo usar la vía pública como quiera?",
-    "¿Qué pasa con los espacios públicos?",
-    "¿Cuál es mi derecho a la movilidad?",
-    "¿Tengo derecho a tener tiempo libre?"
+    "¿Cómo se protege a los animales en la ciudad?",
+    "¿Puedo usar la vía pública sin problemas?",
+    "¿Qué son los espacios públicos y cómo puedo usarlos?",
+    "¿Qué derechos tengo para moverme por la ciudad?",
+    "¿Cuál es mi derecho al tiempo libre en la ciudad?"
   ]
 }

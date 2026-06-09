@@ -21,7 +21,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 4 › Apartado A",
-      "texto": "A. De la protección de los derechos humanos"
+      "texto": "A. De la protección de los derechos humanos (REFORMADO G.O. CDMX 26 DE JULIO DE 2019)"
     },
     {
       "id": "004.A.1",
@@ -31,15 +31,6 @@
       "fraccion": "",
       "ruta": "Artículo 4 › Apartado A › 1.",
       "texto": "1. En la Ciudad de México las personas gozan de los derechos humanos y garantías reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los tratados e instrumentos internacionales de los que el Estado mexicano sea parte, en esta Constitución y en las normas generales y locales."
-    },
-    {
-      "id": "004.p2",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "A",
-      "fraccion": "",
-      "ruta": "Artículo 4 › Apartado A › párrafo 2",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
     },
     {
       "id": "004.A.2",
@@ -78,13 +69,22 @@
       "texto": "5. Las autoridades deberán prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos."
     },
     {
+      "id": "004.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 4 › Apartado A › párrafo 2",
+      "texto": "(REFORMADO G.O. CDMX 26 DE JULIO DE 2019)"
+    },
+    {
       "id": "004.A.6",
       "tipo": "numeral",
       "marca": "6",
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 4 › Apartado A › 6.",
-      "texto": "6. Las autoridades jurisdiccionales de la Ciudad ejercerán el control de constitucionalidad, favoreciendo en todo tiempo la protección más amplia para las personas, dejando de aplicar aquellas normas contrarias esta Constitución."
+      "texto": "6. Las autoridades jurisdiccionales de la Ciudad ejercerán el control de constitucionalidad, favoreciendo en todo tiempo la protección más amplia para las personas, dejando de aplicar aquellas normas contrarias a esta Constitución."
     },
     {
       "id": "004.B",
@@ -130,15 +130,6 @@
       "fraccion": "",
       "ruta": "Artículo 4 › Apartado B › 4.",
       "texto": "4. En la aplicación transversal de los derechos humanos las autoridades atenderán las perspectivas de género, la no discriminación, la inclusión, la accesibilidad, el interés superior de niñas, niños y adolescentes, el diseño universal, la interculturalidad, la etaria y la sustentabilidad."
-    },
-    {
-      "id": "004.p3",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "B",
-      "fraccion": "",
-      "ruta": "Artículo 4 › Apartado B › párrafo 3",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
     },
     {
       "id": "004.C",

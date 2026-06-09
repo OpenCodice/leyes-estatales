@@ -4,10 +4,10 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:6d447dae9f1fb90d",
+    "hash_texto": "sha256:33ba7e34c4dc3c50",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Derechos de pueblos indígenas",
+  "denominacion_comun": "Derechos de los pueblos indígenas",
   "temas": [
     "derechos colectivos",
     "derechos individuales",
@@ -15,21 +15,22 @@
     "comunidades indígenas",
     "mujeres indígenas",
     "hombres indígenas",
+    "territorios",
     "barrios originarios"
   ],
   "terminos_coloquiales": [
     "derechos de indígenas",
     "pueblos originarios",
-    "comunidades autóctonas",
-    "derechos de las comunidades",
-    "proteger a los indígenas"
+    "comunidades nativas",
+    "ley de indígenas",
+    "derechos culturales"
   ],
-  "resumen": "La Constitución reconoce y protege los derechos de los pueblos indígenas en la Ciudad de México, tanto colectivos como individuales, para todos sus integrantes. Esto incluye a los pueblos y barrios originarios y a las comunidades indígenas que residen en la ciudad.",
+  "resumen": "La Constitución protege los derechos de los pueblos indígenas en la Ciudad de México, tanto de forma colectiva como individual. Se reconoce a las comunidades indígenas y sus integrantes como titulares de estos derechos.",
   "preguntas_ejemplo": [
-    "¿Qué derechos tienen los pueblos indígenas en la ciudad?",
-    "¿Quiénes son considerados pueblos indígenas?",
-    "¿Qué dice la Constitución sobre las comunidades indígenas?",
-    "¿Las mujeres indígenas tienen derechos especiales?",
-    "¿Qué instrumentos internacionales protegen a los indígenas en México?"
+    "¿Qué derechos tienen los pueblos indígenas en la Ciudad de México?",
+    "¿Cómo se protegen los derechos de las comunidades indígenas?",
+    "¿Qué dice la Constitución sobre los pueblos originarios?",
+    "¿Cuáles son los derechos de las mujeres y hombres indígenas?",
+    "¿Qué son los barrios originarios y qué derechos tienen?"
   ]
 }

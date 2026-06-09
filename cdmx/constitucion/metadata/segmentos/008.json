@@ -48,7 +48,16 @@
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 8 › Apartado A › 3.",
-      "texto": "3. Las autoridades educativas de la Ciudad de México impartirán educación en todos los niveles y modalidades, en los términos y las condiciones previstas en la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia. Toda la educación pública será gratuita, laica, inclusiva, intercultural, pertinente y de calidad. Tenderá a igualar las oportunidades y INSTITUTO DE INVESTIGACIONES LEGISLATIVAS disminuir las desigualdades entre los habitantes. Será democrática y contribuirá a la mejor convivencia humana. En la Ciudad de México, la población indígena tendrá derecho a recibir educación bilingüe, en su lengua originaria y en español con perspectiva intercultural."
+      "texto": "3. Las autoridades educativas de la Ciudad de México impartirán educación en todos los niveles y modalidades, en los términos y las condiciones previstas en la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia. Toda la educación pública será gratuita, laica, inclusiva, intercultural, pertinente y de calidad. Tenderá a igualar las oportunidades y disminuir las desigualdades entre los habitantes. Será democrática y contribuirá a la mejor convivencia humana."
+    },
+    {
+      "id": "008.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado A › párrafo 2",
+      "texto": "En la Ciudad de México, la población indígena tendrá derecho a recibir educación bilingüe, en su lengua originaria y en español con perspectiva intercultural."
     },
     {
       "id": "008.A.4",
@@ -75,34 +84,7 @@
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 8 › Apartado A › 6.",
-      "texto": "6. Atendiendo al principio rector del interés superior de la niñez, las autoridades garantizarán el pleno acceso al derecho de las niñas y los niños a recibir educación."
-    },
-    {
-      "id": "008.p2",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "A",
-      "fraccion": "",
-      "ruta": "Artículo 8 › Apartado A › párrafo 2",
-      "texto": "En la Ciudad de México, todas las niñas y niños inscritos en planteles públicos de educación básica, tendrán derecho a contar con una beca que se denominará Bienestar para niñas y niños."
-    },
-    {
-      "id": "008.p3",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "A",
-      "fraccion": "",
-      "ruta": "Artículo 8 › Apartado A › párrafo 3",
-      "texto": "En cada ejercicio fiscal, los planteles educativos de educación pública básica en la Ciudad de México contarán con la asignación presupuestal que determine el Congreso a fin de dignificar las condiciones de los inmuebles, misma que se ejercerá con la participación de los padres y madres de familia. El programa para el ejercicio de este derecho se denominará La escuela es nuestra."
-    },
-    {
-      "id": "008.p4",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "A",
-      "fraccion": "",
-      "ruta": "Artículo 8 › Apartado A › párrafo 4",
-      "texto": "Reforma publicada en la GOCDMX el 28 de Noviembre de 2022"
+      "texto": "6. Atendiendo al principio rector del interés superior de la niñez, las autoridades velarán por el pleno ejercicio del derecho de las niñas y de los niños a recibir educación, garantizando su acceso y respetando su pleno cumplimiento."
     },
     {
       "id": "008.A.7",
@@ -121,15 +103,6 @@
       "fraccion": "",
       "ruta": "Artículo 8 › Apartado A › 8.",
       "texto": "8. La educación de los tipos medio superior y superior que se imparta en la Ciudad de México deberá tener contenidos que propicien el pensamiento crítico y la conciencia de las personas sobre su papel en la sociedad y su compromiso con la ciudad, el país y el mundo."
-    },
-    {
-      "id": "008.p5",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "A",
-      "fraccion": "",
-      "ruta": "Artículo 8 › Apartado A › párrafo 5",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
     },
     {
       "id": "008.A.9",
@@ -222,15 +195,6 @@
       "texto": "4. Esta Constitución reconoce la función primordial de la actividad docente, su dignificación social, así como la importancia de la formación continua para los docentes."
     },
     {
-      "id": "008.p6",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "B",
-      "fraccion": "",
-      "ruta": "Artículo 8 › Apartado B › párrafo 6",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
-    },
-    {
       "id": "008.B.5",
       "tipo": "numeral",
       "marca": "5",
@@ -246,7 +210,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 8 › Apartado B › 6.",
-      "texto": "6. Las autoridades promoverán esquemas eficientes para el suministro de alimentos sanos y nutritivos conforme a los lineamientos que la autoridad en la materia determine."
+      "texto": "6.Las autoridades promoverán esquemas eficientes para el suministro de alimentos sanos y nutritivos conforme a los lineamientos que la autoridad en la materia determine."
     },
     {
       "id": "008.B.7",
@@ -282,7 +246,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 8 › Apartado B › 10.",
-      "texto": "10. La falta de documentación que acredite la identidad de niñas, niños y adolescentes no podrá ser impedimento para garantizar el acceso al sistema educativo. Las autoridades deberán facilitar INSTITUTO DE INVESTIGACIONES LEGISLATIVAS opciones para obtener la documentación requerida que permita la integración o tránsito del educando por el sistema educativo nacional."
+      "texto": "10. La falta de documentación que acredite la identidad de niñas, niños y adolescentes no podrá ser impedimento para garantizar el acceso al sistema educativo. Las autoridades deberán facilitar opciones para obtener la documentación requerida que permita la integración o tránsito del educando por el sistema educativo nacional."
     },
     {
       "id": "008.C",
@@ -330,12 +294,12 @@
       "texto": "4. Las autoridades, en el ámbito de sus competencias, fortalecerán y apoyarán la generación, ejecución y difusión de proyectos de investigación científica y tecnológica, así como la vinculación de éstos con los sectores productivos, sociales y de servicios, a fin de resolver problemas y necesidades de la Ciudad, contribuir a su desarrollo económico y social, elevar el bienestar de la población y reducir la desigualdad; la formación de técnicos y profesionales que para el mismo se requieran; la enseñanza de la ciencia y la tecnología desde la enseñanza básica; y el apoyo a creadores e inventores."
     },
     {
-      "id": "008.p7",
+      "id": "008.p3",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "C",
       "fraccion": "",
-      "ruta": "Artículo 8 › Apartado C › párrafo 7",
+      "ruta": "Artículo 8 › Apartado C › párrafo 3",
       "texto": "Garantizan igualmente la preservación, el rescate y desarrollo de técnicas y prácticas tradicionales y originarias en la medicina y en la protección, restauración y buen uso de los recursos naturales y el cuidado del medio ambiente."
     },
     {
@@ -346,15 +310,6 @@
       "fraccion": "",
       "ruta": "Artículo 8 › Apartado C › 5.",
       "texto": "5. El Instituto de Planeación Democrática y Prospectiva elaborará un Programa de Desarrollo Científico, Tecnológico y de Innovación que será parte integral del Plan General de Desarrollo de la Ciudad de México, con una visión de veinte años, y que se actualizará cada tres."
-    },
-    {
-      "id": "008.p8",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "C",
-      "fraccion": "",
-      "ruta": "Artículo 8 › Apartado C › párrafo 8",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
     },
     {
       "id": "008.C.6",
@@ -453,7 +408,7 @@
       "apartado": "D",
       "fraccion": "",
       "ruta": "Artículo 8 › Apartado D › inciso g)",
-      "texto": "g) Ejercer en libertad su derecho a emprender proyectos, iniciativas y propuestas culturales y artísticas;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "g) Ejercer en libertad su derecho a emprender proyectos, iniciativas y propuestas culturales y artísticas;"
     },
     {
       "id": "008.D.h",
@@ -501,12 +456,12 @@
       "texto": "3. Las autoridades, en el ámbito de sus respectivas competencias protegerán los derechos culturales."
     },
     {
-      "id": "008.p9",
+      "id": "008.p4",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "D",
       "fraccion": "",
-      "ruta": "Artículo 8 › Apartado D › párrafo 9",
+      "ruta": "Artículo 8 › Apartado D › párrafo 4",
       "texto": "Asimismo, favorecerán la promoción y el estímulo al desarrollo de la cultura y las artes. Los derechos culturales podrán ampliarse conforme a la ley en la materia que además establecerá los mecanismos y modalidades para su exigibilidad."
     },
     {
@@ -552,7 +507,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 8 › Apartado E",
-      "texto": "E. Derecho al deporte INSTITUTO DE INVESTIGACIONES LEGISLATIVAS Toda persona tiene derecho pleno al deporte. El Gobierno de la Ciudad garantizará este derecho, para lo cual:"
+      "texto": "E. Derecho al deporte Toda persona tiene derecho pleno al deporte. El Gobierno de la Ciudad garantizará este derecho, para lo cual:"
     },
     {
       "id": "008.E.a",

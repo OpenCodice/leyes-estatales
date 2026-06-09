@@ -15,13 +15,22 @@
       "texto": "Reformas a la Constitución Esta Constitución podrá ser reformada o adicionada en cualquier tiempo, de conformidad con lo siguiente:"
     },
     {
+      "id": "069.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 2",
+      "texto": "(DEROGADO G.O. CDMX 26 DE JULIO DE 2019)"
+    },
+    {
       "id": "069.1",
       "tipo": "numeral",
       "marca": "1",
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 69 › 1.",
-      "texto": "1. (Se deroga)"
+      "texto": "1. SE DEROGA (REFORMADO G.O. CDMX 26 DE JULIO DE 2019)"
     },
     {
       "id": "069.2",
@@ -33,6 +42,15 @@
       "texto": "2. Las iniciativas de adiciones o reformas, se publicarán y circularán ampliamente."
     },
     {
+      "id": "069.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 3",
+      "texto": "(REFORMADO G.O. CDMX 26 DE JULIO DE 2019)"
+    },
+    {
       "id": "069.3",
       "tipo": "numeral",
       "marca": "3",
@@ -40,6 +58,15 @@
       "fraccion": "",
       "ruta": "Artículo 69 › 3.",
       "texto": "3. Las iniciativas de reforma o adición, podrán ser votadas a partir del siguiente periodo en el que se presentaron."
+    },
+    {
+      "id": "069.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 4",
+      "texto": "(REFORMADO G.O. CDMX 26 DE JULIO DE 2019)"
     },
     {
       "id": "069.4",
@@ -60,40 +87,49 @@
       "texto": "5. Sólo el Congreso, por el voto de las dos terceras partes de sus integrantes, podrá disponer la celebración del referéndum sobre las reformas aprobadas a esta Constitución."
     },
     {
-      "id": "069.p2",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "",
-      "fraccion": "",
-      "ruta": "Artículo 69 › párrafo 2",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS Una vez aprobadas las adiciones, reformas o derogaciones constitucionales, el Congreso hará la declaratoria del inicio del procedimiento del referéndum."
-    },
-    {
-      "id": "069.p3",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "",
-      "fraccion": "",
-      "ruta": "Artículo 69 › párrafo 3",
-      "texto": "En su caso,el referéndum se realizará en la fecha que establezca el Congreso de la Ciudad."
-    },
-    {
-      "id": "069.p4",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "",
-      "fraccion": "",
-      "ruta": "Artículo 69 › párrafo 4",
-      "texto": "Cuando la participación total corresponda, al menos, al treinta y tres por ciento de las y los ciudadanos inscritos en la lista nominal de electores, el referéndum será vinculante."
-    },
-    {
       "id": "069.p5",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 69 › párrafo 5",
+      "texto": "Una vez aprobadas las adiciones, reformas o derogaciones constitucionales, el Congreso hará la declaratoria del inicio del procedimiento del referéndum."
+    },
+    {
+      "id": "069.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 6",
+      "texto": "En su caso,el referéndum se realizará en la fecha que establezca el Congreso de la Ciudad."
+    },
+    {
+      "id": "069.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 7",
+      "texto": "Cuando la participación total corresponda, al menos, al treinta y tres por ciento de las y los ciudadanos inscritos en la lista nominal de electores, el referéndum será vinculante."
+    },
+    {
+      "id": "069.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 8",
       "texto": "La Sala Constitucional de la Ciudad de México, en los términos que determine la ley, será competente para substanciar y resolver sobre las impugnaciones que se presenten en el desarrollo del procedimiento de referéndum."
+    },
+    {
+      "id": "069.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 9",
+      "texto": "(REFORMADO G.O. CDMX 26 DE JULIO DE 2019)"
     },
     {
       "id": "069.6",

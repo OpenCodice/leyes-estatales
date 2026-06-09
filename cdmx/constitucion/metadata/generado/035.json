@@ -4,36 +4,35 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:65f258a2b3233970",
+    "hash_texto": "sha256:4d4b412fc3ab955e",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Poder Judicial",
+  "denominacion_comun": "Poder Judicial de la Ciudad de México",
   "temas": [
     "función judicial",
-    "acceso a la justicia",
     "Consejo de la Judicatura",
-    "tribunales",
     "jueces",
     "magistrados",
-    "medios alternativos de solución de controversias",
-    "transparencia",
-    "derechos humanos"
+    "administración de justicia",
+    "derechos humanos",
+    "gobernanza judicial",
+    "medios alternativos de solución de controversias"
   ],
   "terminos_coloquiales": [
-    "justicia",
-    "jueces y magistrados",
-    "consejo de justicia",
-    "cómo funcionan los tribunales",
-    "solución de conflictos",
+    "justicia en la CDMX",
+    "jueces en la Ciudad de México",
+    "magistrados CDMX",
+    "Consejo de la Judicatura",
+    "cómo funciona el Poder Judicial",
+    "resolver problemas legales",
     "acceso a la justicia"
   ],
-  "resumen": "El Artículo 35 establece la organización y funcionamiento del Poder Judicial en la Ciudad de México, destacando la importancia de la transparencia y el acceso a la justicia. También menciona la designación y funciones de jueces y magistrados, así como la promoción de medios alternativos para resolver disputas.",
+  "resumen": "Este artículo describe cómo opera el Poder Judicial en la Ciudad de México, incluyendo la función de los jueces y magistrados, así como la importancia del Consejo de la Judicatura. También aborda el acceso a la justicia y los medios alternativos para resolver conflictos.",
   "preguntas_ejemplo": [
-    "¿Qué hace el Poder Judicial en la Ciudad de México?",
-    "¿Cómo se eligen los jueces y magistrados?",
-    "¿Qué es el Consejo de la Judicatura?",
-    "¿Qué medios hay para resolver conflictos fuera de los tribunales?",
-    "¿Cuáles son los principios del sistema judicial?",
-    "¿Qué derechos tienen los jueces y magistrados?"
+    "¿Cómo se eligen los jueces en la Ciudad de México?",
+    "¿Qué funciones tiene el Consejo de la Judicatura?",
+    "¿Cuáles son los derechos de los magistrados?",
+    "¿Qué es el sistema de justicia alternativo?",
+    "¿Cómo se garantiza la imparcialidad en el Poder Judicial?"
   ]
 }

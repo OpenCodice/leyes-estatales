@@ -4,12 +4,11 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:df16d17a77b4be00",
+    "hash_texto": "sha256:cc60a8b2c6954a17",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Derecho a la Ciudad",
   "temas": [
-    "uso de la ciudad",
     "justicia social",
     "democracia",
     "participación ciudadana",
@@ -19,18 +18,18 @@
     "medio ambiente"
   ],
   "terminos_coloquiales": [
-    "derechos de la ciudad",
-    "vivir en la ciudad",
-    "igualdad en la ciudad",
+    "derecho a la ciudad",
+    "uso de la ciudad",
     "participación en la ciudad",
-    "uso justo de la ciudad"
+    "justicia urbana",
+    "ciudad equitativa"
   ],
-  "resumen": "El artículo garantiza que todos tengan derecho a usar y disfrutar de la ciudad de manera justa y equitativa. También asegura que la ciudad se gestione de forma democrática y que se respeten los derechos humanos en su uso.",
+  "resumen": "El artículo establece que en la Ciudad de México se garantiza el derecho a la ciudad, que permite un uso justo y equitativo de los recursos urbanos. Promueve la participación de la ciudadanía y busca asegurar que todos tengan acceso a los bienes públicos.",
   "preguntas_ejemplo": [
     "¿Qué es el derecho a la ciudad?",
-    "¿Cómo se asegura la justicia social en la ciudad?",
-    "¿Qué significa participar en la gestión de la ciudad?",
-    "¿De qué manera se promueve la sustentabilidad en la ciudad?",
-    "¿Cómo se garantiza la igualdad en el uso de la ciudad?"
+    "¿Cómo se garantiza el uso equitativo de la ciudad?",
+    "¿Qué principios fundamentan el derecho a la ciudad?",
+    "¿Cuál es la importancia de la participación ciudadana en la ciudad?",
+    "¿Cómo se asegura la justicia social en áreas urbanas?"
   ]
 }
