@@ -161,10 +161,6 @@ jobs:
           labels: |
             reforma
             automatico
-          # Para que te llegue la notificación: se te pide review y se te asigna.
-          # OJO: GitHub NO permite pedir review al AUTOR del PR. Solo surte efecto
-          # si PR_TOKEN es de una cuenta distinta a la tuya (p.ej. una cuenta bot);
-          # si PR_TOKEN es tu propia cuenta, el review-request se omite en silencio.
           reviewers: danielcardeenas
           assignees: danielcardeenas
           delete-branch: true
