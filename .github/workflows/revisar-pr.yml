@@ -60,10 +60,13 @@ jobs:
       - uses: actions/setup-python@v6
         with:
           python-version: '3.12'
-      - name: Clonar extractor e instalar OpenAI
+      - name: Clonar extractor e instalar dependencias
         run: |
           git clone --depth 1 "$EXTRACTOR_REPO" /tmp/extractor
-          pip install openai
+          # requirements (pdfplumber) además de openai: resumir_pr importa
+          # extractor.fuentes para el nombre del documento, y el __init__ del
+          # paquete carga parse → pdfplumber.
+          pip install -r /tmp/extractor/requirements.txt openai
       - name: Resumir cambios por estado y comentar el PR
         env:
           GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
