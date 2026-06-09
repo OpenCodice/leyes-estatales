@@ -162,5 +162,4 @@ jobs:
             reforma
             automatico
           reviewers: danielcardeenas
-          assignees: danielcardeenas
           delete-branch: true
