@@ -1,0 +1,45 @@
+{
+  "clave": "002",
+  "etiqueta": "Artículo 2º",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "002.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2º › párrafo 1",
+      "texto": "Todo poder público dimana del pueblo y se instituye para su beneficio."
+    },
+    {
+      "id": "002.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2º › párrafo 2",
+      "texto": "La soberanía del Estado reside esencial y originariamente en el pueblo, quien la ejerce por medio de los poderes estatales, del modo y en los términos que establecen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes."
+    },
+    {
+      "id": "002.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2º › párrafo 3",
+      "texto": "El Estado de Jalisco adopta para su régimen interno, la forma de gobierno republicano, democrático, representativo, laico, popular y participativo; tiene como base de su división territorial y de su organización política y administrativa, el municipio libre."
+    },
+    {
+      "id": "002.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2º › párrafo 4",
+      "texto": "DEL TERRITORIO DEL ESTADO"
+    }
+  ]
+}

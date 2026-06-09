@@ -1,0 +1,54 @@
+{
+  "clave": "043",
+  "etiqueta": "Artículo 43º",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "043.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43º › párrafo 1",
+      "texto": "El Gobernador del Estado podrá ausentarse del territorio de la entidad sin autorización del Congreso hasta por quince días. En las ausencias mayores de diez días deberá dar aviso al Congreso del Estado."
+    },
+    {
+      "id": "043.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43º › párrafo 2",
+      "texto": "Sólo con permiso del Congreso podrá ausentarse del territorio del Estado o separarse de sus funciones por más de quince días."
+    },
+    {
+      "id": "043.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43º › párrafo 3",
+      "texto": "En estos casos, el Secretario General de Gobierno se hará cargo del despacho del Ejecutivo."
+    },
+    {
+      "id": "043.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43º › párrafo 4",
+      "texto": "En las faltas temporales que excedan de treinta días entrará a ejercer interinamente el Poder Ejecutivo el ciudadano que nombre el Congreso."
+    },
+    {
+      "id": "043.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43º › párrafo 5",
+      "texto": "Si transcurridos treinta días de ausencia o separación de sus funciones, o concluida la licencia, no se presentare el Gobernador del Estado, será llamado por el Congreso, y si no compareciere dentro de diez días, se declarará su falta absoluta."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "052",
+  "etiqueta": "Artículo 52º",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "052.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52º › párrafo 1",
+      "texto": "Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, los cuales deberán emitir sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando en consecuencia prohibidas las costas judiciales."
+    },
+    {
+      "id": "052.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52º › párrafo 2",
+      "texto": "(N de E: El 14 de junio de 2016, el pleno de la Suprema Corte de Justicia de la nación, en el considerando quinto, así como en el resolutivo segundo de la sentencia dictada al resolver la acción de inconstitucionalidad 75/2015, declaró la invalidez del segundo párrafo del artículo 52, la cual surtió efectos el 15 de junio de 2016. Dicha sentencia puede ser consultada en el periódico oficial El Estado de Jalisco de fecha 24 de septiembre de 2016 sec. III.) Los tribunales garantizarán el control de convencionalidad de los derechos humanos en todas sus actuaciones, favoreciendo siempre éste sobre las leyes federales o estatales salvo en caso de que existan restricciones constitucionales o jurisprudencia que manifieste lo contrario."
+    }
+  ]
+}
