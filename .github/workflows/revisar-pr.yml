@@ -80,8 +80,8 @@ jobs:
               continue
             fi
             { echo "### 🔎 Resumen asistido — $estado"; echo; } > /tmp/resumen.md
-            python /tmp/extractor/scripts/resumir_pr.py \
-              "$GITHUB_WORKSPACE/$dir" "$BASE" >> /tmp/resumen.md || true
+            PYTHONPATH=/tmp/extractor python /tmp/extractor/scripts/resumir_pr.py \
+              "$GITHUB_WORKSPACE/$dir" "$BASE" "$perfil" >> /tmp/resumen.md || true
             gh pr comment "${{ github.event.pull_request.number }}" \
               --repo "${{ github.repository }}" --body-file /tmp/resumen.md
           done
