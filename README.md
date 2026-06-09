@@ -42,10 +42,23 @@ ensucia el historial del texto.
 
 ## Estados presentes
 
-| Estado | Ley | Artículos | Fuente |
-|--------|-----|-----------|--------|
-| Jalisco | Constitución | 122 | Periódico Oficial del Estado de Jalisco |
-| Ciudad de México | Constitución | 71 | Gaceta Oficial de la Ciudad de México |
+| Estado | Ley | Artículos | Perfil | Fuente oficial |
+|--------|-----|-----------|--------|----------------|
+| Jalisco | Constitución | 122 | `jalisco` | [Biblioteca Virtual — Congreso del Estado de Jalisco](https://congresoweb.congresojal.gob.mx/bibliotecavirtual/busquedasleyes/Listado%272.cfm) |
+| Ciudad de México | Constitución | 71 | `cdmx` | [Congreso de la Ciudad de México](https://www.congresocdmx.gob.mx/archivos/legislativas/constitucion_politica_de_la_ciudad_de_mexico.pdf) |
+
+### Vínculos en uso (resueltos automáticamente)
+
+El watcher no usa URLs fijas: las resuelve [`scripts/resolver_pdf.py`](https://github.com/OpenCodice/constitucion-extractor/blob/main/scripts/resolver_pdf.py)
+del extractor, porque los congresos estatales no exponen una URL estable.
+
+| Estado | Cómo se resuelve | Vínculo |
+|--------|------------------|---------|
+| Jalisco | **índice** — el PDF lleva la fecha embebida (`…-DDMMYY.pdf`) y rota en cada reforma; se lee el "Listado Completo" y se toma el más reciente | [Listado Completo](https://congresoweb.congresojal.gob.mx/bibliotecavirtual/busquedasleyes/Listado%272.cfm) |
+| CDMX | **directo** — URL de nombre estable | [constitucion_politica_de_la_ciudad_de_mexico.pdf](https://www.congresocdmx.gob.mx/archivos/legislativas/constitucion_politica_de_la_ciudad_de_mexico.pdf) |
+
+> Mantén esta tabla al día: si un estado cambia su sitio, se ajusta el registro
+> `RESOLVERS` en `resolver_pdf.py` y se actualiza el vínculo de arriba.
 
 ## Regenerar
 
@@ -81,10 +94,17 @@ Los workflows en `.github/workflows/` iteran los estados presentes (matriz/loop
 |----------|---------|----------|
 | `revisar-pr.yml` | cada PR | valida invariantes por estado (GATE) + resumen LLM de los estados que cambiaron |
 | `enriquecer.yml` | manual | (re)genera `metadata/generado/` de uno o todos los estados |
-| `vigilar-estatales.yml` | lunes / manual | descarga el PDF oficial, regenera y abre PR si hubo reforma |
+| `vigilar-estatales.yml` | lunes / manual | resuelve la URL vigente (`resolver_pdf.py`), regenera y abre PR si hubo reforma |
 | `notificar-web.yml` | push a `main` | avisa a `constitucion-web` para reingestar el namespace estatal |
 
-> ⚠️ `vigilar-estatales` es *best-effort*: varios estados no publican el PDF en
-> una URL fija (la de Jalisco lleva la fecha embebida y rota en cada reforma).
-> Los estados sin URL descargable quedan en vigilancia manual; cuando una URL
-> rota, relánzalo con el input `pdf_url`.
+El watcher es **autónomo**: cada lunes resuelve el PDF vigente de cada estado y,
+si el texto cambió, abre un PR (uno por estado). Si un estado cambia su sitio y
+el resolver falla, ese job avisa en rojo y puedes relanzarlo a mano con los
+inputs `estado` + `pdf_url`.
+
+### Secrets requeridos (en este repo)
+
+| Secret | Para qué | Workflows |
+|--------|----------|-----------|
+| `OPENAI_API_KEY` | enriquecimiento por LLM | `enriquecer`, `vigilar-estatales`, `revisar-pr` |
+| `WEB_DISPATCH_TOKEN` | PAT con scope `repo` sobre `constitucion-web` para el `repository_dispatch` | `notificar-web` |
