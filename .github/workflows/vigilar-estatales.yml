@@ -95,9 +95,16 @@ jobs:
       - name: Regenerar texto + metadata desde el PDF
         if: steps.url.outputs.skip == 'false'
         run: |
+          # Versión: si el PDF lleva la fecha en el nombre (…-DDMMYY.pdf, Jalisco)
+          # se pasa explícita; si no (CDMX) el extractor la saca de la portada.
+          VER=""
+          if echo "${{ steps.url.outputs.url }}" | grep -qE '\-[0-9]{6}\.pdf$'; then
+            d=$(echo "${{ steps.url.outputs.url }}" | grep -oE '[0-9]{6}\.pdf$' | cut -c1-6)
+            VER="20${d:4:2}-${d:2:2}-${d:0:2}"
+          fi
           PYTHONPATH=/tmp/extractor python -m extractor build \
             --pdf /tmp/estatal.pdf --out "$GITHUB_WORKSPACE/${{ matrix.dir }}" \
-            --perfil "${{ matrix.perfil }}"
+            --perfil "${{ matrix.perfil }}" ${VER:+--version "$VER"}
 
       - name: ¿Cambió el texto vigente?
         if: steps.url.outputs.skip == 'false'
