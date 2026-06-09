@@ -4,33 +4,32 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:13127c76e2072337",
+    "hash_texto": "sha256:ef26fb45b24c3e74",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Requisitos para ser Gobernador",
+  "denominacion_comun": "Requisitos para Gobernadores",
   "temas": [
     "ciudadanía",
     "edad",
     "residencia",
-    "sentencias condenatorias",
+    "sentencias",
     "deudas alimentarias",
     "funciones públicas"
   ],
   "terminos_coloquiales": [
-    "quién puede ser gobernador",
-    "requisitos para gobernatura",
-    "edad para ser gobernador",
-    "ciudadanos que pueden gobernar",
-    "deudas y ser gobernador",
-    "problemas legales para gobernar"
+    "cómo ser gobernador",
+    "requisitos para ser gobernadora",
+    "qué se necesita para ser gobernante",
+    "condiciones para gobernar",
+    "exigencias para ser gobernador"
   ],
-  "resumen": "El artículo establece los requisitos que debe cumplir una persona para ser Gobernador del Estado, incluyendo nacionalidad, edad, residencia, antecedentes legales y situación laboral. También menciona restricciones relacionadas con deudas alimentarias y sentencias penales.",
+  "resumen": "Este artículo establece los requisitos que debe cumplir una persona para ser Gobernador o Gobernadora del Estado, incluyendo la ciudadanía mexicana, la edad mínima, la residencia y la ausencia de ciertos antecedentes penales o deudas alimentarias.",
   "preguntas_ejemplo": [
     "¿Qué se necesita para ser gobernador?",
-    "¿Cuántos años tienes que tener para ser gobernador?",
-    "¿Tienes que ser nativo del Estado para ser gobernador?",
-    "¿Qué pasa si tienes deudas alimentarias y quieres ser gobernador?",
-    "¿Existen requisitos legales para ser gobernador?",
-    "¿Un servidor público puede ser gobernador?"
+    "¿Cuáles son los requisitos para ser gobernadora?",
+    "¿Una persona con antecedentes penales puede ser gobernador?",
+    "¿Cuántos años debe tener un candidato a gobernador?",
+    "¿Es necesario haber vivido en el estado para ser gobernador?",
+    "¿Puedo ser gobernador si debo pensión alimentaria?"
   ]
 }

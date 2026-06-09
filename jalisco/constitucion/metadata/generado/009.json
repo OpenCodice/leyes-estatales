@@ -4,32 +4,35 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:c37e127169c1daa8",
+    "hash_texto": "sha256:013084af6d5f64d2",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Derecho a la información pública",
+  "denominacion_comun": "Acceso a la información y protección de datos",
   "temas": [
     "transparencia",
     "rendición de cuentas",
     "participación ciudadana",
+    "derecho a la información",
     "protección de datos personales",
-    "acceso a la información",
     "gobierno abierto",
-    "cultura de transparencia"
+    "autoridades garantes",
+    "mecanismos de apertura",
+    "documentación pública"
   ],
   "terminos_coloquiales": [
-    "pedir información",
-    "ver lo que hace el gobierno",
-    "acceso a documentos públicos",
-    "información pública",
-    "cómo reclamar información"
+    "cómo acceder a información pública",
+    "transparencia en el gobierno",
+    "protección de mis datos personales",
+    "derechos de información en Jalisco",
+    "preguntarle al gobierno",
+    "qué es la rendición de cuentas"
   ],
-  "resumen": "Este artículo garantiza el derecho de los ciudadanos a acceder a la información pública y promueve la transparencia en las decisiones gubernamentales. Además, establece la protección de datos personales y la participación de la sociedad en la toma de decisiones.",
+  "resumen": "Este artículo establece el derecho de las personas a acceder a la información pública y la protección de sus datos personales. Además, promueve la transparencia y la participación ciudadana en la toma de decisiones públicas.",
   "preguntas_ejemplo": [
-    "¿Qué derechos tengo para pedir información al gobierno?",
-    "¿Cómo puedo acceder a documentos públicos?",
-    "¿Qué hace el Instituto de Transparencia?",
-    "¿Cómo se protege mi información personal?",
-    "¿Qué es la rendición de cuentas en el gobierno?"
+    "¿Qué puedo hacer si quiero acceso a información pública?",
+    "¿Quién protege mis datos personales en el gobierno?",
+    "¿Qué son las autoridades garantes?",
+    "¿Cómo se asegura la transparencia en el gobierno?",
+    "¿Cuáles son mis derechos con respecto a la información pública?"
   ]
 }

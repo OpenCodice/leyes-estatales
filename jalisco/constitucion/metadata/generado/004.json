@@ -4,37 +4,38 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:f6cd7ca13e1b0798",
+    "hash_texto": "sha256:48a799adab1e52c0",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Derechos Humanos en Jalisco",
+  "denominacion_comun": "Derechos humanos en Jalisco",
   "temas": [
     "derecho a la vida",
+    "derechos humanos",
     "no discriminación",
-    "derechos culturales",
-    "participación ciudadana",
-    "derechos de los pueblos indígenas",
     "derecho a la información",
-    "movilidad",
-    "derechos en el trabajo doméstico",
-    "derecho a la salud"
+    "participación ciudadana",
+    "derecho a la vivienda",
+    "derecho a la alimentación",
+    "derecho a la cultura",
+    "derecho a la ciudad",
+    "derechos de los pueblos indígenas"
   ],
   "terminos_coloquiales": [
     "derechos de la gente",
-    "igualdad para todos",
-    "derechos de los pueblos indígenas",
-    "derechos culturales",
-    "acceso a la información",
-    "derecho a la vida",
-    "sin discriminación",
-    "movilidad segura"
+    "vida digna",
+    "derechos de la mujer",
+    "acceso a la vivienda",
+    "derechos de los indígenas",
+    "información pública",
+    "vida cultural",
+    "espacios públicos"
   ],
-  "resumen": "El Artículo 4º establece que todas las personas en Jalisco tienen derechos garantizados por la Constitución, incluyendo el derecho a la vida, a no ser discriminados, y a participar en la vida cultural. También se reconoce la importancia de proteger a los pueblos indígenas y sus derechos.",
+  "resumen": "El Artículo 4º asegura que todas las personas en Jalisco tienen derechos que deben ser protegidos por el Estado. Protege derechos como la vida, la vivienda digna, la alimentación, la no discriminación, y el acceso a la cultura, entre otros.",
   "preguntas_ejemplo": [
-    "¿Cuáles son mis derechos si vivo en Jalisco?",
-    "¿Qué dice la ley sobre la vida y las personas?",
-    "¿Cómo se protege a los pueblos indígenas en Jalisco?",
-    "¿Cuáles son los derechos culturales que tengo?",
-    "¿Está prohibida la discriminación en Jalisco?"
+    "¿Qué derechos tengo si vivo en Jalisco?",
+    "¿Cómo se protege mi derecho a la vida?",
+    "¿Qué hace el Estado para asegurar el acceso a la vivienda?",
+    "¿Qué significa el derecho a la no discriminación?",
+    "¿Cómo puedo participar en la vida cultural de mi comunidad?"
   ]
 }

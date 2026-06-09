@@ -4,35 +4,34 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:936cb4dccb491001",
+    "hash_texto": "sha256:ef458eabf8d7fc1c",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Responsabilidad Administrativa",
+  "denominacion_comun": "Responsabilidad administrativa",
   "temas": [
     "sanciones administrativas",
-    "faltas graves y no graves",
+    "faltas administrativas",
     "auditorías",
-    "control interno",
+    "corrupción",
+    "órganos de control",
     "poder judicial",
-    "contraloría",
-    "responsabilidad penal",
-    "fiscalización"
+    "sanciones económicas",
+    "entidades públicas"
   ],
   "terminos_coloquiales": [
-    "multas para funcionarios",
-    "falta de un servidor público",
-    "investigaciones de corrupción",
-    "control de gastos públicos",
-    "sanciones a empresas",
-    "falta administrativa"
+    "sanciones para servidores públicos",
+    "faltas de funcionarios",
+    "controles de auditoría",
+    "problemas de corrupción",
+    "cargos públicos responsables",
+    "mala administración"
   ],
-  "resumen": "El artículo establece las reglas sobre las sanciones que se aplican a servidores públicos y particulares por actos que afectan la legalidad y la eficiencia en su trabajo. También define el papel de la Contraloría y la Auditoría Superior del Estado en la investigación y sanción de faltas administrativas.",
+  "resumen": "Este artículo establece las sanciones que deben enfrentar los servidores públicos y particulares que cometen faltas administrativas. Las sanciones pueden variar desde amonestaciones hasta inhabilitaciones o sanciones económicas, dependiendo de los daños causados y los beneficios obtenidos.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si un funcionario comete una falta?",
-    "¿Cómo se sanciona a las empresas por irregularidades?",
-    "¿Quién investiga las faltas administrativas?",
-    "¿Qué son las faltas graves en la administración pública?",
-    "¿Cómo se impugna una sanción administrativa?",
-    "¿Qué puede hacer la Contraloría sobre faltas de servidores públicos?"
+    "¿Qué sanciones hay para un funcionario público que comete una falta?",
+    "¿Cómo se investiga la corrupción en el gobierno?",
+    "¿Qué hace la Auditoría Superior del Estado?",
+    "¿Qué son las faltas administrativas graves?",
+    "¿Quién supervisa las acciones de los servidores públicos?"
   ]
 }

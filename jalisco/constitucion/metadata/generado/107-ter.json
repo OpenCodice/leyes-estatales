@@ -4,32 +4,34 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:612583508fe5f504",
+    "hash_texto": "sha256:cbf5c58851c83af3",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Sistema Anticorrupción de Jalisco",
   "temas": [
-    "corrupción",
-    "rendición de cuentas",
+    "prevención de la corrupción",
+    "responsabilidades administrativas",
     "fiscalización de recursos públicos",
-    "transparencia",
+    "rendición de cuentas",
     "coordinación entre autoridades",
-    "faltas administrativas",
-    "políticas públicas"
+    "políticas públicas anticorrupción",
+    "transparencia",
+    "control de faltas administrativas"
   ],
   "terminos_coloquiales": [
-    "combate a la corrupción",
-    "transparencia en el gobierno",
-    "cómo se controla el dinero público",
-    "responsabilidad de los funcionarios",
-    "prevención de la corrupción"
+    "hacer trampa en el gobierno",
+    "corrupción en Jalisco",
+    "cómo se combate la corrupción",
+    "quién revisa el uso del dinero público",
+    "fiscalización del gobierno",
+    "denunciar corrupción"
   ],
-  "resumen": "El Sistema Anticorrupción de Jalisco busca prevenir la corrupción y mejorar la transparencia y rendición de cuentas en el gobierno. Reúne a diversas autoridades para coordinar esfuerzos en la detección y sanción de actos corruptos y en el control de los recursos públicos.",
+  "resumen": "El Sistema Anticorrupción de Jalisco coordina esfuerzos entre distintas autoridades para prevenir, detectar y sancionar la corrupción y malas prácticas dentro del gobierno. Su propósito es fortalecer la rendición de cuentas y asegurar el manejo transparente de los recursos públicos.",
   "preguntas_ejemplo": [
     "¿Qué es el Sistema Anticorrupción de Jalisco?",
     "¿Cómo se combate la corrupción en Jalisco?",
     "¿Quiénes forman parte del Sistema Anticorrupción?",
-    "¿Qué papel tiene la rendición de cuentas en este sistema?",
-    "¿Cómo se fiscalizan los recursos públicos en Jalisco?"
+    "¿Cuál es el papel del Comité de Participación Social?",
+    "¿Qué acciones se toman para fiscalizar los recursos públicos?"
   ]
 }
