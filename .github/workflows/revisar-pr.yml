@@ -1,0 +1,111 @@
+name: Revisar PR de reforma (estatales)
+
+# Se ejecuta en cada PR.
+#   validar  — invariantes deterministas. Es el GATE: required check de main.
+#   fusionar — fusiona solo el PR si la vigilancia lo dejó verificado contra el PDF.
+
+on:
+  pull_request: {}
+
+permissions:
+  contents: read
+  pull-requests: write
+
+env:
+  EXTRACTOR_REPO: https://github.com/OpenCodice/constitucion-extractor.git
+
+jobs:
+  validar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.12'
+      - name: Clonar extractor e instalar dependencias
+        run: |
+          git clone --depth 1 "$EXTRACTOR_REPO" /tmp/extractor
+          pip install -r /tmp/extractor/requirements.txt
+      - name: Validar invariantes por estado (GATE)
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          git fetch -q origin "${{ github.base_ref }}"
+          # Un PR verificado contra el PDF puede tocar cualquier número de
+          # artículos; el tope solo protege los que llegan sin verificar.
+          MAX=20
+          etiquetas=$(gh pr view "${{ github.event.pull_request.number }}" -R "$GITHUB_REPOSITORY" \
+            --json labels -q '[.labels[].name] | join(",")')
+          case "$etiquetas" in
+            *extraccion-sospechosa*) ;;
+            *verificado*) MAX=100000 ;;
+          esac
+          BASE="origin/${{ github.base_ref }}"
+          rc=0
+          # Cada carpeta {estado}/constitucion se valida con el perfil del mismo nombre.
+          for dir in */constitucion; do
+            estado="${dir%%/*}"; perfil="$estado"
+            echo "::group::Validar $estado ($perfil)"
+            if PYTHONPATH=/tmp/extractor python -m extractor validar \
+                 --out "$GITHUB_WORKSPACE/$dir" --perfil "$perfil" --base "$BASE" \
+                 --max-cambios "$MAX"; then
+              echo "✅ $estado OK"
+            else
+              echo "::error::Invariantes ROTOS en $estado — no mergear"
+              rc=1
+            fi
+            echo "::endgroup::"
+          done
+          exit $rc
+
+  fusionar:
+    needs: validar
+    if: github.event.pull_request.head.repo.full_name == github.repository && startsWith(github.head_ref, 'reforma/')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      - name: Fusionar si la extracción quedó verificada
+        env:
+          GH_TOKEN: ${{ secrets.PR_TOKEN }}
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "Sin PR_TOKEN: el PR queda para revisión manual."; exit 0
+          fi
+          estado=$(gh pr view "$PR" -R "$GITHUB_REPOSITORY" --json isDraft,labels \
+            -q '"\(.isDraft) \([.labels[].name] | join(","))"')
+          case "$estado" in
+            true*|*extraccion-sospechosa*) echo "Extracción sospechosa: no se fusiona."; exit 0 ;;
+            *verificado*) ;;
+            *) echo "Sin etiqueta 'verificado': no se fusiona."; exit 0 ;;
+          esac
+          git fetch -q origin "${{ github.base_ref }}"
+          archivos=$(git diff --name-only "origin/${{ github.base_ref }}...HEAD" -- '*/articulos/*.md')
+          n=$(echo "$archivos" | grep -c . || true)
+          if [ "$n" -gt 12 ]; then
+            arts="$n artículos"
+          else
+            arts="arts. $(echo "$archivos" | sed -E 's|.*/0*([0-9]+)(-[a-z]+)?\.md$|\1\2|' | paste -sd, - | sed 's/,/, /g')"
+          fi
+          dir=$(echo "$archivos" | sed -E 's|/articulos/.*||' | sort -u | head -1)
+          ver=$(jq -r '.version // empty' "$dir/metadata/articulos.json")
+          asunto="Reforma ${dir%%/*}${ver:+ ($ver)}: $arts"
+          declarado=$(gh pr view "$PR" -R "$GITHUB_REPOSITORY" --json body -q .body \
+            | sed -n 's/.*<!-- asunto: \(.*\) -->.*/\1/p' | head -n 1)
+          asunto="${declarado:-$asunto}"
+          # La vigilancia abre un PR por estado y varios se fusionan casi a la vez:
+          # si main cambió entre la validación y la fusión, GitHub la rechaza
+          # ("Base branch was modified") aunque no haya conflicto, porque cada PR
+          # toca solo la carpeta de su estado. Se reintenta con una espera al azar.
+          for intento in 1 2 3 4 5 6; do
+            if gh pr merge "$PR" -R "$GITHUB_REPOSITORY" --squash --delete-branch \
+                 --subject "$asunto" --body "Fusionado automáticamente: validación y verificación del agente contra el PDF oficial en verde (#$PR)."; then
+              exit 0
+            fi
+            sleep $(( (RANDOM % 30) + 15 * intento ))
+          done
+          echo "::error::No se pudo fusionar el PR #$PR tras 6 intentos"; exit 1
