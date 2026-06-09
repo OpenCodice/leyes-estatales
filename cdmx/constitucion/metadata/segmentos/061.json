@@ -24,58 +24,67 @@
       "texto": "1. Todos los entes públicos de la Ciudad de México contarán con órganos internos de control y tendrán los siguientes objetivos:"
     },
     {
-      "id": "061.a",
-      "tipo": "inciso",
-      "marca": "a",
+      "id": "061.I",
+      "tipo": "fraccion",
+      "marca": "I",
       "apartado": "",
       "fraccion": "",
-      "ruta": "Artículo 61 › inciso a)",
-      "texto": "a) Prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas;"
+      "ruta": "Artículo 61 › Fracción I",
+      "texto": "I. Prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas;"
     },
     {
-      "id": "061.b",
-      "tipo": "inciso",
-      "marca": "b",
+      "id": "061.II",
+      "tipo": "fraccion",
+      "marca": "II",
       "apartado": "",
       "fraccion": "",
-      "ruta": "Artículo 61 › inciso b)",
-      "texto": "b) Sancionar e imponer las obligaciones resarcitorias distintas a las que son competencia del Tribunal de Justicia Administrativa de la Ciudad de México; así como sustanciar las INSTITUTO DE INVESTIGACIONES LEGISLATIVAS responsabilidades relativas a faltas administrativas graves, turnándolas a dicho Tribunal para su resolución;"
+      "ruta": "Artículo 61 › Fracción II",
+      "texto": "II. Sancionar e imponer las obligaciones resarcitorias distintas a las que son competencia del Tribunal de Justicia Administrativa de la Ciudad de México; así como sustanciar las responsabilidades relativas a faltas administrativas graves, turnándolas a dicho Tribunal para su resolución;"
     },
     {
-      "id": "061.c",
-      "tipo": "inciso",
-      "marca": "c",
+      "id": "061.III",
+      "tipo": "fraccion",
+      "marca": "III",
       "apartado": "",
       "fraccion": "",
-      "ruta": "Artículo 61 › inciso c)",
-      "texto": "c) Revisar y auditar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos, con especial atención a los contratos de obra pública, servicios, adquisiciones y la subrogación de funciones de los entes públicos en particulares, incluyendo sus términos contractuales y estableciendo un programa de auditorías especiales en los procesos electorales;"
+      "ruta": "Artículo 61 › Fracción III",
+      "texto": "III. Revisar y auditar el ingreso, egreso, manejo, custodia y aplicación de recursos públicos, con especial atención a los contratos de obra pública, servicios, adquisiciones y la subrogación de funciones de los entes públicos en particulares, incluyendo sus términos contractuales y estableciendo un programa de auditorías especiales en los procesos electorales;"
     },
     {
-      "id": "061.d",
-      "tipo": "inciso",
-      "marca": "d",
+      "id": "061.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
       "apartado": "",
       "fraccion": "",
-      "ruta": "Artículo 61 › inciso d)",
-      "texto": "d) Recibir, dar curso e informar el trámite recaído a las denuncias presentadas por la ciudadanía o por las Contralorías Ciudadanas en un plazo que no deberá exceder de veinte días hábiles; y"
+      "ruta": "Artículo 61 › Fracción IV",
+      "texto": "IV. Recibir, dar curso e informar el trámite recaído a las denuncias presentadas por la ciudadanía o por las Contralorías Ciudadanas en un plazo que no deberá exceder de veinte días hábiles; y"
     },
     {
-      "id": "061.e",
-      "tipo": "inciso",
-      "marca": "e",
+      "id": "061.V",
+      "tipo": "fraccion",
+      "marca": "V",
       "apartado": "",
       "fraccion": "",
-      "ruta": "Artículo 61 › inciso e)",
-      "texto": "e) Recurrir las determinaciones de la fiscalía y del Tribunal de Justicia Administrativa, siempre que contravengan el interés público, en los términos que disponga la ley."
+      "ruta": "Artículo 61 › Fracción V",
+      "texto": "V. Recurrir las determinaciones de la fiscalía y del Tribunal de Justicia Administrativa, siempre que contravengan el interés público, en los términos que disponga la ley."
     },
     {
-      "id": "061.2",
+      "id": "061.V.2",
       "tipo": "numeral",
       "marca": "2",
       "apartado": "",
-      "fraccion": "",
-      "ruta": "Artículo 61 › 2.",
-      "texto": "2. Los órganos internos de control serán independientes de los entes públicos ante las que ejerzan sus funciones y su titularidad será ocupada de manera rotativa. Las personas titulares de dichos órganos internos de control serán seleccionados y formados a través de un sistema de profesionalización y rendirán cuentas ante el Sistema Local Anticorrupción. La ley establecerá sus facultades e integración."
+      "fraccion": "V",
+      "ruta": "Artículo 61 › Fracción V › 2.",
+      "texto": "2. Los órganos internos de control serán independientes de los entes públicos ante las que ejerzan sus funciones y su titularidad será ocupada de manera rotativa. Las personas titulares de dichos órganos internos de control serán seleccionados y formados a través de un sistema de profesionalización y rendirán cuentas ante el Sistema Local Anticorrupción. La ley establecerá sus facultades e integración. Los titulares de los órganos internos de control de los organismos constitucionales autónomos serán designados de conformidad al artículo 46, apartado B, numeral 3 de esta Constitución."
+    },
+    {
+      "id": "061.V.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 61 › Fracción V › 3.",
+      "texto": "3. La secretaría encargada del control interno será la dependencia responsable de prevenir, investigar y sancionar las faltas administrativas en el ámbito de la administración pública. Su titular será designado por las dos terceras partes de las y los miembros presentes del Congreso de la Ciudad de México, a propuesta en terna de la o el Jefe de Gobierno y podrá ser removido por ésta o éste, de conformidad con las causas establecidas en la ley; el Congreso podrá objetar dicha determinación por las dos terceras partes de sus miembros presentes."
     },
     {
       "id": "061.p2",
@@ -84,51 +93,24 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 61 › párrafo 2",
-      "texto": "Los titulares de los órganos internos de control de los organismos constitucionales autónomos serán designados de conformidad al artículo 46, apartado B, numeral 3 de esta Constitución."
-    },
-    {
-      "id": "061.3",
-      "tipo": "numeral",
-      "marca": "3",
-      "apartado": "",
-      "fraccion": "",
-      "ruta": "Artículo 61 › 3.",
-      "texto": "3. La secretaría encargada del control interno será la dependencia responsable de prevenir, investigar y sancionar las faltas administrativas en el ámbito de la administración pública. Su titular será designado por las dos terceras partes de las y los miembros presentes del Congreso de la Ciudad de México, a propuesta en terna de la o el Jefe de Gobierno y podrá ser removido por ésta o éste, de conformidad con las causas establecidas en la ley; el Congreso podrá objetar dicha determinación por las dos terceras partes de sus miembros presentes."
-    },
-    {
-      "id": "061.p3",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "",
-      "fraccion": "",
-      "ruta": "Artículo 61 › párrafo 3",
       "texto": "Esta secretaría contará con un área de contralores ciudadanos que realizarán sus funciones de forma honorífica, por lo que no percibirán remuneración alguna; serán nombrados junto con el órgano interno de control y coadyuvarán en los procesos de fiscalización gozando de la facultad de impugnar las resoluciones suscritas por los contralores internos que afecten el interés público."
     },
     {
-      "id": "061.4",
+      "id": "061.V.4",
       "tipo": "numeral",
       "marca": "4",
       "apartado": "",
-      "fraccion": "",
-      "ruta": "Artículo 61 › 4.",
+      "fraccion": "V",
+      "ruta": "Artículo 61 › Fracción V › 4.",
       "texto": "4. La ley establecerá el procedimiento para determinar la suspensión, remoción y sanciones de las personas titulares de los órganos internos de control que incurran en responsabilidades administrativas o hechos de corrupción."
     },
     {
-      "id": "061.p4",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "",
-      "fraccion": "",
-      "ruta": "Artículo 61 › párrafo 4",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
-    },
-    {
-      "id": "061.5",
+      "id": "061.V.5",
       "tipo": "numeral",
       "marca": "5",
       "apartado": "",
-      "fraccion": "",
-      "ruta": "Artículo 61 › 5.",
+      "fraccion": "V",
+      "ruta": "Artículo 61 › Fracción V › 5.",
       "texto": "5. Cualquier ciudadana o ciudadano podrá denunciar hechos de corrupción y recurrir las resoluciones del órgano interno de control de conformidad con los requisitos que al efecto establezca la ley de la materia."
     }
   ]

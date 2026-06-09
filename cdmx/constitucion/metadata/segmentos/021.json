@@ -21,7 +21,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 21 › Apartado A",
-      "texto": "A. Disposiciones generales INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "A. Disposiciones generales"
     },
     {
       "id": "021.A.1",
@@ -105,15 +105,6 @@
       "texto": "9. El Gobierno de la Ciudad garantizará que la información catastral y registral sea estructurada, normalizada, vinculada y sistematizada en una institución única, conforme lo establezca la ley de la materia."
     },
     {
-      "id": "021.p2",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "A",
-      "fraccion": "",
-      "ruta": "Artículo 21 › Apartado A › párrafo 2",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
-    },
-    {
       "id": "021.B",
       "tipo": "apartado",
       "marca": "B",
@@ -193,15 +184,6 @@
       "fraccion": "",
       "ruta": "Artículo 21 › Apartado C › 1.",
       "texto": "1. El Presupuesto de Egresos de los Poderes, las alcaldías y de todo organismo autónomo; se sujetará a las previsiones de ingresos de la hacienda pública de la Ciudad en los términos de la Constitución Política de los Estados Unidos Mexicanos, de esta Constitución, la normatividad general y local aplicable y los lineamientos propios que deriven de su autonomía, en materia de disciplina financiera, ejercicio y control presupuestario."
-    },
-    {
-      "id": "021.p3",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "C",
-      "fraccion": "",
-      "ruta": "Artículo 21 › Apartado C › párrafo 3",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
     },
     {
       "id": "021.C.2",
@@ -291,7 +273,7 @@
       "apartado": "D",
       "fraccion": "I",
       "ruta": "Artículo 21 › Apartado D › Fracción I › inciso b)",
-      "texto": "b) Los recursos de aplicación automática que generen;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "b) Los recursos de aplicación automática que generen;"
     },
     {
       "id": "021.D.I.c",
@@ -336,7 +318,7 @@
       "apartado": "D",
       "fraccion": "II",
       "ruta": "Artículo 21 › Apartado D › Fracción II › inciso a)",
-      "texto": "a) Para la asignación del gasto público se considerará: población residente y flotante; población en situación de pobreza; marginación y rezago social;\n\nextensión territorial, áreas verdes y suelo de conservación; inversión en infraestructura, servicios públicos y equipamiento urbano, así como su mantenimiento;"
+      "texto": "a) Para la asignación del gasto público se considerará: población residente y flotante; población en situación de pobreza; marginación y rezago social; extensión territorial, áreas verdes y suelo de conservación; inversión en infraestructura, servicios públicos y equipamiento urbano, así como su mantenimiento;"
     },
     {
       "id": "021.D.II.b",
@@ -375,15 +357,6 @@
       "texto": "3. A este fondo, se le deberá destinar el monto equivalente al dos por ciento de lo que resulte de restar, al total de los ingresos de libre disposición, los recursos propios de los organismos, el gasto no programable del Gobierno de la Ciudad de México, y el presupuesto destinado a los organismos autónomos y de gobierno."
     },
     {
-      "id": "021.p4",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "D",
-      "fraccion": "",
-      "ruta": "Artículo 21 › Apartado D › párrafo 4",
-      "texto": "INSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
-    },
-    {
       "id": "021.D.II.4",
       "tipo": "numeral",
       "marca": "4",
@@ -402,12 +375,12 @@
       "texto": "5. Este fondo deberá ser transparente en su aplicación, con informes trimestrales sobre su ejercicio al concejo, al Congreso, a las instancias de auditoría correspondientes y a las y los ciudadanos."
     },
     {
-      "id": "021.p5",
+      "id": "021.p2",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "D",
       "fraccion": "",
-      "ruta": "Artículo 21 › Apartado D › párrafo 5",
+      "ruta": "Artículo 21 › Apartado D › párrafo 2",
       "texto": "En ningún caso los recursos de este fondo podrán transferirse a otros rubros o partidas de gasto."
     },
     {
@@ -471,7 +444,7 @@
       "apartado": "D",
       "fraccion": "III",
       "ruta": "Artículo 21 › Apartado D › Fracción III › inciso e)",
-      "texto": "e) Autorizar las adecuaciones presupuestarias, de conformidad con la ley;\n\nINSTITUTO DE INVESTIGACIONES LEGISLATIVAS"
+      "texto": "e) Autorizar las adecuaciones presupuestarias, de conformidad con la ley;"
     },
     {
       "id": "021.D.III.f",
@@ -519,12 +492,12 @@
       "texto": "4. Las alcaldías no podrán, en ningún caso, contraer directa o indirectamente obligaciones o empréstitos."
     },
     {
-      "id": "021.p6",
+      "id": "021.p3",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "D",
       "fraccion": "",
-      "ruta": "Artículo 21 › Apartado D › párrafo 6",
+      "ruta": "Artículo 21 › Apartado D › párrafo 3",
       "texto": "DE LA CIUDADANÍA Y EL EJERCICIO DEMOCRÁTICO DE LAS PERSONAS ORIGINARIAS Y DE LAS QUE HABITAN LA CIUDAD DE MÉXICO"
     }
   ]
