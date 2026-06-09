@@ -148,6 +148,10 @@ jobs:
         if: steps.url.outputs.skip == 'false' && steps.cambios.outputs.hay_cambios == 'true'
         uses: peter-evans/create-pull-request@v7
         with:
+          # Con un PAT (secret PR_TOKEN) el PR nace atribuido a un usuario real,
+          # así dispara `revisar-pr` (gate + resumen) como un PR humano. Si el
+          # secret no existe, cae al GITHUB_TOKEN (el PR se abre pero sin checks).
+          token: ${{ secrets.PR_TOKEN || github.token }}
           branch: reforma/${{ matrix.estado }}-deteccion-automatica
           base: main
           title: '🏛️ Posible reforma — ${{ matrix.estado }} (detección automática)'
