@@ -1,0 +1,54 @@
+{
+  "clave": "091",
+  "etiqueta": "Artículo 91º",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "091.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91º › párrafo 1",
+      "texto": "Los servidores públicos pueden incurrir en responsabilidad política, penal, administrativa, civil y las establecidas en la legislación en materia de disciplina financiera, que será determinada a través de:"
+    },
+    {
+      "id": "091.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91º › Fracción I",
+      "texto": "I. El juicio político;"
+    },
+    {
+      "id": "091.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91º › Fracción II",
+      "texto": "II. El procedimiento previsto en la legislación penal;"
+    },
+    {
+      "id": "091.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91º › Fracción III",
+      "texto": "III. El procedimiento administrativo; y"
+    },
+    {
+      "id": "091.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91º › Fracción IV",
+      "texto": "IV. El procedimiento ordinario."
+    }
+  ]
+}

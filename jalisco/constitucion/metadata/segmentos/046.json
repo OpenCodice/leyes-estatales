@@ -1,0 +1,27 @@
+{
+  "clave": "046",
+  "etiqueta": "Artículo 46º",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "046.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46º › párrafo 1",
+      "texto": "Para el despacho de los negocios del Poder Ejecutivo habrá un servidor público que se denominará Secretario General de Gobierno y varios que se denominarán secretarios del despacho del ramo que se les encomiende."
+    },
+    {
+      "id": "046.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46º › párrafo 2",
+      "texto": "Todas las disposiciones que el Gobernador del Estado emita en uso de sus facultades, deberán estar firmadas por el secretario de despacho a que el asunto corresponda, y sin este requisito no serán obedecidas."
+    }
+  ]
+}

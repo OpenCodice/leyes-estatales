@@ -1,0 +1,27 @@
+{
+  "clave": "032",
+  "etiqueta": "Artículo 32º",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "032.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32º › párrafo 1",
+      "texto": "Las iniciativas adquirirán el carácter de ley cuando sean aprobadas por el Congreso y promulgadas por el Ejecutivo."
+    },
+    {
+      "id": "032.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32º › párrafo 2",
+      "texto": "Si la ley no fija el día en que deba comenzar a observarse, será obligatoria desde el siguiente al en que se publique."
+    }
+  ]
+}
