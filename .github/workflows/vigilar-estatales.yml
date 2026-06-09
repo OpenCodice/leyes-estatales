@@ -78,6 +78,12 @@ jobs:
           else
             URL="$(python /tmp/extractor/scripts/resolver_pdf.py ${{ matrix.estado }})"
           fi
+          # Estados en vigilancia manual (resolver tipo "manual") devuelven vacío.
+          if [ -z "$URL" ]; then
+            echo "skip=true" >> "$GITHUB_OUTPUT"
+            echo "::notice::${{ matrix.estado }} en vigilancia manual; sin URL automática."
+            exit 0
+          fi
           echo "skip=false" >> "$GITHUB_OUTPUT"
           echo "url=$URL" >> "$GITHUB_OUTPUT"
           echo "::notice::${{ matrix.estado }} → $URL"

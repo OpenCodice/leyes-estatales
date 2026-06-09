@@ -54,8 +54,8 @@ del extractor, porque los congresos estatales no exponen una URL estable.
 
 | Estado | Cómo se resuelve | Vínculo |
 |--------|------------------|---------|
-| Jalisco | **índice** — el PDF lleva la fecha embebida (`…-DDMMYY.pdf`) y rota en cada reforma; se lee el "Listado Completo" y se toma el más reciente | [Listado Completo](https://congresoweb.congresojal.gob.mx/bibliotecavirtual/busquedasleyes/Listado%272.cfm) |
-| CDMX | **directo** — URL de nombre estable | [constitucion_politica_de_la_ciudad_de_mexico.pdf](https://www.congresocdmx.gob.mx/archivos/legislativas/constitucion_politica_de_la_ciudad_de_mexico.pdf) |
+| Jalisco | **índice** (auto) — el PDF lleva la fecha embebida (`…-DDMMYY.pdf`) y rota en cada reforma; se lee el "Listado Completo" y se toma el más reciente | [Listado Completo](https://congresoweb.congresojal.gob.mx/bibliotecavirtual/busquedasleyes/Listado%272.cfm) |
+| CDMX | **manual** (pendiente) — la URL estable es más limpia que el PDF del piloto, pero el perfil `cdmx` aún mis-segmenta su numeración; hasta afinarlo, se vigila a mano | [URL estable (pendiente)](https://www.congresocdmx.gob.mx/archivos/legislativas/constitucion_politica_de_la_ciudad_de_mexico.pdf) |
 
 > Mantén esta tabla al día: si un estado cambia su sitio, se ajusta el registro
 > `RESOLVERS` en `resolver_pdf.py` y se actualiza el vínculo de arriba.
