@@ -4,29 +4,29 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:5f4ae9bd31869b90",
+    "hash_texto": "sha256:8de8a8701ee43139",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Distritos electorales y representación",
+  "denominacion_comun": "Distritos electorales",
   "temas": [
+    "división territorial",
     "distritos electorales",
-    "votación mayoritaria",
     "representación proporcional",
-    "diputados",
-    "censo de población"
+    "votación mayoritaria",
+    "censo poblacional"
   ],
   "terminos_coloquiales": [
-    "cómo se eligen a los diputados",
+    "votaciones",
     "distritos para votar",
-    "representación en el Congreso",
-    "votación en México"
+    "cómo se eligen diputados",
+    "representación en el congreso"
   ],
-  "resumen": "Este artículo habla sobre cómo se dividen los distritos electorales para elegir a los diputados. Describe los principios de votación mayoritaria y representación proporcional, y menciona que se basarán en el censo de la población.",
+  "resumen": "Este artículo habla sobre cómo se forman los distritos electorales para elegir a los diputados y el método para repartirlos. También menciona que se puede hacer una sola circunscripción para la representación proporcional.",
   "preguntas_ejemplo": [
-    "¿Cómo se asignan los distritos electorales?",
-    "¿Qué criterios se utilizan para elegir a los diputados?",
-    "¿Qué es la representación proporcional?",
-    "¿Cómo influye el censo en las elecciones?",
-    "¿Qué es la votación mayoritaria relativa?"
+    "¿Cómo se dividen los distritos para las elecciones?",
+    "¿Qué es un distrito electoral?",
+    "¿Cómo se eligen los diputados en México?",
+    "¿Qué significa representación proporcional?",
+    "¿Qué datos se utilizan para formar los distritos?"
   ]
 }

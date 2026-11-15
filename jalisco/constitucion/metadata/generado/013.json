@@ -4,37 +4,32 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:5877d607f93eec63",
+    "hash_texto": "sha256:ab3a18643b883cc6",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Partidos Políticos",
   "temas": [
-    "personalidad jurídica",
-    "financiamiento",
     "participación ciudadana",
-    "candidaturas",
-    "violencia política",
-    "paridad de género",
-    "propaganda electoral",
-    "derechos políticos"
+    "financiamiento político",
+    "derechos políticos",
+    "igualdad de género",
+    "campañas electorales",
+    "medios de comunicación",
+    "sanciones electorales"
   ],
   "terminos_coloquiales": [
-    "partidos",
+    "partidos políticos",
+    "financiamiento de campañas",
     "elecciones",
-    "candidatos",
-    "dinero para campañas",
-    "votaciones",
-    "mujeres en política",
-    "campañas",
-    "promoción política"
+    "derechos de los ciudadanos",
+    "igualdad en elecciones"
   ],
-  "resumen": "El artículo habla sobre los partidos políticos, su derecho a existir, y cómo deben funcionar en la vida democrática, promoviendo la participación ciudadana y garantizando derechos políticos, especialmente para mujeres. También establece reglas sobre financiamiento y propaganda electoral.",
+  "resumen": "Este artículo regula la función y organización de los partidos políticos en México, garantizando la participación ciudadana y la igualdad de género en el proceso electoral. También establece normas sobre financiamiento y pautas para las campañas políticas.",
   "preguntas_ejemplo": [
-    "¿Qué son los partidos políticos?",
-    "¿Cómo se financian las campañas electorales?",
-    "¿Qué derechos tienen las mujeres en la política?",
-    "¿Cómo se forman los partidos políticos?",
-    "¿Qué se prohíbe en la propaganda electoral?",
-    "¿Qué pasa si un partido no respeta las leyes electorales?"
+    "¿Qué son los partidos políticos y qué funciones tienen?",
+    "¿Cómo se financian los partidos políticos en México?",
+    "¿Qué derechos tienen las mujeres en las elecciones?",
+    "¿Cuáles son las reglas para las campañas electorales?",
+    "¿Hay sanciones si un partido viola las reglas electorales?"
   ]
 }

@@ -4,36 +4,37 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:a144adbdeaaaad2d",
+    "hash_texto": "sha256:9e7d5c101ca744d9",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Gobierno Municipal",
+  "denominacion_comun": "Gobierno municipal",
   "temas": [
     "municipio libre",
     "Ayuntamiento",
     "elección popular",
     "paridad de género",
-    "candidaturas",
-    "funciones del Ayuntamiento",
-    "periodo de mandato",
-    "reelección"
+    "representación política",
+    "grupos vulnerables",
+    "reelección",
+    "funciones del Ayuntamiento"
   ],
   "terminos_coloquiales": [
     "gobierno local",
-    "alcaldía",
-    "candidatos a regidores",
-    "elecciones municipales",
+    "municipios",
     "presidente municipal",
-    "paridad en candidaturas",
-    "consejo municipal"
+    "elecciones municipales",
+    "candidaturas",
+    "candidatos",
+    "paridad",
+    "regidurías"
   ],
-  "resumen": "El artículo establece las bases para el gobierno municipal en Jalisco, incluyendo la elección de un Ayuntamiento que dirija el municipio. Se asegura la paridad de género en las candidaturas y se definen los periodos de mandato de los funcionarios municipales.",
+  "resumen": "El artículo establece que el municipio es la base del gobierno en Jalisco, gobernado por un Ayuntamiento electo por los ciudadanos. Se especifican las reglas sobre la composición de los ayuntamientos, la paridad de género en candidaturas y la duración de los cargos.",
   "preguntas_ejemplo": [
-    "¿Cómo se elige al presidente municipal?",
-    "¿Qué es el Ayuntamiento?",
-    "¿Qué normas hay sobre la paridad de género en las candidaturas?",
-    "¿Cuánto dura el mandato de un regidor?",
-    "¿Pueden los funcionarios ser reelectos?",
-    "¿Qué derechos tienen los municipios en Jalisco?"
+    "¿Cómo se elige a un presidente municipal?",
+    "¿Cuáles son las obligaciones de los partidos en las elecciones municipales?",
+    "¿Qué es la paridad de género en las candidaturas?",
+    "¿Cuánto tiempo duran en su cargo los miembros del Ayuntamiento?",
+    "¿Pueden los candidatos independientes ser reelegidos?",
+    "¿Qué se hace para incluir a grupos vulnerables en la política local?"
   ]
 }

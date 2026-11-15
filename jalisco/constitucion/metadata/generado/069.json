@@ -4,31 +4,32 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:f242f9e0ca02521b",
+    "hash_texto": "sha256:4c9c0ebdd5c57f30",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Magistrados electorales",
   "temas": [
     "elección de magistrados",
-    "duración en el cargo",
     "remuneración",
-    "reelección",
+    "responsabilidades",
+    "contratación pública",
     "vacantes",
-    "responsabilidades"
+    "mandato",
+    "ley electoral"
   ],
   "terminos_coloquiales": [
-    "cómo se eligen magistrados",
-    "cuánto tiempo sirven los magistrados",
-    "sueldos de magistrados",
-    "magistrados reelectos",
-    "qué pasa si hay vacantes"
+    "magistrados electorales",
+    "quién elige a los magistrados",
+    "sueldo de magistrados",
+    "responsabilidades de los magistrados",
+    "contratos con el gobierno"
   ],
-  "resumen": "El artículo establece cómo se eligen los magistrados electorales, su duración en el cargo y las condiciones bajo las cuales trabajan. También menciona que la ley local puede establecer normas adicionales sobre su funcionamiento.",
+  "resumen": "El artículo establece cómo se eligen los magistrados electorales y las condiciones de su mandato. Además, prohíbe que adquieran ciertos seguros con recursos públicos y detalla aspectos sobre su remuneración y responsabilidades.",
   "preguntas_ejemplo": [
     "¿Quién elige a los magistrados electorales?",
-    "¿Cuánto tiempo duran los magistrados en su puesto?",
-    "¿Los magistrados pueden ser reelectos?",
-    "¿Qué sucede si hay una vacante en el cargo?",
-    "¿Cuál es el salario de los magistrados electorales?"
+    "¿Cuánto ganan los magistrados electorales?",
+    "¿Pueden los magistrados ser reelectos?",
+    "¿Qué pasa si hay vacantes entre los magistrados?",
+    "¿Qué normas deben seguir los magistrados en su trabajo?"
   ]
 }
