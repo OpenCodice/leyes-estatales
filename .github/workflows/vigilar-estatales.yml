@@ -197,3 +197,31 @@ jobs:
             automatico
             ${{ steps.verificar.outputs.ok == 'false' && 'extraccion-sospechosa' || '' }}
           delete-branch: true
+
+  salud:
+    needs: vigilar
+    if: always()
+    runs-on: ubuntu-latest
+    permissions:
+      actions: write
+      issues: write
+    env:
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - name: Mantener activo el cron
+        run: gh api -X PUT "repos/$GITHUB_REPOSITORY/actions/workflows/vigilar-estatales.yml/enable"
+
+      - name: Abrir o actualizar un issue si falló
+        if: needs.vigilar.result == 'failure'
+        run: |
+          titulo="🚨 Falló: ${{ github.workflow }}"
+          url="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
+          n=$(gh issue list -R "$GITHUB_REPOSITORY" --state open \
+                --search "in:title \"$titulo\"" --json number -q '.[0].number')
+          if [ -n "$n" ]; then
+            gh issue comment "$n" -R "$GITHUB_REPOSITORY" --body "Volvió a fallar: $url"
+          else
+            gh issue create -R "$GITHUB_REPOSITORY" --title "$titulo" \
+              --assignee danielcardeenas \
+              --body "El workflow programado falló y necesita atención: $url"
+          fi
