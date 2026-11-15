@@ -22,7 +22,7 @@ Complementa al repo federal
     └── metadata/                 ← capa 3: índice derivado, regenerable
         ├── articulos.json        ·  índice + versión + fuente
         ├── reformas.json         ·  mapa reforma → artículos
-        ├── pasajes.jsonl         ·  bloques citables para el RAG (con `ambito`)
+        ├── pasajes.jsonl         ·  bloques citables (con `ambito`)
         └── segmentos/NNN.json    ·  artículo descompuesto en bloques
 ```
 
@@ -69,20 +69,6 @@ python -m extractor build \
 python -m extractor validar --out ../leyes-estatales/jalisco/constitucion --perfil jalisco
 ```
 
-## Enriquecimiento (capa generada, no canónica)
-
-`metadata/generado/NNN.json` es metadata de búsqueda generada por LLM (temas,
-términos coloquiales, preguntas) para mejorar el *recall* del RAG. **No es texto
-oficial ni fuente de cita**; está cuarentenada y se regenera por hash solo
-cuando cambia el texto del artículo.
-
-```bash
-# desde constitucion-extractor (requiere OPENAI_API_KEY)
-python -m extractor enriquecer \
-  --pdf ../leyes-estatales/jalisco/constitucion/fuente/constitucion.pdf \
-  --out ../leyes-estatales/jalisco/constitucion --perfil jalisco
-```
-
 ## Automatización (GitHub Actions)
 
 Los workflows en `.github/workflows/` iteran los estados presentes (matriz/loop
@@ -90,13 +76,13 @@ Los workflows en `.github/workflows/` iteran los estados presentes (matriz/loop
 
 | Workflow | Disparo | Qué hace |
 |----------|---------|----------|
-| `revisar-pr.yml` | cada PR | valida invariantes por estado (GATE) + resumen LLM de los estados que cambiaron |
-| `enriquecer.yml` | manual | (re)genera `metadata/generado/` de uno o todos los estados |
-| `vigilar-estatales.yml` | lunes / manual | resuelve la URL vigente (`resolver_pdf.py`), regenera y abre PR si hubo reforma |
-| `notificar-web.yml` | push a `main` | avisa a `constitucion-web` para reingestar el namespace estatal |
+| `vigilar-estatales.yml` | lunes / manual | resuelve la URL vigente (`resolver_pdf.py`), regenera, verifica cada artículo cambiado contra el PDF con un agente y abre PR |
+| `revisar-pr.yml` | cada PR | valida invariantes por estado (GATE) y fusiona solo el PR que llegó verificado |
 
 El watcher es **autónomo**: cada lunes resuelve el PDF vigente de cada estado y,
-si el texto cambió, abre un PR (uno por estado). Si un estado cambia su sitio y
+si el texto cambió, abre un PR (uno por estado) que se fusiona solo cuando la
+extracción quedó verificada contra el PDF. El título del commit distingue una
+**reforma** de una **corrección de extracción**. Si un estado cambia su sitio y
 el resolver falla, ese job avisa en rojo y puedes relanzarlo a mano con los
 inputs `estado` + `pdf_url`.
 
@@ -104,5 +90,5 @@ inputs `estado` + `pdf_url`.
 
 | Secret | Para qué | Workflows |
 |--------|----------|-----------|
-| `OPENAI_API_KEY` | enriquecimiento por LLM | `enriquecer`, `vigilar-estatales`, `revisar-pr` |
-| `WEB_DISPATCH_TOKEN` | PAT con scope `repo` sobre `constitucion-web` para el `repository_dispatch` | `notificar-web` |
+| `CLAUDE_CODE_OAUTH_TOKEN` | token de suscripción del agente que verifica y repara | `vigilar-estatales` |
+| `PR_TOKEN` | PAT que abre y fusiona los PR y publica arreglos en el extractor | `vigilar-estatales`, `revisar-pr` |
