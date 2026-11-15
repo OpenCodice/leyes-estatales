@@ -4,33 +4,30 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:c775a71c617e9e6c",
+    "hash_texto": "sha256:088867a6f2289f09",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Relación entre poderes",
   "temas": [
     "Colaboración entre poderes",
     "Gobierno de coalición",
-    "Solicitudes de información",
-    "Comparecencias",
-    "Exhortos",
-    "Opiniones de funcionarios",
+    "Transparencia en la información",
+    "Toma de decisiones",
     "Oposición parlamentaria"
   ],
   "terminos_coloquiales": [
-    "Cómo se comunican el Congreso y el Gobierno",
-    "Preguntas al Gobierno",
-    "Reuniones del Congreso",
-    "Gobiernos de coalición",
-    "Funcionarios en el Congreso",
-    "Oposición en el Congreso"
+    "Cómo se comunican los poderes",
+    "Gobierno de coalición",
+    "Preguntas al gobierno",
+    "Compromisos de partidos",
+    "Críticas al gobierno"
   ],
-  "resumen": "Este artículo trata sobre cómo el Congreso de la Ciudad de México puede solicitar información al Gobierno y cómo se forman los gobiernos de coalición. También menciona los plazos para responder solicitudes y la importancia de la colaboración entre los poderes.",
+  "resumen": "Este artículo habla de cómo el Congreso de la Ciudad de México puede solicitar información al Poder Ejecutivo y cómo pueden trabajar juntos. También explica cómo se puede formar un gobierno de coalición entre partidos para tomar decisiones y garantizar estabilidad política.",
   "preguntas_ejemplo": [
-    "¿Cómo puede el Congreso pedir información al Gobierno?",
+    "¿Cómo puede el Congreso pedir información al gobierno?",
     "¿Qué es un gobierno de coalición?",
-    "¿Cuánto tiempo tiene el Gobierno para responder al Congreso?",
-    "¿Los funcionarios pueden acudir al Congreso?",
-    "¿Qué hacen los diputados cuando están en oposición?"
+    "¿Cuáles son los plazos para responder a solicitudes del Congreso?",
+    "¿Qué significa estar en oposición parlamentaria?",
+    "¿Puede el Jefe de Gobierno disolver su gabinete?"
   ]
 }

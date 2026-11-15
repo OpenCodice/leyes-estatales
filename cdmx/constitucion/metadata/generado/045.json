@@ -4,30 +4,32 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:a9409b3c74d43e72",
+    "hash_texto": "sha256:bfd27b8a6826b3a0",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Proceso penal",
+  "denominacion_comun": "Sistema de justicia penal",
   "temas": [
-    "justicia penal",
+    "proceso penal",
+    "principios del juicio",
+    "derecho a un juicio justo",
+    "atención a víctimas",
     "debido proceso",
-    "derechos de víctimas",
-    "juicio oral",
-    "principios legales"
+    "presunción de inocencia"
   ],
   "terminos_coloquiales": [
-    "proceso penal en Ciudad de México",
-    "juicio justo",
+    "juicio penal",
     "derechos de las víctimas",
-    "justicia rápida",
-    "qué es un juicio oral"
+    "proceso judicial",
+    "qué es el debido proceso",
+    "principios del juicio",
+    "atención a las víctimas"
   ],
-  "resumen": "El artículo establece que en la Ciudad de México el proceso penal será de manera acusatoria, adversarial y oral, garantizando principios como el debido proceso y los derechos de las víctimas. También menciona la creación de una comisión para apoyar a las víctimas con atención y recursos adecuados.",
+  "resumen": "El artículo establece que el proceso penal en la Ciudad de México es acusatorio y oral, con varios principios que garantizan un juicio justo. También menciona la creación de una comisión para atender a las víctimas, asegurando que se respeten sus necesidades y derechos.",
   "preguntas_ejemplo": [
     "¿Cómo funciona el proceso penal en la Ciudad de México?",
-    "¿Qué derechos tienen las víctimas en un juicio?",
-    "¿Qué es el juicio oral?",
-    "¿Cuáles son los principios del debido proceso?",
-    "¿Qué garantiza la Constitución en el sistema de justicia penal?"
+    "¿Cuáles son mis derechos en un juicio penal?",
+    "¿Qué es la atención a víctimas en el sistema de justicia?",
+    "¿Qué significa el debido proceso?",
+    "¿Qué principios rigen los juicios penales?"
   ]
 }

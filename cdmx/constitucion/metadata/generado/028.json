@@ -4,31 +4,31 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:86caf6f57b47aa57",
+    "hash_texto": "sha256:a84459c293a2971d",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Poder Público en la Ciudad de México",
+  "denominacion_comun": "Poder público en la Ciudad de México",
   "temas": [
-    "régimen de gobierno",
-    "poderes del estado",
+    "gobierno",
     "división de poderes",
-    "republicano",
-    "democrático",
-    "laico"
+    "representación",
+    "democracia",
+    "laicismo"
   ],
   "terminos_coloquiales": [
-    "cómo se organiza el gobierno",
-    "qué son los poderes del estado",
-    "división de poder",
-    "gobierno en la Ciudad de México",
-    "poderes públicos"
+    "cómo funciona el gobierno",
+    "división de poderes en México",
+    "qué es el gobierno democrático",
+    "gobierno laico",
+    "poderes del estado"
   ],
-  "resumen": "El Artículo 28 establece que la Ciudad de México tendrá un gobierno republicano, democrático y laico, y que el poder público se divide en Legislativo, Ejecutivo y Judicial. Estos poderes no pueden estar concentrados en una sola persona o entidad.",
+  "resumen": "El artículo establece que la Ciudad de México tiene un gobierno republicano, que se divide en poderes Legislativo, Ejecutivo y Judicial. Además, asegura que no puede haber concentración de poderes en una sola persona o entidad.",
   "preguntas_ejemplo": [
-    "¿Cómo está organizado el gobierno de la Ciudad de México?",
-    "¿Qué poderes existen en la Ciudad de México?",
+    "¿Cómo se organiza el gobierno de la Ciudad de México?",
+    "¿Qué es la división de poderes?",
     "¿Qué significa que el gobierno sea laico?",
-    "¿Por qué no se pueden mezclar los poderes en una sola persona?",
+    "¿Cuáles son los poderes del estado en la Ciudad de México?",
+    "¿Puede una persona tener más de un poder?",
     "¿Qué tipo de gobierno tiene la Ciudad de México?"
   ]
 }

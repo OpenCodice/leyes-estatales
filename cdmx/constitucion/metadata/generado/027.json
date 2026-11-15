@@ -4,35 +4,33 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:f4b8d200ed667b01",
+    "hash_texto": "sha256:8aa08cc2b1434285",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Candidaturas y Partidos Políticos",
   "temas": [
-    "Candidaturas independientes",
+    "Candidaturas sin partido",
+    "Participación ciudadana",
     "Partidos políticos",
     "Financiamiento electoral",
-    "Participación ciudadana",
-    "Candidaturas paritarias",
-    "Agrupaciones políticas",
-    "Nulidades electorales",
-    "Violencia política de género"
+    "Paridad de género",
+    "Derechos políticos",
+    "Agrupaciones políticas"
   ],
   "terminos_coloquiales": [
-    "Candidaturas sin partido",
-    "Partidos políticos",
-    "Dinero en campañas",
-    "Voto libre",
-    "Mujeres en política",
-    "Grupos ciudadanos",
-    "Elecciones nulas"
+    "¿Cómo participar en elecciones sin partido?",
+    "Candidaturas independientes",
+    "¿Qué rol tienen los partidos políticos?",
+    "Financiamiento de campañas",
+    "Igualdad de género en elecciones",
+    "¿Qué son agrupaciones políticas?"
   ],
-  "resumen": "El artículo establece que los ciudadanos pueden postularse como candidatos sin ser parte de un partido político, siempre que consigan suficientes firmas. También regula los derechos y obligaciones de los partidos políticos y busca garantizar la participación igualitaria de géneros en las candidaturas.",
+  "resumen": "Este artículo trata sobre cómo los ciudadanos pueden presentar candidaturas sin necesidad de un partido político y establece las normas para la formación y funcionamiento de los partidos. También asegura la participación equitativa de género y el acceso al financiamiento para todas las candidaturas.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo postularme sin un partido?",
-    "¿Qué reglas hay para los partidos políticos?",
-    "¿Qué se necesita para hacer una campaña electoral?",
-    "¿Qué pasa si hay irregularidades en las elecciones?",
-    "¿Cómo se garantiza la participación de mujeres en las elecciones?"
+    "¿Puedo postularme sin un partido político?",
+    "¿Qué requisitos necesito para formar un partido?",
+    "¿Cómo se garantiza la igualdad de género en las elecciones?",
+    "¿Qué son las agrupaciones políticas locales?",
+    "¿Cómo se financian las campañas electorales?"
   ]
 }

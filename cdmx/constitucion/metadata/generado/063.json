@@ -4,34 +4,34 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:66f2e0459d3c6b3e",
+    "hash_texto": "sha256:57e525e17cd723b6",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Sistema Anticorrupción",
   "temas": [
-    "corrupción",
-    "fiscalización",
-    "denuncias ciudadanas",
+    "prevención de corrupción",
+    "fiscalización de recursos",
+    "responsabilidades administrativas",
     "transparencia",
-    "rendición de cuentas",
-    "control de recursos",
-    "responsabilidades administrativas"
+    "participación ciudadana",
+    "informes sobre corrupción",
+    "denuncias de corrupción",
+    "control interno"
   ],
   "terminos_coloquiales": [
-    "combatir la corrupción",
+    "cómo se combate la corrupción",
+    "quién se encarga de la corrupción",
+    "informes de corrupción",
+    "qué hacer si veo corrupción",
     "denunciar corrupción",
-    "responsabilidades de funcionarios",
-    "control del dinero público",
-    "transparencia en el gobierno",
-    "informar sobre corrupción"
+    "participación ciudadana en corrupción"
   ],
-  "resumen": "El artículo establece un Sistema Anticorrupción en la Ciudad de México que coordina diversas autoridades para prevenir y sancionar la corrupción, así como controlar y fiscalizar recursos públicos. También se menciona la participación ciudadana en la denuncia y seguimiento de casos de corrupción.",
+  "resumen": "Este artículo establece un sistema en la Ciudad de México para prevenir y combatir la corrupción a través de la coordinación de diversas autoridades. Además, se busca fomentar la participación de la ciudadanía y garantizar la protección a quienes denuncien actos de corrupción.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo denunciar un caso de corrupción?",
-    "¿Qué hace el Sistema Anticorrupción en la Ciudad de México?",
+    "¿Qué es el Sistema Anticorrupción en la Ciudad de México?",
+    "¿Cómo se puede denunciar un hecho de corrupción?",
     "¿Quiénes forman parte del Comité Coordinador del Sistema Anticorrupción?",
     "¿Qué funciones tiene el Comité de Participación Ciudadana?",
-    "¿Cómo se protegen a los denunciantes de corrupción?",
-    "¿Qué políticas se están implementando para combatir la corrupción?"
+    "¿Cómo protege el sistema a los denunciantes de corrupción?"
   ]
 }
