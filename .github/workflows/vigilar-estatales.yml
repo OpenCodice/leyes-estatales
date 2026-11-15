@@ -234,6 +234,7 @@ jobs:
             automatico
             ${{ steps.veredicto.outputs.ok == 'false' && 'extraccion-sospechosa' || '' }}
             ${{ steps.veredicto.outputs.ok == 'true' && 'verificado' || '' }}
+            ${{ steps.agente.outputs.tipo == 'correccion' && 'correccion-extraccion' || '' }}
           assignees: ${{ steps.veredicto.outputs.ok == 'false' && 'danielcardeenas' || '' }}
           delete-branch: true
 
