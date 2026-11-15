@@ -4,33 +4,35 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:ccc5607165472fd2",
+    "hash_texto": "sha256:7f8db2443f336c71",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Función pública y corrupción",
+  "denominacion_comun": "Funcion pública y transparencia",
   "temas": [
+    "buena administración",
+    "gobierno abierto",
     "transparencia",
     "rendición de cuentas",
-    "derechos laborales",
+    "acceso a la información",
     "austeridad",
-    "profesionalización",
-    "evaluación del desempeño",
-    "acceso a la información"
+    "evaluación del servicio público",
+    "profesionalización"
   ],
   "terminos_coloquiales": [
-    "gobierno abierto",
-    "servidores públicos",
-    "trabajo del gobierno",
+    "corrupción",
+    "gobierno honesto",
+    "acceso a servicios públicos",
+    "evaluación de servidores públicos",
     "sueldo de funcionarios",
-    "lucha contra la corrupción",
-    "derechos de los trabajadores"
+    "buen manejo del gobierno"
   ],
-  "resumen": "Este artículo establece garantías para una función pública eficiente y transparente, incluyendo la correcta administración de recursos y la obligación de rendir cuentas. También asegura derechos laborales para los servidores públicos y prohíbe incentivos no establecidos en la ley.",
+  "resumen": "Este artículo garantiza un gobierno honesto y transparente que busca el interés público. Establece principios de austeridad y la obligación de los servidores públicos de rendir cuentas sobre su desempeño y remuneraciones.",
   "preguntas_ejemplo": [
-    "¿Qué derechos tienen los servidores públicos en su trabajo?",
-    "¿Cómo se garantiza la transparencia en el gobierno?",
-    "¿Qué medidas se toman para evitar la corrupción?",
-    "¿Qué significa el gobierno abierto?",
-    "¿Cómo se evalúa el desempeño de los funcionarios?"
+    "¿Cómo se asegura la transparencia en el gobierno?",
+    "¿Qué derechos tienen los servidores públicos?",
+    "¿Qué principios deben seguir los funcionarios públicos?",
+    "¿Cómo se evalúa el desempeño de los servidores públicos?",
+    "¿Qué es el gobierno abierto?",
+    "¿Cuáles son las normas de administración pública?"
   ]
 }

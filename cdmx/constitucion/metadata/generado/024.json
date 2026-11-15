@@ -4,29 +4,31 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:2a24ec8ab24d59b1",
+    "hash_texto": "sha256:a54023bf2ae07b07",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Ciudadanía y Sufragio",
+  "denominacion_comun": "Ciudadanía",
   "temas": [
-    "ciudadanía",
     "sufragio",
     "elecciones",
-    "participación ciudadana"
+    "participación ciudadana",
+    "derechos cívicos",
+    "educación cívica"
   ],
   "terminos_coloquiales": [
-    "derechos de los ciudadanos",
+    "derecho a votar",
+    "participar en elecciones",
+    "ciudadanía",
     "voto",
-    "elecciones libres",
-    "participación en la democracia"
+    "derechos de los jóvenes"
   ],
-  "resumen": "El artículo establece que la ciudadanía permite a las personas ejercer derechos y participar en elecciones de manera libre y secreta. También garantiza que los jóvenes puedan involucrarse en la toma de decisiones y fomenta la participación ciudadana a través de espacios y tecnologías.",
+  "resumen": "El artículo establece el vínculo de la ciudadanía y el derecho al sufragio en México, asegurando que todos los ciudadanos tienen derecho a participar en elecciones. También promueve la educación cívica y la participación de los jóvenes en decisiones públicas.",
   "preguntas_ejemplo": [
-    "¿Qué significa ser ciudadano en México?",
-    "¿Cómo funciona el derecho al voto?",
-    "¿Los jóvenes pueden participar en elecciones?",
-    "¿Qué es la democracia participativa?",
-    "¿Cuáles son mis derechos como ciudadano?",
-    "¿Cómo puedo involucrarme en la toma de decisiones en mi comunidad?"
+    "¿Qué es la ciudadanía?",
+    "¿Cómo puedo participar en las elecciones?",
+    "¿Cuáles son mis derechos al votar?",
+    "¿Qué dice la ley sobre la participación de los jóvenes en política?",
+    "¿Qué implica el sufragio universal?",
+    "¿Puedo acceder a un cargo público siendo ciudadano?"
   ]
 }
