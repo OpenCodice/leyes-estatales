@@ -4,34 +4,35 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:aa88bc4ee132f831",
+    "hash_texto": "sha256:95978ea8d26cb96f",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Hacienda Pública",
   "temas": [
-    "recursos públicos",
+    "ingresos",
+    "egresos",
     "presupuesto",
-    "contribuciones",
-    "gasto público",
+    "recursos fiscales",
     "transparencia",
     "deuda pública",
-    "alcaldías",
-    "finanzas públicas"
+    "gobierno abierto",
+    "contribuciones"
   ],
   "terminos_coloquiales": [
-    "dinero de la ciudad",
+    "dinero del gobierno",
     "cómo se gasta el presupuesto",
-    "impuestos de la ciudad",
-    "aportes del gobierno",
-    "cómo funcionan las alcaldías",
-    "deudas de la ciudad"
+    "impuestos",
+    "ingresos de la ciudad",
+    "deuda de la ciudad",
+    "información pública",
+    "recursos públicos"
   ],
-  "resumen": "El artículo establece cómo se organiza y maneja la Hacienda Pública en la Ciudad de México, asegurando la transparencia y el uso adecuado de los recursos. También habla de cómo las alcaldías distribuyen y utilizan el presupuesto para mejorar la vida de sus habitantes.",
+  "resumen": "Este artículo establece cómo se organiza la hacienda pública en la Ciudad de México, abarcando los ingresos y egresos, así como los principios de transparencia y responsabilidad en su administración. También menciona la capacidad del gobierno para endeudarse y las bases para la asignación de recursos a las alcaldías.",
   "preguntas_ejemplo": [
     "¿Cómo se financia la Ciudad de México?",
-    "¿Qué reglas hay sobre el gasto del gobierno local?",
-    "¿Cómo se distribuyen los recursos entre las alcaldías?",
-    "¿Qué principios rigen la hacienda pública?",
-    "¿Pueden las alcaldías pedir dinero prestado?"
+    "¿Cuáles son los principios que rigen el uso del dinero público?",
+    "¿Qué información deben compartir las autoridades sobre el presupuesto?",
+    "¿Puede la ciudad contraer deudas?",
+    "¿Cómo se distribuyen los recursos entre las alcaldías?"
   ]
 }

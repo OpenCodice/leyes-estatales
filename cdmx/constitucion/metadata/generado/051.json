@@ -4,31 +4,34 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:b43664043e911f73",
+    "hash_texto": "sha256:fb07c09191b74120",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Defensoría Pública",
   "temas": [
-    "asistencia legal",
-    "defensa pública",
+    "asistencia legal gratuita",
     "derecho a la defensa",
-    "justicia gratuita",
+    "justicia",
+    "defensores públicos",
+    "organismo autónomo",
     "derechos humanos",
     "mediación",
-    "organismo autónomo"
+    "capacitación de defensores"
   ],
   "terminos_coloquiales": [
-    "abogados gratis",
-    "defensores públicos",
+    "abogados gratuitos",
+    "defensores legales",
     "ayuda legal",
-    "justicia para todos"
+    "justicia para todos",
+    "cómo conseguir un abogado",
+    "defensa penal"
   ],
-  "resumen": "El Instituto de Defensoría Pública ofrece asistencia gratuita de abogados para garantizar el derecho a la defensa en diversos temas legales. Además, se encarga de capacitar a los defensores y de velar por los derechos humanos en el proceso judicial.",
+  "resumen": "El artículo establece que el Instituto de Defensoría Pública proporciona asistencia jurídica gratuita a quienes lo necesiten. También garantiza el derecho a la defensa en casos penales y regula el funcionamiento de este organismo autónomo.",
   "preguntas_ejemplo": [
-    "¿Cómo puedo obtener un abogado gratis?",
-    "¿Qué hace el Instituto de Defensoría Pública?",
-    "¿Tienen derecho a defensa todas las personas?",
-    "¿Qué tipos de casos pueden atender los defensores públicos?",
-    "¿Qué es la justicia restaurativa?"
+    "¿Dónde puedo encontrar un abogado gratuito?",
+    "¿Qué es la defensoría pública?",
+    "¿Cómo funciona la defensa legal en casos penales?",
+    "¿Qué derechos tengo si no puedo pagar un abogado?",
+    "¿Cómo se elige al director del Instituto de Defensoría Pública?"
   ]
 }

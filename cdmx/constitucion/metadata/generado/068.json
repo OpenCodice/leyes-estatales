@@ -4,33 +4,32 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:e97a75c69872a4c1",
+    "hash_texto": "sha256:e00b0a938da17175",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Régimen de capitalidad",
+  "denominacion_comun": "Capitalidad de la Ciudad de México",
   "temas": [
     "Ciudad de México",
     "capital de la República",
     "Poderes de la Unión",
-    "cooperación con la Federación",
-    "diplomacia",
-    "recursos federales",
-    "patrimonio de la Federación"
+    "cooperación federal",
+    "representaciones diplomáticas",
+    "patrimonio de la Federación",
+    "recursos de la Ciudad"
   ],
   "terminos_coloquiales": [
-    "gobierno de la Ciudad de México",
-    "poderes federales",
-    "ayuda del gobierno",
-    "acuerdos con la Federación",
-    "dinero de la capital",
-    "bienestar del patrimonio"
+    "capital del país",
+    "cómo se cuida la Ciudad de México",
+    "acuerdos entre la Ciudad y la Federación",
+    "responsabilidades de la capital",
+    "dinero que recibe la ciudad"
   ],
-  "resumen": "Este artículo establece que la Ciudad de México, como capital del país, debe garantizar las condiciones para que los poderes federales funcionen. También menciona que las autoridades locales deben colaborar con la Federación y cuidar las representaciones diplomáticas y el patrimonio federal en la ciudad.",
+  "resumen": "La Ciudad de México debe garantizar que los poderes federales puedan ejercer sus funciones. Además, las autoridades locales deben colaborar con el gobierno federal para cuidar las instalaciones diplomáticas y el patrimonio de la Federación en la ciudad.",
   "preguntas_ejemplo": [
-    "¿Qué responsabilidades tiene la Ciudad de México como capital?",
-    "¿Cómo colabora la Ciudad de México con el gobierno federal?",
-    "¿Quién cuida los bienes del gobierno en la Ciudad de México?",
-    "¿De dónde recibe recursos la Ciudad de México?",
-    "¿Qué acuerdos pueden hacer las autoridades locales con la Federación?"
+    "¿Qué se espera de la Ciudad de México como capital?",
+    "¿Cómo protege la Ciudad los bienes de la Federación?",
+    "¿Qué recursos recibe la Ciudad de México y cómo se usan?",
+    "¿Qué papel tiene la Ciudad de México en la cooperación con la Federación?",
+    "¿Cómo se manejan los acuerdos entre la Ciudad y el gobierno federal?"
   ]
 }
