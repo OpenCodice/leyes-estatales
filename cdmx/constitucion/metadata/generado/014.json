@@ -4,31 +4,31 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:98ac1e3708eef401",
+    "hash_texto": "sha256:c1f6dd3526ea4ed6",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Derechos de seguridad urbana",
+  "denominacion_comun": "Derecho a la seguridad",
   "temas": [
     "seguridad urbana",
     "protección civil",
     "atención a desastres",
     "prevención de la violencia",
     "convivencia pacífica",
-    "políticas públicas"
+    "políticas públicas de seguridad"
   ],
   "terminos_coloquiales": [
-    "estar seguro en la ciudad",
+    "ciudad segura",
     "protección en desastres",
-    "vivir sin miedo",
-    "prevención de delitos",
-    "seguridad en la comunidad"
+    "seguridad en la comunidad",
+    "seguridad personal",
+    "prevención del delito"
   ],
-  "resumen": "Todas las personas tienen derecho a vivir en un lugar seguro y recibir protección en caso de desastres o accidentes. Además, se busca promover la seguridad ciudadana y la prevención de la violencia.",
+  "resumen": "Todas las personas tienen derecho a vivir en un entorno seguro y a recibir protección en caso de desastres o accidentes. Además, se garantiza la convivencia pacífica y la protección contra la violencia y el delito.",
   "preguntas_ejemplo": [
-    "¿Qué derechos tengo para estar seguro en mi ciudad?",
-    "¿Cómo me protegen en caso de un desastre?",
-    "¿Qué se está haciendo para prevenir la violencia?",
-    "¿Qué debo hacer si siento que no estoy seguro en mi comunidad?",
-    "¿Cómo se protege a las personas ante delitos?"
+    "¿Qué derechos tengo en caso de un desastre natural?",
+    "¿Cómo me protege el gobierno de la violencia en mi ciudad?",
+    "¿Qué se hace para asegurar la seguridad en la comunidad?",
+    "¿Cuáles son las políticas para prevenir delitos?",
+    "¿Qué hace la autoridad en caso de fallas de infraestructura?"
   ]
 }

@@ -4,31 +4,31 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:996eb9c848373a05",
+    "hash_texto": "sha256:a8a346ff8f920aaf",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Responsabilidad patrimonial",
   "temas": [
-    "responsabilidad de la Ciudad de México",
+    "daños",
     "indemnización",
-    "daños a particulares",
-    "reparación del daño",
-    "actos administrativos irregulares",
-    "procedimientos contra servidores públicos"
+    "ciudad de México",
+    "entes públicos",
+    "responsabilidad",
+    "reparación de daños"
   ],
   "terminos_coloquiales": [
-    "daños que causa el gobierno",
-    "dinero por daños",
-    "qué hacer si el gobierno daña",
-    "reparación de daño por el gobierno",
-    "indemnización por mala gestión"
+    "compensación por daños",
+    "responsabilidad del gobierno",
+    "reclamo de indemnización",
+    "daños a propiedad",
+    "falta de atención del gobierno"
   ],
-  "resumen": "Este artículo establece que la Ciudad de México y sus entidades son responsables por los daños que causen a los particulares debido a su mala gestión. Los ciudadanos tienen derecho a ser indemnizados y se tomarán medidas contra los servidores públicos responsables.",
+  "resumen": "Este artículo establece que la Ciudad de México y sus entes deben reparar los daños que causen en bienes o derechos de los particulares. Además, los afectados tienen derecho a recibir indemnización y el gobierno debe actuar contra los funcionarios responsables.",
   "preguntas_ejemplo": [
-    "¿Qué hago si el gobierno me causa un daño?",
-    "¿Puedo exigir una compensación por daños del gobierno?",
-    "¿Cómo se determina la responsabilidad del gobierno?",
-    "¿Qué se hace si un servidor público comete un error?",
-    "¿El gobierno me tiene que pagar si me afecta su decisión?"
+    "¿Qué debo hacer si el gobierno daña mi propiedad?",
+    "¿Tengo derecho a una compensación si me perjudican?",
+    "¿Cómo se determina la responsabilidad del gobierno por daños?",
+    "¿Qué pasos sigue el gobierno para reparar daños causados?",
+    "¿Puedo reclamar si un servidor público actúa de forma negligente?"
   ]
 }
