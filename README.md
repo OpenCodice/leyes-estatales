@@ -10,9 +10,7 @@ versionado en git para dejar un **rastro auditable de las reformas**.
 > periódico oficial del estado.
 
 Complementa al repo federal
-[`constitucion-mexicana`](https://github.com/OpenCodice/constitucion-mexicana):
-juntos alimentan el RAG, que responde **federal + tu estado en una sola
-respuesta**.
+[`constitucion-mexicana`](https://github.com/OpenCodice/constitucion-mexicana).
 
 ## Estructura: `{estado}/{ley}/`
 

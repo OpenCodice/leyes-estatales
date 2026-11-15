@@ -177,15 +177,6 @@ jobs:
             echo "Sin cambios: el texto vigente coincide con el repo."
           fi
 
-      - name: Enriquecer artículos cambiados (opcional, best-effort)
-        if: steps.url.outputs.skip == 'false' && steps.cambios.outputs.hay_cambios == 'true' && env.OPENAI_API_KEY != ''
-        continue-on-error: true
-        run: |
-          pip install openai
-          PYTHONPATH=/tmp/extractor python -m extractor enriquecer \
-            --pdf /tmp/estatal.pdf --out "$GITHUB_WORKSPACE/${{ matrix.dir }}" \
-            --perfil "${{ matrix.perfil }}" --proveedor openai
-
       - name: Actualizar el PDF fuente (solo si hubo reforma)
         if: steps.url.outputs.skip == 'false' && steps.cambios.outputs.hay_cambios == 'true'
         run: cp /tmp/estatal.pdf "$GITHUB_WORKSPACE/${{ matrix.dir }}/fuente/constitucion.pdf"

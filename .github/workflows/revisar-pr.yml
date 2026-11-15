@@ -1,10 +1,8 @@
 name: Revisar PR de reforma (estatales)
 
-# Se ejecuta en cada PR. Dos partes, igual que el federal pero iterando estados:
-#   validar  — invariantes deterministas POR ESTADO. Es el GATE: si falla en
-#              algún estado, no se debe mergear (actívalo como required check).
-#   resumir  — comentario asistido por LLM, solo para los estados cuyo articulado
-#              cambió en el PR. Es apoyo de revisión, no decide.
+# Se ejecuta en cada PR.
+#   validar  — invariantes deterministas. Es el GATE: required check de main.
+#   fusionar — fusiona solo el PR si la vigilancia lo dejó verificado contra el PDF.
 
 on:
   pull_request: {}
@@ -15,7 +13,6 @@ permissions:
 
 env:
   EXTRACTOR_REPO: https://github.com/OpenCodice/constitucion-extractor.git
-  OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
   ESTADOS: "jalisco:jalisco:jalisco/constitucion cdmx:cdmx:cdmx/constitucion"
 
 jobs:
@@ -62,43 +59,6 @@ jobs:
             echo "::endgroup::"
           done
           exit $rc
-
-  resumir:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v5
-        with:
-          fetch-depth: 0
-      - uses: actions/setup-python@v6
-        with:
-          python-version: '3.12'
-      - name: Clonar extractor e instalar dependencias
-        run: |
-          git clone --depth 1 "$EXTRACTOR_REPO" /tmp/extractor
-          # requirements (pdfplumber) además de openai: resumir_pr importa
-          # extractor.fuentes para el nombre del documento, y el __init__ del
-          # paquete carga parse → pdfplumber.
-          pip install -r /tmp/extractor/requirements.txt openai
-      - name: Resumir cambios por estado y comentar el PR
-        env:
-          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        run: |
-          if [ -z "$OPENAI_API_KEY" ]; then
-            echo "Sin OPENAI_API_KEY: omito el resumen asistido."; exit 0
-          fi
-          git fetch -q origin "${{ github.base_ref }}"
-          BASE="origin/${{ github.base_ref }}"
-          for spec in $ESTADOS; do
-            IFS=: read -r estado perfil dir <<< "$spec"
-            # Solo comentar estados cuyo articulado cambió en este PR.
-            if [ -z "$(git diff --name-only "$BASE" -- "$dir/articulos")" ]; then
-              continue
-            fi
-            PYTHONPATH=/tmp/extractor python /tmp/extractor/scripts/resumir_pr.py \
-              "$GITHUB_WORKSPACE/$dir" "$BASE" "$perfil" > /tmp/resumen.md || true
-            gh pr comment "${{ github.event.pull_request.number }}" \
-              --repo "${{ github.repository }}" --body-file /tmp/resumen.md
-          done
 
   fusionar:
     needs: validar
