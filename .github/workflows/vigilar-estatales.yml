@@ -102,10 +102,32 @@ jobs:
             d=$(echo "${{ steps.url.outputs.url }}" | grep -oE '[0-9]{6}\.pdf$' | cut -c1-6)
             VER="20${d:4:2}-${d:2:2}-${d:0:2}"
           fi
+          echo "VER=$VER" >> "$GITHUB_ENV"
           PYTHONPATH=/tmp/extractor python -m extractor build \
             --pdf /tmp/estatal.pdf --out "$GITHUB_WORKSPACE/${{ matrix.dir }}" \
             --perfil "${{ matrix.perfil }}" \
             --url-fuente "${{ steps.url.outputs.url }}" ${VER:+--version "$VER"}
+
+      - name: Verificar la extracción contra el PDF (LLM) y autorreparar
+        id: verificar
+        if: steps.url.outputs.skip == 'false' && env.OPENAI_API_KEY != ''
+        env:
+          VERIFICADOR_MODELO: ${{ vars.VERIFICADOR_MODELO }}
+        run: |
+          if [ -z "$(git status --porcelain -- "${{ matrix.dir }}/articulos")" ]; then
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+            exit 0
+          fi
+          pip install openai
+          if PYTHONPATH=/tmp/extractor python -m extractor verificar \
+               --pdf /tmp/estatal.pdf --out "$GITHUB_WORKSPACE/${{ matrix.dir }}" \
+               --perfil "${{ matrix.perfil }}" \
+               --url-fuente "${{ steps.url.outputs.url }}" ${VER:+--version "$VER"} \
+               --reparar --reporte /tmp/verificacion.md; then
+            echo "ok=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "ok=false" >> "$GITHUB_OUTPUT"
+          fi
 
       - name: ¿Cambió el texto vigente?
         if: steps.url.outputs.skip == 'false'
@@ -150,6 +172,9 @@ jobs:
             echo "- Revisa el diff de \`${{ matrix.dir }}/articulos/\` contra el periódico"
             echo "  oficial del estado — debe corresponder a una reforma real."
           } > /tmp/cuerpo.md
+          if [ -f /tmp/verificacion.md ]; then
+            { echo; cat /tmp/verificacion.md; } >> /tmp/cuerpo.md
+          fi
           cat /tmp/cuerpo.md
 
       - name: Abrir Pull Request
@@ -166,8 +191,9 @@ jobs:
           body-path: /tmp/cuerpo.md
           commit-message: 'Actualización automática del texto vigente — ${{ matrix.estado }}'
           add-paths: ${{ matrix.dir }}/**
+          draft: ${{ steps.verificar.outputs.ok == 'false' }}
           labels: |
             reforma
             automatico
-          reviewers: danielcardeenas
+            ${{ steps.verificar.outputs.ok == 'false' && 'extraccion-sospechosa' || '' }}
           delete-branch: true
