@@ -4,28 +4,33 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:818aa6d313a324fa",
+    "hash_texto": "sha256:4f2ef89fbf1260b3",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Infracciones administrativas",
+  "denominacion_comun": "Sanciones administrativas",
   "temas": [
+    "infracciones administrativas",
     "sanciones",
     "multas",
     "arresto",
-    "derechos de los trabajadores"
+    "escasos recursos",
+    "jornaleros",
+    "obreros"
   ],
   "terminos_coloquiales": [
-    "multas por infracciones",
     "castigos administrativos",
-    "arrestos por no pagar",
-    "multas según el salario"
+    "multas",
+    "arrestos cortos",
+    "ley de infracciones",
+    "sanciones económicas"
   ],
-  "resumen": "Este artículo habla sobre las sanciones que se pueden aplicar por infracciones administrativas, como multas o arrestos. También establece límites en las multas para personas con bajos ingresos o sin salario fijo.",
+  "resumen": "Este artículo habla sobre las sanciones que se pueden imponer por infracciones administrativas, que pueden ser multas o arresto. Si una persona no paga la multa, puede ser arrestada. También protege a aquellas personas que tienen bajos ingresos para que no se les impongan multas altas.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si no pago una multa?",
-    "¿Cuánto me pueden multar si soy trabajador?",
-    "¿Pueden llevarme al arresto por una multa?",
-    "¿Qué ocurre si no tengo dinero para pagar la multa?",
-    "¿Hay límites en las multas para personas de bajos ingresos?"
+    "¿Qué pasa si no pago una multa administrativa?",
+    "¿Cuáles son las sanciones por infracciones administrativas?",
+    "¿Hay multas especiales para personas de bajos recursos?",
+    "¿Cuánto tiempo pueden arrestarme por una multa?",
+    "¿Qué sucede si soy obrero y cometo una infracción?",
+    "¿Pueden multarme más de lo que gano en un día?"
   ]
 }

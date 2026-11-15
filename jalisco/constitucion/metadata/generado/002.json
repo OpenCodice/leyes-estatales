@@ -4,31 +4,28 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:e4e73109f5031742",
+    "hash_texto": "sha256:cc62b68650fe4351",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Soberanía y Gobierno",
+  "denominacion_comun": "Soberanía y organización política",
   "temas": [
-    "soberanía del Estado",
+    "soberanía",
     "poder público",
     "gobierno democrático",
-    "participación ciudadana",
     "municipio libre"
   ],
   "terminos_coloquiales": [
-    "poder del pueblo",
+    "quién tiene el poder",
     "gobierno del pueblo",
-    "participación en el gobierno",
-    "manejando el municipio",
-    "cómo funciona el gobierno"
+    "cómo se organiza el estado",
+    "municipios"
   ],
-  "resumen": "El poder del gobierno proviene del pueblo y se establece para su beneficio. El pueblo ejerce su soberanía a través de los poderes del Estado, y Jalisco se organiza de manera democrática con municipios libres.",
+  "resumen": "El poder del gobierno proviene del pueblo y se establece para su beneficio. La soberanía reside en el pueblo, quien la ejerce a través de sus representantes. Jalisco tiene un gobierno democrático basado en municipios libres.",
   "preguntas_ejemplo": [
     "¿De dónde proviene el poder público?",
-    "¿Qué forma de gobierno tiene Jalisco?",
-    "¿Cómo se ejerce la soberanía del pueblo?",
+    "¿Qué significa la soberanía del pueblo?",
+    "¿Cómo está organizado el gobierno en Jalisco?",
     "¿Qué es un municipio libre?",
-    "¿Qué significa que el gobierno sea representativo?",
-    "¿Cómo puedo participar en el gobierno?"
+    "¿Qué tipo de gobierno tiene Jalisco?"
   ]
 }

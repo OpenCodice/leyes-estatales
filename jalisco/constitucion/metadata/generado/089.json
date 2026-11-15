@@ -4,35 +4,33 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:ffa3463a40b17777",
+    "hash_texto": "sha256:c4dc02b4ee7a7fc5",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Finanzas Municipales",
+  "denominacion_comun": "Disciplina financiera municipal",
   "temas": [
-    "disciplina financiera",
     "leyes de ingresos",
-    "presupuestos de egresos",
     "obligaciones financieras",
-    "sostenibilidad financiera",
+    "presupuestos de egresos",
+    "equilibrio financiero",
     "responsabilidad hacendaria",
-    "impuestos",
+    "impuestos municipales",
+    "financiamiento",
     "contribuciones"
   ],
   "terminos_coloquiales": [
-    "dinero de los municipios",
-    "presupuesto municipal",
+    "dinero del municipio",
+    "presupuestos",
+    "deudas de los ayuntamientos",
     "impuestos que paga la gente",
-    "deudas de los municipios",
-    "financiamiento municipal",
-    "gastos de los ayuntamientos"
+    "cómo se usa el dinero público"
   ],
-  "resumen": "Este artículo habla sobre cómo los municipios deben manejar su dinero y sus gastos, así como la aprobación de sus presupuestos. También establece que no puede haber exenciones o subsidios a menos que se cumplan ciertas condiciones.",
+  "resumen": "El artículo establece que el Congreso del Estado aprueba las leyes de ingresos y presupuesto de los municipios, asegurando una gestión financiera responsable. También detalla cómo los ayuntamientos deben manejar sus recursos y aprobar sus presupuestos conforme a la ley.",
   "preguntas_ejemplo": [
-    "¿Cómo se aprueban los presupuestos municipales?",
-    "¿Qué pasa si un municipio tiene un déficit?",
-    "¿Qué leyes rigen los impuestos municipales?",
-    "¿Qué son las obligaciones financieras de los municipios?",
-    "¿Los municipios pueden exentar impuestos a alguien?",
-    "¿Quién aprueba las leyes de ingresos de los municipios?"
+    "¿Cómo se aprueban los presupuestos en los municipios?",
+    "¿Qué pasa si un municipio tiene deudas?",
+    "¿Quién regula los impuestos municipales?",
+    "¿Los municipios pueden hacer descuentos en impuestos?",
+    "¿Cómo se manejan las finanzas del ayuntamiento?"
   ]
 }

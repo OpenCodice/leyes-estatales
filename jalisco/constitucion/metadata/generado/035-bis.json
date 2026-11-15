@@ -4,33 +4,33 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:99dabfd914a26547",
+    "hash_texto": "sha256:6b2bc53117f0d906",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Fiscalización de la cuenta pública",
+  "denominacion_comun": "Fiscalización de cuentas públicas",
   "temas": [
-    "Auditoría",
-    "Transparencia",
-    "Fiscalización",
-    "Recursos públicos",
-    "Cuentas públicas",
-    "Responsabilidad",
-    "Normatividad",
-    "Control financiero"
+    "revisión de cuentas públicas",
+    "fiscalización",
+    "Auditoría Superior del Estado",
+    "responsabilidades administrativas",
+    "recursos públicos",
+    "transparencia",
+    "auditoría financiera",
+    "comprobación de ingresos y egresos"
   ],
   "terminos_coloquiales": [
-    "revisión de cuentas",
-    "cómo se gasta el dinero público",
-    "auditorías públicas",
-    "control del gasto",
-    "responsabilidad de funcionarios"
+    "cómo se revisan las cuentas del gobierno",
+    "quién audita a los municipios",
+    "fiscalización de recursos",
+    "responsabilidad de funcionarios",
+    "transparencia de gastos públicos"
   ],
-  "resumen": "Este artículo establece que el Congreso del Estado tiene la facultad de revisar y fiscalizar la cuenta pública, así como los recursos públicos que se manejen. La Auditoría Superior es la encargada de realizar estas auditorías y asegurar la transparencia en el uso del dinero estatal y municipal.",
+  "resumen": "El artículo establece que el Congreso del Estado tiene la facultad de revisar y fiscalizar las cuentas públicas a través de la Auditoría Superior del Estado. Esta auditoría verifica el uso de fondos y recursos, y puede emitir recomendaciones y determinar responsabilidades en caso de irregularidades.",
   "preguntas_ejemplo": [
-    "¿Qué es la Auditoría Superior del Estado?",
-    "¿Cómo se controla el gasto público en Jalisco?",
-    "¿Quiénes son responsables de la fiscalización de las cuentas públicas?",
-    "¿Qué pasa si hay discrepancias en las cuentas auditadas?",
-    "¿Qué procesos de auditoría se realizan al presupuesto estatal?"
+    "¿Quién se encarga de auditar a los municipios?",
+    "¿Qué pasa si hay discrepancias en los ingresos?",
+    "¿Qué funciones tiene la Auditoría Superior del Estado?",
+    "¿Cómo se garantiza la transparencia en el uso de recursos públicos?",
+    "¿Cuáles son los requisitos para ser Auditor Superior?"
   ]
 }

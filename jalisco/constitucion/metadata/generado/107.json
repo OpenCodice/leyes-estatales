@@ -4,28 +4,28 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:a220e4466e1bb54b",
+    "hash_texto": "sha256:e2011e984c285331",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Responsabilidad de Servidores Públicos",
+  "denominacion_comun": "Responsabilidades de Servidores Públicos",
   "temas": [
     "obligaciones de servidores públicos",
-    "sanciones administrativas",
-    "responsabilidad patrimonial",
-    "indemnización"
+    "sanciones por faltas",
+    "procedimientos administrativos",
+    "prescripción de responsabilidades"
   ],
   "terminos_coloquiales": [
-    "qué pasa si un funcionario la riega",
-    "sanciones a funcionarios",
-    "responsabilidad del gobierno",
-    "daños por el estado"
+    "responsabilidad de funcionarios",
+    "castigos a servidores públicos",
+    "ley de responsabilidades",
+    "quejas sobre funcionarios"
   ],
-  "resumen": "Este artículo trata sobre las obligaciones y sanciones que enfrentan los servidores públicos por actos indebidos. También habla sobre cómo los ciudadanos pueden exigir indemnizaciones por daños causados por el estado.",
+  "resumen": "Este artículo habla sobre las responsabilidades que tienen los servidores públicos, las sanciones que pueden recibir por sus actos o faltas, y cómo se llevan a cabo los procedimientos para aplicar estas sanciones. También menciona los plazos para exigir responsabilidades dependiendo de la gravedad de los actos.",
   "preguntas_ejemplo": [
-    "¿Qué pasa si un servidor público comete un error?",
-    "¿Qué sanciones pueden enfrentar los funcionarios?",
-    "¿Cómo puedo reclamar por daños causados por el gobierno?",
-    "¿Qué responsabilidades tiene el estado ante sus ciudadanos?",
-    "¿Cuáles son las obligaciones de los servidores públicos?"
+    "¿Qué pasa si un servidor público comete una falta?",
+    "¿Cuáles son las sanciones para funcionarios que incumplen sus obligaciones?",
+    "¿Cómo se determina la responsabilidad de un servidor público?",
+    "¿Qué es la ley de responsabilidades de los servidores públicos?",
+    "¿Cuáles son los plazos para presentar una queja contra un funcionario?"
   ]
 }

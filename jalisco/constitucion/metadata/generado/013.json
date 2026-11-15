@@ -4,32 +4,28 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:ab3a18643b883cc6",
+    "hash_texto": "sha256:f679c81319d80fe9",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Partidos Políticos",
   "temas": [
-    "participación ciudadana",
-    "financiamiento político",
     "derechos políticos",
-    "igualdad de género",
-    "campañas electorales",
-    "medios de comunicación",
-    "sanciones electorales"
+    "financiamiento de partidos",
+    "género en política",
+    "campañas electorales"
   ],
   "terminos_coloquiales": [
-    "partidos políticos",
+    "partidos de política",
     "financiamiento de campañas",
-    "elecciones",
-    "derechos de los ciudadanos",
-    "igualdad en elecciones"
+    "igualdad de género en elecciones",
+    "votación y elecciones"
   ],
-  "resumen": "Este artículo regula la función y organización de los partidos políticos en México, garantizando la participación ciudadana y la igualdad de género en el proceso electoral. También establece normas sobre financiamiento y pautas para las campañas políticas.",
+  "resumen": "El artículo establece que los partidos políticos son entidades que buscan fomentar la participación ciudadana y garantizar la igualdad de género en la política. También regula el financiamiento, la creación y el funcionamiento de estos partidos, así como sus derechos y obligaciones.",
   "preguntas_ejemplo": [
-    "¿Qué son los partidos políticos y qué funciones tienen?",
-    "¿Cómo se financian los partidos políticos en México?",
-    "¿Qué derechos tienen las mujeres en las elecciones?",
+    "¿Qué son los partidos políticos en México?",
+    "¿Cómo se financian los partidos políticos?",
+    "¿Qué derechos tienen las mujeres en la política?",
     "¿Cuáles son las reglas para las campañas electorales?",
-    "¿Hay sanciones si un partido viola las reglas electorales?"
+    "¿Pueden los ciudadanos formar partidos políticos?"
   ]
 }
