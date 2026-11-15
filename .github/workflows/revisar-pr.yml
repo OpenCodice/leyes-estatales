@@ -87,3 +87,40 @@ jobs:
             gh pr comment "${{ github.event.pull_request.number }}" \
               --repo "${{ github.repository }}" --body-file /tmp/resumen.md
           done
+
+  fusionar:
+    needs: validar
+    if: github.event.pull_request.head.repo.full_name == github.repository && startsWith(github.head_ref, 'reforma/')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+        with:
+          fetch-depth: 0
+      - name: Fusionar si la extracción quedó verificada
+        env:
+          GH_TOKEN: ${{ secrets.PR_TOKEN }}
+          PR: ${{ github.event.pull_request.number }}
+        run: |
+          if [ -z "$GH_TOKEN" ]; then
+            echo "Sin PR_TOKEN: el PR queda para revisión manual."; exit 0
+          fi
+          estado=$(gh pr view "$PR" -R "$GITHUB_REPOSITORY" --json isDraft,labels \
+            -q '"\(.isDraft) \([.labels[].name] | join(","))"')
+          case "$estado" in
+            true*|*extraccion-sospechosa*) echo "Extracción sospechosa: no se fusiona."; exit 0 ;;
+            *verificado*) ;;
+            *) echo "Sin etiqueta 'verificado': no se fusiona."; exit 0 ;;
+          esac
+          git fetch -q origin "${{ github.base_ref }}"
+          archivos=$(git diff --name-only "origin/${{ github.base_ref }}...HEAD" -- '*/articulos/*.md')
+          n=$(echo "$archivos" | grep -c . || true)
+          if [ "$n" -gt 12 ]; then
+            arts="$n artículos"
+          else
+            arts="arts. $(echo "$archivos" | sed -E 's|.*/0*([0-9]+)(-[a-z]+)?\.md$|\1\2|' | paste -sd, - | sed 's/,/, /g')"
+          fi
+          dir=$(echo "$archivos" | sed -E 's|/articulos/.*||' | sort -u | head -1)
+          ver=$(jq -r '.version // empty' "$dir/metadata/articulos.json")
+          asunto="Reforma ${dir%%/*}${ver:+ ($ver)}: $arts"
+          gh pr merge "$PR" -R "$GITHUB_REPOSITORY" --squash --delete-branch \
+            --subject "$asunto" --body "Fusionado automáticamente: validación e inspección LLM contra el PDF oficial en verde (#$PR)."

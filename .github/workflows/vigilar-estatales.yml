@@ -113,6 +113,7 @@ jobs:
         if: steps.url.outputs.skip == 'false' && env.OPENAI_API_KEY != ''
         env:
           VERIFICADOR_MODELO: ${{ vars.VERIFICADOR_MODELO }}
+          VERIFICADOR_MODELO_FUERTE: ${{ vars.VERIFICADOR_MODELO_FUERTE }}
         run: |
           if [ -z "$(git status --porcelain -- "${{ matrix.dir }}/articulos")" ]; then
             echo "ok=true" >> "$GITHUB_OUTPUT"
@@ -178,6 +179,7 @@ jobs:
           cat /tmp/cuerpo.md
 
       - name: Abrir Pull Request
+        id: pr
         if: steps.url.outputs.skip == 'false' && steps.cambios.outputs.hay_cambios == 'true'
         uses: peter-evans/create-pull-request@v7
         with:
@@ -196,7 +198,23 @@ jobs:
             reforma
             automatico
             ${{ steps.verificar.outputs.ok == 'false' && 'extraccion-sospechosa' || '' }}
+            ${{ steps.verificar.outputs.ok == 'true' && 'verificado' || '' }}
+          assignees: ${{ steps.verificar.outputs.ok == 'false' && 'danielcardeenas' || '' }}
           delete-branch: true
+
+      - name: Sincronizar el estado de verificación del PR
+        if: steps.pr.outputs.pull-request-number != ''
+        env:
+          GH_TOKEN: ${{ secrets.PR_TOKEN || github.token }}
+          PR: ${{ steps.pr.outputs.pull-request-number }}
+          OK: ${{ steps.verificar.outputs.ok }}
+        run: |
+          if [ "$OK" = "true" ]; then
+            gh pr edit "$PR" -R "$GITHUB_REPOSITORY" --remove-label extraccion-sospechosa || true
+            gh pr ready "$PR" -R "$GITHUB_REPOSITORY" || true
+          else
+            gh pr edit "$PR" -R "$GITHUB_REPOSITORY" --remove-label verificado || true
+          fi
 
   salud:
     needs: vigilar
