@@ -33,15 +33,27 @@ jobs:
           git clone --depth 1 "$EXTRACTOR_REPO" /tmp/extractor
           pip install -r /tmp/extractor/requirements.txt
       - name: Validar invariantes por estado (GATE)
+        env:
+          GH_TOKEN: ${{ github.token }}
         run: |
           git fetch -q origin "${{ github.base_ref }}"
+          # Un PR verificado contra el PDF puede tocar cualquier número de
+          # artículos; el tope solo protege los que llegan sin verificar.
+          MAX=20
+          etiquetas=$(gh pr view "${{ github.event.pull_request.number }}" -R "$GITHUB_REPOSITORY" \
+            --json labels -q '[.labels[].name] | join(",")')
+          case "$etiquetas" in
+            *extraccion-sospechosa*) ;;
+            *verificado*) MAX=100000 ;;
+          esac
           BASE="origin/${{ github.base_ref }}"
           rc=0
           for spec in $ESTADOS; do
             IFS=: read -r estado perfil dir <<< "$spec"
             echo "::group::Validar $estado ($perfil)"
             if PYTHONPATH=/tmp/extractor python -m extractor validar \
-                 --out "$GITHUB_WORKSPACE/$dir" --perfil "$perfil" --base "$BASE"; then
+                 --out "$GITHUB_WORKSPACE/$dir" --perfil "$perfil" --base "$BASE" \
+                 --max-cambios "$MAX"; then
               echo "✅ $estado OK"
             else
               echo "::error::Invariantes ROTOS en $estado — no mergear"
@@ -122,5 +134,8 @@ jobs:
           dir=$(echo "$archivos" | sed -E 's|/articulos/.*||' | sort -u | head -1)
           ver=$(jq -r '.version // empty' "$dir/metadata/articulos.json")
           asunto="Reforma ${dir%%/*}${ver:+ ($ver)}: $arts"
+          declarado=$(gh pr view "$PR" -R "$GITHUB_REPOSITORY" --json body -q .body \
+            | sed -n 's/.*<!-- asunto: \(.*\) -->.*/\1/p' | head -n 1)
+          asunto="${declarado:-$asunto}"
           gh pr merge "$PR" -R "$GITHUB_REPOSITORY" --squash --delete-branch \
             --subject "$asunto" --body "Fusionado automáticamente: validación e inspección LLM contra el PDF oficial en verde (#$PR)."
