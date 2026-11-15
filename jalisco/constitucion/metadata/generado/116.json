@@ -4,32 +4,34 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:0cd9c8160c7e43f5",
+    "hash_texto": "sha256:842f3ffd59f561a3",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Relaciones Laborales del Estado",
+  "denominacion_comun": "Relaciones laborales de servidores públicos",
   "temas": [
     "relaciones laborales",
     "servidores públicos",
-    "imparcialidad",
-    "recursos públicos",
+    "servicio profesional de carrera",
+    "imparcialidad en el uso de recursos públicos",
     "propaganda institucional",
-    "eficiencia",
-    "sanciones"
+    "competencia entre partidos",
+    "sanciones por incumplimiento"
   ],
   "terminos_coloquiales": [
-    "trabajos del gobierno",
-    "empleados públicos",
-    "manejo de recursos",
-    "propaganda de gobierno",
-    "cómo manejan el dinero público"
+    "trabajo en el gobierno",
+    "empleo público",
+    "profesionalización del servicio",
+    "uso de recursos del estado",
+    "propaganda de funcionarios",
+    "equidad política"
   ],
-  "resumen": "Este artículo establece cómo se regulan las relaciones laborales de los servidores públicos en el Estado y los municipios. También menciona la obligación de aplicar los recursos públicos de manera imparcial y las reglas sobre la propaganda que deben seguir los entes públicos.",
+  "resumen": "El artículo establece que las relaciones laborales de los servidores públicos en el Estado y municipios se regirán por una ley que promueve el servicio profesional de carrera. También se asegura que estos servidores deben usar los recursos públicos de manera imparcial y que la propaganda oficial no debe promover individualmente a ningún servidor público.",
   "preguntas_ejemplo": [
-    "¿Cómo se regulan los trabajos de los empleados del gobierno?",
-    "¿Qué obligaciones tienen los servidores públicos respecto a los recursos públicos?",
-    "¿Qué tipo de propaganda pueden usar los poderes públicos?",
-    "¿Cómo se asegura la imparcialidad en el manejo del dinero público?",
-    "¿Qué pasa si un servidor público no cumple con estas reglas?"
+    "¿Cómo se regulan los trabajos en el gobierno?",
+    "¿Qué es el servicio profesional de carrera?",
+    "¿Los funcionarios pueden hacer publicidad personal?",
+    "¿Qué pasa si un servidor público no actúa con imparcialidad?",
+    "¿Cómo se garantiza la competencia justa entre partidos políticos?",
+    "¿Qué sanciones existen por el mal uso de recursos públicos?"
   ]
 }

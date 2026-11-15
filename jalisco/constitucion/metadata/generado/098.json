@@ -4,27 +4,27 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:88e779a4e5ef2c12",
+    "hash_texto": "sha256:57f2c412ac4615fb",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Juicio Político",
+  "denominacion_comun": "Juicio político",
   "temas": [
     "resoluciones",
     "juicio político",
     "recursos",
-    "responsabilidad penal",
-    "corrupción"
+    "procedimientos legales"
   ],
   "terminos_coloquiales": [
-    "decisiones del juicio político",
-    "recursos ante el juicio político",
-    "corruptos",
-    "responsabilidad de los políticos"
+    "decisiones de juicio político",
+    "queja por juicio político",
+    "recursos de juicio político",
+    "demandas políticas"
   ],
-  "resumen": "Este artículo establece que no se puede impugnar ninguna decisión que se tome en un juicio político. También menciona la responsabilidad penal por corrupción.",
+  "resumen": "Este artículo establece que no se puede impugnar las resoluciones tomadas en un juicio político. Es decir, no hay forma de recurrir estas decisiones legales.",
   "preguntas_ejemplo": [
-    "¿Se puede apelar una decisión del juicio político?",
-    "¿Qué pasa si un político es corrupto?",
-    "¿Cuáles son las consecuencias de un juicio político?"
+    "¿Se puede apelar una resolución de juicio político?",
+    "¿Qué pasa si no estoy de acuerdo con el juicio político?",
+    "¿Hay algún recurso disponible contra decisiones de juicio político?",
+    "¿Cómo funcionan las resoluciones de juicio político?"
   ]
 }

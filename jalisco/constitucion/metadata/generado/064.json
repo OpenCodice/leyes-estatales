@@ -4,7 +4,7 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:bb1da5f56941b626",
+    "hash_texto": "sha256:c1c8b5bfa80ae705",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Consejo de la Judicatura",
@@ -12,24 +12,25 @@
     "administración judicial",
     "vigilancia judicial",
     "disciplina judicial",
-    "elección de magistrados",
     "designación de jueces",
+    "remoción de jueces",
+    "formación de servidores públicos",
     "independencia judicial",
-    "responsabilidad de servidores públicos"
+    "honestidad en la justicia"
   ],
   "terminos_coloquiales": [
-    "quién supervisa a los jueces",
-    "cómo se eligen los magistrados",
-    "quién manda en el Poder Judicial",
-    "quién elige a los jueces",
-    "qué hace el Consejo de la Judicatura"
+    "cómo se eligen jueces",
+    "quién cuida a los jueces",
+    "qué es el Consejo de la Judicatura",
+    "remoción de jueces",
+    "jueces en línea"
   ],
-  "resumen": "El Consejo de la Judicatura se encarga de la administración y vigilancia del Poder Judicial, excepto el Supremo Tribunal. Está formado por cinco miembros y se encarga de elegir y remover jueces, además de asegurar la independencia y responsabilidad de los servidores públicos del Poder Judicial.",
+  "resumen": "El Consejo de la Judicatura se encarga de la administración y vigilancia del Poder Judicial, exceptuando al Supremo Tribunal de Justicia. Este consejo está formado por cinco miembros y tiene el poder de designar y remover jueces, así como de establecer normas para la carrera judicial.",
   "preguntas_ejemplo": [
-    "¿Quién forma parte del Consejo de la Judicatura?",
-    "¿Cómo se nombra a un magistrado?",
-    "¿Qué responsabilidades tiene el Consejo de la Judicatura?",
-    "¿Qué requisitos tienen que cumplir los consejeros?",
-    "¿Cuánto tiempo duran en sus cargos los consejeros?"
+    "¿Quiénes forman el Consejo de la Judicatura?",
+    "¿Qué funciones tiene el Consejo de la Judicatura?",
+    "¿Cómo se eligen los jueces en el estado?",
+    "¿Qué requisitos deben cumplir los consejeros?",
+    "¿Cuál es el proceso para remover a un juez?"
   ]
 }

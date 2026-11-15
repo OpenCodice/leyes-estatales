@@ -4,28 +4,26 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:6d32569fe7e606b2",
+    "hash_texto": "sha256:bd792194adcbead2",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Juicio Político",
+  "denominacion_comun": "Fuero e Inmunidad en Juicios Civiles",
   "temas": [
-    "juicio político",
     "fuero",
     "inmunidad",
-    "orden civil"
+    "juicios civiles"
   ],
   "terminos_coloquiales": [
-    "responsabilidad de funcionarios",
-    "juicio a políticos",
-    "sin fuero",
-    "sin inmunidad"
+    "protección legal",
+    "exenciones en juicios",
+    "justicia civil"
   ],
-  "resumen": "El artículo establece que en los juicios civiles no existen privilegios ni protecciones especiales para los funcionarios. Esto significa que todos están sujetos a la ley por igual.",
+  "resumen": "En los juicios civiles, nadie tiene privilegios especiales o protección legal que los excluya del proceso. Todos son tratados igual ante la ley.",
   "preguntas_ejemplo": [
-    "¿Qué es el juicio político?",
-    "¿Los políticos pueden ser juzgados como cualquier ciudadano?",
     "¿Qué significa que no hay fuero en juicios civiles?",
-    "¿Los funcionarios tienen inmunidad en los juicios?",
-    "¿Cómo se aplica la ley a los políticos en México?"
+    "¿Todos pueden ser juzgados en el orden civil?",
+    "¿Qué es la inmunidad en los juicios?",
+    "¿Hay excepciones para ciertas personas en juicios civiles?",
+    "¿Por qué no hay inmunidad en casos civiles?"
   ]
 }

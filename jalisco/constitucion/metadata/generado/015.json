@@ -4,37 +4,37 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:e9950021ef3d66da",
+    "hash_texto": "sha256:4e2682539fb5c9b4",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Derechos y Libertades",
+  "denominacion_comun": "Derechos sociales y culturales",
   "temas": [
-    "libertad de las personas",
+    "libertad personal",
     "participación social",
-    "apoyo a grupos vulnerables",
+    "derechos de la infancia",
+    "derechos de los adultos mayores",
+    "discapacidad",
     "transparencia",
+    "patrimonio cultural",
     "educación",
-    "cultura",
-    "desarrollo sostenible",
-    "derecho al medio ambiente",
-    "ciudadanía activa"
+    "medio ambiente",
+    "equidad económica"
   ],
   "terminos_coloquiales": [
-    "libertad personal",
-    "derechos sociales",
-    "apoyo a jóvenes y ancianos",
-    "no a la corrupción",
-    "educación pública",
-    "cultura y tradiciones",
-    "cuidado del medio ambiente",
-    "información pública"
+    "derechos de la gente",
+    "apoyo a la familia",
+    "cultura y educación",
+    "protección del medio ambiente",
+    "ayuda a adultos mayores",
+    "transparencia en el gobierno"
   ],
-  "resumen": "Este artículo establece que el Estado debe asegurar las condiciones para que las personas ejerzan su libertad y participen en la vida social. También menciona la importancia de apoyar a grupos como la infancia, la juventud y los adultos mayores, y el combate a la corrupción.",
+  "resumen": "Este artículo garantiza la libertad y los derechos de las personas, promoviendo su participación en la sociedad. También establece medidas para proteger a grupos vulnerables y asegurar el acceso a la educación, cultura, medio ambiente y la transparencia en el gobierno.",
   "preguntas_ejemplo": [
-    "¿Qué derechos tiene la gente para participar en la sociedad?",
-    "¿Cómo se protege a las personas con discapacidad?",
-    "¿Qué hace el Estado para garantizar la educación?",
-    "¿Cómo se combate la corrupción en el gobierno?",
-    "¿Qué medidas hay para proteger el medio ambiente?"
+    "¿Qué derechos tienen las personas y grupos en la sociedad?",
+    "¿Cómo se protege la infancia y a los adultos mayores?",
+    "¿Qué medidas se toman para evitar la corrupción?",
+    "¿Qué se dice sobre la educación y la cultura en mi estado?",
+    "¿Cómo se garantiza el acceso a un medio ambiente saludable?",
+    "¿Qué pasa con la transparencia en las cuentas del gobierno?"
   ]
 }

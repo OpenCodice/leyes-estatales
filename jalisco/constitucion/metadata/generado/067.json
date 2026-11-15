@@ -4,27 +4,30 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:c59df99d9179a0e1",
+    "hash_texto": "sha256:aab91a194bdbffe3",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Tribunal de Justicia Administrativa",
   "temas": [
-    "Magistrados",
-    "Sala Superior",
-    "Votación",
-    "Presupuesto"
+    "integración del tribunal",
+    "magistrados",
+    "votación secreta",
+    "presupuesto",
+    "autonomía"
   ],
   "terminos_coloquiales": [
-    "magistrados del tribunal",
-    "elección de magistrados",
-    "proyecto de presupuesto del tribunal",
-    "tribunal administrativo"
+    "tribunal administrativo",
+    "magistrados del estado",
+    "elección de magistrado",
+    "presupuesto del tribunal",
+    "cómo se elige un magistrado"
   ],
-  "resumen": "El Tribunal de Justicia Administrativa del Estado de Jalisco está formado por una Sala Superior y salas unitarias. Los magistrados eligen a su presidente mediante voto secreto y tienen autonomía para elaborar y ejecutar su presupuesto.",
+  "resumen": "El artículo establece la estructura y funcionamiento del Tribunal de Justicia Administrativa en Jalisco, incluyendo la forma en que se elige al magistrado presidente y la elaboración de su presupuesto. Destaca que el magistrado puede ser reelecto y que el presupuesto se maneja con autonomía.",
   "preguntas_ejemplo": [
-    "¿Cómo se elige al presidente del Tribunal de Justicia Administrativa?",
-    "¿Cuántos magistrados hay en el Tribunal de Justicia Administrativa?",
-    "¿Qué hace la Sala Superior del Tribunal de Justicia Administrativa?",
-    "¿Quién aprueba el presupuesto del Tribunal de Justicia Administrativa?"
+    "¿Cómo se elige al magistrado del tribunal administrativo?",
+    "¿Cuántos magistrados integran la Sala Superior?",
+    "¿Quién elabora el presupuesto del Tribunal de Justicia Administrativa?",
+    "¿El magistrado puede ser reelecto?",
+    "¿Qué tipo de votación se realiza para elegir al magistrado presidente?"
   ]
 }

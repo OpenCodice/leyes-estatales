@@ -4,30 +4,32 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:0ecf90800830f17c",
+    "hash_texto": "sha256:bb4715aa736832f3",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Controversias laborales de servidores públicos",
+  "denominacion_comun": "Controversias Laborales",
   "temas": [
-    "Tribunal de Arbitraje",
+    "Arbitraje",
+    "Controversias laborales",
     "Relaciones de trabajo",
     "Servidores públicos",
-    "Ley para los Servidores Públicos",
-    "Gobierno municipal"
+    "Organismo descentralizado",
+    "Municipios",
+    "Estado"
   ],
   "terminos_coloquiales": [
-    "disputas laborales",
-    "problemas en el trabajo",
-    "conflictos con el gobierno",
-    "ley de servidores públicos",
-    "tribunales laborales"
+    "problemas de trabajo",
+    "conflictos laborales",
+    "arbitraje en el trabajo",
+    "diferencias entre el estado y empleados",
+    "ley de servidores públicos"
   ],
-  "resumen": "Este artículo establece que el Tribunal de Arbitraje y Escalafón se encarga de resolver disputas laborales entre el Estado, municipios y sus trabajadores. Regula cómo deben organizarse y funcionar los servidores públicos en este contexto.",
+  "resumen": "Este artículo trata sobre los conflictos laborales entre el Estado, municipios y sus empleados. Establece que un tribunal especializado se encargará de resolver estos problemas conforme a la ley local de servidores públicos.",
   "preguntas_ejemplo": [
-    "¿Qué hace el Tribunal de Arbitraje y Escalafón?",
-    "¿Cómo se resuelven los problemas laborales con servidores públicos?",
-    "¿Quiénes están sujetos a la Ley para los Servidores Públicos en Jalisco?",
-    "¿Qué conflictos no maneja este tribunal?",
-    "¿Qué normas rigen las relaciones de trabajo en el gobierno municipal?"
+    "¿Qué hacer si tengo un conflicto laboral con el gobierno?",
+    "¿Quién resuelve los problemas entre empleados del estado y sus jefes?",
+    "¿Qué es el Tribunal de Arbitraje y Escalafón?",
+    "¿Qué significa arbitraje en el contexto laboral?",
+    "¿Cuáles son las leyes que regulan las relaciones de trabajo en Jalisco?"
   ]
 }

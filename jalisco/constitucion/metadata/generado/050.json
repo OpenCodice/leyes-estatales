@@ -4,34 +4,37 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:c0a83c2f87e4c944",
+    "hash_texto": "sha256:74bea5decb2c39c3",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Facultades del Gobernador",
   "temas": [
-    "ejecución de leyes",
-    "presupuesto del Estado",
+    "promulgación de leyes",
+    "presupuestos",
     "informe de administración",
-    "participación ciudadana",
+    "plebiscitos",
+    "referéndums",
+    "convenios intergubernamentales",
     "orden público",
     "expropiación",
-    "servicios públicos",
-    "derechos humanos",
-    "corrupción"
+    "indultos",
+    "coordinación fiscal"
   ],
   "terminos_coloquiales": [
-    "lo que puede hacer el Gobernador",
-    "funciones del Gobernador",
-    "obligaciones del Gobernador",
-    "qué hace el Gobernador",
-    "poderes del Gobernador"
+    "poderes del gobernador",
+    "funciones del gobernador",
+    "responsabilidades del gobernador",
+    "qué hace el gobernador",
+    "leyes del estado",
+    "presupuesto del estado"
   ],
-  "resumen": "El artículo describe las facultades y responsabilidades del Gobernador del Estado, incluyendo la promulgación de leyes, la presentación de presupuestos y la administración del orden público. También menciona su papel en la participación ciudadana y la coordinación con otros niveles de gobierno.",
+  "resumen": "El artículo describe las facultades y obligaciones del Gobernador del Estado, incluyendo la promulgación de leyes, la presentación del presupuesto, el informe anual de la administración pública, y la organización de plebiscitos y referéndums. También aborda su papel en el mantenimiento del orden público y la colaboración con otros niveles de gobierno.",
   "preguntas_ejemplo": [
-    "¿Qué puede hacer un Gobernador?",
-    "¿Cuáles son las responsabilidades del Gobernador?",
-    "¿Cómo se presenta el presupuesto del Estado?",
-    "¿Qué informar debe dar el Gobernador al Congreso?",
-    "¿El Gobernador puede expropiar propiedades?"
+    "¿Cuáles son las funciones del gobernador?",
+    "¿Qué leyes puede promulgar el gobernador?",
+    "¿Cómo se elabora el presupuesto del estado?",
+    "¿Qué es un plebiscito y cómo se solicita?",
+    "¿Qué puede hacer el gobernador en caso de problemas de seguridad?",
+    "¿Qué facultades tiene el gobernador en relación a la administración pública?"
   ]
 }
