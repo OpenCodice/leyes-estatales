@@ -4,33 +4,33 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:a483b1dc3e529b2a",
+    "hash_texto": "sha256:0e0e20211a74cdd0",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Facultades del Congreso",
   "temas": [
     "legislación",
-    "poder Ejecutivo",
-    "división territorial",
     "gastos del Estado",
-    "empleos públicos",
-    "electoral",
+    "elecciones",
     "fiscalización",
-    "derechos humanos"
+    "derechos humanos",
+    "división territorial",
+    "empleos públicos",
+    "plebiscito"
   ],
   "terminos_coloquiales": [
     "qué puede hacer el Congreso",
     "poderes del Congreso",
-    "funciones del Congreso",
-    "decisiones del Congreso",
-    "votaciones del Congreso"
+    "como funcionan las leyes",
+    "qué gasta el gobierno",
+    "elecciones en el Estado"
   ],
-  "resumen": "El artículo 35 establece las facultades del Congreso, incluyendo legislar, autorizar al Ejecutivo, fijar la división territorial y determinar el presupuesto del Estado. También se menciona su papel en decisiones electorales y en la fiscalización de recursos.",
+  "resumen": "El artículo establece las facultades que tiene el Congreso, incluyendo hacer leyes, aprobar presupuestos y elegir a ciertos funcionarios. También menciona cómo puede intervenir en decisiones importantes del gobierno y cómo manejar el presupuesto del Estado.",
   "preguntas_ejemplo": [
-    "¿Qué funciones tiene el Congreso?",
-    "¿Puede el Congreso autorizar al Ejecutivo para ciertas acciones?",
-    "¿Cómo se determina el presupuesto del Estado?",
-    "¿Qué roles tiene el Congreso en las elecciones?",
-    "¿Qué facultades tiene el Congreso en temas de derechos humanos?"
+    "¿Qué puede decidir el Congreso sobre el presupuesto?",
+    "¿Cómo se eligen los magistrados del Estado?",
+    "¿El Congreso puede llamar a elecciones extraordinarias?",
+    "¿Qué facultades tiene el Congreso en asuntos de derechos humanos?",
+    "¿Cómo se organiza la fiscalización en el Estado?"
   ]
 }

@@ -4,33 +4,32 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:8032b0ebde868a4a",
+    "hash_texto": "sha256:7fa1aab9178831fc",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
-  "denominacion_comun": "Requisitos para Magistrados",
+  "denominacion_comun": "Requisitos para ser Magistrado",
   "temas": [
     "ciudadanía",
     "edad",
     "título profesional",
     "buena reputación",
-    "inhabilitación",
-    "cargo público",
+    "no condenas",
+    "experiencia en el servicio público",
     "evaluaciones"
   ],
   "terminos_coloquiales": [
-    "quién puede ser magistrado",
+    "quién puede ser Magistrado",
     "requisitos para ser juez",
-    "edad para ser magistrado",
-    "título necesario para magistrados",
-    "buen comportamiento para ser magistrado",
-    "evaluaciones de magistrados"
+    "cómo ser magistrado",
+    "qué se necesita para ser magistrado",
+    "cuales son los requisitos para un Magistrado"
   ],
-  "resumen": "El artículo establece los requisitos que debe cumplir una persona para ser electo Magistrado del Supremo Tribunal de Justicia del Estado, incluyendo ser ciudadano mexicano, tener una edad mínima, poseer un título en derecho y gozar de buena reputación. También se especifica que no debe haber ocupado ciertos cargos en el último año antes de la elección.",
+  "resumen": "Para ser electo Magistrado del Supremo Tribunal de Justicia se deben cumplir ciertos requisitos, como ser ciudadano mexicano, tener un título en derecho, gozar de buena reputación y no haber sido condenado por delitos graves. También se requiere cumplir con años de residencia en el estado y ciertas evaluaciones.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los requisitos para ser magistrado?",
-    "¿Qué edad se necesita para ser magistrado?",
-    "¿Es necesario tener un título en derecho para ser magistrado?",
-    "¿Qué significa tener buena reputación para ser elegido magistrado?",
-    "¿Hay cargos que inhabilitan para ser magistrado?"
+    "¿Qué se necesita para ser Magistrado?",
+    "¿Cuáles son los requisitos para ser juez en el Estado?",
+    "¿Puedo ser Magistrado si tengo una condena previa?",
+    "¿Es necesario tener una licenciatura para ser Magistrado?",
+    "¿Cuántos años de residencia se requieren para ser Magistrado?"
   ]
 }

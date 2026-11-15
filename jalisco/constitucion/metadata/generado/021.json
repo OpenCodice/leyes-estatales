@@ -4,30 +4,32 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:0d45ff6a6936c190",
+    "hash_texto": "sha256:d8199999aa0f20f4",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Requisitos para ser diputado",
   "temas": [
-    "Ciudadanía",
-    "Edad mínima",
-    "Residencia",
-    "Cargos prohibidos",
-    "Inhabilitaciones"
+    "ciudadanía",
+    "edad",
+    "residencia",
+    "incompatibilidades",
+    "violencia política",
+    "deudas alimentarias"
   ],
   "terminos_coloquiales": [
-    "¿Qué necesito para ser diputado?",
-    "Requisitos para postularse",
-    "Edad para ser diputado",
-    "Cargos que no puedo tener",
-    "Condiciones para ser candidato"
+    "¿Qué se necesita para ser diputado?",
+    "requisitos para postularse como diputado",
+    "tener una credencial para votar",
+    "cuántos años hay que tener para ser diputado",
+    "quiénes no pueden ser diputados",
+    "¿se puede ser diputado si tengo problemas legales?"
   ],
-  "resumen": "El artículo establece los requisitos que debe cumplir una persona para ser diputada o diputado en Jalisco. Incluye aspectos como la ciudadanía, la edad, la residencia y la inhabilitación por ciertos cargos públicos.",
+  "resumen": "El artículo establece los requisitos que deben cumplir las personas para ser diputadas o diputados, como ser ciudadanos mexicanos, tener cierta edad y cumplir con condiciones de residencia y no estar en ciertos cargos. También menciona las incompatibilidades relacionadas con problemas legales y deudos alimentarios.",
   "preguntas_ejemplo": [
-    "¿Cuáles son los requisitos para ser diputado en Jalisco?",
-    "¿Puedo ser diputado si tengo un cargo público?",
-    "¿Qué edad se necesita para ser diputado?",
-    "¿Es necesario ser de Jalisco para postularse?",
-    "¿Qué delitos me inhabilitan para ser candidato?"
+    "¿Qué requisitos debo cumplir para ser diputado?",
+    "¿Puedo ser diputado si tengo deudas de comida?",
+    "¿Cuándo puedo postularme para ser diputado?",
+    "¿Cuáles son las incompatibilidades para ser diputado?",
+    "¿Necesito ser de Jalisco para ser diputado ahí?"
   ]
 }

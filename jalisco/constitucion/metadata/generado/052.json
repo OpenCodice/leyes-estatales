@@ -4,32 +4,32 @@
   "_generado": {
     "modelo": "openai:gpt-4o-mini",
     "schema": 1,
-    "hash_texto": "sha256:c0d99ee1cd51a8de",
+    "hash_texto": "sha256:8c23335779a390f1",
     "advertencia": "Contenido generado por IA como AYUDA DE RECUPERACIÓN. No es texto oficial ni fuente de cita; la verdad está en el archivo de texto del artículo."
   },
   "denominacion_comun": "Derecho a la justicia",
   "temas": [
     "administración de justicia",
     "tribunales",
-    "justicia gratuita",
-    "resoluciones imparciales",
-    "plazos legales",
-    "control de convencionalidad",
+    "resoluciones judiciales",
+    "gratuitidad del servicio judicial",
+    "imparcialidad",
+    "plazos judiciales",
     "derechos humanos"
   ],
   "terminos_coloquiales": [
-    "justicia rápida",
-    "tribunales justos",
-    "sin costo en juicios",
-    "juicio imparcial",
-    "derechos humanos en juicios"
+    "acceso a la justicia",
+    "justicia gratuita",
+    "juicios rápidos",
+    "juicios justos",
+    "tribunales imparciales"
   ],
-  "resumen": "Todo mundo tiene el derecho a recibir justicia de tribunales que actúen de manera rápida y justa. Además, el servicio de justicia debe ser gratuito y no se permiten costos judiciales.",
+  "resumen": "Este artículo garantiza que todos tienen derecho a recibir justicia de manera rápida y justa, sin costo alguno. Los tribunales deben resolver los casos de forma imparcial y en tiempos establecidos por la ley.",
   "preguntas_ejemplo": [
-    "¿Cuánto tiempo debe tomar un juicio?",
-    "¿Puedo tener un juicio sin pagar?",
-    "¿Qué garantiza un juicio justo?",
+    "¿Tengo derecho a un juicio sin costo?",
+    "¿Qué significa que los tribunales son imparciales?",
+    "¿Cómo se asegura que la justicia sea rápida?",
     "¿Qué hacer si no se respeta mi derecho a la justicia?",
-    "¿Cómo se asegura que los derechos humanos sean tomados en cuenta en los juicios?"
+    "¿Qué plazos deben cumplir los tribunales para resolver mis casos?"
   ]
 }
