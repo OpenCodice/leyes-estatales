@@ -363,7 +363,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 35º › Fracción XXXVI",
-      "texto": "XXXVI. Elegir por el voto de cuando menos las dos terceras partes de los diputados integrantes de la Legislatura, al Fiscal Especializado en materia de Delitos Electorales y al Fiscal Especializado en combate a la Corrupción, de entre la terna que envíe el titular del Poder Ejecutivo, en los términos que establece esta Constitución y la Ley;"
+      "texto": "XXXVI. Elegir por el voto de cuando menos las dos terceras partes de los diputados integrantes de la Legislatura, al Fiscal Especializado en materia de Delitos Electorales, al Fiscal Especializado en Combate a la Corrupción y al Fiscal Especializado en la Investigación del Delito de Tortura, de entre la terna que envíe el titular del Poder Ejecutivo, en los términos que establece esta Constitución y la Ley;"
     },
     {
       "id": "035.XXXVII",
@@ -372,7 +372,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 35º › Fracción XXXVII",
-      "texto": "XXXVII. Elegir al Procurador de Desarrollo Urbano del Estado, mediante el voto de cuando menos las dos terceras partes de los diputados integrantes del Congreso, previa convocatoria pública y en los términos que establezca la ley de la materia; y"
+      "texto": "XXXVII. Elegir al Procurador de Desarrollo Urbano del Estado, mediante el voto de cuando menos las dos terceras partes de los diputados integrantes del Congreso, previa convocatoria pública y en los términos que establezca la ley de la materia;"
     },
     {
       "id": "035.XXXVIII",
@@ -381,7 +381,16 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 35º › Fracción XXXVIII",
-      "texto": "XXXVIII. Autorizar al Ejecutivo, por el voto de cuando menos las dos terceras partes de los diputados integrantes del Congreso, la celebración de convenios de coordinación fiscal, siempre y cuando se justifique su conveniencia para el Estado, debiendo tomar en cuenta tanto el componente federal de aportación del Estado como las necesidades solidarias del Sistema Nacional de Coordinación Fiscal. Asimismo, en una sola ocasión, durante el ejercicio del encargo del Ejecutivo en turno, podrá autorizar, por el voto de cuando menos las dos terceras partes de los diputados integrantes del Congreso, darlos por terminados cuando, de manera motivada y previa revisión, se demuestre que ya no se cumplen las condiciones que justificaron su adhesión y que el Estado puede hacerse cargo de la conducción de la política fiscal."
+      "texto": "XXXVIII. Autorizar al Ejecutivo, por el voto de cuando menos las dos terceras partes de los diputados integrantes del Congreso, la celebración de convenios de coordinación fiscal, siempre y cuando se justifique su conveniencia para el Estado, debiendo tomar en cuenta tanto el componente federal de aportación del Estado como las necesidades solidarias del Sistema Nacional de Coordinación Fiscal. Asimismo, en una sola ocasión, durante el ejercicio del encargo del Ejecutivo en turno, podrá autorizar, por el voto de cuando menos las dos terceras partes de los diputados integrantes del Congreso, darlos por terminados cuando, de manera motivada y previa revisión, se demuestre que ya no se cumplen las condiciones que justificaron su adhesión y que el Estado puede hacerse cargo de la conducción de la política fiscal; y"
+    },
+    {
+      "id": "035.XXXIX",
+      "tipo": "fraccion",
+      "marca": "XXXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º › Fracción XXXIX",
+      "texto": "XXXIX. Ratificar, por el voto de cuando menos las dos terceras partes de los diputados integrantes de la Legislatura, a las personas que conforman el órgano desconcentrado de la Contraloría del Estado en materia de transparencia, acceso a la información pública y protección de datos personales del Estado."
     }
   ]
 }
