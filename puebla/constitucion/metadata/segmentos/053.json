@@ -1,0 +1,27 @@
+{
+  "clave": "053",
+  "etiqueta": "Artículo 53",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "053.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › párrafo 1",
+      "texto": "El Gobernador asistirá dentro de los primeros quince días del mes de diciembre del primer Periodo de Sesiones Ordinarias de cada año y presentará un informe por escrito en el que manifieste el estado general que guarda la administración pública estatal del ejercicio correspondiente. Dicho informe será contestado por el Presidente de la Mesa Directiva del Congreso del Estado."
+    },
+    {
+      "id": "053.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › párrafo 2",
+      "texto": "En el año de conclusión de la administración constitucional del Ejecutivo del Estado, el informe a que se refiere el párrafo anterior, podrá ser presentado por el Gobernador dentro de los últimos quince días del mes de noviembre del mismo año."
+    }
+  ]
+}

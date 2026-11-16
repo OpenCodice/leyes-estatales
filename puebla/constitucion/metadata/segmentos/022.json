@@ -1,0 +1,90 @@
+{
+  "clave": "022",
+  "etiqueta": "Artículo 22",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "022.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › párrafo 1",
+      "texto": "Los derechos y prerrogativas de la ciudadanía se suspenden:"
+    },
+    {
+      "id": "022.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción I",
+      "texto": "I.- Se deroga;"
+    },
+    {
+      "id": "022.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción II",
+      "texto": "II.- Por falta de cumplimiento, sin causa justificada, de las obligaciones impuestas por el artículo anterior;"
+    },
+    {
+      "id": "022.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción III",
+      "texto": "III.- Por estar procesados por delito que merezca sanción corporal, desde la fecha en que aquella se ordene como medida cautelar o en resolución firme, y por el término de su duración, con excepción de lo dispuesto en el artículo 126 de esta Constitución;"
+    },
+    {
+      "id": "022.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción IV",
+      "texto": "IV.- Por sentencia ejecutoriada que imponga como pena esa suspensión;"
+    },
+    {
+      "id": "022.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción V",
+      "texto": "V.- Durante el cumplimiento de una pena corporal;"
+    },
+    {
+      "id": "022.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción VI",
+      "texto": "VI.- Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión, hasta que prescriba la acción penal;"
+    },
+    {
+      "id": "022.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción VII",
+      "texto": "VII.- Por vagancia o ebriedad consuetudinaria, declarada en los términos que prevengan las leyes; y"
+    },
+    {
+      "id": "022.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción VIII",
+      "texto": "VIII.- Por tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexual, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y por ser declarada como persona deudora alimentaria morosa.\n\nEn los supuestos de esta fracción, la persona no podrá ser registrada como candidata para cualquier cargo de elección popular, ni ser nombrada para empleo, cargo o comisión en el servicio público.\n\nLa ley fijará los casos en que se suspendan los derechos de la ciudadanía, y la manera de hacer la rehabilitación."
+    }
+  ]
+}

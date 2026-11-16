@@ -1,0 +1,81 @@
+{
+  "clave": "064",
+  "etiqueta": "Artículo 64",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "064.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › párrafo 1",
+      "texto": "Las iniciativas deben sujetarse a los trámites siguientes:"
+    },
+    {
+      "id": "064.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › Fracción I",
+      "texto": "I.- Dictamen de Comisión."
+    },
+    {
+      "id": "064.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › Fracción II",
+      "texto": "II.- Discusión, el día que designe el Presidente, conforme al ordenamiento que rija el funcionamiento del Congreso."
+    },
+    {
+      "id": "064.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › Fracción III",
+      "texto": "III.- Aprobación, en votación nominal, de la mayoría de los Diputados presentes."
+    },
+    {
+      "id": "064.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › Fracción IV",
+      "texto": "IV.- Envío al Ejecutivo del Proyecto aprobado para que en término de quince días haga observaciones o manifieste que no las hace."
+    },
+    {
+      "id": "064.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › Fracción V",
+      "texto": "V.- En el primer caso de la fracción anterior, volverá el asunto a la Comisión para que en vista de las observaciones del Ejecutivo, formule un mes después nuevo dictamen, el cual será discutido y puesto a votación; pero sólo se considerará aprobado en los puntos objetados, por el voto de los dos tercios de los Diputados presentes."
+    },
+    {
+      "id": "064.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › Fracción VI",
+      "texto": "VI.- El Ejecutivo podrá comisionar al funcionario que estime conveniente, para que defienda ante la Cámara las iniciativas que proponga o las observaciones que haga a un proyecto; a ese efecto, el Presidente del Congreso le comunicará el día señalado para la discusión."
+    },
+    {
+      "id": "064.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › Fracción VII",
+      "texto": "VII.- El Tribunal Superior de Justicia o el Ayuntamiento autor de la iniciativa en su caso, podrán comisionar a un funcionario que defienda ante la Cámara el Proyecto propuesto, y para ello el Presidente del Congreso les comunicará el día que deba discutirse."
+    }
+  ]
+}

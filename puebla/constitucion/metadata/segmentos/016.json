@@ -1,0 +1,45 @@
+{
+  "clave": "016",
+  "etiqueta": "Artículo 16",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "016.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › párrafo 1",
+      "texto": "La ley protegerá el derecho de propiedad para que sus titulares obtengan los beneficios que son susceptibles de proporcionar los bienes."
+    },
+    {
+      "id": "016.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › párrafo 2",
+      "texto": "En función del progreso social, el Estado promoverá y fomentará la producción de bienes y la prestación de servicios por los y las particulares o por él mismo."
+    },
+    {
+      "id": "016.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › párrafo 3",
+      "texto": "El Estado ejercitará, en beneficio de los y las habitantes del territorio poblano, las facultades que en materia económica le confieren esta Constitución y las leyes que de ella dimanan."
+    },
+    {
+      "id": "016.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › párrafo 4",
+      "texto": "A fin de contribuir al desarrollo y bienestar de las personas, grupos, comunidades y sectores sociales y económicos, las autoridades de todos los órdenes de gobierno deberán implementar políticas públicas de simplificación administrativa y digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimiento de capacidades tecnológicas públicas y los demás objetivos que establezca la legislación en la materia."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "clave": "017",
+  "etiqueta": "Artículo 17",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "017.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 1",
+      "texto": "Además de las obligaciones que las leyes les impongan, los habitantes del Estado, sin distinción alguna, deben:"
+    },
+    {
+      "id": "017.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción I",
+      "texto": "I.- Recibir la educación básica, media superior y superior en la forma prevista por las leyes y conforme a los reglamentos y programas que expida el Gobernador;"
+    },
+    {
+      "id": "017.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción II",
+      "texto": "II.- Contribuir para todos los gastos públicos de la manera proporcional y equitativa que dispongan las leyes;"
+    },
+    {
+      "id": "017.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción III",
+      "texto": "III.- Prestar auxilio a las autoridades cuando para ello sean legalmente requeridas; y"
+    },
+    {
+      "id": "017.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción IV",
+      "texto": "IV.- Realizar sus actividades y usar y disponer de sus bienes, en forma que no perjudiquen a la colectividad."
+    }
+  ]
+}

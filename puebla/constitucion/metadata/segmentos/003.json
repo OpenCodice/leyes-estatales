@@ -1,0 +1,225 @@
+{
+  "clave": "003",
+  "etiqueta": "Artículo 3",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "003.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 1",
+      "texto": "El pueblo ejerce su soberanía por medio de los Poderes del Estado, en los casos de su competencia, en la forma y términos que establecen la Constitución Política de los Estado Unidos Mexicanos y la particular del Estado."
+    },
+    {
+      "id": "003.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 2",
+      "texto": "La renovación de los Poderes Legislativo, Ejecutivo y de los Ayuntamientos, se realizará por medio de elecciones libres, auténticas y periódicas que se celebrarán el mismo día y año que las elecciones federales, con la participación corresponsable de la ciudadanía y de los partidos políticos; en el Poder Judicial se realizarán conforme a lo establecido en esta Constitución. El instrumento único de expresión de la voluntad popular es el voto universal, libre, secreto y directo e intransferible."
+    },
+    {
+      "id": "003.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 3",
+      "texto": "La organización de las elecciones es una función estatal que se realiza a través del Instituto Electoral del Estado, organismo público local, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y de la legislación electoral aplicable."
+    },
+    {
+      "id": "003.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 4",
+      "texto": "La ley determinará las formas y modalidades que correspondan, para observar el principio de paridad de género en los nombramientos de las personas titulares de las Secretarías de Despacho del Poder Ejecutivo Estatal y Municipal. En la integración de los organismos autónomos se observará el mismo principio."
+    },
+    {
+      "id": "003.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 5",
+      "texto": "La jornada comicial tendrá lugar el primer domingo de junio del año que corresponda. El Instituto Electoral del Estado podrá convenir con el Instituto Nacional Electoral, que éste se haga cargo de la organización de los procesos electorales locales, en términos de la legislación aplicable."
+    },
+    {
+      "id": "003.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción I",
+      "texto": "I.- La elección de Gobernador, de Diputados por los principios de mayoría relativa y representación proporcional y de miembros de Ayuntamientos en el Estado, se efectuará conforme a lo previsto en esta Constitución, y el Código de la materia, que regulará:"
+    },
+    {
+      "id": "003.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 3 › Fracción I › inciso a)",
+      "texto": "a) Los actos preliminares al inicio del proceso electoral, así como las etapas del proceso electoral y la forma de participación de los ciudadanos en el mismo;"
+    },
+    {
+      "id": "003.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 3 › Fracción I › inciso b)",
+      "texto": "b) Los derechos, prerrogativas y obligaciones de los partidos políticos;"
+    },
+    {
+      "id": "003.I.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 3 › Fracción I › inciso c)",
+      "texto": "c) Un sistema de medios de impugnación para garantizar que todos los actos y resoluciones electorales se sujeten invariablemente al principio de legalidad;"
+    },
+    {
+      "id": "003.I.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 3 › Fracción I › inciso d)",
+      "texto": "d) Los plazos convenientes para el desahogo de las instancias impugnativas, tomando en cuenta el principio de definitividad de las etapas de los procesos electorales;"
+    },
+    {
+      "id": "003.I.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 3 › Fracción I › inciso e)",
+      "texto": "e) Los supuestos y las reglas para la realización, en los ámbitos administrativo y jurisdiccional, de recuentos totales o parciales de votación;"
+    },
+    {
+      "id": "003.I.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 3 › Fracción I › inciso f)",
+      "texto": "f) Las causales de nulidad de votación recibida en casilla y, de las elecciones; y"
+    },
+    {
+      "id": "003.I.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 3 › Fracción I › inciso g)",
+      "texto": "g) Las faltas administrativas y sanciones."
+    },
+    {
+      "id": "003.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción II",
+      "texto": "II.- El Instituto Electoral del Estado será el organismo público local, dotado de personalidad jurídica y patrimonio propios, gozará de autonomía en su funcionamiento e independencia en sus decisiones, de carácter permanente, al que se le encomendará la función estatal de organizar las elecciones. En el ejercicio de estas funciones serán principios rectores la legalidad, la imparcialidad, la objetividad, la certeza, la independencia y máxima publicidad. Además tendrá a su cargo, en los términos de esta Constitución y de la Ley respectiva, la organización de los procesos de plebiscito y referéndum.\n\nLos órganos del Instituto estarán integrados invariablemente por ciudadanos, quienes de manera exclusiva, con su voto, tomarán las decisiones del organismo; y los partidos políticos en los términos que prescriban las disposiciones legales relativas.\n\nEl Instituto deberá vigilar en el ámbito de su competencia el cumplimiento de las disposiciones de esta Constitución y sus correspondientes reglamentarias, que garanticen el derecho de organización y participación política de los ciudadanos; contribuir al desarrollo de la vida democrática; garantizar la celebración periódica y pacífica de las elecciones para renovar a los integrantes de los Poderes Legislativo, Ejecutivo y de miembros de los Ayuntamientos del Estado;\n\nasegurar el ejercicio de los derechos político-electorales de los ciudadanos y de los partidos políticos, vigilando el cumplimiento de sus obligaciones; vigilar la autenticidad y efectividad del voto;\n\npreservar el fortalecimiento del régimen de partidos políticos y coadyuvar en la promoción y difusión de la cultura política y la educación cívica.\n\nEl Consejo General será el Órgano Superior de Dirección del Instituto y el responsable de vigilar el cumplimiento de las disposiciones constitucionales y legales en materia electoral, así como de vigilar que los principios de legalidad, imparcialidad, objetividad, certeza, independencia y máxima publicidad guíen todas las actividades del Instituto.\n\nEl Consejo General se reunirá entre los días tres y cinco del mes de noviembre del año previo a la elección para declarar el inicio del Proceso Electoral.\n\nEl Consejo General del Instituto se integrará por:"
+    },
+    {
+      "id": "003.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 3 › Fracción II › inciso a)",
+      "texto": "a) Un Consejero Presidente con derecho a voz y voto;"
+    },
+    {
+      "id": "003.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 3 › Fracción II › inciso b)",
+      "texto": "b) Seis Consejeros Electorales con derecho a voz y voto;"
+    },
+    {
+      "id": "003.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 3 › Fracción II › inciso c)",
+      "texto": "c) Se deroga."
+    },
+    {
+      "id": "003.II.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 3 › Fracción II › inciso d)",
+      "texto": "d) Un representante de partido por cada uno de los partidos políticos con registro, previa acreditación, con derecho a voz y sin voto;"
+    },
+    {
+      "id": "003.II.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 3 › Fracción II › inciso e)",
+      "texto": "e) El Secretario Ejecutivo del Instituto, quien es también el Secretario del Consejo General, con derecho a voz y sin voto;"
+    },
+    {
+      "id": "003.II.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 3 › Fracción II › inciso f)",
+      "texto": "f) Derogado."
+    },
+    {
+      "id": "003.II.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 3 › Fracción II › inciso g)",
+      "texto": "g) Derogado.\n\nLos partidos políticos representados en el Congreso podrán participar mediante un representante legislativo en las sesiones del Consejo General como invitados permanentes, no contarán para la integración del quórum, y sólo tendrán derecho a voz sin voto.\n\nLa designación y remoción del Consejero Presidente y de los Consejeros Electorales corresponde al Instituto Nacional Electoral en los términos que establece la legislación correspondiente.\n\nLos Consejeros Electorales Estatales tendrán un período de desempeño de siete años y no podrán ser reelectos. La retribución que perciban los Consejeros Electorales no podrá ser menor a la prevista para los Magistrados del Tribunal Superior de Justicia del Estado.\n\nLos Consejeros Electorales, el Consejero Presidente y el Secretario Ejecutivo, no podrán tener otro empleo, cargo o comisión, con excepción de los no remunerados en actividades docentes, científicas, culturales, de investigación, de beneficencia o de aquéllos en que actúen en representación del Consejo General. Tampoco podrán asumir un cargo público en los órganos emanados de las elecciones en cuya organización y desarrollo hubieren participado, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, durante los dos años posteriores al término de su encargo.\n\nEl Secretario Ejecutivo del Instituto será nombrado por el Consejo General, a propuesta del Consejero Presidente.\n\nCorresponderá al Consejo General del Instituto Electoral del Estado, realizar el cómputo final de la elección de Gobernador, formular la declaración de validez de la elección y expedir la constancia de Gobernador electo a favor del candidato que hubiera alcanzado el mayor número de votos.\n\nEl Instituto Electoral del Estado, será autoridad en la materia, autónomo en su funcionamiento, independiente en sus decisiones y profesional en su desempeño, contando en su estructura con un cuerpo directivo y técnico, en términos de la legislación aplicable. El Instituto contará con servidores públicos investidos de fe pública para actos de naturaleza electoral, sus atribuciones y funcionamiento se regulará en el Código de la materia.\n\nLa fiscalización de las finanzas de los partidos políticos y de las campañas de los candidatos estará a cargo de la Comisión correspondiente del Instituto Nacional Electoral; con excepción de los casos en que le sea delegada dicha función al Instituto Electoral del Estado, en términos de las disposiciones legales aplicables.\n\nLa Ley contemplará la conformación de la Comisión correspondiente y de la estructura de la Unidad encargada de desarrollar los trabajos de fiscalización que de acuerdo con las leyes generales en la materia le corresponden al organismo público local, estableciendo conforme a dichas disposiciones sus atribuciones y estructura.\n\nSe deroga."
+    },
+    {
+      "id": "003.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción III",
+      "texto": "III.- Los partidos políticos son entidades de interés público, democráticos hacia su interior, autónomos y formas de organización política, integrados conforme a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y la legislación general y local en la materia y tienen como fin promover la vida democrática, fomentar el principio de paridad de género, contribuir a la integración de la representación estatal y como organizaciones ciudadanas, hacer posible el acceso de éstos al ejercicio del poder público de acuerdo con los programas, principios, e ideas que postulen y mediante el sufragio universal, libre, secreto y directo, así como las reglas que marque la ley electoral para garantizar la paridad de género, en las candidaturas a los distintos cargos de elección popular.\n\nLos partidos políticos deberán de constituirse sólo por ciudadanos sin intervención de organizaciones gremiales, o con objeto social diferente y sin que haya afiliación corporativa. Asimismo, corresponde a éstos el derecho para solicitar el registro de candidatos a cargos de elección popular, con excepción de lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y en esta Constitución. El partido político local que no obtenga, al menos, el tres por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo locales le será cancelado el registro.\n\nLa ley establecerá los términos y procedimientos para los partidos políticos nacionales que pierdan su registro y que opten por su registro local."
+    },
+    {
+      "id": "003.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción IV",
+      "texto": "IV.- El Tribunal Electoral del Estado, como máxima autoridad jurisdiccional en materia electoral del Estado, es el organismo de control constitucional local, autónomo e independiente, de carácter permanente, encargado de garantizar que los actos y resoluciones electorales se sujeten invariablemente a los principios de constitucionalidad, legalidad y definitividad, rectores en los procesos electorales.\n\nEl Tribunal Electoral del Estado, se integrará por tres Magistrados, que actuarán en forma colegiada y permanecerá en su cargo durante siete años, y serán electos por el Senado de la República, en los términos de la ley aplicable. La retribución que perciban los Magistrados Electorales durante el tiempo que ejerzan sus funciones, no podrá ser menor a la prevista para los Magistrados del Tribunal Superior de Justicia del Estado.\n\nEl Código de la materia establecerá el procedimiento de designación del Magistrado Presidente, así como las reglas para cubrir las vacantes temporales que se presenten. La presidencia deberá ser rotatoria. En el caso de las vacantes definitivas, se dará vista al Senado de la República.\n\nAdemás de lo establecido en las leyes que resulten aplicables, el Código de la materia determinará las causas adicionales de responsabilidad de los Magistrados Electorales.\n\nLas impugnaciones en contra de los actos que, conforme a la base V del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos, realice el Instituto Nacional Electoral con motivo de los procesos electorales locales, serán resueltas por el Tribunal Electoral del Poder Judicial de la Federación, conforme lo determine la legislación aplicable."
+    },
+    {
+      "id": "003.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción V",
+      "texto": "V.- La Ley de la materia establecerá los hechos considerados como delitos electorales."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "006",
+  "etiqueta": "Artículo 6",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "006.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › párrafo 1",
+      "texto": "La Heroica Ciudad de Puebla de Zaragoza será la Capital del Estado;"
+    },
+    {
+      "id": "006.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › párrafo 2",
+      "texto": "los Poderes del Estado residirán en ella o en los municipios conurbados de la misma, no obstante el Ejecutivo podrá, con autorización del Congreso o de la Comisión Permanente, en su caso, cambiar a otro lugar esa residencia."
+    }
+  ]
+}

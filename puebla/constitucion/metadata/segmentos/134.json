@@ -1,0 +1,72 @@
+{
+  "clave": "134",
+  "etiqueta": "Artículo 134",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "134.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 134 › párrafo 1",
+      "texto": "Los servidores públicos de los Poderes Ejecutivo, Legislativo y Judicial del Estado y de los Municipios, así como de las entidades paraestatales y paramunicipales, de los Organismos con autonomía reconocida en esta Constitución y de cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades, exceptuándose los que la Ley declare gratuitos."
+    },
+    {
+      "id": "134.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 134 › párrafo 2",
+      "texto": "Dicha remuneración será determinada anual y equitativamente en los presupuestos de egresos correspondientes, bajo las siguientes bases:"
+    },
+    {
+      "id": "134.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 134 › Fracción I",
+      "texto": "I.- Se considera remuneración o retribución toda percepción en efectivo o en especie, incluyendo dietas, aguinaldos, gratificaciones, premios, recompensas, bonos, estímulos, comisiones, compensaciones y cualquier otra, con excepción de los apoyos y los gastos sujetos a comprobación que sean propios del desarrollo del trabajo y los gastos de viaje en actividades oficiales;"
+    },
+    {
+      "id": "134.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 134 › Fracción II",
+      "texto": "II.- Ningún servidor público podrá recibir remuneración en términos de la fracción anterior, por el desempeño de su función, empleo, cargo o comisión, mayor a la establecida para el Presidente de la República y para el Gobernador del Estado en el respectivo presupuesto;"
+    },
+    {
+      "id": "134.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 134 › Fracción III",
+      "texto": "III.- Ningún servidor público podrá tener una remuneración igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos en los casos permitidos por esta Constitución, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, la suma de dichas retribuciones no deberá exceder la mitad de la remuneración establecida para el Presidente de la República y para el Gobernador del Estado en el presupuesto correspondiente;"
+    },
+    {
+      "id": "134.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 134 › Fracción IV",
+      "texto": "IV.- No se concederán ni cubrirán jubilaciones, pensiones o haberes de retiro, ni liquidaciones por servicios prestados, como tampoco préstamos o créditos, sin que éstos se encuentren asignados y regulados por la Ley, Decreto Legislativo, Contrato Colectivo o condiciones generales de trabajo; estos conceptos no formarán parte de la remuneración.\n\nQuedan excluidas las remuneraciones por los servicios de seguridad que requieran los servidores públicos por razón del cargo desempeñado; y"
+    },
+    {
+      "id": "134.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 134 › Fracción V",
+      "texto": "V.- Las remuneraciones y sus tabuladores serán públicos, y deberán especificar y diferenciar la totalidad de sus elementos fijos y variables tanto en efectivo como en especie."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "118",
+  "etiqueta": "Artículo 118",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "118.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › párrafo 1",
+      "texto": "Es obligación del Estado impartir y fomentar la educación pública en todos sus tipos y modalidades educativos, de acuerdo a las circunstancias del erario y de conformidad con las necesidades de los habitantes. La educación preescolar, primaria, secundaria y media superior son obligatorias."
+    },
+    {
+      "id": "118.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › párrafo 2",
+      "texto": "La educación que se imparta en el Estado de Puebla, formará a los alumnos para que su vida se oriente por los principios y valores fundamentales del ser humano, fomentando en ellos, una cultura cívica y de la paz; esta será gratuita y se sujetará estrictamente a lo dispuesto por el artículo 3o. de la Constitución Política de los Estados Unidos Mexicanos y sus Leyes reglamentarias."
+    }
+  ]
+}

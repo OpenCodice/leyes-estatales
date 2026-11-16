@@ -1,0 +1,90 @@
+{
+  "clave": "063",
+  "etiqueta": "Artículo 63",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "063.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63 › párrafo 1",
+      "texto": "La facultad de iniciar leyes y decretos corresponde:"
+    },
+    {
+      "id": "063.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63 › Fracción I",
+      "texto": "I.- Al Gobernador del Estado."
+    },
+    {
+      "id": "063.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63 › Fracción II",
+      "texto": "II.- A los Diputados."
+    },
+    {
+      "id": "063.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63 › Fracción III",
+      "texto": "III.- A los Plenos de los Órganos del Poder Judicial, a través de sus presidencias, en lo relacionado con su ámbito de competencia y la administración de Justicia."
+    },
+    {
+      "id": "063.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63 › Fracción IV",
+      "texto": "IV.- A los Ayuntamientos en lo relativo a la Administración Municipal."
+    },
+    {
+      "id": "063.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63 › Fracción V",
+      "texto": "V.- A los ciudadanos de la Entidad, debidamente identificados y cuyo número sea cuando menos el dos punto cinco por ciento de los inscritos en el Registro Federal de Electores, quienes en términos de la ley aplicable, podrán presentar al Congreso del Estado, proyectos de leyes respecto a las materias de competencia legislativa del mismo.\n\nNo podrán ser objeto de iniciativa popular las siguientes materias:"
+    },
+    {
+      "id": "063.V.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 63 › Fracción V › inciso a)",
+      "texto": "a) Tributaria o fiscal así como de egresos del Estado;"
+    },
+    {
+      "id": "063.V.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 63 › Fracción V › inciso b)",
+      "texto": "b) Régimen interno de los Poderes del Estado; y"
+    },
+    {
+      "id": "063.V.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 63 › Fracción V › inciso c)",
+      "texto": "c) Las demás que determinen las leyes."
+    }
+  ]
+}
