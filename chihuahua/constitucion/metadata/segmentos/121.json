@@ -1,0 +1,81 @@
+{
+  "clave": "121",
+  "etiqueta": "Artículo 121",
+  "titulo": "TITULO X",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "121.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 1",
+      "texto": "El Ministerio Público estará a cargo de un Fiscal General del Estado, así como de una persona titular de la Fiscalía Anticorrupción del Estado cuando se trate de hechos susceptibles de constituir delitos en materia de corrupción."
+    },
+    {
+      "id": "121.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 2",
+      "texto": "La persona que ocupe la titularidad de la Fiscalía General del Estado será nombrada por el Gobernador y aprobada por el Congreso, mediante el voto de las dos terceras partes de las y los diputados presentes, en votación por cédula, previa comparecencia ante la Junta de Coordinación Política. Su remoción deberá ser aprobada por el Congreso en los mismos términos."
+    },
+    {
+      "id": "121.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 3",
+      "texto": "Si en la votación no se obtienen las dos terceras partes de los votos, el nombramiento será devuelto al Gobernador con las observaciones correspondientes, a efecto de que envíe una nueva propuesta dentro de los siguientes quince días hábiles."
+    },
+    {
+      "id": "121.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 4",
+      "texto": "Para ser Fiscal General del Estado, se requiere:"
+    },
+    {
+      "id": "121.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › Fracción I",
+      "texto": "I. Ser ciudadano mexicano por nacimiento;"
+    },
+    {
+      "id": "121.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › Fracción II",
+      "texto": "II. Ser mayor de 30 años;"
+    },
+    {
+      "id": "121.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › Fracción III",
+      "texto": "III. Tener título de Licenciado en Derecho debidamente registrado y cinco años cuando menos de ejercicio profesional; y"
+    },
+    {
+      "id": "121.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › Fracción IV",
+      "texto": "IV. No ser ministro de algún culto religioso o haberse retirado del mismo en los términos de ley.\n\n[Artículo reformado en el segundo párrafo mediante Decreto No. LXV/RFCNT/0362/2017 VI P.E. publicado en el P.O.E. No. 69 del 30 de agosto de 2017]\n\n[Artículo reformado mediante Decreto No. 1141-2010 XII P.E. publicado en el P.O.E No. 74 del 15 de septiembre de 2010]\n\n[Artículo reformado en el párrafo primero mediante Decreto No. LXVI/RFCNT/0640/2019 I P.O. publicado en el P.O.E. No. 10 del 1 de febrero de 2020]"
+    }
+  ]
+}

@@ -1,0 +1,432 @@
+{
+  "clave": "138",
+  "etiqueta": "Artículo 138",
+  "titulo": "TITULO XI",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "138.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138 › párrafo 1",
+      "texto": "La ley en materia municipal determinará los ramos que sean de la competencia del gobierno municipal, la que será ejercida por los ayuntamientos en forma exclusiva."
+    },
+    {
+      "id": "138.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138 › párrafo 2",
+      "texto": "Los ramos a que se refiere el párrafo anterior, en forma enunciativa y no limitativa, serán los siguientes:"
+    },
+    {
+      "id": "138.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138 › Fracción I",
+      "texto": "I. En materia de funciones y servicios públicos:"
+    },
+    {
+      "id": "138.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 138 › Fracción I › inciso a)",
+      "texto": "a) Seguridad pública en los términos del artículo 21 de la Constitución Federal, policía preventiva municipal y tránsito;"
+    },
+    {
+      "id": "138.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 138 › Fracción I › inciso b)",
+      "texto": "b) Agua potable y saneamiento, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;"
+    },
+    {
+      "id": "138.I.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 138 › Fracción I › inciso c)",
+      "texto": "c) Pavimentación y nomenclaturas de calles;"
+    },
+    {
+      "id": "138.I.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 138 › Fracción I › inciso d)",
+      "texto": "d) Limpia, recolección, traslado, tratamiento y disposición final de residuos;"
+    },
+    {
+      "id": "138.I.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 138 › Fracción I › inciso e)",
+      "texto": "e) Alumbrado público;"
+    },
+    {
+      "id": "138.I.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 138 › Fracción I › inciso f)",
+      "texto": "f) Rastros, mercados y centrales de abasto;"
+    },
+    {
+      "id": "138.I.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 138 › Fracción I › inciso g)",
+      "texto": "g) Calles, parques, jardines y su equipamiento;"
+    },
+    {
+      "id": "138.I.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 138 › Fracción I › inciso h)",
+      "texto": "h) Panteones; autorización para construcción ejecutadas por particulares, su planificación y modificación;"
+    },
+    {
+      "id": "138.I.i",
+      "tipo": "inciso",
+      "marca": "i",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 138 › Fracción I › inciso i)",
+      "texto": "i) Alineamiento, ampliación y ornato de las calles, jardines, paseos y caminos vecinales; y,"
+    },
+    {
+      "id": "138.I.j",
+      "tipo": "inciso",
+      "marca": "j",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 138 › Fracción I › inciso j)",
+      "texto": "j) Todos aquellos que por determinación de la ley o declaración de la autoridad competente deban ser considerados como servicios públicos municipales.\n\nSin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios a su cargo, los municipios del Estado observarán lo dispuesto por las leyes federales y estatales.\n\nLos municipios, previo acuerdo entre sus ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. Cuando se trate de municipios de otro Estado, se deberá contar con la aprobación del Congreso. Así mismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio."
+    },
+    {
+      "id": "138.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138 › Fracción II",
+      "texto": "II. En materia de acción política gubernativa:"
+    },
+    {
+      "id": "138.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 138 › Fracción II › inciso a)",
+      "texto": "a) Castigo de las infracciones de policía;"
+    },
+    {
+      "id": "138.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 138 › Fracción II › inciso b)",
+      "texto": "b) Espectáculos públicos;"
+    },
+    {
+      "id": "138.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 138 › Fracción II › inciso c)",
+      "texto": "c) Establecimientos fabriles y comerciales en lo que atañe al régimen municipal; y,"
+    },
+    {
+      "id": "138.II.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 138 › Fracción II › inciso d)",
+      "texto": "d) Cumplimiento de las disposiciones que le encomienden las leyes Federales y del Estado;"
+    },
+    {
+      "id": "138.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138 › Fracción III",
+      "texto": "III. En materia hacendaria:"
+    },
+    {
+      "id": "138.III.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 138 › Fracción III › inciso a)",
+      "texto": "a) El ejercicio correcto de sus presupuestos de ingresos y egresos; y,"
+    },
+    {
+      "id": "138.III.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 138 › Fracción III › inciso b)",
+      "texto": "b) La celebración de empréstitos y obligaciones que legalmente deba contraer;"
+    },
+    {
+      "id": "138.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138 › Fracción IV",
+      "texto": "IV. En materia de acción cívica: las actividades que propendan a exaltar el espíritu cívico y los sentimientos patrióticos;"
+    },
+    {
+      "id": "138.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138 › Fracción V",
+      "texto": "V. En materia de trabajo:"
+    },
+    {
+      "id": "138.V.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 138 › Fracción V › inciso a)",
+      "texto": "a) Cooperación con las demás autoridades para la mejor aplicación de la Ley Federal del Trabajo; y,"
+    },
+    {
+      "id": "138.V.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 138 › Fracción V › inciso b)",
+      "texto": "b) Vigilancia para que no trabajen menores de edad en cantinas y centros de vicios;"
+    },
+    {
+      "id": "138.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138 › Fracción VI",
+      "texto": "VI. En materia de economía: cooperación con las demás autoridades para combatir la especulación y carestía de la vida y fomento del turismo;"
+    },
+    {
+      "id": "138.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138 › Fracción VII",
+      "texto": "VII. En materia de agricultura y ganadería: combate de las plagas, del robo de ganado y de productos agrícolas;"
+    },
+    {
+      "id": "138.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138 › Fracción VIII",
+      "texto": "VIII. En materia de obras públicas y comunicaciones: conservación y mejora de los bienes municipales y planeación de nuevas obras;"
+    },
+    {
+      "id": "138.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138 › Fracción IX",
+      "texto": "IX. En materia de educación:"
+    },
+    {
+      "id": "138.IX.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "IX",
+      "ruta": "Artículo 138 › Fracción IX › inciso a)",
+      "texto": "a) Sostenimiento de las escuelas municipales,"
+    },
+    {
+      "id": "138.IX.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "IX",
+      "ruta": "Artículo 138 › Fracción IX › inciso b)",
+      "texto": "b) Otorgamiento de becas; y,"
+    },
+    {
+      "id": "138.IX.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "IX",
+      "ruta": "Artículo 138 › Fracción IX › inciso c)",
+      "texto": "c) Fomento de la educación física."
+    },
+    {
+      "id": "138.IX.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "IX",
+      "ruta": "Artículo 138 › Fracción IX › inciso d)",
+      "texto": "d) Fortalecer la participación social en la educación en todos los niveles y modalidades."
+    },
+    {
+      "id": "138.IX.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "IX",
+      "ruta": "Artículo 138 › Fracción IX › inciso e)",
+      "texto": "e) La promoción de la educación ambiental y la conservación del entorno."
+    },
+    {
+      "id": "138.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138 › Fracción X",
+      "texto": "X. En materia de salubridad, salud y asistencia social:"
+    },
+    {
+      "id": "138.X.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "X",
+      "ruta": "Artículo 138 › Fracción X › inciso a)",
+      "texto": "a) Prestación de servicios de atención médica y vigilancia de mercados, servicios de agua potable, drenaje, limpia, transporte de basuras, epidemias; y"
+    },
+    {
+      "id": "138.X.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "X",
+      "ruta": "Artículo 138 › Fracción X › inciso b)",
+      "texto": "b) Prestación de servicios de asistencia social, así como el sostenimiento de hospitales, clínicas, casas hogar, centros de día, guarderías infantiles y demás establecimientos de asistencia social pública en el ámbito municipal;"
+    },
+    {
+      "id": "138.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138 › Fracción XI",
+      "texto": "XI. En materia de desarrollo urbano:"
+    },
+    {
+      "id": "138.XI.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "XI",
+      "ruta": "Artículo 138 › Fracción XI › inciso a)",
+      "texto": "a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal;"
+    },
+    {
+      "id": "138.XI.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "XI",
+      "ruta": "Artículo 138 › Fracción XI › inciso b)",
+      "texto": "b) Participar en la creación y administración de sus reservas territoriales;"
+    },
+    {
+      "id": "138.XI.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "XI",
+      "ruta": "Artículo 138 › Fracción XI › inciso c)",
+      "texto": "c) Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando la Federación o el Estado elaboren proyectos de desarrollo regional deberán asegurar la participación de los municipios;"
+    },
+    {
+      "id": "138.XI.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "XI",
+      "ruta": "Artículo 138 › Fracción XI › inciso d)",
+      "texto": "d) Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales;"
+    },
+    {
+      "id": "138.XI.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "XI",
+      "ruta": "Artículo 138 › Fracción XI › inciso e)",
+      "texto": "e) Intervenir en la regularización de la tenencia de la tierra urbana;"
+    },
+    {
+      "id": "138.XI.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "XI",
+      "ruta": "Artículo 138 › Fracción XI › inciso f)",
+      "texto": "f) Otorgar licencias y permisos de construcciones;"
+    },
+    {
+      "id": "138.XI.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "XI",
+      "ruta": "Artículo 138 › Fracción XI › inciso g)",
+      "texto": "g) Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;"
+    },
+    {
+      "id": "138.XI.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "",
+      "fraccion": "XI",
+      "ruta": "Artículo 138 › Fracción XI › inciso h)",
+      "texto": "h) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial, y,"
+    },
+    {
+      "id": "138.XI.i",
+      "tipo": "inciso",
+      "marca": "i",
+      "apartado": "",
+      "fraccion": "XI",
+      "ruta": "Artículo 138 › Fracción XI › inciso i)",
+      "texto": "i) Celebrar convenios para la administración y custodia de las zonas federales.\n\nEn lo conducente y de conformidad con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Federal, los municipios expedirán los reglamentos y disposiciones que fueren necesarios.\n\n[Artículo adicionado con el Inciso e) en la fracción IX mediante Decreto No. LXV/RFCNT/0705/2018 IX P.E. publicado en el P.O.E. No. 40 del 19 de mayo de 2018]\n\n[Artículo adicionado con el inciso d) en la fracción IX mediante Decreto No. 441-2011 IV P.E. publicado en el P.O.E. No. 43 del 30 de mayo de 2012]\n\n[Artículo reformado en la fracción X y en los incisos a) y b) de la misma fracción mediante Decreto No. 640-09 II P.O. publicado en el P.O.E. No. 99 del 12 de diciembre de 2009]\n\n[Artículo reformado y adicionado mediante Decreto No. 850-01 II P.O. publicado en el P.O.E. No. 38 del 12 de mayo del 2001]"
+    }
+  ]
+}

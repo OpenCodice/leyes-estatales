@@ -1,0 +1,36 @@
+{
+  "clave": "039",
+  "etiqueta": "Artículo 39",
+  "titulo": "TITULO VI",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "039.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 1",
+      "texto": "El Instituto Estatal Electoral tendrá competencia para conocer de los instrumentos de participación ciudadana vinculados a los derechos políticos."
+    },
+    {
+      "id": "039.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 2",
+      "texto": "Todo acto u omisión ilegales en los procesos electorales, plebiscitarios, de referéndum o revocación de mandato será causa de responsabilidad. La ley determinará las sanciones correspondientes."
+    },
+    {
+      "id": "039.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 3",
+      "texto": "[Artículo reformado mediante Decreto No. LXV/RFCNT/0769/2018 II P.O. publicado en el P.O.E. No. 50 del 23 de junio de 2018]"
+    }
+  ]
+}

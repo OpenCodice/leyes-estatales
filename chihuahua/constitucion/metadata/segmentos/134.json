@@ -1,0 +1,27 @@
+{
+  "clave": "134",
+  "etiqueta": "Artículo 134",
+  "titulo": "TITULO XI",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "134.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 134 › párrafo 1",
+      "texto": "Los ayuntamientos presentarán al Congreso la cuenta pública anual y los informes trimestrales, en los términos de la normatividad correspondiente."
+    },
+    {
+      "id": "134.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 134 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 910-2015 II P.O. publicado en el P.O.E. No. 98 del 9 de diciembre de 2015]"
+    }
+  ]
+}

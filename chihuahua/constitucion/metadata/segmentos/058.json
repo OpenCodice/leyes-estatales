@@ -1,0 +1,27 @@
+{
+  "clave": "058",
+  "etiqueta": "Artículo 58",
+  "titulo": "TITULO VII",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "058.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 1",
+      "texto": "Son materia de ley aquellas resoluciones emitidas dentro de la órbita de atribuciones del Poder Legislativo que tengan un contenido general y versen sobre materias de interés común; de decreto, las que dentro de la misma órbita tengan un contenido particular y versen sobre determinados tiempos, personas o lugares; de acuerdo, las que sean distintas de las anteriores; y de iniciativa de ley o decreto las que resuelva presentar conforme al artículo 71, fracción III, de la Constitución Federal."
+    },
+    {
+      "id": "058.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

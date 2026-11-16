@@ -1,0 +1,27 @@
+{
+  "clave": "149",
+  "etiqueta": "Artículo 149",
+  "titulo": "TITULO XII",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "149.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 149 › párrafo 1",
+      "texto": "Derogado."
+    },
+    {
+      "id": "149.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 149 › párrafo 2",
+      "texto": "[Artículo derogado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "clave": "022",
+  "etiqueta": "Artículo 22",
+  "titulo": "TITULO III",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "022.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › párrafo 1",
+      "texto": "Son deberes de los ciudadanos chihuahuenses:"
+    },
+    {
+      "id": "022.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción I",
+      "texto": "I. Alistarse y servir en la Guardia Nacional."
+    },
+    {
+      "id": "022.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción II",
+      "texto": "II. Votar en las elecciones populares."
+    },
+    {
+      "id": "022.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción III",
+      "texto": "III. Desempeñar los cargos de elección popular de la Federación, del Estado y de los municipios."
+    },
+    {
+      "id": "022.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción IV",
+      "texto": "IV. Desempeñar las funciones electorales y las de jurado conforme a la Ley."
+    }
+  ]
+}

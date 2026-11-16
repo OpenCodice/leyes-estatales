@@ -1,0 +1,243 @@
+{
+  "clave": "132",
+  "etiqueta": "Artículo 132",
+  "titulo": "TITULO XI",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "132.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › párrafo 1",
+      "texto": "Los municipios administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan y en forma especial con los ingresos siguientes:"
+    },
+    {
+      "id": "132.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Fracción I",
+      "texto": "I. Impuestos:"
+    },
+    {
+      "id": "132.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Apartado A",
+      "texto": "A) Las contribuciones, incluyendo las tasas adicionales que establezcan las leyes sobre la propiedad inmobiliaria, de su fraccionamiento y división, consolidación, traslación y mejora así como las que tengan por base el cambio de valor de los inmuebles;"
+    },
+    {
+      "id": "132.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Apartado B",
+      "texto": "B) Espectáculos públicos;"
+    },
+    {
+      "id": "132.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Apartado C",
+      "texto": "C) Juegos, rifas y loterías permitidos por la ley;"
+    },
+    {
+      "id": "132.D",
+      "tipo": "apartado",
+      "marca": "D",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Apartado D",
+      "texto": "D) Pavimentación de calles y demás áreas públicas;"
+    },
+    {
+      "id": "132.E",
+      "tipo": "apartado",
+      "marca": "E",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Apartado E",
+      "texto": "E) Aumento del valor y mejoría específica de la propiedad, y F) Contribuciones extraordinarias;"
+    },
+    {
+      "id": "132.E.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Apartado E › Fracción II",
+      "texto": "II. Derechos:"
+    },
+    {
+      "id": "132.A~2",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Apartado A",
+      "texto": "A) Por alineación de predios, asignación de número Oficial, licencias de construcción y pruebas de estabilidad;"
+    },
+    {
+      "id": "132.B~2",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Apartado B",
+      "texto": "B) Por supervisión y autorización de obras de urbanización en fraccionamientos;"
+    },
+    {
+      "id": "132.C~2",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Apartado C",
+      "texto": "C) Por servicios generales en los rastros;"
+    },
+    {
+      "id": "132.D~2",
+      "tipo": "apartado",
+      "marca": "D",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Apartado D",
+      "texto": "D) Por legalización de firmas, certificaciones y expedición de documentos municipales;"
+    },
+    {
+      "id": "132.E~2",
+      "tipo": "apartado",
+      "marca": "E",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Apartado E",
+      "texto": "E) Por ocupación de la vía pública para estacionamiento de vehículos;"
+    },
+    {
+      "id": "132.F",
+      "tipo": "apartado",
+      "marca": "F",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Apartado F",
+      "texto": "F) Sobre cementerios municipales;"
+    },
+    {
+      "id": "132.G",
+      "tipo": "apartado",
+      "marca": "G",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Apartado G",
+      "texto": "G) Por licencias para apertura y funcionamiento de negocios comerciales y horas extraordinarias; para vendedores ambulantes y artesanos a domicilio y las demás que sean competencia del municipio;"
+    },
+    {
+      "id": "132.H",
+      "tipo": "apartado",
+      "marca": "H",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Apartado H",
+      "texto": "H) Anuncios y propaganda comercial;"
+    },
+    {
+      "id": "132.I~2",
+      "tipo": "apartado",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Apartado I",
+      "texto": "I) Por los servicios públicos siguientes:"
+    },
+    {
+      "id": "132.I.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "I",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Apartado I › 1.",
+      "texto": "1. Alumbrado público;"
+    },
+    {
+      "id": "132.I.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "I",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Apartado I › 2.",
+      "texto": "2. Aseo, recolección y transporte de basura;"
+    },
+    {
+      "id": "132.I.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "I",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Apartado I › 3.",
+      "texto": "3. Por servicio de agua potable y saneamiento;"
+    },
+    {
+      "id": "132.I.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "I",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Apartado I › 4.",
+      "texto": "4. Tránsito municipal;"
+    },
+    {
+      "id": "132.I.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "I",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Apartado I › 5.",
+      "texto": "5. Mercados y centrales de abasto; y J) Los demás que establezca la ley."
+    },
+    {
+      "id": "132.I.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "I",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Apartado I › Fracción III",
+      "texto": "III. Los productos y aprovechamientos que la ley determine;"
+    },
+    {
+      "id": "132.I.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "I",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Apartado I › Fracción IV",
+      "texto": "IV. Las participaciones federales, que les serán cubiertas con arreglo a las bases, montos y plazos que anualmente se determinen por el Congreso del Estado, a partir de criterios que se establezcan en la Ley;"
+    },
+    {
+      "id": "132.I.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "I",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Apartado I › Fracción V",
+      "texto": "V. Las participaciones estatales que les correspondan conforme a la ley, y"
+    },
+    {
+      "id": "132.I.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "I",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Apartado I › Fracción VI",
+      "texto": "VI. Los subsidios extraordinarios que les otorguen el Estado y la Federación.\n\nLos municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de cualquiera de los ingresos municipales.\n\nLos recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos, o bien, por quien ellos autoricen, conforme a la ley.\n\n[Artículo reformado en la fracción IV mediante Decreto No. LXV/RFCNT/0882/2018 XVIII P.E. publicado en el P.O.E. No. 94 del 24 de noviembre de 2018]\n\n[Artículo adicionado con un tercer párrafo mediante Decreto No. 850-01 II P.O. publicado en el P.O.E. No. 38 del 12 de mayo del 2001]"
+    }
+  ]
+}

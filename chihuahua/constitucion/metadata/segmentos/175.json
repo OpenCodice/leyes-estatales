@@ -1,0 +1,27 @@
+{
+  "clave": "175",
+  "etiqueta": "Artículo 175",
+  "titulo": "TITULO XII",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "175.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 175 › párrafo 1",
+      "texto": "La ley castigará severamente toda concentración o acaparamiento de artículos de consumo necesario, aún cuando no sean de primera necesidad, y todo negocio, servicio al público, acto, procedimiento o combinación que provoquen directa o indirectamente un alza artificial en los precios; pudiendo en cualquier tiempo el Ejecutivo, sin necesidad de autorización especial, nombrar comisiones que investiguen los hechos prohibidos en este artículo y las maniobras de los acaparadores o manipuladores, los cuales, al haber sospechas de su responsabilidad, serán consignados a las autoridades judiciales."
+    },
+    {
+      "id": "175.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 175 › párrafo 2",
+      "texto": "No se considerarán comprendidos en esta prohibición los actos que ejecutaren las asociaciones de trabajadores o de productores, para los fines, en los términos y bajo las condiciones que expresan los párrafos tercero y cuarto del artículo 28 de la Constitución General."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "150",
+  "etiqueta": "Artículo 150",
+  "titulo": "TITULO XII",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "150.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 150 › párrafo 1",
+      "texto": "En el Estado de Chihuahua es altamente honroso y meritorio servir a la educación pública. La ley determinará las recompensas y distinciones a los profesores que las merezcan por sus servicios."
+    },
+    {
+      "id": "150.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 150 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

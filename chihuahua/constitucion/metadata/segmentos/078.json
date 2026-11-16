@@ -1,0 +1,27 @@
+{
+  "clave": "078",
+  "etiqueta": "Artículo 78",
+  "titulo": "TITULO VII",
+  "capitulo": "CAPITULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "078.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › párrafo 1",
+      "texto": "Las leyes, decretos, reglamentos y demás disposiciones de observancia general obligan a partir del día que en las mismas se fije; en su defecto, al día siguiente de su publicación en el Periódico Oficial del Estado."
+    },
+    {
+      "id": "078.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

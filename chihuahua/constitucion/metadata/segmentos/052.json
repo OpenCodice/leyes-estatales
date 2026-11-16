@@ -1,0 +1,27 @@
+{
+  "clave": "052",
+  "etiqueta": "Artículo 52",
+  "titulo": "TITULO VII",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "052.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › párrafo 1",
+      "texto": "Si el período extraordinario se prolongare hasta la fecha en que deba comenzar alguno de los ordinarios, cesará aquél, pero en éste se tratarán de preferencia los asuntos que hubieren quedado pendientes."
+    },
+    {
+      "id": "052.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

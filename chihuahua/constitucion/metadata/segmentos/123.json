@@ -1,0 +1,27 @@
+{
+  "clave": "123",
+  "etiqueta": "Artículo 123",
+  "titulo": "TITULO X",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "123.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 1",
+      "texto": "Las ausencias temporales de los agentes del ministerio público serán cubiertas en los términos que señale la ley orgánica."
+    },
+    {
+      "id": "123.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

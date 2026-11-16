@@ -1,0 +1,45 @@
+{
+  "clave": "016",
+  "etiqueta": "Artículo 16",
+  "titulo": "TITULO III",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "016.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › párrafo 1",
+      "texto": "La vecindad no se pierde:"
+    },
+    {
+      "id": "016.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Fracción I",
+      "texto": "I. Por ausencia en el desempeño de cargos o empleos públicos, o comisión, que no sean permanentes."
+    },
+    {
+      "id": "016.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Fracción II",
+      "texto": "II. Por ausencia con motivo de negocio particular siempre que el individuo manifieste a la autoridad administrativa local, antes de que se cumpla el año de su ausencia, el ánimo de conservar su vecindad."
+    },
+    {
+      "id": "016.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Fracción III",
+      "texto": "III. Por ausencia con motivo de estudios científicos o artísticos, o persecuciones políticas, si el hecho que las motiva no constituye delito de otro género.\n\nEn todo caso el ausente perderá la vecindad si la adquiere de modo expreso fuera del Estado."
+    }
+  ]
+}

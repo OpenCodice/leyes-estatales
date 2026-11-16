@@ -1,0 +1,36 @@
+{
+  "clave": "060",
+  "etiqueta": "Artículo 60",
+  "titulo": "TITULO VII",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "060.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › párrafo 1",
+      "texto": "Si una vez instalado el Congreso transcurren treinta días sin que uno o más diputados propietarios de mayoría relativa concurran sin mediar causa justificada, se llamará al suplente respectivo. Si éste no concurre dentro de los quince días siguientes al llamado, el Congreso del Estado hará la declaratoria de la vacante y notificará al Instituto Estatal Electoral para que convoque a nuevas elecciones del distrito o distritos electorales a que corresponda la ausencia."
+    },
+    {
+      "id": "060.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › párrafo 2",
+      "texto": "En el caso de que la o el suplente no acuda a tomar la protesta de ley por muerte o incapacidad declarada por la autoridad competente y esto ocurra en el último año de ejercicio constitucional, se le hará el llamado a la o el candidato propietario siguiente en el orden de acreditación que corresponda a su partido, en la lista de representación proporcional."
+    },
+    {
+      "id": "060.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › párrafo 3",
+      "texto": "[Artículo reformado en el segundo párrafo mediante Decreto No. LXV/RFCNT/0374/2017 VIII P.E publicado en el P.O.E. No. 69 del 30 de agosto de 2017]"
+    }
+  ]
+}

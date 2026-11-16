@@ -1,0 +1,63 @@
+{
+  "clave": "119",
+  "etiqueta": "Artículo 119",
+  "titulo": "TITULO X",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "119.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › párrafo 1",
+      "texto": "Son atribuciones del Ministerio Público:"
+    },
+    {
+      "id": "119.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › Fracción I",
+      "texto": "I. Intervenir, ejerciendo la acción penal, en todos los juicios de este orden, así como brindar asesoría, atención y protección a las personas que sean víctimas u ofendidas de delito, en los términos de la ley reglamentaria;"
+    },
+    {
+      "id": "119.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › Fracción II",
+      "texto": "II. Cuidar de que se ejecuten las penas impuestas por los Tribunales, exigiendo, de quien corresponda y bajo su responsabilidad, el cumplimiento de las sentencias recaídas;"
+    },
+    {
+      "id": "119.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › Fracción III",
+      "texto": "III. Intervenir en los juicios y diligencias del orden civil que se relacionen con personas ausentes, menores de edad o incapaces a los que representará velando por sus intereses, así como a los establecimientos públicos con fines de asistencia social, siempre que éstos no tuvieren quien los patrocine."
+    },
+    {
+      "id": "119.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › Fracción IV",
+      "texto": "IV. Rendir a los Poderes del Estado y a la Comisión Estatal de Derechos Humanos, los informes que le soliciten sobre asuntos relativos a su ramo, en el caso de esta última, únicamente en asuntos de su competencia;"
+    },
+    {
+      "id": "119.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › Fracción V",
+      "texto": "V. Dictar órdenes, en el ejercicio de sus funciones a la Policía que esté bajo su autoridad y mando inmediato.\n\n[Artículo reformado en las fracciones I y II mediante Decreto No. 640-09 II P.O. publicado en el P.O.E. No. 99 del 12 de diciembre de 2009]\n\n[Artículo reformado en la fracción V mediante Decreto No. 1133-04 XV P.E. publicado en el P.O.E. No. 75 del 18 de septiembre de 2004]"
+    }
+  ]
+}

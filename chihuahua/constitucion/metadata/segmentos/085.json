@@ -1,0 +1,27 @@
+{
+  "clave": "085",
+  "etiqueta": "Artículo 85",
+  "titulo": "TITULO VIII",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "085.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › párrafo 1",
+      "texto": "El cargo de Gobernador sólo es renunciable por causa grave que calificará el Congreso, ante el que se presentará la renuncia."
+    },
+    {
+      "id": "085.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "033",
+  "etiqueta": "Artículo 33",
+  "titulo": "TÍTULO V",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "033.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › párrafo 1",
+      "texto": "En caso de desaparición, solamente del Congreso, del Ejecutivo, o del Tribunal Superior de Justicia, los demás Poderes procederán, en la forma prescrita por esta Constitución, a restablecer el Poder desaparecido."
+    },
+    {
+      "id": "033.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 1622-2016 XXII P.E. publicado en el P.O.E. No. 79 del 01 de octubre de 2016]"
+    }
+  ]
+}

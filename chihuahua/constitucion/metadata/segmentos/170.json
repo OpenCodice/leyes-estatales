@@ -1,0 +1,63 @@
+{
+  "clave": "170",
+  "etiqueta": "Artículo 170",
+  "titulo": "TITULO XII",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "170.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 170 › párrafo 1",
+      "texto": "El Sistema Estatal de Fiscalización tiene por objeto establecer acciones y mecanismos de coordinación entre los integrantes del mismo, en el ámbito de sus respectivas competencias, así como con el Sistema Nacional de Fiscalización, a fin de promover el intercambio de información, ideas y experiencias encaminadas a avanzar en el desarrollo de la fiscalización de los recursos públicos, en los términos que determinen la ley estatal y federal en la materia."
+    },
+    {
+      "id": "170.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 170 › párrafo 2",
+      "texto": "Son integrantes del Sistema Estatal de Fiscalización:"
+    },
+    {
+      "id": "170.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 170 › Fracción I",
+      "texto": "I. La Auditoría Superior del Estado;"
+    },
+    {
+      "id": "170.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 170 › Fracción II",
+      "texto": "II. La Secretaría responsable del Control Interno del Ejecutivo;"
+    },
+    {
+      "id": "170.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 170 › Fracción III",
+      "texto": "III. Los órganos internos de control de los organismos constitucionalmente autónomos, y"
+    },
+    {
+      "id": "170.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 170 › Fracción IV",
+      "texto": "IV. Las Sindicaturas Municipales.\n\nLos entes públicos estatales fiscalizadores y fiscalizados deberán apoyar en todo momento al Sistema Estatal de Fiscalización en la implementación de mejoras para la fiscalización de los recursos públicos\n\n[Artículo reformado mediante Decreto No. LXV/RFCNT/0362/2017 VI P.E. publicado en el P.O.E. No. 69 del 30 de agosto de 2017]"
+    }
+  ]
+}

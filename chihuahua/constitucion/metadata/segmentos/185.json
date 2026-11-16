@@ -1,0 +1,27 @@
+{
+  "clave": "185",
+  "etiqueta": "Artículo 185",
+  "titulo": "TITULO XIII",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "185.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 185 › párrafo 1",
+      "texto": "Las declaraciones y resoluciones del Congreso a que se refieren los artículos 181 y 183 son inatacables."
+    },
+    {
+      "id": "185.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 185 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

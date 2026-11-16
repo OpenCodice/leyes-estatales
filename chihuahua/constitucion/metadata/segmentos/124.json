@@ -1,0 +1,45 @@
+{
+  "clave": "124",
+  "etiqueta": "Artículo 124",
+  "titulo": "TITULO X",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "124.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 124 › párrafo 1",
+      "texto": "Los Fiscales Especializados, los Agentes del Ministerio Público y todo el personal de la Fiscalía General del Estado protestarán ante el Fiscal General del Estado."
+    },
+    {
+      "id": "124.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 124 › párrafo 2",
+      "texto": "Los agentes del Ministerio Público y el resto del personal de la Fiscalía Anticorrupción protestarán ante la persona titular de esta."
+    },
+    {
+      "id": "124.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 124 › párrafo 3",
+      "texto": "[Artículo reformado mediante Decreto No. 1141-2010 XII P.E. publicado en el P.O.E. No. 74 del 15 de septiembre de 2010]"
+    },
+    {
+      "id": "124.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 124 › párrafo 4",
+      "texto": "[Artículo adicionado con un segundo párrafo mediante Decreto No. LXVI/RFCNT/0640/2019 I P.O. publicado en el P.O.E. No. 10 del 1 de febrero de 2020]"
+    }
+  ]
+}
