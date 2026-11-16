@@ -1,0 +1,45 @@
+{
+  "clave": "061",
+  "etiqueta": "Artículo 61",
+  "titulo": "",
+  "capitulo": "CAPÍTULO XV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "061.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › párrafo 1",
+      "texto": "Para ser Gobernador se requiere:"
+    },
+    {
+      "id": "061.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › Fracción I",
+      "texto": "I. Ser ciudadano mexicano por nacimiento;"
+    },
+    {
+      "id": "061.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › Fracción II",
+      "texto": "II. Ser nativo del Estado, o con residencia efectiva en el mismo no menor de cinco años inmediatamente anteriores al día de la elección; y"
+    },
+    {
+      "id": "061.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › Fracción III",
+      "texto": "III. Tener treinta años cumplidos al día de la elección.\n\nNota: Se reformó la fracción III mediante decreto No. 224 de la L Legislatura, publicado en el P. O. del Gobierno del Estado No. 3251 de fecha 27 de mayo de 1983.\n\nNota: Se reformó mediante decreto No. 103 de la LII legislatura, publicado en el P. O. del Gobierno del Estado “La Muralla” No. 736 de fecha 29 de diciembre de 1987.\n\nNota: Se reformó la fracción III mediante decreto No. 264 de la LIII legislatura, publicado en el P. O. del Gobierno del Estado No. 133 de fecha 1 abril de 1992.\n\nNota: Se reformó mediante decreto No. 173 de la LIX Legislatura, publicado en el P. O. No. 4115, Segunda Sección de fecha 9 de septiembre de 2008."
+    }
+  ]
+}

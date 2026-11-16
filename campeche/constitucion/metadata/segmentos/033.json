@@ -1,0 +1,72 @@
+{
+  "clave": "033",
+  "etiqueta": "Artículo 33",
+  "titulo": "",
+  "capitulo": "CAPÍTULO XI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "033.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › párrafo 1",
+      "texto": "Para ser diputado se requiere:"
+    },
+    {
+      "id": "033.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › Fracción I",
+      "texto": "I. Ser mexicano por nacimiento y ciudadano campechano en ejercicio de sus derechos;"
+    },
+    {
+      "id": "033.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › Fracción II",
+      "texto": "II. Tener 21 años cumplidos, el día de la elección;"
+    },
+    {
+      "id": "033.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › Fracción III",
+      "texto": "III. Además de los requisitos anteriores, según el caso se necesitarán los siguientes:"
+    },
+    {
+      "id": "033.III.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 33 › Fracción III › inciso a)",
+      "texto": "a) Ser originario del municipio en donde esté ubicado el distrito en que se haga la elección, con residencia en el propio municipio de seis meses inmediatamente anteriores a la fecha en que aquella se verifique;"
+    },
+    {
+      "id": "033.III.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 33 › Fracción III › inciso b)",
+      "texto": "b) Ser nativo del Estado, con residencia de un año en el municipio en donde esté ubicado el distrito respectivo, inmediatamente anterior a la fecha de la elección;"
+    },
+    {
+      "id": "033.III.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 33 › Fracción III › inciso c)",
+      "texto": "c) Si se es oriundo de otro Estado, tener residencia cuando menos de cinco años en el de Campeche y de un año en el municipio en donde esté ubicado el distrito electoral de que se trate.\n\nNo será impedimento la ausencia eventual en cualquiera de los casos, siempre que no se conserve la vecindad de otro Estado.\n\nNota: Se reformó la fracción II mediante decreto No. 145 de la XLIX Legislatura, publicado en el P. O. del Gobierno del Estado No. 2712 de fecha 25 de septiembre de 1979.\n\nNota: Se reformó el inciso c) de la fracción III mediante decreto No. 224 de la L Legislatura, publicado en el P. O. del Gobierno del Estado No. 3251 de fecha 27 de mayo de 1983.\n\nNota: Se reformó el primer párrafo mediante decreto No. 104 de la LII Legislatura, publicado en el P. O. del Gobierno del Estado “La Muralla” No. 1741 de fecha 27 de diciembre de 1990.\n\nNota: Se reformó la fracción III mediante decreto No. 264 de la LIII Legislatura, publicado en el P. O. del Gobierno del Estado No. 133 de fecha 1 abril de 1992."
+    }
+  ]
+}

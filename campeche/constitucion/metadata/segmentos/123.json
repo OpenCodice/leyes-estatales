@@ -1,0 +1,18 @@
+{
+  "clave": "123",
+  "etiqueta": "Artículo 123",
+  "titulo": "",
+  "capitulo": "CAPÍTULO XX",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "123.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 1",
+      "texto": "Las publicaciones de carácter confesional, ya sea por su programa, por su título o simplemente por sus tendencias ordinarias, no podrán comentar los asuntos políticos locales ni informar sobre actos de las autoridades del Estado o de particulares, que se relacionen con el funcionamiento de instituciones públicas."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "008",
+  "etiqueta": "Artículo 8",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "008.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 1",
+      "texto": "Son derechos de los habitantes del Estado:"
+    },
+    {
+      "id": "008.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción I",
+      "texto": "I. Si son mexicanos, los que les reconoce la Constitución General de la República y la presente;"
+    },
+    {
+      "id": "008.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción II",
+      "texto": "II. Si son extranjeros, gozar de los derechos humanos y sus garantías reconocidas en la Constitución General de la República, en la presente y en las disposiciones legales que de ellas emanen. En ningún caso, los extranjeros tendrán derechos políticos.\n\nNota: Se reformaron las fracciones I y II mediante decreto No. 245 de la LX Legislatura, publicado en el P. O. No. 5057 de fecha 16 de agosto de 2012."
+    }
+  ]
+}

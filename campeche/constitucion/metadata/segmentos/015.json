@@ -1,0 +1,45 @@
+{
+  "clave": "015",
+  "etiqueta": "Artículo 15",
+  "titulo": "",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "015.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › párrafo 1",
+      "texto": "Son campechanos por nacimiento:"
+    },
+    {
+      "id": "015.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción I",
+      "texto": "I. Los que nazcan en el territorio del Estado sea cual fuere la nacionalidad de sus padres, siempre y cuando con ello adquieran la calidad de mexicanos;"
+    },
+    {
+      "id": "015.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción II",
+      "texto": "II. Los hijos de padre campechano o madre campechana nacidos fuera del territorio del Estado;"
+    },
+    {
+      "id": "015.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción III",
+      "texto": "III. Los que nazcan en el extranjero, de padre campechano y madre extranjera o de madre campechana y padre desconocido.\n\nNota: Se reformó la fracción II mediante decreto No. 264 de la LIII legislatura, publicado en el P. O. del Gobierno del Estado No. 133 de fecha 1 abril de 1992."
+    }
+  ]
+}
