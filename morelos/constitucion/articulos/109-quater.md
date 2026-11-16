@@ -6,9 +6,7 @@ El Órgano de Administración Judicial será el encargado de distribuir entre lo
 
 Para ser Titular de la Magistratura del Tribunal Unitario de Justicia Penal para Adolescentes, deberá reunir los requisitos establecidos en el artículo 90 de esta Constitución, además de contar con especialización en la materia; será elegido de manera libre, directa y secreta por la ciudadanía, conforme al procedimiento establecido en el artículo 87 BIS de esta constitución.
 
-La persona Titular de la Magistratura del Tribunal Unitario de Justicia Penal para Adolescentes durará en el ejercicio de su encargo nueve años y podrá ser reelecta;
-
-y sólo podrá ser privada de su encargo en los términos que determine esta Constitución y las Leyes en materia de Responsabilidades.
+La persona Titular de la Magistratura del Tribunal Unitario de Justicia Penal para Adolescentes durará en el ejercicio de su encargo nueve años y podrá ser reelecta; y sólo podrá ser privada de su encargo en los términos que determine esta Constitución y las Leyes en materia de Responsabilidades.
 
 El retiro forzoso del cargo se producirá en los términos establecidos para las personas Titulares de las Magistraturas del Tribunal Superior de Justicia.
 
