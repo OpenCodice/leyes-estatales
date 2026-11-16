@@ -123,3 +123,10 @@ inputs `estado` + `pdf_url`.
 |--------|----------|-----------|
 | `CLAUDE_CODE_OAUTH_TOKEN` | token de suscripción del agente que verifica y repara | `vigilar-estatales` |
 | `PR_TOKEN` | PAT que abre y fusiona los PR y publica arreglos en el extractor | `vigilar-estatales`, `revisar-pr` |
+
+## Licencia
+
+[CC0 1.0](LICENSE): dominio público. Los textos legislativos no son objeto de
+derechos de autor (Ley Federal del Derecho de Autor, artículo 14, fracción
+VIII); con CC0, la compilación, la metadata y el historial también se pueden
+usar, copiar y redistribuir sin restricciones ni atribución.
