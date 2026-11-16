@@ -1,0 +1,27 @@
+{
+  "clave": "111",
+  "etiqueta": "Artículo 111",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "111.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 1",
+      "texto": "Los poderes del Estado legítimamente constituidos, no podrán reconocer, bajo ningún concepto, a los individuos que usurpen el Poder Ejecutivo de la Unión o del Estado, por medio de una asonada, motín o cuartelazo."
+    },
+    {
+      "id": "111.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 2",
+      "texto": "Tampoco podrán reconocer la renuncia de los funcionarios que se haya obtenido por medio de la fuerza o coacción moral."
+    }
+  ]
+}

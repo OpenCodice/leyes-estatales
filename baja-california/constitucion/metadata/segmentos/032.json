@@ -1,0 +1,36 @@
+{
+  "clave": "032",
+  "etiqueta": "Artículo 32",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "032.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › párrafo 1",
+      "texto": "Desechada una iniciativa no podrá volver a presentarse en el mismo período de sesiones."
+    },
+    {
+      "id": "032.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › párrafo 2",
+      "texto": "En la reforma, derogación o abrogación de las leyes o decretos, se observarán los mismos trámites establecidos para su formación."
+    },
+    {
+      "id": "032.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › párrafo 3",
+      "texto": "Artículo Reformado"
+    }
+  ]
+}

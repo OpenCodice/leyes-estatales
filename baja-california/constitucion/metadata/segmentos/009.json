@@ -1,0 +1,63 @@
+{
+  "clave": "009",
+  "etiqueta": "Artículo 9",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "009.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › párrafo 1",
+      "texto": "Son obligaciones de los habitantes del Estado:"
+    },
+    {
+      "id": "009.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Fracción I",
+      "texto": "I.- Si son mexicanos, las que se señalan en el artículo 31 de la Constitución Política de los Estados Unidos Mexicanos y en la presente.\n\nTratándose de la obligación de contribución al gasto público, el Estado y Municipios deberán promover los derechos humanos de los contribuyentes en las disposiciones fiscales en el ámbito estatal y municipal. En dichas normas y en el actuar de las autoridades fiscales deberá respetarse siempre el derecho al mínimo vital."
+    },
+    {
+      "id": "009.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Fracción II",
+      "texto": "II.- Si además de mexicanos, son ciudadanos, las contenidas en los Artículos 5, 31 y 36 de la Constitución Política de los Estados Unidos Mexicanos, las que señala la presente Constitución y las que establezca la Ley."
+    },
+    {
+      "id": "009.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Fracción III",
+      "texto": "III.- Si son extranjeros, acatar y respetar en todas sus partes lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en la del Estado y en las disposiciones legales que de ambas emanen; sujetarse a los fallos y sentencias de los tribunales sin poder intentar otros recursos que los que se concede a los mexicanos y contribuir a los gastos públicos de la manera que dispongan las leyes y autoridades del Estado."
+    },
+    {
+      "id": "009.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Fracción IV",
+      "texto": "IV.- Sin son padres de familia, tienen la obligación de educar, proteger y alimentar a sus hijos brindando las condiciones necesarias para garantizar el acceso pleno a sus derechos humanos, propiciando un ambiente familiar armónico y afectivo, que garantice su desarrollo integral."
+    },
+    {
+      "id": "009.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Fracción V",
+      "texto": "V.- Cuidar y conservar el medio ambiente para mejorar las condiciones de vida de la población.\n\nArtículo Reformado"
+    }
+  ]
+}

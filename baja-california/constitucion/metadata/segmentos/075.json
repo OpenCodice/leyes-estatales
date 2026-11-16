@@ -1,0 +1,27 @@
+{
+  "clave": "075",
+  "etiqueta": "Artículo 75",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "075.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › párrafo 1",
+      "texto": "La Ley fijará las atribuciones y deberes inherentes a la Defensoría Pública, así como su organización."
+    },
+    {
+      "id": "075.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › párrafo 2",
+      "texto": "Artículo Reformado"
+    }
+  ]
+}

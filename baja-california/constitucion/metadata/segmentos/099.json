@@ -1,0 +1,117 @@
+{
+  "clave": "099",
+  "etiqueta": "Artículo 99",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "099.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 1",
+      "texto": "Las relaciones entre el Estado y sus servidores estarán reguladas por:"
+    },
+    {
+      "id": "099.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Apartado A",
+      "texto": "A. La Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California, que se sujetará a los siguientes principios:"
+    },
+    {
+      "id": "099.A.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Apartado A › Fracción I",
+      "texto": "I.- Los trabajadores del Estado que sean de base, no podrán ser cesados sino por causa de incompetencia, mala conducta o de responsabilidad;"
+    },
+    {
+      "id": "099.A.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Apartado A › Fracción II",
+      "texto": "II.- Las promociones de los empleados se harán dentro de las mismas funciones en forma escalafonaria atendiendo a la competencia, antigüedad y antecedentes en el servicio;"
+    },
+    {
+      "id": "099.A.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Apartado A › Fracción III",
+      "texto": "III.- Serán preferidos en los empleos del Estado, en igualdad de circunstancias, las personas más necesitadas económicamente;"
+    },
+    {
+      "id": "099.A.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Apartado A › Fracción IV",
+      "texto": "IV.- La ley fijará cuáles son los empleados de confianza y cuáles los de base.\n\nLa Ley del Servicio Civil determinará cuál es el procedimiento y el órgano competente para dirimir los conflictos que surjan entre el Gobierno del Estado de Baja California y sus trabajadores."
+    },
+    {
+      "id": "099.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Apartado B",
+      "texto": "B. La Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Gobierno y Municipios del Estado de Baja California, que establecerá las bases mínimas para regular el régimen de seguridad social que se logra a través de las aportaciones bipartitas de las cuotas del trabajador y de las aportaciones del ente empleador, sean suficientes para cubrir accidentes y enfermedades profesionales, las enfermedades no profesionales y maternidad, pensión, jubilación, la invalidez, vejez y muerte."
+    },
+    {
+      "id": "099.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Apartado B › párrafo 2",
+      "texto": "Las cuotas y aportaciones que se enteren al organismo encargado de la seguridad social, regulándose en su Ley y en las que corresponda, a los siguientes:"
+    },
+    {
+      "id": "099.B.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Apartado B › Fracción I",
+      "texto": "I.- A los trabajadores considerados así por la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California, y a los trabajadores de los organismos públicos incorporados conforme a los lineamientos establecidos en la ley de la materia."
+    },
+    {
+      "id": "099.B.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Apartado B › Fracción II",
+      "texto": "II.- A los Trabajadores del Magisterio, sus docentes, el personal con funciones de dirección y supervisión en el Estados y municipios, así como los asesores técnicos pedagógicos, en la Educación Básica que imparta el Estado."
+    },
+    {
+      "id": "099.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Apartado C",
+      "texto": "C. Las autoridades del orden Estatal y Municipal, a fin de propiciar el fortalecimiento del sistema de seguridad social, de aquellos funcionarios públicos que la Ley General del Sistema Nacional de Seguridad Pública y la Ley de Seguridad Pública del Estado señalan que guardan relación administrativa para con el Estado, instrumentarán sistemas complementarios de seguridad social."
+    },
+    {
+      "id": "099.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Apartado C › párrafo 3",
+      "texto": "Artículo Reformado"
+    }
+  ]
+}

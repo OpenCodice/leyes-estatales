@@ -1,0 +1,468 @@
+{
+  "clave": "027",
+  "etiqueta": "Artículo 27",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "027.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 1",
+      "texto": "Son facultades del Congreso:"
+    },
+    {
+      "id": "027.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción I",
+      "texto": "I.- Legislar sobre todos los ramos que sean de la competencia del Estado y reformar, abrogar y derogar las leyes y decretos que expidieren, así como participar en las reformas a esta Constitución, observando para el caso los requisitos establecidos;"
+    },
+    {
+      "id": "027.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción II",
+      "texto": "II.- Iniciar ante el Congreso de la Unión las leyes y decretos que sean de la competencia del Poder Legislativo de la Federación, así como proponer la reforma o derogación de unas y de otras;"
+    },
+    {
+      "id": "027.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción III",
+      "texto": "III.- Facultar a la Gobernadora o Gobernador del Estado, con las limitaciones que crea necesarias, para que por sí o por apoderado especial, represente al Estado en los casos que corresponda.\n\nPárrafo Reformado\n\nEn caso de que la Gobernadora o Gobernador del Estado, dentro de los noventa días siguientes a la instalación de cada legislatura constitucional, opte por un Gobierno de Coalición, acordará las políticas públicas convenidas, turnándolas para su registro y seguimiento al Congreso del Estado.\n\nPárrafo Reformado\n\nFracción Reformada"
+    },
+    {
+      "id": "027.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción IV",
+      "texto": "IV.- Fijar la división territorial, política, administrativa y judicial del Estado;"
+    },
+    {
+      "id": "027.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción V",
+      "texto": "V.- Crear y suprimir los empleos públicos, según lo exijan las necesidades de la Administración, así como aumentar o disminuir los emolumentos de que éstos gocen, teniendo en cuenta lo establecido en el artículo 97 y demás relativos de esta Constitución, las condiciones de la Hacienda Pública y los demás ordenamientos legales aplicables en la materia;"
+    },
+    {
+      "id": "027.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción VI",
+      "texto": "VI.- Dar las bases para que el Ejecutivo del Estado y los Municipios celebren empréstitos, con las limitaciones que establece la fracción VIII del Artículo 117 de la Constitución Política de los Estados Unidos Mexicanos; aprobar los contratos respectivos y reconocer y autorizar el pago de las deudas que contraiga el Estado;"
+    },
+    {
+      "id": "027.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción VII",
+      "texto": "VII.- Expedir el Bando Solemne para dar a conocer en todo el Estado la declaración de Gobernadora o Gobernador Electo que hubiere hecho el Instituto Estatal Electoral;\n\nFracción Reformada"
+    },
+    {
+      "id": "027.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción VIII",
+      "texto": "VIII.- Expedir el Bando Solemne para dar a conocer en el Municipio respectivo la declaración de munícipes electos que hubiere hecho el Instituto Estatal Electoral;"
+    },
+    {
+      "id": "027.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción IX",
+      "texto": "IX.- Por acuerdo de las dos terceras partes de sus integrantes, suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convenga;"
+    },
+    {
+      "id": "027.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción X",
+      "texto": "X.- Cumplir con las obligaciones que marca el Artículo 5 de esta Constitución, incluyendo la expedición o modificación de las leyes que regulen el procedimiento de Revocación de Mandato, así como el resto de los instrumentos de participación ciudadana democrática y deliberativa;\n\nFracción Reformada"
+    },
+    {
+      "id": "027.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XI",
+      "texto": "XI.- Examinar, discutir, modificar, aumentar, reducir y aprobar, para cada Ejercicio Fiscal, las Leyes de Ingresos del Estado y de los Municipios, así como los presupuestos de Egresos de los Poderes Ejecutivo, Legislativo y Judicial y de los organismos públicos autónomos, en los términos de la ley de la materia; asimismo, en el ámbito de su competencia podrá autorizar en los Presupuestos de Egresos las erogaciones plurianuales que determinen conforme a lo dispuesto en la Ley de la materia; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos."
+    },
+    {
+      "id": "027.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XII",
+      "texto": "XII.- Revisar, analizar y auditar por medio de la Auditoria Superior del Estado, las cuentas anuales de las Entidades fiscalizables, y dictaminar la aprobación o no aprobación de las mismas, en los términos de la Ley de la materia. Asimismo, podrá solicitar y revisar, de manera concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, pero exclusivamente cuando el proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago diversos ejercicios fiscales. Las observaciones y recomendaciones que, respectivamente, la Auditoría Superior del Estado emita, sólo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión;"
+    },
+    {
+      "id": "027.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XIII",
+      "texto": "XIII.- Vigilar, coordinar y evaluar, sin perjuicio de su autonomía técnica y de gestión; el funcionamiento y desempeño de la Auditoría Superior del Estado. Al efecto, le podrá requerir informe sobre la evolución de sus trabajos en materia de fiscalización, por medio de la Comisión que determine la Ley;"
+    },
+    {
+      "id": "027.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XIV",
+      "texto": "XIV.- Nombrar y remover a la persona titular de la Auditoría Superior del Estado, por el voto de las dos terceras partes de sus miembros; en la forma y términos establecidos en esta Constitución y por la Ley de la materia.\n\nPárrafo Reformado\n\nPara efecto del procedimiento relativo a la designación de la persona titular de la Auditoría Superior del Estado, funcionará la Comisión Especial en los términos que determine el Congreso del Estado.\n\nPárrafo Reformado\n\nFracción Reformada"
+    },
+    {
+      "id": "027.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XV",
+      "texto": "XV.- Designar a un integrante del Consejo de Administración del Poder Judicial del Estado;\n\nFracción Reformada"
+    },
+    {
+      "id": "027.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XVI",
+      "texto": "XVI.- Designar, en los términos que previene esta Constitución, a la persona que deba substituir a la Gobernadora o Gobernador en sus faltas temporales o absolutas;\n\nFracción Reformada"
+    },
+    {
+      "id": "027.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XVII",
+      "texto": "XVII.- Convocar a elecciones, cuando fuere necesario, conforme a lo establecido en la Ley;"
+    },
+    {
+      "id": "027.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XVIII",
+      "texto": "XVIII.- Resolver acerca de las licencias definitivas de las Diputadas y Diputados y de la Gobernadora o Gobernador; así como respecto a las renuncias y remociones, de las Magistraturas del Tribunal Superior de Justicia, y de la persona Consejera de Administración designada por el Congreso;\n\nFracción Reformada"
+    },
+    {
+      "id": "027.XIX",
+      "tipo": "fraccion",
+      "marca": "XIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XIX",
+      "texto": "XIX.- Otorgar licencias a las Diputadas y Diputados y a la Gobernadora o Gobernador para separarse de sus cargos; y a las Magistraturas del Poder Judicial cuando esto sea por más de dos meses;\n\nFracción Reformada"
+    },
+    {
+      "id": "027.XX",
+      "tipo": "fraccion",
+      "marca": "XX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XX",
+      "texto": "XX.- Aprobar o reprobar los convenios que la Gobernadora o Gobernador celebre con las vecinas Entidades de la Federación respecto a la cuestión de límites, y someter tales convenios a la ratificación del Congreso de la Unión;\n\nFracción Reformada"
+    },
+    {
+      "id": "027.XXI",
+      "tipo": "fraccion",
+      "marca": "XXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XXI",
+      "texto": "XXI.- Cambiar provisionalmente, y por causa justificada, la residencia de los Poderes del Estado;"
+    },
+    {
+      "id": "027.XXII",
+      "tipo": "fraccion",
+      "marca": "XXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XXII",
+      "texto": "XXII.- Resolver las competencias y dirimir las controversias que se susciten entre el Ejecutivo y el Tribunal Superior, salvo lo prevenido en los Artículos 76 Fracción VI y 105 de la Constitución General de la República;"
+    },
+    {
+      "id": "027.XXIII",
+      "tipo": "fraccion",
+      "marca": "XXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XXIII",
+      "texto": "XXIII.- Elegir a las Magistraturas del Tribunal Estatal de Justicia Administrativa, determinar su adscripción a Pleno o a Salas y resolver respecto a su ratificación o no ratificación, ausencias definitivas, renuncias y remociones; en la forma y términos que esta Constitución y la Ley determinen;\n\nFracción Reformada"
+    },
+    {
+      "id": "027.XXIV",
+      "tipo": "fraccion",
+      "marca": "XXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XXIV",
+      "texto": "XXIV.- Conocer de las imputaciones que se hagan a las personas servidoras públicas a que se refiere el Artículo 93 de esta Constitución y fungir, a través de una Comisión de su seno, como órgano de acusación en los juicios políticos que contra estos se instauren;\n\nFracción Reformada"
+    },
+    {
+      "id": "027.XXV",
+      "tipo": "fraccion",
+      "marca": "XXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XXV",
+      "texto": "XXV.- Erigirse en Jurado de Sentencia para conocer en juicio político de las faltas u omisiones que cometan las personas servidoras públicas y que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho, en los términos del Artículo 93 de esta Constitución;\n\nFracción Reformada"
+    },
+    {
+      "id": "027.XXVI",
+      "tipo": "fraccion",
+      "marca": "XXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XXVI",
+      "texto": "XXVI.- Crear o suprimir municipios, fijar, delimitar y modificar la extensión de sus territorios, autorizar mediante Decreto los convenios amistosos que sobre sus respectivos límites celebren los municipios; así como dirimir de manera definitiva las controversias o diferencias que se susciten sobre límites territoriales intermunicipales, modificando en su caso el Estatuto Territorial. Lo previsto en esta fracción se sujetará, a la emisión del voto aprobatorio de las dos terceras partes de las Diputaciones integrantes del Congreso;\n\nFracción Reformada"
+    },
+    {
+      "id": "027.XXVII",
+      "tipo": "fraccion",
+      "marca": "XXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XXVII",
+      "texto": "XXVII.- Conceder amnistía por delitos de orden común, así como expedir la legislación que regule su otorgamiento;\n\nFracción Reformada"
+    },
+    {
+      "id": "027.XXVIII",
+      "tipo": "fraccion",
+      "marca": "XXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XXVIII",
+      "texto": "XXVIII.- Otorgar premios o recompensas a las personas que hayan prestado servicios de importancia a la Nación o al Estado, y declarar beneméritos a los que se hayan distinguido por servicios eminentes prestados al mismo Estado;"
+    },
+    {
+      "id": "027.XXIX",
+      "tipo": "fraccion",
+      "marca": "XXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XXIX",
+      "texto": "XXIX.- Conceder pensiones a los familiares de quienes hayan prestado servicios eminentes al Estado, siempre que su situación económica lo justifique;"
+    },
+    {
+      "id": "027.XXX",
+      "tipo": "fraccion",
+      "marca": "XXX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XXX",
+      "texto": "XXX.- Designar entre los vecinos, a propuesta de la Gobernadora o Gobernador del Estado, los Concejos Municipales en los términos de esta Constitución y las Leyes respectivas;\n\nFracción Reformada"
+    },
+    {
+      "id": "027.XXXI",
+      "tipo": "fraccion",
+      "marca": "XXXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XXXI",
+      "texto": "XXXI.- Legislar respecto a las relaciones de trabajo entre el Estado, los Municipios, las Dependencias paraestatales y paramunicipales y sus trabajadores, con base en lo dispuesto en el Apartado B del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;\n\nAsimismo, legislar respecto a los conflictos entre personas trabajadoras y patronales, a efecto de lograr su conciliación o resolución por la vía jurisdiccional, con base en lo dispuesto en el Apartado A del Artículo 123 de la Constitución Política de los Estados Unidos Mexicanos;\n\nPárrafo Adicionado\n\nPárrafo Reformado\n\nFracción Reformada"
+    },
+    {
+      "id": "027.XXXII",
+      "tipo": "fraccion",
+      "marca": "XXXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XXXII",
+      "texto": "XXXII.- Ratificar, en un plazo de diez días naturales a partir de que los reciba, los nombramientos que la Gobernadora o Gobernador haga de las personas titulares de la Secretaría de Bienestar y de la Secretaría Anticorrupción y Buen Gobierno. Vencido el plazo anterior, sin que se haya emitido resolución alguna, se entenderá como ratificado el aspirante propuesto.\n\nPárrafo Reformado\n\nEl Congreso podrá acordar la no ratificación de las personas propuestas, hasta en dos ocasiones continuas respecto al cargo que se proponga, en cuyo caso la Gobernadora o Gobernador procederá libremente a hacer la designación correspondiente.\n\nPárrafo Reformado\n\nCuando la Persona Titular del Poder Ejecutivo del Estado opte por el Gobierno de Coalición, ratificará a las personas Titulares de las Dependencias del Poder Ejecutivo, en los términos que dispongan esta Constitución y las leyes que de ella emanen.\n\nPárrafo Reformado\n\nFracción Reformada"
+    },
+    {
+      "id": "027.XXXIII",
+      "tipo": "fraccion",
+      "marca": "XXXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XXXIII",
+      "texto": "XXXIII.- Aprobar los convenios de asociación que celebren los municipios del Estado con los de otras entidades federativas que tengan por objeto la eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que le correspondan;\n\nFracción Reformada"
+    },
+    {
+      "id": "027.XXXIV",
+      "tipo": "fraccion",
+      "marca": "XXXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XXXIV",
+      "texto": "XXXIV.- Erigirse en Asamblea de Transición por medio de la Mesa Directiva del Congreso a fin de preparar y cumplir con el proceso de entrega recepción de una Legislatura a otra, en los términos que disponga la Ley;"
+    },
+    {
+      "id": "027.XXXV",
+      "tipo": "fraccion",
+      "marca": "XXXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XXXV",
+      "texto": "XXXV.- Elaborar y aprobar el Plan de Desarrollo Legislativo en los términos de esta Constitución y de lo que disponga la Ley;"
+    },
+    {
+      "id": "027.XXXVI",
+      "tipo": "fraccion",
+      "marca": "XXXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XXXVI",
+      "texto": "XXXVI.- Expedir la Ley que regulará la estructura y funcionamiento interno del Congreso, su Reglamento Interior, y demás acuerdos que resulten necesarios para la adecuada organización administrativa del Congreso;"
+    },
+    {
+      "id": "027.XXXVII",
+      "tipo": "fraccion",
+      "marca": "XXXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XXXVII",
+      "texto": "XXXVII.- Citar a las y los Secretarios del ramo, a las titularidades de la Fiscalía General del Estado, Fiscalía Especializada en Combate a la Corrupción y Fiscalía Especializada para la Atención de Delitos Electorales, a las personas titulares o administradoras de los Organismos Descentralizados Estatales o de las empresas de participación estatal mayoritaria; así como a la Presidencia del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Consejo de Administración del Poder Judicial del Estado; a las y los Titulares de los Órganos Constitucionales Autónomos, para que informen cuando se discute una ley, se realice la Glosa del Informe que rindan la Persona Titular del Poder Ejecutivo del Estado o del Poder Judicial o cuando se estudie un asunto concerniente a sus respectivos ramos o actividades. Para los efectos de la citación de la persona titular de la Fiscalía General del Estado se estará a lo dispuesto en el Artículo 70 de esta Constitución.\n\nPárrafo Reformado\n\nLas personas funcionarias a que se refiere el párrafo anterior, estarán obligadas u obligados a acudir a las sesiones correspondientes; así como a dar respuesta formal, atendiendo a los puntos de acuerdo o exhortos remitidos por el Congreso, en un plazo prudente que no exceda de 30 días naturales.\n\nPárrafo Reformado\n\nFracción Reformada"
+    },
+    {
+      "id": "027.XXXVIII",
+      "tipo": "fraccion",
+      "marca": "XXXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XXXVIII",
+      "texto": "XXXVIII.- Examinar y en su caso aprobar el Plan Estatal de Desarrollo que le remita el Ejecutivo;\n\nFracción Reformada"
+    },
+    {
+      "id": "027.XXXIX",
+      "tipo": "fraccion",
+      "marca": "XXXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XXXIX",
+      "texto": "XXXIX.- Elegir por mayoría calificada, a la persona titular de la Comisión Estatal de los Derechos Humanos, o realizar su remoción por la misma votación, solo por las causas previstas en esta Constitución y la Ley, relativas a responsabilidad de servidores públicos.\n\nAsí como aprobar las propuestas de nombramientos de los integrantes del Consejo Consultivo.\n\nFracción Reformada"
+    },
+    {
+      "id": "027.XL",
+      "tipo": "fraccion",
+      "marca": "XL",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XL",
+      "texto": "XL.- A solicitud de la Presidencia de la Comisión Estatal de Derechos Humanos, citar a las autoridades o personas servidoras publicas responsables, que no acepten o incumplan las recomendaciones de la Comisión Estatal de Derechos Humanos, para que comparezcan ante el Congreso del Estado, a efecto de que expliquen el motivo de su negativa; y,\n\nFracción Reformada"
+    },
+    {
+      "id": "027.XLI",
+      "tipo": "fraccion",
+      "marca": "XLI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XLI",
+      "texto": "XLI.- Expedir conforme a las bases normativas aplicables los siguientes ordenamientos:"
+    },
+    {
+      "id": "027.XLI.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "XLI",
+      "ruta": "Artículo 27 › Fracción XLI › 1.",
+      "texto": "1. La Ley que regula la organización y facultades de la Auditoría Superior del Estado y las demás que normen la gestión, control y evaluación de los entes públicos estatales, municipales y organismos con autonomía, así como de las paraestatales y paramunicipales."
+    },
+    {
+      "id": "027.XLI.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "XLI",
+      "ruta": "Artículo 27 › Fracción XLI › 2.",
+      "texto": "2. La Ley que establezca las bases de coordinación del Sistema Estatal Anticorrupción;"
+    },
+    {
+      "id": "027.XLI.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "XLI",
+      "ruta": "Artículo 27 › Fracción XLI › 3.",
+      "texto": "3. La Ley que crea el Tribunal Estatal de Justicia Administrativa, el cual, deberá estar dotado de plena autonomía para dictar sus fallos, y en la que se deberá establecer su organización, funcionamiento y los recursos para impugnar sus resoluciones;"
+    },
+    {
+      "id": "027.XLI.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "XLI",
+      "ruta": "Artículo 27 › Fracción XLI › 4.",
+      "texto": "4. La Ley que desarrolle las competencias, a cargo de las autoridades locales y municipales que determine la legislación general en materia de responsabilidades administrativas de los servidores públicos, sus obligaciones, las sanciones aplicables por los actos u omisiones en que éstos incurran y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevea, así como los procedimientos para su aplicación;"
+    },
+    {
+      "id": "027.XLII",
+      "tipo": "fraccion",
+      "marca": "XLII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XLII",
+      "texto": "XLII.- Designar a la persona Titular de la Fiscalía Especializada en Combate a la Corrupción, con base a la terna que remita la persona titular del Poder Ejecutivo del Estado por mayoría calificada conforme a las reglas contenidas en esta Constitución.\n\nFracción Reformada"
+    },
+    {
+      "id": "027.XLIII",
+      "tipo": "fraccion",
+      "marca": "XLIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XLIII",
+      "texto": "XLIII.- Designar por mayoría calificada, a las y los titulares de los órganos internos de control de los organismos con autonomía reconocidos por esta Constitución, con excepción de los relacionados con órganos electorales, mediante convocatoria pública y conforme al procedimiento que establezca la Ley, los cuales durarán en su cargo cuatro años y podrán ser reelectos por una sola ocasión. Solo podrán ser removidos por faltas graves, en la forma y términos establecidos en la Ley de la materia;\n\nPárrafo Reformado\n\nLa convocatoria pública a que hace referencia el párrafo anterior, deberá darse amplia publicidad en los periódicos de mayor circulación del Estado y en la página oficial del Congreso del Estado;\n\nPara efecto del procedimiento relativo a la designación de las titularidades de los órganos internos de control a que hace referencia esta fracción, funcionara la Comisión Especial en los términos a que alude el artículo 70 párrafo VIII de esta Constitución.\n\nPárrafo Reformado\n\nFracción Reformada"
+    },
+    {
+      "id": "027.XLIV",
+      "tipo": "fraccion",
+      "marca": "XLIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XLIV",
+      "texto": "XLIV.- Expedir todas las leyes que sean necesarias, a fin de hacer efectivas las facultades anteriores y todas las otras concedidas por esta Constitución y la Constitución Política de los Estados Unidos Mexicanos, a los Poderes del Estado de Baja California."
+    },
+    {
+      "id": "027.XLV",
+      "tipo": "fraccion",
+      "marca": "XLV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XLV",
+      "texto": "XLV.- Legislar en materia de ordenamiento territorial de los asentamientos humanos y desarrollo urbano sustentable de los centros de población, atendiendo a las facultades concurrentes previstas en la Constitución Política de los Estados Unidos Mexicanos, en la presente Constitución y en las leyes aplicables."
+    },
+    {
+      "id": "027.XLVI",
+      "tipo": "fraccion",
+      "marca": "XLVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción XLVI",
+      "texto": "XLVI.- Designar a las personas titulares de la Fiscalía General del Estado y Fiscalía Especializada para la Atención de Delitos Electorales, por mayoría calificada de conformidad con las reglas contenidas en esta Constitución.\n\nFracción Adicionada\n\nFracción Reformada\n\nArtículo Reformado"
+    }
+  ]
+}

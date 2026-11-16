@@ -1,0 +1,27 @@
+{
+  "clave": "045",
+  "etiqueta": "Artículo 45",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "045.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45 › párrafo 1",
+      "texto": "El Gobernador podrá ausentarse del Territorio del Estado o separarse de sus funciones hasta 30 días, dando aviso al Congreso y en esos casos el Secretario General de Gobierno se hará cargo del despacho con las atribuciones que establezca la Ley Orgánica de la Administración Pública del Estado de Baja California."
+    },
+    {
+      "id": "045.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45 › párrafo 2",
+      "texto": "Artículo Reformado"
+    }
+  ]
+}

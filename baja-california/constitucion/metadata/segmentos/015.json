@@ -1,0 +1,180 @@
+{
+  "clave": "015",
+  "etiqueta": "Artículo 15",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "015.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › párrafo 1",
+      "texto": "La asignación de diputaciones por el principio de representación proporcional que le correspondan a cada partido político, se hará por el Instituto Estatal Electoral de acuerdo con el procedimiento que se establezca en la Ley, y atendiendo lo siguiente:"
+    },
+    {
+      "id": "015.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción I",
+      "texto": "I.- Para que los partidos políticos tengan este derecho deberán:"
+    },
+    {
+      "id": "015.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 15 › Fracción I › inciso a)",
+      "texto": "a) Participar con candidaturas a diputaciones por el principio de mayoría relativa en por lo menos el cincuenta por ciento de los distritos electorales; y\n\nInciso Reformado"
+    },
+    {
+      "id": "015.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 15 › Fracción I › inciso b)",
+      "texto": "b) Haber obtenido por lo menos el tres por ciento de la votación válida emitida en la elección de diputaciones por el principio de representación proporcional.\n\nInciso Reformado"
+    },
+    {
+      "id": "015.I.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 15 › Fracción I › inciso c)",
+      "texto": "c) Derogado.\n\nInciso Derogado\n\nFracción Reformada"
+    },
+    {
+      "id": "015.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción II",
+      "texto": "II.- El Instituto Estatal Electoral una vez verificados los requisitos de la fracción anterior, asignará una diputación a cada partido político que tenga derecho a ello. Las asignaciones corresponderán solo a las candidaturas que tengan mayor porcentaje de votación válida en el distrito y que no hayan obtenido constancia de mayoría. En el caso de coaliciones, la primera asignación a cada partido político deberá determinarse, además, con base en el convenio de coalición registrado.\n\nPárrafo Reformado\n\nEn caso de que el número de partidos políticos sea mayor que el de diputaciones por asignar, éstas se otorgarán a los que tengan mayor porcentaje en orden descendente hasta agotarse;\n\nFracción Reformada"
+    },
+    {
+      "id": "015.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción III",
+      "texto": "III.- Si después de asignadas las diputaciones señaladas en la fracción anterior, aún quedasen diputaciones por asignar, se otorgarán a los partidos políticos, en los siguientes términos:"
+    },
+    {
+      "id": "015.III.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 15 › Fracción III › inciso a)",
+      "texto": "a) Se obtendrá el porcentaje de votación de los partidos políticos que reúnan los requisitos que señala la fracción I de este artículo, mediante el siguiente procedimiento:"
+    },
+    {
+      "id": "015.III.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 15 › Fracción III › 1.",
+      "texto": "1.- Realizará la sumatoria de los votos obtenidos por los partidos políticos o coaliciones, en la elección de diputaciones por el principio de representación proporcional, que reúnan los requisitos, y"
+    },
+    {
+      "id": "015.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › párrafo 2",
+      "texto": "Numeral Reformado"
+    },
+    {
+      "id": "015.III.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 15 › Fracción III › 2.",
+      "texto": "2.- La votación de cada partido se dividirá entre la sumatoria obtenida en el numeral anterior y se multiplicará por cien;"
+    },
+    {
+      "id": "015.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › párrafo 3",
+      "texto": "Inciso Reformado"
+    },
+    {
+      "id": "015.III.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 15 › Fracción III › inciso b)",
+      "texto": "b) Se procederá a multiplicar el porcentaje de la votación obtenido por los partidos políticos, en la elección de diputaciones por el principio de representación proporcional de cada partido político, por veinticinco;\n\nInciso Reformado"
+    },
+    {
+      "id": "015.III.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 15 › Fracción III › inciso c)",
+      "texto": "c) Al resultado obtenido en el inciso anterior se le restarán las diputaciones obtenidas de mayoría y la asignada conforme a la fracción anterior;"
+    },
+    {
+      "id": "015.III.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 15 › Fracción III › inciso d)",
+      "texto": "d) Se asignará una diputación de representación proporcional por cada número entero que se haya obtenido en la operación señalada en el inciso anterior, procediendo en estricto orden de prelación conforme al porcentaje obtenido, de cada partido político, en los términos del párrafo segundo de la fracción II de este artículo e inciso a) de esta fracción, y"
+    },
+    {
+      "id": "015.III.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 15 › Fracción III › inciso e)",
+      "texto": "e) Hechas las asignaciones anteriores, si aún existieren diputaciones por asignar, éstas se otorgarán a los que conserven los restos mayores, una vez deducidas las que se asignaron en el inciso d) anterior;"
+    },
+    {
+      "id": "015.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción IV",
+      "texto": "IV.- Ningún partido político podrá tener más de diecisiete Diputados por ambos principios;"
+    },
+    {
+      "id": "015.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción V",
+      "texto": "V.- En ningún caso, un partido político podrá contar con un número de diputaciones por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento.\n\nPárrafo Reformado\n\nAsimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales. Esta fórmula se aplicará una vez que le sea asignado una diputación por la vía de representación proporcional a los partidos políticos que hayan obtenido el porcentaje de votación mínima para conservar el registro de conformidad a la normatividad electoral.\n\nPárrafo Reformado\n\nFracción Reformada"
+    },
+    {
+      "id": "015.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción VI",
+      "texto": "VI.- La asignación de diputaciones por el principio de representación proporcional que le corresponda a cada partido político, la hará el Instituto Estatal Electoral, en los términos que señale la Ley.\n\nFracción Reformada\n\nArtículo Reformado"
+    }
+  ]
+}

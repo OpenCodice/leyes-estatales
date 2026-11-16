@@ -1,0 +1,27 @@
+{
+  "clave": "050",
+  "etiqueta": "Artículo 50",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "050.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 1",
+      "texto": "Para el despacho de los negocios del Poder Ejecutivo habrá un funcionario que se denominará Secretario General de Gobierno."
+    },
+    {
+      "id": "050.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 2",
+      "texto": "Artículo Reformado"
+    }
+  ]
+}
