@@ -1,0 +1,45 @@
+{
+  "clave": "150",
+  "etiqueta": "Artículo 150",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "150.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 150 › párrafo 1",
+      "texto": "Los municipios administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que el Congreso del Estado establezca a su favor; en todo caso:"
+    },
+    {
+      "id": "150.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 150 › Fracción I",
+      "texto": "I. Percibirán las contribuciones, incluyendo tasas adicionales que establezca el Estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora; así como las que tengan por base el cambio de valor de los inmuebles."
+    },
+    {
+      "id": "150.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 150 › Fracción II",
+      "texto": "II. Las participaciones, aportaciones y subsidios federales, que serán cubiertas por la Federación a los municipios con arreglo a las bases, montos y plazos que anualmente se determine en las leyes."
+    },
+    {
+      "id": "150.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 150 › Fracción III",
+      "texto": "III. Los ingresos derivados de la prestación de servicios públicos a su cargo; así como los productos y aprovechamientos que le correspondan.\n\nLos ayuntamientos propondrán al Congreso del Estado las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.\n\nLos ayuntamientos enviarán al Congreso del Estado su iniciativa de ley de ingresos en los plazos que determine la ley.\n\nLos presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles y deberán incluir en los mismos, los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales.\n\nEl personal administrativo dependiente de los ayuntamientos contará con un servicio civil de carrera.\n\nLa ley determinará sus modalidades y forma de aplicación de acuerdo con las características y circunstancias de cada municipio.\n\nSon propiedad del municipio los bienes inmuebles ubicados dentro de su jurisdicción territorial y que no pertenezcan a la Federación, al Estado o a los particulares; y los bienes muebles que adquiera o que por cualquier otro concepto pasen a ser parte de su patrimonio. Su enajenación se sujetará a lo dispuesto por esta Constitución."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "clave": "104",
+  "etiqueta": "Artículo 104",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "104.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 › párrafo 1",
+      "texto": "Para ser Fiscal General del Estado se requiere:"
+    },
+    {
+      "id": "104.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 › Fracción I",
+      "texto": "I. Ser ciudadana mexicana o ciudadano mexicano en pleno goce de sus derechos.\n\nREFORMADO POR DEC. 585 P.O. 11 EXT. DEL 24 DE MAYO DE 2022."
+    },
+    {
+      "id": "104.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 › Fracción II",
+      "texto": "II. Ser mayor de treinta y cinco años de edad."
+    },
+    {
+      "id": "104.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 › Fracción III",
+      "texto": "III. Poseer el día de su nombramiento Título Profesional de Licenciatura en Derecho y contar con experiencia en materia penal de por lo menos cinco años.\n\nFRACCIÓN REFORMADA POR DEC. 162 P.O. 54. DEL 06 DE JULIO DE 2025."
+    },
+    {
+      "id": "104.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 › Fracción IV",
+      "texto": "IV. No haber sido sentenciada o sentenciado por resolución firme de autoridad judicial competente, por la comisión de delito intencional que amerite pena privativa de libertad o por actos de corrupción que ameriten la inhabilitación para ocupar cargos públicos o por delitos de violencia política contra las mujeres por razones de género; así como no tener antecedentes penales por violencia familiar, hostigamiento sexual, acoso sexual, abuso sexual, violación o feminicidio.\n\nFRACCIÓN REFORMADA POR DEC. 162 P.O. 54. DEL 06 DE JULIO DE 2025."
+    },
+    {
+      "id": "104.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 › Fracción V",
+      "texto": "V. No ser deudora o deudor alimentario moroso.\n\nFRACCIÓN ADICIONADA POR DEC. 162 P.O. 54. DEL 06 DE JULIO DE 2025."
+    }
+  ]
+}

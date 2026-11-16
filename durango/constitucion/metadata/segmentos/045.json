@@ -1,0 +1,27 @@
+{
+  "clave": "045",
+  "etiqueta": "Artículo 45",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "045.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45 › párrafo 1",
+      "texto": "El Estado organizará un Sistema Estatal de Planeación del Desarrollo, de carácter democrático, participativo e incluyente que recogerá las aspiraciones y demandas de la sociedad para incorporarlas en un Plan Estratégico, el cual contendrá objetivos con proyección a veinticuatro años para lograr el desarrollo sostenido y sustentable de la entidad."
+    },
+    {
+      "id": "045.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45 › párrafo 2",
+      "texto": "El Plan Estratégico deberá ser revisado y, en su caso, ajustados sus objetivos cada seis años. El Plan Estatal de Desarrollo y los planes municipales de desarrollo contendrán los programas de la administración pública estatal y municipal durante la gestión respectiva; los cuales guardarán congruencia con la planeación estratégica."
+    }
+  ]
+}

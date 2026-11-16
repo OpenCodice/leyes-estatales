@@ -1,0 +1,27 @@
+{
+  "clave": "023",
+  "etiqueta": "Artículo 23",
+  "titulo": "TÍTULO PRIMERO DE LOS DERECHOS HUMANOS",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "023.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › párrafo 1",
+      "texto": "Toda persona tiene derecho a la seguridad social en los términos de la ley. El Estado deberá proteger a personas que realizan trabajo no remunerado en los hogares, en el campo, quienes trabajan por cuenta propia y a los desempleados."
+    },
+    {
+      "id": "023.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › párrafo 2",
+      "texto": "La ley establecerá los instrumentos para hacer efectivo este derecho."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "143",
+  "etiqueta": "Artículo 143",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "143.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 143 › párrafo 1",
+      "texto": "Se deroga"
+    },
+    {
+      "id": "143.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 143 › párrafo 2",
+      "texto": "ARTÍCULO DEROGADO POR DEC. 132, P.O. 1 EXT. DEL 21 DE ENERO DE 2025."
+    }
+  ]
+}

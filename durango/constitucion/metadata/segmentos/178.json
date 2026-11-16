@@ -1,0 +1,36 @@
+{
+  "clave": "178",
+  "etiqueta": "Artículo 178",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "178.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 178 › párrafo 1",
+      "texto": "La ley determinará las obligaciones y las responsabilidades administrativas de los servidores públicos; así como las sanciones y los procedimientos y causas para su aplicación."
+    },
+    {
+      "id": "178.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 178 › párrafo 2",
+      "texto": "Las sanciones se determinarán acorde a la gravedad del hecho y consistirán en amonestación, apercibimiento, destitución e inhabilitación, además de las de carácter pecuniario."
+    },
+    {
+      "id": "178.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 178 › párrafo 3",
+      "texto": "No podrán imponerse por la misma conducta sanciones de igual naturaleza en diversos procedimientos."
+    }
+  ]
+}

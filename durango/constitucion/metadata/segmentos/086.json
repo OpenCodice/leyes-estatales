@@ -1,0 +1,126 @@
+{
+  "clave": "086",
+  "etiqueta": "Artículo 86",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "086.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › párrafo 1",
+      "texto": "La Auditoría Superior del Estado tiene las siguientes atribuciones:"
+    },
+    {
+      "id": "086.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › Fracción I",
+      "texto": "I. Fiscalizar los ingresos y egresos, el manejo, la custodia y la aplicación de recursos que ejerzan las entidades fiscalizadas."
+    },
+    {
+      "id": "086.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › Fracción II",
+      "texto": "II. Realizar auditorías sobre el desempeño, emitiendo las recomendaciones correspondientes. Las entidades fiscalizadas deberán precisar las mejoras realizadas o, en su caso, justificar su improcedencia."
+    },
+    {
+      "id": "086.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › Fracción III",
+      "texto": "III. Sin perjuicio del principio de anualidad, la Auditoría Superior del Estado podrá solicitar y revisar periodos anteriores, cuando el programa o proyecto contenidos en el presupuesto en revisión, abarque diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de programas."
+    },
+    {
+      "id": "086.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › Fracción IV",
+      "texto": "IV. Revisar los procesos concluidos que las entidades fiscalizadas reporten en los informes de avance de gestión financiera. De igual manera, derivado de denuncias que presuman daño a la hacienda pública o al patrimonio de las entidades fiscalizadas, la Auditoría Superior del Estado podrá requerir a éstas procedan a la revisión, durante el ejercicio fiscal en curso, de los hechos motivo de la denuncia y le rindan un informe."
+    },
+    {
+      "id": "086.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › Fracción V",
+      "texto": "V. Entregar al Congreso del Estado los informes del resultado de la revisión de la Cuenta Pública, a más tardar el último día hábil del mes de julio del año de su presentación. Dentro de dichos informes se incluirán las auditorías practicadas, los dictámenes de su revisión, los apartados correspondientes a la fiscalización del manejo de los recursos públicos por parte de los entes fiscalizables, la verificación del desempeño en el cumplimiento de los objetivos de los programas y el relativo a las observaciones de la Auditoría Superior del Estado."
+    },
+    {
+      "id": "086.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › Fracción VI",
+      "texto": "VI. Entregar al Congreso del Estado, dentro de los primeros quince días de los meses de febrero y agosto de cada año, un informe sobre la situación que guardan las observaciones, recomendaciones y acciones promovidas por la Auditoria Superior del Estado."
+    },
+    {
+      "id": "086.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › Fracción VII",
+      "texto": "VII. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, control, administración y aplicación de recursos públicos que ejerzan las entidades fiscalizadas."
+    },
+    {
+      "id": "086.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › Fracción VIII",
+      "texto": "VIII. Efectuar visitas domiciliarias para exigir la exhibición de libros, papeles, contratos, convenios, nombramientos, dispositivos magnéticos o electrónicos de almacenamiento de información, documentos y archivos indispensables para la realización de sus investigaciones, así como realizar entrevistas y reuniones con particulares o con los servidores públicos de las entidades fiscalizadas, necesarias para conocer directamente el ejercicio de sus funciones."
+    },
+    {
+      "id": "086.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › Fracción IX",
+      "texto": "IX. Determinar los daños y perjuicios que afecten a la hacienda pública o al patrimonio de las entidades fiscalizadas, decretar las indemnizaciones y sanciones correspondientes, y en su caso, promover ante las autoridades competentes el establecimiento de otras responsabilidades."
+    },
+    {
+      "id": "086.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › Fracción X",
+      "texto": "X. Participar en el Sistema Nacional de Fiscalización y en los Sistemas Nacional y Local Anticorrupción, en los términos de esta Constitución y las leyes."
+    },
+    {
+      "id": "086.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › Fracción XI",
+      "texto": "XI. En los términos que establezca la Ley, fiscalizará en coordinación con la Auditoría Superior de la Federación, las participaciones federales. Asimismo, fiscalizará los recursos estatales y municipales y la deuda pública que cuente con garantía de recursos estatales o transferidos, que se destinen y se ejerzan por cualquier entidad, persona física o moral, pública o privada, y los transferidos a fideicomisos, fondos y mandatos, públicos y privados, o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes y sin perjuicio de la competencia de otras autoridades y de los derechos de los usuarios del sistema financiero.\n\nDerivado de sus investigaciones y sin perjuicio de la competencia de la Auditoría Superior de la Federación, promoverá las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos y a los particulares."
+    },
+    {
+      "id": "086.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › Fracción XII",
+      "texto": "XII. Las demás que le otorgue esta Constitución y las leyes.\n\nREFORMADO POR DEC. 119 P.O. 22 DEL 16 DE MARZO DE 2017.\n\nARTÍCULO REFORMADO POR DEC. 585, P. O. 73 BIS DEL 12 DE SEPTIEMBRE DE 2024."
+    }
+  ]
+}

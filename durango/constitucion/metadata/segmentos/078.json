@@ -1,0 +1,72 @@
+{
+  "clave": "078",
+  "etiqueta": "Artículo 78",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "078.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › párrafo 1",
+      "texto": "El derecho de iniciar leyes y decretos compete a:"
+    },
+    {
+      "id": "078.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción I",
+      "texto": "I. Las Diputadas y los diputados."
+    },
+    {
+      "id": "078.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción II",
+      "texto": "II. La Gobernadora o Gobernador del Estado."
+    },
+    {
+      "id": "078.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción III",
+      "texto": "III. El Tribunal Superior de Justicia, en los asuntos relativos a su organización y funcionamiento."
+    },
+    {
+      "id": "078.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción IV",
+      "texto": "IV. Los órganos constitucionales autónomos, en los asuntos relativos a su función."
+    },
+    {
+      "id": "078.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción V",
+      "texto": "V. Los municipios, en los asuntos relativos a la administración municipal."
+    },
+    {
+      "id": "078.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción VI",
+      "texto": "VI. Las y los ciudadanos duranguenses mediante iniciativa popular, en los términos que establezca la ley.\n\nLa Gobernadora o el Gobernador del Estado tiene derecho a presentar hasta tres iniciativas de carácter preferente durante cada año de ejercicio constitucional.\n\nREFORMADO POR DEC. 585 P.O. 11 EXT. DEL 24 DE MAYO DE 2022.\n\nDichas iniciativas deben ser sometidas a discusión y votación en un periodo que no excederá de noventa días, de lo contrario, se tendrán por aprobadas en los términos presentados por el Ejecutivo, debiendo el Presidente del Congreso del Estado hacer la correspondiente declaratoria.\n\nNo podrán incluirse como iniciativas preferentes las que modifiquen disposiciones constitucionales."
+    }
+  ]
+}
