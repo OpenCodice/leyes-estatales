@@ -1,0 +1,27 @@
+{
+  "clave": "012",
+  "etiqueta": "Artículo 12º",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "012.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE JUNIO DE 1988)"
+    },
+    {
+      "id": "012.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › párrafo 2",
+      "texto": "Los coahuilenses serán preferidos, en igualdad de circunstancias, para toda clase de concesiones y para todos los empleos, cargos o comisiones del Gobierno del Estado."
+    }
+  ]
+}

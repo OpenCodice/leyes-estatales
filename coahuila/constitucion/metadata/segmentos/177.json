@@ -1,0 +1,27 @@
+{
+  "clave": "177",
+  "etiqueta": "Artículo 177º",
+  "titulo": "TITULO OCTAVO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "177.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 177º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 16 DE MARZO DE 2009)"
+    },
+    {
+      "id": "177.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 177º › párrafo 2",
+      "texto": "Las autoridades municipales, se sujetarán estrictamente a las facultades que les otorga la ley y observarán, muy especialmente, las prescripciones de los artículos 21 y 115 de la Constitución Política de los Estados Unidos Mexicanos."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "006",
+  "etiqueta": "Artículo 6º",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "006.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE MARZO DE 2001)"
+    },
+    {
+      "id": "006.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6º › párrafo 2",
+      "texto": "Para el cumplimiento de sus funciones, el Estado se dividirá en Distritos, cualquiera que sea su denominación; Zonas de Desarrollo Económico y demás circunscripciones que se consideren necesarias, con base en la agrupación de sus Municipios."
+    },
+    {
+      "id": "006.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6º › párrafo 3",
+      "texto": "La determinación, aprobación y publicación oficial de los Distritos, Zonas de Desarrollo Económico y demás circunscripciones, se hará por los órganos de los poderes públicos competentes; pero en todos los casos los Municipios involucrados deberán ser consultados y su hacienda municipal no podrá ser afectada, a menos que cada Ayuntamiento preste su consentimiento."
+    }
+  ]
+}

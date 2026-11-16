@@ -1,0 +1,36 @@
+{
+  "clave": "007-k",
+  "etiqueta": "Artículo 7º K",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007-k.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º K › párrafo 1",
+      "texto": "Los instrumentos internacionales en materia de derechos humanos ratificados por el Estado Mexicano serán aplicados e interpretados por todas las autoridades en el ámbito de sus competencias locales, favoreciendo en todo momento la protección más amplia de los derechos humanos."
+    },
+    {
+      "id": "007-k.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º K › párrafo 2",
+      "texto": "Las decisiones emitidas por los organismos internacionales del Sistema de Naciones Unidas y del Sistema Interamericano, en el marco de sus atribuciones locales, conferidas en los instrumentos internacionales ratificados por el Estado Mexicano, serán vinculantes para todas las autoridades estatales y municipales."
+    },
+    {
+      "id": "007-k.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º K › párrafo 3",
+      "texto": "Las observaciones, comentarios y recomendaciones generales o particulares que realicen dichos organismos internacionales deberán ser observadas por las autoridades locales, de forma conjunta con los contenidos de los tratados internacionales que les dan origen conforme al principio de protección más amplia de la persona y su interpretación progresiva."
+    }
+  ]
+}

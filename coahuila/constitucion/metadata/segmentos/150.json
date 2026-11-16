@@ -1,0 +1,27 @@
+{
+  "clave": "150",
+  "etiqueta": "Artículo 150º",
+  "titulo": "TITULO QUINTO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "150.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 150º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024) (REFORMADO, P.O. 28 DE DICIEMBRE DE 1993)"
+    },
+    {
+      "id": "150.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 150º › párrafo 2",
+      "texto": "Los Magistrados y Jueces al cumplir un período constitucional, en los términos del artículo 135, podrán ser reelectos, y si lo fueren, sólo podrán ser privados de sus puestos en los términos del Título Séptimo de esta Constitución. El procedimiento de la reelección se establecerá en la Ley."
+    }
+  ]
+}

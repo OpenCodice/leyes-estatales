@@ -1,0 +1,27 @@
+{
+  "clave": "148",
+  "etiqueta": "Artículo 148º",
+  "titulo": "TITULO QUINTO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "148.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024) (REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017) (REFORMADO, PRIMER PARRAFO, P.O. 25 DE MAYO DE 2007)"
+    },
+    {
+      "id": "148.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148º › párrafo 2",
+      "texto": "Las personas titulares del Poder Judicial del Estado, así como los integrantes del Órgano de Administración Judicial, rendirán protesta conforme a esta Constitución y la Ley."
+    }
+  ]
+}

@@ -1,0 +1,216 @@
+{
+  "clave": "114",
+  "etiqueta": "Artículo 114º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "114.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 14 DE JULIO DE 2017) (REFORMADO, P.O. 8 DE ABRIL DE 2012)"
+    },
+    {
+      "id": "114.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114º › párrafo 2",
+      "texto": "Los requisitos, la designación, el ejercicio y la remoción del cargo de Fiscal General del Estado, se sujetará a las bases siguientes:"
+    },
+    {
+      "id": "114.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114º › Fracción I",
+      "texto": "I. Para ocupar el cargo se requerirá:"
+    },
+    {
+      "id": "114.I.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 114º › Fracción I › 1.",
+      "texto": "1. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos."
+    },
+    {
+      "id": "114.I.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 114º › Fracción I › 2.",
+      "texto": "2. Tener cuando menos treinta y cinco años cumplidos el día de la designación."
+    },
+    {
+      "id": "114.I.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 114º › Fracción I › 3.",
+      "texto": "3. Contar, con título profesional de licenciado en derecho, expedido por autoridad o institución legalmente facultada para ello y cédula profesional que acredite su registro ante autoridad competente y contar con una antigüedad mínima de 10 años en el ejercicio de la profesión."
+    },
+    {
+      "id": "114.I.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 114º › Fracción I › 4.",
+      "texto": "4. Gozar de buena reputación y no haber sido condenado por la comisión de delito doloso."
+    },
+    {
+      "id": "114.I.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 114º › Fracción I › 5.",
+      "texto": "5. No estar suspendido ni haber sido destituido o inhabilitado por resolución firme como servidor público."
+    },
+    {
+      "id": "114.I.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 114º › Fracción I › 6.",
+      "texto": "6. Haber residido en el Estado durante los cinco años anteriores al día de la designación."
+    },
+    {
+      "id": "114.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114º › Fracción II",
+      "texto": "II. La designación y remoción se realizarán conforme al siguiente procedimiento:"
+    },
+    {
+      "id": "114.II.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 114º › Fracción II › 1.",
+      "texto": "1. A partir de la ausencia definitiva del Fiscal General del Estado, el Congreso del Estado, previa convocatoria pública abierta y transparente, contará con veinte días para integrar una lista de al menos diez candidatos al cargo, aprobada por las dos terceras partes de los miembros presentes, la cual enviará al Ejecutivo del Estado."
+    },
+    {
+      "id": "114.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114º › párrafo 3",
+      "texto": "Si el Ejecutivo del Estado no recibe la lista en el plazo antes señalado, enviará libremente al Congreso del Estado una terna y designará provisionalmente al Fiscal General del Estado, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Fiscal General del Estado designado podrá formar parte de la terna."
+    },
+    {
+      "id": "114.II.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 114º › Fracción II › 2.",
+      "texto": "2. Recibida la lista a que se refiere la fracción anterior, dentro de los diez días siguientes el Ejecutivo del Estado formulará una terna y la enviará a consideración del Congreso del Estado."
+    },
+    {
+      "id": "114.II.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 114º › Fracción II › 3.",
+      "texto": "3. El Congreso del Estado, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General del Estado con el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días."
+    },
+    {
+      "id": "114.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114º › párrafo 4",
+      "texto": "En caso de que el Ejecutivo del Estado no envíe la terna a que se refiere la fracción anterior, el Congreso del Estado tendrá diez días para designar al Fiscal General del Estado de entre los candidatos de la lista que señala el numeral 1."
+    },
+    {
+      "id": "114.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114º › párrafo 5",
+      "texto": "Si el Congreso del Estado no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo del Estado designará al Fiscal General del Estado de entre los candidatos que integren la lista o, en su caso, la terna respectiva."
+    },
+    {
+      "id": "114.II.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 114º › Fracción II › 4.",
+      "texto": "4. El Fiscal General del Estado podrá ser removido por el Congreso del Estado por las causas graves que establezca la ley, en la forma y términos que fijen esta Constitución y la ley de la materia. La remoción deberá ser aprobada por el voto de las dos terceras partes de los miembros presentes."
+    },
+    {
+      "id": "114.II.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 114º › Fracción II › 5.",
+      "texto": "5. En los recesos del Congreso del Estado, la Diputación Permanente lo convocará de inmediato a sesión extraordinaria para la designación o formulación de objeción a la remoción del Fiscal General del Estado."
+    },
+    {
+      "id": "114.II.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 114º › Fracción II › 6.",
+      "texto": "6. Las ausencias del Fiscal General del Estado serán suplidas en los términos que determine la ley."
+    },
+    {
+      "id": "114.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114º › Fracción III",
+      "texto": "III. Antes de tomar posesión de su cargo deberá rendir la protesta de ley ante el Congreso del Estado."
+    },
+    {
+      "id": "114.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114º › Fracción IV",
+      "texto": "IV. El período constitucional del Fiscal General del Estado será de siete años."
+    },
+    {
+      "id": "114.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114º › Fracción V",
+      "texto": "V. En tanto se designe nuevo Fiscal General del Estado y rinda la protesta de ley, ocupará el cargo el servidor público que conforme a la ley deba cubrir su ausencia."
+    },
+    {
+      "id": "114.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114º › Fracción VI",
+      "texto": "VI. El cargo será incompatible con cualquier otro empleo, cargo o comisión de carácter público o privado, así como con el ejercicio libre de la profesión de abogado. Sin embargo, podrá realizar labores docentes y actividades de investigación académica y/o científica, en los términos previstos por la ley de la materia."
+    }
+  ]
+}

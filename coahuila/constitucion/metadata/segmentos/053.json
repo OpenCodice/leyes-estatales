@@ -1,0 +1,45 @@
+{
+  "clave": "053",
+  "etiqueta": "Artículo 53º",
+  "titulo": "TITULO TERCERO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "053.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 4 DE FEBRERO DE 1977)"
+    },
+    {
+      "id": "053.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53º › párrafo 2",
+      "texto": "Al discutirse los dictámenes sobre iniciativas de leyes concernientes a la Administración de Justicia y Codificación, podrán asistir a las sesiones el Magistrado o Magistrados que el Supremo Tribunal designe y a quienes se les concederá el uso de la palabra para que opinen o informen sobre dichos dictámenes."
+    },
+    {
+      "id": "053.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53º › párrafo 3",
+      "texto": "(REFORMADO, P.O. 14 DE JULIO DE 2017) (REFORMADO, P.O. 8 DE ABRIL DE 2012)"
+    },
+    {
+      "id": "053.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53º › párrafo 4",
+      "texto": "El Congreso del Estado, podrá solicitar del gobernador la comparecencia de los secretarios del ramo, así como la de quienes dirijan entidades paraestatales, para que informen cuando se discuta una Ley, o se estudie un asunto concerniente a sus respectivos ramos o actividades."
+    }
+  ]
+}

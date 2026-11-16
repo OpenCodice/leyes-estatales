@@ -1,0 +1,855 @@
+{
+  "clave": "158-u",
+  "etiqueta": "Artículo 158º U",
+  "titulo": "TÍTULO SEXTO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "158-u.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º U › párrafo 1",
+      "texto": "Los Ayuntamientos tendrán las competencias, facultades y obligaciones siguientes:"
+    },
+    {
+      "id": "158-u.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º U › Fracción I",
+      "texto": "I. En materia de gobierno y régimen interior:\n\n(REFORMADO, P.O. 01 DE SEPTIEMBRE DE 2026) (REFORMADO, P.O. 16 DE MARZO DE 2009)"
+    },
+    {
+      "id": "158-u.I.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 158º U › Fracción I › 1.",
+      "texto": "1. Formular, aprobar y publicar los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones; el Reglamento de Seguridad Pública Municipal deberá ser ajustado a las disposiciones de la Constitución Política de los Estados Unidos Mexicanos, la Constitución Política del Estado y a las Leyes federales y estatales aplicables. La formulación de los ordenamientos y disposiciones municipales considerará la perspectiva de género, así como los mecanismos que garanticen la igualdad sustantiva."
+    },
+    {
+      "id": "158-u.I.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 158º U › Fracción I › 2.",
+      "texto": "2. Intervenir en el proceso legislativo constitucional u ordinario de conformidad con los artículos 59, 62 y 196 de esta Constitución."
+    },
+    {
+      "id": "158-u.I.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 158º U › Fracción I › 3.",
+      "texto": "3. Promover ante la Suprema Corte de Justicia de la Nación las controversias constitucionales a que se refiere el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "158-u.I.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 158º U › Fracción I › 4.",
+      "texto": "4. Promover ante el Pleno del Tribunal Superior de Justicia las controversias constitucionales y acciones de inconstitucionalidad locales a que se refiere el artículo 158 de esta Constitución."
+    },
+    {
+      "id": "158-u.I.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 158º U › Fracción I › 5.",
+      "texto": "5. Formular, aprobar, controlar y evaluar el Plan de Desarrollo Municipal, con arreglo a la ley."
+    },
+    {
+      "id": "158-u.I.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 158º U › Fracción I › 6.",
+      "texto": "6. Nombrar entre los munícipes, comisiones permanentes y temporales, para la atención de los asuntos públicos, de conformidad con lo que establezca la ley de la materia y la reglamentación respectiva."
+    },
+    {
+      "id": "158-u.I.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 158º U › Fracción I › 7.",
+      "texto": "7. Actualizar la información demográfica, económica y social que coadyuve a la mejor toma de decisiones de gobierno y colaborar con las autoridades federales y estatales en la formación de censos y estadísticas de toda índole."
+    },
+    {
+      "id": "158-u.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º U › párrafo 2",
+      "texto": "(REFORMADO, P.O. 01 DE SEPTIEMBRE DE 2026)"
+    },
+    {
+      "id": "158-u.I.8",
+      "tipo": "numeral",
+      "marca": "8",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 158º U › Fracción I › 8.",
+      "texto": "8. Conceder licencias hasta por quince días para separarse en lo individual de sus cargos, a la presidenta o el presidente municipal, síndica o síndico y regidoras o regidores. En el caso de que las ausencias excedan de los plazos señalados, se requerirá autorización del Congreso del Estado."
+    },
+    {
+      "id": "158-u.I.9",
+      "tipo": "numeral",
+      "marca": "9",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 158º U › Fracción I › 9.",
+      "texto": "9. Dictar, con el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos, las resoluciones que afecten el patrimonio inmobiliario municipal, con arreglo a la ley."
+    },
+    {
+      "id": "158-u.I.10",
+      "tipo": "numeral",
+      "marca": "10",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 158º U › Fracción I › 10.",
+      "texto": "10. Aprobar, con el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos, los actos o convenios que comprometan al Municipio por un plazo mayor al período del Ayuntamiento, con arreglo a la ley."
+    },
+    {
+      "id": "158-u.I.11",
+      "tipo": "numeral",
+      "marca": "11",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 158º U › Fracción I › 11.",
+      "texto": "11. Integrar un Comité Municipal de Seguridad Pública y organizar rondines de seguridad y tranquilidad social. Para tal efecto, el presidente municipal aprobará la designación y el funcionamiento del personal que integre los rondines de seguridad pública, los que tendrán el carácter de policía auxiliar."
+    },
+    {
+      "id": "158-u.I.12",
+      "tipo": "numeral",
+      "marca": "12",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 158º U › Fracción I › 12.",
+      "texto": "12. Turnar al Congreso del Estado o a la Diputación Permanente, en su caso, las renuncias y las solicitudes de licencia que le sean presentadas por los miembros de los ayuntamientos y de los Concejos Municipales, para que se resuelva sobre las mismas, conforme a lo dispuesto en esta Constitución y demás disposiciones aplicables. En estos casos, el Ayuntamiento respectivo deberá dar aviso al Ejecutivo del Estado."
+    },
+    {
+      "id": "158-u.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º U › Fracción II",
+      "texto": "II. En materia de administración pública municipal:"
+    },
+    {
+      "id": "158-u.II.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 158º U › Fracción II › 1.",
+      "texto": "1. Crear las dependencias y entidades de la administración pública municipal centralizada, desconcentrada y paramunicipal."
+    },
+    {
+      "id": "158-u.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º U › párrafo 3",
+      "texto": "En éste último caso, el Ayuntamiento notificará al Congreso la creación de la entidad paramunicipal."
+    },
+    {
+      "id": "158-u.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º U › párrafo 4",
+      "texto": "El Congreso del Estado podrá crear entidades paramunicipales sólo a iniciativa del Ayuntamiento interesado."
+    },
+    {
+      "id": "158-u.II.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 158º U › Fracción II › 2.",
+      "texto": "2. Celebrar, con arreglo a la ley, convenios y contratos que fueren favorables o necesarios en los distintos ramos de la administración pública municipal, con los gobiernos federal, estatal y otros gobiernos municipales de la entidad o de otras entidades."
+    },
+    {
+      "id": "158-u.II.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 158º U › Fracción II › 3.",
+      "texto": "3. Aprobar, cada año, el informe del estado que guarda la administración pública municipal, el cual será rendido por conducto del presidente municipal en sesión pública y solemne."
+    },
+    {
+      "id": "158-u.II.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 158º U › Fracción II › 4.",
+      "texto": "4. Nombrar y remover al secretario del Ayuntamiento, al tesorero municipal y demás funcionarios de la administración pública municipal, a propuesta del presidente municipal y sin menoscabo del servicio profesional de carrera en el Municipio."
+    },
+    {
+      "id": "158-u.II.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 158º U › Fracción II › 5.",
+      "texto": "5. Nombrar al titular del órgano de control interno municipal. Podrán establecerse contralorías sociales."
+    },
+    {
+      "id": "158-u.II.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 158º U › Fracción II › 6.",
+      "texto": "6. Ordenar la comparecencia de cualquier servidor público municipal, para que informe sobre los asuntos de su competencia."
+    },
+    {
+      "id": "158-u.II.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 158º U › Fracción II › 7.",
+      "texto": "7. Establecer el Servicio Profesional de Carrera Municipal, el cual es un sistema de administración del personal, que debe contener las reglas, requisitos, criterios y parámetros para el ingreso, el desarrollo laboral y el retiro, con el objetivo de que los funcionarios municipales logren su profesionalización y aseguren un plan de vida y de carrera."
+    },
+    {
+      "id": "158-u.II.8",
+      "tipo": "numeral",
+      "marca": "8",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 158º U › Fracción II › 8.",
+      "texto": "8. Organizar cursos, seminarios y programas de educación y capacitación continua tendientes a eficientar el cumplimiento de las funciones de los integrantes del Ayuntamiento y demás servidores públicos municipales."
+    },
+    {
+      "id": "158-u.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º U › Fracción III",
+      "texto": "III. En materia de desarrollo urbano y obra pública:"
+    },
+    {
+      "id": "158-u.III.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º U › Fracción III › 1.",
+      "texto": "1. Los Municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para:"
+    },
+    {
+      "id": "158-u.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º U › párrafo 5",
+      "texto": "(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)"
+    },
+    {
+      "id": "158-u.III.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º U › Fracción III › inciso a)",
+      "texto": "a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal. Los Planes de Desarrollo Urbano Municipal deberán establecer la prohibición de usos de suelo para casinos, centros de apuestas, salas de sorteos, casas de juego y similares, cualquiera que sea su denominación, para centros donde se presentan espectáculos con personas desnudas o semidesnudas y, para establecimientos donde se comercializan vehículos de procedencia extranjera sin acreditar su legal estancia en el Estado;"
+    },
+    {
+      "id": "158-u.III.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º U › Fracción III › inciso b)",
+      "texto": "b) Participar en la creación y administración de las reservas territoriales municipales;"
+    },
+    {
+      "id": "158-u.III.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º U › Fracción III › inciso c)",
+      "texto": "c) Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando el Estado elabore proyectos de desarrollo regional, en estos se deberá asegurar la participación de los Municipios;\n\n(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)"
+    },
+    {
+      "id": "158-u.III.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º U › Fracción III › inciso d)",
+      "texto": "d) Autorizar, controlar y vigilar la utilización del suelo en el ámbito de su competencia, en sus respectivas jurisdicciones territoriales. No estará permitido en el Estado el uso de suelo para casinos, centros de apuestas, salas de sorteos, casas de juego y similares, cualquiera que sea su denominación, para centros donde se presentan espectáculos con personas desnudas o semidesnudas y, para establecimientos donde se comercializan vehículos de procedencia extranjera sin acreditar su legal estancia en el Estado;"
+    },
+    {
+      "id": "158-u.III.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º U › Fracción III › inciso e)",
+      "texto": "e) Intervenir en la regularización de la tenencia de la tierra urbana;\n\n(REFORMADO, P.O. 19 DE OCTUBRE DE 2012)"
+    },
+    {
+      "id": "158-u.III.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º U › Fracción III › inciso f)",
+      "texto": "f) Otorgar licencias y permisos para construcciones. No estarán permitidos en el Estado los permisos o licencias de construcción para casinos, centros de apuestas, salas de sorteos, casas de juego y similares, cualquiera que sea su denominación, para centros donde se presentan espectáculos con personas desnudas o semidesnudas y, para establecimientos donde se comercializan vehículos de procedencia extranjera sin acreditar su legal estancia en el Estado;"
+    },
+    {
+      "id": "158-u.III.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º U › Fracción III › inciso g)",
+      "texto": "g) Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;"
+    },
+    {
+      "id": "158-u.III.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º U › Fracción III › inciso h)",
+      "texto": "h) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten el ámbito territorial de los Municipios;"
+    },
+    {
+      "id": "158-u.III.i",
+      "tipo": "inciso",
+      "marca": "i",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º U › Fracción III › inciso i)",
+      "texto": "i) Celebrar convenios para la administración y custodia de las zonas federales;"
+    },
+    {
+      "id": "158-u.III.j",
+      "tipo": "inciso",
+      "marca": "j",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º U › Fracción III › inciso j)",
+      "texto": "j) Expedir los reglamentos y disposiciones administrativas que fueren necesarios, en lo conducente y de conformidad a los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "158-u.III.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º U › Fracción III › 2.",
+      "texto": "2. Planear y regular, en el ámbito de sus competencias y dentro de sus jurisdicciones respectivas, el desarrollo de centros urbanos situados en territorios municipales que pertenezcan también a otras entidades federativas y que formen o tiendan a formar una continuidad demográfica, con apego a la ley federal de la materia y lo dispuesto por la fracción VI del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "158-u.III.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º U › Fracción III › 3.",
+      "texto": "3. Acordar la división territorial del municipio, determinando las unidades políticas y administrativas y su denominación."
+    },
+    {
+      "id": "158-u.III.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º U › Fracción III › 4.",
+      "texto": "4. Solicitar al Ejecutivo del Estado, la expropiación de bienes inmuebles por causa de utilidad pública."
+    },
+    {
+      "id": "158-u.III.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º U › Fracción III › 5.",
+      "texto": "5. Preservar, conservar y restaurar el medio ambiente."
+    },
+    {
+      "id": "158-u.III.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º U › Fracción III › 6.",
+      "texto": "6. Participar en la creación y administración de las zonas ecológicas y áreas naturales protegidas de competencia local."
+    },
+    {
+      "id": "158-u.III.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º U › Fracción III › 7.",
+      "texto": "7. Aprobar el programa municipal de obra pública; así como convenir y contratar su ejecución."
+    },
+    {
+      "id": "158-u.III.8",
+      "tipo": "numeral",
+      "marca": "8",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º U › Fracción III › 8.",
+      "texto": "8. Participar conjuntamente con los organismos y dependencias oficiales competentes, en la planeación y aplicación, en su caso, de inversiones públicas federales y estatales."
+    },
+    {
+      "id": "158-u.III.9",
+      "tipo": "numeral",
+      "marca": "9",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º U › Fracción III › 9.",
+      "texto": "9. Aprobar la apertura o ampliación de las vías públicas y decretar la nomenclatura de calles, plazas y jardines públicos, así como el alineamiento y numeración oficial de avenidas y calles, conforme al reglamento respectivo, dando aviso a los organismos correspondientes."
+    },
+    {
+      "id": "158-u.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º U › Fracción IV",
+      "texto": "IV. En materia de servicios públicos municipales:"
+    },
+    {
+      "id": "158-u.IV.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 158º U › Fracción IV › 1.",
+      "texto": "1. Prestar los servicios públicos municipales siguientes:"
+    },
+    {
+      "id": "158-u.IV.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 158º U › Fracción IV › inciso a)",
+      "texto": "a) Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;"
+    },
+    {
+      "id": "158-u.IV.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 158º U › Fracción IV › inciso b)",
+      "texto": "b) Alumbrado público;"
+    },
+    {
+      "id": "158-u.IV.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 158º U › Fracción IV › inciso c)",
+      "texto": "c) Limpia, recolección, traslado, tratamiento y disposición final de residuos;"
+    },
+    {
+      "id": "158-u.IV.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 158º U › Fracción IV › inciso d)",
+      "texto": "d) Mercados y centrales de abasto;"
+    },
+    {
+      "id": "158-u.IV.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 158º U › Fracción IV › inciso e)",
+      "texto": "e) Panteones;"
+    },
+    {
+      "id": "158-u.IV.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 158º U › Fracción IV › inciso f)",
+      "texto": "f) Rastro;"
+    },
+    {
+      "id": "158-u.IV.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 158º U › Fracción IV › inciso g)",
+      "texto": "g) Calles, parques y jardines y su equipamiento;"
+    },
+    {
+      "id": "158-u.IV.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 158º U › Fracción IV › inciso h)",
+      "texto": "h) Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, a través de la policía preventiva municipal;"
+    },
+    {
+      "id": "158-u.IV.i",
+      "tipo": "inciso",
+      "marca": "i",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 158º U › Fracción IV › inciso i)",
+      "texto": "i) Los demás que el Congreso del Estado determine según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa y financiera."
+    },
+    {
+      "id": "158-u.IV.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 158º U › Fracción IV › 2.",
+      "texto": "2. Instrumentar los mecanismos necesarios para ampliar la cobertura y mejorar la calidad en la prestación de los servicios públicos."
+    },
+    {
+      "id": "158-u.IV.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 158º U › Fracción IV › 3.",
+      "texto": "3. Crear, con arreglo a la ley, los órganos operadores necesarios para prestar los servicios públicos municipales."
+    },
+    {
+      "id": "158-u.IV.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 158º U › Fracción IV › 4.",
+      "texto": "4. Aprobar, con arreglo a la ley, las concesiones a los particulares para que éstos presten los servicios públicos municipales."
+    },
+    {
+      "id": "158-u.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º U › Fracción V",
+      "texto": "V. En materia de hacienda pública municipal:"
+    },
+    {
+      "id": "158-u.V.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 158º U › Fracción V › 1.",
+      "texto": "1. Administrar libremente su hacienda y controlar la aplicación del presupuesto de egresos del municipio, estableciendo un órgano de funciones de control y evaluación del gasto público municipal."
+    },
+    {
+      "id": "158-u.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º U › párrafo 6",
+      "texto": "(REFORMADO, P.O. 2 DE DICIEMBRE DE 2016) (REFORMADO, P.O. 15 DE JUNIO DE 2007)"
+    },
+    {
+      "id": "158-u.V.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 158º U › Fracción V › 2.",
+      "texto": "2. Discutir, analizar y someter a la aprobación del Congreso del Estado, a más tardar el 15 de octubre de cada año, la iniciativa de Ley de Ingresos correspondiente a cada ejercicio fiscal."
+    },
+    {
+      "id": "158-u.V.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 158º U › Fracción V › 3.",
+      "texto": "3. Discutir y analizar el Presupuesto de Egresos del Municipio y aprobarlo a más tardar el día 31 de diciembre del año anterior a su ejercicio y disponer su publicación en el Periódico Oficial del Gobierno del Estado y difundirlo por los medios más amplios de que se disponga."
+    },
+    {
+      "id": "158-u.V.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 158º U › Fracción V › 4.",
+      "texto": "4. Coordinar, supervisar y vigilar con toda oportunidad los ingresos municipales."
+    },
+    {
+      "id": "158-u.V.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 158º U › Fracción V › 5.",
+      "texto": "5. Enviar al Congreso del Estado para su estudio y aprobación, los proyectos de contratación de créditos que afecten los ingresos de la administración municipal."
+    },
+    {
+      "id": "158-u.V.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 158º U › Fracción V › 6.",
+      "texto": "6. Aprobar los estados financieros mensuales que presente el tesorero municipal y publicarlos en el Periódico Oficial del Estado, cada tres meses."
+    },
+    {
+      "id": "158-u.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º U › párrafo 7",
+      "texto": "(REFORMADO, P.O. 27 DE MARZO DE 2020)"
+    },
+    {
+      "id": "158-u.V.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 158º U › Fracción V › 7.",
+      "texto": "7. Presentar al Congreso del Estado la cuenta pública de la hacienda municipal, así como los informes de avance de gestión financiera, en los términos y plazos que para tal efecto establezca la ley de la materia; asimismo verificar la presentación de la cuenta pública y de los informes correspondientes del sector paramunicipal."
+    },
+    {
+      "id": "158-u.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º U › párrafo 8",
+      "texto": "(REFORMADO, P.O. 2 DE DICIEMBRE DE 2016) (REFORMADO, P.O. 15 DE JUNIO DE 2007)"
+    },
+    {
+      "id": "158-u.V.8",
+      "tipo": "numeral",
+      "marca": "8",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 158º U › Fracción V › 8.",
+      "texto": "8. Proponer al Congreso del Estado a más tardar el 15 de octubre de cada año, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en los términos de las leyes fiscales y conforme a los principios de equidad, proporcionalidad y capacidad contributiva."
+    },
+    {
+      "id": "158-u.V.9",
+      "tipo": "numeral",
+      "marca": "9",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 158º U › Fracción V › 9.",
+      "texto": "9. Determinar la forma en que el tesorero y demás servidores públicos que manejen caudales públicos municipales, deban caucionar suficientemente su manejo."
+    },
+    {
+      "id": "158-u.V.10",
+      "tipo": "numeral",
+      "marca": "10",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 158º U › Fracción V › 10.",
+      "texto": "10. Aceptar herencias, legados o donaciones que se hagan al Municipio, siempre que no sean onerosas; en caso contrario solicitar autorización al Congreso para aceptarlas."
+    },
+    {
+      "id": "158-u.V.11",
+      "tipo": "numeral",
+      "marca": "11",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 158º U › Fracción V › 11.",
+      "texto": "11. Aprobar los movimientos de altas y bajas en el inventario de bienes muebles e inmuebles de propiedad municipal."
+    },
+    {
+      "id": "158-u.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º U › Fracción VI",
+      "texto": "VI. En materia de desarrollo económico y social:"
+    },
+    {
+      "id": "158-u.VI.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "VI",
+      "ruta": "Artículo 158º U › Fracción VI › 1.",
+      "texto": "1. Conceder subsidios, apoyos administrativos o estímulos fiscales, en los términos de la legislación de la materia, con la finalidad de impulsar la actividad económica del municipio, así como el establecimiento de nuevas empresas y la generación de empleos."
+    },
+    {
+      "id": "158-u.VI.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "VI",
+      "ruta": "Artículo 158º U › Fracción VI › 2.",
+      "texto": "2. Promover y apoyar los programas estatales y federales de desarrollo económico y de creación de empleos."
+    },
+    {
+      "id": "158-u.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º U › Fracción VII",
+      "texto": "VII. En materia de educación y cultura, asistencia y salud públicas:"
+    },
+    {
+      "id": "158-u.VII.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 158º U › Fracción VII › 1.",
+      "texto": "1. Fomentar las actividades educativas, científicas, tecnológicas, culturales, recreativas y deportivas."
+    },
+    {
+      "id": "158-u.VII.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 158º U › Fracción VII › 2.",
+      "texto": "2. Velar por el mantenimiento y conservación del patrimonio histórico, cultural y ecológico del Municipio."
+    },
+    {
+      "id": "158-u.VII.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 158º U › Fracción VII › 3.",
+      "texto": "3. Contar con un registro del acontecer histórico local y con el archivo de los documentos históricos municipales."
+    },
+    {
+      "id": "158-u.VII.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 158º U › Fracción VII › 4.",
+      "texto": "4. Promover y procurar la salud pública en el Municipio y auxiliar a las autoridades sanitarias estatales y municipales en la planeación y ejecución de sus disposiciones."
+    },
+    {
+      "id": "158-u.VII.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 158º U › Fracción VII › 5.",
+      "texto": "5. Prevenir y combatir los juegos prohibidos, la vagancia, el alcoholismo, la prostitución, la farmacodependencia y toda actividad que implique una conducta antisocial, con el apoyo de las distintas dependencias oficiales."
+    },
+    {
+      "id": "158-u.VII.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 158º U › Fracción VII › 6.",
+      "texto": "6. Cumplir y hacer cumplir las disposiciones legales en materia electoral, de cultos y de protección integral a menores."
+    },
+    {
+      "id": "158-u.VII.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 158º U › Fracción VII › 7.",
+      "texto": "7. Organizar y promover la instrucción cívica que fomente entre los habitantes del Municipio, el conocimiento de sus derechos y obligaciones."
+    },
+    {
+      "id": "158-u.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º U › Fracción VIII",
+      "texto": "VIII. En materia de participación ciudadana y vecinal:"
+    },
+    {
+      "id": "158-u.VIII.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 158º U › Fracción VIII › 1.",
+      "texto": "1. Formular programas de organización y participación social que permitan una mayor cooperación entre autoridades y habitantes del Municipio."
+    },
+    {
+      "id": "158-u.VIII.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 158º U › Fracción VIII › 2.",
+      "texto": "2. Promover la participación de los diferentes sectores organizados del Municipio y de los habitantes interesados en la solución de la problemática municipal y en la formulación del Plan de Desarrollo Municipal."
+    },
+    {
+      "id": "158-u.VIII.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 158º U › Fracción VIII › 3.",
+      "texto": "3. Promover la organización de asociaciones de ciudadanos."
+    },
+    {
+      "id": "158-u.VIII.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 158º U › Fracción VIII › 4.",
+      "texto": "4. Reglamentar y establecer las bases que organicen la participación, colaboración y cooperación de los vecinos en la prestación, construcción y conservación de los servicios y obras públicas."
+    },
+    {
+      "id": "158-u.VIII.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 158º U › Fracción VIII › 5.",
+      "texto": "5. Establecer e instrumentar mecanismos efectivos, funcionales y democráticos de participación comunitaria directa para la toma de decisiones fundamentales hacia el interior del gobierno municipal."
+    },
+    {
+      "id": "158-u.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º U › Fracción IX",
+      "texto": "IX. Las demás que señalen las disposiciones legales aplicables."
+    }
+  ]
+}

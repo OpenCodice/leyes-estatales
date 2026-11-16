@@ -1,0 +1,45 @@
+{
+  "clave": "024",
+  "etiqueta": "Artículo 24º",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "024.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24º › párrafo 1",
+      "texto": "La vecindad no se pierde:"
+    },
+    {
+      "id": "024.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24º › Fracción I",
+      "texto": "I. Por ausencia en virtud de comisión del servicio público del Estado o de la Federación."
+    },
+    {
+      "id": "024.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24º › Fracción II",
+      "texto": "II. Por ausencia en el desempeño de cargos de elección popular."
+    },
+    {
+      "id": "024.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24º › Fracción III",
+      "texto": "III. Por ausencia con ocasión de estudios científicos o artísticos."
+    }
+  ]
+}

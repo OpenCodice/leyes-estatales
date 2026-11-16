@@ -1,0 +1,27 @@
+{
+  "clave": "099",
+  "etiqueta": "Artículo 99º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "099.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99º › párrafo 1",
+      "texto": "(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2011)"
+    },
+    {
+      "id": "099.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99º › párrafo 2",
+      "texto": "Para la guarda, recaudación y distribución de los caudales públicos, habrá una dependencia que se denominará Secretaría de Finanzas del Estado, cuyo titular será designado por el Gobernador del Estado y deberá ser ratificado por el Congreso o en los recesos por la Diputación Permanente, en ambos casos bastará con la mayoría relativa y podrá ser removido libremente por el Titular del Poder Ejecutivo."
+    }
+  ]
+}

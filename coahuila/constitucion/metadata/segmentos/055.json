@@ -1,0 +1,36 @@
+{
+  "clave": "055",
+  "etiqueta": "Artículo 55º",
+  "titulo": "TITULO TERCERO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "055.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 55º › párrafo 1",
+      "texto": "El lugar de sesiones del Congreso será el designado por el mismo para la residencia de los Poderes del Estado y no podrá trasladarse a otro punto sin que para ello estén de acuerdo las dos terceras partes de los diputados presentes."
+    },
+    {
+      "id": "055.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 55º › párrafo 2",
+      "texto": "(ADICIONADO, P.O. 24 DE ABRIL DE 2020)"
+    },
+    {
+      "id": "055.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 55º › párrafo 3",
+      "texto": "De manera excepcional, en caso fortuito o de fuerza mayor, o cuando por causas especiales lo acuerde el Pleno por mayoría calificada, las sesiones se podrán realizar de forma virtual, por medios electrónicos, para desahogar los asuntos concretos acordados."
+    }
+  ]
+}

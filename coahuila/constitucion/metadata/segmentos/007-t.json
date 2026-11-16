@@ -1,0 +1,63 @@
+{
+  "clave": "007-t",
+  "etiqueta": "Artículo 7º T",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007-t.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º T › párrafo 1",
+      "texto": "Todas las autoridades estarán obligadas a ejercer el control difuso local para proteger los derechos humanos de esta Constitución, las Cartas de Derechos y sus Protocolos Adicionales de la manera siguiente:"
+    },
+    {
+      "id": "007-t.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º T › Fracción I",
+      "texto": "I. La interpretación conforme en sentido amplio, según la cual todas las autoridades del Estado deberán interpretar la norma de acuerdo a principios y reglas de los derechos humanos, favoreciendo en todo tiempo la protección más amplia;\n\n(REFORMADA, P.O. 01 DE SEPTIEMBRE DE 2026)"
+    },
+    {
+      "id": "007-t.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º T › Fracción II",
+      "texto": "II. La aplicación del principio pro persona, según el cual, cuando hay dos o más versiones interpretativas válidas, las autoridades deberán, partiendo de la presunción de constitucionalidad de las leyes, preferir aquella que hace a la ley acorde a los derechos humanos y amplía su esfera de protección. Esta interpretación deberá atender al principio de igualdad sustantiva, privilegiando el sentido que elimine desigualdades estructurales y garantice condiciones reales de igualdad en el ejercicio de los derechos."
+    },
+    {
+      "id": "007-t.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º T › Fracción III",
+      "texto": "III. La inaplicación de la ley o cualquier otra norma secundaria o de su acto indebido de aplicación, como atribución exclusiva de los jueces, cuando las alternativas anteriores no son posibles;"
+    },
+    {
+      "id": "007-t.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º T › Fracción IV",
+      "texto": "IV. En todo caso, las personas juzgadoras interpretarán los principios y reglas constitucionales locales para precisar de manera justificada el sentido y alcance de las mismas."
+    },
+    {
+      "id": "007-t.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º T › Fracción V",
+      "texto": "V. En ningún caso, las autoridades administrativas o organismos públicos autónomos podrán invalidar o desaplicar esta Constitución o las Cartas Fundamentales de los Derechos. Las personas juzgadoras serán las únicas competentes para resolver el control difuso o de convencionalidad entre esta Constitución Local y una norma nacional o internacional que el Estado mexicano debe observar."
+    }
+  ]
+}

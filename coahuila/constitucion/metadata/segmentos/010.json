@@ -1,0 +1,72 @@
+{
+  "clave": "010",
+  "etiqueta": "Artículo 10º",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "010.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE MAYO DE 1967)"
+    },
+    {
+      "id": "010.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10º › párrafo 2",
+      "texto": "Son coahuilenses:"
+    },
+    {
+      "id": "010.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10º › párrafo 3",
+      "texto": "(REFORMADA, P.O. 9 DE FEBRERO DE 2007)"
+    },
+    {
+      "id": "010.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10º › Fracción I",
+      "texto": "I. Las personas nacidos en el territorio del Estado."
+    },
+    {
+      "id": "010.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10º › Fracción II",
+      "texto": "II. Los hijos de coahuilenses sea cual fuere el lugar de su nacimiento.\n\n(REFORMADA, P.O. 9 DE FEBRERO DE 2007)"
+    },
+    {
+      "id": "010.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10º › Fracción III",
+      "texto": "III. Los mexicanos por nacimiento o por naturalización, que teniendo tres años de vecindad continua en el Estado, ejerzan algún arte, oficio, industria, trabajo, profesión o modo honesto de vivir.\n\n(REFORMADA, P.O. 9 DE FEBRERO DE 2007)"
+    },
+    {
+      "id": "010.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10º › Fracción IV",
+      "texto": "IV. Todo aquél que viva o trabaje en Coahuila y que quiere serlo, además de los que obtengan del Congreso del Estado la calidad de coahuilenses, en los términos de los ordenamientos jurídicos aplicables.\n\n(ADICIONADO, P.O. 9 DE FEBRERO DE 2007)\n\nLa solicitud al Congreso del Estado para estos fines, se formulará de conformidad con la Ley de la materia."
+    }
+  ]
+}

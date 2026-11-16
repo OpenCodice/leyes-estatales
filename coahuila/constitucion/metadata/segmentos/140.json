@@ -1,0 +1,27 @@
+{
+  "clave": "140",
+  "etiqueta": "Artículo 140º",
+  "titulo": "TITULO QUINTO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "140.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 140º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE JUNIO DE 1988)"
+    },
+    {
+      "id": "140.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 140º › párrafo 2",
+      "texto": "El ejercicio de la potestad jurisdiccional en todo tipo de procesos, corresponde exclusivamente a los órganos del Poder Judicial en los negocios que les encomienden las leyes, según los procedimientos que las mismas establezcan."
+    }
+  ]
+}

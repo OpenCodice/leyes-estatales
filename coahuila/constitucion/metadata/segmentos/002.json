@@ -1,0 +1,45 @@
+{
+  "clave": "002",
+  "etiqueta": "Artículo 2º",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "002.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)"
+    },
+    {
+      "id": "002.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2º › párrafo 2",
+      "texto": "La soberanía del estado reside esencial y originalmente en el pueblo coahuilense. El pueblo ejerce su soberanía:"
+    },
+    {
+      "id": "002.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2º › Fracción I",
+      "texto": "I. En forma directa, por medio del sufragio popular, el plebiscito y el referendo para renovar o, en su caso, para vincular en forma obligatoria a los poderes públicos del estado y de los municipios, en los términos que disponga esta Constitución y demás leyes aplicables."
+    },
+    {
+      "id": "002.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2º › Fracción II",
+      "texto": "II. En forma indirecta, por medio de los poderes públicos del estado y de los municipios, en los términos prescritos por esta Constitución y con arreglo al pacto fundamental de la República y las leyes que de ellos emanen.\n\nEstas formas de ejercer la soberanía, dentro del régimen interior del estado, son principios esenciales que legitiman el Poder Público del Estado y que, además, se complementan entre sí dentro del estado humanista, social y democrático de derecho que salvaguarda esta Constitución.\n\nEl plebiscito es la consulta popular mediante la cual los ciudadanos electores coahuilenses aprueban o rechazan las decisiones trascendentales del Ejecutivo del Estado o de los Ayuntamientos, en los términos que establezca esta Constitución y demás disposiciones aplicables.\n\nEl referendo es la consulta popular mediante la cual los ciudadanos electores coahuilenses aprueban o rechazan una iniciativa de ley o decreto o, en su caso, una ley o decreto trascendentales del Poder Legislativo del Estado, en los términos que establezca esta Constitución y demás disposiciones aplicables."
+    }
+  ]
+}

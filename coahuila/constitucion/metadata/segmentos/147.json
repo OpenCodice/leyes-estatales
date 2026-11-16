@@ -1,0 +1,36 @@
+{
+  "clave": "147",
+  "etiqueta": "Artículo 147º",
+  "titulo": "TITULO QUINTO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "147.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 147º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024) (REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019) (REFORMADO, P.O. 20 DE MARZO DE 2001)"
+    },
+    {
+      "id": "147.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 147º › párrafo 2",
+      "texto": "Los Magistrados Distritales, los Jueces de Primera Instancia, cualquiera que sea su denominación, y los titulares de los demás órganos jurisdiccionales que integran el Poder Judicial, serán nombrados en los términos previstos en esta Constitución y la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza."
+    },
+    {
+      "id": "147.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 147º › párrafo 3",
+      "texto": "(F. DE E., P.O. 5 DE JULIO DE 1988)"
+    }
+  ]
+}
