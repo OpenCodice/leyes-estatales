@@ -1,0 +1,27 @@
+{
+  "clave": "092-bis",
+  "etiqueta": "Artículo 92 Bis",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPITULO II BIS",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "092-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 Bis › párrafo 1",
+      "texto": "Derogado."
+    },
+    {
+      "id": "092-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 Bis › párrafo 2",
+      "texto": "Derogado, P.O. Alcance uno del 22 de junio del 2022."
+    }
+  ]
+}

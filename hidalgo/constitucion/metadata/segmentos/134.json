@@ -1,0 +1,45 @@
+{
+  "clave": "134",
+  "etiqueta": "Artículo 134",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "134.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 134 › párrafo 1",
+      "texto": "Son bienes de dominio público municipal:"
+    },
+    {
+      "id": "134.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 134 › Fracción I",
+      "texto": "I.- Los de uso común;"
+    },
+    {
+      "id": "134.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 134 › Fracción II",
+      "texto": "II.- Los inmuebles destinados a un servicio público, los expedientes de las oficinas y"
+    },
+    {
+      "id": "134.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 134 › Fracción III",
+      "texto": "III.- Los muebles e inmuebles que sean insustituibles; archivos, libros raros, obras de arte, históricas y otros previstos por las leyes federales sobre municipios y zonas arqueológicas, artísticas e históricas."
+    }
+  ]
+}

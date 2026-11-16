@@ -1,0 +1,27 @@
+{
+  "clave": "051",
+  "etiqueta": "Artículo 51",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "051.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › párrafo 1",
+      "texto": "Aprobado un Proyecto de Ley o de Decreto por el Congreso, se remitirá al Gobernador para su promulgación y publicación, los reglamentos, decretos, acuerdos y disposiciones de carácter general que expida el Gobernador, requerirán para su validez la firma del secretario de Gobierno, así como la del secretario o secretarios del ramo. El Gobernador, dentro de los diez días hábiles siguientes, podrá devolverlo con las observaciones que considere pertinentes."
+    },
+    {
+      "id": "051.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › párrafo 2",
+      "texto": "El Proyecto de Ley o de decreto devuelto al Congreso deberá ser discutido nuevamente, y si fuere confirmado por los dos tercios del número total de Diputados, volverá al Gobernador, quien deberá promulgarlo sin más trámite."
+    }
+  ]
+}

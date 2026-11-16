@@ -1,0 +1,27 @@
+{
+  "clave": "156",
+  "etiqueta": "Artículo 156",
+  "titulo": "TÍTULO DÉCIMO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "156.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 156 › párrafo 1",
+      "texto": "Nadie puede a la vez ejercer en el Estado dos o más cargos de elección popular, pero el interesado podrá escoger cualquiera de ellos."
+    },
+    {
+      "id": "156.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 156 › párrafo 2",
+      "texto": "Todo cargo o empleo público de la Entidad es incompatible con cualquiera otro del Estado, cuando por ambos se perciba sueldo, excepto en el caso de que se trate de los ramos de la docencia o de la beneficencia."
+    }
+  ]
+}

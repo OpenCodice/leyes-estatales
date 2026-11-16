@@ -1,0 +1,36 @@
+{
+  "clave": "151",
+  "etiqueta": "Artículo 151",
+  "titulo": "TÍTULO DÉCIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "151.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 151 › párrafo 1",
+      "texto": "La comisión de delitos del fuero común por cualquier servidor público o particulares será perseguida y sancionada en los términos de la Legislación Penal, y tratándose de delitos cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, deberán graduarse de acuerdo con el lucro obtenido o con la necesidad de satisfacer los daños y perjuicios originados por su conducta ilegal. Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados."
+    },
+    {
+      "id": "151.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 151 › párrafo 2",
+      "texto": "Se aplicarán sanciones administrativas a los servidores públicos por los actos u omisiones que afecten la legalidad y eficiencia que deban de observar en el desempeño de sus empleos, cargos o comisiones."
+    },
+    {
+      "id": "151.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 151 › párrafo 3",
+      "texto": "Los procedimientos para la aplicación de las sanciones mencionadas, se desarrollarán pronta y expeditamente. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza."
+    }
+  ]
+}

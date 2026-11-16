@@ -1,0 +1,63 @@
+{
+  "clave": "146",
+  "etiqueta": "Artículo 146",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "146.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 146 › párrafo 1",
+      "texto": "Los Regidores ejercerán las funciones que les confieran esta Constitución y las leyes, teniendo las facultades y obligaciones siguientes:"
+    },
+    {
+      "id": "146.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 146 › Fracción I",
+      "texto": "I.- Asistir a las sesiones del Ayuntamiento, con voz y voto. Los Regidores percibirán la dieta de asistencia que señale el Presupuesto de Egresos del Municipio."
+    },
+    {
+      "id": "146.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 146 › Fracción II",
+      "texto": "II.- Vigilar la correcta observancia de las disposiciones y acuerdos del Ayuntamiento;"
+    },
+    {
+      "id": "146.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 146 › Fracción III",
+      "texto": "III.- Someter a la consideración del Ayuntamiento, proyectos de acuerdos y programas correspondientes a su esfera de competencia;"
+    },
+    {
+      "id": "146.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 146 › Fracción IV",
+      "texto": "IV.- Cumplir con las funciones inherentes a sus comisiones, e informar al Ayuntamiento de sus resultados;"
+    },
+    {
+      "id": "146.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 146 › Fracción V",
+      "texto": "V.- Realizar sesiones de audiencia pública para recibir peticiones y propuestas de la comunidad.\n\nLos Regidores no podrán, en ningún caso, desempeñar cargos, empleos o comisiones remunerados en la administración pública municipal."
+    }
+  ]
+}

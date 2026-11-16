@@ -1,0 +1,27 @@
+{
+  "clave": "089",
+  "etiqueta": "Artículo 89",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPITULO II BIS",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "089.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › párrafo 1",
+      "texto": "El Ministerio Público del Estado, representante del interés social, es una institución de buena fe, se organizará en una Fiscalía General de Justicia, como órgano público autónomo, con personalidad jurídica y patrimonio propios."
+    },
+    {
+      "id": "089.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › párrafo 2",
+      "texto": "Artículo reformado, P.O. Alcance uno del 22 de junio del 2022."
+    }
+  ]
+}

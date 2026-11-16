@@ -1,0 +1,45 @@
+{
+  "clave": "013",
+  "etiqueta": "Artículo 13",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "013.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 1",
+      "texto": "Son hidalguenses:"
+    },
+    {
+      "id": "013.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción I",
+      "texto": "I.- Los nacidos en el territorio del Estado;"
+    },
+    {
+      "id": "013.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción II",
+      "texto": "II.- Los mexicanos y mexicanas que tengan domicilio establecido y una residencia efectiva de cinco años por lo menos, dentro del territorio del Estado y manifiesten su deseo de adquirir tal calidad; y"
+    },
+    {
+      "id": "013.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción III",
+      "texto": "III.- Los mexicanos y mexicanas que habiendo contraído matrimonio con hidalguenses, residan cuando menos tres años en el Estado y manifiesten su deseo de adquirir esa calidad."
+    }
+  ]
+}
