@@ -1,0 +1,81 @@
+{
+  "clave": "145",
+  "etiqueta": "Artículo 145",
+  "titulo": "TÍTULO VI",
+  "capitulo": "CAPÍTULO CUARTO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "145.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 145 › párrafo 1",
+      "texto": "Los bienes que integran el patrimonio del Municipio pueden ser de dominio público y de dominio privado:"
+    },
+    {
+      "id": "145.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 145 › Apartado A",
+      "texto": "A. Son bienes de dominio público municipal:"
+    },
+    {
+      "id": "145.A.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 145 › Apartado A › Fracción I",
+      "texto": "I. Los del uso común;"
+    },
+    {
+      "id": "145.A.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 145 › Apartado A › Fracción II",
+      "texto": "II. Los inmuebles destinados a un servicio público;"
+    },
+    {
+      "id": "145.A.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 145 › Apartado A › Fracción III",
+      "texto": "III. Los muebles que normalmente sean insustituibles, de singular valor o importancia;\n\ny"
+    },
+    {
+      "id": "145.A.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 145 › Apartado A › Fracción IV",
+      "texto": "IV. Los demás que señalen las leyes respectivas.\n\nEstos bienes son inalienables, imprescriptibles e inembargables y no están sujetos, mientras no varíe su situación jurídica, a acción reivindicatoria o de posesión definitiva o provisional."
+    },
+    {
+      "id": "145.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 145 › Apartado B",
+      "texto": "B. Son bienes de dominio privado municipal los no comprendidos en las fracciones del apartado anterior."
+    },
+    {
+      "id": "145.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 145 › Apartado B › párrafo 2",
+      "texto": "Los bienes de dominio privado municipal, cuando se trate de inmuebles, sólo podrán ser enajenados mediante acuerdo del Ayuntamiento, aprobado por la Legislatura."
+    }
+  ]
+}

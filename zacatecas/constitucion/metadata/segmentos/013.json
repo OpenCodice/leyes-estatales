@@ -1,0 +1,54 @@
+{
+  "clave": "013",
+  "etiqueta": "Artículo 13",
+  "titulo": "TÍTULO I",
+  "capitulo": "CAPÍTULO SEXTO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "013.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 1",
+      "texto": "Son personas ciudadanas del Estado:"
+    },
+    {
+      "id": "013.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 2",
+      "texto": "Párrafo reformado POG 23 de mayo de 2020 (Decreto 390) Proemio reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "013.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción I",
+      "texto": "I. Las personas zacatecanas que han cumplido dieciocho años y tienen un modo honesto de vivir;\n\nFracción reformada POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "013.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción II",
+      "texto": "II. Las personas mexicanas vecinas del Estado, con residencia de por lo menos seis meses, incluyendo la residencia binacional y simultánea, en los términos y con los requisitos que establezca la ley.\n\nFracción reformada POG 1 de octubre de 2003 (Decreto 305) Fracción reformada POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "013.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción III",
+      "texto": "III. Las personas mexicanas a quienes la Legislatura del Estado, con pleno conocimiento de causa, otorgue la ciudadanía zacatecana en virtud de haber prestado servicios de alta significación para el desarrollo material y cultural de la Entidad.\n\nFracción reformada POG 16 de septiembre de 2026 (Decreto 370)"
+    }
+  ]
+}

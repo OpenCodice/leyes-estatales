@@ -1,0 +1,27 @@
+{
+  "clave": "037",
+  "etiqueta": "Artículo 37",
+  "titulo": "TÍTULO III",
+  "capitulo": "CAPÍTULO PRIMERO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "037.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › párrafo 1",
+      "texto": "Las personas zacatecanas tienen el derecho de estar representadas en todos los organismos que tengan a su cargo funciones electorales, así como de consulta popular previstas por las leyes para el mejor desempeño de las atribuciones de los poderes públicos."
+    },
+    {
+      "id": "037.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › párrafo 2",
+      "texto": "Artículo reformado POG 3 de octubre de 2012 (Decreto 422) y 23 de mayo de 2020 (Decreto 390) Artículo reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "clave": "111",
+  "etiqueta": "Artículo 111",
+  "titulo": "TÍTULO IV",
+  "capitulo": "CAPÍTULO TERCERO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "111.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 1",
+      "texto": "Artículo derogado POG 10 de mayo de 2000 (Decreto 157)"
+    }
+  ]
+}

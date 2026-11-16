@@ -1,0 +1,18 @@
+{
+  "clave": "001",
+  "etiqueta": "Artículo 1",
+  "titulo": "TÍTULO I",
+  "capitulo": "CAPÍTULO PRIMERO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "001.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 1",
+      "texto": "El Estado de Zacatecas está constituido conforme a los principios del pacto federal que rige en los Estados Unidos Mexicanos, por la libre voluntad del Pueblo asentado en su territorio de organizarse políticamente y convivir en una comunidad sujeta a un orden jurídico y representada por un gobierno de origen democrático."
+    }
+  ]
+}

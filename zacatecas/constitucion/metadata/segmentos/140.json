@@ -1,0 +1,27 @@
+{
+  "clave": "140",
+  "etiqueta": "Artículo 140",
+  "titulo": "TÍTULO VI",
+  "capitulo": "CAPÍTULO TERCERO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "140.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 140 › párrafo 1",
+      "texto": "Toda persona servidora pública que maneje fondos del erario, es personal y pecuniariamente responsable de los pagos que hiciere; deberá otorgar garantía a satisfacción de la Secretaría correspondiente."
+    },
+    {
+      "id": "140.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 140 › párrafo 2",
+      "texto": "Artículo reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    }
+  ]
+}

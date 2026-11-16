@@ -1,0 +1,27 @@
+{
+  "clave": "109",
+  "etiqueta": "Artículo 109",
+  "titulo": "TÍTULO IV",
+  "capitulo": "CAPÍTULO TERCERO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "109.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 › párrafo 1",
+      "texto": "Se deroga."
+    },
+    {
+      "id": "109.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 › párrafo 2",
+      "texto": "Artículo derogado POG 14 de enero de 2025 (Decreto 94)"
+    }
+  ]
+}

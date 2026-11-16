@@ -1,0 +1,72 @@
+{
+  "clave": "101",
+  "etiqueta": "Artículo 101",
+  "titulo": "TÍTULO IV",
+  "capitulo": "CAPÍTULO TERCERO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "101.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 1",
+      "texto": "El Tribunal Superior de Justicia conocerá:"
+    },
+    {
+      "id": "101.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › Fracción I",
+      "texto": "I. De la segunda instancia de los asuntos civiles, mercantiles, familiares y penales del Estado;\n\nFracción reformada POG 14 de enero de 2025 (Decreto 94)"
+    },
+    {
+      "id": "101.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › Fracción II",
+      "texto": "II. De los recursos que las leyes sometan a su conocimiento;"
+    },
+    {
+      "id": "101.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › Fracción III",
+      "texto": "III. De las revisiones de oficio que determinen las leyes;\n\nFracción reformada POG 14 de enero de 2025 (Decreto 94)"
+    },
+    {
+      "id": "101.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › Fracción IV",
+      "texto": "IV. De las contiendas de jurisdicción entre los Jueces de primera instancia y municipales;"
+    },
+    {
+      "id": "101.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › Fracción V",
+      "texto": "V. De la substanciación y resolución del juicio para la protección de los derechos humanos, por incumplimiento de las recomendaciones hechas a la autoridad por la Comisión de Derechos Humanos del Estado, de acuerdo con la ley en la materia, y\n\nFracción reformada POG 14 de enero de 2025 (Decreto 94)"
+    },
+    {
+      "id": "101.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › Fracción VI",
+      "texto": "VI. De los demás asuntos que las leyes sometan a su jurisdicción.\n\nFracción reformada POG 01 de julio de 2023 (Decreto 303)"
+    }
+  ]
+}

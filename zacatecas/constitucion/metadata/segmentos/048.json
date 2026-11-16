@@ -1,0 +1,27 @@
+{
+  "clave": "048",
+  "etiqueta": "Artículo 48",
+  "titulo": "TÍTULO III",
+  "capitulo": "CAPÍTULO CUARTO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "048.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › párrafo 1",
+      "texto": "Se instituye el derecho de las ciudadanas y los ciudadanos para iniciar leyes, ordenanzas municipales y la adopción de las medidas conducentes a mejorar el funcionamiento de la Administración Pública, estatal y municipal. El ejercicio de este derecho estará sujeto a los requisitos, alcances, términos y procedimientos que establezcan las leyes reglamentarias."
+    },
+    {
+      "id": "048.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › párrafo 2",
+      "texto": "Artículo reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    }
+  ]
+}
