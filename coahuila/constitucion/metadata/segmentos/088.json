@@ -1,0 +1,36 @@
+{
+  "clave": "088",
+  "etiqueta": "Artículo 88º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPITULO III.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "088.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 4 DE OCTUBRE DE 2016) (REFORMADO, P.O. 17 DE JUNIO DE 1988)"
+    },
+    {
+      "id": "088.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88º › párrafo 2",
+      "texto": "Los reglamentos, decretos, acuerdos y circulares expedidos por el Gobernador, serán refrendados por los Secretarios del Ramo a que el asunto corresponda."
+    },
+    {
+      "id": "088.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88º › párrafo 3",
+      "texto": "Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por el Congreso del Estado, sólo se requerirá el refrendo del Secretario de Gobierno."
+    }
+  ]
+}

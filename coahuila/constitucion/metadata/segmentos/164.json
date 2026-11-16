@@ -1,0 +1,45 @@
+{
+  "clave": "164",
+  "etiqueta": "Artículo 164º",
+  "titulo": "TITULO SÉPTIMO.",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "164.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 164º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "164.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 164º › párrafo 2",
+      "texto": "Las sanciones que deberán imponerse mediante juicio político, consistirán en la destitución del servidor público y en su inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público."
+    },
+    {
+      "id": "164.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 164º › párrafo 3",
+      "texto": "Para la aplicación de dichas sanciones, el Congreso del Estado conocerá de las acusaciones presentadas en contra de los servidores públicos a que se refiere el primer párrafo del artículo anterior y se erigirá en jurado de sentencia, que impondrá la sanción correspondiente, mediante la resolución de las dos terceras partes del total de sus miembros, previa la substanciación del procedimiento respectivo, conforme a lo que establezcan los ordenamientos legales aplicables y con audiencia del inculpado."
+    },
+    {
+      "id": "164.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 164º › párrafo 4",
+      "texto": "Las declaraciones y resoluciones que emita el Congreso del Estado en estos casos, serán inatacables."
+    }
+  ]
+}

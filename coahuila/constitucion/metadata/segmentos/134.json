@@ -1,0 +1,27 @@
+{
+  "clave": "134",
+  "etiqueta": "Artículo 134º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPITULO VII.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "134.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 134º › párrafo 1",
+      "texto": "(DEROGADO, P.O. 20 DE MARZO DE 2001)"
+    },
+    {
+      "id": "134.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 134º › párrafo 2",
+      "texto": "(REFORMADA SU DENOMINACIÓN, P.O. 20 DE MARZO DE 2001)"
+    }
+  ]
+}

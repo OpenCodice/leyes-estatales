@@ -1,0 +1,81 @@
+{
+  "clave": "100",
+  "etiqueta": "Artículo 100º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPITULO IV.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "100.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100º › párrafo 1",
+      "texto": "(REFORMADO PRIMER PARRAFO, P.O. 18 DE NOVIEMBRE DE 2011)"
+    },
+    {
+      "id": "100.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100º › párrafo 2",
+      "texto": "Son obligaciones del Secretario de Finanzas del Estado:"
+    },
+    {
+      "id": "100.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100º › párrafo 3",
+      "texto": "(REFORMADA, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "100.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100º › Fracción I",
+      "texto": "I. Glosar las cuentas presentadas por los Recaudadores de Rentas, dando cuenta al Gobernador del resultado de las mismas.\n\n(REFORMADA, P.O. 10 DE FEBRERO DE 1998)"
+    },
+    {
+      "id": "100.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100º › Fracción II",
+      "texto": "II. Presentar al Congreso del Estado, dentro del término que disponga la Ley, previo acuerdo del Titular del Poder Ejecutivo, la cuenta pública, para efectos de su revisión, discusión y aprobación, en su caso.\n\n(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2011)"
+    },
+    {
+      "id": "100.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100º › Fracción III",
+      "texto": "III. Recaudar los ingresos públicos del Estado, con arreglo a las leyes del mismo.\n\n(REFORMADA, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "100.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100º › Fracción IV",
+      "texto": "IV. Informar al Gobernador del Estado, sobre las responsabilidades en que incurran los servidores públicos bajo su dirección, a fin de que las mismas se hagan exigibles, en los términos de esta Constitución y demás ordenamientos legales aplicables.\n\n(REFORMADA, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "100.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100º › Fracción V",
+      "texto": "V. Presentar diariamente al Ejecutivo, un informe general que manifieste el movimiento diario de ingresos y egresos."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "195-a",
+  "etiqueta": "Artículo 195º A",
+  "titulo": "TITULO NOVENO.",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "195-a.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 195º A › párrafo 1",
+      "texto": "(DECRETO 261, ADICIONADO, P.O. 19 DE AGOSTO DE 2022) (DECRETO 193, ADICIONADO, P.O. 21 DE ENERO DE 2022)"
+    },
+    {
+      "id": "195-a.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 195º A › párrafo 2",
+      "texto": "Los hechos materia de las resoluciones de una recomendación, denuncia, queja o informe de la Comisión de Derechos Humanos del Estado de Coahuila podrán ser objeto de acción del juicio local de protección de derechos humanos ante el Tribunal Constitucional Local, a efecto de que, con observancia del debido proceso, determine las obligaciones de las autoridades correspondientes para reparar las violaciones que se acrediten."
+    }
+  ]
+}

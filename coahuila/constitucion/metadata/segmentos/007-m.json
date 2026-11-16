@@ -1,0 +1,36 @@
+{
+  "clave": "007-m",
+  "etiqueta": "Artículo 7º M",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO II.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007-m.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º M › párrafo 1",
+      "texto": "Todos los derechos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en los tratados internacionales de derechos humanos suscritos por el Estado Mexicano serán plenamente justiciables y exigibles."
+    },
+    {
+      "id": "007-m.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º M › párrafo 2",
+      "texto": "En ningún caso podrá alegarse falta de norma jurídica o de garantías, que implique su desconocimiento, violación o desprotección."
+    },
+    {
+      "id": "007-m.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º M › párrafo 3",
+      "texto": "(DECRETO 261, ADICIONADA, P.O. 19 DE AGOSTO DE 2022) (DECRETO 193, ADICIONADO, P.O. 21 DE ENERO DE 2022)"
+    }
+  ]
+}

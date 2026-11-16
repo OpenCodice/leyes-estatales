@@ -1,0 +1,36 @@
+{
+  "clave": "158-a",
+  "etiqueta": "Artículo 158º A",
+  "titulo": "TÍTULO SEXTO.",
+  "capitulo": "CAPÍTULO I.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "158-a.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º A › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 20 DE MARZO DE 2001)"
+    },
+    {
+      "id": "158-a.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º A › párrafo 2",
+      "texto": "El Municipio Libre es la base fundamental para la organización territorial, política y administrativa del Estado."
+    },
+    {
+      "id": "158-a.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º A › párrafo 3",
+      "texto": "Los elementos que conforman el Municipio Libre son: su población, su territorio, la organización y el funcionamiento de sus órganos de gobierno y su hacienda. La ley establecerá las normas fundamentales para que cada Ayuntamiento reglamente los elementos de su Municipio, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y esta Constitución."
+    }
+  ]
+}

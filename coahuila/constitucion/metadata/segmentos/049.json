@@ -1,0 +1,36 @@
+{
+  "clave": "049",
+  "etiqueta": "Artículo 49º",
+  "titulo": "TITULO TERCERO.",
+  "capitulo": "CAPITULO II.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "049.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 28 DE OCTUBRE DE 2025) (REFORMADO, P.O. 7 DE AGOSTO DE 2012)"
+    },
+    {
+      "id": "049.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49º › párrafo 2",
+      "texto": "El Gobernador del Estado asistirá al Congreso, dentro de los últimos quince días de noviembre de cada año, a informar sobre el estado general que guarda la administración pública estatal."
+    },
+    {
+      "id": "049.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49º › párrafo 3",
+      "texto": "Tratándose del último año de su gestión, el Gobernador podrá, de acuerdo con el Congreso, rendir el informe a que se refiere el párrafo anterior dentro de los primeros quince días del mes de noviembre del año que corresponda."
+    }
+  ]
+}

@@ -1,0 +1,594 @@
+{
+  "clave": "158",
+  "etiqueta": "Artículo 158º",
+  "titulo": "TITULO QUINTO.",
+  "capitulo": "CAPITULO IV.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "158.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE MARZO DE 2001)"
+    },
+    {
+      "id": "158.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › párrafo 2",
+      "texto": "La Justicia Constitucional Local se erige dentro del régimen interior del Estado, como un medio de control para mantener la eficacia y la actualización democrática de esta Constitución, bajo el principio de supremacía constitucional."
+    },
+    {
+      "id": "158.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › párrafo 3",
+      "texto": "(REFORMADO, P.O. 13 DE OCTUBRE DE 2001)"
+    },
+    {
+      "id": "158.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › párrafo 4",
+      "texto": "La Justicia Constitucional Local tiene por objeto dirimir de manera definitiva e inatacable los conflictos constitucionales que surjan dentro del ámbito interior del Estado, conforme a este artículo, sin perjuicio de lo previsto en los artículos 41, 99, 103, 105 y 107 de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "158.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › párrafo 5",
+      "texto": "Cuando la Autoridad Jurisdiccional considere en su resolución que una norma, es contraria a esta Constitución, con base en lo establecido por el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos, deberá declarar de oficio su inaplicabilidad para el caso concreto. En este supuesto, el Tribunal superior de Justicia revisará la resolución en los términos que disponga la ley."
+    },
+    {
+      "id": "158.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › párrafo 6",
+      "texto": "(REFORMADO, P.O. 21 DE JUNIO DE 2005)"
+    },
+    {
+      "id": "158.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › párrafo 7",
+      "texto": "El Pleno del Tribunal Superior de Justicia, en su carácter de Tribunal Constitucional Local conocerá, en los términos que establezca la ley, de los medios de control siguientes:"
+    },
+    {
+      "id": "158.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › párrafo 8",
+      "texto": "(REFORMADA, P.O. 13 DE OCTUBRE DE 2001)"
+    },
+    {
+      "id": "158.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › Fracción I",
+      "texto": "I. De las controversias constitucionales locales, que con excepción de las que se refieran a la materia jurisdiccional electoral en los términos del artículo 136 de esta Constitución, se susciten entre:"
+    },
+    {
+      "id": "158.I.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 158º › Fracción I › 1.",
+      "texto": "1. El Poder Ejecutivo y el Legislativo;"
+    },
+    {
+      "id": "158.I.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 158º › Fracción I › 2.",
+      "texto": "2. El Poder Ejecutivo y uno o más Municipios del Estado;"
+    },
+    {
+      "id": "158.I.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 158º › Fracción I › 3.",
+      "texto": "3. El Poder Legislativo y uno o más Municipios del Estado;"
+    },
+    {
+      "id": "158.I.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 158º › Fracción I › 4.",
+      "texto": "4. El Poder Legislativo y una o más entidades paraestatales o paramunicipales del Estado;"
+    },
+    {
+      "id": "158.I.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 158º › Fracción I › 5.",
+      "texto": "5. Un Municipio y otro u otros del Estado;"
+    },
+    {
+      "id": "158.I.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 158º › Fracción I › 6.",
+      "texto": "6. Uno o más Municipios y una o más entidades paraestatales o paramunicipales del Estado;"
+    },
+    {
+      "id": "158.I.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 158º › Fracción I › 7.",
+      "texto": "7. Una o más entidades paraestatales y otra u otras paramunicipales del Estado."
+    },
+    {
+      "id": "158.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › párrafo 9",
+      "texto": "(ADICIONADO, P.O. 13 DE OCTUBRE DE 2001)"
+    },
+    {
+      "id": "158.I.8",
+      "tipo": "numeral",
+      "marca": "8",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 158º › Fracción I › 8.",
+      "texto": "8. Uno o más organismos públicos autónomos y otro u otros órganos del gobierno estatal y/o municipal."
+    },
+    {
+      "id": "158.p10",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › párrafo 10",
+      "texto": "En el caso del inciso 1, la controversia sólo procederá en materia de régimen interno del Estado, sin perjuicio de lo previsto en el artículo 105 de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "158.p11",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › párrafo 11",
+      "texto": "En los casos de los incisos 2., 3. y 5., la controversia sólo procederá en los supuestos previstos en el artículo 115, fracción II, último párrafo, de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "158.p12",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › párrafo 12",
+      "texto": "(REFORMADO, P.O. 21 DE JUNIO DE 2005)"
+    },
+    {
+      "id": "158.p13",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › párrafo 13",
+      "texto": "Las controversias constitucionales locales se sujetarán a lo siguiente:"
+    },
+    {
+      "id": "158.p14",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › párrafo 14",
+      "texto": "(REFORMADO, P.O. 8 DE ABRIL DE 2012)"
+    },
+    {
+      "id": "158.p15",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › párrafo 15",
+      "texto": "1, Podrán promoverse por cualquiera de las partes, según la controversia de que se trate. En las que el Ejecutivo sea parte, podrá estar representado por el titular de la Consejería Jurídica."
+    },
+    {
+      "id": "158.p16",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › párrafo 16",
+      "texto": "(REFORMADO, P.O. 14 DE JULIO DE 2017)"
+    },
+    {
+      "id": "158.p17",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › párrafo 17",
+      "texto": "El Fiscal General del Estado, podrá promover en materia penal y procesal penal, así como las relacionadas con el ámbito de sus funciones."
+    },
+    {
+      "id": "158.I.2~2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 158º › Fracción I › 2.",
+      "texto": "2. La controversia tendrá por objeto resolver sobre si el acto o los actos reclamados son conformes o contrarios a esta Constitución con base en el principio de supremacía constitucional establecido en el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos, y por vía de consecuencia declarar su validez o invalidez."
+    },
+    {
+      "id": "158.I.3~2",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 158º › Fracción I › 3.",
+      "texto": "3. Las resoluciones que pronuncie el Tribunal Superior de Justicia, tendrán efectos de cosa juzgada únicamente respecto de las partes que intervinieron en la controversia. Sólo en los casos en que se forme jurisprudencia local tendrá efectos generales."
+    },
+    {
+      "id": "158.I.4~2",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 158º › Fracción I › 4.",
+      "texto": "4. La ley establecerá el procedimiento a que deberán sujetarse las partes para dirimir la controversia."
+    },
+    {
+      "id": "158.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › Fracción II",
+      "texto": "II. De las acciones de inconstitucionalidad local que tengan por objeto plantear la posible contradicción entre una norma o acuerdo de carácter general y esta Constitución, las que deberán resolverse con base en lo establecido en el artículo 133 de la Constitución Política de los Estados Unidos Mexicanos.\n\n(REFORMADO, P.O. 21 DE JUNIO DE 2005)\n\nLas acciones de inconstitucionalidad se sujetarán a lo siguiente:"
+    },
+    {
+      "id": "158.II.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 158º › Fracción II › 1.",
+      "texto": "1. Se podrán promover en forma abstracta por:"
+    },
+    {
+      "id": "158.p18",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › párrafo 18",
+      "texto": "(REFORMADO, P.O. 14 DE JULIO DE 2017) (REFORMADO, P.O. 8 DE ABRIL DE 2012)"
+    },
+    {
+      "id": "158.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 158º › Fracción II › inciso a)",
+      "texto": "a) El Ejecutivo del Estado por sí o por conducto de quien le represente legalmente."
+    },
+    {
+      "id": "158.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 158º › Fracción II › inciso b)",
+      "texto": "b) El equivalente al diez por ciento de los integrantes del Poder Legislativo."
+    },
+    {
+      "id": "158.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 158º › Fracción II › inciso c)",
+      "texto": "c) El equivalente al diez por ciento de los integrantes de los Ayuntamientos o Concejos Municipales."
+    },
+    {
+      "id": "158.II.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 158º › Fracción II › inciso d)",
+      "texto": "d) El organismo público autónomo, por conducto de quien le represente legalmente.\n\n(REFORMADO, P.O. 14 DE JULIO DE 2017)"
+    },
+    {
+      "id": "158.II.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 158º › Fracción II › inciso e)",
+      "texto": "e) El Fiscal General del Estado, en materia penal y procesal penal, así como las relacionadas con el ámbito de sus funciones.\n\n(REFORMADO, P.O. 22 DE ENERO DE 2016)"
+    },
+    {
+      "id": "158.II.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 158º › Fracción II › inciso f)",
+      "texto": "f) Los partidos políticos nacionales y estatales con registro debidamente acreditado ante la autoridad electoral que corresponda, a través de sus dirigencias, exclusivamente en contra de leyes electorales expedidas por el Congreso del Estado."
+    },
+    {
+      "id": "158.II.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 158º › Fracción II › 2.",
+      "texto": "2. Se ejercitarán dentro de los sesenta días naturales siguientes a la fecha de publicación oficial de la norma, o en su defecto, de que se tenga conocimiento de la misma."
+    },
+    {
+      "id": "158.II.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 158º › Fracción II › 3.",
+      "texto": "3. Procederán contra:"
+    },
+    {
+      "id": "158.II.a~2",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 158º › Fracción II › inciso a)",
+      "texto": "a) Las leyes, decretos o puntos de acuerdos que apruebe el Congreso del Estado o la Diputación Permanente."
+    },
+    {
+      "id": "158.II.b~2",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 158º › Fracción II › inciso b)",
+      "texto": "b) Los reglamentos, acuerdos, decretos y demás normas administrativas de carácter general expedidas por el poder Ejecutivo, organismos públicos autónomos y demás entidades públicas con facultad reglamentaria."
+    },
+    {
+      "id": "158.II.c~2",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 158º › Fracción II › inciso c)",
+      "texto": "c) Los bandos de policía y de gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general, expedidas por los Ayuntamientos o Concejos Municipales."
+    },
+    {
+      "id": "158.II.d~2",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 158º › Fracción II › inciso d)",
+      "texto": "d) Las normas de carácter general que expidan los organismos públicos autónomos."
+    },
+    {
+      "id": "158.II.e~2",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 158º › Fracción II › inciso e)",
+      "texto": "e) Las demás normas de carácter general, salvo las que dicte el Pleno del Tribunal Superior de Justicia."
+    },
+    {
+      "id": "158.II.f~2",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 158º › Fracción II › inciso f)",
+      "texto": "f) La omisión normativa consistente en la falta de regulación legislativa o reglamentaria."
+    },
+    {
+      "id": "158.II.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 158º › Fracción II › 4.",
+      "texto": "4. Las resoluciones del Pleno del Tribunal Superior de Justicia sólo podrán declarar la invalidez de las normas impugnadas con efectos generales, siempre que fueren aprobadas por la mayoría absoluta de sus miembros y tendrá efectos de cosa juzgada en los términos que establezca la ley."
+    },
+    {
+      "id": "158.p19",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › párrafo 19",
+      "texto": "(DECRETO 261, ADICIONADA, P.O. 19 DE AGOSTO DE 2022) (DECRETO 193, ADICIONADA, P.O. 21 DE ENERO DE 2022)"
+    },
+    {
+      "id": "158.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › Fracción III",
+      "texto": "III. Del juicio local para la protección de los derechos humanos, el cual procederá en forma subsidiaria:"
+    },
+    {
+      "id": "158.III.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º › Fracción III › 1.",
+      "texto": "1. Contra actos u omisiones de una autoridad responsable que presuntamente haya violado el interés jurídico, legítimo o difuso de una persona que pretenda la protección de sus derechos humanos previstos en esta Constitución, las Cartas de Derechos y sus Protocolos Adicionales;"
+    },
+    {
+      "id": "158.III.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º › Fracción III › 2.",
+      "texto": "2. Contra actos de una autoridad responsable que omita o niegue en forma indebida aceptar una recomendación o informe de violaciones de derechos humanos emitida por la Comisión de Derechos Humanos del Estado de Coahuila, o habiéndola aceptado no realice todo lo necesario para reparar en forma efectiva las violaciones cometidas;"
+    },
+    {
+      "id": "158.III.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º › Fracción III › 3.",
+      "texto": "3. Contra actos de una autoridad responsable que presuntamente viole de manera grave los derechos humanos, con el objeto de fincar las declaratorias de responsabilidad oficial que correspondan;"
+    },
+    {
+      "id": "158.III.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º › Fracción III › 4.",
+      "texto": "4. Contra actos arbitrarios de un particular que ejerza una función o servicio público, o bien, realice actos de poder privado arbitrario que afecten el interés general de los derechos o dañe o ponga en riesgo real e inminente el disfrute de los derechos humanos, siempre y cuando en todos los casos se requiera de una tutela inmediata y efectiva;"
+    },
+    {
+      "id": "158.III.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º › Fracción III › 5.",
+      "texto": "5. Para resolver las opiniones consultivas sobre proyectos de ley o de normas vigentes;"
+    },
+    {
+      "id": "158.III.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º › Fracción III › 6.",
+      "texto": "6. Para resolver las acciones derivadas de violaciones graves a los derechos humanos, a fin de garantizar el derecho a una reparación integral en los términos que establezca esta Constitución, las Cartas de Derechos y sus Protocolos Adicionales;"
+    },
+    {
+      "id": "158.III.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º › Fracción III › 7.",
+      "texto": "7. Contra la omisión normativa consistente en la falta de regulación legislativa o reglamentaria que vulnere la protección efectiva de los derechos humanos;"
+    },
+    {
+      "id": "158.III.8",
+      "tipo": "numeral",
+      "marca": "8",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º › Fracción III › 8.",
+      "texto": "8. Para resolver de la cuestión de constitucionalidad local cuando cualquier juez o autoridad tenga duda sobre la inaplicación de esta Constitución, las Cartas de Derechos y sus Protocolos Adicionales, por la no conformidad con las normas constitucionales locales;"
+    },
+    {
+      "id": "158.III.9",
+      "tipo": "numeral",
+      "marca": "9",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º › Fracción III › 9.",
+      "texto": "9. Para resolver, en casos de extrema gravedad y urgencia, las medidas provisionales que se consideren pertinentes para evitar daños irreparables a las personas en sus derechos y libertades fundamentales. Si se tratare de asuntos que aún no estén sometidos a su conocimiento, podrá actuar a solicitud de la Comisión de Derechos Humanos del Estado de Coahuila;"
+    },
+    {
+      "id": "158.III.10",
+      "tipo": "numeral",
+      "marca": "10",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º › Fracción III › 10.",
+      "texto": "10. En todos los demás casos locales de importancia y trascendencia constitucional en cualquier materia de derechos humanos, conforme lo disponga la ley."
+    },
+    {
+      "id": "158.III.11",
+      "tipo": "numeral",
+      "marca": "11",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 158º › Fracción III › 11.",
+      "texto": "11. En todo caso, el Tribunal Constitucional Local podrá ejercer un escrutinio flexible para decidir conforme a la prueba de relevancia constitucional la procedencia del juicio local de protección de derechos humanos. También podrá establecer acuerdos generales para facilitar la aplicación e interpretación de sus precedentes a todos los tribunales y autoridades estatales y municipales."
+    },
+    {
+      "id": "158.p20",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › párrafo 20",
+      "texto": "(ADICIONADO, P.O. 13 DE OCTUBRE DE 2001)"
+    },
+    {
+      "id": "158.p21",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › párrafo 21",
+      "texto": "La única vía para plantear la inconstitucionalidad de leyes, decretos o acuerdos legislativos en materia electoral, es la prevista en este artículo, sin perjuicio del control difuso que ejercerá el Tribunal Electoral del Poder Judicial en los términos de esta Constitución."
+    },
+    {
+      "id": "158.p22",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › párrafo 22",
+      "texto": "(REFORMADO, P.O. 21 DE JUNIO DE 2005)"
+    },
+    {
+      "id": "158.p23",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › párrafo 23",
+      "texto": "La Justicia Constitucional Local se regirá por la jurisprudencia local, salvo los casos de prevalencia de la jurisprudencia federal."
+    },
+    {
+      "id": "158.p24",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º › párrafo 24",
+      "texto": "(ADICIONADO, P.O. 20 DE MARZO DE 2001)"
+    }
+  ]
+}

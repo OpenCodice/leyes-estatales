@@ -1,0 +1,36 @@
+{
+  "clave": "007-c",
+  "etiqueta": "Artículo 7º C",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO II.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007-c.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º C › párrafo 1",
+      "texto": "Las personas tienen el derecho a desarrollar libre y plenamente su personalidad dentro de una comunidad de derechos y deberes en libertad, igualdad y fraternidad."
+    },
+    {
+      "id": "007-c.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º C › párrafo 2",
+      "texto": "La correlación entre derechos y deberes tendrá por objeto garantizar en forma proporcional los derechos de los demás, la seguridad de todas las personas y las justas exigencias del bien común en una sociedad democrática."
+    },
+    {
+      "id": "007-c.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º C › párrafo 3",
+      "texto": "Los derechos humanos no son absolutos. Están sujetos a límites razonables, estrictos y necesarios para el debido funcionamiento de la sociedad democrática."
+    }
+  ]
+}

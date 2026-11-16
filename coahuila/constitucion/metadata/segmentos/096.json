@@ -1,0 +1,27 @@
+{
+  "clave": "096",
+  "etiqueta": "Artículo 96º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPITULO IV.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "096.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "096.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96º › párrafo 2",
+      "texto": "El producto de las contribuciones y bienes del Estado se invertirá únicamente en los gastos que demanda su administración y en obras y servicios públicos."
+    }
+  ]
+}

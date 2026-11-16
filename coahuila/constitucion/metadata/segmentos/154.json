@@ -1,0 +1,306 @@
+{
+  "clave": "154",
+  "etiqueta": "Artículo 154º",
+  "titulo": "TITULO QUINTO.",
+  "capitulo": "CAPITULO III.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "154.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 26 DE ABRIL DE 2013)"
+    },
+    {
+      "id": "154.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154º › párrafo 2",
+      "texto": "Toda persona tiene derecho al acceso a la justicia de manera pública, gratuita, pronta, expedita y completa para tutelar de manera efectiva sus derechos fundamentales."
+    },
+    {
+      "id": "154.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154º › párrafo 3",
+      "texto": "Esta garantía de la tutela judicial efectiva se regirá por los principios siguientes:"
+    },
+    {
+      "id": "154.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154º › párrafo 4",
+      "texto": "(REFORMADA, P.O. 26 DE ABRIL DE 2013)"
+    },
+    {
+      "id": "154.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154º › Fracción I",
+      "texto": "I. Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho. Nadie puede ser juzgado por leyes privativas ni por tribunales especiales. El servicio de justicia será gratuito. Quedan prohibidas las costas judiciales."
+    },
+    {
+      "id": "154.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154º › Fracción II",
+      "texto": "II. El acceso a la justicia se sujetará a lo siguiente:"
+    },
+    {
+      "id": "154.II.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 154º › Fracción II › 1.",
+      "texto": "1. La garantía de la transparencia judicial que significa la publicidad de la función de los jueces, desde su organización y funcionamiento hasta el acceso libre al expediente y actuaciones judiciales, salvo los casos reservados por razones válidas de orden público o privado conforme a la ley."
+    },
+    {
+      "id": "154.II.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 154º › Fracción II › 2.",
+      "texto": "2. La dirección e impulso del proceso por parte de los jueces, sin perjuicio de la disponibilidad de las partes."
+    },
+    {
+      "id": "154.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154º › párrafo 5",
+      "texto": "(REFORMADO, P.O. 26 DE ABRIL DE 2013)"
+    },
+    {
+      "id": "154.II.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 154º › Fracción II › 3.",
+      "texto": "3. La garantía del breve juicio bajo principios de celeridad, concentración, inmediación, oralidad, contradicción, continuidad, publicidad, oportunidad y expeditez. Los jueces tienen el deber de procurar que la justicia se imparta en condiciones de eficiencia, calidad, accesibilidad y transparencia, con respeto a la dignidad de la persona que acude en demanda del servicio judicial."
+    },
+    {
+      "id": "154.II.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 154º › Fracción II › 4.",
+      "texto": "4. El derecho a la igualdad, salvo la prevalencia del trato judicial más favorable a las personas más débiles o vulnerables."
+    },
+    {
+      "id": "154.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154º › párrafo 6",
+      "texto": "(REFORMADO, P.O. 26 DE ABRIL DE 2013)"
+    },
+    {
+      "id": "154.II.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 154º › Fracción II › 5.",
+      "texto": "5. El derecho a la audiencia previa y a una defensa adecuada de las partes. El Estado proporcionará el servicio de defensoría pública de calidad para la población, en las diversas materias del conocimiento de autoridades que tengan a su cargo funciones jurisdiccionales y asegurará las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público."
+    },
+    {
+      "id": "154.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154º › párrafo 7",
+      "texto": "La defensoría pública, independientemente de su adscripción, contará con autonomía técnica, de gestión y operativa, y su objeto es coordinar, dirigir y controlar el servicio de la defensa pública, de acuerdo con las disposiciones de esta Constitución y demás ordenamientos legales aplicables. La defensoría pública desempeñará sus funciones jurídicas, técnicas y de gestión con independencia de su adscripción orgánica."
+    },
+    {
+      "id": "154.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154º › párrafo 8",
+      "texto": "(REFORMADO, P.O. 01 DE SEPTIEMBRE DE 2026) (REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019) (REFORMADO, P.O. 26 DE ABRIL DE 2013)"
+    },
+    {
+      "id": "154.II.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 154º › Fracción II › 6.",
+      "texto": "6. El derecho a obtener una resolución fundada y motivada que ponga fin al proceso. Toda resolución deberá ser clara, precisa, accesible y emitida con perspectiva de género y perspectiva de interseccionalidad; además, deberá observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia. Las sentencias que pongan fin a los procedimientos orales deberán ser explicadas en audiencia pública, previa citación de las partes."
+    },
+    {
+      "id": "154.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154º › párrafo 9",
+      "texto": "(REFORMADO, P.O. 26 DE ABRIL DE 2013)"
+    },
+    {
+      "id": "154.II.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 154º › Fracción II › 7.",
+      "texto": "7. La interpretación más extensiva de la acción para permitir el más amplio acceso a la jurisdicción"
+    },
+    {
+      "id": "154.p10",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154º › párrafo 10",
+      "texto": "(REFORMADO, P.O. 01 DE SEPTIEMBRE DE 2026) (REFORMADO, P.O. 26 DE ABRIL DE 2013)"
+    },
+    {
+      "id": "154.II.8",
+      "tipo": "numeral",
+      "marca": "8",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 154º › Fracción II › 8.",
+      "texto": "8. La interpretación restrictiva de las causas de improcedencia que sólo serán las estrictamente necesarias."
+    },
+    {
+      "id": "154.II.9",
+      "tipo": "numeral",
+      "marca": "9",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 154º › Fracción II › 9.",
+      "texto": "9. El debido procedimiento con formalidades esenciales, a partir de los principios de antiformalismo, subsanabilidad, razonabilidad, proporcionalidad y estabilidad o conservación de los actos válidos."
+    },
+    {
+      "id": "154.p11",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154º › párrafo 11",
+      "texto": "(REFORMADO, P.O. 26 DE ABRIL DE 2013)"
+    },
+    {
+      "id": "154.II.10",
+      "tipo": "numeral",
+      "marca": "10",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 154º › Fracción II › 10.",
+      "texto": "10. Los principios generales del proceso, siendo éstos los de oralidad, publicidad, inmediación, concentración, continuidad y contradicción."
+    },
+    {
+      "id": "154.II.11",
+      "tipo": "numeral",
+      "marca": "11",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 154º › Fracción II › 11.",
+      "texto": "11. El procedimiento judicial se podrá tramitar a través de un sistema de justicia digital confiable."
+    },
+    {
+      "id": "154.p12",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154º › párrafo 12",
+      "texto": "(REFORMADO, P.O. 26 DE ABRIL DE 2013)"
+    },
+    {
+      "id": "154.II.12",
+      "tipo": "numeral",
+      "marca": "12",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 154º › Fracción II › 12.",
+      "texto": "12. La plena y efectiva ejecución de las resoluciones judiciales. La ley establecerá los medios necesarios para que se garantice la plena ejecución de las resoluciones judiciales."
+    },
+    {
+      "id": "154.p13",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154º › párrafo 13",
+      "texto": "(ADICIONADO, P.O. 26 DE ABRIL DE 2013)"
+    },
+    {
+      "id": "154.II.13",
+      "tipo": "numeral",
+      "marca": "13",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 154º › Fracción II › 13.",
+      "texto": "13. El derecho a un recurso sencillo que, en su caso, repare de manera rápida y eficaz las violaciones durante el proceso en los términos que establezca esta Constitución y la ley. Se considera que un recurso no es efectivo cuando es ilusorio, gravoso, desproporcional o cuando el legislador no ha regulado su debida aplicación en las leyes secundarias."
+    },
+    {
+      "id": "154.p14",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154º › párrafo 14",
+      "texto": "(REFORMADA, P.O. 26 DE ABRIL DE 2013)"
+    },
+    {
+      "id": "154.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154º › Fracción III",
+      "texto": "III. La ley establecerá los casos en que procederá la indemnización a cargo del Estado, por los daños causados por error grave o funcionamiento anormal de la procuración o impartición de justicia.\n\n(REFORMADA, P.O. 26 DE ABRIL DE 2013)"
+    },
+    {
+      "id": "154.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154º › Fracción IV",
+      "texto": "IV. El Estado establecerá un sistema de justicia alternativa para resolver las controversias entre particulares, cuyo servicio será gratuito. Las leyes regularán su aplicación, asegurarán la reparación del daño, fijarán medios equivalentes y establecerán los casos en los que se requerirá supervisión judicial. Se privilegiará la justicia restaurativa a fin de recomponer el tejido social y que el imputado o sentenciado pueda reintegrarse en mejores condiciones a la sociedad.\n\n(ADICIONADA, P.O. 26 DE ABRIL DE 2013)"
+    },
+    {
+      "id": "154.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154º › Fracción V",
+      "texto": "V. El Poder Judicial contará con jueces de control que resolverán, en forma inmediata y por cualquier medio, las solicitudes de medidas cautelares, providencias precautorias y técnicas de investigación de la autoridad, que requieran control judicial, garantizando los derechos de los indiciados y de las víctimas u ofendidos. Deberá existir un registro fehaciente de todas las comunicaciones entre jueces y Ministerio Público y demás autoridades competentes.\n\n(ADICIONADA, P.O. 26 DE ABRIL DE 2013)"
+    },
+    {
+      "id": "154.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154º › Fracción VI",
+      "texto": "VI. Quienes sean miembros de los pueblos o comunidades indígenas tienen derecho a que en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se tomen en cuenta sus costumbres y especificidades culturales, respetando los preceptos de esta Constitución y la Constitución Política de los Estados Unidos Mexicanos. Los indígenas tienen en todo tiempo el derecho a ser asistidos por intérpretes y defensores que tengan conocimiento de su lengua y cultura."
+    }
+  ]
+}

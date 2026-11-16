@@ -1,0 +1,36 @@
+{
+  "clave": "007-x",
+  "etiqueta": "Artículo 7º X",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO II.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007-x.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º X › párrafo 1",
+      "texto": "Los tribunales y las personas juzgadoras deberán garantizar, según la naturaleza de cada juicio, la figura del amicus curiae en el debido proceso para posibilitar la cultura de los derechos humanos, la participación ciudadana, así como la opinión y colaboración de los expertos y la sociedad civil para deliberar en forma pública las cuestiones de justicia a resolver."
+    },
+    {
+      "id": "007-x.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º X › párrafo 2",
+      "texto": "Quien desee actuar como amicus curiae podrá hacerlo a través de cualquiera de los medios autorizados por la autoridad judicial conforme al derecho de participación ciudadana."
+    },
+    {
+      "id": "007-x.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º X › párrafo 3",
+      "texto": "Las personas juzgadoras podrán convocar de manera pública en los juicios que presidan o instruyan la recepción de escritos, comunicaciones, audiencias públicas, alegatos de proyectos públicos de sentencias o cualquier otra forma de justicia abierta, en los términos, condiciones y límites que autoricen durante el proceso."
+    }
+  ]
+}

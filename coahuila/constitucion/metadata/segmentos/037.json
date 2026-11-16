@@ -1,0 +1,27 @@
+{
+  "clave": "037",
+  "etiqueta": "Artículo 37º",
+  "titulo": "TITULO TERCERO.",
+  "capitulo": "CAPITULO I.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "037.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE JUNIO DE 1988)"
+    },
+    {
+      "id": "037.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37º › párrafo 2",
+      "texto": "El cargo de Diputado es incompatible con cualquier otro empleo, cargo o comisión de la Federación, del Estado o del Municipio, por el que se perciba sueldo o emolumentos del erario público excepto los cargos de carácter docente y honoríficos."
+    }
+  ]
+}

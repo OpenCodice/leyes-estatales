@@ -1,0 +1,27 @@
+{
+  "clave": "136-a",
+  "etiqueta": "Artículo 136º A",
+  "titulo": "TITULO QUINTO.",
+  "capitulo": "CAPITULO I.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "136-a.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 136º A › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 14 DE JULIO DE 2017)"
+    },
+    {
+      "id": "136-a.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 136º A › párrafo 2",
+      "texto": "(DEROGADO, P.O. 20 DE DICIEMBRE DE 2024)"
+    }
+  ]
+}

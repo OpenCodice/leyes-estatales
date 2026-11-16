@@ -1,0 +1,63 @@
+{
+  "clave": "158-q",
+  "etiqueta": "Artículo 158º Q",
+  "titulo": "TÍTULO SEXTO.",
+  "capitulo": "CAPÍTULO II.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "158-q.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º Q › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 20 DE MARZO DE 2001)"
+    },
+    {
+      "id": "158-q.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º Q › párrafo 2",
+      "texto": "La hacienda municipal se formará con los bienes muebles e inmuebles dominio público o privado que pertenezcan a los Municipios, los rendimientos de sus bienes, de sus contribuciones y demás ingresos que el Congreso del Estado establezca en favor de los propios Municipios, los que, en todo caso, deberán percibir:"
+    },
+    {
+      "id": "158-q.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º Q › Fracción I",
+      "texto": "I. Las contribuciones, incluyendo tasas adicionales, que establezca el Congreso del Estado, sobre la propiedad inmobiliaria y su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles;"
+    },
+    {
+      "id": "158-q.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º Q › Fracción II",
+      "texto": "II. Las participaciones federales que sean cubiertas por la Federación a los Municipios y, en su caso, las que participe el Estado en la forma que señalen los ordenamientos aplicables, con arreglo a las bases, montos y plazos que anualmente determine el Congreso del Estado;"
+    },
+    {
+      "id": "158-q.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º Q › Fracción III",
+      "texto": "III. Los ingresos derivados de la prestación de los servicios públicos a cargo de los Municipios;"
+    },
+    {
+      "id": "158-q.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158º Q › Fracción IV",
+      "texto": "IV. Todo tipo de bienes que sin contravenir las leyes aplicables, acreciente su hacienda, ya sea que provengan de personas físicas o morales, nacionales o extranjeras."
+    }
+  ]
+}

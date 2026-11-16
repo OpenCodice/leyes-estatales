@@ -1,0 +1,27 @@
+{
+  "clave": "175",
+  "etiqueta": "Artículo 175º",
+  "titulo": "TITULO OCTAVO.",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "175.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 175º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 13 DE ENERO DE 1989)"
+    },
+    {
+      "id": "175.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 175º › párrafo 2",
+      "texto": "La Ley determinará las profesiones que necesitan título para que sean ejercitadas en el Estado, las condiciones que deban llenarse para obtenerlo y las Autoridades que deban expedirlo; asimismo, regulará las peculiaridades propias del régimen jurídico de los colegios de profesionales cuya estructura interna y funcionamiento deberán ser democráticos."
+    }
+  ]
+}

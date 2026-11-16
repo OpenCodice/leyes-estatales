@@ -1,0 +1,3820 @@
+{
+  "fuente": "Periódico Oficial del Estado de Coahuila de Zaragoza — Congreso del Estado de Coahuila de Zaragoza",
+  "version": "2026-09-01",
+  "articulos": [
+    {
+      "clave": "001",
+      "articulo": 1,
+      "sufijo": "",
+      "etiqueta": "Artículo 1º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/001.md"
+    },
+    {
+      "clave": "002",
+      "articulo": 2,
+      "sufijo": "",
+      "etiqueta": "Artículo 2º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2001-10-13",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-10-13"
+      ],
+      "archivo": "articulos/002.md"
+    },
+    {
+      "clave": "003",
+      "articulo": 3,
+      "sufijo": "",
+      "etiqueta": "Artículo 3º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2001-10-13",
+      "num_reformas": 2,
+      "reformas": [
+        "2001-03-20",
+        "2001-10-13"
+      ],
+      "archivo": "articulos/003.md"
+    },
+    {
+      "clave": "004",
+      "articulo": 4,
+      "sufijo": "",
+      "etiqueta": "Artículo 4º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2020-03-27",
+      "num_reformas": 4,
+      "reformas": [
+        "1984-01-27",
+        "2001-03-20",
+        "2020-01-10",
+        "2020-03-27"
+      ],
+      "archivo": "articulos/004.md"
+    },
+    {
+      "clave": "005",
+      "articulo": 5,
+      "sufijo": "",
+      "etiqueta": "Artículo 5º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "1984-01-27",
+      "num_reformas": 1,
+      "reformas": [
+        "1984-01-27"
+      ],
+      "archivo": "articulos/005.md"
+    },
+    {
+      "clave": "006",
+      "articulo": 6,
+      "sufijo": "",
+      "etiqueta": "Artículo 6º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/006.md"
+    },
+    {
+      "clave": "007",
+      "articulo": 7,
+      "sufijo": "",
+      "etiqueta": "Artículo 7º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 13,
+      "reformas": [
+        "2006-07-21",
+        "2012-06-26",
+        "2012-08-07",
+        "2013-04-26",
+        "2014-05-20",
+        "2020-08-07",
+        "2020-09-04",
+        "2020-09-30",
+        "2022-01-21",
+        "2022-08-19",
+        "2022-12-13",
+        "2025-06-18",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/007.md"
+    },
+    {
+      "clave": "007-a",
+      "articulo": 7,
+      "sufijo": "A",
+      "etiqueta": "Artículo 7º A",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/007-a.md"
+    },
+    {
+      "clave": "007-b",
+      "articulo": 7,
+      "sufijo": "B",
+      "etiqueta": "Artículo 7º B",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/007-b.md"
+    },
+    {
+      "clave": "007-c",
+      "articulo": 7,
+      "sufijo": "C",
+      "etiqueta": "Artículo 7º C",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/007-c.md"
+    },
+    {
+      "clave": "007-d",
+      "articulo": 7,
+      "sufijo": "D",
+      "etiqueta": "Artículo 7º D",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 1,
+      "reformas": [
+        "2026-09-01"
+      ],
+      "archivo": "articulos/007-d.md"
+    },
+    {
+      "clave": "007-e",
+      "articulo": 7,
+      "sufijo": "E",
+      "etiqueta": "Artículo 7º E",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/007-e.md"
+    },
+    {
+      "clave": "007-f",
+      "articulo": 7,
+      "sufijo": "F",
+      "etiqueta": "Artículo 7º F",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 1,
+      "reformas": [
+        "2026-09-01"
+      ],
+      "archivo": "articulos/007-f.md"
+    },
+    {
+      "clave": "007-g",
+      "articulo": 7,
+      "sufijo": "G",
+      "etiqueta": "Artículo 7º G",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/007-g.md"
+    },
+    {
+      "clave": "007-h",
+      "articulo": 7,
+      "sufijo": "H",
+      "etiqueta": "Artículo 7º H",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/007-h.md"
+    },
+    {
+      "clave": "007-i",
+      "articulo": 7,
+      "sufijo": "I",
+      "etiqueta": "Artículo 7º I",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/007-i.md"
+    },
+    {
+      "clave": "007-j",
+      "articulo": 7,
+      "sufijo": "J",
+      "etiqueta": "Artículo 7º J",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/007-j.md"
+    },
+    {
+      "clave": "007-k",
+      "articulo": 7,
+      "sufijo": "K",
+      "etiqueta": "Artículo 7º K",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/007-k.md"
+    },
+    {
+      "clave": "007-l",
+      "articulo": 7,
+      "sufijo": "L",
+      "etiqueta": "Artículo 7º L",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/007-l.md"
+    },
+    {
+      "clave": "007-m",
+      "articulo": 7,
+      "sufijo": "M",
+      "etiqueta": "Artículo 7º M",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "2022-08-19",
+      "num_reformas": 2,
+      "reformas": [
+        "2022-01-21",
+        "2022-08-19"
+      ],
+      "archivo": "articulos/007-m.md"
+    },
+    {
+      "clave": "007-n",
+      "articulo": 7,
+      "sufijo": "N",
+      "etiqueta": "Artículo 7º N",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/007-n.md"
+    },
+    {
+      "clave": "007-ñ",
+      "articulo": 7,
+      "sufijo": "Ñ",
+      "etiqueta": "Artículo 7º Ñ",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 1,
+      "reformas": [
+        "2026-09-01"
+      ],
+      "archivo": "articulos/007-ñ.md"
+    },
+    {
+      "clave": "007-o",
+      "articulo": 7,
+      "sufijo": "O",
+      "etiqueta": "Artículo 7º O",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/007-o.md"
+    },
+    {
+      "clave": "007-p",
+      "articulo": 7,
+      "sufijo": "P",
+      "etiqueta": "Artículo 7º P",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/007-p.md"
+    },
+    {
+      "clave": "007-q",
+      "articulo": 7,
+      "sufijo": "Q",
+      "etiqueta": "Artículo 7º Q",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 1,
+      "reformas": [
+        "2026-09-01"
+      ],
+      "archivo": "articulos/007-q.md"
+    },
+    {
+      "clave": "007-r",
+      "articulo": 7,
+      "sufijo": "R",
+      "etiqueta": "Artículo 7º R",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/007-r.md"
+    },
+    {
+      "clave": "007-s",
+      "articulo": 7,
+      "sufijo": "S",
+      "etiqueta": "Artículo 7º S",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/007-s.md"
+    },
+    {
+      "clave": "007-t",
+      "articulo": 7,
+      "sufijo": "T",
+      "etiqueta": "Artículo 7º T",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 1,
+      "reformas": [
+        "2026-09-01"
+      ],
+      "archivo": "articulos/007-t.md"
+    },
+    {
+      "clave": "007-u",
+      "articulo": 7,
+      "sufijo": "U",
+      "etiqueta": "Artículo 7º U",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/007-u.md"
+    },
+    {
+      "clave": "007-v",
+      "articulo": 7,
+      "sufijo": "V",
+      "etiqueta": "Artículo 7º V",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/007-v.md"
+    },
+    {
+      "clave": "007-w",
+      "articulo": 7,
+      "sufijo": "W",
+      "etiqueta": "Artículo 7º W",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/007-w.md"
+    },
+    {
+      "clave": "007-x",
+      "articulo": 7,
+      "sufijo": "X",
+      "etiqueta": "Artículo 7º X",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/007-x.md"
+    },
+    {
+      "clave": "007-y",
+      "articulo": 7,
+      "sufijo": "Y",
+      "etiqueta": "Artículo 7º Y",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/007-y.md"
+    },
+    {
+      "clave": "008",
+      "articulo": 8,
+      "sufijo": "",
+      "etiqueta": "Artículo 8º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 8,
+      "reformas": [
+        "2001-10-13",
+        "2003-09-19",
+        "2006-07-21",
+        "2014-03-07",
+        "2016-09-27",
+        "2020-01-10",
+        "2022-01-21",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/008.md"
+    },
+    {
+      "clave": "009",
+      "articulo": 9,
+      "sufijo": "",
+      "etiqueta": "Artículo 9º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": "1967-05-20",
+      "num_reformas": 1,
+      "reformas": [
+        "1967-05-20"
+      ],
+      "archivo": "articulos/009.md"
+    },
+    {
+      "clave": "010",
+      "articulo": 10,
+      "sufijo": "",
+      "etiqueta": "Artículo 10º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": "2007-02-09",
+      "num_reformas": 2,
+      "reformas": [
+        "1967-05-20",
+        "2007-02-09"
+      ],
+      "archivo": "articulos/010.md"
+    },
+    {
+      "clave": "011",
+      "articulo": 11,
+      "sufijo": "",
+      "etiqueta": "Artículo 11º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": "2007-02-09",
+      "num_reformas": 3,
+      "reformas": [
+        "1967-05-20",
+        "1970-03-18",
+        "2007-02-09"
+      ],
+      "archivo": "articulos/011.md"
+    },
+    {
+      "clave": "012",
+      "articulo": 12,
+      "sufijo": "",
+      "etiqueta": "Artículo 12º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": "1988-06-17",
+      "num_reformas": 1,
+      "reformas": [
+        "1988-06-17"
+      ],
+      "archivo": "articulos/012.md"
+    },
+    {
+      "clave": "013",
+      "articulo": 13,
+      "sufijo": "",
+      "etiqueta": "Artículo 13º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/013.md"
+    },
+    {
+      "clave": "014",
+      "articulo": 14,
+      "sufijo": "",
+      "etiqueta": "Artículo 14º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/014.md"
+    },
+    {
+      "clave": "015",
+      "articulo": 15,
+      "sufijo": "",
+      "etiqueta": "Artículo 15º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": "2012-06-26",
+      "num_reformas": 1,
+      "reformas": [
+        "2012-06-26"
+      ],
+      "archivo": "articulos/015.md"
+    },
+    {
+      "clave": "016",
+      "articulo": 16,
+      "sufijo": "",
+      "etiqueta": "Artículo 16º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO IV",
+      "ultima_reforma": "2012-08-07",
+      "num_reformas": 1,
+      "reformas": [
+        "2012-08-07"
+      ],
+      "archivo": "articulos/016.md"
+    },
+    {
+      "clave": "017",
+      "articulo": 17,
+      "sufijo": "",
+      "etiqueta": "Artículo 17º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO IV",
+      "ultima_reforma": "1938-03-26",
+      "num_reformas": 1,
+      "reformas": [
+        "1938-03-26"
+      ],
+      "archivo": "articulos/017.md"
+    },
+    {
+      "clave": "018",
+      "articulo": 18,
+      "sufijo": "",
+      "etiqueta": "Artículo 18º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO IV",
+      "ultima_reforma": "2024-12-20",
+      "num_reformas": 2,
+      "reformas": [
+        "2010-06-29",
+        "2024-12-20"
+      ],
+      "archivo": "articulos/018.md"
+    },
+    {
+      "clave": "019",
+      "articulo": 19,
+      "sufijo": "",
+      "etiqueta": "Artículo 19º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO IV",
+      "ultima_reforma": "2024-12-20",
+      "num_reformas": 5,
+      "reformas": [
+        "2001-10-13",
+        "2013-12-17",
+        "2015-09-22",
+        "2016-02-19",
+        "2024-12-20"
+      ],
+      "archivo": "articulos/019.md"
+    },
+    {
+      "clave": "020",
+      "articulo": 20,
+      "sufijo": "",
+      "etiqueta": "Artículo 20º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO IV",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 2,
+      "reformas": [
+        "1984-01-27",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/020.md"
+    },
+    {
+      "clave": "021",
+      "articulo": 21,
+      "sufijo": "",
+      "etiqueta": "Artículo 21º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO IV",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/021.md"
+    },
+    {
+      "clave": "022",
+      "articulo": 22,
+      "sufijo": "",
+      "etiqueta": "Artículo 22º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO IV",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/022.md"
+    },
+    {
+      "clave": "023",
+      "articulo": 23,
+      "sufijo": "",
+      "etiqueta": "Artículo 23º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO IV",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/023.md"
+    },
+    {
+      "clave": "024",
+      "articulo": 24,
+      "sufijo": "",
+      "etiqueta": "Artículo 24º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO IV",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/024.md"
+    },
+    {
+      "clave": "025",
+      "articulo": 25,
+      "sufijo": "",
+      "etiqueta": "Artículo 25º",
+      "titulo": "TITULO PRIMERO",
+      "capitulo": "CAPITULO IV",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/025.md"
+    },
+    {
+      "clave": "026",
+      "articulo": 26,
+      "sufijo": "",
+      "etiqueta": "Artículo 26º",
+      "titulo": "TITULO SEGUNDO.",
+      "capitulo": "CAPÍTULO I",
+      "ultima_reforma": "2001-10-13",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-10-13"
+      ],
+      "archivo": "articulos/026.md"
+    },
+    {
+      "clave": "027",
+      "articulo": 27,
+      "sufijo": "",
+      "etiqueta": "Artículo 27º",
+      "titulo": "TITULO SEGUNDO.",
+      "capitulo": "CAPÍTULO I",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 4,
+      "reformas": [
+        "2010-06-29",
+        "2015-09-22",
+        "2016-02-19",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/027.md"
+    },
+    {
+      "clave": "027-bis",
+      "articulo": 27,
+      "sufijo": "Bis",
+      "etiqueta": "Artículo 27º Bis",
+      "titulo": "TITULO SEGUNDO.",
+      "capitulo": "CAPÍTULO I",
+      "ultima_reforma": "2025-07-04",
+      "num_reformas": 3,
+      "reformas": [
+        "2024-12-20",
+        "2024-12-24",
+        "2025-07-04"
+      ],
+      "archivo": "articulos/027-bis.md"
+    },
+    {
+      "clave": "028",
+      "articulo": 28,
+      "sufijo": "",
+      "etiqueta": "Artículo 28º",
+      "titulo": "TITULO SEGUNDO.",
+      "capitulo": "CAPÍTULO I",
+      "ultima_reforma": "2015-09-22",
+      "num_reformas": 2,
+      "reformas": [
+        "2001-03-20",
+        "2015-09-22"
+      ],
+      "archivo": "articulos/028.md"
+    },
+    {
+      "clave": "029",
+      "articulo": 29,
+      "sufijo": "",
+      "etiqueta": "Artículo 29º",
+      "titulo": "TITULO SEGUNDO.",
+      "capitulo": "CAPÍTULO I",
+      "ultima_reforma": "1988-06-17",
+      "num_reformas": 1,
+      "reformas": [
+        "1988-06-17"
+      ],
+      "archivo": "articulos/029.md"
+    },
+    {
+      "clave": "030",
+      "articulo": 30,
+      "sufijo": "",
+      "etiqueta": "Artículo 30º",
+      "titulo": "TITULO SEGUNDO.",
+      "capitulo": "CAPÍTULO I",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 2,
+      "reformas": [
+        "1984-01-27",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/030.md"
+    },
+    {
+      "clave": "031",
+      "articulo": 31,
+      "sufijo": "",
+      "etiqueta": "Artículo 31º",
+      "titulo": "TITULO SEGUNDO.",
+      "capitulo": "CAPÍTULO I",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/031.md"
+    },
+    {
+      "clave": "032",
+      "articulo": 32,
+      "sufijo": "",
+      "etiqueta": "Artículo 32º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 1,
+      "reformas": [
+        "2026-09-01"
+      ],
+      "archivo": "articulos/032.md"
+    },
+    {
+      "clave": "033",
+      "articulo": 33,
+      "sufijo": "",
+      "etiqueta": "Artículo 33º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 2,
+      "reformas": [
+        "2010-06-29",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/033.md"
+    },
+    {
+      "clave": "034",
+      "articulo": 34,
+      "sufijo": "",
+      "etiqueta": "Artículo 34º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2009-02-06",
+      "num_reformas": 1,
+      "reformas": [
+        "2009-02-06"
+      ],
+      "archivo": "articulos/034.md"
+    },
+    {
+      "clave": "035",
+      "articulo": 35,
+      "sufijo": "",
+      "etiqueta": "Artículo 35º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2015-09-22",
+      "num_reformas": 3,
+      "reformas": [
+        "2009-02-06",
+        "2010-06-29",
+        "2015-09-22"
+      ],
+      "archivo": "articulos/035.md"
+    },
+    {
+      "clave": "036",
+      "articulo": 36,
+      "sufijo": "",
+      "etiqueta": "Artículo 36º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 7,
+      "reformas": [
+        "1974-11-09",
+        "1994-04-22",
+        "2012-04-08",
+        "2015-09-22",
+        "2017-07-14",
+        "2024-10-24",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/036.md"
+    },
+    {
+      "clave": "037",
+      "articulo": 37,
+      "sufijo": "",
+      "etiqueta": "Artículo 37º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "1988-06-17",
+      "num_reformas": 1,
+      "reformas": [
+        "1988-06-17"
+      ],
+      "archivo": "articulos/037.md"
+    },
+    {
+      "clave": "038",
+      "articulo": 38,
+      "sufijo": "",
+      "etiqueta": "Artículo 38º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/038.md"
+    },
+    {
+      "clave": "039",
+      "articulo": 39,
+      "sufijo": "",
+      "etiqueta": "Artículo 39º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2017-07-14",
+      "num_reformas": 1,
+      "reformas": [
+        "2017-07-14"
+      ],
+      "archivo": "articulos/039.md"
+    },
+    {
+      "clave": "040",
+      "articulo": 40,
+      "sufijo": "",
+      "etiqueta": "Artículo 40º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "1984-01-27",
+      "num_reformas": 1,
+      "reformas": [
+        "1984-01-27"
+      ],
+      "archivo": "articulos/040.md"
+    },
+    {
+      "clave": "041",
+      "articulo": 41,
+      "sufijo": "",
+      "etiqueta": "Artículo 41º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/041.md"
+    },
+    {
+      "clave": "042",
+      "articulo": 42,
+      "sufijo": "",
+      "etiqueta": "Artículo 42º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2008-12-23",
+      "num_reformas": 1,
+      "reformas": [
+        "2008-12-23"
+      ],
+      "archivo": "articulos/042.md"
+    },
+    {
+      "clave": "043",
+      "articulo": 43,
+      "sufijo": "",
+      "etiqueta": "Artículo 43º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/043.md"
+    },
+    {
+      "clave": "044",
+      "articulo": 44,
+      "sufijo": "",
+      "etiqueta": "Artículo 44º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2015-09-22",
+      "num_reformas": 2,
+      "reformas": [
+        "2001-10-13",
+        "2015-09-22"
+      ],
+      "archivo": "articulos/044.md"
+    },
+    {
+      "clave": "045",
+      "articulo": 45,
+      "sufijo": "",
+      "etiqueta": "Artículo 45º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 3,
+      "reformas": [
+        "1988-06-17",
+        "2012-12-21",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/045.md"
+    },
+    {
+      "clave": "046",
+      "articulo": 46,
+      "sufijo": "",
+      "etiqueta": "Artículo 46º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "2012-12-21",
+      "num_reformas": 1,
+      "reformas": [
+        "2012-12-21"
+      ],
+      "archivo": "articulos/046.md"
+    },
+    {
+      "clave": "047",
+      "articulo": 47,
+      "sufijo": "",
+      "etiqueta": "Artículo 47º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/047.md"
+    },
+    {
+      "clave": "048",
+      "articulo": 48,
+      "sufijo": "",
+      "etiqueta": "Artículo 48º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/048.md"
+    },
+    {
+      "clave": "049",
+      "articulo": 49,
+      "sufijo": "",
+      "etiqueta": "Artículo 49º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "2025-10-28",
+      "num_reformas": 2,
+      "reformas": [
+        "2012-08-07",
+        "2025-10-28"
+      ],
+      "archivo": "articulos/049.md"
+    },
+    {
+      "clave": "050",
+      "articulo": 50,
+      "sufijo": "",
+      "etiqueta": "Artículo 50º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/050.md"
+    },
+    {
+      "clave": "051",
+      "articulo": 51,
+      "sufijo": "",
+      "etiqueta": "Artículo 51º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "2015-09-22",
+      "num_reformas": 3,
+      "reformas": [
+        "1989-01-13",
+        "2001-10-13",
+        "2015-09-22"
+      ],
+      "archivo": "articulos/051.md"
+    },
+    {
+      "clave": "052",
+      "articulo": 52,
+      "sufijo": "",
+      "etiqueta": "Artículo 52º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/052.md"
+    },
+    {
+      "clave": "053",
+      "articulo": 53,
+      "sufijo": "",
+      "etiqueta": "Artículo 53º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "2017-07-14",
+      "num_reformas": 3,
+      "reformas": [
+        "1977-02-04",
+        "2012-04-08",
+        "2017-07-14"
+      ],
+      "archivo": "articulos/053.md"
+    },
+    {
+      "clave": "054",
+      "articulo": 54,
+      "sufijo": "",
+      "etiqueta": "Artículo 54º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "1988-06-17",
+      "num_reformas": 1,
+      "reformas": [
+        "1988-06-17"
+      ],
+      "archivo": "articulos/054.md"
+    },
+    {
+      "clave": "055",
+      "articulo": 55,
+      "sufijo": "",
+      "etiqueta": "Artículo 55º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "2020-04-24",
+      "num_reformas": 1,
+      "reformas": [
+        "2020-04-24"
+      ],
+      "archivo": "articulos/055.md"
+    },
+    {
+      "clave": "056",
+      "articulo": 56,
+      "sufijo": "",
+      "etiqueta": "Artículo 56º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/056.md"
+    },
+    {
+      "clave": "057",
+      "articulo": 57,
+      "sufijo": "",
+      "etiqueta": "Artículo 57º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "1988-06-17",
+      "num_reformas": 1,
+      "reformas": [
+        "1988-06-17"
+      ],
+      "archivo": "articulos/057.md"
+    },
+    {
+      "clave": "058",
+      "articulo": 58,
+      "sufijo": "",
+      "etiqueta": "Artículo 58º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "1988-06-17",
+      "num_reformas": 1,
+      "reformas": [
+        "1988-06-17"
+      ],
+      "archivo": "articulos/058.md"
+    },
+    {
+      "clave": "059",
+      "articulo": 59,
+      "sufijo": "",
+      "etiqueta": "Artículo 59º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": "2025-06-18",
+      "num_reformas": 8,
+      "reformas": [
+        "2001-03-20",
+        "2006-07-21",
+        "2007-02-09",
+        "2008-06-10",
+        "2012-04-08",
+        "2016-01-22",
+        "2017-07-14",
+        "2025-06-18"
+      ],
+      "archivo": "articulos/059.md"
+    },
+    {
+      "clave": "060",
+      "articulo": 60,
+      "sufijo": "",
+      "etiqueta": "Artículo 60º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": "2016-12-02",
+      "num_reformas": 4,
+      "reformas": [
+        "2001-10-13",
+        "2006-07-21",
+        "2008-06-10",
+        "2016-12-02"
+      ],
+      "archivo": "articulos/060.md"
+    },
+    {
+      "clave": "061",
+      "articulo": 61,
+      "sufijo": "",
+      "etiqueta": "Artículo 61º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/061.md"
+    },
+    {
+      "clave": "062",
+      "articulo": 62,
+      "sufijo": "",
+      "etiqueta": "Artículo 62º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": "2012-08-07",
+      "num_reformas": 4,
+      "reformas": [
+        "1984-01-27",
+        "1998-01-09",
+        "2004-12-03",
+        "2012-08-07"
+      ],
+      "archivo": "articulos/062.md"
+    },
+    {
+      "clave": "062-bis",
+      "articulo": 62,
+      "sufijo": "Bis",
+      "etiqueta": "Artículo 62º Bis",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": "2014-02-07",
+      "num_reformas": 1,
+      "reformas": [
+        "2014-02-07"
+      ],
+      "archivo": "articulos/062-bis.md"
+    },
+    {
+      "clave": "063",
+      "articulo": 63,
+      "sufijo": "",
+      "etiqueta": "Artículo 63º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/063.md"
+    },
+    {
+      "clave": "064",
+      "articulo": 64,
+      "sufijo": "",
+      "etiqueta": "Artículo 64º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": "1992-11-03",
+      "num_reformas": 2,
+      "reformas": [
+        "1984-01-27",
+        "1992-11-03"
+      ],
+      "archivo": "articulos/064.md"
+    },
+    {
+      "clave": "065",
+      "articulo": 65,
+      "sufijo": "",
+      "etiqueta": "Artículo 65º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/065.md"
+    },
+    {
+      "clave": "066",
+      "articulo": 66,
+      "sufijo": "",
+      "etiqueta": "Artículo 66º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 2,
+      "reformas": [
+        "1988-06-17",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/066.md"
+    },
+    {
+      "clave": "067",
+      "articulo": 67,
+      "sufijo": "",
+      "etiqueta": "Artículo 67º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO IV.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 27,
+      "reformas": [
+        "1977-02-04",
+        "1984-01-27",
+        "1988-06-17",
+        "1992-11-03",
+        "1998-02-10",
+        "2001-03-20",
+        "2001-10-13",
+        "2005-06-21",
+        "2006-08-29",
+        "2006-09-22",
+        "2007-05-25",
+        "2007-06-22",
+        "2007-08-02",
+        "2012-04-08",
+        "2012-06-26",
+        "2014-11-11",
+        "2015-09-22",
+        "2015-10-09",
+        "2016-05-27",
+        "2017-07-14",
+        "2019-12-06",
+        "2020-06-26",
+        "2022-01-21",
+        "2022-08-19",
+        "2024-12-20",
+        "2025-06-18",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/067.md"
+    },
+    {
+      "clave": "068",
+      "articulo": 68,
+      "sufijo": "",
+      "etiqueta": "Artículo 68º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO IV.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/068.md"
+    },
+    {
+      "clave": "069",
+      "articulo": 69,
+      "sufijo": "",
+      "etiqueta": "Artículo 69º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO IV.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/069.md"
+    },
+    {
+      "clave": "070",
+      "articulo": 70,
+      "sufijo": "",
+      "etiqueta": "Artículo 70º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO V.",
+      "ultima_reforma": "2012-12-21",
+      "num_reformas": 2,
+      "reformas": [
+        "2004-02-27",
+        "2012-12-21"
+      ],
+      "archivo": "articulos/070.md"
+    },
+    {
+      "clave": "071",
+      "articulo": 71,
+      "sufijo": "",
+      "etiqueta": "Artículo 71º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO V.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/071.md"
+    },
+    {
+      "clave": "072",
+      "articulo": 72,
+      "sufijo": "",
+      "etiqueta": "Artículo 72º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO V.",
+      "ultima_reforma": "1992-11-03",
+      "num_reformas": 1,
+      "reformas": [
+        "1992-11-03"
+      ],
+      "archivo": "articulos/072.md"
+    },
+    {
+      "clave": "073",
+      "articulo": 73,
+      "sufijo": "",
+      "etiqueta": "Artículo 73º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO V.",
+      "ultima_reforma": "2024-12-20",
+      "num_reformas": 6,
+      "reformas": [
+        "1984-01-27",
+        "2005-06-21",
+        "2007-05-25",
+        "2015-09-22",
+        "2017-07-14",
+        "2024-12-20"
+      ],
+      "archivo": "articulos/073.md"
+    },
+    {
+      "clave": "074",
+      "articulo": 74,
+      "sufijo": "",
+      "etiqueta": "Artículo 74º",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "CAPITULO V.",
+      "ultima_reforma": "2014-11-11",
+      "num_reformas": 1,
+      "reformas": [
+        "2014-11-11"
+      ],
+      "archivo": "articulos/074.md"
+    },
+    {
+      "clave": "074-a",
+      "articulo": 74,
+      "sufijo": "A",
+      "etiqueta": "Artículo 74º A",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "Capítulo VI.",
+      "ultima_reforma": "2016-05-27",
+      "num_reformas": 1,
+      "reformas": [
+        "2016-05-27"
+      ],
+      "archivo": "articulos/074-a.md"
+    },
+    {
+      "clave": "074-b",
+      "articulo": 74,
+      "sufijo": "B",
+      "etiqueta": "Artículo 74º B",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "Capítulo VI.",
+      "ultima_reforma": "2017-07-14",
+      "num_reformas": 2,
+      "reformas": [
+        "2016-05-27",
+        "2017-07-14"
+      ],
+      "archivo": "articulos/074-b.md"
+    },
+    {
+      "clave": "074-c",
+      "articulo": 74,
+      "sufijo": "C",
+      "etiqueta": "Artículo 74º C",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "Capítulo VI.",
+      "ultima_reforma": "2020-10-02",
+      "num_reformas": 3,
+      "reformas": [
+        "2016-05-27",
+        "2017-07-14",
+        "2020-10-02"
+      ],
+      "archivo": "articulos/074-c.md"
+    },
+    {
+      "clave": "074-d",
+      "articulo": 74,
+      "sufijo": "D",
+      "etiqueta": "Artículo 74º D",
+      "titulo": "TITULO TERCERO.",
+      "capitulo": "Capítulo VI.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/074-d.md"
+    },
+    {
+      "clave": "075",
+      "articulo": 75,
+      "sufijo": "",
+      "etiqueta": "Artículo 75º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 1,
+      "reformas": [
+        "2026-09-01"
+      ],
+      "archivo": "articulos/075.md"
+    },
+    {
+      "clave": "076",
+      "articulo": 76,
+      "sufijo": "",
+      "etiqueta": "Artículo 76º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 5,
+      "reformas": [
+        "1977-02-04",
+        "1984-01-27",
+        "2012-04-08",
+        "2017-07-14",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/076.md"
+    },
+    {
+      "clave": "077",
+      "articulo": 77,
+      "sufijo": "",
+      "etiqueta": "Artículo 77º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "1984-01-27",
+      "num_reformas": 1,
+      "reformas": [
+        "1984-01-27"
+      ],
+      "archivo": "articulos/077.md"
+    },
+    {
+      "clave": "078",
+      "articulo": 78,
+      "sufijo": "",
+      "etiqueta": "Artículo 78º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 3,
+      "reformas": [
+        "2001-10-13",
+        "2015-09-22",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/078.md"
+    },
+    {
+      "clave": "079",
+      "articulo": 79,
+      "sufijo": "",
+      "etiqueta": "Artículo 79º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "1984-01-27",
+      "num_reformas": 1,
+      "reformas": [
+        "1984-01-27"
+      ],
+      "archivo": "articulos/079.md"
+    },
+    {
+      "clave": "080",
+      "articulo": 80,
+      "sufijo": "",
+      "etiqueta": "Artículo 80º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/080.md"
+    },
+    {
+      "clave": "081",
+      "articulo": 81,
+      "sufijo": "",
+      "etiqueta": "Artículo 81º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/081.md"
+    },
+    {
+      "clave": "082",
+      "articulo": 82,
+      "sufijo": "",
+      "etiqueta": "Artículo 82º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "2024-12-20",
+      "num_reformas": 12,
+      "reformas": [
+        "1936-06-10",
+        "1977-02-04",
+        "1984-01-27",
+        "1988-06-17",
+        "1999-05-18",
+        "2001-03-20",
+        "2007-05-25",
+        "2012-01-06",
+        "2015-10-09",
+        "2017-07-14",
+        "2022-12-13",
+        "2024-12-20"
+      ],
+      "archivo": "articulos/082.md"
+    },
+    {
+      "clave": "083",
+      "articulo": 83,
+      "sufijo": "",
+      "etiqueta": "Artículo 83º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "2012-08-07",
+      "num_reformas": 1,
+      "reformas": [
+        "2012-08-07"
+      ],
+      "archivo": "articulos/083.md"
+    },
+    {
+      "clave": "084",
+      "articulo": 84,
+      "sufijo": "",
+      "etiqueta": "Artículo 84º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "2025-10-28",
+      "num_reformas": 3,
+      "reformas": [
+        "1984-01-27",
+        "2012-08-07",
+        "2025-10-28"
+      ],
+      "archivo": "articulos/084.md"
+    },
+    {
+      "clave": "085",
+      "articulo": 85,
+      "sufijo": "",
+      "etiqueta": "Artículo 85º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "2019-11-22",
+      "num_reformas": 2,
+      "reformas": [
+        "1984-01-27",
+        "2019-11-22"
+      ],
+      "archivo": "articulos/085.md"
+    },
+    {
+      "clave": "086",
+      "articulo": 86,
+      "sufijo": "",
+      "etiqueta": "Artículo 86º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": "1988-06-17",
+      "num_reformas": 1,
+      "reformas": [
+        "1988-06-17"
+      ],
+      "archivo": "articulos/086.md"
+    },
+    {
+      "clave": "087",
+      "articulo": 87,
+      "sufijo": "",
+      "etiqueta": "Artículo 87º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": "1988-06-17",
+      "num_reformas": 1,
+      "reformas": [
+        "1988-06-17"
+      ],
+      "archivo": "articulos/087.md"
+    },
+    {
+      "clave": "088",
+      "articulo": 88,
+      "sufijo": "",
+      "etiqueta": "Artículo 88º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": "2016-10-04",
+      "num_reformas": 2,
+      "reformas": [
+        "1988-06-17",
+        "2016-10-04"
+      ],
+      "archivo": "articulos/088.md"
+    },
+    {
+      "clave": "089",
+      "articulo": 89,
+      "sufijo": "",
+      "etiqueta": "Artículo 89º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 4,
+      "reformas": [
+        "2009-03-16",
+        "2012-04-08",
+        "2017-07-14",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/089.md"
+    },
+    {
+      "clave": "090",
+      "articulo": 90,
+      "sufijo": "",
+      "etiqueta": "Artículo 90º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": "1988-06-17",
+      "num_reformas": 1,
+      "reformas": [
+        "1988-06-17"
+      ],
+      "archivo": "articulos/090.md"
+    },
+    {
+      "clave": "091",
+      "articulo": 91,
+      "sufijo": "",
+      "etiqueta": "Artículo 91º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": "1988-06-17",
+      "num_reformas": 1,
+      "reformas": [
+        "1988-06-17"
+      ],
+      "archivo": "articulos/091.md"
+    },
+    {
+      "clave": "092",
+      "articulo": 92,
+      "sufijo": "",
+      "etiqueta": "Artículo 92º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": "2017-07-14",
+      "num_reformas": 2,
+      "reformas": [
+        "2012-04-08",
+        "2017-07-14"
+      ],
+      "archivo": "articulos/092.md"
+    },
+    {
+      "clave": "093",
+      "articulo": 93,
+      "sufijo": "",
+      "etiqueta": "Artículo 93º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": "1988-06-17",
+      "num_reformas": 1,
+      "reformas": [
+        "1988-06-17"
+      ],
+      "archivo": "articulos/093.md"
+    },
+    {
+      "clave": "094",
+      "articulo": 94,
+      "sufijo": "",
+      "etiqueta": "Artículo 94º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO IV.",
+      "ultima_reforma": "1984-01-27",
+      "num_reformas": 1,
+      "reformas": [
+        "1984-01-27"
+      ],
+      "archivo": "articulos/094.md"
+    },
+    {
+      "clave": "095",
+      "articulo": 95,
+      "sufijo": "",
+      "etiqueta": "Artículo 95º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO IV.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/095.md"
+    },
+    {
+      "clave": "096",
+      "articulo": 96,
+      "sufijo": "",
+      "etiqueta": "Artículo 96º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO IV.",
+      "ultima_reforma": "1984-01-27",
+      "num_reformas": 1,
+      "reformas": [
+        "1984-01-27"
+      ],
+      "archivo": "articulos/096.md"
+    },
+    {
+      "clave": "097",
+      "articulo": 97,
+      "sufijo": "",
+      "etiqueta": "Artículo 97º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO IV.",
+      "ultima_reforma": "1984-01-27",
+      "num_reformas": 1,
+      "reformas": [
+        "1984-01-27"
+      ],
+      "archivo": "articulos/097.md"
+    },
+    {
+      "clave": "098",
+      "articulo": 98,
+      "sufijo": "",
+      "etiqueta": "Artículo 98º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO IV.",
+      "ultima_reforma": "1988-06-17",
+      "num_reformas": 1,
+      "reformas": [
+        "1988-06-17"
+      ],
+      "archivo": "articulos/098.md"
+    },
+    {
+      "clave": "099",
+      "articulo": 99,
+      "sufijo": "",
+      "etiqueta": "Artículo 99º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO IV.",
+      "ultima_reforma": "2011-11-18",
+      "num_reformas": 1,
+      "reformas": [
+        "2011-11-18"
+      ],
+      "archivo": "articulos/099.md"
+    },
+    {
+      "clave": "100",
+      "articulo": 100,
+      "sufijo": "",
+      "etiqueta": "Artículo 100º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO IV.",
+      "ultima_reforma": "2011-11-18",
+      "num_reformas": 3,
+      "reformas": [
+        "1984-01-27",
+        "1998-02-10",
+        "2011-11-18"
+      ],
+      "archivo": "articulos/100.md"
+    },
+    {
+      "clave": "101",
+      "articulo": 101,
+      "sufijo": "",
+      "etiqueta": "Artículo 101º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO IV.",
+      "ultima_reforma": "1984-01-27",
+      "num_reformas": 1,
+      "reformas": [
+        "1984-01-27"
+      ],
+      "archivo": "articulos/101.md"
+    },
+    {
+      "clave": "102",
+      "articulo": 102,
+      "sufijo": "",
+      "etiqueta": "Artículo 102º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO IV.",
+      "ultima_reforma": "2003-09-19",
+      "num_reformas": 2,
+      "reformas": [
+        "1988-06-17",
+        "2003-09-19"
+      ],
+      "archivo": "articulos/102.md"
+    },
+    {
+      "clave": "103",
+      "articulo": 103,
+      "sufijo": "",
+      "etiqueta": "Artículo 103º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO IV.",
+      "ultima_reforma": "2011-11-18",
+      "num_reformas": 1,
+      "reformas": [
+        "2011-11-18"
+      ],
+      "archivo": "articulos/103.md"
+    },
+    {
+      "clave": "104",
+      "articulo": 104,
+      "sufijo": "",
+      "etiqueta": "Artículo 104º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO IV.",
+      "ultima_reforma": "2011-11-18",
+      "num_reformas": 1,
+      "reformas": [
+        "2011-11-18"
+      ],
+      "archivo": "articulos/104.md"
+    },
+    {
+      "clave": "105",
+      "articulo": 105,
+      "sufijo": "",
+      "etiqueta": "Artículo 105º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO IV.",
+      "ultima_reforma": "2011-11-18",
+      "num_reformas": 2,
+      "reformas": [
+        "1988-06-17",
+        "2011-11-18"
+      ],
+      "archivo": "articulos/105.md"
+    },
+    {
+      "clave": "106",
+      "articulo": 106,
+      "sufijo": "",
+      "etiqueta": "Artículo 106º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO IV.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/106.md"
+    },
+    {
+      "clave": "107",
+      "articulo": 107,
+      "sufijo": "",
+      "etiqueta": "Artículo 107º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO IV.",
+      "ultima_reforma": "1988-06-17",
+      "num_reformas": 1,
+      "reformas": [
+        "1988-06-17"
+      ],
+      "archivo": "articulos/107.md"
+    },
+    {
+      "clave": "108",
+      "articulo": 108,
+      "sufijo": "",
+      "etiqueta": "Artículo 108º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO V.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 2,
+      "reformas": [
+        "2012-04-08",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/108.md"
+    },
+    {
+      "clave": "109",
+      "articulo": 109,
+      "sufijo": "",
+      "etiqueta": "Artículo 109º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO V.",
+      "ultima_reforma": "2016-08-09",
+      "num_reformas": 1,
+      "reformas": [
+        "2016-08-09"
+      ],
+      "archivo": "articulos/109.md"
+    },
+    {
+      "clave": "110",
+      "articulo": 110,
+      "sufijo": "",
+      "etiqueta": "Artículo 110º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO V.",
+      "ultima_reforma": "2012-04-08",
+      "num_reformas": 1,
+      "reformas": [
+        "2012-04-08"
+      ],
+      "archivo": "articulos/110.md"
+    },
+    {
+      "clave": "111",
+      "articulo": 111,
+      "sufijo": "",
+      "etiqueta": "Artículo 111º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO V.",
+      "ultima_reforma": "2013-04-26",
+      "num_reformas": 1,
+      "reformas": [
+        "2013-04-26"
+      ],
+      "archivo": "articulos/111.md"
+    },
+    {
+      "clave": "112",
+      "articulo": 112,
+      "sufijo": "",
+      "etiqueta": "Artículo 112º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO V.",
+      "ultima_reforma": "2012-04-08",
+      "num_reformas": 1,
+      "reformas": [
+        "2012-04-08"
+      ],
+      "archivo": "articulos/112.md"
+    },
+    {
+      "clave": "113",
+      "articulo": 113,
+      "sufijo": "",
+      "etiqueta": "Artículo 113º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO V.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 5,
+      "reformas": [
+        "2012-04-08",
+        "2013-04-26",
+        "2017-07-14",
+        "2024-11-22",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/113.md"
+    },
+    {
+      "clave": "114",
+      "articulo": 114,
+      "sufijo": "",
+      "etiqueta": "Artículo 114º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO V.",
+      "ultima_reforma": "2017-07-14",
+      "num_reformas": 2,
+      "reformas": [
+        "2012-04-08",
+        "2017-07-14"
+      ],
+      "archivo": "articulos/114.md"
+    },
+    {
+      "clave": "115",
+      "articulo": 115,
+      "sufijo": "",
+      "etiqueta": "Artículo 115º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO V.",
+      "ultima_reforma": "2022-08-19",
+      "num_reformas": 4,
+      "reformas": [
+        "2012-04-08",
+        "2017-07-14",
+        "2022-01-21",
+        "2022-08-19"
+      ],
+      "archivo": "articulos/115.md"
+    },
+    {
+      "clave": "115-bis",
+      "articulo": 115,
+      "sufijo": "Bis",
+      "etiqueta": "Artículo 115º Bis",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO V.",
+      "ultima_reforma": "2025-10-28",
+      "num_reformas": 1,
+      "reformas": [
+        "2025-10-28"
+      ],
+      "archivo": "articulos/115-bis.md"
+    },
+    {
+      "clave": "116",
+      "articulo": 116,
+      "sufijo": "",
+      "etiqueta": "Artículo 116º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO VI.",
+      "ultima_reforma": "2025-10-28",
+      "num_reformas": 2,
+      "reformas": [
+        "1984-01-27",
+        "2025-10-28"
+      ],
+      "archivo": "articulos/116.md"
+    },
+    {
+      "clave": "117",
+      "articulo": 117,
+      "sufijo": "",
+      "etiqueta": "Artículo 117º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO VI.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 3,
+      "reformas": [
+        "2012-06-26",
+        "2025-10-28",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/117.md"
+    },
+    {
+      "clave": "118",
+      "articulo": 118,
+      "sufijo": "",
+      "etiqueta": "Artículo 118º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO VI.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 3,
+      "reformas": [
+        "2014-03-08",
+        "2025-10-28",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/118.md"
+    },
+    {
+      "clave": "119",
+      "articulo": 119,
+      "sufijo": "",
+      "etiqueta": "Artículo 119º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO VI.",
+      "ultima_reforma": "2014-03-08",
+      "num_reformas": 1,
+      "reformas": [
+        "2014-03-08"
+      ],
+      "archivo": "articulos/119.md"
+    },
+    {
+      "clave": "120",
+      "articulo": 120,
+      "sufijo": "",
+      "etiqueta": "Artículo 120º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO VI.",
+      "ultima_reforma": "1984-01-27",
+      "num_reformas": 1,
+      "reformas": [
+        "1984-01-27"
+      ],
+      "archivo": "articulos/120.md"
+    },
+    {
+      "clave": "121",
+      "articulo": 121,
+      "sufijo": "",
+      "etiqueta": "Artículo 121º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO VI.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 2,
+      "reformas": [
+        "1984-01-27",
+        "2001-03-20"
+      ],
+      "archivo": "articulos/121.md"
+    },
+    {
+      "clave": "122",
+      "articulo": 122,
+      "sufijo": "",
+      "etiqueta": "Artículo 122º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO VII.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/122.md"
+    },
+    {
+      "clave": "123",
+      "articulo": 123,
+      "sufijo": "",
+      "etiqueta": "Artículo 123º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO VII.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/123.md"
+    },
+    {
+      "clave": "124",
+      "articulo": 124,
+      "sufijo": "",
+      "etiqueta": "Artículo 124º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO VII.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/124.md"
+    },
+    {
+      "clave": "125",
+      "articulo": 125,
+      "sufijo": "",
+      "etiqueta": "Artículo 125º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO VII.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/125.md"
+    },
+    {
+      "clave": "126",
+      "articulo": 126,
+      "sufijo": "",
+      "etiqueta": "Artículo 126º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO VII.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/126.md"
+    },
+    {
+      "clave": "127",
+      "articulo": 127,
+      "sufijo": "",
+      "etiqueta": "Artículo 127º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO VII.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/127.md"
+    },
+    {
+      "clave": "128",
+      "articulo": 128,
+      "sufijo": "",
+      "etiqueta": "Artículo 128º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO VII.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/128.md"
+    },
+    {
+      "clave": "129",
+      "articulo": 129,
+      "sufijo": "",
+      "etiqueta": "Artículo 129º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO VII.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/129.md"
+    },
+    {
+      "clave": "130",
+      "articulo": 130,
+      "sufijo": "",
+      "etiqueta": "Artículo 130º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO VII.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/130.md"
+    },
+    {
+      "clave": "131",
+      "articulo": 131,
+      "sufijo": "",
+      "etiqueta": "Artículo 131º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO VII.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/131.md"
+    },
+    {
+      "clave": "132",
+      "articulo": 132,
+      "sufijo": "",
+      "etiqueta": "Artículo 132º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO VII.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/132.md"
+    },
+    {
+      "clave": "133",
+      "articulo": 133,
+      "sufijo": "",
+      "etiqueta": "Artículo 133º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO VII.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/133.md"
+    },
+    {
+      "clave": "134",
+      "articulo": 134,
+      "sufijo": "",
+      "etiqueta": "Artículo 134º",
+      "titulo": "TITULO CUARTO.",
+      "capitulo": "CAPITULO VII.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/134.md"
+    },
+    {
+      "clave": "135",
+      "articulo": 135,
+      "sufijo": "",
+      "etiqueta": "Artículo 135º",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2024-12-20",
+      "num_reformas": 5,
+      "reformas": [
+        "2007-06-22",
+        "2015-09-22",
+        "2017-07-14",
+        "2019-11-22",
+        "2024-12-20"
+      ],
+      "archivo": "articulos/135.md"
+    },
+    {
+      "clave": "136",
+      "articulo": 136,
+      "sufijo": "",
+      "etiqueta": "Artículo 136º",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2024-12-20",
+      "num_reformas": 3,
+      "reformas": [
+        "2007-06-22",
+        "2017-07-14",
+        "2024-12-20"
+      ],
+      "archivo": "articulos/136.md"
+    },
+    {
+      "clave": "136-a",
+      "articulo": 136,
+      "sufijo": "A",
+      "etiqueta": "Artículo 136º A",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2024-12-20",
+      "num_reformas": 2,
+      "reformas": [
+        "2017-07-14",
+        "2024-12-20"
+      ],
+      "archivo": "articulos/136-a.md"
+    },
+    {
+      "clave": "137",
+      "articulo": 137,
+      "sufijo": "",
+      "etiqueta": "Artículo 137º",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2024-12-20",
+      "num_reformas": 4,
+      "reformas": [
+        "2007-05-25",
+        "2017-07-14",
+        "2019-11-22",
+        "2024-12-20"
+      ],
+      "archivo": "articulos/137.md"
+    },
+    {
+      "clave": "138",
+      "articulo": 138,
+      "sufijo": "",
+      "etiqueta": "Artículo 138º",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2025-07-04",
+      "num_reformas": 5,
+      "reformas": [
+        "2007-05-25",
+        "2015-09-22",
+        "2017-07-14",
+        "2024-12-20",
+        "2025-07-04"
+      ],
+      "archivo": "articulos/138.md"
+    },
+    {
+      "clave": "139",
+      "articulo": 139,
+      "sufijo": "",
+      "etiqueta": "Artículo 139º",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2024-12-20",
+      "num_reformas": 2,
+      "reformas": [
+        "1993-12-28",
+        "2024-12-20"
+      ],
+      "archivo": "articulos/139.md"
+    },
+    {
+      "clave": "140",
+      "articulo": 140,
+      "sufijo": "",
+      "etiqueta": "Artículo 140º",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "1988-06-17",
+      "num_reformas": 1,
+      "reformas": [
+        "1988-06-17"
+      ],
+      "archivo": "articulos/140.md"
+    },
+    {
+      "clave": "141",
+      "articulo": 141,
+      "sufijo": "",
+      "etiqueta": "Artículo 141º",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2024-12-20",
+      "num_reformas": 2,
+      "reformas": [
+        "2005-06-21",
+        "2024-12-20"
+      ],
+      "archivo": "articulos/141.md"
+    },
+    {
+      "clave": "142",
+      "articulo": 142,
+      "sufijo": "",
+      "etiqueta": "Artículo 142º",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2024-12-20",
+      "num_reformas": 2,
+      "reformas": [
+        "1988-06-17",
+        "2024-12-20"
+      ],
+      "archivo": "articulos/142.md"
+    },
+    {
+      "clave": "143",
+      "articulo": 143,
+      "sufijo": "",
+      "etiqueta": "Artículo 143º",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2024-12-20",
+      "num_reformas": 2,
+      "reformas": [
+        "2001-10-13",
+        "2024-12-20"
+      ],
+      "archivo": "articulos/143.md"
+    },
+    {
+      "clave": "144",
+      "articulo": 144,
+      "sufijo": "",
+      "etiqueta": "Artículo 144º",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2024-12-20",
+      "num_reformas": 2,
+      "reformas": [
+        "1988-06-17",
+        "2024-12-20"
+      ],
+      "archivo": "articulos/144.md"
+    },
+    {
+      "clave": "145",
+      "articulo": 145,
+      "sufijo": "",
+      "etiqueta": "Artículo 145º",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2024-12-20",
+      "num_reformas": 2,
+      "reformas": [
+        "1988-07-05",
+        "2024-12-20"
+      ],
+      "archivo": "articulos/145.md"
+    },
+    {
+      "clave": "146",
+      "articulo": 146,
+      "sufijo": "",
+      "etiqueta": "Artículo 146º",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2024-12-20",
+      "num_reformas": 4,
+      "reformas": [
+        "2007-05-25",
+        "2015-09-22",
+        "2017-07-14",
+        "2024-12-20"
+      ],
+      "archivo": "articulos/146.md"
+    },
+    {
+      "clave": "147",
+      "articulo": 147,
+      "sufijo": "",
+      "etiqueta": "Artículo 147º",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO I.",
+      "ultima_reforma": "2024-12-20",
+      "num_reformas": 4,
+      "reformas": [
+        "1988-07-05",
+        "2001-03-20",
+        "2019-11-22",
+        "2024-12-20"
+      ],
+      "archivo": "articulos/147.md"
+    },
+    {
+      "clave": "148",
+      "articulo": 148,
+      "sufijo": "",
+      "etiqueta": "Artículo 148º",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "2024-12-20",
+      "num_reformas": 3,
+      "reformas": [
+        "2007-05-25",
+        "2017-07-14",
+        "2024-12-20"
+      ],
+      "archivo": "articulos/148.md"
+    },
+    {
+      "clave": "149",
+      "articulo": 149,
+      "sufijo": "",
+      "etiqueta": "Artículo 149º",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "2024-12-20",
+      "num_reformas": 2,
+      "reformas": [
+        "1988-06-17",
+        "2024-12-20"
+      ],
+      "archivo": "articulos/149.md"
+    },
+    {
+      "clave": "150",
+      "articulo": 150,
+      "sufijo": "",
+      "etiqueta": "Artículo 150º",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "2024-12-20",
+      "num_reformas": 2,
+      "reformas": [
+        "1993-12-28",
+        "2024-12-20"
+      ],
+      "archivo": "articulos/150.md"
+    },
+    {
+      "clave": "151",
+      "articulo": 151,
+      "sufijo": "",
+      "etiqueta": "Artículo 151º",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "2015-12-18",
+      "num_reformas": 2,
+      "reformas": [
+        "1988-06-17",
+        "2015-12-18"
+      ],
+      "archivo": "articulos/151.md"
+    },
+    {
+      "clave": "152",
+      "articulo": 152,
+      "sufijo": "",
+      "etiqueta": "Artículo 152º",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "2024-12-20",
+      "num_reformas": 2,
+      "reformas": [
+        "1988-07-05",
+        "2024-12-20"
+      ],
+      "archivo": "articulos/152.md"
+    },
+    {
+      "clave": "153",
+      "articulo": 153,
+      "sufijo": "",
+      "etiqueta": "Artículo 153º",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO II.",
+      "ultima_reforma": "2024-12-20",
+      "num_reformas": 2,
+      "reformas": [
+        "1988-06-17",
+        "2024-12-20"
+      ],
+      "archivo": "articulos/153.md"
+    },
+    {
+      "clave": "154",
+      "articulo": 154,
+      "sufijo": "",
+      "etiqueta": "Artículo 154º",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 3,
+      "reformas": [
+        "2013-04-26",
+        "2019-11-22",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/154.md"
+    },
+    {
+      "clave": "155",
+      "articulo": 155,
+      "sufijo": "",
+      "etiqueta": "Artículo 155º",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": "2016-01-22",
+      "num_reformas": 3,
+      "reformas": [
+        "1988-06-17",
+        "2013-04-26",
+        "2016-01-22"
+      ],
+      "archivo": "articulos/155.md"
+    },
+    {
+      "clave": "156",
+      "articulo": 156,
+      "sufijo": "",
+      "etiqueta": "Artículo 156º",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": "2013-04-26",
+      "num_reformas": 1,
+      "reformas": [
+        "2013-04-26"
+      ],
+      "archivo": "articulos/156.md"
+    },
+    {
+      "clave": "157",
+      "articulo": 157,
+      "sufijo": "",
+      "etiqueta": "Artículo 157º",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO III.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 3,
+      "reformas": [
+        "2001-03-20",
+        "2013-04-26",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/157.md"
+    },
+    {
+      "clave": "158",
+      "articulo": 158,
+      "sufijo": "",
+      "etiqueta": "Artículo 158º",
+      "titulo": "TITULO QUINTO.",
+      "capitulo": "CAPITULO IV.",
+      "ultima_reforma": "2022-08-19",
+      "num_reformas": 8,
+      "reformas": [
+        "2001-03-20",
+        "2001-10-13",
+        "2005-06-21",
+        "2012-04-08",
+        "2016-01-22",
+        "2017-07-14",
+        "2022-01-21",
+        "2022-08-19"
+      ],
+      "archivo": "articulos/158.md"
+    },
+    {
+      "clave": "158-a",
+      "articulo": 158,
+      "sufijo": "A",
+      "etiqueta": "Artículo 158º A",
+      "titulo": "TÍTULO SEXTO.",
+      "capitulo": "CAPÍTULO I.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/158-a.md"
+    },
+    {
+      "clave": "158-b",
+      "articulo": 158,
+      "sufijo": "B",
+      "etiqueta": "Artículo 158º B",
+      "titulo": "TÍTULO SEXTO.",
+      "capitulo": "CAPÍTULO I.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/158-b.md"
+    },
+    {
+      "clave": "158-c",
+      "articulo": 158,
+      "sufijo": "C",
+      "etiqueta": "Artículo 158º C",
+      "titulo": "TÍTULO SEXTO.",
+      "capitulo": "CAPÍTULO I.",
+      "ultima_reforma": "2009-03-16",
+      "num_reformas": 1,
+      "reformas": [
+        "2009-03-16"
+      ],
+      "archivo": "articulos/158-c.md"
+    },
+    {
+      "clave": "158-d",
+      "articulo": 158,
+      "sufijo": "D",
+      "etiqueta": "Artículo 158º D",
+      "titulo": "TÍTULO SEXTO.",
+      "capitulo": "CAPÍTULO I.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/158-d.md"
+    },
+    {
+      "clave": "158-e",
+      "articulo": 158,
+      "sufijo": "E",
+      "etiqueta": "Artículo 158º E",
+      "titulo": "TÍTULO SEXTO.",
+      "capitulo": "CAPÍTULO I.",
+      "ultima_reforma": "2001-10-13",
+      "num_reformas": 2,
+      "reformas": [
+        "2001-03-20",
+        "2001-10-13"
+      ],
+      "archivo": "articulos/158-e.md"
+    },
+    {
+      "clave": "158-f",
+      "articulo": 158,
+      "sufijo": "F",
+      "etiqueta": "Artículo 158º F",
+      "titulo": "TÍTULO SEXTO.",
+      "capitulo": "CAPÍTULO II.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/158-f.md"
+    },
+    {
+      "clave": "158-g",
+      "articulo": 158,
+      "sufijo": "G",
+      "etiqueta": "Artículo 158º G",
+      "titulo": "TÍTULO SEXTO.",
+      "capitulo": "CAPÍTULO II.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/158-g.md"
+    },
+    {
+      "clave": "158-h",
+      "articulo": 158,
+      "sufijo": "H",
+      "etiqueta": "Artículo 158º H",
+      "titulo": "TÍTULO SEXTO.",
+      "capitulo": "CAPÍTULO II.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/158-h.md"
+    },
+    {
+      "clave": "158-i",
+      "articulo": 158,
+      "sufijo": "I",
+      "etiqueta": "Artículo 158º I",
+      "titulo": "TÍTULO SEXTO.",
+      "capitulo": "CAPÍTULO II.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/158-i.md"
+    },
+    {
+      "clave": "158-j",
+      "articulo": 158,
+      "sufijo": "J",
+      "etiqueta": "Artículo 158º J",
+      "titulo": "TÍTULO SEXTO.",
+      "capitulo": "CAPÍTULO II.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/158-j.md"
+    },
+    {
+      "clave": "158-k",
+      "articulo": 158,
+      "sufijo": "K",
+      "etiqueta": "Artículo 158º K",
+      "titulo": "TÍTULO SEXTO.",
+      "capitulo": "CAPÍTULO II.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 5,
+      "reformas": [
+        "2001-03-20",
+        "2001-10-13",
+        "2007-08-02",
+        "2015-09-22",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/158-k.md"
+    },
+    {
+      "clave": "158-l",
+      "articulo": 158,
+      "sufijo": "L",
+      "etiqueta": "Artículo 158º L",
+      "titulo": "TÍTULO SEXTO.",
+      "capitulo": "CAPÍTULO II.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/158-l.md"
+    },
+    {
+      "clave": "158-m",
+      "articulo": 158,
+      "sufijo": "M",
+      "etiqueta": "Artículo 158º M",
+      "titulo": "TÍTULO SEXTO.",
+      "capitulo": "CAPÍTULO II.",
+      "ultima_reforma": "2007-02-09",
+      "num_reformas": 2,
+      "reformas": [
+        "2001-03-20",
+        "2007-02-09"
+      ],
+      "archivo": "articulos/158-m.md"
+    },
+    {
+      "clave": "158-n",
+      "articulo": 158,
+      "sufijo": "N",
+      "etiqueta": "Artículo 158º N",
+      "titulo": "TÍTULO SEXTO.",
+      "capitulo": "CAPÍTULO II.",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/158-n.md"
+    },
+    {
+      "clave": "158-ñ",
+      "articulo": 158,
+      "sufijo": "Ñ",
+      "etiqueta": "Artículo 158º Ñ",
+      "titulo": "TÍTULO SEXTO.",
+      "capitulo": "CAPÍTULO II.",
+      "ultima_reforma": "2009-03-16",
+      "num_reformas": 2,
+      "reformas": [
+        "2001-03-20",
+        "2009-03-16"
+      ],
+      "archivo": "articulos/158-ñ.md"
+    },
+    {
+      "clave": "158-o",
+      "articulo": 158,
+      "sufijo": "O",
+      "etiqueta": "Artículo 158º O",
+      "titulo": "TÍTULO SEXTO.",
+      "capitulo": "CAPÍTULO II.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/158-o.md"
+    },
+    {
+      "clave": "158-p",
+      "articulo": 158,
+      "sufijo": "P",
+      "etiqueta": "Artículo 158º P",
+      "titulo": "TÍTULO SEXTO.",
+      "capitulo": "CAPÍTULO II.",
+      "ultima_reforma": "2020-06-26",
+      "num_reformas": 5,
+      "reformas": [
+        "2007-08-17",
+        "2008-12-23",
+        "2009-04-10",
+        "2014-11-11",
+        "2020-06-26"
+      ],
+      "archivo": "articulos/158-p.md"
+    },
+    {
+      "clave": "158-q",
+      "articulo": 158,
+      "sufijo": "Q",
+      "etiqueta": "Artículo 158º Q",
+      "titulo": "TÍTULO SEXTO.",
+      "capitulo": "CAPÍTULO II.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/158-q.md"
+    },
+    {
+      "clave": "158-r",
+      "articulo": 158,
+      "sufijo": "R",
+      "etiqueta": "Artículo 158º R",
+      "titulo": "TÍTULO SEXTO.",
+      "capitulo": "CAPÍTULO II.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/158-r.md"
+    },
+    {
+      "clave": "158-s",
+      "articulo": 158,
+      "sufijo": "S",
+      "etiqueta": "Artículo 158º S",
+      "titulo": "TÍTULO SEXTO.",
+      "capitulo": "CAPÍTULO II.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/158-s.md"
+    },
+    {
+      "clave": "158-t",
+      "articulo": 158,
+      "sufijo": "T",
+      "etiqueta": "Artículo 158º T",
+      "titulo": "TÍTULO SEXTO.",
+      "capitulo": "CAPÍTULO II.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/158-t.md"
+    },
+    {
+      "clave": "158-u",
+      "articulo": 158,
+      "sufijo": "U",
+      "etiqueta": "Artículo 158º U",
+      "titulo": "TÍTULO SEXTO.",
+      "capitulo": "CAPÍTULO II.",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 6,
+      "reformas": [
+        "2007-06-15",
+        "2009-03-16",
+        "2012-10-19",
+        "2016-12-02",
+        "2020-03-27",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/158-u.md"
+    },
+    {
+      "clave": "158-v",
+      "articulo": 158,
+      "sufijo": "V",
+      "etiqueta": "Artículo 158º V",
+      "titulo": "TÍTULO SEXTO.",
+      "capitulo": "CAPÍTULO II.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/158-v.md"
+    },
+    {
+      "clave": "158-w",
+      "articulo": 158,
+      "sufijo": "W",
+      "etiqueta": "Artículo 158º W",
+      "titulo": "TÍTULO SEXTO.",
+      "capitulo": "CAPÍTULO II.",
+      "ultima_reforma": "2001-03-20",
+      "num_reformas": 1,
+      "reformas": [
+        "2001-03-20"
+      ],
+      "archivo": "articulos/158-w.md"
+    },
+    {
+      "clave": "159",
+      "articulo": 159,
+      "sufijo": "",
+      "etiqueta": "Artículo 159º",
+      "titulo": "TITULO SÉPTIMO.",
+      "capitulo": "",
+      "ultima_reforma": "2017-07-14",
+      "num_reformas": 2,
+      "reformas": [
+        "2012-04-08",
+        "2017-07-14"
+      ],
+      "archivo": "articulos/159.md"
+    },
+    {
+      "clave": "160",
+      "articulo": 160,
+      "sufijo": "",
+      "etiqueta": "Artículo 160º",
+      "titulo": "TITULO SÉPTIMO.",
+      "capitulo": "",
+      "ultima_reforma": "2017-07-14",
+      "num_reformas": 2,
+      "reformas": [
+        "1984-01-27",
+        "2017-07-14"
+      ],
+      "archivo": "articulos/160.md"
+    },
+    {
+      "clave": "161",
+      "articulo": 161,
+      "sufijo": "",
+      "etiqueta": "Artículo 161º",
+      "titulo": "TITULO SÉPTIMO.",
+      "capitulo": "",
+      "ultima_reforma": "2017-07-14",
+      "num_reformas": 2,
+      "reformas": [
+        "1984-01-27",
+        "2017-07-14"
+      ],
+      "archivo": "articulos/161.md"
+    },
+    {
+      "clave": "162",
+      "articulo": 162,
+      "sufijo": "",
+      "etiqueta": "Artículo 162º",
+      "titulo": "TITULO SÉPTIMO.",
+      "capitulo": "",
+      "ultima_reforma": "1984-01-27",
+      "num_reformas": 1,
+      "reformas": [
+        "1984-01-27"
+      ],
+      "archivo": "articulos/162.md"
+    },
+    {
+      "clave": "163",
+      "articulo": 163,
+      "sufijo": "",
+      "etiqueta": "Artículo 163º",
+      "titulo": "TITULO SÉPTIMO.",
+      "capitulo": "",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 4,
+      "reformas": [
+        "2012-04-08",
+        "2017-07-14",
+        "2024-12-20",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/163.md"
+    },
+    {
+      "clave": "164",
+      "articulo": 164,
+      "sufijo": "",
+      "etiqueta": "Artículo 164º",
+      "titulo": "TITULO SÉPTIMO.",
+      "capitulo": "",
+      "ultima_reforma": "1984-01-27",
+      "num_reformas": 1,
+      "reformas": [
+        "1984-01-27"
+      ],
+      "archivo": "articulos/164.md"
+    },
+    {
+      "clave": "165",
+      "articulo": 165,
+      "sufijo": "",
+      "etiqueta": "Artículo 165º",
+      "titulo": "TITULO SÉPTIMO.",
+      "capitulo": "",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 3,
+      "reformas": [
+        "2012-04-08",
+        "2017-07-14",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/165.md"
+    },
+    {
+      "clave": "166",
+      "articulo": 166,
+      "sufijo": "",
+      "etiqueta": "Artículo 166º",
+      "titulo": "TITULO SÉPTIMO.",
+      "capitulo": "",
+      "ultima_reforma": "2017-07-14",
+      "num_reformas": 2,
+      "reformas": [
+        "1984-01-27",
+        "2017-07-14"
+      ],
+      "archivo": "articulos/166.md"
+    },
+    {
+      "clave": "167",
+      "articulo": 167,
+      "sufijo": "",
+      "etiqueta": "Artículo 167º",
+      "titulo": "TITULO SÉPTIMO.",
+      "capitulo": "",
+      "ultima_reforma": "2025-06-18",
+      "num_reformas": 4,
+      "reformas": [
+        "1984-01-27",
+        "2017-07-14",
+        "2024-12-20",
+        "2025-06-18"
+      ],
+      "archivo": "articulos/167.md"
+    },
+    {
+      "clave": "168",
+      "articulo": 168,
+      "sufijo": "",
+      "etiqueta": "Artículo 168º",
+      "titulo": "TITULO SÉPTIMO.",
+      "capitulo": "",
+      "ultima_reforma": "2017-07-14",
+      "num_reformas": 2,
+      "reformas": [
+        "1984-01-27",
+        "2017-07-14"
+      ],
+      "archivo": "articulos/168.md"
+    },
+    {
+      "clave": "168-a",
+      "articulo": 168,
+      "sufijo": "A",
+      "etiqueta": "Artículo 168º A",
+      "titulo": "TITULO SÉPTIMO.",
+      "capitulo": "CAPÍTULO II.",
+      "ultima_reforma": "2017-07-14",
+      "num_reformas": 2,
+      "reformas": [
+        "2001-03-20",
+        "2017-07-14"
+      ],
+      "archivo": "articulos/168-a.md"
+    },
+    {
+      "clave": "169",
+      "articulo": 169,
+      "sufijo": "",
+      "etiqueta": "Artículo 169º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": "1989-01-13",
+      "num_reformas": 2,
+      "reformas": [
+        "1977-02-04",
+        "1989-01-13"
+      ],
+      "archivo": "articulos/169.md"
+    },
+    {
+      "clave": "170",
+      "articulo": 170,
+      "sufijo": "",
+      "etiqueta": "Artículo 170º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 2,
+      "reformas": [
+        "1989-01-13",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/170.md"
+    },
+    {
+      "clave": "171",
+      "articulo": 171,
+      "sufijo": "",
+      "etiqueta": "Artículo 171º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": "2009-10-09",
+      "num_reformas": 3,
+      "reformas": [
+        "1989-01-13",
+        "2006-07-21",
+        "2009-10-09"
+      ],
+      "archivo": "articulos/171.md"
+    },
+    {
+      "clave": "172",
+      "articulo": 172,
+      "sufijo": "",
+      "etiqueta": "Artículo 172º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": "1989-01-13",
+      "num_reformas": 1,
+      "reformas": [
+        "1989-01-13"
+      ],
+      "archivo": "articulos/172.md"
+    },
+    {
+      "clave": "173",
+      "articulo": 173,
+      "sufijo": "",
+      "etiqueta": "Artículo 173º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 7,
+      "reformas": [
+        "1984-01-27",
+        "1989-01-13",
+        "2016-09-27",
+        "2019-12-06",
+        "2025-10-24",
+        "2025-10-28",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/173.md"
+    },
+    {
+      "clave": "173-bis",
+      "articulo": 173,
+      "sufijo": "Bis",
+      "etiqueta": "Artículo 173º Bis",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": "2025-10-24",
+      "num_reformas": 2,
+      "reformas": [
+        "2013-04-12",
+        "2025-10-24"
+      ],
+      "archivo": "articulos/173-bis.md"
+    },
+    {
+      "clave": "174",
+      "articulo": 174,
+      "sufijo": "",
+      "etiqueta": "Artículo 174º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": "2013-04-26",
+      "num_reformas": 2,
+      "reformas": [
+        "1977-02-04",
+        "2013-04-26"
+      ],
+      "archivo": "articulos/174.md"
+    },
+    {
+      "clave": "174-a",
+      "articulo": 174,
+      "sufijo": "A",
+      "etiqueta": "Artículo 174º A",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": "2013-04-26",
+      "num_reformas": 1,
+      "reformas": [
+        "2013-04-26"
+      ],
+      "archivo": "articulos/174-a.md"
+    },
+    {
+      "clave": "175",
+      "articulo": 175,
+      "sufijo": "",
+      "etiqueta": "Artículo 175º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": "1989-01-13",
+      "num_reformas": 1,
+      "reformas": [
+        "1989-01-13"
+      ],
+      "archivo": "articulos/175.md"
+    },
+    {
+      "clave": "176",
+      "articulo": 176,
+      "sufijo": "",
+      "etiqueta": "Artículo 176º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": "2007-02-09",
+      "num_reformas": 1,
+      "reformas": [
+        "2007-02-09"
+      ],
+      "archivo": "articulos/176.md"
+    },
+    {
+      "clave": "177",
+      "articulo": 177,
+      "sufijo": "",
+      "etiqueta": "Artículo 177º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": "2009-03-16",
+      "num_reformas": 1,
+      "reformas": [
+        "2009-03-16"
+      ],
+      "archivo": "articulos/177.md"
+    },
+    {
+      "clave": "178",
+      "articulo": 178,
+      "sufijo": "",
+      "etiqueta": "Artículo 178º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": "1989-01-13",
+      "num_reformas": 1,
+      "reformas": [
+        "1989-01-13"
+      ],
+      "archivo": "articulos/178.md"
+    },
+    {
+      "clave": "179",
+      "articulo": 179,
+      "sufijo": "",
+      "etiqueta": "Artículo 179º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/179.md"
+    },
+    {
+      "clave": "180",
+      "articulo": 180,
+      "sufijo": "",
+      "etiqueta": "Artículo 180º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/180.md"
+    },
+    {
+      "clave": "181",
+      "articulo": 181,
+      "sufijo": "",
+      "etiqueta": "Artículo 181º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": "1984-01-27",
+      "num_reformas": 1,
+      "reformas": [
+        "1984-01-27"
+      ],
+      "archivo": "articulos/181.md"
+    },
+    {
+      "clave": "182",
+      "articulo": 182,
+      "sufijo": "",
+      "etiqueta": "Artículo 182º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": "1984-01-27",
+      "num_reformas": 1,
+      "reformas": [
+        "1984-01-27"
+      ],
+      "archivo": "articulos/182.md"
+    },
+    {
+      "clave": "183",
+      "articulo": 183,
+      "sufijo": "",
+      "etiqueta": "Artículo 183º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": "1984-01-27",
+      "num_reformas": 1,
+      "reformas": [
+        "1984-01-27"
+      ],
+      "archivo": "articulos/183.md"
+    },
+    {
+      "clave": "184",
+      "articulo": 184,
+      "sufijo": "",
+      "etiqueta": "Artículo 184º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": "1984-01-27",
+      "num_reformas": 1,
+      "reformas": [
+        "1984-01-27"
+      ],
+      "archivo": "articulos/184.md"
+    },
+    {
+      "clave": "185",
+      "articulo": 185,
+      "sufijo": "",
+      "etiqueta": "Artículo 185º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/185.md"
+    },
+    {
+      "clave": "186",
+      "articulo": 186,
+      "sufijo": "",
+      "etiqueta": "Artículo 186º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": "2009-03-16",
+      "num_reformas": 1,
+      "reformas": [
+        "2009-03-16"
+      ],
+      "archivo": "articulos/186.md"
+    },
+    {
+      "clave": "187",
+      "articulo": 187,
+      "sufijo": "",
+      "etiqueta": "Artículo 187º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": "2008-12-23",
+      "num_reformas": 1,
+      "reformas": [
+        "2008-12-23"
+      ],
+      "archivo": "articulos/187.md"
+    },
+    {
+      "clave": "188",
+      "articulo": 188,
+      "sufijo": "",
+      "etiqueta": "Artículo 188º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": "1984-01-27",
+      "num_reformas": 1,
+      "reformas": [
+        "1984-01-27"
+      ],
+      "archivo": "articulos/188.md"
+    },
+    {
+      "clave": "189",
+      "articulo": 189,
+      "sufijo": "",
+      "etiqueta": "Artículo 189º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/189.md"
+    },
+    {
+      "clave": "190",
+      "articulo": 190,
+      "sufijo": "",
+      "etiqueta": "Artículo 190º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/190.md"
+    },
+    {
+      "clave": "191",
+      "articulo": 191,
+      "sufijo": "",
+      "etiqueta": "Artículo 191º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": "1984-01-27",
+      "num_reformas": 1,
+      "reformas": [
+        "1984-01-27"
+      ],
+      "archivo": "articulos/191.md"
+    },
+    {
+      "clave": "192",
+      "articulo": 192,
+      "sufijo": "",
+      "etiqueta": "Artículo 192º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": "2026-09-01",
+      "num_reformas": 2,
+      "reformas": [
+        "1994-04-22",
+        "2026-09-01"
+      ],
+      "archivo": "articulos/192.md"
+    },
+    {
+      "clave": "193",
+      "articulo": 193,
+      "sufijo": "",
+      "etiqueta": "Artículo 193º",
+      "titulo": "TITULO OCTAVO.",
+      "capitulo": "",
+      "ultima_reforma": "2019-11-22",
+      "num_reformas": 5,
+      "reformas": [
+        "1984-01-27",
+        "2001-03-20",
+        "2001-10-13",
+        "2015-09-22",
+        "2019-11-22"
+      ],
+      "archivo": "articulos/193.md"
+    },
+    {
+      "clave": "194",
+      "articulo": 194,
+      "sufijo": "",
+      "etiqueta": "Artículo 194º",
+      "titulo": "TITULO NOVENO.",
+      "capitulo": "",
+      "ultima_reforma": "2005-06-21",
+      "num_reformas": 1,
+      "reformas": [
+        "2005-06-21"
+      ],
+      "archivo": "articulos/194.md"
+    },
+    {
+      "clave": "195",
+      "articulo": 195,
+      "sufijo": "",
+      "etiqueta": "Artículo 195º",
+      "titulo": "TITULO NOVENO.",
+      "capitulo": "",
+      "ultima_reforma": "2022-08-19",
+      "num_reformas": 4,
+      "reformas": [
+        "2006-07-21",
+        "2012-06-26",
+        "2022-01-21",
+        "2022-08-19"
+      ],
+      "archivo": "articulos/195.md"
+    },
+    {
+      "clave": "195-a",
+      "articulo": 195,
+      "sufijo": "A",
+      "etiqueta": "Artículo 195º A",
+      "titulo": "TITULO NOVENO.",
+      "capitulo": "",
+      "ultima_reforma": "2022-08-19",
+      "num_reformas": 2,
+      "reformas": [
+        "2022-01-21",
+        "2022-08-19"
+      ],
+      "archivo": "articulos/195-a.md"
+    },
+    {
+      "clave": "195-b",
+      "articulo": 195,
+      "sufijo": "B",
+      "etiqueta": "Artículo 195º B",
+      "titulo": "TITULO NOVENO.",
+      "capitulo": "",
+      "ultima_reforma": "2022-08-19",
+      "num_reformas": 2,
+      "reformas": [
+        "2022-01-21",
+        "2022-08-19"
+      ],
+      "archivo": "articulos/195-b.md"
+    },
+    {
+      "clave": "196",
+      "articulo": 196,
+      "sufijo": "",
+      "etiqueta": "Artículo 196º",
+      "titulo": "TITULO NOVENO.",
+      "capitulo": "",
+      "ultima_reforma": "2016-12-02",
+      "num_reformas": 5,
+      "reformas": [
+        "1994-04-22",
+        "2005-06-21",
+        "2007-07-31",
+        "2015-09-22",
+        "2016-12-02"
+      ],
+      "archivo": "articulos/196.md"
+    },
+    {
+      "clave": "197",
+      "articulo": 197,
+      "sufijo": "",
+      "etiqueta": "Artículo 197º",
+      "titulo": "TITULO NOVENO.",
+      "capitulo": "",
+      "ultima_reforma": "2015-09-22",
+      "num_reformas": 2,
+      "reformas": [
+        "1984-01-27",
+        "2015-09-22"
+      ],
+      "archivo": "articulos/197.md"
+    },
+    {
+      "clave": "198",
+      "articulo": 198,
+      "sufijo": "",
+      "etiqueta": "Artículo 198º",
+      "titulo": "TITULO NOVENO.",
+      "capitulo": "",
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "articulos/198.md"
+    },
+    {
+      "clave": "199",
+      "articulo": 199,
+      "sufijo": "",
+      "etiqueta": "Artículo 199º",
+      "titulo": "TITULO NOVENO.",
+      "capitulo": "",
+      "ultima_reforma": "2020-08-07",
+      "num_reformas": 1,
+      "reformas": [
+        "2020-08-07"
+      ],
+      "archivo": "articulos/199.md"
+    }
+  ]
+}

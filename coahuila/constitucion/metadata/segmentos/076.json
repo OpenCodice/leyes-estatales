@@ -1,0 +1,99 @@
+{
+  "clave": "076",
+  "etiqueta": "Artículo 76º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPITULO I.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "076.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 01 DE SEPTIEMBRE DE 2026)"
+    },
+    {
+      "id": "076.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76º › párrafo 2",
+      "texto": "Para ser Gobernadora o Gobernador se requiere:"
+    },
+    {
+      "id": "076.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76º › Fracción I",
+      "texto": "I. Ser ciudadano mexicano por nacimiento.\n\n(REFORMADA, P.O. 4 DE FEBRERO DE 1977)"
+    },
+    {
+      "id": "076.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76º › Fracción II",
+      "texto": "II. Haber cumplido 30 años de edad para el día de la elección.\n\n(REFORMADA, P.O. 4 DE FEBRERO DE 1977)"
+    },
+    {
+      "id": "076.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76º › Fracción III",
+      "texto": "III. Ser coahuilense por nacimiento o tener una residencia efectiva en el Estado no menor de cinco años inmediatamente anteriores al día de la elección.\n\n(REFORMADA, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "076.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76º › Fracción IV",
+      "texto": "IV. No encontrarse en el supuesto a que se refiere el segundo párrafo del artículo 30 de esta Constitución.\n\n(REFORMADA, P.O. 01 DE SEPTIEMBRE DE 2026) (REFORMADA, P.O. 14 DE JULIO DE 2017) (REFORMADA, P.O. 8 DE ABRIL DE 2012)"
+    },
+    {
+      "id": "076.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76º › Fracción V",
+      "texto": "V. No ser secretaria o secretario de la administración pública estatal, magistrada o magistrado del Poder Judicial, presidenta o presidente municipal, síndica o síndico o regidora o regidor, consejera o consejero o integrante del órgano de dirección de los organismos públicos autónomos, magistrada o magistrado del Tribunal de Justicia Administrativa de Coahuila de Zaragoza, persona titular de la Fiscalía General del Estado, titular de los organismos descentralizados, miembro de los órganos directivos y técnicos o integrante del cuerpo del servicio profesional electoral del Instituto, ni secretaria o secretario del Tribunal Electoral, salvo que se separe de su encargo en los términos que señale la legislación reglamentaria."
+    },
+    {
+      "id": "076.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76º › Fracción VI",
+      "texto": "VI. No haber figurado directa ni indirectamente en alguna asonada, motín o cuartelazo."
+    },
+    {
+      "id": "076.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76º › Fracción VII",
+      "texto": "VII. No haber sido condenado en juicio por robo, fraude, abuso de confianza, falsificación y otro delito infamante.\n\n(ADICIONADA, P.O. 01 DE SEPTIEMBRE DE 2026)"
+    },
+    {
+      "id": "076.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76º › Fracción VIII",
+      "texto": "VIII. No haber tenido ni tener, en los tres años anteriores al día de la elección, un vínculo de matrimonio o concubinato o unión de hecho, ni de parentesco por consanguinidad o civil en línea recta sin limitación de grado y, en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que ocupe la titularidad de la gubernatura."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "clave": "064",
+  "etiqueta": "Artículo 64º",
+  "titulo": "TITULO TERCERO.",
+  "capitulo": "CAPITULO III.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "064.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64º › párrafo 1",
+      "texto": "Las resoluciones del Congreso no tendrán otro carácter que el de ley, decreto o acuerdo."
+    },
+    {
+      "id": "064.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64º › párrafo 2",
+      "texto": "Es materia de ley toda resolución que otorgue derechos o imponga obligaciones, a alguna generalidad de personas."
+    },
+    {
+      "id": "064.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64º › párrafo 3",
+      "texto": "Es materia de decreto, toda resolución que otorgue derechos o imponga obligaciones a determinadas personas individuales o morales."
+    },
+    {
+      "id": "064.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64º › párrafo 4",
+      "texto": "(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1992)"
+    },
+    {
+      "id": "064.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64º › párrafo 5",
+      "texto": "Son materia de acuerdo, todas las demás resoluciones que emita el Congreso y que no tengan el carácter de Ley o decreto."
+    },
+    {
+      "id": "064.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64º › párrafo 6",
+      "texto": "(REFORMADO, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "064.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64º › párrafo 7",
+      "texto": "Las leyes o decretos se comunicarán al Ejecutivo, firmados por el Presidente y dos Secretarios, para su promulgación, publicación y observancia. Los acuerdos, sólo se firmarán por los dos Secretarios y se comunicarán también al Ejecutivo, para su conocimiento y, en su caso, para su publicación y observancia."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "107",
+  "etiqueta": "Artículo 107º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPITULO IV.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "107.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 107º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE JUNIO DE 1988)"
+    },
+    {
+      "id": "107.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 107º › párrafo 2",
+      "texto": "Se podrán otorgar subsidios a actividades prioritarias o de beneficio social, de carácter temporal y que no afecten substancialmente las finanzas del Estado."
+    },
+    {
+      "id": "107.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 107º › párrafo 3",
+      "texto": "El Ejecutivo vigilará su aplicación y evaluará los resultados de ésta."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "184",
+  "etiqueta": "Artículo 184º",
+  "titulo": "TITULO OCTAVO.",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "184.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 184º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "184.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 184º › párrafo 2",
+      "texto": "La autoridad a quien corresponda recibir la protesta, la formulará en la forma de interrogación; si la contestación fuere afirmativa, replicará las palabras siguientes: \"..... Si no lo hiciereis así, el Estado os lo demande.....\", si la respuesta fuere negativa, el servidor público que debía otorgar la protesta, quedará destituido para el desempeño del empleo o cargo y se procederá a nuevo nombramiento."
+    }
+  ]
+}

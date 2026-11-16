@@ -1,0 +1,36 @@
+{
+  "clave": "090",
+  "etiqueta": "Artículo 90º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPITULO III.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "090.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE JUNIO DE 1988)"
+    },
+    {
+      "id": "090.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90º › párrafo 2",
+      "texto": "Los Secretarios del Ramo y los demás titulares de las Dependencias centralizadas, así como los del sector paraestatal, durante el ejercicio de sus funciones, no podrán desempeñar cualquier otro empleo dependiente de la Federación, Municipios, organismos auxiliares, o bien de otra Entidad Federativa o de algún particular, excepto los cargos de carácter docente y los honoríficos."
+    },
+    {
+      "id": "090.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90º › párrafo 3",
+      "texto": "También están impedidos para ejercer la abogacía, salvo en causa propia."
+    }
+  ]
+}

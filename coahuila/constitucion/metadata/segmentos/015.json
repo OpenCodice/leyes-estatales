@@ -1,0 +1,27 @@
+{
+  "clave": "015",
+  "etiqueta": "Artículo 15º",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO III.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "015.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 26 DE JUNIO DE 2012)"
+    },
+    {
+      "id": "015.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15º › párrafo 2",
+      "texto": "Son extranjeros los que no reúnan la calidad de mexicanos de conformidad con el artículo 30 de la Constitución General de la República y gozarán de los derechos humanos y garantías que reconoce la presente Constitución."
+    }
+  ]
+}

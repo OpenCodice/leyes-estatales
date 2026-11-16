@@ -1,0 +1,117 @@
+{
+  "clave": "138",
+  "etiqueta": "Artículo 138º",
+  "titulo": "TITULO QUINTO.",
+  "capitulo": "CAPITULO I.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "138.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024) (REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017) (REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015) (REFORMADO PRIMER PÁRRAFO, P.O. 25 DE MAYO DE 2007)"
+    },
+    {
+      "id": "138.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138º › párrafo 2",
+      "texto": "Para ser electo titular de una magistratura del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial o del Tribunal Distrital, se requiere:"
+    },
+    {
+      "id": "138.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138º › Fracción I",
+      "texto": "I. Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos civiles y políticos, y contar con treinta y cinco años de edad a la fecha de la convocatoria respectiva;"
+    },
+    {
+      "id": "138.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138º › Fracción II",
+      "texto": "II. Contar al día de la publicación de la convocatoria respectiva con título de licenciatura en derecho expedido legalmente y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente;"
+    },
+    {
+      "id": "138.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138º › Fracción III",
+      "texto": "III. Gozar de buena reputación, buena fama y honorabilidad y tener una experiencia profesional jurídica acreditada de por lo menos diez años;"
+    },
+    {
+      "id": "138.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138º › Fracción IV",
+      "texto": "IV. Haber residido en el estado durante el año anterior al día de la publicación de la convocatoria respectiva;"
+    },
+    {
+      "id": "138.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138º › Fracción V",
+      "texto": "V. Contar con la certificación de perfil judicial idóneo, por parte de la institución que se encargue de la formación judicial del Poder Judicial del Estado, en los términos que disponga la Ley;"
+    },
+    {
+      "id": "138.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138º › Fracción VI",
+      "texto": "VI. Emitir por escrito una declaración de no conflicto de interés;\n\n(REFORMADA, P.O. 04 DE JULIO DE 2025)"
+    },
+    {
+      "id": "138.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138º › Fracción VII",
+      "texto": "VII. No haber ocupado el cargo de Secretario del Ramo o su equivalente, en la Administración Pública Estatal, Fiscal General del Estado, Diputada o Diputado del Congreso del Estado o alguno de los cargos a que se refiere el artículo 95, fracción VI de la Constitución Política de los Estados Unidos Mexicanos, durante el año previo al día de la convocatoria;"
+    },
+    {
+      "id": "138.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138º › Fracción VIII",
+      "texto": "VIII. No tener sentencia firme por la comisión intencional de delitos contra la función pública, la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;"
+    },
+    {
+      "id": "138.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138º › Fracción IX",
+      "texto": "IX. No ser declarada, por juez competente, como persona deudora alimentaria morosa, o culpable de sanción administrativa o pena de inhabilitación del cargo público, o suspendida de sus derechos políticos, en los términos de Ley; y"
+    },
+    {
+      "id": "138.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138º › Fracción X",
+      "texto": "X. Los demás que establezca la Ley."
+    }
+  ]
+}

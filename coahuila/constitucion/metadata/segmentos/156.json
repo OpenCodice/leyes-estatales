@@ -1,0 +1,108 @@
+{
+  "clave": "156",
+  "etiqueta": "Artículo 156º",
+  "titulo": "TITULO QUINTO.",
+  "capitulo": "CAPITULO III.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "156.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 156º › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 26 DE ABRIL DE 2013)"
+    },
+    {
+      "id": "156.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 156º › párrafo 2",
+      "texto": "Los juicios, los expedientes y las actuaciones judiciales serán públicas, salvo los casos de excepción que determine la ley."
+    },
+    {
+      "id": "156.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 156º › párrafo 3",
+      "texto": "La garantía de la transparencia judicial se regirá por los principios siguientes:"
+    },
+    {
+      "id": "156.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 156º › Fracción I",
+      "texto": "I. Toda persona tiene derecho a recibir información en los términos que disponga la ley y el reglamento, sobre:"
+    },
+    {
+      "id": "156.I.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 156º › Fracción I › 1.",
+      "texto": "1. La organización y el funcionamiento del sistema judicial."
+    },
+    {
+      "id": "156.I.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 156º › Fracción I › 2.",
+      "texto": "2. Las características y requisitos de los procedimientos que se sigan ante los jueces y tribunales."
+    },
+    {
+      "id": "156.I.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 156º › Fracción I › 3.",
+      "texto": "3. El orden jurídico legal y reglamentario, las sentencias, jurisprudencias y tesis aisladas a través de un sistema de fácil acceso."
+    },
+    {
+      "id": "156.I.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 156º › Fracción I › 4.",
+      "texto": "4. El contenido y el estado de cualquier expediente, salvo que se trate de información confidencial o reservada conforme a la ley."
+    },
+    {
+      "id": "156.I.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 156º › Fracción I › 5.",
+      "texto": "5. La demás información que resulte relevante para conocer el sistema judicial."
+    },
+    {
+      "id": "156.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 156º › Fracción II",
+      "texto": "II. Los jueces tienen el deber de trascender el ámbito de ejercicio de dicha función, procurando que la justicia se imparta en condiciones de eficiencia, calidad, accesibilidad y transparencia, con respeto a la dignidad de la persona que acude en demanda del servicio."
+    },
+    {
+      "id": "156.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 156º › Fracción III",
+      "texto": "III. Los actos de comunicación y difusión judicial se deberán realizar en términos sencillos y comprensibles a cualquier persona."
+    }
+  ]
+}

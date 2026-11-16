@@ -1,0 +1,36 @@
+{
+  "clave": "039",
+  "etiqueta": "Artículo 39º",
+  "titulo": "TITULO TERCERO.",
+  "capitulo": "CAPITULO I.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "039.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 14 DE JULIO DE 2017)"
+    },
+    {
+      "id": "039.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39º › párrafo 2",
+      "texto": "Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo, y no podrán ser reconvenidos ni procesados por ellas en ningún tiempo, ni por ninguna Autoridad."
+    },
+    {
+      "id": "039.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39º › párrafo 3",
+      "texto": "El Presidente del Congreso velará por la inviolabilidad del recinto donde se reúnan a sesionar."
+    }
+  ]
+}

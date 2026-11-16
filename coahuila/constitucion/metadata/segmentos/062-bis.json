@@ -1,0 +1,54 @@
+{
+  "clave": "062-bis",
+  "etiqueta": "Artículo 62º Bis",
+  "titulo": "TITULO TERCERO.",
+  "capitulo": "CAPITULO III.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "062-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62º Bis › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 7 DE FEBRERO DE 2014)"
+    },
+    {
+      "id": "062-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62º Bis › párrafo 2",
+      "texto": "Para la aprobación de toda iniciativa de ley o decreto, se necesita el voto de la mayoría de los diputados."
+    },
+    {
+      "id": "062-bis.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62º Bis › párrafo 3",
+      "texto": "Se requiere el voto de las dos terceras partes de los diputados presentes, cuando se trate de:"
+    },
+    {
+      "id": "062-bis.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62º Bis › Fracción I",
+      "texto": "I. Iniciativas de leyes o decretos en materia:\n\n1) Electoral.\n\n2) De Derechos Humanos.\n\n3) De Deuda Pública.\n\n4) De Fiscalización superior del Estado y los Municipios.\n\n5) Penal 6) Las relacionadas con las Leyes de Ingresos del Estado y de los Municipios así como con el Presupuesto de Egresos del Estado.\n\n7) De designación de integrantes de Organismos Públicos autónomos.\n\n8) Relacionados con el Comité Estatal de Vinculación Hacendaria.\n\n9) Relacionados con el Código Financiero para los Municipios del Estado de Coahuila de Zaragoza y la Ley de Hacienda para el Estado de Coahuila de Zaragoza."
+    },
+    {
+      "id": "062-bis.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62º Bis › Fracción II",
+      "texto": "II. Las demás previstas en esta Constitución."
+    }
+  ]
+}

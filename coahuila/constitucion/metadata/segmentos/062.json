@@ -1,0 +1,90 @@
+{
+  "clave": "062",
+  "etiqueta": "Artículo 62º",
+  "titulo": "TITULO TERCERO.",
+  "capitulo": "CAPITULO III.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "062.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "062.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62º › párrafo 2",
+      "texto": "Toda iniciativa de ley o decreto deberá sujetarse a los trámites siguientes:"
+    },
+    {
+      "id": "062.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62º › Fracción I",
+      "texto": "I. Dictamen de Comisión.\n\n(REFORMADO, P.O. 3 DE DICIEMBRE DE 2004)"
+    },
+    {
+      "id": "062.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62º › Fracción II",
+      "texto": "II. Una, o dos discusiones en el supuesto que expresa la fracción V de este artículo.\n\n(REFORMADA, P.O. 9 DE ENERO DE 1998)"
+    },
+    {
+      "id": "062.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62º › Fracción III",
+      "texto": "III. La discusión se verificará el día que designe el Presidente del Congreso, conforme a lo dispuesto en la Ley Orgánica.\n\n(REFORMADA, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "062.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62º › Fracción IV",
+      "texto": "IV. Terminada esta discusión se votara la ley o decreto, y aprobado que sea, se pasará al Ejecutivo para su promulgación, publicación y observancia."
+    },
+    {
+      "id": "062.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62º › Fracción V",
+      "texto": "V. Si el Ejecutivo devolviere la ley o decreto con observaciones, volverá a la Comisión respectiva para que presente nuevo dictamen."
+    },
+    {
+      "id": "062.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62º › Fracción VI",
+      "texto": "VI. El nuevo dictamen se volverá a discutir y a esta segunda discusión podrá asistir y tomar parte en ella el Gobernador del Estado o el orador que nombre al efecto.\n\n(REFORMADA, P.O. 7 DE AGOSTO DE 2012)"
+    },
+    {
+      "id": "062.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62º › Fracción VII",
+      "texto": "VII. Si el proyecto devuelto con observaciones por el Ejecutivo, fuere confirmado por las dos terceras partes del número total de votos, se declarará ley o decreto y se enviará de nuevo al Ejecutivo, para en el término de 10 días naturales siguientes ordene su promulgación y publicación; en caso de no hacerlo, transcurrido dicho plazo, la ley o decreto será considerado promulgado, y el Presidente del Congreso o de la Diputación Permanente, dentro de los diez días naturales siguientes, ordenará su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza, sin que se requiera el refrendo previsto en el artículo 88 de esta Constitución."
+    }
+  ]
+}

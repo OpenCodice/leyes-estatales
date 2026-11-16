@@ -1,0 +1,45 @@
+{
+  "clave": "007-r",
+  "etiqueta": "Artículo 7º R",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO II.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007-r.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º R › párrafo 1",
+      "texto": "Las normas que suspendan o restrinjan los derechos humanos de carácter local deberán:"
+    },
+    {
+      "id": "007-r.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º R › Fracción I",
+      "texto": "I. Establecerse por ley válida, previsible y razonable, en sentido formal y material;"
+    },
+    {
+      "id": "007-r.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º R › Fracción II",
+      "texto": "II. Ser adecuadamente accesible, suficientemente precisa y su contenido razonable conforme al principio de proporcionalidad;"
+    },
+    {
+      "id": "007-r.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º R › Fracción III",
+      "texto": "III. Contextualizarse conforme al ámbito para el que fue creada a fin de regular de manera razonable la situación de las personas a quien se dirige.\n\nLa reserva de ley, simple o calificada, se exigirá en la medida en que la materia requiera la exacta y estricta aplicación de la norma.\n\nEl juez podrá justificar suspensiones o restricciones a los derechos con base en violaciones a principios constitucionales locales que impliquen fraude a la ley, abuso del derecho, desviación del poder o cualquier otro ilícito atípico."
+    }
+  ]
+}
