@@ -1,0 +1,36 @@
+{
+  "clave": "054-a",
+  "etiqueta": "Artículo 54º A",
+  "titulo": "",
+  "capitulo": "CAPITULO DUODECIMO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "054-a.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54º A › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 18 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "054-a.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54º A › párrafo 2",
+      "texto": "Las personas titulares de las Magistraturas integrantes del Supremo Tribunal de Justicia del Estado y del Tribunal de Disciplina Judicial de Aguascalientes, serán electas mediante una boleta en la que se podrá votar hasta por el número de cargos a elegir; el voto será válido siempre que se vote hasta por ese número de candidaturas."
+    },
+    {
+      "id": "054-a.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54º A › párrafo 3",
+      "texto": "El Instituto Estatal Electoral emitirá las constancias de mayoría de manera paritaria conforme a los cargos a elegir, iniciando con las mujeres más votadas."
+    }
+  ]
+}

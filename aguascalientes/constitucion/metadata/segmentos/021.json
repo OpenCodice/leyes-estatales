@@ -1,0 +1,45 @@
+{
+  "clave": "021",
+  "etiqueta": "Artículo 21º",
+  "titulo": "",
+  "capitulo": "CAPITULO SEXTO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "021.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21º › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 24 DE JULIO DE 1994)"
+    },
+    {
+      "id": "021.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21º › párrafo 2",
+      "texto": "Los Diputados son inviolables por la manifestación de sus ideas en ejercicio de sus funciones y jamás podrán ser reconvenidos ni juzgados por ello, sin embargo, serán responsables de los delitos que cometan durante el tiempo de su encargo, pero no podrá ejercitarse acción penal en su contra hasta que seguido el procedimiento constitucional, se decida la separación del cargo y la sujeción a la acción de los tribunales."
+    },
+    {
+      "id": "021.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21º › párrafo 3",
+      "texto": "(REFORMADO, P.O. 18 DE JUNIO DE 1978)"
+    },
+    {
+      "id": "021.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21º › párrafo 4",
+      "texto": "El Presidente del Congreso o de la Diputación Permanente, en su caso, velará por el respeto al fuero constitucional de los integrantes del mismo, y, por la inviolabilidad del Recinto donde se reúnan a sesionar."
+    }
+  ]
+}

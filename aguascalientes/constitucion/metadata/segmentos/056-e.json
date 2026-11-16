@@ -1,0 +1,45 @@
+{
+  "clave": "056-e",
+  "etiqueta": "Artículo 56º E",
+  "titulo": "",
+  "capitulo": "CAPITULO DUODECIMO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "056-e.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56º E › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)"
+    },
+    {
+      "id": "056-e.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56º E › párrafo 2",
+      "texto": "El juicio para la protección de los derechos humanos de carácter local es procedente:"
+    },
+    {
+      "id": "056-e.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56º E › Fracción I",
+      "texto": "I.- Por leyes y normas generales, actos del Congreso del Estado, del Poder Ejecutivo y, en general, de cualquiera de las autoridades estatales, en sus respectivos casos, en ejercicio de las competencias atribuidas por la Constitución y leyes del Estado, que incidan en los derechos humanos reconocidos por esta Constitución; y"
+    },
+    {
+      "id": "056-e.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56º E › Fracción II",
+      "texto": "II.- Por normas generales, actos u omisiones, de la autoridad municipal, que incidan en los derechos humanos reconocidos por esta Constitución; a excepción de actos relacionados con la resolución de conflictos jurisdiccionales y, en general, del Poder Judicial del Estado, así como en materia electoral.\n\nLos jueces locales del orden común en cualquier materia tienen facultades y deberes dirigidos a aplicar e interpretar directamente los derechos humanos reconocidos en esta Constitución."
+    }
+  ]
+}

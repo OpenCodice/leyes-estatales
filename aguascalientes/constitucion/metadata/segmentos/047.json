@@ -1,0 +1,36 @@
+{
+  "clave": "047",
+  "etiqueta": "Artículo 47º",
+  "titulo": "",
+  "capitulo": "CAPITULO DECIMO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "047.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 13 DE AGOSTO DE 1950)"
+    },
+    {
+      "id": "047.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47º › párrafo 2",
+      "texto": "El cargo de Gobernador solo es renunciable por causa grave que calificará el Congreso, ante el que se presentará la renuncia."
+    },
+    {
+      "id": "047.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47º › párrafo 3",
+      "texto": "(REFORMADA SU DENOMINACIÓN, P.O. 17 DE AGOSTO DE 2015)"
+    }
+  ]
+}

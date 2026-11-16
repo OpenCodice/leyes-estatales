@@ -1,0 +1,36 @@
+{
+  "clave": "050",
+  "etiqueta": "Artículo 50º",
+  "titulo": "",
+  "capitulo": "CAPITULO UNDECIMO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "050.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE AGOSTO DE 2015)"
+    },
+    {
+      "id": "050.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › párrafo 2",
+      "texto": "Las ausencias del Secretario General de Gobierno serán suplidas conforme la normatividad reglamentaria, en cuyo caso la persona que lo supla deberá firmar los despachos del Gobernador."
+    },
+    {
+      "id": "050.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › párrafo 3",
+      "texto": "(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 8 DE AGOSTO DE 2023)"
+    }
+  ]
+}

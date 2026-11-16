@@ -1,0 +1,45 @@
+{
+  "clave": "041",
+  "etiqueta": "Artículo 41º",
+  "titulo": "",
+  "capitulo": "CAPITULO DECIMO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "041.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41º › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 28 DE JULIO DE 2014)"
+    },
+    {
+      "id": "041.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41º › párrafo 2",
+      "texto": "El Gobernador del Estado será electo directamente por el pueblo, en los términos de la Ley Electoral; durará en su encargo seis años y empezará a ejercer sus funciones el día primero de octubre del año de la elección, previa protesta que rendirá ante el Congreso, en los siguientes términos:"
+    },
+    {
+      "id": "041.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41º › párrafo 3",
+      "texto": "(REFORMADO, P.O. 13 DE AGOSTO DE 1950)"
+    },
+    {
+      "id": "041.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41º › párrafo 4",
+      "texto": "\"PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA PARTICULAR DEL ESTADO Y LAS LEYES QUE DE AMBAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE GOBERNADOR QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DEL ESTADO; Y SI ASI NO LO HICIERE, QUE EL PUEBLO ME LO DEMANDE\"."
+    }
+  ]
+}

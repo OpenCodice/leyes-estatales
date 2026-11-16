@@ -1,0 +1,27 @@
+{
+  "clave": "077",
+  "etiqueta": "Artículo 77º",
+  "titulo": "",
+  "capitulo": "CAPITULO DECIMOSEPTIMO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "077.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 21 DE JUNIO DE 2010)"
+    },
+    {
+      "id": "077.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77º › párrafo 2",
+      "texto": "Las resoluciones del Congreso del Estado en materia de responsabilidad política y penal son inatacables."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "094",
+  "etiqueta": "Artículo 94º",
+  "titulo": "",
+  "capitulo": "CAPITULO DECIMONONO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "094.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94º › párrafo 1",
+      "texto": "La presente Constitución puede ser adicionada o reformada con los requisitos siguientes:"
+    },
+    {
+      "id": "094.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94º › Fracción I",
+      "texto": "I.- Iniciada la reforma y aprobada por los votos de las dos terceras partes del número total de Diputados, se pasará a los Ayuntamientos con los debates que hubiere provocado, para su discusión; si la mayoría de los Ayuntamientos aprobaren la reforma o adición, ésta será declarada parte de la Constitución;\n\n(REFORMADA, P.O. 10 DE JUNIO DE 2024)"
+    },
+    {
+      "id": "094.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94º › Fracción II",
+      "texto": "II.- Si transcurrieren quince días hábiles desde la fecha en que los Ayuntamientos hayan recibido el proyecto de reforma, sin que se hubiere recibido en el Congreso el resultado de la votación, se entenderá que aceptan la reforma o adición.\n\n[N. DE E. REUBICADO -ANTES CAPÍTULO DÉCIMONONO-, P.O. 8 DE NOVIEMBRE DE 2016]"
+    }
+  ]
+}

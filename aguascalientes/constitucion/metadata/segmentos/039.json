@@ -1,0 +1,27 @@
+{
+  "clave": "039",
+  "etiqueta": "Artículo 39º",
+  "titulo": "",
+  "capitulo": "CAPITULO DECIMO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "039.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 13 DE JULIO DE 2009)"
+    },
+    {
+      "id": "039.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39º › párrafo 2",
+      "texto": "El ciudadano que hubiere ocupado el cargo de Gobernador Provisional o Interino, o aquél que bajo cualquier denominación supla las faltas temporales del Gobernador; así como el ciudadano que con el carácter de Gobernador Sustituto supla la falta definitiva del Gobernador, no podrá ser electo o designado como Gobernador en cualquiera de sus formas, si no han trascurrido dos años de que cesó en sus funciones."
+    }
+  ]
+}
