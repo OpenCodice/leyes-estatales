@@ -1,0 +1,81 @@
+{
+  "clave": "039",
+  "etiqueta": "Artículo 39",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "039.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 1",
+      "texto": "Esta Constitución y las leyes garantizarán que los partidos políticos cuenten de manera equitativa con las prerrogativas para llevar a cabo sus actividades."
+    },
+    {
+      "id": "039.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 2",
+      "texto": "Los partidos políticos tendrán las prerrogativas siguientes:"
+    },
+    {
+      "id": "039.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › Fracción I",
+      "texto": "I. Acceder en forma permanente a la radio y a la televisión, conforme a lo dispuesto en los Apartados A y B, de la base III, del artículo 41, de la Constitución Política de los Estados Unidos Mexicanos y las leyes de la materia;"
+    },
+    {
+      "id": "039.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › Fracción II",
+      "texto": "II. Recibir financiamiento público ordinario para sus actividades permanentes;\n\nextraordinario, para sus actividades de campaña electoral; y, específico para actividades adicionales, de conformidad con lo que determinen las leyes de la materia, en todo caso se observará: las siguientes bases:"
+    },
+    {
+      "id": "039.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 39 › Fracción II › inciso a)",
+      "texto": "a) Los recursos públicos deberán prevalecer sobre los de origen privado. Al efecto, las aportaciones que los partidos políticos reciban de sus militantes y simpatizantes no podrán exceder del equivalente al diez por ciento del monto total del tope de gastos de campaña previsto para la última elección de Gobernador;"
+    },
+    {
+      "id": "039.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 39 › Fracción II › inciso b)",
+      "texto": "b) El financiamiento público ordinario, extraordinario y específico será fijado anualmente por el Instituto Electoral y de Participación Ciudadana del Estado de Guerrero al elaborar su presupuesto; y,"
+    },
+    {
+      "id": "039.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 39 › Fracción II › inciso c)",
+      "texto": "c) El financiamiento público ordinario y extraordinario se distribuirá entre los partidos políticos que hayan obtenido al menos tres por ciento del total de la votación válida emitida en la elección anterior de diputados, de conformidad con las leyes de la materia."
+    },
+    {
+      "id": "039.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › Fracción III",
+      "texto": "III. Gozar del régimen fiscal que establezcan las leyes de la materia."
+    }
+  ]
+}

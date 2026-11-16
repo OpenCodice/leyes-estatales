@@ -1,0 +1,63 @@
+{
+  "clave": "084",
+  "etiqueta": "Artículo 84",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "084.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › párrafo 1",
+      "texto": "Las ausencias temporales de la Gobernadora o Gobernador que no excedan de diez días serán cubiertas por el Secretario General de Gobierno, en calidad de encargado del despacho, sin que sea necesario dar aviso al Congreso del Estado."
+    },
+    {
+      "id": "084.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › 1.",
+      "texto": "1. Las ausencias temporales de la Gobernadora o Gobernador que excedan de diez, pero no de treinta días, serán cubiertas por el Secretario General de Gobierno, en calidad de encargado del despacho, y será necesario avisar al Congreso del Estado;"
+    },
+    {
+      "id": "084.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › 2.",
+      "texto": "2. Las ausencias temporales de la Gobernadora o Gobernador que excedan de treinta días requerirán la solicitud de licencia. Al efecto, el Congreso del Estado deberá designar a una Gobernadora o Gobernador interino con una votación de las dos terceras partes del total de sus integrantes, por el tiempo que dure la ausencia;"
+    },
+    {
+      "id": "084.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › 3.",
+      "texto": "3. La licencia concedida a la Gobernadora o Gobernador suspende temporalmente el ejercicio de las funciones representativas, derechos, obligaciones y garantías;"
+    },
+    {
+      "id": "084.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › 4.",
+      "texto": "4. No se concederá licencia a la Gobernadora o Gobernador con el carácter de indefinida ni tampoco por un tiempo mayor de seis meses; y,"
+    },
+    {
+      "id": "084.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › 5.",
+      "texto": "5.- Si la ausencia temporal a la Gobernadora o Gobernador se convierte, en definitiva, se procederá como lo dispone el artículo siguiente."
+    }
+  ]
+}

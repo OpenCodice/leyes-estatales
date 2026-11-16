@@ -1,0 +1,45 @@
+{
+  "clave": "193",
+  "etiqueta": "Artículo 193",
+  "titulo": "TÍTULO DÉCIMO TERCERO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "193.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 193 › párrafo 1",
+      "texto": "Los servidores públicos serán responsables por los actos u omisiones en que incurran en el desempeño de sus respectivas funciones, con independencia de la jerarquía, denominación u origen de su encargo."
+    },
+    {
+      "id": "193.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 193 › 1.",
+      "texto": "1. Los procedimientos para determinar la responsabilidad de los servidores públicos respetarán el derecho de audiencia, se desarrollarán autónomamente, sin que puedan imponerse dos veces, por una sola conducta, sanciones de la misma naturaleza;"
+    },
+    {
+      "id": "193.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 193 › 2.",
+      "texto": "2. Cualquier ciudadano, bajo su responsabilidad y mediante la presentación de elementos de prueba, podrá denunciar ante el Congreso del Estado las conductas a que se refiere este Capítulo; y,"
+    },
+    {
+      "id": "193.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 193 › 3.",
+      "texto": "3. La ley determinará los sujetos, supuestos de responsabilidad, procedimientos, autoridades competentes y las sanciones del régimen de responsabilidades de los servidores públicos del Estado."
+    }
+  ]
+}

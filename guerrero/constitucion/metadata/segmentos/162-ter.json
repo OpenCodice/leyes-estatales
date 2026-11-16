@@ -1,0 +1,63 @@
+{
+  "clave": "162-ter",
+  "etiqueta": "Artículo 162 Ter",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "162-ter.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 162 Ter › párrafo 1",
+      "texto": "Para ser integrante del Pleno del Órgano de Administración Judicial se requiere cumplir con los requisitos siguientes:"
+    },
+    {
+      "id": "162-ter.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 162 Ter › Fracción I",
+      "texto": "I. Ser persona mexicana por nacimiento y estar en pleno ejercicio de sus derechos civiles y políticos;"
+    },
+    {
+      "id": "162-ter.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 162 Ter › Fracción II",
+      "texto": "II. Contar con una experiencia profesional mínima de cinco años en áreas relacionadas con las actividades del Órgano de Administración Judicial;"
+    },
+    {
+      "id": "162-ter.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 162 Ter › Fracción III",
+      "texto": "III. Poseer título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier área afín, con una antigüedad mínima de cinco años;"
+    },
+    {
+      "id": "162-ter.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 162 Ter › Fracción IV",
+      "texto": "IV. No estar inhabilitada o inhabilitado para desempeñar un empleo, cargo o comisión en el servicio público, y"
+    },
+    {
+      "id": "162-ter.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 162 Ter › Fracción V",
+      "texto": "V. No haber sido condenada o condenado por delito doloso con sanción privativa de la libertad."
+    }
+  ]
+}

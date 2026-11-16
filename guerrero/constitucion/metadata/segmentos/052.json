@@ -1,0 +1,36 @@
+{
+  "clave": "052",
+  "etiqueta": "Artículo 52",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "052.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › párrafo 1",
+      "texto": "Durante el ejercicio de su cargo las Diputadas y los Diputados no podrán desempeñar ninguna comisión pública o empleo remunerado dependiente de la Federación, del Estado, de algún municipio o de sus respectivas administraciones públicas paraestatales, sin licencia previa del Congreso del Estado."
+    },
+    {
+      "id": "052.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › 1.",
+      "texto": "1. Quedan exceptuadas las actividades docentes y los cargos honoríficos en asociaciones científicas, culturales o de beneficencia, siempre y cuando no sean remuneradas incluidas las consideradas como estímulos o reconocimientos, que impliquen conflicto de intereses o pongan en riesgo su dedicación exclusiva a la actividad; y, (REFORMADO, P.O. EDICIÓN 51 ALCANCE I, VIERNES 27 DE JUNIO DE 2025) DECRETO 828"
+    },
+    {
+      "id": "052.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › 2.",
+      "texto": "2. La infracción de estas disposiciones será sancionada con la pérdida del carácter de Diputada o Diputado, previa resolución del Congreso."
+    }
+  ]
+}

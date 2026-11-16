@@ -1,0 +1,27 @@
+{
+  "clave": "156",
+  "etiqueta": "Artículo 156",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "156.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 156 › párrafo 1",
+      "texto": "Para ser consejero de políticas públicas se requiere, además de los requisitos que con excepción de la fracción VIII establece el artículo 111 de esta Constitución, contar con experiencia de, al menos, cinco años dentro de la administración pública."
+    },
+    {
+      "id": "156.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 156 › párrafo 2",
+      "texto": "Los consejeros de políticas públicas durarán en su encargo tres años con posibilidad de una sola ratificación."
+    }
+  ]
+}

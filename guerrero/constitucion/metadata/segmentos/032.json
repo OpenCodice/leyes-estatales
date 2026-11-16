@@ -1,0 +1,54 @@
+{
+  "clave": "032",
+  "etiqueta": "Artículo 32",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "032.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › párrafo 1",
+      "texto": "Los partidos políticos son entidades de interés público, la ley determinará los requisitos para su registro legal, las formas específicas de su intervención en los procesos electorales, así como sus derechos, obligaciones y prerrogativas:"
+    },
+    {
+      "id": "032.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › 1.",
+      "texto": "1. Sólo los ciudadanos podrán afiliarse de manera libre e individual;"
+    },
+    {
+      "id": "032.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › 2.",
+      "texto": "2. Queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa a ellos;"
+    },
+    {
+      "id": "032.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › 3.",
+      "texto": "3. A petición de los partidos políticos y con cargo a sus prerrogativas, en los términos que establezca la ley, el Instituto Nacional Electoral podrá organizar la elección de sus dirigentes; y,"
+    },
+    {
+      "id": "032.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › 4.",
+      "texto": "4. Las autoridades electorales sólo podrán intervenir en los asuntos internos de los partidos políticos en los términos que disponga la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes electorales."
+    }
+  ]
+}

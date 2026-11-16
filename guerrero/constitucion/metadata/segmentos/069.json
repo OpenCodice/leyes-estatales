@@ -1,0 +1,63 @@
+{
+  "clave": "069",
+  "etiqueta": "Artículo 69",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "069.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 1",
+      "texto": "La Comisión Permanente, se sujetará a lo siguiente:"
+    },
+    {
+      "id": "069.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción I",
+      "texto": "I. Funcionará en los períodos de receso del Congreso;\n\n(REFORMADA, P.O. EDICIÓN 51 ALCANCE I, VIERNES 27 DE JUNIO DE 2025) DECRETO 828"
+    },
+    {
+      "id": "069.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción II",
+      "texto": "II. Será electa por el voto de las dos terceras partes de las Diputadas y los Diputados presentes;"
+    },
+    {
+      "id": "069.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción III",
+      "texto": "III. Se integrará con un presidente, dos vicepresidentes, dos secretarios y siete vocales. Por cada secretario y vocal propietario se nombrará un suplente;"
+    },
+    {
+      "id": "069.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción IV",
+      "texto": "IV. Se elegirá el penúltimo día de cada período ordinario de sesiones; y,"
+    },
+    {
+      "id": "069.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción V",
+      "texto": "V. En el año de renovación del Congreso funcionará como comisión de instalación de la nueva legislatura."
+    }
+  ]
+}

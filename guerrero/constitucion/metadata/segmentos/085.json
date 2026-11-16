@@ -1,0 +1,36 @@
+{
+  "clave": "085",
+  "etiqueta": "Artículo 85",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "085.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › párrafo 1",
+      "texto": "Ante la ausencia definitiva de la Gobernadora o Gobernador, ocurrida en los dos primeros años del período respectivo, el Congreso se constituirá en colegio electoral para nombrar, por el voto de las dos terceras partes del total de sus miembros, una Gobernadora o Gobernador interino."
+    },
+    {
+      "id": "085.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › párrafo 2",
+      "texto": "El Congreso deberá notificar al Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, para que expida la convocatoria a elecciones, procurando que la fecha señalada coincida, si es posible, con la de las próximas elecciones a Diputados."
+    },
+    {
+      "id": "085.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › párrafo 3",
+      "texto": "Cuando la ausencia de la Gobernadora o Gobernador ocurra dentro de los cuatro últimos años del período respectivo, el Congreso designará, por el voto de las dos terceras partes del número total de sus miembros, una Gobernadora o Gobernador sustituto, que deberá concluir el período."
+    }
+  ]
+}

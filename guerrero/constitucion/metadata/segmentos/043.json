@@ -1,0 +1,27 @@
+{
+  "clave": "043",
+  "etiqueta": "Artículo 43",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "043.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 1",
+      "texto": "El Poder Legislativo se deposita en un órgano denominado Congreso del Estado integrado por representantes populares denominados diputadas o diputados, se renovará en su totalidad cada tres años y funcionará a través de la Legislatura correspondiente."
+    },
+    {
+      "id": "043.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 2",
+      "texto": "Residirá en la capital del Estado, pero por acuerdo de las dos terceras partes de sus integrantes podrá cambiar provisionalmente su sede."
+    }
+  ]
+}

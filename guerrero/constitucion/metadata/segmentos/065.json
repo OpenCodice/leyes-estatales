@@ -1,0 +1,90 @@
+{
+  "clave": "065",
+  "etiqueta": "Artículo 65",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "065.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › párrafo 1",
+      "texto": "El derecho de iniciar leyes o decretos compete:"
+    },
+    {
+      "id": "065.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › párrafo 2",
+      "texto": "(REFORMADO, P.O. EDICIÓN 51 ALCANCE I, VIERNES 27 DE JUNIO DE 2025) DECRETO 828"
+    },
+    {
+      "id": "065.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › Fracción I",
+      "texto": "I. A las Diputadas y los Diputados del Congreso del Estado;\n\n(REFORMADO, P.O. EDICIÓN 51 ALCANCE I, VIERNES 27 DE JUNIO DE 2025) DECRETO 828"
+    },
+    {
+      "id": "065.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › Fracción II",
+      "texto": "II. A la Gobernadora o Gobernador del Estado quien, además, podrá presentar durante el transcurso de los diez primeros días de inicio de cada periodo ordinario de sesiones hasta dos iniciativas de ley o decreto con el carácter de preferente o señalar, con tal carácter, hasta dos que hubiere presentado en los periodos anteriores, las cuales seguirán el trámite en Comisiones y deberán ser votadas en el Pleno antes de que concluya el periodo respectivo."
+    },
+    {
+      "id": "065.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › Fracción III",
+      "texto": "III. No podrán tener carácter preferente las iniciativas de adición o reforma a esta Constitución."
+    },
+    {
+      "id": "065.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › Fracción IV",
+      "texto": "IV. Al Tribunal Superior de Justicia, en lo relacionado con la Ley Orgánica del Poder Judicial;"
+    },
+    {
+      "id": "065.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › Fracción V",
+      "texto": "V. A los Ayuntamientos, en el ámbito de su competencia;"
+    },
+    {
+      "id": "065.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › Fracción VI",
+      "texto": "VI. A los Órganos Autónomos, en lo relativo a su Ley Orgánica; y,"
+    },
+    {
+      "id": "065.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › Fracción VII",
+      "texto": "VII. A los ciudadanos del Estado, mediante iniciativa popular, con excepción de las materias penal y tributaria, en los términos que establezca la ley."
+    }
+  ]
+}

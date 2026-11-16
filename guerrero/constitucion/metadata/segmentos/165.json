@@ -1,0 +1,45 @@
+{
+  "clave": "165",
+  "etiqueta": "Artículo 165",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "165.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 165 › párrafo 1",
+      "texto": "El Instituto de la Defensoría Pública del Estado de Guerrero estará a cargo de una persona denominada Defensora o Defensor General, nombrado por el Órgano de Administración Judicial."
+    },
+    {
+      "id": "165.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 165 › 1.",
+      "texto": "1. El Instituto de la Defensoría Pública del Estado de Guerrero contará con un Consejo Consultivo de carácter honorífico, nombrados en el número y competencias, conforme lo prescriba la Ley Orgánica del Poder Judicial;"
+    },
+    {
+      "id": "165.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 165 › párrafo 2",
+      "texto": "(REFORMADO, P.O. EDICIÓN 68 ALCANCE II, DE FECHA MARTES 26 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "165.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 165 › 2.",
+      "texto": "2. El Instituto de la Defensoría Pública del Estado de Guerrero tendrá las defensoras y defensores públicos, asesoras y asesores jurídicos, así como el personal jurídico y administrativo necesarios para el adecuado cumplimiento de sus funciones, de conformidad con lo dispuesto en la Ley Orgánica del Poder Judicial del Estado, en el Estatuto y en el Reglamento Interior del Instituto."
+    }
+  ]
+}

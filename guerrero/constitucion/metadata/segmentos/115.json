@@ -1,0 +1,27 @@
+{
+  "clave": "115",
+  "etiqueta": "Artículo 115",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "115.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 115 › párrafo 1",
+      "texto": "La ley establecerá los derechos y obligaciones de los integrantes de los Órganos Autónomos."
+    },
+    {
+      "id": "115.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 115 › párrafo 2",
+      "texto": "Los órganos colegiados garantizarán los siguientes derechos de sus integrantes: a participar en la deliberación y votación de los asuntos; la igualdad en el valor de su voto, salvo cuando se establezca el voto de calidad en caso de empate; e igualmente, el derecho a postularse y elegir a su titular o presidente."
+    }
+  ]
+}

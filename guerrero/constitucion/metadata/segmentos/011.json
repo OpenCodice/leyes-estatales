@@ -1,0 +1,198 @@
+{
+  "clave": "011",
+  "etiqueta": "Artículo 11",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "011.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › párrafo 1",
+      "texto": "Se reconoce a los pueblos y comunidades indígenas y afromexicanas, como sujetos de derecho público con personalidad jurídica y patrimonio propio."
+    },
+    {
+      "id": "011.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › 1.",
+      "texto": "1. Se reconocen como derechos de los pueblos y comunidades indígenas y afromexicanas:"
+    },
+    {
+      "id": "011.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción I",
+      "texto": "I. De acuerdo con la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, las leyes de la materia y conforme a sus sistemas normativos, decidir sus formas internas de gobierno, convivencia y de organización social, económica, política y cultural;"
+    },
+    {
+      "id": "011.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción II",
+      "texto": "II. Aplicar y desarrollar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, las leyes de la materia, el respeto a los derechos humanos y de manera relevante la dignidad e integridad de las mujeres y la niñez. La ley establecerá los casos y procedimientos de validación por las juezas, jueces o tribunales correspondientes.\n\nLa jurisdicción indígena se ejercerá por las autoridades comunitarias de acuerdo con los sistemas normativos de los pueblos y comunidades indígenas, dentro del marco del orden jurídico vigente, en los términos de esta Constitución y leyes aplicables;"
+    },
+    {
+      "id": "011.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción III",
+      "texto": "III. Elegir, de acuerdo con sus sistemas normativos a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas disfrutarán y ejercerán su derecho de votar y ser votados en condiciones de igualdad; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados, en un marco que respete el pacto federal y la soberanía del Estado. En ningún caso, sus sistemas normativos limitarán los derechos político- electorales de las y los ciudadanos en la elección de sus autoridades municipales;"
+    },
+    {
+      "id": "011.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción IV",
+      "texto": "IV. Acceder al uso y disfrute colectivo de sus tierras, territorios y recursos naturales en la forma y con las modalidades prescritas en la Constitución Política de los Estados Unidos Mexicanos, sin que puedan ser objeto de despojo alguno, o de explotación mediante entidades públicas o privadas ajenas a los mismos sin la consulta y el consentimiento previo, libre e informado de la comunidad. En caso de consentimiento, tendrán derecho a una parte de los beneficios y productos de esas actividades;"
+    },
+    {
+      "id": "011.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción V",
+      "texto": "V. Preservar, proteger, desarrollar su patrimonio cultural, material e inmaterial que comprende enriquecer sus lenguas, conocimientos y todos los elementos que constituyen su cultura e identidad; y, se reconoce la propiedad intelectual colectiva respecto de dicho patrimonio, en los términos que dispongan las leyes;"
+    },
+    {
+      "id": "011.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción VI",
+      "texto": "VI. Promover el uso, desarrollo, preservación, estudio y difusión de las lenguas indígenas como un elemento constitutivo de la diversidad cultural de la Entidad, así como una política lingüística, multilingüe que permita su uso en los espacios públicos y en los privados que correspondan;"
+    },
+    {
+      "id": "011.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción VII",
+      "texto": "VII. Desarrollar, practicar, fortalecer y promover la medicina tradicional, así como la partería para la atención del embarazo, parto y puerperio. Se reconoce a las personas que las ejercen, incluidos sus saberes y prácticas de salud;"
+    },
+    {
+      "id": "011.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción VIII",
+      "texto": "VIII. Conservar y mejorar el hábitat, y preservar la bioculturalidad y la integridad de sus tierras, incluidos sus lugares sagrados declarados por la autoridad competente, de conformidad con las disposiciones jurídicas aplicables en la materia;"
+    },
+    {
+      "id": "011.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción IX",
+      "texto": "IX. De acuerdo a esta Constitución y a las leyes de la materia, elegir en los municipios con población indígena, representantes ante los ayuntamientos, de acuerdo con los principios de paridad de género y pluriculturalidad con el propósito de fortalecer su participación y representación política;"
+    },
+    {
+      "id": "011.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción X",
+      "texto": "X. Acceder plenamente a la jurisdicción del Estado, en todos los procedimientos se tomarán en consideración sus sistemas normativos y especificidades culturales, bajo la asistencia de personas intérpretes, traductoras, defensoras y peritas especializadas en derechos indígenas, pluralismo jurídico, perspectiva de género, diversidad cultural y lingüística;"
+    },
+    {
+      "id": "011.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción XI",
+      "texto": "XI. Ejercer al desarrollo integral con base en sus formas de organización económica, social y cultural, con respeto a la integridad del medio ambiente y recursos naturales en términos de las disposiciones jurídicas aplicables, y"
+    },
+    {
+      "id": "011.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción XII",
+      "texto": "XII. Ser consultados sobre las medidas legislativas o administrativas que se pretendan adoptar, cuando estas puedan causar afectaciones o impactos significativos en su vida o entorno, con la finalidad de obtener su consentimiento o, en su caso, llegar a un acuerdo sobre tales medidas.\n\nLas consultas se realizarán de conformidad con los principios de previa, libre, informada, culturalmente adecuada y de buena fe, de acuerdo a las normas que garanticen el respeto y el ejercicio efectivo de los derechos sustantivos de los pueblos indígenas y afromexicanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y esta Constitución.\n\nCuando la medida administrativa que pretenda adoptar una autoridad y ésta beneficie a un particular, el procedimiento de consulta será ejecutado por la autoridad correspondiente y el costo de la misma será con cargo al particular.\n\nLa persona física o moral que obtenga un lucro por las medidas administrativas objeto de consulta debe otorgar a los pueblos y comunidades indígenas y afromexicanas un beneficio justo y equitativo, en los términos que establezcan las leyes aplicables.\n\nLa ley de la materia regulará los términos, condiciones y procedimientos para llevar a cabo la impugnación."
+    },
+    {
+      "id": "011.XII.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "XII",
+      "ruta": "Artículo 11 › Fracción XII › 2.",
+      "texto": "2. Los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, además de los derechos señalados en el numeral anterior de este artículo, a fin de garantizar su desarrollo e inclusión social, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes de la materia, se les reconoce el derecho a:"
+    },
+    {
+      "id": "011.I~2",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción I",
+      "texto": "I. La protección de su identidad cultural, modos de vida, expresiones espirituales y de todos los elementos que integran su patrimonio cultural, material e inmaterial y su propiedad intelectual colectiva;"
+    },
+    {
+      "id": "011.II~2",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción II",
+      "texto": "II. La promoción, reconocimiento y protección de sus conocimientos, aportes y contribuciones en la historia nacional y a la diversidad cultural de la Nación y del Estado de Guerrero, debiendo quedar insertas en las modalidades y niveles del Sistema Educativo Nacional, y"
+    },
+    {
+      "id": "011.III~2",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción III",
+      "texto": "III. Ser incluidos en la producción y registros de datos, información, estadísticas, censos y encuestas oficiales, para lo cual las instituciones competentes establecerán los procedimientos, métodos y criterios para inscribir su identidad y autoadscripción."
+    },
+    {
+      "id": "011.III.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 11 › Fracción III › 3.",
+      "texto": "3. Esta Constitución reconoce y el Estado garantiza el derecho de las mujeres indígenas y afromexicanas a participar de manera efectiva y en condiciones de igualdad y equidad en los procesos de desarrollo integral de sus pueblos y comunidades; en la toma de decisiones de carácter público; en la promoción y respeto de sus derechos de acceso a la educación, a la salud, a la propiedad y a la posesión de la tierra y demás derechos humanos."
+    },
+    {
+      "id": "011.III.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 11 › Fracción III › 4.",
+      "texto": "4. Se reconoce y garantiza el derecho de la niñez, adolescentes y juventudes indígenas y afromexicanas a ser atendidas, en sus propias lenguas, para hacer efectivo el conocimiento y ejercicio pleno de sus derechos de acceso a la educación, a la salud, a la tecnología, al arte, la cultura, el deporte y la capacitación para el trabajo, entre otros."
+    },
+    {
+      "id": "011.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › párrafo 2",
+      "texto": "Así mismo, para garantizar una vida libre de exclusión, discriminación y violencia, en especial de la violencia sexual y de género, con visión de respeto a sus identidades culturales."
+    }
+  ]
+}

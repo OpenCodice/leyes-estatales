@@ -1,0 +1,63 @@
+{
+  "clave": "143",
+  "etiqueta": "Artículo 143",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "143.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 143 › párrafo 1",
+      "texto": "Los Órganos con Autonomía técnica son instituciones adscritas y dependientes de los Poderes del Estado, tienen la finalidad de coadyuvar con ellos en el adecuado desempeño de las funciones de su competencia."
+    },
+    {
+      "id": "143.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 143 › 1.",
+      "texto": "1. Los Órganos con Autonomía técnica tendrán a su cargo:"
+    },
+    {
+      "id": "143.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 143 › Fracción I",
+      "texto": "I. El ejercicio de la función de fiscalización superior, competencia del Poder Legislativo;"
+    },
+    {
+      "id": "143.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 143 › Fracción II",
+      "texto": "II. La planificación de políticas públicas para el desarrollo del Estado, competencia del Poder Ejecutivo; y, (REFORMADA, P.O. EDICIÓN 68 ALCANCE II, DE FECHA MARTES 26 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "143.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 143 › Fracción III",
+      "texto": "III.- La administración, vigilancia, disciplina y profesionalización de las servidoras y servidores públicos judiciales y los servicios de defensoría pública, competencia del Poder Judicial del Estado."
+    },
+    {
+      "id": "143.III.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 143 › Fracción III › 2.",
+      "texto": "2. Es aplicable a los Órganos con Autonomía técnica lo dispuesto, en lo conducente, en los artículos 105, primer párrafo y numeral 2; 106, fracciones I, III y IV, 107, numerales 2 y 4; 108 y 109 de esta Constitución."
+    }
+  ]
+}

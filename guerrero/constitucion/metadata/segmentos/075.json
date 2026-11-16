@@ -1,0 +1,45 @@
+{
+  "clave": "075",
+  "etiqueta": "Artículo 75",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "075.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › párrafo 1",
+      "texto": "Para ser Gobernadora o Gobernador del Estado se requiere:"
+    },
+    {
+      "id": "075.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción I",
+      "texto": "I. Ser ciudadano mexicano por nacimiento, en ejercicio de sus derechos civiles y políticos;"
+    },
+    {
+      "id": "075.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción II",
+      "texto": "II. Haber nacido en el Estado o tener residencia efectiva en él, no menor a cinco años inmediatamente anteriores al día de la elección; y,"
+    },
+    {
+      "id": "075.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción III",
+      "texto": "III. Tener treinta años de edad cumplidos al día de la elección."
+    }
+  ]
+}

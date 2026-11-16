@@ -1,0 +1,36 @@
+{
+  "clave": "001",
+  "etiqueta": "Artículo 1",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "001.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 1",
+      "texto": "El Estado de Guerrero, forma parte integrante de los Estados Unidos Mexicanos y se constituye en un Estado de derecho democrático y social."
+    },
+    {
+      "id": "001.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 2",
+      "texto": "Es libre y soberano en su régimen interior, sin más limitaciones que las expresamente establecidas en la Constitución Política de los Estados Unidos Mexicanos y en esta Constitución."
+    },
+    {
+      "id": "001.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 3",
+      "texto": "Su soberanía reside esencial y originariamente en el pueblo guerrerense y se ejerce por los órganos que lo representan, de conformidad con lo prescrito en la Constitución Política de los Estados Unidos Mexicanos y la presente Constitución."
+    }
+  ]
+}

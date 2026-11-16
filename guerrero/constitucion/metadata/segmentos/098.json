@@ -1,0 +1,27 @@
+{
+  "clave": "098",
+  "etiqueta": "Artículo 98",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "098.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 1",
+      "texto": "Las magistradas, magistrados, juezas y jueces rendirán la protesta de ley ante el Congreso del Estado, el primero de septiembre del año correspondiente a la elección. Durarán en su encargo nueve años, contados a partir de esa fecha."
+    },
+    {
+      "id": "098.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 2",
+      "texto": "Las magistradas y magistrados podrán ser reelectos por única ocasión para un segundo período igual e improrrogable. Las juezas y jueces podrán ser reelectos de manera consecutiva al concluir cada período, en los términos que establezca la Constitución y la ley."
+    }
+  ]
+}
