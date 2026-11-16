@@ -1,0 +1,45 @@
+{
+  "clave": "067",
+  "etiqueta": "Artículo 67",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "067.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "067.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)"
+    },
+    {
+      "id": "067.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 › párrafo 3",
+      "texto": "Se deposita el ejercicio del Poder Judicial del Estado en el Supremo Tribunal de Justicia, el Órgano de Administración Judicial y el Tribunal de Disciplina Judicial, en los términos que establezca la Ley Orgánica."
+    },
+    {
+      "id": "067.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 › párrafo 4",
+      "texto": "La administración del Poder Judicial del Estado estará a cargo de un Órgano de Administración Judicial, mientras que la vigilancia y disciplina de su personal estará a cargo del Tribunal de Disciplina Judicial, el cual contará con independencia técnica, de gestión y para emitir sus resoluciones."
+    }
+  ]
+}

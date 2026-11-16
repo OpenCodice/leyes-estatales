@@ -1,0 +1,63 @@
+{
+  "clave": "049",
+  "etiqueta": "Artículo 49",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "049.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)"
+    },
+    {
+      "id": "049.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 2",
+      "texto": "Para ser Gobernador o Gobernadora se requiere:"
+    },
+    {
+      "id": "049.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 3",
+      "texto": "(REFORMADA, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "049.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción I",
+      "texto": "I.- Ser ciudadano michoacano en pleno goce de sus derechos;\n\n(REFORMADA, P.O. 10 DE MARZO DE 1977)"
+    },
+    {
+      "id": "049.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción II",
+      "texto": "II.- Haber cumplido treinta años el día de la elección;\n\n(REFORMADA, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "049.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción III",
+      "texto": "III.- Haber nacido en el Estado o tener residencia efectiva no menor de cinco años anteriores al día de la elección."
+    }
+  ]
+}

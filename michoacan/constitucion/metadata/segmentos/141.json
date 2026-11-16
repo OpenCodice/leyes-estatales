@@ -1,0 +1,27 @@
+{
+  "clave": "141",
+  "etiqueta": "Artículo 141",
+  "titulo": "TITULO SEPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "141.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "141.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › párrafo 2",
+      "texto": "El Ejecutivo deberá proceder al establecimiento de escuelas rurales, de artes y oficios y de agricultura."
+    }
+  ]
+}

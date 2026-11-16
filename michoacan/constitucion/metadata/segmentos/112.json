@@ -1,0 +1,45 @@
+{
+  "clave": "112",
+  "etiqueta": "Artículo 112",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "112.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "112.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › párrafo 2",
+      "texto": "Cada Municipio será gobernado por un Ayuntamiento de elección popular directa, que deberá residir en la cabecera que señala la Ley. La competencia que esta Constitución otorga al gobierno municipal se ejercerá de manera exclusiva por el Ayuntamiento y no habrá autoridad intermedia entre éste y el Gobierno del Estado."
+    },
+    {
+      "id": "112.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › párrafo 3",
+      "texto": "(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "112.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › párrafo 4",
+      "texto": "En el caso de que la cabecera del municipio corresponda a una comunidad indígena; esta podrá gobernarse por un Gobierno Comunal, en función del derecho al autogobierno que esta Constitución reconoce y garantiza. El procedimiento para hacer esta transición deberá observar los preceptos de las leyes correspondientes."
+    }
+  ]
+}

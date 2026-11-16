@@ -1,0 +1,27 @@
+{
+  "clave": "033",
+  "etiqueta": "Artículo 33",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "033.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)"
+    },
+    {
+      "id": "033.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › párrafo 2",
+      "texto": "La Gobernadora o Gobernador del Estado asistirá a la apertura de cada año legislativo del Congreso del Estado. A esta sesión deberán asistir el Presidente y los Magistrados del Supremo Tribunal de Justicia."
+    }
+  ]
+}

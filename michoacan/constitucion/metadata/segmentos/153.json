@@ -1,0 +1,27 @@
+{
+  "clave": "153",
+  "etiqueta": "Artículo 153",
+  "titulo": "TITULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "153.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 153 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "153.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 153 › párrafo 2",
+      "texto": "Los funcionarios de elección popular que sin causa justificada y sin la correspondiente licencia faltaren al desempeño de sus funciones, perderán la dotación remuneratoria que disfruten por ellas o por cualquier otro empleo que desempeñen; quedarán suspensos en sus derechos de ciudadanos y no podrán obtener ningún empleo que toque al servicio público. Estas privaciones las sufrirán por el tiempo que dure la omisión y no más."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "125",
+  "etiqueta": "Artículo 125",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "125.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)"
+    },
+    {
+      "id": "125.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › párrafo 2",
+      "texto": "El cargo de Presidente, Síndico y Regidores es obligatorio y sólo podrá renunciarse por causa grave que califique el Ayuntamiento."
+    }
+  ]
+}

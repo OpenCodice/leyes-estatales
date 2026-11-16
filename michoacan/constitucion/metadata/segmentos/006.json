@@ -1,0 +1,45 @@
+{
+  "clave": "006",
+  "etiqueta": "Artículo 6",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "006.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "006.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › párrafo 2",
+      "texto": "Son derechos de los michoacanos:"
+    },
+    {
+      "id": "006.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción I",
+      "texto": "I.- Los que conceda la Constitución Federal a los mexicanos, y"
+    },
+    {
+      "id": "006.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción II",
+      "texto": "II.- Ser preferidos para los empleos, cargos o comisiones de nombramiento de las autoridades y en las concesiones que otorgue el Estado.\n\n(ADICIONADO, P.O. 20 DE ENERO DE 2020)\n\nLa ley determinará las formas y modalidades que correspondan, para garantizar el principio de paridad de género en los nombramientos de las personas titulares de las secretarías de despacho del Poder Ejecutivo Estatal y sus equivalentes en las administraciones municipales. En la integración de los organismos autónomos se observará el mismo principio."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "077",
+  "etiqueta": "Artículo 77",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "077.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)"
+    },
+    {
+      "id": "077.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 2",
+      "texto": "Las magistradas y magistrados, así como las juezas y jueces durarán en el ejercicio de su encargo nueve años; podrán ser reelectos y, si lo fueren, sólo podrán ser privados de sus cargos en los términos que establece esta Constitución y las leyes, y no podrán en ningún caso, aceptar o desempeñar cualquier empleo o encargo de la Federación, entidades federativas, municipios o particulares, salvo las actividades no remuneradas de la academia, docencia, investigación o de beneficencia."
+    }
+  ]
+}

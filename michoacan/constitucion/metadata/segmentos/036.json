@@ -1,0 +1,99 @@
+{
+  "clave": "036",
+  "etiqueta": "Artículo 36",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "036.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › párrafo 1",
+      "texto": "(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "036.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "036.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › párrafo 3",
+      "texto": "El derecho de iniciar leyes corresponde:"
+    },
+    {
+      "id": "036.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › párrafo 4",
+      "texto": "(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)"
+    },
+    {
+      "id": "036.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › Fracción I",
+      "texto": "I. La persona Titular del Ejecutivo del Estado;"
+    },
+    {
+      "id": "036.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › Fracción II",
+      "texto": "II.- A los Diputados;\n\n(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)"
+    },
+    {
+      "id": "036.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › Fracción III",
+      "texto": "III.- Al Supremo Tribunal de Justicia;\n\n(REFORMADA, P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "036.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › Fracción IV",
+      "texto": "IV.- A los Ayuntamientos;\n\n(ADICIONADA, P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "036.IV~2",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › Fracción IV",
+      "texto": "IV.- bis. A los Gobiernos Comunales; y, (ADICIONADA, P.O. 8 DE NOVIEMBRE DEL 2000)"
+    },
+    {
+      "id": "036.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › Fracción V",
+      "texto": "V.- A los ciudadanos michoacanos, de conformidad con los procedimientos y formalidades que establezca la ley de la materia. No podrán ser objeto de iniciativa popular la materia tributaria o fiscal, de Egresos y la regulación interna de los órganos del Estado.\n\n(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)\n\nLas iniciativas presentadas por la persona Titular del Ejecutivo del Estado o por el Supremo Tribunal de Justicia pasarán desde luego a comisión. Las que presentaren los diputados, ayuntamientos o los ciudadanos, se sujetarán a los trámites que señale el reglamento.\n\n(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)\n\nEn caso de que exista una crisis evidente en temas de derechos humanos, la persona Titular del Ejecutivo del Estado podrá presentar en cualquier momento, hasta dos iniciativas preferentes que correspondan a tal problemática, por cada año legislativo. Cada iniciativa con el carácter preferente, deberá ser discutida y votada por el Pleno del Congreso del Estado en un plazo máximo de treinta días naturales."
+    }
+  ]
+}

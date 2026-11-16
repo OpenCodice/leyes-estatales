@@ -1,0 +1,27 @@
+{
+  "clave": "150",
+  "etiqueta": "Artículo 150",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "150.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 150 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "150.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 150 › párrafo 2",
+      "texto": "El Congreso del Estado expedirá todas las leyes relativas a previsión social en consonancia con los preceptos y espíritu de la Constitución General de la República."
+    }
+  ]
+}
