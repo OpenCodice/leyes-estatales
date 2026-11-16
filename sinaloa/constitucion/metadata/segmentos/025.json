@@ -1,0 +1,117 @@
+{
+  "clave": "025",
+  "etiqueta": "Artículo 25",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "025.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 1",
+      "texto": "Para ser Diputada o Diputado se requiere: (Ref. Según Decreto No. 514, publicado en el P.O. No. 097, de fecha 11 de agosto de 2023)."
+    },
+    {
+      "id": "025.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción I",
+      "texto": "I. Ser sinaloense por nacimiento o por vecindad, en términos del artículo 8º de esta Constitución, y en ambos casos estar en pleno ejercicio de sus derechos cívicos. (Ref. Según Decreto No. 146, de fecha 8 de junio del 2017, publicado en el P.O. No. 075 de fecha 12 de junio de 2017)."
+    },
+    {
+      "id": "025.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción II",
+      "texto": "II. Para contender por el sistema de mayoría relativa, es necesario contar con una residencia efectiva en el distrito electoral por el que se postule, de más de seis meses anterior a la fecha de la celebración de la jornada electoral.\n\nCuando un municipio sea cabecera de dos o más distritos electorales, para ser elegible en cualquiera de ellos, la residencia a que se refiere el párrafo anterior bastará con que se tenga en el municipio de que se trate.\n\nPara poder figurar como candidata o candidato en la lista de circunscripción electoral plurinominal, se requerirá ser sinaloense por nacimiento, o por vecindad con una residencia efectiva en el Estado de más de dos años anterior a la fecha de la celebración de la jornada electoral. (Ref. Según Decreto No. 425, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 088, de fecha 24 de julio de 2026.)"
+    },
+    {
+      "id": "025.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción III",
+      "texto": "III. Tener dieciocho años cumplidos el día de la elección; (Ref. Según Decreto No. 514, publicado en el P.O. No. 097, de fecha 11 de agosto de 2023)."
+    },
+    {
+      "id": "025.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción IV",
+      "texto": "IV. No podrán ser electas diputadas y diputados propietarios o suplentes:\n\nla Gobernadora o Gobernador del Estado; las secretarias o secretarios; subsecretarias o subsecretarios y titulares de cualesquiera de las entidades de la Administración Pública Estatal o Paraestatal; las personas titulares de los órganos constitucionales autónomos; las magistradas y magistrados del Supremo Tribunal de Justicia; las juezas y jueces de Primera Instancia; los recaudadores de rentas; las presidentas y presidentes municipales, en los distritos electorales en donde ejerzan sus funciones; las diputadas y diputados; senadoras y senadores al Congreso de la Unión que se encontraren en ejercicio; las personas que tengan o hayan tenido mando de fuerzas de la Federación, Estado o municipios y las ministras o ministros de cualquier culto. Las ciudadanas y ciudadanos antes referidos, con excepción de los ministros de cultos, podrán ser electos, siempre que se separen de sus cargos cuando menos noventa días antes de la elección. (Ref. Según Decreto No. 425, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 088, de fecha 24 de julio de 2026.)"
+    },
+    {
+      "id": "025.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción V",
+      "texto": "V. No podrán ser electas diputadas y diputados propietarios o suplentes:\n\n(Ref. Según Decreto No. 425, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 088, de fecha 24 de julio de 2026.)"
+    },
+    {
+      "id": "025.V.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 25 › Fracción V › inciso a)",
+      "texto": "a) Las personas que aparezcan inscritas en el Registro de Deudores Alimentarios Morosos del Estado de Sinaloa al tiempo en que se solicite el registro de sus candidaturas, salvo que exhiban la documentación con la que hayan acreditado judicialmente el cumplimiento de las obligaciones en mora;"
+    },
+    {
+      "id": "025.V.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 25 › Fracción V › inciso b)",
+      "texto": "b) Las personas condenadas por el delito de violencia política contra las mujeres en razón de género, por delitos contra la familia y/o contra la libertad sexual y su normal desarrollo;"
+    },
+    {
+      "id": "025.V.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 25 › Fracción V › inciso c)",
+      "texto": "c) Las personas que habiendo obtenido su registro como candidatas a algún cargo de elección popular hayan sido sancionadas por las autoridades electorales en el Estado por cometer violencia política contra las mujeres en razón de género; (Ref. Según Decreto No. 72, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 051, de fecha 25 de abril 2025)."
+    },
+    {
+      "id": "025.V.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 25 › Fracción V › inciso d)",
+      "texto": "d) Las personas que habiendo ejercido algún cargo de elección popular o dentro del servicio público hayan sido sancionadas por las autoridades electorales en el Estado por cometer violencia política contra las mujeres en razón de género; y (Ref. Según Decreto No. 72, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 051, de fecha 25 de abril 2025)."
+    },
+    {
+      "id": "025.V.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 25 › Fracción V › inciso e)",
+      "texto": "e) Las personas obligadas y que derivado de su empleo o cargo de mando dentro del servicio público, incumplan con la aplicación del principio de paridad de género. (Adic. Según Decreto No. 72, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 051, de fecha 25 de abril 2025)."
+    },
+    {
+      "id": "025.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción VI",
+      "texto": "VI. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con persona alguna que está ejerciendo la titularidad de una diputación. (Adic. Según Decreto No. 494, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 111, de fecha 16 de septiembre de 2026.)"
+    }
+  ]
+}

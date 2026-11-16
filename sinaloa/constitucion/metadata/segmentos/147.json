@@ -1,0 +1,27 @@
+{
+  "clave": "147",
+  "etiqueta": "Artículo 147",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "147.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 147 › párrafo 1",
+      "texto": "Se prohíben expresamente los sobresueldos, los llamados \"gastos de representación\" y demás obvenciones."
+    },
+    {
+      "id": "147.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 147 › párrafo 2",
+      "texto": "No tendrán efecto alguno los acuerdos o resoluciones que el Congreso del Estado o los Ayuntamientos de la Entidad tomen para otorgar, con cargo al erario público, préstamos personales a sus integrantes. (Adic. según Decreto 359 de fecha 29 de julio de 2003, publicado en el Periódico Oficial No. 010 de fecha 23 de enero de 2004)"
+    }
+  ]
+}

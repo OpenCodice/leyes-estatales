@@ -1,0 +1,27 @@
+{
+  "clave": "148",
+  "etiqueta": "Artículo 148",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "148.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148 › párrafo 1",
+      "texto": "Ninguna licencia con goce de sueldo podrá concederse por más de 15 días."
+    },
+    {
+      "id": "148.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148 › párrafo 2",
+      "texto": "Sólo en los casos de enfermedad debidamente comprobada podrá extenderse hasta por tres meses. Ninguna licencia por motivo alguno, podrá concederse por más de seis meses. (Ref. según Decreto No. 433 de fecha 24 de marzo de 1988, publicado en el Periódico Oficial No. 37, de fecha 25 de marzo de 1988)."
+    }
+  ]
+}

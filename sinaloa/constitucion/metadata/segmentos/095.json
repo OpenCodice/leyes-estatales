@@ -1,0 +1,72 @@
+{
+  "clave": "095",
+  "etiqueta": "Artículo 95",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "095.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › párrafo 1",
+      "texto": "Las Magistradas y Magistrados del Supremo Tribunal de Justicia, sólo podrán ser privados de sus cargos conforme a las causas y con sujeción a los procedimientos previstos en esta Constitución. (Ref. Según Decreto No. 425, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 088, de fecha 24 de julio de 2026.)"
+    },
+    {
+      "id": "095.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › párrafo 2",
+      "texto": "Las Magistradas y Magistrados del Supremo Tribunal de Justicia se retirarán de sus cargos en forma forzosa o voluntaria. (Ref. Según Decreto No. 425, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 088, de fecha 24 de julio de 2026.)"
+    },
+    {
+      "id": "095.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › párrafo 3",
+      "texto": "Son causa de retiro forzoso:"
+    },
+    {
+      "id": "095.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › Fracción I",
+      "texto": "I. Haber cumplido setenta años de edad; (Ref. según Decreto 427 publicado en el P.O. 15 de enero de 2001)"
+    },
+    {
+      "id": "095.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › Fracción II",
+      "texto": "II. Tener treinta años de servicios en el Poder Judicial del Estado, y dentro de éstos, haber ejercido el cargo de Magistrada o Magistrado cuando menos durante diez años; (Ref. Según Decreto No. 425, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 088, de fecha 24 de julio de 2026.)"
+    },
+    {
+      "id": "095.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › Fracción III",
+      "texto": "III. Haber cumplido quince años de servicios como Magistrada o Magistrado del Supremo Tribunal de Justicia; y (Ref. Según Decreto No. 425, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 088, de fecha 24 de julio de 2026.)"
+    },
+    {
+      "id": "095.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › Fracción IV",
+      "texto": "IV. Padecer incapacidad física o mental incurables, incluso cuando ésta fuere parcial o transitoria. (Ref. según Decreto 427 publicado en el P.O. 15 de enero de 2001) La Ley Orgánica del Poder Judicial del Estado fijará las causas del retiro voluntario, los beneficios que tendrá la Magistrada o Magistrado que se retire forzosa o voluntariamente y el procedimiento que deberá seguirse para la formulación del dictamen, el cual se pondrá en conocimiento del Congreso del Estado o de la Diputación Permanente, para los efectos de su aprobación. (Ref. Según Decreto No. 425, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 088, de fecha 24 de julio de 2026.)"
+    }
+  ]
+}

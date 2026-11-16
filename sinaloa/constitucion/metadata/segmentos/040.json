@@ -1,0 +1,45 @@
+{
+  "clave": "040",
+  "etiqueta": "Artículo 40",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "040.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 1",
+      "texto": "El quince de noviembre de cada año, el Ejecutivo del Estado enviará al Congreso del Estado un informe por escrito sobre la situación que guarda la Administración Pública."
+    },
+    {
+      "id": "040.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 2",
+      "texto": "Durante el periodo ordinario de sesiones en que se reciba el informe, el Congreso, conforme a las formalidades que establezca su Ley Orgánica, celebrará reunión de trabajo con la persona Titular del Poder Ejecutivo del Estado y citará a comparecer, bajo protesta de decir verdad, a las y los titulares de la Administración Pública Estatal y Paraestatal, para la valoración y análisis del informe rendido. (Ref. Según Decreto No. 651, de fecha 29 de julio del 2021, publicado en el P.O. No. 094 de fecha 04 de agosto de 2021)."
+    },
+    {
+      "id": "040.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 3",
+      "texto": "El informe estará alineado al Plan Estatal de Desarrollo conforme a los programas de la Administración Pública y el avance del ejercicio fiscal correspondiente con detalle al cierre al mes de septiembre, sin menoscabo de las disposiciones de esta Constitución en materia de cuentas públicas. (Adic. Según Decreto No. 651, de fecha 29 de julio del 2021, publicado en el P.O. No. 094 de fecha 04 de agosto de 2021)."
+    },
+    {
+      "id": "040.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 4",
+      "texto": "En el año que concluya el ejercicio constitucional de gobierno, el informe se enviará al Congreso el cinco de septiembre. (Adic. Según Decreto No. 651, de fecha 29 de julio del 2021, publicado en el P.O. No. 094 de fecha 04 de agosto de 2021)."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "clave": "010",
+  "etiqueta": "Artículo 10",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "010.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 1",
+      "texto": "Son derechos de la ciudadana y el ciudadano sinaloense: (Ref. Según Decreto No. 425, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 088, de fecha 24 de julio de 2026.)"
+    },
+    {
+      "id": "010.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción I",
+      "texto": "I. Votar en las elecciones populares, siempre que estén en pleno ejercicio de sus derechos. (Ref. Según Decreto No. 423, de fecha 31 de marzo de 1992, Periódico Oficial No. 40, 1o. de abril de 1992).\n\nLas ciudadanas y los ciudadanos que residan en el extranjero podrán ejercer su derecho al voto para la elección de Gobernadora o Gobernador, en los términos que disponga la Ley en la materia. (Ref. Según Decreto No. 425, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 088, de fecha 24 de julio de 2026.)"
+    },
+    {
+      "id": "010.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción II",
+      "texto": "II. Poder ser votada y votado en condiciones de paridad de género para todos los cargos de elección popular, teniendo las calidades que establezca la Ley. El derecho de solicitar el registro de candidaturas ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos y ciudadanas que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la ley de la materia. (Ref. Según Decreto No. 425, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 088, de fecha 24 de julio de 2026.)"
+    },
+    {
+      "id": "010.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción III",
+      "texto": "III. Ser preferido en igualdad de circunstancias, a los que no sean ciudadanos sinaloenses en toda clase de empleos, cargos, comisiones y concesiones del Gobierno del Estado y Municipios."
+    },
+    {
+      "id": "010.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción IV",
+      "texto": "IV. Iniciar leyes ante el Congreso del Estado y participar en los mecanismos previstos en esta Constitución relativos a la participación ciudadana a que se convoque en los términos de esta Constitución y la ley reglamentaria. (Ref. Según Decreto No. 332, de fecha 19 de mayo de 2015, publicado en el Periódico Oficial No. 65, de fecha 01 de junio de 2015)."
+    },
+    {
+      "id": "010.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción V",
+      "texto": "V. Participar en los procesos de revocación de mandato. (Adic. Según Decreto No. 138, de fecha 17 de mayo de 2022, publicado en el Periódico Oficial No. 073, de fecha 17 de junio de 2022)."
+    }
+  ]
+}
