@@ -1,0 +1,27 @@
+{
+  "clave": "146",
+  "etiqueta": "Artículo 146",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "146.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 146 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)"
+    },
+    {
+      "id": "146.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 146 › párrafo 2",
+      "texto": "La persona Titular del Ejecutivo vigilará por la seguridad de los obreros haciendo que los patrones adopten las medidas necesarias, a fin de evitar los peligros para su salud o integridad física."
+    }
+  ]
+}

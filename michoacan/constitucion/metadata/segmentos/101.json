@@ -1,0 +1,81 @@
+{
+  "clave": "101",
+  "etiqueta": "Artículo 101",
+  "titulo": "TITULO TERCERO A",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "101.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 13 DE AGOSTO DE 2018)"
+    },
+    {
+      "id": "101.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 2",
+      "texto": "Para ser Fiscal General del Estado se requiere:"
+    },
+    {
+      "id": "101.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › Fracción I",
+      "texto": "I. Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles;"
+    },
+    {
+      "id": "101.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › Fracción II",
+      "texto": "II. Tener cuando menos treinta y cinco años cumplidos;"
+    },
+    {
+      "id": "101.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › Fracción III",
+      "texto": "III. Contar con residencia en el Estado de Michoacán al menos de tres años, el día de su designación;"
+    },
+    {
+      "id": "101.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › Fracción IV",
+      "texto": "IV. Contar al día de su designación con una antigüedad de diez años en el ejercicio de su profesión y tener título profesional de licenciado en derecho expedido por universidad, autoridad o institución legalmente facultada para ello;"
+    },
+    {
+      "id": "101.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › Fracción V",
+      "texto": "V. Gozar de buena reputación; y, (REFORMADA, P.O. 13 DE ABRIL DE 2021)"
+    },
+    {
+      "id": "101.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › Fracción VI",
+      "texto": "VI. No haber sido sentenciado por delito doloso o inhabilitado para ejercer el cargo público."
+    }
+  ]
+}

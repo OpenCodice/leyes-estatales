@@ -1,0 +1,27 @@
+{
+  "clave": "113",
+  "etiqueta": "Artículo 113",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "113.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 113 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "113.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 113 › párrafo 2",
+      "texto": "El Ayuntamiento y en su caso el Gobierno Comunal tendrá personalidad jurídica para todos los efectos legales."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "clave": "149",
+  "etiqueta": "Artículo 149",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "149.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 149 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "149.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 149 › párrafo 2",
+      "texto": "Se establece en el Estado la institución del patrimonio de familia o bien familiar. El Congreso del Estado organizará dicha institución sobre las siguientes bases:"
+    },
+    {
+      "id": "149.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 149 › Fracción I",
+      "texto": "I.- La cuantía de los bienes que formen el patrimonio de familia se fijará atendiendo a las condiciones sociales y económicas del Estado;\n\n(F. DE E., P.O. 18 DE ABRIL DE 1960)"
+    },
+    {
+      "id": "149.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 149 › Fracción II",
+      "texto": "II.- Los bienes que lo constituyan no podrán ser enajenados, gravados o embargados, ni afectos a responsabilidad alguna civil o criminal;"
+    },
+    {
+      "id": "149.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 149 › Fracción III",
+      "texto": "III.- El acto que en cada caso formalice la constitución del patrimonio de familia, estará exento de toda clase de impuestos, derechos y aprovechamientos, y"
+    },
+    {
+      "id": "149.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 149 › Fracción IV",
+      "texto": "IV.- Se simplificarán las formalidades y trámites en los juicios sucesorios que tengan por objeto el bien familiar o patrimonio de familia."
+    }
+  ]
+}

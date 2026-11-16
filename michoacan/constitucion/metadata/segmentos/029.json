@@ -1,0 +1,36 @@
+{
+  "clave": "029",
+  "etiqueta": "Artículo 29",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "029.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29 › párrafo 1",
+      "texto": "(REFORMADA SU DENOMINACIÓN, P.O. 7 DE MARZO DE 2003)"
+    },
+    {
+      "id": "029.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2006) (F. DE E., P.O. 26 DE SEPTIEMBRE DE 2006)"
+    },
+    {
+      "id": "029.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29 › párrafo 3",
+      "texto": "El Congreso se renovará totalmente cada tres años, y se instalará el día quince del mes de septiembre del año en que se celebre la elección ordinaria."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "111",
+  "etiqueta": "Artículo 111",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "111.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "111.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)"
+    },
+    {
+      "id": "111.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 3",
+      "texto": "El Estado adopta como base de su división territorial y de su organización política y administrativa el Municipio Libre. Su funcionamiento se sujetará a las disposiciones de esta Constitución y de la legislación reglamentaria respectiva."
+    }
+  ]
+}

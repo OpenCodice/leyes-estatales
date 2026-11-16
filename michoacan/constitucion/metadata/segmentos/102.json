@@ -1,0 +1,99 @@
+{
+  "clave": "102",
+  "etiqueta": "Artículo 102",
+  "titulo": "TITULO TERCERO A",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "102.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 13 DE AGOSTO DE 2018)"
+    },
+    {
+      "id": "102.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › párrafo 2",
+      "texto": "Para la elección del Fiscal General del Estado, se observará el siguiente procedimiento:"
+    },
+    {
+      "id": "102.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › Fracción I",
+      "texto": "I. El Congreso del Estado emitirá convocatoria pública para ocupar el cargo de Fiscal General del Estado, noventa días antes del término del encargo;\n\n(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)"
+    },
+    {
+      "id": "102.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › Fracción II",
+      "texto": "II. De entre los concurrentes a esa convocatoria, que cumplan todos los requisitos, elegirá diez propuestos en una lista que enviará la persona Titular del Ejecutivo del Estado;\n\n(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)"
+    },
+    {
+      "id": "102.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › Fracción III",
+      "texto": "III. La Gobernadora o Gobernador del Estado contará hasta con diez días a partir de la recepción de las propuestas, para formar una terna, misma que remitirá al Congreso del Estado;"
+    },
+    {
+      "id": "102.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › Fracción IV",
+      "texto": "IV. El Congreso del Estado deberá, de entre la terna propuesta elegir a quien será Fiscal General del Estado por el voto de las dos terceras partes de sus integrantes;"
+    },
+    {
+      "id": "102.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › Fracción V",
+      "texto": "V. De no enviarse la terna dentro del plazo de diez días el Congreso del Estado integrará la terna correspondiente;\n\n(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)"
+    },
+    {
+      "id": "102.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › Fracción VI",
+      "texto": "VI. De no lograr la votación requerida para elegir de entre los propuestos integrantes de la terna hasta en dos ocasiones, se solicitará a la persona Titular del Ejecutivo del Estado la integración de una nueva terna, que será integrada por personas de la lista inicial;"
+    },
+    {
+      "id": "102.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › Fracción VII",
+      "texto": "VII. El Fiscal General del Estado tomará protesta ante el Congreso; y,"
+    },
+    {
+      "id": "102.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › Fracción VIII",
+      "texto": "VIII. Las ausencias del Fiscal General del Estado serán suplidas en los términos que determina la Ley."
+    }
+  ]
+}

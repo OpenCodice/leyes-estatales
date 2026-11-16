@@ -1,0 +1,36 @@
+{
+  "clave": "137",
+  "etiqueta": "Artículo 137",
+  "titulo": "TITULO SEPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "137.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "137.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)"
+    },
+    {
+      "id": "137.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › párrafo 3",
+      "texto": "La educación pública dependerá directamente de la persona Titular del Ejecutivo del Estado, quien cuidará de fomentarla por todos los medios posibles."
+    }
+  ]
+}

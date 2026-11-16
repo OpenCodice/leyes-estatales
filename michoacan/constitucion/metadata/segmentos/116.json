@@ -1,0 +1,36 @@
+{
+  "clave": "116",
+  "etiqueta": "Artículo 116",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "116.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 25 DE JUNIO DE 2014)"
+    },
+    {
+      "id": "116.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › párrafo 2",
+      "texto": "Los Presidentes Municipales, Síndicos y Regidores de los Ayuntamientos electos directa o indirectamente que desempeñen las funciones propias de esos cargos, cualquiera que sea la denominación que se les dé, podrán ser reelectos para el período inmediato."
+    },
+    {
+      "id": "116.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › párrafo 3",
+      "texto": "Los funcionarios antes mencionados, cuando teniendo el carácter de suplentes, hayan ejercido el cargo de propietarios, se les contabilizará como un período. Lo anterior, también será aplicable a las autoridades electas por los sistemas normativos y de gobierno interno de las comunidades indígenas."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "156",
+  "etiqueta": "Artículo 156",
+  "titulo": "TITULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "156.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 156 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 27 DE DICIEMBRE DE 1965)"
+    },
+    {
+      "id": "156.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 156 › párrafo 2",
+      "texto": "Todos los funcionarios de elección popular, a excepción de aquellos cuyo cargo es consejil, recibirán una compensación por sus servicios, que será determinada por la Ley y pagada por los fondos públicos. Esta compensación no es renunciable."
+    }
+  ]
+}

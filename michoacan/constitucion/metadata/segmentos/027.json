@@ -1,0 +1,36 @@
+{
+  "clave": "027",
+  "etiqueta": "Artículo 27",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "027.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 24 DE JULIO DE 2018)"
+    },
+    {
+      "id": "027.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 2",
+      "texto": "Los diputados no podrán ser reconvenidos ni serán sujetos de responsabilidad por las opiniones, propuestas legislativas o votos que emitan en el ejercicio de su encargo."
+    },
+    {
+      "id": "027.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 3",
+      "texto": "El Presidente del Congreso velará por la inviolabilidad del recinto en donde se reúnan a sesionar. Toda fuerza pública está impedida de tener acceso al Recinto Legislativo, salvo con permiso del Presidente del Congreso, bajo cuyo mando quedará la seguridad del mismo."
+    }
+  ]
+}

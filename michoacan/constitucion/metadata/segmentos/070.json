@@ -1,0 +1,36 @@
+{
+  "clave": "070",
+  "etiqueta": "Artículo 70",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "070.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 1",
+      "texto": "(ADICIONADA, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "070.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 13 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "070.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 3",
+      "texto": "La facultad de aplicar e interpretar las leyes reside exclusivamente en el Poder Judicial, en el Tribunal Electoral y en el Tribunal en materia Anticorrupción y Administrativa, en el ámbito de su competencia y ninguna otra autoridad podrá avocarse al conocimiento de causas pendientes, ni mandar abrir los juicios fenecidos."
+    }
+  ]
+}

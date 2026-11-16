@@ -1,0 +1,54 @@
+{
+  "clave": "154",
+  "etiqueta": "Artículo 154",
+  "titulo": "TITULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "154.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 23 DE MAYO DE 2006)"
+    },
+    {
+      "id": "154.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154 › párrafo 2",
+      "texto": "Todo cargo de elección popular es incompatible con el ejercicio de cualquier otro empleo del Estado en que se disfrute sueldo, excepción hecha de los de instrucción y beneficencia, si no es que para desempeñarlo se obtenga licencia del Congreso."
+    },
+    {
+      "id": "154.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 13 DE AGOSTO DE 2018)"
+    },
+    {
+      "id": "154.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154 › párrafo 4",
+      "texto": "Hay también incompatibilidad en el Fiscal General del Estado y los individuos del Poder Judicial para servir durante su encargo como abogados, procuradores, árbitros o asesores, si no es en negocios propios o de su familia."
+    },
+    {
+      "id": "154.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154 › párrafo 5",
+      "texto": "La infracción a lo prevenido en este artículo y en los demás que tratan de las prohibiciones impuestas a los funcionarios públicos, será causa de responsabilidad que castigarán las leyes."
+    }
+  ]
+}

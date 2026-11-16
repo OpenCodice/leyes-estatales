@@ -1,0 +1,27 @@
+{
+  "clave": "140",
+  "etiqueta": "Artículo 140",
+  "titulo": "TITULO SEPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "140.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 140 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 3 DE ENERO DE 1994)"
+    },
+    {
+      "id": "140.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 140 › párrafo 2",
+      "texto": "Los particulares podrán impartir educación en todos sus tipos y modalidades, sujetos a lo previsto por la fracción VI del artículo 3o. de la Constitución General de la República."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "clave": "160",
+  "etiqueta": "Artículo 160",
+  "titulo": "TITULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "160.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 160 › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 25 DE SEPTIEMBRE DE 1980)"
+    },
+    {
+      "id": "160.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 160 › párrafo 2",
+      "texto": "En el caso de la fracción V del artículo 76 de la Constitución Federal, asumirá el Poder Ejecutivo cualquiera de los funcionarios siguientes por el orden de designación:"
+    },
+    {
+      "id": "160.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 160 › párrafo 3",
+      "texto": "(REFORMADA, P.O. 7 DE MARZO DE 2003)"
+    },
+    {
+      "id": "160.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 160 › Fracción I",
+      "texto": "I.- El Presidente de la última Legislatura.\n\n(REFORMADA, P.O. 25 DE JUNIO DE 2013)"
+    },
+    {
+      "id": "160.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 160 › Fracción II",
+      "texto": "II.- El Secretario de Gobierno, o el Secretario de Finanzas, conforme a los artículos 57 y 61, fracción VI, de esta Constitución;\n\n(REFORMADA, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "160.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 160 › Fracción III",
+      "texto": "III.- El último Presidente del Supremo Tribunal de Justicia.\n\n(REFORMADO, P.O. 1 DE FEBRERO DE 1960)\n\nLa persona que asuma el Poder Ejecutivo convocará desde luego a elecciones, sujetándose en lo posible a la forma y términos prescritos por esta Constitución."
+    }
+  ]
+}

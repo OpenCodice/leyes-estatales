@@ -1,0 +1,27 @@
+{
+  "clave": "151",
+  "etiqueta": "Artículo 151",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "151.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 151 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "151.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 151 › párrafo 2",
+      "texto": "Todas las leyes relativas a previsión social se considerarán de orden público, y sus preceptos no serán renunciables, a menos de que en ellas mismas se indique que lo pueden ser."
+    }
+  ]
+}

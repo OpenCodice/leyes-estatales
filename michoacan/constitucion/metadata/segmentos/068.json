@@ -1,0 +1,54 @@
+{
+  "clave": "068",
+  "etiqueta": "Artículo 68",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "068.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 23 DE MAYO DE 2006)"
+    },
+    {
+      "id": "068.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 2",
+      "texto": "La independencia económica del Poder Judicial la garantizará el Congreso del Estado, asignándole un presupuesto suficiente para el adecuado cumplimiento de sus funciones."
+    },
+    {
+      "id": "068.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 3",
+      "texto": "La independencia de los magistrados y jueces en el ejercicio de sus funciones está garantizada por esta Constitución, la Ley Orgánica y demás ordenamientos jurídicos aplicables."
+    },
+    {
+      "id": "068.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 4",
+      "texto": "(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2024)"
+    },
+    {
+      "id": "068.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 5",
+      "texto": "Las magistradas y magistrados, juezas y jueces, y demás personal del Poder Judicial del Estado, percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser mayor a la establecida para la persona titular de la Presidencia de la República en el presupuesto correspondiente y no será disminuida durante su encargo. En el ámbito del Poder Judicial, no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la Ley."
+    }
+  ]
+}

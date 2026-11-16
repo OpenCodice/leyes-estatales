@@ -1,0 +1,27 @@
+{
+  "clave": "009",
+  "etiqueta": "Artículo 9",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "009.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "009.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › párrafo 2",
+      "texto": "Son obligaciones de los ciudadanos, desempeñar los cargos de elección popular del Estado y del Municipio, para los que fueren designados, y las contenidas en el artículo 36 de la Carta Fundamental del país."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "039",
+  "etiqueta": "Artículo 39",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "039.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)"
+    },
+    {
+      "id": "039.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 2",
+      "texto": "Siempre que concurra la Gobernadora o Gobernador del Estado, o la Presidenta o Presidente del Supremo Tribunal de Justicia o los representantes de ambos para apoyar sus opiniones, tendrán voz en las discusiones pero no voto."
+    }
+  ]
+}
