@@ -1,0 +1,99 @@
+{
+  "clave": "012",
+  "etiqueta": "Artículo 12º",
+  "titulo": "",
+  "capitulo": "CAPITULO CUARTO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "012.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE MARZO DE 2025)"
+    },
+    {
+      "id": "012.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › párrafo 2",
+      "texto": "Son derechos de la ciudadanía del Estado:"
+    },
+    {
+      "id": "012.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › párrafo 3",
+      "texto": "(REFORMADA, P.O. 8 DE JULIO DE 1973)"
+    },
+    {
+      "id": "012.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Fracción I",
+      "texto": "I.- Votar en las elecciones populares, si son ciudadanos mexicanos en ejercicio de sus derechos y tienen una residencia en el Estado no menor de seis meses;\n\n(REFORMADA, P.O. 2 DE JULIO DE 2026)"
+    },
+    {
+      "id": "012.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Fracción II",
+      "texto": "II.- Ser votada en condiciones de paridad para todos los cargos de elección popular teniendo las calidades que establezca la ley.\n\nPara el ejercicio de este derecho, las personas candidatas deberán cumplir con los requisitos previstos en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en la legislación electoral aplicable.\n\nEn ningún caso podrá ser registrada como candidata una persona que:"
+    },
+    {
+      "id": "012.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 12º › Fracción II › inciso a)",
+      "texto": "a) Haya ejercido el cargo para el que se postula en el periodo inmediato anterior, en los casos en que la Constitución Política de los Estados Unidos Mexicanos prohíba la reelección consecutiva; o"
+    },
+    {
+      "id": "012.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 12º › Fracción II › inciso b)",
+      "texto": "b) Tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio, concubinato, unión de hecho, o parentesco por consanguinidad o civil en línea recta sin limitación de grado, en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula.\n\nEl derecho de solicitar el registro de candidatos y candidatas ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos y las ciudadanas que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;\n\nCuando se trate de personas candidatas para el cargo de Titular de una Magistratura del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial de Aguascalientes, así como de personas juzgadoras del Poder Judicial del Estado de Aguascalientes, corresponderá a los Poderes del Estado remitir las postulaciones para esos cargos al Instituto Estatal Electoral, conforme lo establecido en el artículo 54 de esta Constitución y las leyes correspondientes.\n\nLos ciudadanos que residan en el extranjero, podrán ejercer su derecho al voto en la elección de Gobernador en los términos que disponga la ley;\n\n(REFORMADA, P.O. 10 DE MARZO DE 2025)"
+    },
+    {
+      "id": "012.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Fracción III",
+      "texto": "III.- Asociarse libremente y de forma pacífica para constituir partidos políticos locales o asociaciones políticas locales;\n\n(REFORMADA, P.O. 10 DE MARZO DE 2025)"
+    },
+    {
+      "id": "012.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Fracción IV",
+      "texto": "IV.- Hacer uso de los instrumentos de participación ciudadana, previstos en la ley de la materia; y\n\n(ADICIONADA, P.O. 10 DE MARZO DE 2025)"
+    },
+    {
+      "id": "012.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Fracción V",
+      "texto": "V.- Poder ser nombrada para cualquier empleo o comisión de la Administración Pública Estatal y Municipal, teniendo las calidades que establezca la ley."
+    }
+  ]
+}

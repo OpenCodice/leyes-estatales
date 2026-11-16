@@ -1,0 +1,36 @@
+{
+  "clave": "010",
+  "etiqueta": "Artículo 10º",
+  "titulo": "",
+  "capitulo": "CAPITULO TERCERO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "010.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 28 DE JULIO DE 2014)"
+    },
+    {
+      "id": "010.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10º › párrafo 2",
+      "texto": "La ley que en materia municipal expida el Congreso del Estado determinará los requisitos necesarios para la creación de Municipios."
+    },
+    {
+      "id": "010.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10º › párrafo 3",
+      "texto": "(REFORMADO, P.O. 13 DE AGOSTO DE 1950)"
+    }
+  ]
+}

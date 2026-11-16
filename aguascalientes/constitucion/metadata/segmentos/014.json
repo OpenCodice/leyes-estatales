@@ -1,0 +1,36 @@
+{
+  "clave": "014",
+  "etiqueta": "Artículo 14º",
+  "titulo": "",
+  "capitulo": "CAPITULO QUINTO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "014.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 13 DE AGOSTO DE 1950)"
+    },
+    {
+      "id": "014.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14º › párrafo 2",
+      "texto": "El Supremo Poder del Estado se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial. Nunca podrán reunirse dos o más de estos Poderes en un sólo individuo o corporación, ni depositarse el Legislativo en una persona."
+    },
+    {
+      "id": "014.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14º › párrafo 3",
+      "texto": "(REFORMADO, P.O. 13 DE AGOSTO DE 1950)"
+    }
+  ]
+}

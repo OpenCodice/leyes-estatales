@@ -1,0 +1,27 @@
+{
+  "clave": "005",
+  "etiqueta": "Artículo 5º",
+  "titulo": "",
+  "capitulo": "CAPITULO PRIMERO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "005.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 13 DE AGOSTO DE 1950)"
+    },
+    {
+      "id": "005.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5º › párrafo 2",
+      "texto": "La propiedad privada se respetará y garantizará en el Estado, con las modalidades que a su ejercicio, como función social, le impongan las leyes."
+    }
+  ]
+}

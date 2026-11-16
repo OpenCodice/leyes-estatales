@@ -1,0 +1,45 @@
+{
+  "clave": "050-c",
+  "etiqueta": "Artículo 50º C",
+  "titulo": "",
+  "capitulo": "CAPITULO UNDECIMO A",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "050-c.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º C › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)"
+    },
+    {
+      "id": "050-c.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º C › párrafo 2",
+      "texto": "El Tribunal de Justicia Administrativa funcionará en Pleno y en Salas unipersonales. La ley de la materia establecerá su organización, funcionamiento, procedimientos y recursos contra sus resoluciones."
+    },
+    {
+      "id": "050-c.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º C › párrafo 3",
+      "texto": "La ley contemplará los casos en que procedan mecanismos de mediación para la solución de conflictos administrativos, así como medidas cautelares cuando sea procedente."
+    },
+    {
+      "id": "050-c.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º C › párrafo 4",
+      "texto": "(REFORMADO, P.O. 13 DE AGOSTO DE 1950)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "044",
+  "etiqueta": "Artículo 44º",
+  "titulo": "",
+  "capitulo": "CAPITULO DECIMO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "044.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 28 DE JULIO DE 2014)"
+    },
+    {
+      "id": "044.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44º › párrafo 2",
+      "texto": "Si al comenzar un período constitucional no se presentase el Gobernador electo, o la elección no estuviere hecha y declarada el primero de octubre, cesará, sin embargo, el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador Interino, el ciudadano que designe el Congreso, o en su receso, con el carácter de Provisional, el que designe la Diputación Permanente, observándose lo dispuesto en los Artículos 42 y 43 de esta Constitución."
+    }
+  ]
+}

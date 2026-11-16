@@ -1,0 +1,27 @@
+{
+  "clave": "028",
+  "etiqueta": "Artículo 28º",
+  "titulo": "",
+  "capitulo": "CAPITULO OCTAVO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "028.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 24 DE JULIO DE 1994)"
+    },
+    {
+      "id": "028.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28º › párrafo 2",
+      "texto": "Durante el receso del Congreso funcionará una Diputación Permanente, integrada por cinco Diputados con el carácter de propietarios y tres como suplentes, nombrados la víspera de la clausura de los períodos ordinarios de sesiones, en la forma y términos que fije la Ley que regula su estructura y funcionamiento interno."
+    }
+  ]
+}

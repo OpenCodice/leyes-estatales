@@ -1,0 +1,27 @@
+{
+  "clave": "084",
+  "etiqueta": "Artículo 84º",
+  "titulo": "",
+  "capitulo": "CAPITULO DECIMOCTAVO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "084.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 29 DE ENERO DE 1984)"
+    },
+    {
+      "id": "084.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84º › párrafo 2",
+      "texto": "Todos los servidores públicos, del Estado y Municipios antes de tomar posesión de sus puestos, protestarán ante quien corresponda, guardar y hacer guardar la Constitución General, la particular del Estado, las leyes emanadas de ambas y desempeñar fielmente sus deberes."
+    }
+  ]
+}

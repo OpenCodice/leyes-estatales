@@ -1,0 +1,27 @@
+{
+  "clave": "023",
+  "etiqueta": "Artículo 23º",
+  "titulo": "",
+  "capitulo": "CAPITULO SEXTO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "023.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 28 DE JULIO DE 2014)"
+    },
+    {
+      "id": "023.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23º › párrafo 2",
+      "texto": "El Congreso del Estado se instalará cada tres años, el 15 de septiembre del año de la elección."
+    }
+  ]
+}

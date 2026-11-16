@@ -1,0 +1,36 @@
+{
+  "clave": "022",
+  "etiqueta": "Artículo 22º",
+  "titulo": "",
+  "capitulo": "CAPITULO SEXTO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "022.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 13 DE AGOSTO DE 1950)"
+    },
+    {
+      "id": "022.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22º › párrafo 2",
+      "texto": "El cargo de Diputado Propietario o Suplente en ejercicio, es incompatible con cualquier otro cargo o empleo federal, del Estado o del Municipio, por el que se disfrute remuneración, exceptuándose los de instrucción pública."
+    },
+    {
+      "id": "022.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22º › párrafo 3",
+      "texto": "La infracción de esta disposición será sancionada con la pérdida de la investidura de Diputado."
+    }
+  ]
+}

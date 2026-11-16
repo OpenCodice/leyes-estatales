@@ -1,0 +1,27 @@
+{
+  "clave": "056-a",
+  "etiqueta": "Artículo 56º A",
+  "titulo": "",
+  "capitulo": "CAPITULO DUODECIMO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "056-a.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56º A › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)"
+    },
+    {
+      "id": "056-a.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56º A › párrafo 2",
+      "texto": "La controversia constitucional estatal es el mecanismo de control judicial que tiene por objeto preservar las competencias, la autonomía y las garantías institucionales que esta Constitución le atribuye, respectivamente, a cada uno de los poderes y órganos constitucionales autónomos del Estado, así como a los Municipios."
+    }
+  ]
+}

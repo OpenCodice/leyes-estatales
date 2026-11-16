@@ -1,0 +1,81 @@
+{
+  "clave": "020",
+  "etiqueta": "Artículo 20º",
+  "titulo": "",
+  "capitulo": "CAPITULO SEXTO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "020.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 13 DE AGOSTO DE 1950)"
+    },
+    {
+      "id": "020.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20º › párrafo 2",
+      "texto": "No pueden ser electos Diputados:"
+    },
+    {
+      "id": "020.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20º › Fracción I",
+      "texto": "I.- Las personas que desempeñen cargos públicos de elección popular, sean de la Federación, del Estado o Municipales.\n\n(REFORMADA, P.O. 14 DE ABRIL DE 2025)"
+    },
+    {
+      "id": "020.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20º › Fracción II",
+      "texto": "II.- Las personas Magistradas, tanto del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial de Aguascalientes, así como del Tribunal de Justicia Administrativa, del Tribunal Electoral, y las Personas Juzgadoras; las personas Secretarias de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; la persona Titular de la Fiscalía General del Estado; las personas Consejeras Electorales del Consejo General del Instituto Estatal Electoral, la persona Titular de la Presidencia de la Comisión Estatal de Derechos Humanos de Aguascalientes y las personas delegadas de las dependencias federales en el Estado.\n\n(REFORMADA, P.O. 5 DE JUNIO DE 2023)"
+    },
+    {
+      "id": "020.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20º › Fracción III",
+      "texto": "III.- Las personas a quienes por sentencia ejecutoria se les haya impuesto como pena la suspensión de los derechos o prerrogativas de los ciudadanos, o hayan sido condenadas mediante sentencia ejecutoria por delito doloso de acoso, abuso sexual, violencia de género y/o violencia familiar, por delitos de hechos de corrupción o de los previstos como tipos penales protectores de la administración pública, por el delito o infracción a la normatividad electoral consistente en violencia política contra las mujeres en razón de género, o por sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia;\n\n(REFORMADA, P.O. 2 DE JULIO DE 2026)"
+    },
+    {
+      "id": "020.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20º › Fracción IV",
+      "texto": "IV.- Los que pertenezcan al estado eclesiástico o sean ministros de cualquier culto;\n\n(REFORMADA, P.O. 2 DE JULIO DE 2026)"
+    },
+    {
+      "id": "020.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20º › Fracción V",
+      "texto": "V.- La deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago o salde esa deuda; y\n\n(ADICIONADA, P.O. 2 DE JULIO DE 2026)"
+    },
+    {
+      "id": "020.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20º › Fracción VI",
+      "texto": "VI.- Las personas que tengan o hayan tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio, concubinato, unión de hecho, o parentesco por consanguinidad o civil en línea recta sin limitación de grado, en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo de diputación.\n\n(REFORMADO, P.O. 28 DE JULIO DE 2014)\n\nLos ciudadanos comprendidos en las Fracciones I y II de este Artículo, podrán ser electos diputados, si se separan de sus cargos o empleos noventa días antes de la elección salvo que esta Constitución establezca otro término."
+    }
+  ]
+}

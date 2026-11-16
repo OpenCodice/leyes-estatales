@@ -1,0 +1,27 @@
+{
+  "clave": "086",
+  "etiqueta": "Artículo 86º",
+  "titulo": "",
+  "capitulo": "CAPITULO DECIMOCTAVO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "086.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 29 DE ENERO DE 1984)"
+    },
+    {
+      "id": "086.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86º › párrafo 2",
+      "texto": "Los servidores públicos de elección popular que sin causa justificada, o sin la correspondiente licencia faltaren en forma absoluta al desempeño de sus funciones quedarán privados de los derechos de ciudadano e inhabilitados para el desempeño de empleos públicos; por el tiempo de la duración normal de su encargo."
+    }
+  ]
+}

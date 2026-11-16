@@ -1,0 +1,54 @@
+{
+  "clave": "013",
+  "etiqueta": "Artículo 13º",
+  "titulo": "",
+  "capitulo": "CAPITULO CUARTO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "013.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 13 DE AGOSTO DE 1950)"
+    },
+    {
+      "id": "013.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13º › párrafo 2",
+      "texto": "Son obligaciones de los habitantes del Estado:"
+    },
+    {
+      "id": "013.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13º › Fracción I",
+      "texto": "I.- Si son mexicanos, las que se detallan en el artículo 31 de la Constitución Federal."
+    },
+    {
+      "id": "013.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13º › Fracción II",
+      "texto": "II.- Si son ciudadanos, las contenidas en el artículo 36 de la misma Constitución; y"
+    },
+    {
+      "id": "013.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13º › Fracción III",
+      "texto": "III.- Si son extranjeros, contribuir para los gastos públicos de la manera que dispongan las leyes, obedecer y respetar las Instituciones, Leyes y Autoridades del Estado; sujetarse a los fallos y sentencias de los Tribunales, sin poder intentar otros recursos que los que se conceden a los mexicanos.\n\n(REFORMADO, P.O. 13 DE AGOSTO DE 1950)"
+    }
+  ]
+}
