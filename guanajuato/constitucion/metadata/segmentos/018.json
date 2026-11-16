@@ -1,0 +1,27 @@
+{
+  "clave": "018",
+  "etiqueta": "Artículo 18",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "018.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "018.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › párrafo 2",
+      "texto": "Son habitantes del Estado de Guanajuato todas las personas que residan dentro de su circunscripción territorial."
+    }
+  ]
+}

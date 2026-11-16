@@ -1,0 +1,36 @@
+{
+  "clave": "062",
+  "etiqueta": "Artículo 62",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "062.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "062.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › párrafo 2",
+      "texto": "Las normas contenidas en la Ley dejarán de estar en vigor cuando otra posterior lo declare así expresamente o esta última contenga disposiciones total o parcialmente incompatibles con la Ley anterior."
+    },
+    {
+      "id": "062.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › párrafo 3",
+      "texto": "(REFORMADA, P.O. 17 DE FEBRERO DE 1984)"
+    }
+  ]
+}

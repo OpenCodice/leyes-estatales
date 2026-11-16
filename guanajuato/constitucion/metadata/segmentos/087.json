@@ -1,0 +1,27 @@
+{
+  "clave": "087",
+  "etiqueta": "Artículo 87",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "087.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 88], P.O. 14 DE JULIO DE 2017)"
+    },
+    {
+      "id": "087.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › párrafo 2",
+      "texto": "Los Magistrados del Supremo Tribunal de Justicia, al entrar a ejercer su cargo, protestarán ante el Congreso y si éste no estuviere en Período de Sesiones, ante la Diputación Permanente."
+    }
+  ]
+}

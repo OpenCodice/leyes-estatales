@@ -1,0 +1,27 @@
+{
+  "clave": "029",
+  "etiqueta": "Artículo 29",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "029.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "029.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29 › párrafo 2",
+      "texto": "El Estado de Guanajuato está constituído por la reunión de sus habitantes y por su territorio, y es libre, soberano e independiente en su administración y gobierno interiores."
+    }
+  ]
+}

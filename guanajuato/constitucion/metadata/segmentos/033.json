@@ -1,0 +1,36 @@
+{
+  "clave": "033",
+  "etiqueta": "Artículo 33",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "033.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 29 DE JULIO DE 2024)"
+    },
+    {
+      "id": "033.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › párrafo 2",
+      "texto": "El Estado de Guanajuato se divide en los municipios siguientes:"
+    },
+    {
+      "id": "033.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › párrafo 3",
+      "texto": "Abasolo, Acámbaro, Apaseo el Alto, Apaseo el Grande, Atarjea, Celaya, Comonfort, Coroneo, Cortazar, Cuerámaro, Dolores Hidalgo Cuna de la Independencia Nacional, Doctor Mora, Guanajuato, Huanímaro, Irapuato, Jaral del Progreso, Jerécuaro, León, Manuel Doblado, Moroleón, Ocampo, Pénjamo, Pueblo Nuevo, Purísima del Rincón, Romita, Salamanca, Salvatierra, San Diego de la Unión, San Felipe, San Francisco del Rincón, San José de Iturbide, San Luis de la Paz, San Miguel de Allende, Santa Catarina, Santa Cruz de Juventino Rosas, Santiago Maravatío, Silao de la Victoria, Tarandacuao, Tarimoro, Tierra Blanca, Uriangato, Valle de Santiago, Victoria, Villagrán, Xichú y Yuriria, con los límites y la extensión que actualmente se les reconoce."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "043",
+  "etiqueta": "Artículo 43",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "043.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 27 DE JUNIO DE 2014)"
+    },
+    {
+      "id": "043.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 2",
+      "texto": "Para los procesos electorales locales, el Instituto Nacional Electoral determinará los distritos electorales y la división del territorio en secciones electorales, en los términos de la Base V del artículo 41 de la Constitución Política de los Estados Unidos Mexicanos y la Ley."
+    }
+  ]
+}

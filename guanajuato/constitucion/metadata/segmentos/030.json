@@ -1,0 +1,189 @@
+{
+  "clave": "030",
+  "etiqueta": "Artículo 30",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "030.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "030.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 2",
+      "texto": "Todo Poder Público dimana del pueblo y se instituye para su beneficio."
+    },
+    {
+      "id": "030.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 3",
+      "texto": "(PARRAFO REFORMADO, P.O. 3O DE SEPTIEMBRE DE 2022)"
+    },
+    {
+      "id": "030.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 4",
+      "texto": "Esta Constitución reconoce al menos al referéndum, el plebiscito, la iniciativa popular y la revocación de mandato como formas de participación ciudadana."
+    },
+    {
+      "id": "030.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 5",
+      "texto": "(REFORMADO, P.O. 27 DE JUNIO DE 2014)"
+    },
+    {
+      "id": "030.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 6",
+      "texto": "El organismo público electoral local a que se refiere el artículo 31 de esta Constitución tendrá a su cargo la organización, desarrollo, cómputo y declaración de resultados de los mecanismos de participación ciudadana que señala esta Constitución y en los términos de la Ley de la materia."
+    },
+    {
+      "id": "030.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 7",
+      "texto": "(REFORMADO, P.O. 27 DE JUNIO DE 2014)"
+    },
+    {
+      "id": "030.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 8",
+      "texto": "Los actos y resoluciones que emita el organismo público electoral local en materia de participación ciudadana podrán ser impugnados en los términos que disponga la Ley de la materia."
+    },
+    {
+      "id": "030.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 9",
+      "texto": "(PARRAFO ADICIONADO, P.O. 3O DE SEPTIEMBRE DE 2022)"
+    },
+    {
+      "id": "030.p10",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 10",
+      "texto": "Tratándose de la revocación de mandato, se establecerá un sistema de medios de impugnación en los términos que señale la ley."
+    },
+    {
+      "id": "030.p11",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 11",
+      "texto": "(PARRAFO ADICIONADO, P.O. 3O DE SEPTIEMBRE DE 2022)"
+    },
+    {
+      "id": "030.p12",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 12",
+      "texto": "El procedimiento de revocación de mandato del Gobernador del Estado, se llevará a cabo conforme a lo siguiente:"
+    },
+    {
+      "id": "030.p13",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 13",
+      "texto": "(APARTADO ADICIONADO, P.O. 3O DE SEPTIEMBRE DE 2022)"
+    },
+    {
+      "id": "030.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Apartado A",
+      "texto": "A. De la Solicitud."
+    },
+    {
+      "id": "030.A.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Apartado A › Fracción I",
+      "texto": "I. Se podrá solicitar en una sola ocasión y durante los tres meses posteriores a la conclusión del tercer año del ejercicio constitucional, y"
+    },
+    {
+      "id": "030.A.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Apartado A › Fracción II",
+      "texto": "II. Será convocado por el organismo público electoral local a petición de los ciudadanos, en un número equivalente, al menos, al diez por ciento de la lista nominal de electores del Estado, en la mitad más uno de los municipios.\n\n(APARTADO ADICIONADO, P.O. 3O DE SEPTIEMBRE DE 2022)"
+    },
+    {
+      "id": "030.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Apartado B",
+      "texto": "B. De la organización del proceso."
+    },
+    {
+      "id": "030.B.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Apartado B › Fracción I",
+      "texto": "I. Se realizará mediante votación libre, directa y secreta de los ciudadanos inscritos en la lista nominal de electores del Estado, y en fecha no coincidente con las jornadas electorales, federal o locales,"
+    },
+    {
+      "id": "030.B.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Apartado B › Fracción II",
+      "texto": "II. Para que el proceso de revocación de mandato sea vinculante deberá haber una participación de, por lo menos, el cuarenta por ciento de los ciudadanos inscritos en la lista nominal de electores del Estado y la votación sea por mayoría absoluta, y"
+    },
+    {
+      "id": "030.B.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Apartado B › Fracción III",
+      "texto": "III. En caso de haberse revocado el mandato del Gobernador del Estado, el Congreso del Estado nombrará a quien concluirá el ejercicio constitucional, en los términos del artículo 74 de esta Constitución."
+    }
+  ]
+}

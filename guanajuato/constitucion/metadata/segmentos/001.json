@@ -1,0 +1,531 @@
+{
+  "clave": "001",
+  "etiqueta": "Artículo 1",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "001.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE MAYO DE 2013)"
+    },
+    {
+      "id": "001.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 2",
+      "texto": "En el Estado de Guanajuato todas las personas gozan de los derechos humanos y de las garantías para su protección reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales de los que el Estado Mexicano sea parte, así como en los consagrados por esta Constitución y sus Leyes Reglamentarias, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la Constitución Política de los Estados Unidos Mexicanos establece."
+    },
+    {
+      "id": "001.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 3",
+      "texto": "(ADICIONADO, P.O. 17 DE MAYO DE 2013)"
+    },
+    {
+      "id": "001.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 4",
+      "texto": "Las normas relativas a los derechos humanos se interpretarán de conformidad con esta Constitución y con los Tratados Internacionales de la materia favoreciendo en todo tiempo la protección más amplia a las personas."
+    },
+    {
+      "id": "001.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 5",
+      "texto": "(ADICIONADO, P.O. 17 DE MAYO DE 2013)"
+    },
+    {
+      "id": "001.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 6",
+      "texto": "Todas las autoridades del estado y de los municipios, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y restituir las violaciones a los derechos humanos, en los términos que establezca la ley."
+    },
+    {
+      "id": "001.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 7",
+      "texto": "(REFORMADO [N. DE E. ADICIONADO], P.O. 26 DE MAYO DE 2009)"
+    },
+    {
+      "id": "001.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 8",
+      "texto": "Para los efectos de esta Constitución y de las leyes que de ella emanen, persona es todo ser humano desde su concepción hasta su muerte natural. El Estado le garantizará el pleno goce y ejercicio de todos sus derechos."
+    },
+    {
+      "id": "001.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 9",
+      "texto": "(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)"
+    },
+    {
+      "id": "001.p10",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 10",
+      "texto": "Queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y libertades de las personas."
+    },
+    {
+      "id": "001.p11",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 11",
+      "texto": "(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)"
+    },
+    {
+      "id": "001.p12",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 12",
+      "texto": "Esta Constitución reconoce y protege la participación de las mujeres en el desarrollo del estado, garantiza el derecho a la igualdad sustantiva de las mujeres y promueve la paridad de género. Las autoridades adoptarán las medidas, para erradicar la discriminación, la desigualdad de género, la brecha salarial y toda forma de violencia contra las mujeres."
+    },
+    {
+      "id": "001.p13",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 13",
+      "texto": "(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)"
+    },
+    {
+      "id": "001.p14",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 14",
+      "texto": "Toda persona tiene derecho a vivir una vida libre de violencias, el Estado tiene deberes reforzados de protección con las mujeres, adolescentes, niñas y niños."
+    },
+    {
+      "id": "001.p15",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 15",
+      "texto": "(RECORRIDO EN SU ORDEN, ANTES PÁRRAFO SÉPTIMO, P.O. 24 DE NOVIEMBRE DE 2025)"
+    },
+    {
+      "id": "001.p16",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 16",
+      "texto": "Esta Constitución reconoce a los pueblos y comunidades indígenas y afromexicanas como parte de la composición pluricultural y multiétnica del estado."
+    },
+    {
+      "id": "001.p17",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 17",
+      "texto": "(RECORRIDO EN SU ORDEN, ANTES PÁRRAFO OCTAVO, P.O. 24 DE NOVIEMBRE DE 2025)"
+    },
+    {
+      "id": "001.p18",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 18",
+      "texto": "Esta Constitución reconoce el derecho de las mujeres indígenas y afromexicanas a participar de manera efectiva y en condiciones de igualdad sustantiva en los procesos de desarrollo integral de sus pueblos y comunidades; en la toma de decisiones de carácter público; en la promoción y respeto de sus derechos de acceso a la educación, a la salud, a la propiedad y a la posesión de la tierra y demás derechos humanos."
+    },
+    {
+      "id": "001.p19",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 19",
+      "texto": "(RECORRIDO EN SU ORDEN, ANTES PÁRRAFO NOVENO, P.O. 24 DE NOVIEMBRE DE 2025)"
+    },
+    {
+      "id": "001.p20",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 20",
+      "texto": "Son pueblos indígenas, aquellas colectividades con una continuidad histórica de las sociedades precoloniales establecidas en el territorio nacional; conservan, desarrollan y transmiten sus instituciones sociales, normativas, económicas, culturales y políticas, o parte de ellas."
+    },
+    {
+      "id": "001.p21",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 21",
+      "texto": "(RECORRIDO EN SU ORDEN, ANTES PÁRRAFO DÉCIMO, P.O. 24 DE NOVIEMBRE DE 2025)"
+    },
+    {
+      "id": "001.p22",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 22",
+      "texto": "Son comunidades integrantes de un pueblo indígena, las que formen una unidad social, económica y cultural, asentadas en el estado y que reconocen autoridades propias de acuerdo con sus sistemas normativos."
+    },
+    {
+      "id": "001.p23",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 23",
+      "texto": "(RECORRIDO EN SU ORDEN, ANTES PÁRRAFO DÉCIMO PRIMERO, P.O. 24 DE NOVIEMBRE DE 2025)"
+    },
+    {
+      "id": "001.p24",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 24",
+      "texto": "Los pueblos y comunidades afromexicanas se integran por descendientes de personas originarias de poblaciones del continente africano trasladados, asentados en el estado desde la época colonial, con formas propias de organización social, económica, política y cultural, y que afirma su existencia como colectividades culturalmente diferenciadas."
+    },
+    {
+      "id": "001.p25",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 25",
+      "texto": "(RECORRIDO EN SU ORDEN, ANTES PÁRRAFO DÉCIMO SEGUNDO, P.O. 24 DE NOVIEMBRE DE 2025)"
+    },
+    {
+      "id": "001.p26",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 26",
+      "texto": "Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y autonomía, en los términos y condiciones que determine la Ley de la materia; así como de los pueblos y comunidades afromexicanas cualquiera que sea su autodeterminación, tomando en cuenta los principios generales del artículo 2o, Apartado A, fracciones I, III, IV, VI, VII, VIII, IX, XI, XII y XIII de la Constitución Federal y criterios etnolingüísticos físicos, de asentamientos físicos y autoadscripción."
+    },
+    {
+      "id": "001.p27",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 27",
+      "texto": "(RECORRIDO EN SU ORDEN, ANTES PÁRRAFO DÉCIMO TERCERO, P.O. 24 DE NOVIEMBRE DE 2025)"
+    },
+    {
+      "id": "001.p28",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 28",
+      "texto": "Se reconoce a Los pueblos y comunidades indígenas y afromexicanas como sujetos de derecho público con personalidad jurídica y patrimonio propio."
+    },
+    {
+      "id": "001.p29",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 29",
+      "texto": "(PÁRRAFO REFORMADO, P.O. 04 DE AGOSTO DE 2026)"
+    },
+    {
+      "id": "001.p30",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 30",
+      "texto": "La ley protegerá la organización y desarrollo de la familia, dentro de la cual tendrá preferencia la atención de niñas, niños y adolescentes, personas adultas mayores, personas con discapacidad y mujeres gestantes. Tratándose de personas en contexto de movilidad humana, el Estado garantizará la preservación de la unidad familiar en los términos que señalen las leyes de la materia."
+    },
+    {
+      "id": "001.p31",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 31",
+      "texto": "(RECORRIDO EN SU ORDEN, ANTES PÁRRAFO DÉCIMO QUINTO, P.O. 24 DE NOVIEMBRE DE 2025)"
+    },
+    {
+      "id": "001.p32",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 32",
+      "texto": "Las niñas, los niños y adolescentes tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral. En todas las decisiones y actuaciones el Estado velará y cumplirá con el principio del interés superior de la niñez, garantizando de manera plena sus derechos. Este principio deberá guiar el diseño, ejecución, seguimiento y evaluación de las políticas públicas dirigidas a la niñez. Los poderes del Estado y organismos autónomos generarán espacios para consultar las ideas y opiniones de niñas, niños y adolescentes cuando emprendan acciones que les involucren."
+    },
+    {
+      "id": "001.p33",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 33",
+      "texto": "(RECORRIDO EN SU ORDEN, ANTES PÁRRAFO DÉCIMO SEXTO, P.O. 24 DE NOVIEMBRE DE 2025)"
+    },
+    {
+      "id": "001.p34",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 34",
+      "texto": "Toda persona tiene derecho al honor, a la intimidad y a la propia imagen en los términos dispuestos por la ley."
+    },
+    {
+      "id": "001.p35",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 35",
+      "texto": "(RECORRIDO EN SU ORDEN, ANTES PÁRRAFO DÉCIMO SÉPTIMO, P.O. 24 DE NOVIEMBRE DE 2025)"
+    },
+    {
+      "id": "001.p36",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 36",
+      "texto": "Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar. El Estado garantizará el respeto a este derecho. El daño y deterioro ambiental generará responsabilidad para quien lo provoque en términos de lo dispuesto por la ley."
+    },
+    {
+      "id": "001.p37",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 37",
+      "texto": "(ADICIONADO, P.O. 16 DE FEBRERO DEL 2026)"
+    },
+    {
+      "id": "001.p38",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 38",
+      "texto": "Queda prohibido el maltrato a los animales. El Estado y los municipios deben garantizar la protección, el trato adecuado, la conservación y el cuidado de los animales, en los términos que señalen las leyes correspondientes."
+    },
+    {
+      "id": "001.p39",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 39",
+      "texto": "(RECORRIDO EN SU ORDEN, ANTES PÁRRAFO DÉCIMO NOVENO, P.O. 16 DE FEBRERO DEL 2026)"
+    },
+    {
+      "id": "001.p40",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 40",
+      "texto": "Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación del Gobierno del Estado y de los municipios, así como la de la ciudadanía para la consecución de dichos fines, priorizando la cultura del agua."
+    },
+    {
+      "id": "001.p41",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 41",
+      "texto": "(RECORRIDO EN SU ORDEN, ANTES PÁRRAFO VIGÉSIMO, P.O. 16 DE FEBRERO DEL 2026)"
+    },
+    {
+      "id": "001.p42",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 42",
+      "texto": "Toda persona tiene derecho a disfrutar de vivienda digna y decorosa. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo."
+    },
+    {
+      "id": "001.p43",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 43",
+      "texto": "(RECORRIDO EN SU ORDEN, ANTES PÁRRAFO VIGÉSIMO PRIMERO, P.O. 16 DE FEBRERO DE 2026)"
+    },
+    {
+      "id": "001.p44",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 44",
+      "texto": "Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad."
+    },
+    {
+      "id": "001.p45",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 45",
+      "texto": "(RECORRIDO EN SU ORDEN, ANTES PÁRRAFO VIGÉSIMO SEGUNDO, P.O. 16 DE FEBRERO DE 2026)"
+    },
+    {
+      "id": "001.p46",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 46",
+      "texto": "Toda persona tiene derecho a disfrutar del acceso al internet."
+    },
+    {
+      "id": "001.p47",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 47",
+      "texto": "(RECORRIDO EN SU ORDEN, ANTES PÁRRAFO VIGÉSIMO TERCERO, P.O. 16 DE FEBRERO DE 2026)"
+    },
+    {
+      "id": "001.p48",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 48",
+      "texto": "Toda persona tiene derecho a una alimentación nutritiva, suficiente y de calidad con pertinencia cultural. El Estado lo garantizará."
+    },
+    {
+      "id": "001.p49",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 49",
+      "texto": "(RECORRIDO EN SU ORDEN, ANTES PÁRRAFO VIGÉSIMO CUARTO, P.O. 16 DE FERERO DE 2026)"
+    },
+    {
+      "id": "001.p50",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 50",
+      "texto": "El Estado garantizará la entrega de apoyos sociales a las mujeres y una pensión no contributiva a las personas con discapacidad permanente menores de sesenta y cinco años, en los términos que fijen las leyes."
+    },
+    {
+      "id": "001.p51",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 51",
+      "texto": "(RECORRIDO EN SU ORDEN, ANTES PÁRRAFO VIGÉSIMO QUINTO, P.O. 16 DE FERERO DE 2026)"
+    },
+    {
+      "id": "001.p52",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 52",
+      "texto": "El Estado y los municipios garantizarán la protección y ejercicio de la actividad periodística."
+    },
+    {
+      "id": "001.p53",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 53",
+      "texto": "(RECORRIDO EN SU ORDEN, ANTES PÁRRAFO VIGÉSIMO SEXTO, P.O. 16 DE FERERO DE 2026)"
+    },
+    {
+      "id": "001.p54",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 54",
+      "texto": "Toda persona que realice labores de búsqueda de personas desaparecidas tendrá la calidad de persona defensora de derechos humanos."
+    },
+    {
+      "id": "001.p55",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 55",
+      "texto": "(RECORRIDO EN SU ORDEN, ANTES PÁRRAFO VIGÉSIMO SÉPTIMO, P.O. 16 DE FEBRERO DE 2026)"
+    },
+    {
+      "id": "001.p56",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 56",
+      "texto": "Toda persona tiene derecho a ser buscada, el Estado garantizará las acciones de búsqueda, localización e identificación en los términos establecidos por las leyes y protocolos en la materia."
+    },
+    {
+      "id": "001.p57",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 57",
+      "texto": "(RECORRIDO EN SU ORDEN, ANTES PÁRRAFO VIGÉSIMO OCTAVO, P.O. 16 DE FEBRERO DE 2026)"
+    },
+    {
+      "id": "001.p58",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 58",
+      "texto": "El Estado garantizará el derecho a la ciudad."
+    }
+  ]
+}

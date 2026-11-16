@@ -1,0 +1,27 @@
+{
+  "clave": "144",
+  "etiqueta": "Artículo 144",
+  "titulo": "TITULO DECIMO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "144.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 144 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 5 DE JULIO DE 2018)"
+    },
+    {
+      "id": "144.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 144 › párrafo 2",
+      "texto": "La Constitución Política de los Estados Unidos Mexicanos, esta Constitución, las leyes que de ellas emanen y todos los tratados, celebrados y que se celebren por el Presidente de la República, con aprobación del Senado, serán la Ley Suprema del Estado de Guanajuato."
+    }
+  ]
+}

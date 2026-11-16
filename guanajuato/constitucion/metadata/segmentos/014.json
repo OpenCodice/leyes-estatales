@@ -1,0 +1,216 @@
+{
+  "clave": "014",
+  "etiqueta": "Artículo 14",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "014.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 6 DE DICIEMBRE DE 2013)"
+    },
+    {
+      "id": "014.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › párrafo 2",
+      "texto": "(SIC)…"
+    },
+    {
+      "id": "014.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)"
+    },
+    {
+      "id": "014.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado A",
+      "texto": "A. El Estado, organizará un Sistema de Planeación Democrática del Desarrollo de la Entidad, mediante la participación de los Sectores Público, Privado y Social."
+    },
+    {
+      "id": "014.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado A › párrafo 4",
+      "texto": "(REFORMADO, P.O. 6 DE DICIEMBRE DE 2013)"
+    },
+    {
+      "id": "014.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado A › párrafo 5",
+      "texto": "Tratándose de programas regionales se garantizará la participación de los municipios involucrados."
+    },
+    {
+      "id": "014.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado A › párrafo 6",
+      "texto": "La Ley establecerá los procedimientos de participación y consulta popular para la planeación."
+    },
+    {
+      "id": "014.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado A › párrafo 7",
+      "texto": "(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2016)"
+    },
+    {
+      "id": "014.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado A › párrafo 8",
+      "texto": "El Estado velará por la estabilidad de las finanzas públicas para coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. El Plan Estatal de Desarrollo y los planes municipales deberán observar dicho principio."
+    },
+    {
+      "id": "014.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado A › párrafo 9",
+      "texto": "(REFORMADO, [N. DE E. ADICIONADO], P.O. 6 DE DICIEMBRE DE 2013)"
+    },
+    {
+      "id": "014.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado B",
+      "texto": "B. La manifestación de las ideas no será objeto de ninguna inquisición judicial o administrativa, sino en el caso de que ataque a la moral, la vida privada, los derechos de tercero, provoque algún delito, o perturbe el orden público; el derecho de réplica será ejercido en los términos dispuestos por la ley. Los derechos a la información pública y protección de datos personales serán garantizados por el Estado."
+    },
+    {
+      "id": "014.p10",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado B › párrafo 10",
+      "texto": "(REFORMADO, P.O. 15 DE AGOSTO DEL 2025)"
+    },
+    {
+      "id": "014.p11",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado B › párrafo 11",
+      "texto": "Para el ejercicio del derecho de acceso a la información, los Poderes, organismos autónomos y ayuntamientos, en el ámbito de sus respectivas competencias, se regirán por lo dispuesto en las siguientes fracciones:"
+    },
+    {
+      "id": "014.p12",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado B › párrafo 12",
+      "texto": "(REFORMADA, P.O. 6 DE SEPTIEMBRE DE 2016)"
+    },
+    {
+      "id": "014.B.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado B › Fracción I",
+      "texto": "I. Toda la información pública en posesión de los poderes ejecutivo, legislativo o judicial y de cualquier autoridad, órgano estatal y municipal, incluyendo los órganos autónomos por disposición constitucional, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público, seguridad nacional y seguridad pública en los términos que fijen las leyes.\n\nEn la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información;\n\n(REFORMADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "014.B.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado B › Fracción II",
+      "texto": "II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fije la ley. Para tal efecto, los sujetos obligados contarán con las facultades suficientes para su atención;"
+    },
+    {
+      "id": "014.B.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado B › Fracción III",
+      "texto": "III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación, cancelación y oposición de éstos;\n\n(REFORMADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "014.B.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado B › Fracción IV",
+      "texto": "IV. Se establecerán mecanismos de acceso a la información pública y procedimientos de revisión expeditos que se sustanciarán ante las instancias competentes en los términos que fije esta Constitución y las leyes generales y locales de la materia;"
+    },
+    {
+      "id": "014.B.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado B › Fracción V",
+      "texto": "V. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos;"
+    },
+    {
+      "id": "014.B.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado B › Fracción VI",
+      "texto": "VI. La ley determinará la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales;\n\n(REFORMADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "014.B.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado B › Fracción VII",
+      "texto": "VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que disponga la ley;\n\n(ADICIONADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "014.B.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado B › Fracción VIII",
+      "texto": "VIII. Los sujetos obligados deberán promover, respetar, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales en posesión de los sujetos obligados. Las leyes en la materia determinarán las bases, principios generales y procedimientos del ejercicio de estos derechos, así como la competencia de las autoridades garantes para conocer de los procedimientos de revisión contra los actos que emitan los sujetos obligados.\n\nLos sujetos obligados se regirán por las leyes generales y locales en materia de transparencia y acceso a la información pública y protección de datos personales en posesión de sujetos obligados, en los términos que éstas se emitan para establecer las bases, principios generales y procedimientos del ejercicio de este derecho.\n\nEl ejercicio de este derecho se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.\n\nLa ley establecerá el procedimiento para la reserva o confidencialidad de la información que consideren establecer los sujetos obligados en el ámbito de su competencia; y\n\n(ADICIONADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "014.B.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado B › Fracción IX",
+      "texto": "IX. Los órganos encargados del control interno de los poderes Ejecutivo, Legislativo y Judicial, fideicomisos y fondos públicos y órganos con autonomía constitucional, tendrán el carácter de autoridades garantes u órganos internos de control y vigilancia los que serán responsables de garantizar el derecho de acceso a la información pública y de protección de datos personales en posesión de los sujetos obligados, conforme a los principios, bases generales y procedimientos establecidos por el artículo 6o. de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, y las leyes general y locales de la materia.\n\nBASE PRIMERA. DEROGADA, P.O. 15 DE AGOSTO DE 2025 BASE SEGUNDA. DEROGADA, P.O. 15 DE AGOSTO DE 2025 BASE TERCERA. DEROGADA, P.O. 15 DE AGOSTO DE 2025.\n\nBASE CUARTA. DEROGADA, P.O. 15 DE AGOSTO DE 2025.\n\nBASE QUINTA. DEROGADA, P.O. 15 DE AGOSTO DE 2025.\n\n(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    }
+  ]
+}

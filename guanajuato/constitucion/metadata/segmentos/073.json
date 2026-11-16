@@ -1,0 +1,72 @@
+{
+  "clave": "073",
+  "etiqueta": "Artículo 73",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "073.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "073.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › párrafo 2",
+      "texto": "El Congreso elegirá por mayoría de votos y en escrutinio secreto, un Gobernador Interino, debiendo el electo llenar los requisitos y no estar comprendido en algunas de las prohibiciones que, para desempeñar el cargo, establece esta Constitución, en los siguientes casos:"
+    },
+    {
+      "id": "073.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › párrafo 3",
+      "texto": "(REFORMADA, P.O. 27 DE JUNIO DE 2014)"
+    },
+    {
+      "id": "073.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › Fracción I",
+      "texto": "I. En caso de nulidad de los comicios;\n\n(REFORMADA, P.O. 27 DE JUNIO DE 2014)"
+    },
+    {
+      "id": "073.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › Fracción II",
+      "texto": "II. Por declaratoria de empate en primer lugar de la votación en una elección de Gobernador;\n\n(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2014)"
+    },
+    {
+      "id": "073.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › Fracción III",
+      "texto": "III. Cuando el Gobernador electo no se presentare a tomar posesión de su cargo; o,\n\n(REFORMADA [N. DE E. ADICIONADA], P.O. 27 DE JUNIO DE 2014)"
+    },
+    {
+      "id": "073.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › Fracción IV",
+      "texto": "IV. En caso de falta absoluta ocurrida en los tres primeros años de ejercicio constitucional.\n\nEl Gobernador Interino durará en funciones hasta que tome posesión el que resulte electo en los comicios a que debe convocar el Congreso, de conformidad con lo dispuesto en la Fracción X del Artículo 63 de este Ordenamiento. De no estar en Periodo de Sesiones el Congreso, la Diputación Permanente lo convocará de inmediato y desde luego designará un Gobernador Provisional."
+    }
+  ]
+}

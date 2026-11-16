@@ -1,0 +1,27 @@
+{
+  "clave": "054",
+  "etiqueta": "Artículo 54",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "054.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "054.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › párrafo 2",
+      "texto": "Se entiende que los Diputados que dentro de un mismo período falten a tres sesiones sin causa justificada o sin previa licencia del Presidente del Congreso, renuncian a concurrir hasta el período siguiente. En estos casos se llamará desde luego a los Suplentes."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "041",
+  "etiqueta": "Artículo 41",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "041.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "041.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › párrafo 2",
+      "texto": "El Congreso del Estado de Guanajuato se compondrá de representantes populares electos en su totalidad cada tres años, mediante votación libre, directa y secreta. Por cada Diputado Propietario se elegirá un Suplente."
+    },
+    {
+      "id": "041.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 27 DE MAYO DE 2026)"
+    },
+    {
+      "id": "041.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › párrafo 4",
+      "texto": "En la integración y funcionamiento del Congreso del Estado, esta Constitución y la ley electoral determinarán los mecanismos para cumplir con los principios de paridad de género, igualdad sustantiva y perspectiva de género."
+    }
+  ]
+}

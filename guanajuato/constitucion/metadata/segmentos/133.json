@@ -1,0 +1,36 @@
+{
+  "clave": "133",
+  "etiqueta": "Artículo 133",
+  "titulo": "TITULO DECIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "133.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 21 DE JULIO DE 2009) (REUBICADO [N. DE E. ANTES ARTÍCULO 131], P.O. 6 DE SEPTIEMBRE DE 2016)"
+    },
+    {
+      "id": "133.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › párrafo 2",
+      "texto": "Ningún ciudadano podrá desempeñar a la vez dos cargos de elección popular, pero el nombrado podrá optar entre ambos."
+    },
+    {
+      "id": "133.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › párrafo 3",
+      "texto": "Todo cargo de elección popular es incompatible con cualquiera de la Federación, del Estado, de los municipios, organismos públicos autónomos o de organismos descentralizados y empresas de participación estatal de cualquiera de los tres órdenes de gobierno, cuando por ellos se perciba sueldo, remuneración, honorarios, gratificación o cualquiera otra ministración de dinero."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "099",
+  "etiqueta": "Artículo 99",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "099.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "099.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 2",
+      "texto": "La Hacienda Pública del Estado está constituida por:"
+    },
+    {
+      "id": "099.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción I",
+      "texto": "I. Los ingresos que determinen las Leyes de la materia; y,"
+    },
+    {
+      "id": "099.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción II",
+      "texto": "II. Los ingresos que adquiera por subsidios, participaciones, legados, donaciones o cualesquiera otra causa."
+    }
+  ]
+}
