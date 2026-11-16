@@ -1,0 +1,225 @@
+{
+  "clave": "012",
+  "etiqueta": "Artículo 12",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "012.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › párrafo 1",
+      "texto": "Las leyes se ocuparán de:"
+    },
+    {
+      "id": "012.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción I",
+      "texto": "I. La organización, protección, seguridad, paz, estabilidad, bienestar y desarrollo de la familia en sus diversas manifestaciones;"
+    },
+    {
+      "id": "012.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción II",
+      "texto": "II. El desarrollo integral y el bienestar de las mujeres;"
+    },
+    {
+      "id": "012.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción III",
+      "texto": "III. La atención y protección del ser humano durante su nacimiento, minoridad y vejez;"
+    },
+    {
+      "id": "012.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción IV",
+      "texto": "IV. La protección de las víctimas de los delitos y de quienes carezcan de instrucción y sean de escasas posibilidades económicas;"
+    },
+    {
+      "id": "012.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción V",
+      "texto": "V. La atención de la salud de las y los habitantes del Estado, la promoción de una vida adecuada que asegure el bienestar de las personas, el reconocimiento y garantía del derecho a los cuidados de forma universal, igualitaria y sin discriminación, así como la satisfacción de las necesidades de instrucción y alimentación de las niñas y los niños;"
+    },
+    {
+      "id": "012.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción VI",
+      "texto": "VI. Proteger el derecho que tiene toda persona al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible, en los términos que establece la Constitución Política de los Estados Unidos Mexicanos;"
+    },
+    {
+      "id": "012.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción VII",
+      "texto": "VII. Garantizar el derecho de acceso a la información pública en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, fideicomisos y fondos públicos, y de cualquier persona física o moral que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, así como de proteger los datos personales y la información relativa a la vida privada, en los términos y con las excepciones que establezca la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Transparencia y Acceso a la Información Pública, la Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados y demás legislación aplicable.\n\nEl ejercicio de los derechos de acceso a la información pública y protección de datos personales se regirá por las siguientes bases y principios:"
+    },
+    {
+      "id": "012.VII.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 12 › Fracción VII › inciso a)",
+      "texto": "a) Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, fideicomisos y fondos públicos, así como de cualquier persona física o moral que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público.\n\nSin perjuicio de lo dispuesto dentro del párrafo anterior, la ley establecerá aquella información que se considere reservada o confidencial.\n\nEn la interpretación de este derecho deberá prevalecer el principio de máxima publicidad.\n\nLos sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información."
+    },
+    {
+      "id": "012.VII.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 12 › Fracción VII › inciso b)",
+      "texto": "b) La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes. Para tal efecto, los sujetos obligados y las autoridades garantes contarán con las facultades suficientes para su atención."
+    },
+    {
+      "id": "012.VII.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 12 › Fracción VII › inciso c)",
+      "texto": "c) Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública.\n\nAsimismo, tendrá derecho a la protección de sus datos personales, al acceso, rectificación y cancelación de los mismos, así como a manifestar su oposición, en los términos que fije la ley, la cual establecerá los supuestos de excepción a los principios que rijan el tratamiento de datos, por razones de orden público, seguridad y salud públicas o para proteger los derechos de terceros ."
+    },
+    {
+      "id": "012.VII.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 12 › Fracción VII › inciso d)",
+      "texto": "d) Se establecerán mecanismos de acceso a la información pública y de protección de datos personales, así como procedimientos de revisión expeditos que se sustanciarán ante las instancias competentes en los términos que fija esta constitución y las leyes aplicables."
+    },
+    {
+      "id": "012.VII.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 12 › Fracción VII › inciso e)",
+      "texto": "e) Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos."
+    },
+    {
+      "id": "012.VII.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 12 › Fracción VII › inciso f)",
+      "texto": "f) Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales."
+    },
+    {
+      "id": "012.VII.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 12 › Fracción VII › inciso g)",
+      "texto": "g) Los sujetos obligados y las autoridades garantes deberán respetar, promover, difundir, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales, así como el uso responsable de la información, en el ámbito de su competencia.\n\nLas leyes en la materia determinarán las bases y procedimientos para el ejercicio efectivo de estos derechos.\n\nSin perjuicio de las demás atribuciones a su cargo, los órganos internos de control o, en su caso, las unidades administrativas a cargo del control interno de los Poderes Ejecutivo, Legislativo y Judicial del Estado, y de los Órganos Constitucionales Autónomos, fungirán como autoridades garantes en materia de transparencia, acceso a la información pública y protección de datos personales en términos de la legislación aplicable.\n\nEn términos del párrafo anterior, la autoridad garante de los Ayuntamientos, lo será la autoridad encargada del control interno del Ejecutivo Estatal .\n\nPara el ejercicio de sus atribuciones los sujetos obligados y las autoridades garantes se regirán por la legislación en materia de transparencia y acceso a la información pública, y de protección de datos personales, así como por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad.\n\nLa inobservancia a las disposiciones en materia de acceso a la información pública y protección de datos personales será sancionada en los términos que dispongan las leyes de la materia.\n\nLa ley establecerá las medidas de apremio que podrán imponer, en su caso, las autoridades garantes para asegurar el cumplimiento de sus decisiones;\n\nVII Bis. Establecer los medios y herramientas a través de las cuales se facilita el acceso a los particulares al uso del Gobierno Digital teniendo el derecho de solicitar trámites y servicios por los medios electrónicos que al efecto se habiliten, garantizando en todo momento la protección de sus datos y el acceso a la información pública referentes a las peticiones que se formulen;"
+    },
+    {
+      "id": "012.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción VIII",
+      "texto": "VIII. La protección de los derechos de los pueblos y comunidades indígenas;"
+    },
+    {
+      "id": "012.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción IX",
+      "texto": "IX. El establecimiento de un sistema integral de justicia, que será aplicable a quienes se atribuya la realización de una conducta tipificada como delito por la ley penal y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos fundamentales que reconoce la Constitución Política de los Estados Unidos Mexicanos y demás ordenamientos jurídicos aplicables;"
+    },
+    {
+      "id": "012.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción X",
+      "texto": "X.- Establecer la organización y funcionamiento del Tribunal de Justicia Administrativa, así como las normas que regulen sus atribuciones, las acciones y procedimientos a su cargo y los recursos que procedan en contra de sus resoluciones, dotado de plena autonomía para dictar sus resoluciones, que será competente para dirimir las controversias que se susciten entre los particulares y la administración pública estatal o municipal y para imponer, en los términos que disponga la Ley de la materia, las sanciones a las y los servidores públicos estatales y municipales por responsabilidad administrativa grave y a las y los particulares que incurran en actos vinculados con faltas administrativas graves. Asimismo, para fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos, según corresponda. La Ley preverá las cuantías y supuestos en materia tributaria, así como las que se determinen, en los cuales el Tribunal de Justicia Administrativa deberá resolver en un máximo de seis meses, contados a partir del conocimiento del asunto por parte de la autoridad competente.\n\nEl Tribunal de Justicia Administrativa se organizará en Pleno y en las salas colegiadas que prevea la Ley o determine la Junta de Gobierno y Administración. Contará con una Sala Especializada con competencia exclusiva en materia de responsabilidades administrativas; la Ley establecerá los casos de prórroga de dicha competencia, así como la competencia ordinaria en la materia del Tribunal de Justicia Administrativa. La administración del Tribunal de Justicia Administrativa estará a cargo de una Junta de Gobierno y Administración que se integrará conforme lo señalado en la Ley.\n\nEl Pleno del Tribunal de Justicia Administrativa se compondrá por el número de Magistradas y Magistrados que establezca la Ley y será presidido por uno de sus miembros nombrado por mayoría simple de los mismos, por un periodo improrrogable de cuatro años, sin posibilidad de reelección. La Presidenta o Presidente no integrará Sala Colegiada.\n\nLa Sala Especializada en Materia de Responsabilidades Administrativas del Tribunal de Justicia Administrativa se integrará por tres Magistradas o Magistrados y será presidida por una o uno de sus miembros, nombrada o nombrado por mayoría simple de las y los mismos por un periodo improrrogable de un año, sin posibilidad de reelección. Resolverá de manera colegiada y ejercerá la competencia en materia de faltas administrativas graves y de las responsabilidades que se deriven de los daños y perjuicios en contra de las haciendas públicas Estatal o Municipales, así como sobre el patrimonio de los entes públicos de conformidad con la legislación correspondiente. Las Magistradas y Magistrados que integren la Sala Especializada en Materia de Responsabilidades Administrativas no integrarán el Pleno del Tribunal. La Sala intervendrá en el Pleno en los asuntos en la materia ordinaria que prevea su Ley.\n\nLas Magistradas y Magistrados del Tribunal de Justicia Administrativa durarán en su cargo quince años improrrogables. Se sujetarán a las reglas y procedimientos de nombramiento, remoción, haberes, prerrogativas, conflicto de interés y responsabilidad previstas en esta Constitución.\n\nLas Magistradas y Magistrados sólo podrán ser removidos de sus cargos por las causas graves que señale la Ley.\n\nCorresponderá al Pleno de la Junta de Gobierno y Administración designar a la persona titular del Órgano Interno de Control.\n\nEl Tribunal de Justicia Administrativa a través de la instancia competente elaborará su anteproyecto de presupuesto, el cual será remitido al Ejecutivo del Estado para su inclusión en el proyecto de Presupuesto de Egresos, para el ejercicio fiscal correspondiente. Salvo circunstancias extraordinarias, el presupuesto asignado a dicho Tribunal no podrá ser inferior al efectivamente ejercido en el año inmediato anterior.\n\nLa Ley establecerá los supuestos y procedimientos para hacer valer la responsabilidad patrimonial del Estado por error judicial. Asimismo, establecerá los mecanismos para repetir en contra de la Magistrada y Magistrado que la hubiere causado.\n\nLa función judicial administrativa se regirá por los principios de honestidad, imparcialidad, independencia, legalidad, publicidad, rendición de cuentas y transparencia. En el ejercicio de ésta, deberán garantizar que la justicia sea accesible, pronta, completa, gratuita, intercultural y con perspectiva de género. Las actuaciones judiciales serán públicas, salvo las excepciones que prevea la Ley.\n\nLas personas que hayan ocupado el cargo de Magistrada o Magistrado del Tribunal de Justicia Administrativa no podrán, dentro de los dos años siguientes a la fecha de su retiro, actuar como patronos, abogados o representantes en cualquier proceso ante dicho Tribunal.\n\nDurante dicho plazo, las personas que se hayan desempeñado como Magistradas o Magistrados del Tribunal de Justicia Administrativa no podrán ocupar los cargos de Secretaria o Secretario de Estado, Fiscal General del Estado, Diputada o Diputado, ni Gobernadora o Gobernador.\n\nPara ser Magistrada o Magistrado del Tribunal de Justicia Administrativa, se requiere:\n\nSer persona ciudadana mexicana por nacimiento, en pleno goce de sus derechos políticos y civiles;\n\nPoseer el día de la designación, con antigüedad mínima de diez años, título profesional de licenciatura en derecho, expedido por autoridad o institución legalmente facultada para ello;\n\nGozar de buena reputación y no haber sido condenado por delito que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena, y Haber residido en el país durante los dos años anteriores al día de su designación.\n\nLas licencias de las Magistradas o Magistrados del Tribunal de Justicia Administrativa, cuando no excedan de treinta días, podrán ser concedidas por la Junta de Gobierno y Administración. Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente. Ninguna licencia podrá exceder del término de un año."
+    },
+    {
+      "id": "012.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción XI",
+      "texto": "XI. Reconocer, proteger, fomentar y preservar los saberes colectivos, así como del patrimonio lingüístico, cultural y natural."
+    },
+    {
+      "id": "012.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción XII",
+      "texto": "XII.- Atender como una consideración primordial, el interés superior de la niñez en todas las medidas concernientes a las niñas, niños y adolescentes, y garantizar plenamente sus derechos;"
+    },
+    {
+      "id": "012.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción XIII",
+      "texto": "XIII.- Erradicar el trabajo infantil y cualquier otra forma de explotación hacia niñas, niños y adolescentes;"
+    },
+    {
+      "id": "012.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción XIV",
+      "texto": "XIV. Promover, respetar, proteger y garantizar el derecho de toda persona a la movilidad asequible y en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión, igualdad, equidad, modernidad e innovación tecnológica priorizando el desplazamiento de las y los peatones, conductoras y conductores de vehículos no motorizados y personas con discapacidad.\n\nLa atención, protección y demás acciones previstas en este artículo son de orden público e interés social.\n\nLa interpretación y aplicación de esta constitución y de las leyes y normas del Estado será de forma igualitaria para hombres y mujeres, salvo las disposiciones expresas que determinen la aplicación diferenciada entre géneros. Lo anterior, sin perjuicio de la utilización del género masculino para la construcción gramatical del texto legal."
+    },
+    {
+      "id": "012.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción XV",
+      "texto": "XV. Promover y proporcionar a toda persona el derecho a un medio ambiente sano y adecuado, así como proteger a los animales y garantizar su bienestar, a través de su conservación y cuidado, además de un trato adecuado, digno, respetuoso y libre de todo tipo de violencia, crueldad y maltrato; y"
+    },
+    {
+      "id": "012.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción XVI",
+      "texto": "XVI. Reconocer, garantizar, proteger y promover el derecho de toda persona a la ciencia y tecnología, así como a gozar y disfrutar de sus beneficios."
+    }
+  ]
+}

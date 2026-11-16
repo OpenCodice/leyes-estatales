@@ -1,0 +1,90 @@
+{
+  "clave": "037",
+  "etiqueta": "Artículo 37",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "037.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › párrafo 1",
+      "texto": "No pueden ser electos y electas diputadas propietarias o suplentes:"
+    },
+    {
+      "id": "037.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › Fracción I",
+      "texto": "I. La persona Titular del Poder Ejecutivo del Estado, aun cuando se separe definitivamente de su cargo."
+    },
+    {
+      "id": "037.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › Fracción II",
+      "texto": "II. Las Magistradas y Magistrados, en ejercicio, del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal Electoral del Estado y del Tribunal de Justicia Administrativa, así como las y los integrantes del Órgano de Administración Judicial del Poder Judicial, las Secretarias y Secretarios de Estado, las Subsecretarias y Subsecretarios, la persona Titular de la Fiscalía General del Estado, la persona Secretaria Particular de la Gobernadora o Gobernador, las Directoras y los Directores de las Entidades del Ejecutivo y las personas Titulares de los cuerpos de Seguridad Pública del Estado."
+    },
+    {
+      "id": "037.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › Fracción III",
+      "texto": "III. Las personas funcionarias del Gobierno Federal."
+    },
+    {
+      "id": "037.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › Fracción IV",
+      "texto": "IV. Las personas que integran las fuerzas armadas del País."
+    },
+    {
+      "id": "037.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › Fracción V",
+      "texto": "V. Los y las Presidentas Municipales y Juezas."
+    },
+    {
+      "id": "037.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › Fracción VI",
+      "texto": "VI. Las personas ministras de algún culto religioso."
+    },
+    {
+      "id": "037.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › Fracción VII",
+      "texto": "VII. Las personas diputadas que hayan ejercido funciones en el periodo inmediato anterior.\n\nEn términos del párrafo que antecede, las personas diputadas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio, pero las personas diputadas propietarias no podrán ser electas para el periodo inmediato con el carácter de suplentes."
+    },
+    {
+      "id": "037.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › Fracción VIII",
+      "texto": "VIII. La persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.\n\nLas personas funcionarias y las que integran las fuerzas armadas del país a las que se refieren respectivamente las fracciones II a V de este artículo, podrán ser electas Diputadas propietarias o suplentes si se separan definitivamente de su cargo, o del servicio activo, según corresponda, noventa días antes de la elección."
+    }
+  ]
+}

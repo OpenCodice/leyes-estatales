@@ -1,0 +1,72 @@
+{
+  "clave": "090",
+  "etiqueta": "Artículo 90",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "090.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › párrafo 1",
+      "texto": "Los cargos de orden judicial sólo son renunciables por las causas o motivos que establezca la Ley Orgánica del Poder Judicial del Estado de Puebla. Las renuncias de las Magistradas y Magistrados del Tribunal de Disciplina Judicial solamente procederán por causas graves; serán aprobadas por mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente."
+    },
+    {
+      "id": "090.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › párrafo 2",
+      "texto": "La Ley Orgánica del Poder Judicial del Estado de Puebla establecerá:"
+    },
+    {
+      "id": "090.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › Fracción I",
+      "texto": "I. La estructura, organización, facultades y conformación del Tribunal Superior de Justicia;"
+    },
+    {
+      "id": "090.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › Fracción II",
+      "texto": "II. La manera de cubrir las faltas temporales de las Magistradas y Magistrados, las Juezas y Jueces del Tribunal Superior de Justicia, las Magistradas y Magistrados del Tribunal de Disciplina Judicial e integrantes del Órgano de Administración Judicial;"
+    },
+    {
+      "id": "090.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › Fracción III",
+      "texto": "III. La organización del Órgano de Administración Judicial y del Tribunal de Disciplina Judicial, así como sus facultades;"
+    },
+    {
+      "id": "090.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › Fracción IV",
+      "texto": "IV. La estructura, organización y competencias de la Escuela Estatal de Formación Judicial, de las unidades auxiliares del Órgano de Administración Judicial; y, en su caso, aquellos necesarios para consolidar la justicia integral en el Estado, y"
+    },
+    {
+      "id": "090.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › Fracción V",
+      "texto": "V. El desarrollo de los demás contenidos previstos en esta Constitución."
+    }
+  ]
+}

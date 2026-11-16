@@ -1,0 +1,27 @@
+{
+  "clave": "119",
+  "etiqueta": "Artículo 119",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "119.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › párrafo 1",
+      "texto": "Las Universidades e Instituciones públicas de educación superior a las que la ley otorgue autonomía, expedirán títulos profesionales y tendrán las facultades que les confiera la ley conforme a lo establecido por la fracción VIII del artículo 3° de la Constitución General de la República."
+    },
+    {
+      "id": "119.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › párrafo 2",
+      "texto": "Cuando la Universidad o Institución de Educación Superior no goce de Autonomía, los títulos profesionales serán expedidos por el Gobierno del Estado, suscritos por el Secretario de Educación Pública del mismo."
+    }
+  ]
+}

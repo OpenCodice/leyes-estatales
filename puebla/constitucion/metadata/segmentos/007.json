@@ -1,0 +1,54 @@
+{
+  "clave": "007",
+  "etiqueta": "Artículo 7",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 1",
+      "texto": "Son habitantes del Estado las personas que residan o estén domiciliadas en su territorio y las que sean transeúntes, por hallarse en éste de manera transitoria."
+    },
+    {
+      "id": "007.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 2",
+      "texto": "En el Estado de Puebla todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales y en esta Constitución sobre derechos humanos de los que los Estados Unidos Mexicanos sea parte, así como de las garantías para su protección."
+    },
+    {
+      "id": "007.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 3",
+      "texto": "Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos, con los tratados internacionales en la materia y esta Constitución, favoreciendo la protección más amplia."
+    },
+    {
+      "id": "007.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 4",
+      "texto": "Toda restricción o suspensión al ejercicio o goce de los derechos humanos solo se realizarán en los términos y condiciones que emanen de la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales en los que el Estado Mexicano sea parte y esta Constitución."
+    },
+    {
+      "id": "007.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 5",
+      "texto": "Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Gobierno del Estado de Puebla deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la Ley."
+    }
+  ]
+}

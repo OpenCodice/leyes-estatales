@@ -1,0 +1,36 @@
+{
+  "clave": "092",
+  "etiqueta": "Artículo 92",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "092.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › párrafo 1",
+      "texto": "El Congreso del Estado y, en su caso, la Comisión Permanente, calificará las renuncias de las Magistradas y Magistrados, Juezas y Jueces del Tribunal Superior de Justicia. Las de los otros funcionarios judiciales serán calificadas por la autoridad que los nombre."
+    },
+    {
+      "id": "092.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › párrafo 2",
+      "texto": "Las licencias de las Magistradas o Magistrados del Tribunal de Disciplina Judicial, las Magistradas y Magistrados, Juezas y Jueces del Tribunal Superior de Justicia, cuando no excedan de treinta días, podrán ser concedidas por el Pleno del Tribunal de Disciplina Judicial para el caso de sus integrantes, y por el Órgano de Administración Judicial para el caso de las Magistradas y Magistrados, Juezas y Jueces del Tribunal Superior de Justicia. Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente. Ninguna licencia podrá exceder del término de un año."
+    },
+    {
+      "id": "092.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › párrafo 3",
+      "texto": "Cuando la falta de una Magistrada o Magistrado del Tribunal de Disciplina Judicial, Magistradas o Magistrados, Juezas o Jueces del Tribunal Superior de Justicia excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo.."
+    }
+  ]
+}

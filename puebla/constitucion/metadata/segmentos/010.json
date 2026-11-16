@@ -1,0 +1,18 @@
+{
+  "clave": "010",
+  "etiqueta": "Artículo 10",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "010.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 1",
+      "texto": "Los casos de exención de sanciones, en favor de quienes ignoren las leyes, se establecerán por éstas, únicamente cuando sean de orden privado y se trate de individuos que notoriamente carezcan de instrucción y sean de escasas posibilidades económicas."
+    }
+  ]
+}

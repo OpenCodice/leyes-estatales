@@ -1,0 +1,36 @@
+{
+  "clave": "068",
+  "etiqueta": "Artículo 68",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "068.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 1",
+      "texto": "Las leyes trascendentales para el orden público o interés social que apruebe el Congreso del Estado, con excepción de las reformas o adiciones a esta Constitución, las de carácter contributivo o fiscal, las leyes orgánicas de los Poderes del Estado, así como las leyes locales que deriven de reformas o adiciones a la Constitución Política de los Estados Unidos Mexicanos, podrán ser sometidas a referéndum derogatorio, total o parcial, en términos de la ley aplicable, bajo los siguientes supuestos:"
+    },
+    {
+      "id": "068.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › Fracción I",
+      "texto": "I.- Que lo solicite ante el Instituto Electoral del Estado un número que represente cuando menos el quince por ciento de los ciudadanos poblanos, debidamente identificados, inscritos en el Registro Federal de Electores correspondiente al Estado, dentro de los treinta días naturales siguientes a la fecha de su publicación, o"
+    },
+    {
+      "id": "068.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › Fracción II",
+      "texto": "II.- Que lo solicite el titular del Poder Ejecutivo ante el Instituto Electoral del Estado.\n\nLas leyes sometidas a referéndum sólo podrán ser derogadas si en el proceso respectivo participa cuando menos el cuarenta por ciento de los ciudadanos inscritos en el Registro Federal de Electores correspondiente al Estado, y de éstos, más del cincuenta por ciento emita su voto en contra.\n\nEl inicio del proceso de referéndum, así declarado por el Instituto Electoral del Estado en el periodo de treinta días a que hace mención la fracción I de este artículo, tendrá efectos suspensivos, salvo los casos de urgencia, determinada por el Titular del Ejecutivo o por el Congreso del Estado.\n\nLas leyes en materia electoral no podrán ser sometidas a referéndum durante los ocho meses anteriores al inicio del proceso electoral, ni durante el desarrollo de éste.\n\nEl Instituto Electoral del Estado realizará el cómputo de los votos y remitirá la resolución correspondiente al Titular del Poder Ejecutivo, para su publicación en el Periódico Oficial del Estado. Una vez que la mencionada resolución quede firme, si es derogatoria, será notificada al Congreso del Estado para que en un plazo no mayor a sesenta días hábiles, emita el decreto correspondiente."
+    }
+  ]
+}

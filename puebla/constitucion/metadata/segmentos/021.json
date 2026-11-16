@@ -1,0 +1,54 @@
+{
+  "clave": "021",
+  "etiqueta": "Artículo 21",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "021.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 1",
+      "texto": "Son obligaciones de la ciudadanía del Estado:"
+    },
+    {
+      "id": "021.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción I",
+      "texto": "I.- Inscribirse en el Padrón Municipal;"
+    },
+    {
+      "id": "021.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción II",
+      "texto": "II.- Inscribirse en el Padrón Electoral;"
+    },
+    {
+      "id": "021.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción III",
+      "texto": "III.- Votar en las elecciones, en la forma que disponga la ley; y"
+    },
+    {
+      "id": "021.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción IV",
+      "texto": "IV.- Desempeñar los cargos de elección popular, obligación correspondiente de igual forma a la persona electa bajo la figura de la diputación migrante, los concejales, los censales y las funciones electorales conforme a la ley, salvo excusa legítima."
+    }
+  ]
+}
