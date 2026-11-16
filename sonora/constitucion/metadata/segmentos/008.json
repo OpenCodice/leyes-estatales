@@ -1,0 +1,36 @@
+{
+  "clave": "008",
+  "etiqueta": "Artículo 8",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "008.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 1",
+      "texto": "Los habitantes del Estado, por su condición política, se consideran como sonorenses, ciudadanos y extranjeros."
+    },
+    {
+      "id": "008.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 2",
+      "texto": "En el Estado de Sonora, toda persona tiene derecho a la identidad y a ser registrado de manera inmediata a su nacimiento. El Estado garantizará el cumplimiento de estos derechos. La autoridad competente expedirá gratuitamente la primera copia certificada del acta de registro de nacimiento."
+    },
+    {
+      "id": "008.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 3",
+      "texto": "El español es el idioma oficial del estado de Sonora y, adicionalmente, se reconoce a la Lengua de Señas Mexicana como lengua oficial y parte del patrimonio lingüístico sonorense. El estado y los municipios, en el ámbito de sus competencias, garantizarán que las personas con discapacidad auditiva reciban educación en Lengua de Señas Mexicana y promoverán su utilización en todo el territorio estatal."
+    }
+  ]
+}

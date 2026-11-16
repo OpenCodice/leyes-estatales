@@ -1,0 +1,45 @@
+{
+  "clave": "145",
+  "etiqueta": "Artículo 145",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "145.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 145 › párrafo 1",
+      "texto": "Para determinar la responsabilidad política del servidor público y, en su caso, la sanción aplicable, la Comisión del Congreso que determine la Ley, substanciará el procedimiento con audiencia del inculpado y con la intervención de un Diputado Acusador nombrado del seno del propio Congreso."
+    },
+    {
+      "id": "145.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 145 › párrafo 2",
+      "texto": "El Congreso del Estado erigido en Jurado de Sentencia decidirá, por votación de las dos terceras partes de sus miembros presentes en sesión, sobre la responsabilidad del acusado y aplicará la sanción que corresponda, una vez practicadas las diligencias que garanticen la defensa del mismo."
+    },
+    {
+      "id": "145.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 145 › párrafo 3",
+      "texto": "En el caso de que el Gobernador del Estado, Diputados Locales y Magistrados del Supremo Tribunal de Justicia, sean sometidos a Juicio Político, en los términos del Artículo 110 de la Constitución General de la República, el Congreso del Estado, una vez que la Cámara de Senadores le haya comunicado la resolución respectiva, procederá conforme a sus atribuciones."
+    },
+    {
+      "id": "145.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 145 › párrafo 4",
+      "texto": "El procedimiento de Juicio Político, deberá iniciarse durante el tiempo en que el servidor público desempeñe un empleo, cargo o comisión, o dentro del año siguiente al de la conclusión de sus funciones. Las sanciones correspondientes se aplicarán en un periodo no mayor de un año, a partir de iniciado el procedimiento."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "144",
+  "etiqueta": "Artículo 144",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "144.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 144 › párrafo 1",
+      "texto": "El Congreso del Estado expedirá la Ley de Responsabilidades de los Servidores Públicos mencionados en el presente Titulo así como las leyes en materia de auditoría, fiscalización y combate a la corrupción que establezcan las normas precisas para determinar y sancionar sus actos u omisiones que generen alguno de los siguientes tipos de responsabilidad:"
+    },
+    {
+      "id": "144.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 144 › Fracción I",
+      "texto": "I.- Responsabilidad Política, determinada mediante Juicio Político, cuando el servidor público, en el ejercicio de sus funciones, incurra en actos u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho. No procede el Juicio Político por la mera expresión de ideas.\n\nSolo podrán ser sujetos a juicio político las Diputadas y los Diputados al Congreso del Estado, las Magistradas o Magistrados del Supremo Tribunal de Justicia, las Magistradas o Magistrados del Tribunal de Disciplina Judicial, las Magistradas o Magistrados de cualquier Órgano Jurisdiccional o Administrativo, las personas integrantes del Órgano de Administración del Poder Judicial del Estado, la o el Fiscal General de Justicia y las y los Fiscales Especializados, las y los Secretarios y Subsecretarios, las Juezas y los Jueces, las y los Agentes del Ministerio Público, quienes presidan los Tribunales de Conciliación y Arbitraje, las y los Consejeros Estatales Electorales, la o el Secretario del Instituto Estatal Electoral y de Participación Ciudadana, las Magistradas o Magistrados y Secretario General del Tribunal Estatal Electoral, las Presidentas y los Presidentes Municipales, las y los Síndicos, Regidores, Secretarios y Tesoreros de los Ayuntamientos, así como las y los Directores Generales y sus equivalentes de las empresas de participación estatal o municipal mayoritaria, sociedades y asociaciones asimiladas a éstas, fideicomisos públicos y organismos descentralizados del Estado y de los municipios.\n\nLas sanciones consistirán en la destitución del servidor público y, en su caso, la inhabilitación para desempeñar funciones, empleos, cargos o comisiones de cualquier naturaleza en el servicio público."
+    },
+    {
+      "id": "144.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 144 › Fracción II",
+      "texto": "II.- Responsabilidad Penal, cuando los servidores públicos cometan delitos de cualquier naturaleza, que serán perseguidos y sancionados en los términos de la legislación penal. Tratándose de delitos por cuya comisión el autor obtenga un beneficio económico o cause daños o perjuicios patrimoniales, las sanciones deberán graduarse de acuerdo con el lucro obtenido y con la necesidad de satisfacer los daños y perjuicios causados por esta conducta ilícita. Las sanciones económicas no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados.\n\nLas leyes penales determinarán los casos y circunstancias en los que se deba sancionar penalmente por causa de enriquecimiento ilícito a los servidores públicos que durante el tiempo de su encargo o por motivos del mismo, por sí o por interpósita persona, aumenten substancialmente su patrimonio, adquieran bienes o se conduzcan como dueños sobre ellos, cuya procedencia lícita no pudiesen justificar. Las leyes sancionarán con el decomiso y con la privación de la propiedad de dichos bienes, además de las otras penas que correspondan."
+    },
+    {
+      "id": "144.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 144 › Fracción III",
+      "texto": "III.- Responsabilidad Administrativa, exigible a los servidores públicos cuando éstos incurran en actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus empleos, cargos o comisiones, incluyendo sin limitar, el manejo indebido de recursos públicos y de la deuda pública.\n\nLas sanciones aplicables a esta forma de responsabilidad, además de las que señalen las leyes, consistirán en suspensión, destitución e inhabilitación del servidor público, así como en sanciones económicas, que deberán establecerse de acuerdo con los beneficios obtenidos por el responsable y con los daños y perjuicios patrimoniales causados por sus actos u omisiones, pero no podrán exceder de tres tantos de los beneficios obtenidos o de los daños y perjuicios causados."
+    }
+  ]
+}

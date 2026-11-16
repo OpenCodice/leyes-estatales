@@ -1,0 +1,36 @@
+{
+  "clave": "057",
+  "etiqueta": "Artículo 57",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "057.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › párrafo 1",
+      "texto": "Se reputará aprobado por el Ejecutivo todo Proyecto de Ley o de Decreto no devuelto con observaciones al Congreso, o en su receso a la Diputación Permanente, en el término de diez días hábiles."
+    },
+    {
+      "id": "057.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › párrafo 2",
+      "texto": "El Congreso o la Diputación Permanente podrán ordenar la publicación de las leyes o decretos si el Ejecutivo no lo hace dentro de los ocho días siguientes al vencimiento del término fijado para hacer observaciones, o el día en que reciba la Ley o Decreto confirmados por aquella asamblea. En este caso se harán constar las circunstancias que lo motiven."
+    },
+    {
+      "id": "057.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › párrafo 3",
+      "texto": "La creación, reforma, adición, derogación u abrogación de leyes o decretos expedidos por el Congreso del Estado podrán ser sometidos a referéndum, conforme a los términos y condiciones establecidas en la Ley de la materia."
+    }
+  ]
+}

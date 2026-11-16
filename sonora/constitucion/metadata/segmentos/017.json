@@ -1,0 +1,63 @@
+{
+  "clave": "017",
+  "etiqueta": "Artículo 17",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "017.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 1",
+      "texto": "Las y los sonorenses, en igualdad de circunstancias, serán preferidos a los demás mexicanos para el desempeño de los cargos públicos o empleos del Estado, siempre que llenen los requisitos que las leyes exijan, además de los siguientes:"
+    },
+    {
+      "id": "017.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción I",
+      "texto": "I.- Un modo honesto de vivir;"
+    },
+    {
+      "id": "017.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción II",
+      "texto": "II.- No ser ministro de algún culto religioso;"
+    },
+    {
+      "id": "017.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción III",
+      "texto": "III.- No haber sido persona sancionada o condenada mediante resolución firme por violencia familiar o cualquier agresión de género en el ámbito privado o público, por delitos sexuales contra la libertad sexual o la intimidad corporal;"
+    },
+    {
+      "id": "017.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción IV",
+      "texto": "IV.- No ser deudor alimentario moroso, salvo que acredite estar al corriente del pago o que cancele en su totalidad la deuda, y que no cuente con registro vigente en algún padrón de deudores alimenticios; y"
+    },
+    {
+      "id": "017.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción V",
+      "texto": "V.- Cumplir con el principio de paridad en los términos del artículo 150 A de esta Constitución."
+    }
+  ]
+}

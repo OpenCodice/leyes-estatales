@@ -1,0 +1,27 @@
+{
+  "clave": "163",
+  "etiqueta": "Artículo 163",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "163.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 163 › párrafo 1",
+      "texto": "Esta Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que hayan sido acordadas por las dos terceras partes de los miembros de un Congreso y aprobadas por la mayoría del número total de los Ayuntamientos del Estado."
+    },
+    {
+      "id": "163.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 163 › párrafo 2",
+      "texto": "Los ayuntamientos deberán pronunciarse a favor o en contra de las adiciones o reformas a la Constitución dentro del término de 45 días naturales a partir de que el Congreso se las notifique. En caso de no hacerlo, se entenderá como aprobación tácita."
+    }
+  ]
+}

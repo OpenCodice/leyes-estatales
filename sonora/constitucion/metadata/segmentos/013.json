@@ -1,0 +1,54 @@
+{
+  "clave": "013",
+  "etiqueta": "Artículo 13",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "013.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 1",
+      "texto": "Son obligaciones de los ciudadanos sonorenses:"
+    },
+    {
+      "id": "013.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción I",
+      "texto": "I.- Las mismas enumeradas para los sonorenses."
+    },
+    {
+      "id": "013.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción II",
+      "texto": "II.- Votar en las elecciones populares, en los términos que señale la Ley Electoral correspondiente."
+    },
+    {
+      "id": "013.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción III",
+      "texto": "III.- Desempeñar, cuando tengan los requisitos de Ley, los cargos de elección popular del Estado."
+    },
+    {
+      "id": "013.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción IV",
+      "texto": "IV.- Desempeñar los cargos concejales en el Municipio donde residan, así como las funciones electorales y las de jurado, conforme lo ordenan las leyes respectivas."
+    }
+  ]
+}

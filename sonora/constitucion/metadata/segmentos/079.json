@@ -1,0 +1,387 @@
+{
+  "clave": "079",
+  "etiqueta": "Artículo 79",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "079.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › párrafo 1",
+      "texto": "Son facultades y obligaciones del Gobernador:"
+    },
+    {
+      "id": "079.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción I",
+      "texto": "I.- Promulgar sin demora las leyes y decretos, y los acuerdos en su caso; ejecutarlos y hacer que se ejecuten; y formar en la parte administrativa y de conformidad con las disposiciones de la ley, los Reglamentos necesarios para la exacta observancia de los mismos."
+    },
+    {
+      "id": "079.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción II",
+      "texto": "II.- Velar por la conservación del orden, tranquilidad y seguridad, así como promover e inducir en el Estado, el progreso económico, social, político y cultural y, en general, el bienestar de la población en todos los órdenes, procurando que sea compartido y equilibrado entre centros urbanos y rurales, conforme a los principios de justicia y seguridad jurídica y a los planes y programas del Gobierno.\n\nII-BIS.- En los términos de la Ley respectiva, conducirá la formulación, instrumentación, control y evaluación del Plan Estatal de Desarrollo y de los Programas de Gobierno, así como los procedimientos de participación y consulta popular, a que se refiere esta Constitución."
+    },
+    {
+      "id": "079.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción III",
+      "texto": "III.- Iniciar ante el Congreso las leyes y decretos que juzgue convenientes para el mejoramiento de la administración pública y progreso del Estado."
+    },
+    {
+      "id": "079.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción IV",
+      "texto": "IV.- Hacer cumplir las resoluciones de los Tribunales y prestar a éstos los medios que necesiten para el ejercicio expedito de sus funciones."
+    },
+    {
+      "id": "079.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción V",
+      "texto": "V.- Exigir de las autoridades que dependan del Ejecutivo del Estado, el cumplimiento estricto de las obligaciones que les imponen la Constitución Federal, la Estatal y las leyes que de ellas emanen, aplicándoles las sanciones a que se hagan acreedoras, en los términos que prevengan las leyes."
+    },
+    {
+      "id": "079.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción VI",
+      "texto": "VI.- Imponer las sanciones administrativas que determinen las leyes y reglamentos."
+    },
+    {
+      "id": "079.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción VII",
+      "texto": "VII.- Presentar cada año ante el Congreso, durante la primera quincena del mes de noviembre, los proyectos de presupuesto de ingresos y egresos del Estado, que deberán regir en el año fiscal inmediato siguiente, y el día 15 de abril de cada año, la cuenta de gastos del año anterior.\n\nLos presupuestos de ingresos y egresos del Estado, así como el principio de Balance Presupuestario Sostenible, tendrán prioridad sobre cualquier afectación del presupuesto que hagan las leyes o reglamentos. Toda afectación legal o reglamentaria se encontrará sujeta a la disponibilidad presupuestal del ejercicio correspondiente."
+    },
+    {
+      "id": "079.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción VIII",
+      "texto": "VIII.- Asistir a rendir ante el Congreso, por sí o de manera extraordinaria y, previo acuerdo, por conducto del Secretario de Gobierno o de quien designe para tal efecto, el informe a que se refiere el Artículo 46 de esta Constitución."
+    },
+    {
+      "id": "079.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción IX",
+      "texto": "IX.- Expedir, por conducto de la Secretaría de Hacienda, los dictámenes de impacto presupuestario de las iniciativas de ley o decreto que se presenten en el Congreso del Estado. Asimismo, realizará estimaciones sobre el impacto presupuestario de las disposiciones administrativas que impliquen costos para su implementación.\n\nEl presidente del Mesa Directiva del Congreso del Estado o en su caso, de la Diputación Permanente, dirigirá la solicitud al Poder Ejecutivo para su trámite correspondiente."
+    },
+    {
+      "id": "079.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción X",
+      "texto": "X.- Informar al Congreso por sí, por conducto del Secretario de Gobierno o de la persona que al efecto designe, sobre cualquier ramo de la administración, cuando el mismo Congreso lo solicite."
+    },
+    {
+      "id": "079.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XI",
+      "texto": "XI.- Nombrar y remover a todos los funcionarios y empleados dependientes del Ejecutivo, cuyo nombramiento o remoción no corresponda a otra autoridad."
+    },
+    {
+      "id": "079.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XII",
+      "texto": "XII.- Autorizar, por sí o por conducto del Secretario de Hacienda, la transferencia, reasignación de recursos y otorgar ampliaciones respecto de los montos originales asignados a los programas que integran el Presupuesto de Egresos.\n\nLa Secretaría de Hacienda, por conducto de sus áreas competentes, preparará un informe trimestral de la evolución de las finanzas públicas, que incluya el comportamiento de los presupuestos de ingresos y egresos del Estado, el avance de los programas de inversión, directa y coordinada, las participaciones entregadas a los municipios y la posición de la deuda pública consolidada, así como las modificaciones que sufran los activos del patrimonio del Estado, el cual será remitido por el Ejecutivo al Congreso del Estado, dentro de los 45 días siguientes al cierre del trimestre, debiéndose publicar en el Boletín Oficial del Gobierno del Estado. Los informes trimestrales adquirirán el carácter provisional y éstos se considerarán consolidados hasta la presentación formal de la cuenta pública anual."
+    },
+    {
+      "id": "079.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XIII",
+      "texto": "XIII.- En caso de invasión o de conmoción interior, tomar, de acuerdo con el Congreso o la Diputación Permanente, las medidas extraordinarias que sean indispensables para mantener el orden.\n\nEn el segundo caso pedirá que se convoque inmediatamente al Congreso a sesiones extraordinarias y desde luego dará cuenta a dicha Asamblea del empleo que haya hecho de tales facultades."
+    },
+    {
+      "id": "079.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XIV",
+      "texto": "XIV.- En caso de sublevación o de trastorno interior en el Estado, excitar, de acuerdo con el Congreso o de la Diputación Permanente, a los Poderes Federales a que ministren la protección debida, si los elementos de que dispone el Estado no fueren bastantes para restablecer el orden."
+    },
+    {
+      "id": "079.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XV",
+      "texto": "XV.- Auxiliar, a solicitud de sus Ayuntamientos, a los Municipios de la Entidad a fin de mejorar la ejecución de obras, la prestación de servicios o cualquier otro propósito del que se derive un mejoramiento de la administración y fortalecimiento de la autonomía Municipal.\n\nXV BIS. Proponer al Congreso del Estado, con base a los estudios técnicos e históricos la definición de los límites entre dos o más Municipios."
+    },
+    {
+      "id": "079.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XVI",
+      "texto": "XVI.- Celebrar convenios con el Ejecutivo Federal, en los términos de Ley, de los que se deriven la asunción por parte del Estado de funciones, la ejecución y operación de obras y la prestación de servicios públicos del Gobierno Federal, cuando el desarrollo económico y social lo hagan necesario.\n\nAsimismo, podrá celebrar convenios con los Ayuntamientos de la Entidad, a efecto de que éstos asuman la prestación de los servicios o la atención de las funciones a las que se refiere el párrafo anterior, o bien la asunción de funciones, la ejecución y operación de obras y la prestación de servicios públicos del Gobierno Estatal cuando el desarrollo económico y social lo hagan necesario, así como para que el Estado se haga cargo, temporalmente, en los términos de las leyes aplicables, de algunos de los servicios públicos de competencia municipal."
+    },
+    {
+      "id": "079.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XVII",
+      "texto": "XVII.- Declarar la utilidad pública y decretar la expropiación, de acuerdo con lo prevenido en el Artículo 27 de la Constitución General, ajustando sus procedimientos a las leyes correspondientes."
+    },
+    {
+      "id": "079.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XVIII",
+      "texto": "XVIII.- Formar y aprobar, en su caso, el Reglamento Interior de cada una de sus dependencias."
+    },
+    {
+      "id": "079.XIX",
+      "tipo": "fraccion",
+      "marca": "XIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XIX",
+      "texto": "XIX.- Representar a la Hacienda Pública, pudiendo, en los casos que lo estime conveniente, delegar esa representación."
+    },
+    {
+      "id": "079.XX",
+      "tipo": "fraccion",
+      "marca": "XX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XX",
+      "texto": "XX.- Ejercer el mando supremo de las fuerzas del Estado y movilizarlas según las necesidades públicas, garantizando el derecho de toda persona a vivir una vida libre de violencias, cumpliendo con los deberes reforzados de protección con las mujeres, adolescentes, niñas y niños, conforme a las bases y modalidades previstas en la Constitución Política de los Estados Unidos Mexicanos y esta Constitución; así como transmitir a la policía preventiva municipal las ordenes necesarias en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público. El mando de la Policía Preventiva Municipal estará a cargo del Presidente Municipal."
+    },
+    {
+      "id": "079.XXI",
+      "tipo": "fraccion",
+      "marca": "XXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XXI",
+      "texto": "XXI.- Convocar al Congreso a sesiones extraordinarias por conducto de la Diputación Permanente, expresando el objeto de ellas."
+    },
+    {
+      "id": "079.XXII",
+      "tipo": "fraccion",
+      "marca": "XXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XXII",
+      "texto": "XXII.- Hacer observaciones por una sola vez en el improrrogable término de diez días hábiles, salvo el caso a que se refiere el Artículo 59, a las leyes y decretos aprobados por el Congreso, y promulgarlos y hacerlos ejecutar desde luego, si el propio Congreso, después de haberlos reconsiderado, los ratifica."
+    },
+    {
+      "id": "079.XXIII",
+      "tipo": "fraccion",
+      "marca": "XXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XXIII",
+      "texto": "XXIII.- Cuidar de que los fondos públicos, en todo caso, estén bien asegurados y de que su recaudación y distribución se hagan con arreglo a la Ley."
+    },
+    {
+      "id": "079.XXIV",
+      "tipo": "fraccion",
+      "marca": "XXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XXIV",
+      "texto": "XXIV.- Nombrar y remover libremente a las y los Secretarios y Subsecretarios, cuando no opte por un gobierno de coalición."
+    },
+    {
+      "id": "079.XXV",
+      "tipo": "fraccion",
+      "marca": "XXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XXV",
+      "texto": "XXV.- Nombrar a los Oficiales del Registro Civil y fijar la demarcación en que deban ejercer sus funciones."
+    },
+    {
+      "id": "079.XXVI",
+      "tipo": "fraccion",
+      "marca": "XXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XXVI",
+      "texto": "XXVI.- Presentar ante el Congreso, al terminar su período constitucional, una memoria sobre el estado de los negocios públicos, expresando cuales sean las deficiencias que hubiere observado en la administración y que medidas en su concepto deben aplicarse para subsanarlas."
+    },
+    {
+      "id": "079.XXVII",
+      "tipo": "fraccion",
+      "marca": "XXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XXVII",
+      "texto": "XXVII.- Fomentar, por todos los medios posibles, la educación popular y procurar el adelanto social, favoreciendo el mejoramiento moral, cívico y material de la colectividad."
+    },
+    {
+      "id": "079.XXVIII",
+      "tipo": "fraccion",
+      "marca": "XXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XXVIII",
+      "texto": "XXVIII.- Organizar y disciplinar la Guardia Nacional y las demás fuerzas del Estado y ejercer, respecto de una y otras, el mando conforme a las atribuciones que le conceden las Constituciones General y Local."
+    },
+    {
+      "id": "079.XXIX",
+      "tipo": "fraccion",
+      "marca": "XXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XXIX",
+      "texto": "XXIX.- Visitar a los Municipios del Estado, cuando lo estime conveniente, proveyendo lo necesario en el orden administrativo y dando cuenta al Congreso o al Supremo Tribunal de Justicia de las faltas que observara y cuyo remedio corresponda a los Poderes Legislativo y Judicial."
+    },
+    {
+      "id": "079.XXX",
+      "tipo": "fraccion",
+      "marca": "XXX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XXX",
+      "texto": "XXX.- Dictar las medidas urgentes encaminadas a la conservación y mejoramiento de la salubridad pública general del Estado."
+    },
+    {
+      "id": "079.XXXI",
+      "tipo": "fraccion",
+      "marca": "XXXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XXXI",
+      "texto": "XXXI.- Formar la estadística del Estado."
+    },
+    {
+      "id": "079.XXXII",
+      "tipo": "fraccion",
+      "marca": "XXXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XXXII",
+      "texto": "XXXII.- Dictar las disposiciones necesarias para la instalación o funcionamiento de la Junta Central de Conciliación y Arbitraje, a que se refiere la fracción XX del Artículo 123 de la Constitución General de la República."
+    },
+    {
+      "id": "079.XXXIII",
+      "tipo": "fraccion",
+      "marca": "XXXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XXXIII",
+      "texto": "XXXIII.- Nombrar al representante que le corresponde en la Junta de Conciliación y Arbitraje, a que se refiere la fracción XX del Articulo 123 de la Constitución General."
+    },
+    {
+      "id": "079.XXXIV",
+      "tipo": "fraccion",
+      "marca": "XXXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XXXIV",
+      "texto": "XXXIV.- Fomentar la organización de instituciones de utilidad social para infundir o inculcar la previsión popular.\n\nXXXIV BIS.- Presidir el Sistema Estatal de Gestión Integral de Riesgos y Protección Civil del Estado de Sonora y a través de este coordinar la gestión de emergencias y desastres con el Sistema Nacional de Protección Civil y los sistemas municipales.\n\nEn el marco del Sistema Estatal de Gestión Integral de Riesgos y Protección Civil el titular del Poder Ejecutivo del Estado, con el fin de salvaguardar el derecho humano a la protección civil, ante la inminencia o alta probabilidad de que ocurra un desastre o en el caso de que este ocurra mantendrá el mando y coordinación de las instituciones del Estado y establecerá para tal efecto el Comité Estatal de Emergencias y Desastres para, en su caso, emitir los instrumentos y realizar las acciones de atención, respuesta, recuperación y reconstrucción, así como ejecutar a través de las instancias operativas que integran el Sistema, las acciones de protección civil que considere necesarias."
+    },
+    {
+      "id": "079.XXXV",
+      "tipo": "fraccion",
+      "marca": "XXXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XXXV",
+      "texto": "XXXV.- Participar en la elección de Magistradas y Magistrados del Supremo Tribunal de Justicia del Estado, de las Magistradas y Magistrados del Tribunal de Disciplina Judicial, de las Magistradas y Magistrados Regionales de Circuito y de las Juezas y Jueces del Poder Judicial del Estado, conforme al artículo 113 BIS de esta Constitución.\n\nAdicionalmente, podrá designar a una persona que formará parte del Órgano de Administración del Poder Judicial del Estado de Sonora, en términos del artículo 120 de esta Constitución."
+    },
+    {
+      "id": "079.XXXVI",
+      "tipo": "fraccion",
+      "marca": "XXXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XXXVI",
+      "texto": "XXXVI.- Turnar al Fiscal General de Justicia los asuntos de su competencia que deban ventilarse ante los tribunales, para que ejercite las atribuciones de su ministerio.\n\nXXXVI BIS.- Plantear al Congreso del Estado, los casos de servidores públicos que ameriten la iniciación de un Juicio Político por las faltas u omisiones graves que redunden en perjuicio de los intereses públicos fundamentales y de su buen despacho."
+    },
+    {
+      "id": "079.XXXVII",
+      "tipo": "fraccion",
+      "marca": "XXXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XXXVII",
+      "texto": "XXXVII.- Derogada."
+    },
+    {
+      "id": "079.XXXVIII",
+      "tipo": "fraccion",
+      "marca": "XXXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XXXVIII",
+      "texto": "XXXVIII.- Organizar el sistema penal sobre la base de trabajo como medio de regeneración."
+    },
+    {
+      "id": "079.XXXIX",
+      "tipo": "fraccion",
+      "marca": "XXXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XXXIX",
+      "texto": "XXXIX.- Conceder, conforme a las leyes, indulto necesario a los reos sentenciados por delitos de la competencia de los Tribunales del Estado."
+    },
+    {
+      "id": "079.XL",
+      "tipo": "fraccion",
+      "marca": "XL",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XL",
+      "texto": "XL.- En cualquier momento, optar por un gobierno de coalición con uno o varios de los partidos políticos representados en el Congreso del Estado.\n\nEl gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por mayoría absoluta de los miembros presentes del Congreso del Estado. El convenio establecerá las causas de la disolución del gobierno de coalición"
+    },
+    {
+      "id": "079.XLI",
+      "tipo": "fraccion",
+      "marca": "XLI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › Fracción XLI",
+      "texto": "XLI.- Las demás que le asignen las leyes, ya sean Federales o del Estado.\n\nEl Gobernador del Estado podrá delegar las facultades y obligaciones previstas en la presente Constitución al servidor público que determine. Esta delegación podrá efectuarse en los casos que el Titular del Ejecutivo lo establezca procedente salvo aquellas facultades que por su naturaleza jurídica deban ser ejercidas por el mismo Gobernador.\n\nSon facultades exclusivas de la persona titular del Poder Ejecutivo no delegables las establecidas en las fracciones I, III, VII, XIII, XIV, XVII, XVIII, XXI, XXII, XXIV, XXXII, XXXIII, XXXV, XXXVI BIS, XXXIX y XL de este artículo."
+    }
+  ]
+}
