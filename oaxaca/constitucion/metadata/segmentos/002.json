@@ -1,0 +1,54 @@
+{
+  "clave": "002",
+  "etiqueta": "Artículo 2",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "002.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 1",
+      "texto": "La Ley es igual para todos. La Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales en materia de derechos humanos de los que el Estado Mexicano sea parte y esta Constitución son la Ley Suprema del Estado."
+    },
+    {
+      "id": "002.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 2",
+      "texto": "Párrafo primero reformado mediante decreto Número 1263 aprobado el 30 de junio del 2015 y publicado en el Periódico Oficial Extra del 30 de junio del 2015."
+    },
+    {
+      "id": "002.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 3",
+      "texto": "Las facultades que la Constitución Política de los Estados Unidos Mexicanos no otorgan expresamente a la Federación, se entienden reservadas para el Estado de Oaxaca en el ámbito de su competencia."
+    },
+    {
+      "id": "002.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 4",
+      "texto": "El Poder Público y sus Representantes sólo pueden hacer lo que la Ley les autoriza y deben hacer, lo que la Ley les ordena. Los particulares pueden hacer lo que la Ley no les prohíbe y deben hacer, lo que la Ley les ordena."
+    },
+    {
+      "id": "002.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 5",
+      "texto": "(Artículo reformado mediante decreto número 2675, aprobado por la LXIV Legislatura del Estado el 1 de septiembre del 2021 y publicado en el Periódico Oficial número 38 décimo primera sección de fecha 18 de septiembre del 2021)"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "107",
+  "etiqueta": "Artículo 107",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "107.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 107 › párrafo 1",
+      "texto": "Habrá Jueces de Primera Instancia y Jurados en todas las cabeceras de distrito judicial."
+    },
+    {
+      "id": "107.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 107 › párrafo 2",
+      "texto": "En los distritos judiciales con población mayoritariamente indígena, los juzgadores y jurado resolverán los asuntos de su competencia atendiendo las normas estatales y las normas indígenas en un marco de pluralismo jurídico."
+    },
+    {
+      "id": "107.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 107 › párrafo 3",
+      "texto": "Párrafo segundo adicionado mediante decreto Número 1263 aprobado el 30 de junio del 2015 y publicado en el Periódico Oficial Extra del 30 de junio del 2015."
+    }
+  ]
+}

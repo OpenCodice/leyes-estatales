@@ -1,0 +1,45 @@
+{
+  "clave": "043",
+  "etiqueta": "Artículo 43",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "043.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 1",
+      "texto": "El quince de noviembre, a las once horas, en sesión solemne, se declarará abierto el primer periodo de sesiones por parte del Presidente de la Legislatura."
+    },
+    {
+      "id": "043.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 2",
+      "texto": "Derogado."
+    },
+    {
+      "id": "043.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 3",
+      "texto": "(Párrafo segundo derogado mediante decreto número 2518, aprobado por la LXV Legislatura del Estado el 11 de noviembre del 2024, publicado en el Periódico Oficial Extra de fecha 12 de noviembre del 2024) Esta sesión no tendrá más objeto que celebrar la apertura del periodo de sesiones."
+    },
+    {
+      "id": "043.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 4",
+      "texto": "(Artículo reformado mediante decreto número 2518, aprobado por la LXV Legislatura del Estado el 11 de noviembre del 2024, publicado en el Periódico Oficial Extra de fecha 12 de noviembre del 2024)"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "clave": "010",
+  "etiqueta": "Artículo 10",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "010.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 1",
+      "texto": "Ningún negocio judicial tendrá más de dos instancias, y el Juez que de cualquier manera haya intervenido en la primera, no podrá conocer en la segunda. Ningún negocio civil o criminal se sujetará por segunda vez a los Tribunales, cuando ya esté resuelto conforme a las leyes. Queda prohibida la práctica de absolver de la instancia."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "clave": "032",
+  "etiqueta": "Artículo 32",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "032.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › párrafo 1",
+      "texto": "Los Diputados Propietarios podrán ser reelectos hasta por un período consecutivo adicional."
+    },
+    {
+      "id": "032.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › párrafo 2",
+      "texto": "La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que haya renunciado o perdido su militancia antes de la mitad de su mandato."
+    },
+    {
+      "id": "032.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › párrafo 3",
+      "texto": "Párrafo reformado mediante decreto Número 1263 aprobado el 30 de junio del 2015 y publicado en el Periódico Oficial Extra del 30 de junio del 2015."
+    },
+    {
+      "id": "032.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › párrafo 4",
+      "texto": "Ninguno de los Diputados mencionados en el párrafo anterior, cuando hayan sido reelectos con el carácter de propietarios durante un período consecutivo anterior, podrá ser electo para el período inmediato como suplente, pero éstos sí podrán ser electos para el período inmediato como propietarios."
+    },
+    {
+      "id": "032.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › párrafo 5",
+      "texto": "Párrafo adicionado mediante decreto Número 1263 aprobado el 30 de junio del 2015 y publicado en el Periódico Oficial Extra del 30 de junio del 2015."
+    }
+  ]
+}

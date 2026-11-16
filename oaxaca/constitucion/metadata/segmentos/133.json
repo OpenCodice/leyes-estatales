@@ -1,0 +1,27 @@
+{
+  "clave": "133",
+  "etiqueta": "Artículo 133",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "133.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › párrafo 1",
+      "texto": "Toda riqueza poseída por una o varias personas está obligada a contribuir a los gastos públicos del Estado con la parte proporcional que determinen las leyes."
+    },
+    {
+      "id": "133.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › párrafo 2",
+      "texto": "Se declaran revisables todos los contratos y concesiones hechos por los gobiernos anteriores desde el año de mil ochocientos setenta y dos, para ajustarlos al precepto del Artículo 28 de la Constitución Federal y para la reglamentación de los servicios públicos en su caso. El Ejecutivo declarará la nulidad de los que impliquen grave perjuicio de interés general."
+    }
+  ]
+}

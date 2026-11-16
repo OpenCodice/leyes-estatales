@@ -1,0 +1,27 @@
+{
+  "clave": "005",
+  "etiqueta": "Artículo 5",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "005.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 1",
+      "texto": "Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento escrito de la autoridad competente, que funde y motive la causa legal del procedimiento. En los juicios y procedimientos seguidos en forma de juicio en los que se establezca como regla la oralidad, bastará con que quede constancia de ellos en cualquier medio que dé certeza de su contenido y del cumplimiento de lo previsto en este párrafo."
+    },
+    {
+      "id": "005.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 2",
+      "texto": "(Párrafo reformado mediante decreto número 1368, aprobado por la LXIII Legislatura el 6 de febrero del 2018 y publicado en el Periódico Oficial Extra del 13 de abril del 2018) En los juicios del orden criminal queda prohibido imponer por simple analogía y aún por mayoría de razón, pena alguna que no esté decretada por una ley exactamente aplicable al delito de que se trate. En los juicios del orden civil, la sentencia definitiva deberá ser conforme a la letra o a la interpretación jurídica de la ley, y a falta de ésta, se fundará en los principios generales del derecho."
+    }
+  ]
+}

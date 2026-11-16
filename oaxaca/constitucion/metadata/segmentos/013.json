@@ -1,0 +1,36 @@
+{
+  "clave": "013",
+  "etiqueta": "Artículo 13",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "013.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 1",
+      "texto": "Ninguna ley ni autoridad podrá limitar el derecho de petición, con tal que ésta se formule por escrito o por medios electrónicos, de manera pacífica y respetuosa. En asuntos políticos, sólo podrán ejercerlo los ciudadanos de la República. La autoridad a quién se dirija la petición tiene la obligación de contestarla por escrito o por medio electrónico solicitado, en el término de diez días, cuando la ley no fije otro, y hacer llegar desde luego su respuesta al peticionario."
+    },
+    {
+      "id": "013.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 2",
+      "texto": "A las peticiones que se realicen en lengua indígena se les dará respuesta en la misma forma, quedando a cargo del Estado la labor de traducción o interpretación."
+    },
+    {
+      "id": "013.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 3",
+      "texto": "Artículo reformado mediante decreto número 1610 aprobado por la LXIII Legislatura el 25 de septiembre del 2018 y publicado en el Periódico Oficial número 45 Octava Sección el 10 de noviembre del 2018)"
+    }
+  ]
+}
