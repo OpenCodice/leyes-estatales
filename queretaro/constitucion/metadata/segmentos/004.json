@@ -1,0 +1,54 @@
+{
+  "clave": "004",
+  "etiqueta": "Artículo 4",
+  "titulo": "Título Primero",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "004.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 1",
+      "texto": "La educación que se imparta en el Estado, promoverá el conocimiento de su geografía, cultura, derechos humanos, características sociales y económicas, valores arqueológicos, históricos y artísticos, tradiciones, lenguas y creencias de los grupos indígenas y el papel de estos en la historia e identidad de los queretanos y de la Nación Mexicana. (Ref. P. O. No. 47, 27-IX-13)"
+    },
+    {
+      "id": "004.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 2",
+      "texto": "El Sistema Educativo Estatal estará orientado a exaltar los valores universales cívicos y democráticos del hombre; a propiciar el conocimiento, la defensa y respeto a los derechos humanos; a fomentar la cultura de la legalidad, el trabajo productivo para una convivencia social armónica y promover el desarrollo de la ciencia, la tecnología y la innovación. Se reconoce la autonomía de la universidad pública en los términos que la Ley establezca. Se promoverá y se atenderá la educación superior necesaria para el desarrollo del Estado, destinando el subsidio suficiente y oportuno para el cumplimiento eficaz de sus fines. (Ref. P. O. No. 71, 21-XII-16)"
+    },
+    {
+      "id": "004.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 3",
+      "texto": "La cultura de los queretanos constituye un bien irrenunciable y un derecho fundamental. Las leyes protegerán el patrimonio y las manifestaciones culturales; las autoridades, con la participación responsable de la sociedad, promoverán el rescate, la preservación, el fortalecimiento, la protección, la restauración y la difusión del patrimonio cultural que define al pueblo queretano, mismo que es inalienable e imprescriptible. (Ref. P. O. No. 47, 27-IX-13)"
+    },
+    {
+      "id": "004.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 4",
+      "texto": "El Sistema Educativo Estatal deberá sustentarse y promover la Cultura de Paz. (Adición P. O. No. 89, 13-IX-24, ver artículos transitorios) El Estado deberá garantizar que la educación sea inclusiva y que todos los niños, niñas y jóvenes que estudien en las mismas escuelas, no sean por ningún motivo excluidos, con la finalidad de eliminar las barreras que limiten el aprendizaje y la participación de los alumnos."
+    },
+    {
+      "id": "004.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 5",
+      "texto": "(Adición P. O. No. 89, 13-IX-24, ver artículos transitorios)"
+    }
+  ]
+}

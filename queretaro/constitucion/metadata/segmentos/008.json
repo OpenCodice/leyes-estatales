@@ -1,0 +1,108 @@
+{
+  "clave": "008",
+  "etiqueta": "Artículo 8",
+  "titulo": "Título Segundo",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "008.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 1",
+      "texto": "El Gobernador del Estado, los Diputados de la Legislatura y los miembros de los Ayuntamientos, serán electos mediante elección popular. Para ser electo y permanecer en los cargos de elección popular se requiere: (Ref. P. O. No. 89, 13-IX-24, ver artículos transitorios)"
+    },
+    {
+      "id": "008.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción I",
+      "texto": "I. Ser ciudadano mexicano y estar en pleno ejercicio de sus derechos políticos;"
+    },
+    {
+      "id": "008.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción II",
+      "texto": "II. Estar inscrito en el padrón electoral;"
+    },
+    {
+      "id": "008.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción III",
+      "texto": "III. Tener residencia efectiva en el Estado para el caso de diputados, de cuando menos tres años anteriores a la fecha de la elección. y para el caso de Gobernador del Estado de cinco años. Para el caso de miembros del Ayuntamiento, tener una residencia efectiva en el municipio mínima de 3 años;"
+    },
+    {
+      "id": "008.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción IV",
+      "texto": "IV. No ser militar en servicio activo o tener un mando en los cuerpos policíacos;"
+    },
+    {
+      "id": "008.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción V",
+      "texto": "V. No ser Presidente Municipal, ni ser titular de ninguno de los organismos a los que esta Constitución otorga autonomía, ni ser Secretario o Subsecretario de Estado, ni titular de alguno de los organismos descentralizados o desconcentrados de la Administración Pública Federal, Estatal o Municipal, a menos que se separe de sus funciones, mediante licencia o renuncia en los términos de ley, por lo menos noventa días naturales antes del día de la elección; (Ref. P. O. No. 34, 26-VI-14)"
+    },
+    {
+      "id": "008.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción VI",
+      "texto": "VI. No desempeñarse como Magistrado del Órgano Jurisdiccional Especializado en Materia Electoral del Estado, como Consejero, Secretario Ejecutivo o Director Ejecutivo del Instituto Electoral del Estado de Querétaro, ni pertenecer al Servicio Profesional Electoral Nacional, salvo que, en cualquier caso, se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate; (Ref. P. O. No. 89, 13-IX-24, ver artículos transitorios)"
+    },
+    {
+      "id": "008.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción VII",
+      "texto": "VII. No ser ministro de algún culto; (Ref. P. O. No. 89, 13-IX-24, ver artículos transitorios)"
+    },
+    {
+      "id": "008.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción VIII",
+      "texto": "VIII. No ser declarado deudor alimentario moroso; (Adición P. O. No. 89, 13-IX-24, ver artículos transitorios)"
+    },
+    {
+      "id": "008.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción IX",
+      "texto": "IX. No haber sido condenado como persona agresora por delitos sexuales y/o violencia familiar; y (Adición P. O. No. 89, 13-IX-24, ver artículos transitorios)"
+    },
+    {
+      "id": "008.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción X",
+      "texto": "X. No estar condenada o condenado por el delito de violencia política contra las mujeres en razón de género. (Adición P. O. No. 89, 13-IX-24, ver artículos transitorios) Se pierde el derecho a ser votado para cargos de elección popular en el Estado, por residir más de tres años consecutivos fuera del mismo, salvo en los casos de estudios y de empleo fuera de Querétaro, cargo o comisión gubernamental, así como en el caso de queretanos migrantes al extranjero que se hubieren reintegrado a su domicilio, por lo menos seis meses antes del día de la elección y se acredite que su familia haya permanecido en el Estado durante su ausencia."
+    }
+  ]
+}

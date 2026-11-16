@@ -1,0 +1,54 @@
+{
+  "clave": "035",
+  "etiqueta": "Artículo 35",
+  "titulo": "Título Tercero",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "035.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35 › párrafo 1",
+      "texto": "El Municipio Libre constituye la base de la división territorial y de la organización política y administrativa del Estado de Querétaro."
+    },
+    {
+      "id": "035.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35 › párrafo 2",
+      "texto": "Los Municipios serán gobernados por un Ayuntamiento de elección popular directa, el cual se compondrá:"
+    },
+    {
+      "id": "035.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35 › Fracción I",
+      "texto": "I. De un Presidente o Presidenta Municipal que, política y administrativamente, será la persona representante del Municipio; (Ref. P.O. No. 58, 15-VII-26)"
+    },
+    {
+      "id": "035.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35 › Fracción II",
+      "texto": "II. Del número determinado de Regidurías que, basado en factores geográficos, demográficos y socioeconómicos de cada Municipio, determine la ley, el cual no podrá exceder de quince; y (Ref. P.O. No. 58, 15-VII-26)"
+    },
+    {
+      "id": "035.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35 › Fracción III",
+      "texto": "III. De una Sindicatura. (Ref. P.O. No. 58, 15-VII-26)\n\nLos ayuntamientos se regirán por los principios de Gobierno Abierto, así como los previstos en la Constitución Política de los Estados Unidos Mexicanos y demás disposiciones legales aplicables, debiendo renovarse cada tres años. Los miembros que los integran protestarán el cargo al entrar en funciones el primero de octubre del año de su elección. (Ref. P.O. No. 58, 15-VII-26)\n\nLos Presidentes Municipales, los Regidores y los Síndicos, podrán ser electos consecutivamente, por un período adicional, en términos de la ley de la materia. (Adición P. O. No. 34, 26-VI-14)"
+    }
+  ]
+}

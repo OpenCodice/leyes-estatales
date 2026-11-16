@@ -1,0 +1,36 @@
+{
+  "clave": "026",
+  "etiqueta": "Artículo 26",
+  "titulo": "Título Segundo",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "026.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › párrafo 1",
+      "texto": "Compete al Poder Judicial la facultad de resolver controversias puestas a su consideración, conforme a las leyes y procedimientos judiciales vigentes en el Estado, en asuntos del fuero común, en materia civil, familiar, penal, laboral, justicia de menores y materias federales cuando así lo faculten las leyes. (Ref. P. O. No. 30, 13-IV-21)"
+    },
+    {
+      "id": "026.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › párrafo 2",
+      "texto": "Sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia. (Ref. P. O. No. 30, 13-IV-21)"
+    },
+    {
+      "id": "026.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › párrafo 3",
+      "texto": "La resolución de las controversias o de los conflictos entre trabajadores y patrones estará a cargo del Poder Judicial, a través del Tribunal Laboral, cuyos integrantes deberán contar con capacidad y experiencia en materia laboral. (Ref. P. O. No. 35, 30-IV-26)"
+    }
+  ]
+}

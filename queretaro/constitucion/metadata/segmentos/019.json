@@ -1,0 +1,99 @@
+{
+  "clave": "019",
+  "etiqueta": "Artículo 19",
+  "titulo": "Título Segundo",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "019.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › párrafo 1",
+      "texto": "La Legislatura del Estado, para la interpretación, creación, reforma, derogación o abrogación de leyes y decretos, deberá observar la ley y reglamentos correspondientes, los cuales se sujetarán a lo siguiente:"
+    },
+    {
+      "id": "019.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › Fracción I",
+      "texto": "I. Las iniciativas de ley, de decreto, de acuerdo; los dictámenes y las resoluciones, se harán del conocimiento del Pleno;"
+    },
+    {
+      "id": "019.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › Fracción II",
+      "texto": "II. Las Comisiones, respecto de las iniciativas, emitirán dictamen que proponga: ser aprobadas en sus términos o con modificaciones, o bien, ser rechazadas. En ningún caso se podrá dispensar su dictamen;"
+    },
+    {
+      "id": "019.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › Fracción III",
+      "texto": "III. Se podrá invitar a participar en los debates al autor de la iniciativa;"
+    },
+    {
+      "id": "019.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › Fracción IV",
+      "texto": "IV. Para resolver se emitirá votación requiriéndose mayoría, salvo que se trate de proyectos observados por el titular del Poder Ejecutivo, en cuyo caso se requerirá del voto de las dos terceras partes de los integrantes de la Legislatura del Estado;"
+    },
+    {
+      "id": "019.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › Fracción V",
+      "texto": "V. Las resoluciones se comunicarán al Ejecutivo con las formalidades de ley, quien dentro de los quince días naturales siguientes del día en que la recibe, podrá regresarlas a la Legislatura del Estado, por una ocasión, con las observaciones totales o parciales, para que sean reconsideradas; de aprobarse de nueva cuenta por las dos terceras partes de los integrantes, el titular del Poder Ejecutivo estará obligado a publicarla;"
+    },
+    {
+      "id": "019.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › Fracción VI",
+      "texto": "VI. El Titular del Poder Ejecutivo no podrá observar las resoluciones de la Legislatura, cuando:\n\na. Se trate de resoluciones relativas a la suspensión y desaparición de algún ayuntamiento, a la revocación de mandato, a la suspensión o inhabilitación de sus integrantes;\n\nb. Se trate de la declaración de procedencia o de juicio político;\n\nc. Se trate de la Ley Orgánica del Poder Legislativo y las disposiciones reglamentarias de ésta;\n\nd. Las reformas aprobadas por el Constituyente Permanente."
+    },
+    {
+      "id": "019.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › Fracción VII",
+      "texto": "VII. Si la Legislatura al resolver sobre un proyecto observado, presentara un proyecto alternativo, a éste se le dará tratamiento de proyecto enviado para su publicación por primera vez;"
+    },
+    {
+      "id": "019.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › Fracción VIII",
+      "texto": "VIII. Si el titular del Poder Ejecutivo no devuelve con observaciones el proyecto aprobado, deberá publicarlo en un lapso de treinta días naturales siguientes a su recepción. En caso de no hacerlo, la Legislatura del Estado lo publicará."
+    },
+    {
+      "id": "019.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › Fracción IX",
+      "texto": "IX. Si la ley, decreto o acuerdo no señala el día en el que deba comenzar a observarse, será obligatoria desde el día siguiente al de su publicación. La Ley Orgánica del Poder Legislativo y las disposiciones reglamentarias de ésta, para su vigencia y validez, no requerirán de la promulgación ni la publicación por parte del Poder Ejecutivo."
+    }
+  ]
+}
