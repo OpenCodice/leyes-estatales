@@ -1,0 +1,27 @@
+{
+  "clave": "042",
+  "etiqueta": "Artículo 42",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "042.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 1",
+      "texto": "La Legislatura tendrá periodos ordinarios de sesiones dos veces al año; el primer periodo de sesiones dará principio el día quince de noviembre y concluirá el quince de abril, y el segundo periodo, dará principio el primero de julio y concluirá el treinta de septiembre."
+    },
+    {
+      "id": "042.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 2",
+      "texto": "[Modificado mediante Decreto número 538 de la LXII Legislatura aprobado el 14 de marzo del 2014 y publicado en el Periódico Oficial No 15 Cuarta Sección del 12 de abril del 2014] Se reunirá, además, en periodos extraordinarios siempre que sea convocada por la Diputación Permanente o por el Ejecutivo; pero si éste hiciere la convocatoria, no se efectuará antes de diez días de la fecha de la publicación de aquella."
+    }
+  ]
+}

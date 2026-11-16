@@ -1,0 +1,63 @@
+{
+  "clave": "017",
+  "etiqueta": "Artículo 17",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "017.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 1",
+      "texto": "Todo rigor o maltratamiento usado en la aprehensión, en la detención o en las prisiones;"
+    },
+    {
+      "id": "017.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 2",
+      "texto": "toda gabela o contribución en las cárceles; toda privación de los elementos esenciales de la vida; así como la permanencia en lugares notoriamente insalubres o antihigiénicos, son, tanto como para el que los ordene como para el que los ejecute, un motivo de responsabilidad que la autoridad competente hará efectiva conforme a la ley. Las penas que priven de la libertad a un individuo tendrán como base el trabajo adecuado para éste, y como fin su reinserción social. En ningún caso podrá disponerse de la persona de los sentenciados, salvo en los casos a los que se refiere el siguiente párrafo."
+    },
+    {
+      "id": "017.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 3",
+      "texto": "La autoridad administrativa sólo podrá decretarla respecto de quienes estén a su disposición, previa la libre gestión del preso, hecha por escrito y firmada por sus defensores, familiares o ante testigos que no sean empleados públicos. La autoridad respectiva será estrictamente responsable de todo perjuicio que el preso sufra por causa originada directamente por la extracción. En ningún otro caso podrá disponerse de la persona de los reos."
+    },
+    {
+      "id": "017.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 4",
+      "texto": "El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto."
+    },
+    {
+      "id": "017.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 5",
+      "texto": "Tercer párrafo reformado mediante decreto Número 1263 aprobado el 30 de junio del 2015 y publicado en el Periódico Oficial Extra del 30 de junio del 2015."
+    },
+    {
+      "id": "017.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 6",
+      "texto": "Los sentenciados, en los casos y condiciones que establezca la ley, podrán compurgar sus penas en los centros penitenciarios más cercanos a su domicilio, a fin de propiciar su reintegración a la comunidad como forma de reinserción social. Esta disposición no aplicará en caso de delincuencia organizada y respecto de otros internos que requieran medidas especiales de seguridad."
+    }
+  ]
+}

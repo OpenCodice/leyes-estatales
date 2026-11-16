@@ -1,0 +1,36 @@
+{
+  "clave": "135",
+  "etiqueta": "Artículo 135",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "135.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › párrafo 1",
+      "texto": "En el Estado, ningún ciudadano puede desempeñar a la vez, dos o más cargos de elección popular directa o indirecta; pero el electo debe optar entre ellos el que quiera desempeñar definitivamente."
+    },
+    {
+      "id": "135.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › párrafo 2",
+      "texto": "Tampoco podrá desempeñar empleo ni cargo público de elección popular, cualquier ciudadano que disfrute del fuero federal."
+    },
+    {
+      "id": "135.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › párrafo 3",
+      "texto": "El requisito de la edad a los servidores públicos a quienes (sic) exige la de treinta y cinco años para el ejercicio de su encargo exceptuando el de Gobernador, puede ser dispensado en circunstancias especiales, calificadas por la Legislatura pero nunca ni por ningún motivo se dispensarán más de cinco años de edad."
+    }
+  ]
+}

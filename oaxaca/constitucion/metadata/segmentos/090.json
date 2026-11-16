@@ -1,0 +1,54 @@
+{
+  "clave": "090",
+  "etiqueta": "Artículo 90",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "090.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › párrafo 1",
+      "texto": "La Ley Orgánica del Poder Ejecutivo del Estado se sujetará a las siguientes disposiciones generales:"
+    },
+    {
+      "id": "090.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › Fracción I",
+      "texto": "I.- Establecerá los requisitos para ser titular de las dependencias y órganos auxiliares del Ejecutivo;"
+    },
+    {
+      "id": "090.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › Fracción II",
+      "texto": "II. Asignará las atribuciones, obligaciones y competencias de cada una de aquellas."
+    },
+    {
+      "id": "090.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › Fracción III",
+      "texto": "III.- Definirá los sistemas de organización, comunicación, coordinación, planeación, programación, control y evaluación de las actividades de las dependencias del Ejecutivo y,"
+    },
+    {
+      "id": "090.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › Fracción IV",
+      "texto": "IV.- Establecerá el esquema operativo del sector paraestatal, el cual se integrará con organismos descentralizados, empresas de participación estatal, comisiones, comités, juntas y patronatos."
+    }
+  ]
+}

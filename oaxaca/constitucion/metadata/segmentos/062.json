@@ -1,0 +1,27 @@
+{
+  "clave": "062",
+  "etiqueta": "Artículo 62",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "062.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › párrafo 1",
+      "texto": "La Legislatura podrá autorizar al Gobernador el uso de facultades extraordinarias, en caso de desastre o para afrontar una emergencia."
+    },
+    {
+      "id": "062.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › párrafo 2",
+      "texto": "Fuera de los casos señalados, la Legislatura no podrá, en ningún caso, delegar sus facultades en el Ejecutivo."
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "clave": "114-quinquies",
+  "etiqueta": "Artículo 114 Quinquies",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "114-quinquies.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 Quinquies › párrafo 1",
+      "texto": "El Tribunal de Justicia Administrativa y Combate a la Corrupción del Estado de Oaxaca, es la máxima autoridad jurisdiccional en materia de justicia administrativa y responsabilidades administrativas de los servidores públicos y los particulares en los términos que establece la legislación."
+    },
+    {
+      "id": "114-quinquies.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 Quinquies › párrafo 2",
+      "texto": "Estará dotado de plena autonomía para dictar sus fallos y establecer su organización, funcionamiento, procedimientos, en su caso, recursos contra sus resoluciones y el ejercicio de su presupuesto. Promoverá la profesionalización de la ciudadanía en las materias de su competencia."
+    },
+    {
+      "id": "114-quinquies.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 Quinquies › Apartado A",
+      "texto": "A. El Tribunal estará conformado por una Sala Superior y cuatro Salas Unitarias de Primera Instancia."
+    },
+    {
+      "id": "114-quinquies.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 114 Quinquies › Apartado A › párrafo 3",
+      "texto": "La Sala Superior del Tribunal se integrará por tres magistraturas que actuarán en Pleno. Las y los magistrados de la Sala Superior durarán en su encargo siete años. Su sustitución se realizará de manera escalonada."
+    },
+    {
+      "id": "114-quinquies.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 114 Quinquies › Apartado A › párrafo 4",
+      "texto": "Cada una de las Salas Unitarias de Primera Instancia se integrará por una magistratura. Las y los magistrados titulares durarán en su encargo cinco años."
+    },
+    {
+      "id": "114-quinquies.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 114 Quinquies › Apartado A › párrafo 5",
+      "texto": "El Tribunal será presidido por la o el magistrado que elija el Pleno y será electo de entre las y los integrantes de la Sala Superior; ejercerá la presidencia por un período de dos años, pudiendo ser reelecto por un período más."
+    },
+    {
+      "id": "114-quinquies.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 114 Quinquies › Apartado A › párrafo 6",
+      "texto": "Para garantizar el desempeño profesional, la Ley regulará el Servicio Profesional de Carrera del Tribunal."
+    },
+    {
+      "id": "114-quinquies.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 Quinquies › Apartado B",
+      "texto": "B. Para ser elegibles, las y los magistrados deberán cumplir con los requisitos que establezca la Ley."
+    },
+    {
+      "id": "114-quinquies.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 114 Quinquies › Apartado B › párrafo 7",
+      "texto": "Cuando exista la vacante de una magistratura, la Presidencia del Tribunal la comunicará al Gobernador del Estado para que éste designe a la persona que ocupará el cargo."
+    },
+    {
+      "id": "114-quinquies.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 114 Quinquies › Apartado B › párrafo 8",
+      "texto": "Posteriormente, el Gobernador del Estado, remitirá la designación junto con una justificación de la idoneidad profesional y académica de la persona, a través de la Junta de Coordinación Política del Congreso del Estado, quien someterá para su votación a las y los integrantes del Pleno del Congreso del Estado."
+    },
+    {
+      "id": "114-quinquies.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 114 Quinquies › Apartado B › párrafo 9",
+      "texto": "La aprobación de la propuesta de designación se hará por las dos terceras partes de los miembros presentes del Congreso del Estado."
+    },
+    {
+      "id": "114-quinquies.p10",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 114 Quinquies › Apartado B › párrafo 10",
+      "texto": "Previo a la ratificación que haga el Pleno, la Junta de Coordinación Política podrá solicitar la comparecencia presencial de las personas designadas en caso de que lo estime necesario."
+    },
+    {
+      "id": "114-quinquies.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 Quinquies › Apartado C",
+      "texto": "C. En los casos que involucren personas, comunidades, municipios y pueblos indígenas afromexicanos, el Tribunal al resolver, observará los sistemas normativos y las determinaciones de las instituciones de dichos pueblos."
+    },
+    {
+      "id": "114-quinquies.p11",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 114 Quinquies › Apartado C › párrafo 11",
+      "texto": "(Artículo adicionado mediante Decreto número 2397, aprobado por la LXV Legislatura del Estado el 28 de agosto del 2024 y publicado en el Periódico Oficial Extra de fecha 10 de septiembre del 2024)"
+    }
+  ]
+}

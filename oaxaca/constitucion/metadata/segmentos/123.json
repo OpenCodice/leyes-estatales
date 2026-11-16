@@ -1,0 +1,27 @@
+{
+  "clave": "123",
+  "etiqueta": "Artículo 123",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "123.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 1",
+      "texto": "En los delitos del orden común y violación de las leyes federales y del Estado, los servidores públicos señalados en el artículo 115 de esta Constitución, no gozarán de protección constitucional alguna, pudiendo en consecuencia proceder contra ellos ante la Fiscalía General del Estado."
+    },
+    {
+      "id": "123.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 2",
+      "texto": "(Artículo reformado mediante decreto número 671, aprobado por la LXIII Legislatura el 9 de agosto del 2017 y publicado en el Periódico Oficial Extra del 11 de agosto del 2017)"
+    }
+  ]
+}
