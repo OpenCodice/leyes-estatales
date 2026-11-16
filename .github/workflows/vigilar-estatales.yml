@@ -49,6 +49,7 @@ jobs:
         id: m
         run: |
           git clone -q --depth 1 "$EXTRACTOR_REPO" /tmp/extractor
+          pip install -q -r /tmp/extractor/requirements.txt
           echo "matriz=$(python3 /tmp/extractor/scripts/resolver_pdf.py --matriz)" >> "$GITHUB_OUTPUT"
 
   vigilar:
@@ -101,7 +102,10 @@ jobs:
 
       - name: Descargar el PDF vigente
         if: steps.url.outputs.skip == 'false'
-        run: curl -sSL --retry 3 -o /tmp/estatal.pdf "${{ steps.url.outputs.url }}"
+        run: |
+          curl -sSL --retry 3 -A "Mozilla/5.0" -o /tmp/estatal.pdf "${{ steps.url.outputs.url }}"
+          # Algunos sitios responden 200 con una página HTML cuando el archivo ya no existe.
+          head -c 5 /tmp/estatal.pdf | grep -q '%PDF' || { echo "::error::${{ matrix.estado }}: la URL no devolvió un PDF"; exit 1; }
 
       - name: Regenerar texto + metadata desde el PDF
         if: steps.url.outputs.skip == 'false'
