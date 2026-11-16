@@ -1,0 +1,45 @@
+{
+  "clave": "121",
+  "etiqueta": "Artículo 121.",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "121.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121. › párrafo 1",
+      "texto": "Los Municipios se dividirán en:"
+    },
+    {
+      "id": "121.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121. › Fracción I",
+      "texto": "I.- Cabeceras."
+    },
+    {
+      "id": "121.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121. › Fracción II",
+      "texto": "II.- Delegaciones."
+    },
+    {
+      "id": "121.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121. › Fracción III",
+      "texto": "III.- Subdelegaciones.\n\nLa extensión y límites de las Delegaciones y Subdelegaciones serán determinadas por el Ayuntamiento respectivo."
+    }
+  ]
+}

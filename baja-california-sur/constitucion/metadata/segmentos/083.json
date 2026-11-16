@@ -1,0 +1,72 @@
+{
+  "clave": "083",
+  "etiqueta": "Artículo 83.",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "083.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83. › párrafo 1",
+      "texto": "Son facultades y obligaciones del Secretario General de Gobierno:"
+    },
+    {
+      "id": "083.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83. › Fracción I",
+      "texto": "I.- Suplir al Gobernador en sus faltas temporales, no mayores de treinta días."
+    },
+    {
+      "id": "083.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83. › Fracción II",
+      "texto": "II.- Coordinar las actividades de las diferentes dependencias del Gobierno del Estado y resolver, previo acuerdo con el Gobernador, los conflictos de competencia que pudieran surgir entre ellas."
+    },
+    {
+      "id": "083.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83. › Fracción III",
+      "texto": "III.- Cumplir y hacer cumplir los Acuerdos, Ordenes, Circulares y demás disposiciones del Gobierno del Estado."
+    },
+    {
+      "id": "083.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83. › Fracción IV",
+      "texto": "IV.- Firmar los acuerdos dictados por el Gobernador del Estado, así como los contratos que celebre. Sin este requisito no surtirán efectos legales."
+    },
+    {
+      "id": "083.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83. › Fracción V",
+      "texto": "V.- Representar al Gobernador del Estado cuando éste lo estime conveniente, ante las autoridades de la Federación, de las Entidades Federativas y de los Municipios del Estado; y"
+    },
+    {
+      "id": "083.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83. › Fracción VI",
+      "texto": "VI.- Las demás que le confieran las Leyes."
+    }
+  ]
+}

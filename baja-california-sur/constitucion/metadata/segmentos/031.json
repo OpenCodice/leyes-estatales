@@ -1,0 +1,63 @@
+{
+  "clave": "031",
+  "etiqueta": "Artículo 31.",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "031.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31. › párrafo 1",
+      "texto": "Los derechos o prerrogativas de las ciudadanas y los ciudadanos Sudcalifornianos se suspenden:"
+    },
+    {
+      "id": "031.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31. › Fracción I",
+      "texto": "I.- Por incumplimiento de las obligaciones a las que se refiere el Artículo 29. Dicha suspensión durará un año, y se impondrá sin menoscabo de las demás sanciones que correspondan;"
+    },
+    {
+      "id": "031.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31. › Fracción II",
+      "texto": "II.- Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión hasta que prescriba la acción penal;"
+    },
+    {
+      "id": "031.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31. › Fracción III",
+      "texto": "III.- Por sentencia ejecutoria que imponga como pena esa suspensión;"
+    },
+    {
+      "id": "031.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31. › Fracción IV",
+      "texto": "IV.- Por tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual, por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violación política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos o violencia institucional e incumplimiento de la obligación alimentaria, y"
+    },
+    {
+      "id": "031.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31. › Fracción V",
+      "texto": "V.- Ser declarada como persona deudora alimentaria morosa.\n\nLas personas que se ubiquen en alguno o algunos de los supuestos previstos en las fracciones II, III, IV y V del presente artículo no podrán ser registradas como candidatas o candidatos a cualquier cargo de elección popular, ni podrán ser designadas, electas o nombradas para desempeñar cualquier empleo, cargo o comisión en el servicio público."
+    }
+  ]
+}

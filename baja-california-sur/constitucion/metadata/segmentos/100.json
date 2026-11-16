@@ -1,0 +1,18 @@
+{
+  "clave": "100",
+  "etiqueta": "Artículo 100.",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "100.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100. › párrafo 1",
+      "texto": "Se deroga."
+    }
+  ]
+}

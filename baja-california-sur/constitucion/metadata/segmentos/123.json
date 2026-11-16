@@ -1,0 +1,18 @@
+{
+  "clave": "123",
+  "etiqueta": "Artículo 123.",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "123.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123. › párrafo 1",
+      "texto": "El Congreso del Estado podrá declarar la supresión de un Municipio y la posterior fusión de sus elementos, cuando en él dejen de concurrir las condiciones requeridas para su creación."
+    }
+  ]
+}
