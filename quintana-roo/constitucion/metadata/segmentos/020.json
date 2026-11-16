@@ -1,0 +1,27 @@
+{
+  "clave": "020",
+  "etiqueta": "Artículo 20",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "020.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 1",
+      "texto": "Toda persona disfrutará en Quintana Roo de la libertad de creencias, en términos de los Artículos 24 y 130 de la Constitución Política de los Estados Unidos Mexicanos y de sus leyes reglamentarias."
+    },
+    {
+      "id": "020.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 2",
+      "texto": "Artículo original POE 12-01-1975"
+    }
+  ]
+}

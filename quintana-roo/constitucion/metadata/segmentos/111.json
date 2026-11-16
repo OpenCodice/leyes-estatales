@@ -1,0 +1,144 @@
+{
+  "clave": "111",
+  "etiqueta": "Artículo 111",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "111.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 1",
+      "texto": "El Tribunal de Justicia Administrativa y Anticorrupción del Estado de Quintana Roo, tendrá a su cargo:"
+    },
+    {
+      "id": "111.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 2",
+      "texto": "Párrafo reformado POE 09-09-2024"
+    },
+    {
+      "id": "111.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › Fracción I",
+      "texto": "I. Dirimir las controversias que se susciten entre la administración pública estatal y municipal y particulares, derivados de:\n\nPárrafo reformado POE 19-03-2025"
+    },
+    {
+      "id": "111.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 111 › Fracción I › inciso a)",
+      "texto": "a) Los juicios en contra de actos administrativos que las autoridades de la Administración Pública del Estado o de los Ayuntamientos dicten, ordenen, ejecuten o traten de ejecutar, en agravio de personas físicas o morales;"
+    },
+    {
+      "id": "111.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 111 › Fracción I › inciso b)",
+      "texto": "b) Los juicios en contra de los actos administrativos de la Administración Pública Paraestatal del Estado o los Municipios, cuando actúen con el carácter de autoridades;"
+    },
+    {
+      "id": "111.I.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 111 › Fracción I › inciso c)",
+      "texto": "c) Los juicios en contra de las resoluciones definitivas dictadas por la Administración Pública del Estado o de los Ayuntamientos en las que se determine la existencia de una obligación fiscal, se fije ésta en cantidad líquida o se den las bases para su liquidación, nieguen la devolución de un ingreso indebidamente percibido o cualesquiera otras que causen agravio en materia fiscal;"
+    },
+    {
+      "id": "111.I.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 111 › Fracción I › inciso d)",
+      "texto": "d) Los juicios en contra de la falta de contestación de las mismas autoridades, dentro de un término de treinta días naturales, a las promociones presentadas ante ellas por particulares, a menos que las leyes y reglamentos fijen otros plazos o la naturaleza del asunto lo requiera;\n\nInciso reformado POE 19-03-2025"
+    },
+    {
+      "id": "111.I.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 111 › Fracción I › inciso e)",
+      "texto": "e) Los juicios en contra de resoluciones de negativa ficta en materia fiscal, que se configurarán transcurridos cuatro meses a partir de la recepción por parte de las autoridades demandadas competentes de la última promoción presentada por las personas demandantes, a menos que las leyes fiscales fijen otros plazos;\n\nInciso reformado POE 19-03-2025"
+    },
+    {
+      "id": "111.I.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 111 › Fracción I › inciso f)",
+      "texto": "f) Los juicios en que se demande la resolución de afirmativa ficta, cuando lo establezcan expresamente las disposiciones legales aplicables y en los plazos en que éstas lo determinen;"
+    },
+    {
+      "id": "111.I.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 111 › Fracción I › inciso g)",
+      "texto": "g) Los juicios en que se impugne la negativa de la autoridad a certificar la configuración de la afirmativa ficta, cuando así lo establezcan las leyes, y"
+    },
+    {
+      "id": "111.I.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 111 › Fracción I › inciso h)",
+      "texto": "h) Los juicios que promuevan las autoridades para que sean nulificadas las resoluciones fiscales favorables a las personas físicas o morales y que causen una lesión a la Hacienda Pública del Estado o de los Ayuntamientos;"
+    },
+    {
+      "id": "111.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › Fracción II",
+      "texto": "II. Imponer, en los términos que disponga la Ley, las sanciones a las personas servidoras públicas estatales y municipales por responsabilidad administrativa grave, y a particulares que incurran en actos vinculados con faltas administrativas graves;\n\nFracción reformada POE 19-03-2025"
+    },
+    {
+      "id": "111.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › Fracción III",
+      "texto": "III. Fincar a las personas responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales o municipales;\n\nFracción reformada POE 19-03-2025"
+    },
+    {
+      "id": "111.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › Fracción IV",
+      "texto": "IV.- Aprobar, modificar o dejar sin efectos la jurisprudencia y tesis relevantes que se deriven de las sentencias del Tribunal de Justicia Administrativa y Anticorrupción del Estado, y Fracción reformada POE 09-09-2024"
+    },
+    {
+      "id": "111.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › Fracción V",
+      "texto": "V. Las demás atribuciones que expresamente se señalen en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, su ley orgánica y demás disposiciones aplicables.\n\nDerogado POE 17-07-2002, 01-08-2016. Artículo reformado POE 21-11-1983, 02-09-1994, 09-07-1998, 24-10-2003, 25-06-2016, 03-07-2017"
+    }
+  ]
+}

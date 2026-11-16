@@ -1,0 +1,63 @@
+{
+  "clave": "060",
+  "etiqueta": "Artículo 60",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "060.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › párrafo 1",
+      "texto": "Son obligaciones de las Diputadas y de los Diputados:"
+    },
+    {
+      "id": "060.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › párrafo 2",
+      "texto": "Párrafo reformado POE 19-03-2025"
+    },
+    {
+      "id": "060.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción I",
+      "texto": "I.- Asistir regularmente a las sesiones."
+    },
+    {
+      "id": "060.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción II",
+      "texto": "II.- Desempeñar las comisiones que les sean conferidas."
+    },
+    {
+      "id": "060.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción III",
+      "texto": "III.- Visitar los distritos en los que fueren electas o electos e informar a las personas habitantes de sus labores legislativas, y Fracción reformada POE 19-03-2025"
+    },
+    {
+      "id": "060.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción IV",
+      "texto": "IV.- Al reanudarse el período de sesiones ordinarias, presentar a la Legislatura un informe de las actividades desarrolladas dentro y fuera de sus distritos correspondientes.\n\nLas Diputadas y Diputados que incumplan con las obligaciones contenidas en las fracciones III y IV no tendrán derecho al pago de las dietas correspondientes al período de receso respectivo.\n\nPárrafo reformado POE 19-03-2025"
+    }
+  ]
+}

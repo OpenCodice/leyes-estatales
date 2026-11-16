@@ -1,0 +1,27 @@
+{
+  "clave": "141",
+  "etiqueta": "Artículo 141",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "141.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › párrafo 1",
+      "texto": "En caso de falta absoluta de alguna persona integrante del Ayuntamiento, esta llamará a las personas suplentes respectivas, quienes rendirán la protesta y asumirán el desempeño del cargo."
+    },
+    {
+      "id": "141.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › párrafo 2",
+      "texto": "Artículo reformado POE 15-02-2001, 15-03-2002, 24-10-2003, 19-03-2025"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "010",
+  "etiqueta": "Artículo 10",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "010.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 1",
+      "texto": "Al Estado corresponde impulsar el desarrollo económico en equilibrio con el medio ambiente y con perspectiva de género, procurar el progreso compartido y la distribución equitativa de la riqueza para garantizar la justicia social, a cuyo efecto planeará, conducirá, coordinará y orientará la actividad económica, en la esfera de su competencia, regulando y fomentando las actividades de interés general a la cual concurrirán los diversos sectores de población de conformidad a las leyes de la materia, con irrestricto apego a las libertades consagradas en la Constitución Federal y la del Estado."
+    },
+    {
+      "id": "010.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 2",
+      "texto": "El Estado velará por la estabilidad de las finanzas públicas para coadyuvar a generar condiciones favorables para el crecimiento económico y el empleo. Los planes estatal y municipales deberán observar dicho principio."
+    },
+    {
+      "id": "010.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 3",
+      "texto": "Asimismo, a fin de contribuir al desarrollo y bienestar de las personas, grupos, comunidades y sectores sociales y económicos, las autoridades de todos los órdenes de gobierno deberán implementar políticas públicas de simplificación administrativa y digitalización de trámites y servicios, buenas prácticas regulatorias, desarrollo y fortalecimientos de capacidades tecnológicas públicas y los demás objetivos que establezca la ley en la materia."
+    },
+    {
+      "id": "010.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 4",
+      "texto": "Párrafo adicionado POE 20-06-2018. Reformado POE 11-03-2026 Artículo reformado POE 21-11-1983, 17-12-2007, 03-11-2016"
+    }
+  ]
+}

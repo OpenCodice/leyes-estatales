@@ -1,0 +1,36 @@
+{
+  "clave": "093",
+  "etiqueta": "Artículo 93",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "093.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › párrafo 1",
+      "texto": "Todos los reglamentos, decretos y acuerdos expedidos por la Gobernadora o el Gobernador del Estado deberán estar firmados por la persona Titular de la Secretaría al que el asunto corresponda, y sin este requisito no serán obedecidos."
+    },
+    {
+      "id": "093.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › párrafo 2",
+      "texto": "Tratándose de los decretos promulgatorios de las leyes o decretos expedidos por el Congreso del Estado, sólo se requerirá el refrendo de la persona Titular de la Secretaría de Gobierno."
+    },
+    {
+      "id": "093.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › párrafo 3",
+      "texto": "Artículo reformado POE 30-07-2013, 19-03-2025"
+    }
+  ]
+}

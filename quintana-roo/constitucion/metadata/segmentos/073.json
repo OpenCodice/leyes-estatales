@@ -1,0 +1,36 @@
+{
+  "clave": "073",
+  "etiqueta": "Artículo 73",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "073.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › párrafo 1",
+      "texto": "Las iniciativas de Ley o decreto que fueren desechadas por la Legislatura, no podrá volver a ser presentadas en el mismo período de sesiones."
+    },
+    {
+      "id": "073.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › párrafo 2",
+      "texto": "Si presentada la iniciativa de ley o decreto no ha sido aprobada por la Legislatura del Estado en los plazos establecidos en la Ley Orgánica del Poder Legislativo del Estado y el Reglamento para el Gobierno Interior de la Legislatura, se considerará por ese hecho desechada, excepto cuando la o las comisiones competentes o sus promoventes soliciten a la Legislatura prórroga en los términos establecidos en los mismos ordenamientos."
+    },
+    {
+      "id": "073.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › párrafo 3",
+      "texto": "Párrafo adicionado POE 15-06-2017"
+    }
+  ]
+}

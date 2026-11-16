@@ -1,0 +1,36 @@
+{
+  "clave": "022",
+  "etiqueta": "Artículo 22",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "022.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › párrafo 1",
+      "texto": "Nadie será juzgado con leyes privativas ni por tribunales especiales."
+    },
+    {
+      "id": "022.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › párrafo 2",
+      "texto": "Ninguna persona o corporación pueden detentar fuero, ni gozar más emolumentos que los de compensación de servicios públicos y estén determinados por la Ley."
+    },
+    {
+      "id": "022.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › párrafo 3",
+      "texto": "Artículo original POE 12-01-1975"
+    }
+  ]
+}

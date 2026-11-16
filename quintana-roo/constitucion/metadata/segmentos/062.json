@@ -1,0 +1,27 @@
+{
+  "clave": "062",
+  "etiqueta": "Artículo 62",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "062.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › párrafo 1",
+      "texto": "La Legislatura, a convocatoria de la Comisión Permanente, por sí o a solicitud de la persona Titular del Poder Ejecutivo del Estado, celebrará sesiones extraordinarias en períodos cuya duración será el tiempo que requiera la atención del asunto o asuntos que las motivaren. En la convocatoria, o en la solicitud que presente la persona Titular del Poder Ejecutivo, se señalarán el motivo y la finalidad de las sesiones extraordinarias."
+    },
+    {
+      "id": "062.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › párrafo 2",
+      "texto": "Artículo reformado POE 20-09-1995, 06-03-2019, 19-03-2025"
+    }
+  ]
+}

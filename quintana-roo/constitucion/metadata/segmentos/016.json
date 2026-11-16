@@ -1,0 +1,36 @@
+{
+  "clave": "016",
+  "etiqueta": "Artículo 16",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "016.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › párrafo 1",
+      "texto": "Toda persona tiene derecho a realizar por propio consentimiento su trabajo en cualquier actividad, siempre que sea lícita y a percibir por ello, una justa retribución, de la que sólo será privado por resolución judicial."
+    },
+    {
+      "id": "016.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › párrafo 2",
+      "texto": "La Legislatura local, determinará qué profesiones necesitan título para su ejercicio, y los requerimientos de su expedición."
+    },
+    {
+      "id": "016.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › párrafo 3",
+      "texto": "Artículo original POE 12-01-1975"
+    }
+  ]
+}

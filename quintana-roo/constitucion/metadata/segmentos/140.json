@@ -1,0 +1,27 @@
+{
+  "clave": "140",
+  "etiqueta": "Artículo 140",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "140.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 140 › párrafo 1",
+      "texto": "En las ausencias temporales de la persona titular de la Presidencia Municipal pasará a desempeñar sus funciones la Primera persona Regidora."
+    },
+    {
+      "id": "140.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 140 › párrafo 2",
+      "texto": "Artículo reformado POE 24-10-2003, 19-03-2025"
+    }
+  ]
+}
