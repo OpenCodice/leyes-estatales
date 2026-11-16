@@ -1,0 +1,27 @@
+{
+  "clave": "068",
+  "etiqueta": "Artículo 68",
+  "titulo": "",
+  "capitulo": "CAPÍTULO XV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "068.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 1",
+      "texto": "El ciudadano electo para substituir al Gobernador Constitucional en el caso de falta absoluta de éste, no podrá ser electo gobernador para el período inmediato."
+    },
+    {
+      "id": "068.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 2",
+      "texto": "El ciudadano que hubiese sido designado gobernador provisional en el caso de falta absoluta de gobernador, no podrá ser electo para el período inmediato, siempre que desempeñe el cargo en los dos últimos años del período."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "070",
+  "etiqueta": "Artículo 70",
+  "titulo": "",
+  "capitulo": "CAPÍTULO XV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "070.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 1",
+      "texto": "El Gobernador del Estado no podrá ausentarse del territorio del mismo sin permiso del Congreso si estuviere reunido, o en su caso de la Diputación Permanente, a menos que la ausencia no exceda de sesenta días; en tal caso, se estará a lo dispuesto por el segundo párrafo del artículo 67."
+    },
+    {
+      "id": "070.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 2",
+      "texto": "Nota: Se reformó mediante decreto No. 145 de la XLIX Legislatura, publicado en el P. O. del Gobierno del Estado No. 2712 de fecha 25 de septiembre de 1979."
+    },
+    {
+      "id": "070.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 3",
+      "texto": "Nota: Se reformó mediante decreto No. 224 de la L Legislatura, publicado en el P. O. del Gobierno del Estado No. 3251 de fecha 27 de mayo de 1983."
+    }
+  ]
+}

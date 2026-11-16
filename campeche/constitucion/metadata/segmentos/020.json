@@ -1,0 +1,63 @@
+{
+  "clave": "020",
+  "etiqueta": "Artículo 20",
+  "titulo": "",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "020.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 1",
+      "texto": "La calidad de ciudadano campechano se pierde:"
+    },
+    {
+      "id": "020.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › Fracción I",
+      "texto": "I. Cuando se pierde la ciudadanía mexicana;"
+    },
+    {
+      "id": "020.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › Fracción II",
+      "texto": "II. Por atentar en cualquier forma contra la integridad, independencia o soberanía del Estado;"
+    },
+    {
+      "id": "020.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › Fracción III",
+      "texto": "III. Cuando siendo campechano por vecindad, se pierda ésta por avecindarse fuera del Estado;"
+    },
+    {
+      "id": "020.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › Fracción IV",
+      "texto": "IV. Por adquirir la calidad de ciudadano de otro Estado, salvo cuando haya sido concedida a título de honor o recompensa;"
+    },
+    {
+      "id": "020.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › Fracción V",
+      "texto": "V. En los demás casos que la Ley establezca."
+    }
+  ]
+}

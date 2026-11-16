@@ -1,0 +1,36 @@
+{
+  "clave": "101",
+  "etiqueta": "Artículo 101",
+  "titulo": "",
+  "capitulo": "CAPÍTULO XVII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "101.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 1",
+      "texto": "DEROGADO."
+    },
+    {
+      "id": "101.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 2",
+      "texto": "Nota: Se reformó mediante decreto No. 224 de la L Legislatura, publicado en el P. O. del Gobierno del Estado No. 3251 de fecha 27 de mayo de 1983."
+    },
+    {
+      "id": "101.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 3",
+      "texto": "Nota: Se derogó mediante decreto No.162 de la LXII Legislatura, publicado en el P. O. del Gobierno del Estado No. 0466 Segunda Sección de fecha 27 de junio de 2017."
+    }
+  ]
+}

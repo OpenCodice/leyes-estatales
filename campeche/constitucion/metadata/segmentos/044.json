@@ -1,0 +1,27 @@
+{
+  "clave": "044",
+  "etiqueta": "Artículo 44",
+  "titulo": "",
+  "capitulo": "CAPÍTULO XI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "044.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 1",
+      "texto": "Las resoluciones del Congreso tendrán carácter de ley, decreto, iniciativa ante el Congreso de la Unión o acuerdo. Para su sanción, promulgación y publicación, las leyes y decretos se enviarán al Gobernador del Estado, firmados por el Presidente y los dos Secretarios de la Directiva del Congreso. Los acuerdos requerirán sólo de la firma de los dos Secretarios y no ameritarán sanción ni promulgación del Ejecutivo."
+    },
+    {
+      "id": "044.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 2",
+      "texto": "Nota: Se reformó mediante decreto No. 264 de la LIII legislatura, publicado en el P. O. del Gobierno del Estado No. 133 de fecha 1 abril de 1992."
+    }
+  ]
+}
