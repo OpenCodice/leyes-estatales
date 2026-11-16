@@ -78,9 +78,9 @@ jobs:
       - name: Resolver URL del PDF vigente
         id: url
         env:
-          # Solo los estados que se descargan vía México (ver descargas-mx/ del
+          # Solo los estados que se descargan vía México (ver egress-mx/ del
           # extractor) reciben el token; el paso del agente nunca lo ve.
-          DESCARGAS_MX_TOKEN: ${{ matrix.via == 'mx' && secrets.DESCARGAS_MX_TOKEN || '' }}
+          EGRESS_MX_TOKEN: ${{ matrix.via == 'mx' && secrets.EGRESS_MX_TOKEN || '' }}
         run: |
           SOLO="${{ inputs.estado }}"
           OVERRIDE="${{ inputs.pdf_url }}"
@@ -107,13 +107,13 @@ jobs:
       - name: Descargar el PDF vigente
         if: steps.url.outputs.skip == 'false'
         env:
-          DESCARGAS_MX_TOKEN: ${{ matrix.via == 'mx' && secrets.DESCARGAS_MX_TOKEN || '' }}
+          EGRESS_MX_TOKEN: ${{ matrix.via == 'mx' && secrets.EGRESS_MX_TOKEN || '' }}
           URL: ${{ steps.url.outputs.url }}
         run: |
           if [ "${{ matrix.via }}" = "mx" ]; then
             # El sitio rechaza IP de fuera de México: se pide al Worker en México.
-            url=$(python3 -c "import sys,urllib.parse as u; print('https://descargas-mx.danielcardeenas.workers.dev/?url=' + u.quote(sys.argv[1], safe=''))" "$URL")
-            curl -sSL --retry 3 --max-time 300 -H "Authorization: Bearer $DESCARGAS_MX_TOKEN" -o /tmp/estatal.pdf "$url"
+            url=$(python3 -c "import sys,urllib.parse as u; print('https://egress-mx.danielcardeenas.workers.dev/?url=' + u.quote(sys.argv[1], safe=''))" "$URL")
+            curl -sSL --retry 3 --max-time 300 -H "Authorization: Bearer $EGRESS_MX_TOKEN" -o /tmp/estatal.pdf "$url"
           else
             # Almacén del sistema más los intermedios que algunos servidores no envían
             # (ver certs/README.md del extractor): la cadena se valida igual.
