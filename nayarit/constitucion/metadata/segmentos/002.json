@@ -1,0 +1,27 @@
+{
+  "clave": "002",
+  "etiqueta": "Artículo 2",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "002.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 1",
+      "texto": "El Gobierno del Estado es republicano, popular y representativo, teniendo como base de su división territorial y de su organización política y administrativa el municipio libre, en los términos que establece la Constitución General de la República."
+    },
+    {
+      "id": "002.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 2",
+      "texto": "(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010) La ley establecerá las bases y lineamientos a los cuales habrá de sujetarse el Estado, al establecer los límites territoriales y colindancias con otras entidades federativas."
+    }
+  ]
+}

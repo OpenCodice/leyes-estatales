@@ -1,0 +1,45 @@
+{
+  "clave": "046",
+  "etiqueta": "Artículo 46",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "046.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › párrafo 1",
+      "texto": "Toda resolución del Congreso tendrá el carácter de ley o decreto, las leyes o decretos se comunicarán al Ejecutivo firmadas por el Presidente del Congreso y por los Secretarios, promulgándose en esta forma:"
+    },
+    {
+      "id": "046.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › párrafo 2",
+      "texto": "\"El Congreso del Estado Libre y Soberano de Nayarit, representando por su….."
+    },
+    {
+      "id": "046.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › párrafo 3",
+      "texto": "Legislatura, decreta: (texto de la ley o decreto)."
+    },
+    {
+      "id": "046.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › párrafo 4",
+      "texto": "Las disposiciones específicas para dar cumplimiento a lo establecido en este artículo, se llevarán a cabo de conformidad a lo dispuesto en la ley de la materia."
+    }
+  ]
+}

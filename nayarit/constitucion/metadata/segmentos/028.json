@@ -1,0 +1,90 @@
+{
+  "clave": "028",
+  "etiqueta": "Artículo 28",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "028.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › párrafo 1",
+      "texto": "Para ser Diputado se requiere:"
+    },
+    {
+      "id": "028.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › Fracción I",
+      "texto": "I. Ser mexicano por nacimiento.\n\n(REFORMADA, P.O. 1 DE JUNIO DE 1983)"
+    },
+    {
+      "id": "028.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › Fracción II",
+      "texto": "II. Tener 18 años cumplidos al día de la elección.\n\n(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)"
+    },
+    {
+      "id": "028.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › Fracción III",
+      "texto": "III. No estar comprendido en alguno de los impedimentos que señala el artículo 26 de esta Constitución.\n\n(REFORMADA, P.O. 10 DE JUNIO DE 2016)"
+    },
+    {
+      "id": "028.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › Fracción IV",
+      "texto": "IV. Ser originario del Estado o tener residencia efectiva no menor de 5 años inmediatamente anteriores al día de la elección en el municipio al que corresponda el Distrito que vaya a representar; (el texto tachado se declaró inválido por sentencia de la SCJN derivado de la Acción de Inconstitucionalidad 55/2016, notificado el 26 de septiembre de 2016, fecha en que surte sus efectos) (REFORMADA, P.O. 19 DE MAYO DE 2022)"
+    },
+    {
+      "id": "028.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › Fracción V",
+      "texto": "V. No estar suspendido en sus derechos políticos.\n\n(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)"
+    },
+    {
+      "id": "028.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › Fracción VI",
+      "texto": "VI. No ser ministro de algún culto religioso.\n\n(ADICIONADA, P.O. 19 DE MAYO DE 2022)"
+    },
+    {
+      "id": "028.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › Fracción VII",
+      "texto": "VII. No estar inscrita o inscrito en el Registro de Deudores Alimentarios Morosos en el Estado de Nayarit o en otra entidad federativa; ni en el Registro Nacional de Personas Sancionadas en Materia de Violencia Política contra las Mujeres en Razón de Género.\n\n(ADICIONADA, P.O. 20 DE NOVIEMBRE DE 2025)"
+    },
+    {
+      "id": "028.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › Fracción VIII",
+      "texto": "VIII. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación."
+    }
+  ]
+}

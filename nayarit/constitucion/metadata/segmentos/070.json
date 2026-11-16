@@ -1,0 +1,99 @@
+{
+  "clave": "070",
+  "etiqueta": "Artículo 70",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "070.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 1",
+      "texto": "En ningún caso puede legalmente el Gobernador del Estado:"
+    },
+    {
+      "id": "070.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › Fracción I",
+      "texto": "I.- Negarse a promulgar y ejecutar las leyes, decretos y acuerdos de la Legislatura."
+    },
+    {
+      "id": "070.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › Fracción II",
+      "texto": "II.- Distraer los caudales públicos del objeto a que están destinados por la Ley, ni mandar hacer pagos que no estén comprendidos en los Presupuestos, ni crear otras partidas."
+    },
+    {
+      "id": "070.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › Fracción III",
+      "texto": "III.- Imponer contribución alguna que no sea de las comprendidas en la Ley.\n\n(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)"
+    },
+    {
+      "id": "070.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › Fracción IV",
+      "texto": "IV.- Contrariar la obligación que le impone la fracción XVI del artículo anterior."
+    },
+    {
+      "id": "070.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › Fracción V",
+      "texto": "V.- Impedir o retardar las elecciones populares, o la instalación de la Legislatura."
+    },
+    {
+      "id": "070.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › Fracción VI",
+      "texto": "VI.- Intervenir en las elecciones para que recaiga o no en determinadas personas, ya lo haga por sí o por medio de otras autoridades o agentes, siendo esto motivo de nulidad en las elecciones y causa de responsabilidad."
+    },
+    {
+      "id": "070.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › Fracción VII",
+      "texto": "VII.- Ejercer influencia en cualquier sentido que pueda entorpecer la acción de la justicia, en el ramo Judicial."
+    },
+    {
+      "id": "070.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › Fracción VIII",
+      "texto": "VIII.- Mandar inmediata y personalmente, en campaña la Guardia Nacional, y demás fuerzas del Estado, sin haber obtenido permiso de la Legislatura o de la Diputación Permanente.\n\n(REFORMADA, P.O. 27 DE DICIEMBRE DE 1975)"
+    },
+    {
+      "id": "070.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › Fracción IX",
+      "texto": "IX.- Promulgar leyes, decretos o reglamentos, o expedir órdenes de pago, sin que vayan autorizados con la firma del Secretario General de Gobierno o de quien haga sus veces."
+    }
+  ]
+}

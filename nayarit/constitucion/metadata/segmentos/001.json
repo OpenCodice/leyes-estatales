@@ -1,0 +1,18 @@
+{
+  "clave": "001",
+  "etiqueta": "Artículo 1",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "001.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 1",
+      "texto": "El Estado es Libre y Soberano en cuanto a su régimen interior corresponde, pero unido a la Federación conforme a lo que establece el Código Fundamental de la República."
+    }
+  ]
+}

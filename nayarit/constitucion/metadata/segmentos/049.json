@@ -1,0 +1,63 @@
+{
+  "clave": "049",
+  "etiqueta": "Artículo 49",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "049.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 1",
+      "texto": "El derecho de iniciar leyes compete:"
+    },
+    {
+      "id": "049.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción I",
+      "texto": "I. A los Diputados."
+    },
+    {
+      "id": "049.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción II",
+      "texto": "II. Al Gobernador del Estado.\n\n(REFORMADA, P.O. 26 DE DICIEMBRE DE 1981)"
+    },
+    {
+      "id": "049.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción III",
+      "texto": "III. Al Tribunal Superior de Justicia, solamente en asuntos del orden judicial.\n\n(REFORMADA, P.O. 24 DE ENERO DE 2001)"
+    },
+    {
+      "id": "049.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción IV",
+      "texto": "IV. A los Ayuntamientos en lo relativo al gobierno municipal.\n\n(ADICIONADA, P.O. 16 DE DICIEMBRE DE 2010)"
+    },
+    {
+      "id": "049.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción V",
+      "texto": "V. A los ciudadanos en el ejercicio de la iniciativa popular.\n\n(REFORMADO, P.O. 9 DE JUNIO DE 2023) Por cada periodo ordinario de sesiones, el Gobernador podrá presentar dos iniciativas de decreto o ley con el carácter de preferente o señalar con tal carácter hasta dos que hubiere presentado en periodos anteriores, cuando estén pendientes de dictamen. Cada iniciativa deberá ser discutida y votada por el pleno del Congreso en el plazo máximo de treinta días naturales siguientes a su presentación, de conformidad al procedimiento que establezca la ley.\n\n(REFORMADO, P.O. 9 DE JUNIO DE 2023) No podrán tener carácter preferente las iniciativas de adición o reforma a esta Constitución."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "130",
+  "etiqueta": "Artículo 130",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "130.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 130 › párrafo 1",
+      "texto": "Esta Constitución es la Ley Suprema del Estado, en cuanto a su régimen interior."
+    },
+    {
+      "id": "130.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 130 › párrafo 2",
+      "texto": "Esta Constitución no perderá su fuerza y vigor aún cuando por trastornos se hubiere interrumpido su observancia. Si por cualquier caso se estableciere un Gobierno contrario a los principios que ella sanciona, una vez restablecido el orden constitucional volverá a ser acatada, exigiéndose la responsabilidad a todos los que la hubieren infringido."
+    }
+  ]
+}
