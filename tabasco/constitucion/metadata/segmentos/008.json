@@ -1,0 +1,72 @@
+{
+  "clave": "008",
+  "etiqueta": "Artículo 8",
+  "titulo": "",
+  "capitulo": "CAPITULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "008.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 1",
+      "texto": "REFORMADO EN SU TOTALIDAD P.O. 8468 SPTO. I 1-NOV-2023"
+    },
+    {
+      "id": "008.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 02 DE ABRIL DE 1975)"
+    },
+    {
+      "id": "008.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 3",
+      "texto": "Los derechos de la ciudadanía se suspenden:"
+    },
+    {
+      "id": "008.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción I",
+      "texto": "I. Por falta de cumplimiento, sin causa justificada, de las obligaciones señaladas en el artículo sexto de esta Constitución. Tal suspensión durará un año y se impondrá sin perjuicio de otras penas que por el mismo hecho señalen las leyes;"
+    },
+    {
+      "id": "008.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción II",
+      "texto": "II. Por sentencia ejecutoriada que imponga como pena esa suspensión;"
+    },
+    {
+      "id": "008.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción III",
+      "texto": "III. Por tener sentencia firme por la comisión dolosa de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; o por ser declarada como persona deudora alimentaria morosa.\n\nEn los supuestos de esta fracción, la persona no podrá ser registrada como candidata para cualquier cargo de elección popular, ni ser nombrada para empleo, cargo o comisión en el servicio público.\n\nLas leyes fijarán los supuestos en que se pierdan, suspendan y rehabiliten los derechos ciudadanos; y"
+    },
+    {
+      "id": "008.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción IV",
+      "texto": "IV. En los demás casos que las leyes señalen."
+    }
+  ]
+}

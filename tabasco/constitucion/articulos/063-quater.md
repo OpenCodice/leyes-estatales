@@ -1,0 +1,39 @@
+# Artículo 63 Quater
+
+REFORMADO P.O. 8469 SPTO. F 4-NOV-2023
+
+ADICIONADO EN SU TOTALIDAD P.O. 7806 28-JUNIO-2017
+
+El Tribunal de Justicia Administrativa se compone de una Sala Superior, que estará integrada por tres personas, y cinco salas unitarias. Funcionará en Pleno o en Salas. De las salas unitarias, una fungirá como sala Especializada en la resolución de los procedimientos a que se refiere el párrafo segundo del artículo anterior.
+
+REFORMADO P.O. EXTRAORDINARIO 307 9-DIC-2025
+
+REFORMADO P.O. 8656 SPTO. N 20-AGOSTO-2025
+
+Para ser magistrado o magistrada de la Sala Superior, deberá tener 30 años de edad y contar con título profesional de licenciatura en derecho, preferentemente con diez años de antigüedad al día de la designación, y para ser magistrada o magistrado de las salas unitarias, deberá tener 30 años de edad y contar con título profesional de licenciatura en derecho por Io menos con cinco años de antigüedad. En ambos casos, además, deberán cumplir con los siguientes requisitos:
+
+I. Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;
+
+II. Gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de la libertad;
+
+III. Haber residido en el país durante el año anterior al día de la designación;
+
+IV. No haber sido en la entidad, titular de una Secretaría o equivalente en la Administración Pública, de la Fiscalía General del Estado de Tabasco, ni senador, senadora, diputado o diputada federal o local, durante el año previo al día de la designación; y
+
+V. No haber sido sancionado, por sentencia firme, por la comisión dolosa de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexual, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; o haber sido declarada persona deudora alimentaria morosa.
+
+REFORMADO P.O. 8469 SPTO. F 4-NOV-2023
+
+Las magistradas y los magistrados de la Sala Superior serán designados por la persona titular del Poder Ejecutivo, observando en todo momento el principio de paridad de género, y ratificados por el voto de las dos terceras partes de las y los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente. Durarán en su encargo siete años, pudiendo ser designados para un solo periodo más.
+
+REFORMADO P.O. 8469 SPTO. F 4-NOV-2023
+
+Las magistradas y los magistrados de Sala Unitaria serán designados por la persona titular del Poder Ejecutivo, observando en todo momento el principio de paridad de género, y ratificados por la mayoría de las y los miembros presentes del Congreso del Estado o, en sus recesos, por la Comisión Permanente. Durarán en su encargo siete años, pudiendo ser designados para un solo periodo más.
+
+REFORMADO P.O. 8469 SPTO. F 4-NOV-2023
+
+La ratificación de las magistradas y los magistrados de la Sala Superior y las unitarias se hará dentro de un plazo improrrogable de veinte días naturales a partir de la fecha de la comunicación al Congreso. Si el Congreso no resolviere dentro de ese plazo, se entenderá como ratificada y ocupará el cargo de magistrado o magistrada la persona que haya designado el titular del Poder Ejecutivo del Estado.
+
+REFORMADO P.O. 8469 SPTO. F 4-NOV-2023
+
+Las magistradas y los magistrados sólo podrán ser removidos de sus cargos por las causas graves que señale la ley.

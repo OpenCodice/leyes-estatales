@@ -1,0 +1,36 @@
+{
+  "clave": "025",
+  "etiqueta": "Artículo 25",
+  "titulo": "",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "025.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 1",
+      "texto": "REFORMADO P.O. NO. 7625 03-OCT-2015"
+    },
+    {
+      "id": "025.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 2",
+      "texto": "(REFORMADO P.O. 05 DE AGOSTO DE 1998)"
+    },
+    {
+      "id": "025.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 3",
+      "texto": "En los períodos ordinarios de sesiones el Congreso se ocupará de expedir, reformar, adicionar, derogar y abrogar leyes y decretos para la mejor administración del Estado, sin perjuicio de las demás atribuciones que constitucional y legalmente le correspondan."
+    }
+  ]
+}

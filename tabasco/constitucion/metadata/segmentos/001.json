@@ -1,0 +1,72 @@
+{
+  "clave": "001",
+  "etiqueta": "Artículo 1",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "001.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 1",
+      "texto": "REFORMADO P.O. 6905 SPTO. B 8-NOV-2008"
+    },
+    {
+      "id": "001.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 02 DE ABRIL DE 1975)"
+    },
+    {
+      "id": "001.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 3",
+      "texto": "El Estado de Tabasco es parte integrante de los Estados Unidos Mexicanos, perteneciente a una Federación establecida según los principios de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "001.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 4",
+      "texto": "(ADICIONADO 11-NOV-03)"
+    },
+    {
+      "id": "001.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 5",
+      "texto": "El Territorio del Estado es el que de hecho y por derecho le pertenece."
+    },
+    {
+      "id": "001.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 6",
+      "texto": "ADICIONADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "001.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 7",
+      "texto": "El Estado de Tabasco se integra con los Municipios siguientes: Balancán, Cárdenas, Centla, Centro, Comalcalco, Cunduacán, Emiliano Zapata, Huimanguillo, Jalapa, Jalpa de Méndez, Jonuta, Macuspana, Nacajuca, Paraíso, Tacotalpa, Teapa, y Tenosique, con la extensión y límites que de hecho y por derecho les corresponde."
+    }
+  ]
+}
