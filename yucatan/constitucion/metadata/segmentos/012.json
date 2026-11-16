@@ -1,0 +1,18 @@
+{
+  "clave": "012",
+  "etiqueta": "Artículo 12",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "012.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › párrafo 1",
+      "texto": "El Estado de Yucatán es parte integrante de los Estados Unidos Mexicanos: y es libre y soberano en todo lo que concierne a su régimen interior, conforme a los principios establecidos en la Constitución Federal."
+    }
+  ]
+}

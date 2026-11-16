@@ -1,0 +1,52 @@
+{
+  "clave": "027",
+  "etiqueta": "Artículo 27",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "027.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 1",
+      "texto": "El Congreso para tratar y resolver los asuntos programados y los demás que se le presenten, tendrá cada año dos períodos ordinarios de sesiones.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado D.O. 13-12-2019",
+          "fechas": [
+            "2019-12-13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "027.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 2",
+      "texto": "El primer período será del 1 de septiembre hasta el 15 de diciembre, pudiéndose aplazar hasta el 30 de diciembre cuando se trate del año de renovación de la persona titular del poder ejecutivo estatal; y el segundo período será del 1 de febrero hasta el 31 de mayo.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado D.O. 13-12-2019",
+          "fechas": [
+            "2019-12-13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "027.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 3",
+      "texto": "En los períodos ordinarios, se ocupará del estudio, discusión, dictaminación y votación de todos los asuntos, conforme a esta Constitución y la ley."
+    }
+  ]
+}

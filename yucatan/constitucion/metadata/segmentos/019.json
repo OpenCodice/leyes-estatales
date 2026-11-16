@@ -1,0 +1,87 @@
+{
+  "clave": "019",
+  "etiqueta": "Artículo 19",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "019.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › párrafo 1",
+      "texto": "Los Diputados son inviolables por las manifestaciones de ideas y expresión de opiniones, en el desempeño de su encargo; y no podrán ser reconvenidos por ellas."
+    },
+    {
+      "id": "019.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › párrafo 2",
+      "texto": "El Presidente del Congreso en los términos de las leyes garantizará la inviolabilidad del recinto donde los diputados se reúnan a sesionar."
+    },
+    {
+      "id": "019.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › párrafo 3",
+      "texto": "Los integrantes del Congreso del Estado podrán llevar a cabo sesiones fuera del lugar que ocupe el Recinto del Poder Legislativo de manera presencial o mediante el uso de las tecnologías de la información y la comunicación en los términos que la ley señale.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado D.O. 9-junio-2020",
+          "fechas": []
+        }
+      ]
+    },
+    {
+      "id": "019.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › párrafo 4",
+      "texto": "Se entenderá, por sesión mediante el uso de las tecnologías de la información y la comunicación, aquella que garantice la posibilidad de comunicación simultánea o consecutiva entre las y los diputados asociadas a la red de internet en conjunto con el sistema informático legislativo.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado D.O. 9-junio-2020",
+          "fechas": []
+        }
+      ]
+    },
+    {
+      "id": "019.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › párrafo 5",
+      "texto": "Las sesiones señaladas en el párrafo anterior podrán celebrarse por causas de fuerza mayor, fenómenos naturales, situaciones de emergencia o catástrofes tomando en consideración las determinaciones de las autoridades estatales o federales competentes.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado D.O. 9-junio-2020",
+          "fechas": []
+        }
+      ]
+    },
+    {
+      "id": "019.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › párrafo 6",
+      "texto": "Cuando en esta Constitución se haga referencia a que las o los diputados se encuentren presentes en una sesión, para la aprobación de un asunto que corresponda a las facultades o atribuciones del Congreso, se entenderá que lo estarán si se encuentran en alguno de los casos comprendidos en este artículo y para ello se estará a lo dispuesto al tipo de votación o porcentaje expresamente requerido dentro del numeral que corresponda de esta Constitución.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado D.O. 9-junio-2020",
+          "fechas": []
+        }
+      ]
+    }
+  ]
+}

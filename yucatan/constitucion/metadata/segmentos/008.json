@@ -1,0 +1,97 @@
+{
+  "clave": "008",
+  "etiqueta": "Artículo 8",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "008.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 1",
+      "texto": "Son obligaciones del ciudadano yucateco:"
+    },
+    {
+      "id": "008.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción I",
+      "texto": "I.- Inscribirse en los padrones electorales, en los términos que determinen las Leyes;"
+    },
+    {
+      "id": "008.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción II",
+      "texto": "II.- Desempeñar los cargos de elección popular del Estado que en ningún caso serán gratuitos;"
+    },
+    {
+      "id": "008.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción III",
+      "texto": "III.- Desempeñar los cargos concejales del Municipio donde residan;"
+    },
+    {
+      "id": "008.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción IV",
+      "texto": "IV.- Desempeñar las funciones electorales y las de jurado en los términos de las leyes respectivas."
+    },
+    {
+      "id": "008.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción V",
+      "texto": "V.- Inscribirse en las Juntas Municipales de Reclutamiento para el servicio de las armas;"
+    },
+    {
+      "id": "008.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción VI",
+      "texto": "VI.- Votar en los procedimientos de elección, consulta popular y el de revocación de mandato, en los términos que señale la ley;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada D.O. 31-07-2019",
+          "fechas": [
+            "2019-07-31"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "008.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción VII",
+      "texto": "VII.- Respetar los símbolos patrios y los estatales.",
+      "reformas": [
+        {
+          "nota": "Fracción reformada D.O. 26-09-2023",
+          "fechas": [
+            "2023-09-26"
+          ]
+        }
+      ]
+    }
+  ]
+}

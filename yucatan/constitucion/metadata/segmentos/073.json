@@ -1,0 +1,36 @@
+{
+  "clave": "073",
+  "etiqueta": "Artículo 73",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO VII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "073.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › párrafo 1",
+      "texto": "La imposición de las sanciones y medidas de seguridad a los sentenciados y las medidas que se apliquen a los adolescentes, así como su modificación y duración, es propia y exclusiva de la autoridad judicial, por conducto de sus órganos competentes, en términos de ley."
+    },
+    {
+      "id": "073.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › párrafo 2",
+      "texto": "El juez ordenará oficiosamente la prisión preventiva en el caso de delitos de homicidio doloso, violación y secuestro y los delitos cometidos con medios violentos, así como en los delitos graves que determine la ley. En los demás casos, sólo se podrá ordenar la medida cautelar de prisión preventiva cuando el Ministerio Público lo solicite y otras medidas no sean suficientes para garantizar la comparecencia del imputado en el juicio, el desarrollo de la investigación, la protección de la víctima, de los testigos o de la comunidad, así como cuando el imputado esté sujeto a proceso o haya sido sentenciado previamente por la comisión de un delito doloso."
+    },
+    {
+      "id": "073.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › párrafo 3",
+      "texto": "La aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, corresponde a la autoridad administrativa competente, las que únicamente consistirán en multa, arresto hasta por treinta y seis horas o en trabajo en favor de la comunidad. Si el infractor no pagare la multa que se le hubiese impuesto, se conmutará ésta por el arresto correspondiente que no excederá en ningún caso de treinta y seis horas. Si el infractor fuere jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día. En el caso de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso."
+    }
+  ]
+}

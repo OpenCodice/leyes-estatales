@@ -1,0 +1,27 @@
+{
+  "clave": "061",
+  "etiqueta": "Artículo 61",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "061.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › párrafo 1",
+      "texto": "Los titulares de las dependencias y entidades del Poder Ejecutivo, Directores, Jefes de Departamento y de Oficina y, en general, los servidores públicos de la administración pública estatal, en su caso, serán responsables de las disposiciones que autoricen con infracción de la Constitución Federal, de la local y de las Leyes. Esta responsabilidad es sin perjuicio de la que resulte contra el Gobernador."
+    },
+    {
+      "id": "061.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › párrafo 2",
+      "texto": "Las ausencias de los servidores públicos y funcionarios del Poder Ejecutivo serán suplidas en los términos del Código de la Administración Pública de Yucatán."
+    }
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "clave": "020",
+  "etiqueta": "Artículo 20",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "020.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 1",
+      "texto": "El Congreso del Estado de Yucatán se compondrá de treinta y cinco diputadas y diputados, observando el principio de paridad de género conforme a las normas aplicables, que serán electos popularmente cada tres años, de los cuales, veintiuno serán electos por el principio de mayoría relativa y los restantes, por el de representación proporcional, mediante el procedimiento que la ley establezca. Por cada Diputada o Diputado propietario de mayoría relativa, se elegirá un suplente.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado D.O. 22-04-2019, 14-11-2019, 10-08-2022.",
+          "fechas": [
+            "2019-04-22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "020.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 2",
+      "texto": "En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales."
+    },
+    {
+      "id": "020.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 3",
+      "texto": "La ley determinará la forma de establecer la demarcación territorial de los distritos electorales uninominales."
+    },
+    {
+      "id": "020.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 4",
+      "texto": "Los diputados podrán ser electos hasta por cuatro períodos consecutivos."
+    },
+    {
+      "id": "020.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 5",
+      "texto": "La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieran postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. La reelección se efectuará conforme a lo que disponga la Ley."
+    },
+    {
+      "id": "020.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 6",
+      "texto": "La integración del Congreso del Estado deberá ser bajo el principio de integración paritaria, asignando diputaciones de representación proporcional, compensando al género con el menor número de Diputados de mayoría relativa, en los términos que al efecto disponga la legislación local de la materia.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado DO 22-07-2020",
+          "fechas": [
+            "2020-07-22"
+          ]
+        }
+      ]
+    }
+  ]
+}

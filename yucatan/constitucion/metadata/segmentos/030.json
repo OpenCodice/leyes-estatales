@@ -1,0 +1,934 @@
+{
+  "clave": "030",
+  "etiqueta": "Artículo 30",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "030.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 1",
+      "texto": "Son facultades y atribuciones del Congreso del Estado:",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DO 01-04-2024",
+          "fechas": [
+            "2024-04-01"
+          ]
+        },
+        {
+          "nota": "Párrafo reformado D.O. 05-07-2021",
+          "fechas": [
+            "2021-07-05"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "030.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción I",
+      "texto": "I.- Crear nuevos municipios dentro del territorio del Estado, siendo necesario para el efecto, que:"
+    },
+    {
+      "id": "030.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 30 › Fracción I › inciso a)",
+      "texto": "a) Los centros de población que soliciten erigirse en municipio cuenten por lo menos con quince mil habitantes;",
+      "reformas": [
+        {
+          "nota": "Inciso reformado DO 01-04-2024",
+          "fechas": [
+            "2024-04-01"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "030.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 30 › Fracción I › inciso b)",
+      "texto": "b) Acredite que cuenta con elementos suficientes para garantizar su permanencia;"
+    },
+    {
+      "id": "030.I.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 30 › Fracción I › inciso c)",
+      "texto": "c) Los ayuntamientos de los municipios cuyo territorio se pretenda afectar, sean escuchados sobre la conveniencia en este aspecto; quedando obligados a remitir el acuerdo correspondiente, dentro de los doce días hábiles siguientes, al de la fecha en que reciban la prevención del Congreso;"
+    },
+    {
+      "id": "030.I.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 30 › Fracción I › inciso d)",
+      "texto": "d) Se escuchen las comunidades indígenas, que resultaren afectadas.\n\nLa ley determinará los términos en los cuales se ejercerá este derecho;"
+    },
+    {
+      "id": "030.I.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 30 › Fracción I › inciso e)",
+      "texto": "e) Se tome el parecer del Ejecutivo del Estado, en los términos y condiciones dispuestos en el inciso c) de esta fracción, y"
+    },
+    {
+      "id": "030.I.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 30 › Fracción I › inciso f)",
+      "texto": "f) La creación del nuevo municipio, se acuerde con el voto de las dos terceras partes de los integrantes del Congreso.\n\nPara el caso de que ocurrieren movimientos migratorios, que hagan evidente la necesidad de anexar o fusionar, un centro de población a otro municipio, se estará a lo dispuesto por la ley respectiva;\n\nEn la creación de nuevos municipios, los integrantes de las comunidades del pueblo maya, cuya distribución territorial se vea afectada, deberán ser previamente escuchados."
+    },
+    {
+      "id": "030.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción II",
+      "texto": "II.- Arreglar definitivamente los límites municipales, de conformidad con lo establecido por las leyes respectivas y las instancias técnico-normativas de la materia, tomando en consideración la opinión de las comunidades del pueblo maya, cuando resultaren afectados."
+    },
+    {
+      "id": "030.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción III",
+      "texto": "III.- SE DEROGA."
+    },
+    {
+      "id": "030.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción IV",
+      "texto": "IV.- Se deroga.\n\nIV Bis.- Someter a referéndum las leyes, decretos, y las reformas a esta Constitución, cuando sea procedente, de conformidad con la ley de la materia;"
+    },
+    {
+      "id": "030.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción V",
+      "texto": "V.- Dar, interpretar y derogar Leyes y Decretos;"
+    },
+    {
+      "id": "030.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción VI",
+      "texto": "VI.- Aprobar, a más tardar, el 15 de diciembre de cada año, la ley de ingresos y el presupuesto de egresos del Gobierno del estado de Yucatán y las leyes de ingresos de los municipios, de conformidad con los requerimientos establecidos en las leyes en materia de presupuesto, contabilidad gubernamental, responsabilidad hacendaria y la demás legislación y normativa aplicable;\n\nCuando inicie una administración gubernamental estatal en la fecha prevista en el artículo 48 de esta Constitución, el Congreso del Estado aprobará la Ley de Ingresos y el Presupuesto de Egresos del Estado a más tardar el 30 de diciembre del año en que se verifique dicho suceso.\n\nEn caso de no aprobarse el presupuesto de egresos para el ejercicio fiscal correspondiente, continuará en vigor el autorizado para el año inmediato anterior, el cual se ejercerá mensualmente en una doceava parte del total, o de la disponibilidad de los recursos fiscales, con las actualizaciones que sean pertinentes, hasta en tanto se aprueba el del año fiscal respectivo.\n\nDeterminar las bases, montos y plazos con que serán distribuidas las participaciones a los municipios, con arreglo a las Leyes respectivas. Atendiendo entre otros criterios, el esfuerzo recaudatorio; población y marginación;"
+    },
+    {
+      "id": "030.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción VII",
+      "texto": "VII.- Revisar la cuenta pública del año anterior, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el presupuesto y verificar el cumplimiento de los objetivos contenidos en los programas.\n\nLa revisión de la cuenta pública la realizará el Congreso, a través de la Auditoría Superior del Estado, de conformidad con lo establecido en las leyes aplicables. Si del examen que esta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, dicha autoridad solo podrá emitir las recomendaciones para la mejora en el desempeño de estos, en los términos de la ley.\n\nLa cuenta pública del ejercicio fiscal correspondiente deberá ser presentada al Congreso del Estado, a más tardar el 30 de abril del año siguiente.\n\nEl Congreso concluirá la revisión de la cuenta pública a más tardar el 31 de octubre del año siguiente al de su presentación, con base en el análisis de su contenido y en las conclusiones técnicas del informe general ejecutivo del resultado de la fiscalización, a que se refiere el artículo 43 Bis de esta Constitución, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoría Superior del Estado, seguirá su curso en términos de lo dispuesto en dicho artículo.\n\nEl Congreso evaluará el desempeño de la Auditoria Superior del Estado y al efecto le podrá requerir que le informe sobre la evolución de sus trabajos de fiscalización;\n\nVII Bis.- SE DEROGA.\n\nVII Ter.- Coordinar y evaluar, sin perjuicio de su autonomía técnica, presupuestal y de gestión, el desempeño de las funciones de la Auditoría Superior del Estado, en los términos que disponga la ley de la materia;"
+    },
+    {
+      "id": "030.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción VIII",
+      "texto": "VIII.- Establecer las bases conforme a las cuales el Poder Ejecutivo y los municipios puedan contraer obligaciones o empréstitos, con las limitaciones impuestas por las leyes que establezcan las bases generales para incurrir en endeudamiento a que se refiere el numeral 3° de la fracción VIII del artículo 73 de la Constitución Política de los Estados Unidos Mexicanos; así como por lo dispuesto en su artículo 117, fracción VIII;\n\nVIII Bis.- Autorizar por el voto de las dos terceras partes de sus miembros presentes, los montos máximos para que, en las mejores condiciones del mercado, el Poder Ejecutivo y los ayuntamientos contraten empréstitos y obligaciones, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago, con las excepciones previstas en la fracción VIII del artículo 117 de la Constitución Política de los Estados Unidos Mexicanos;\n\nVIII Ter.- Aprobar los términos generales o límites y condiciones en que los entes públicos que señale la ley de la materia, celebren o garanticen proyectos integrales de inversión a largo plazo, las asignaciones presupuestarias plurianuales correspondientes, y en su caso, la aportación de bienes o derechos al proyecto, con sujeción a la legislación aplicable;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada D.O. 02-02-2024",
+          "fechas": [
+            "2024-02-02"
+          ]
+        },
+        {
+          "nota": "Fracción reformada D.O. 02-02-2024",
+          "fechas": [
+            "2024-02-02"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "030.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 2",
+      "texto": "VIII Quáter.- Autorizar la afectación de ingresos a los entes públicos previstos en la ley de la materia, respecto al cumplimiento de todo tipo de obligaciones que deriven de la contratación de financiamiento o de proyectos integrales de inversión a largo plazo y los términos y condiciones para su desafectación conforme a la legislación aplicable."
+    },
+    {
+      "id": "030.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 3",
+      "texto": "VIII Quinquies.- Autorizar por el voto de las dos terceras partes de sus miembros presentes, al Poder Ejecutivo y a los ayuntamientos la celebración de convenios con la federación para la contratación de deuda estatal garantizada, en los términos de las leyes que expida el Congreso de la Unión en esta materia;"
+    },
+    {
+      "id": "030.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción IX",
+      "texto": "IX.- Crear o suprimir empleos públicos, y señalar, aumentar o disminuir sus dotaciones;"
+    },
+    {
+      "id": "030.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción X",
+      "texto": "X.- Expedir los Reglamentos que correspondan para fijar y cubrir el contingente de hombres que corresponda dar al Estado para el ejército Nacional;"
+    },
+    {
+      "id": "030.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XI",
+      "texto": "XI.- Autorizar la organización, disciplina e instrucción de la Guardia Nacional y de la Policía de los municipios;"
+    },
+    {
+      "id": "030.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XII",
+      "texto": "XII.- Dar reglas de colonización conforme a las bases que establezca el Congreso General;"
+    },
+    {
+      "id": "030.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XIII",
+      "texto": "XIII.- Conceder amnistías por los delitos cuyo conocimiento pertenezca exclusivamente a los Tribunales del Estado;"
+    },
+    {
+      "id": "030.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XIV",
+      "texto": "XIV.- Conceder premios y recompensas por servicios eminentes prestados al Estado;"
+    },
+    {
+      "id": "030.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XV",
+      "texto": "XV.- Expedir leyes sobre Educación y Cultura, con sujeción a las bases constitucionales federales y las previstas en esta Constitución;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada D.O. 11-05-2007",
+          "fechas": [
+            "2007-05-11"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "030.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XVI",
+      "texto": "XVI.- Se deroga."
+    },
+    {
+      "id": "030.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XVII",
+      "texto": "XVII.- Expedir y modificar la Ley que regule su estructura y funcionamiento internos. Esta Ley no podrá ser vetada ni necesita de promulgación del Ejecutivo Estatal para tener vigencia;"
+    },
+    {
+      "id": "030.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XVIII",
+      "texto": "XVIII.- Nombrar y remover al Auditor Superior del Estado, al Secretario General del Poder Legislativo, al Director General de Administración y Finanzas, al Director de Evaluación del Presupuesto y al Director del Instituto de Investigaciones Legislativas del Congreso;"
+    },
+    {
+      "id": "030.XIX",
+      "tipo": "fraccion",
+      "marca": "XIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XIX",
+      "texto": "XIX.- Autorizar al Ejecutivo del Estado, para enajenar bienes de la propiedad del Estado, en los casos que señale la Ley, que para tal efecto se expida."
+    },
+    {
+      "id": "030.XX",
+      "tipo": "fraccion",
+      "marca": "XX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XX",
+      "texto": "XX.- Donar a las Instituciones de interés público o de beneficencia, cualquiera clase de bienes de la propiedad del Estado;"
+    },
+    {
+      "id": "030.XXI",
+      "tipo": "fraccion",
+      "marca": "XXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XXI",
+      "texto": "XXI.- Respecto al cargo del Titular del Poder Ejecutivo:",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DO 21-04-2023",
+          "fechas": [
+            "2023-04-21"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DO 21-04-2023",
+          "fechas": [
+            "2023-04-21"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DO 21-04-2023",
+          "fechas": [
+            "2023-04-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "030.XXI.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "XXI",
+      "ruta": "Artículo 30 › Fracción XXI › inciso a)",
+      "texto": "a) Expedir el bando solemne, para dar a conocer la declaración de Gobernador electo hecha por el Consejo General del Instituto de Procedimientos Electorales y Participación Ciudadana del Estado de Yucatán, en la forma que establezca la ley de la materia;"
+    },
+    {
+      "id": "030.XXI.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "XXI",
+      "ruta": "Artículo 30 › Fracción XXI › inciso b)",
+      "texto": "b) Recibir el Compromiso Constitucional a que aluden los artículos 67 y 105 de esta Constitución;"
+    },
+    {
+      "id": "030.XXI.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "XXI",
+      "ruta": "Artículo 30 › Fracción XXI › inciso c)",
+      "texto": "c) Conceder la licencia para separarse de sus funciones, en términos de esta Constitución;"
+    },
+    {
+      "id": "030.XXI.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "XXI",
+      "ruta": "Artículo 30 › Fracción XXI › inciso d)",
+      "texto": "d) Nombrar al interino o sustituto, en los casos de falta temporal o absoluta, erigiéndose en Colegio Electoral."
+    },
+    {
+      "id": "030.XXI.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "XXI",
+      "ruta": "Artículo 30 › Fracción XXI › inciso e)",
+      "texto": "e) Notificar al Gobernador Interino de la reincorporación del Gobernador Constitucional de su licencia, y"
+    },
+    {
+      "id": "030.XXI.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "XXI",
+      "ruta": "Artículo 30 › Fracción XXI › inciso f)",
+      "texto": "f) Ratificar al Gobernador Interino, designado en términos del artículo 50, párrafo quinto, de esta Constitución, como Gobernador Sustituto en caso de ausencia absoluta del Gobernador Constitucional dentro de los últimos dos años del periodo constitucional;"
+    },
+    {
+      "id": "030.XXII",
+      "tipo": "fraccion",
+      "marca": "XXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XXII",
+      "texto": "XXII.- Ratificar, por el voto de la mayoría de sus integrantes presentes en la sesión en que se trate, la designación que el Pleno del Tribunal Superior de Justicia del Estado efectúe de las personas magistradas del Poder Judicial del Estado;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DO 22-04-2019, 04-05-2022/01-04-2024",
+          "fechas": [
+            "2019-04-22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "030.XXIII",
+      "tipo": "fraccion",
+      "marca": "XXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XXIII",
+      "texto": "XXIII.- Aceptar las renuncias de los Magistrados del Poder Judicial del Estado en los términos del artículo 68 de esta Constitución;\n\nXXIII Bis.- SE DEROGA."
+    },
+    {
+      "id": "030.XXIV",
+      "tipo": "fraccion",
+      "marca": "XXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XXIV",
+      "texto": "XXIV.- Hacer uso del derecho de iniciar Leyes que le concede la Constitución General, y aprobar o secundar, cuando lo crea conveniente, las de los Congresos de los otros Estados;"
+    },
+    {
+      "id": "030.XXV",
+      "tipo": "fraccion",
+      "marca": "XXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XXV",
+      "texto": "XXV.- Aprobar o no la formación o erección de nuevos Estados o Territorios;"
+    },
+    {
+      "id": "030.XXVI",
+      "tipo": "fraccion",
+      "marca": "XXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XXVI",
+      "texto": "XXVI.- Recibir el Compromiso Constitucional a los Magistrados del Poder Judicial del Estado a que alude el artículo 67 de esta Constitución;"
+    },
+    {
+      "id": "030.XXVII",
+      "tipo": "fraccion",
+      "marca": "XXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XXVII",
+      "texto": "XXVII.- Resolver las peticiones de licencias para separarse de sus respectivos cargos y renuncias de sus integrantes, del Auditor Superior del Estado, Secretario General del Poder Legislativo, Director General de Administración y Finanzas, Director de Evaluación del Presupuesto y del Director del Instituto de Investigaciones Legislativas del Congreso;\n\nXXVII Bis.- Presentar la cuenta pública en los términos y las formas que fijen las leyes en la materia;"
+    },
+    {
+      "id": "030.XXVIII",
+      "tipo": "fraccion",
+      "marca": "XXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XXVIII",
+      "texto": "XXVIII.- Se Deroga.",
+      "reformas": [
+        {
+          "nota": "Fracción derogada D.O. 24-04/2006",
+          "fechas": [
+            "2006-04-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "030.XXIX",
+      "tipo": "fraccion",
+      "marca": "XXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XXIX",
+      "texto": "XXIX.- Arreglar los límites del Estado, por convenios amistosos, los cuales no se llevarán a efecto sin la aprobación del Congreso de la Unión;\n\nXXIX Bis.- Se Deroga.",
+      "reformas": [
+        {
+          "nota": "Fracción derogada D.O. 24-04/2006",
+          "fechas": [
+            "2006-04-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "030.XXX",
+      "tipo": "fraccion",
+      "marca": "XXX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XXX",
+      "texto": "XXX.- Nombrar a la Diputación Permanente que ha de funcionar en el receso del Congreso, antes de la clausura de cada período de sesiones ordinarias;"
+    },
+    {
+      "id": "030.XXXI",
+      "tipo": "fraccion",
+      "marca": "XXXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XXXI",
+      "texto": "XXXI.- Designar por el voto de sus dos terceras partes, a la Presidenta o Presidente de la Comisión de Derechos Humanos y a los demás integrantes del Consejo Consultivo. Esta elección se ajustará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la Ley;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DO 22-04-2019",
+          "fechas": [
+            "2019-04-22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "030.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 4",
+      "texto": "XXXI Bis.- Solicitar a la Comisión Nacional de los Derechos Humanos la investigación de hechos que constituyan violaciones graves de derechos humanos;"
+    },
+    {
+      "id": "030.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 5",
+      "texto": "XXXI Ter.- Requerir, a solicitud de la Comisión de Derechos Humanos del Estado de Yucatán, la comparecencia de las autoridades o servidores públicos cuando se hayan negado a aceptar o cumplir alguna recomendación emitida por dicho organismo autónomo, a efecto de que expliquen el motivo de su negativa;"
+    },
+    {
+      "id": "030.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 6",
+      "texto": "XXXI Quáter.- Analizar el Informe Anual presentado por la Comisión de Derechos Humanos del Estado de Yucatán y hacer público el resultado del mismo;"
+    },
+    {
+      "id": "030.XXXII",
+      "tipo": "fraccion",
+      "marca": "XXXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XXXII",
+      "texto": "XXXII.- Se deroga.",
+      "reformas": [
+        {
+          "nota": "Fracción derogada 21-07-2025",
+          "fechas": []
+        }
+      ]
+    },
+    {
+      "id": "030.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 7",
+      "texto": "XXXII Bis.- Designar, por el voto de las dos terceras partes de sus miembros integrantes, a los titulares de los órganos internos de control de los organismos constitucionales autónomos del estado de Yucatán;"
+    },
+    {
+      "id": "030.XXXIII",
+      "tipo": "fraccion",
+      "marca": "XXXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XXXIII",
+      "texto": "XXXIII.- Erigirse en Jurado de Acusación para los altos funcionarios de que tratan los artículos 97 y 98;"
+    },
+    {
+      "id": "030.XXXIV",
+      "tipo": "fraccion",
+      "marca": "XXXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XXXIV",
+      "texto": "XXXIV.- Solicitar al Ejecutivo la comparecencia de cualquier funcionario de la administración pública estatal, para que informe u oriente cuando se discuta una ley o se estudie un negocio, que se relacione con la función de éste;"
+    },
+    {
+      "id": "030.XXXV",
+      "tipo": "fraccion",
+      "marca": "XXXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XXXV",
+      "texto": "XXXV.- Expedir las leyes que establezcan las bases para la organización de la administración pública municipal.\n\nLos ayuntamientos se sujetarán a dichas bases para la elaboración y aprobación de los bandos de policía y gobierno, los reglamentos, circulares y demás disposiciones administrativas de observancia, dentro de sus respectivas jurisdicciones;\n\nXXXV Bis.- Formular las disposiciones aplicables, en aquellos municipios que no cuenten con los bandos o reglamentos correspondientes;"
+    },
+    {
+      "id": "030.XXXVI",
+      "tipo": "fraccion",
+      "marca": "XXXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XXXVI",
+      "texto": "XXXVI.- Expedir la ley que organiza y reglamenta la estructura y funcionamiento de los ayuntamientos, la que tendrá por objeto establecer lo dispuesto en los incisos b), c), d), y e) de la fracción II del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;"
+    },
+    {
+      "id": "030.XXXVII",
+      "tipo": "fraccion",
+      "marca": "XXXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XXXVII",
+      "texto": "XXXVII.- Pedir, si no lo hubiese hecho antes el Ejecutivo del Estado, en caso de trastorno o sublevación interior, la protección de los Poderes de la Unión;\n\nXXXVII Bis.- Autorizar la celebración de los convenios de coordinación, dispuestos en el párrafo tercero del inciso i) fracción III, del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;"
+    },
+    {
+      "id": "030.XXXVIII",
+      "tipo": "fraccion",
+      "marca": "XXXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XXXVIII",
+      "texto": "XXXVIII.- Fijar las modalidades que a la propiedad privada deban imponerse para beneficio público; ejercer los derechos que le confieren los artículos 27 y 28 de la Constitución Federal."
+    },
+    {
+      "id": "030.XXXIX",
+      "tipo": "fraccion",
+      "marca": "XXXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XXXIX",
+      "texto": "XXXIX.- Conocer y resolver los desacuerdos que surjan por los convenios que suscriban los Ayuntamientos con el Ejecutivo, conforme a los artículos 115 y 116 de la Constitución Política de los Estados Unidos Mexicanos;"
+    },
+    {
+      "id": "030.XL",
+      "tipo": "fraccion",
+      "marca": "XL",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XL",
+      "texto": "XL.- Declarar desaparecido un Ayuntamiento, así como revocar el mandato de sus integrantes, mediante el acuerdo de las dos terceras partes de los Diputados que integran el Congreso, previo el cumplimiento del procedimiento respectivo.\n\nPara el ejercicio de las facultades señaladas en esta fracción, se deberá garantizar en todo momento, que él Regidor afectado tenga oportunidad para ofrecer pruebas y alegar en su defensa;\n\nXL Bis.- Designar un Concejo Municipal de entre los ciudadanos y vecinos del municipio de que se trate, en caso de falta absoluta de la totalidad de los integrantes del Ayuntamiento. Dicho Concejo podrá ser:"
+    },
+    {
+      "id": "030.XL.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "XL",
+      "ruta": "Artículo 30 › Fracción XL › inciso a)",
+      "texto": "a) Provisional, si su designación se lleva a cabo en el lapso de los primeros seis meses del ejercicio de la gestión, y"
+    },
+    {
+      "id": "030.XL.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "XL",
+      "ruta": "Artículo 30 › Fracción XL › inciso b)",
+      "texto": "b) Definitivo, si se realiza con posterioridad al mencionado período de tiempo.\n\nCada Concejo Municipal será conformado con un número de integrantes en proporción al número de habitantes, conforme a lo establecido en la ley de la materia. También estará investido de personalidad jurídica, con las facultades y atribuciones que las leyes determinen.\n\nSus integrantes no podrán ser electos para el período constitucional inmediato;\n\n[XLI.- Revocar el mandato conferido al Gobernador del Estado, y a los Diputados en lo particular. En ambos casos será necesaria la determinación del sesenta y cinco por ciento de los electores inscritos en el listado nominal correspondiente, comunicada al Congreso y aprobada por el voto unánime de la Legislatura en el caso del Gobernador, y de las dos terceras partes en el de los Diputados;] Nota: Esta fracción fue declarada inválida por sentencia de la SCJN en la Acción de Inconstitucionalidad 8/2010 Publicada en el DOF 16-10-2012"
+    },
+    {
+      "id": "030.XLII",
+      "tipo": "fraccion",
+      "marca": "XLII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XLII",
+      "texto": "XLII.- Se Deroga.",
+      "reformas": [
+        {
+          "nota": "Fracción derogada D.O. 16-12-1994",
+          "fechas": [
+            "1994-12-16"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "030.XLIII",
+      "tipo": "fraccion",
+      "marca": "XLIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XLIII",
+      "texto": "XLIII.- Convocar a elecciones extraordinarias en el Distrito Electoral que fuera necesario, con objeto de cubrir las vacantes de sus miembros propietarios y suplentes electos por el principio de mayoría relativa, en los plazos y términos que disponga la ley y la convocatoria respectiva;\n\nXLIII Bis.- Convocar a elecciones extraordinarias, cuando se declare la nulidad de una elección o la desaparición de un Ayuntamiento, en el plazo y condiciones que dispongan las leyes;"
+    },
+    {
+      "id": "030.XLIV",
+      "tipo": "fraccion",
+      "marca": "XLIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XLIV",
+      "texto": "XLIV.- Se Deroga.",
+      "reformas": [
+        {
+          "nota": "Fracción derogada D.O. 26-04-2005",
+          "fechas": [
+            "2005-04-26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "030.XLV",
+      "tipo": "fraccion",
+      "marca": "XLV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XLV",
+      "texto": "XLV.- Se Deroga.",
+      "reformas": [
+        {
+          "nota": "Fracción derogada D.O. 26-04-2005",
+          "fechas": [
+            "2005-04-26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "030.XLVI",
+      "tipo": "fraccion",
+      "marca": "XLVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XLVI",
+      "texto": "XLVI.- Formular el proyecto de Presupuesto de Egresos del Poder Legislativo, atendiendo las posibilidades del ingreso y gasto Público del Estado, y remitirlo al titular del Poder Ejecutivo a más tardar el 15 de octubre de cada año, a fin de que éste considere su incorporación al proyecto de Presupuesto de Egresos del Estado;"
+    },
+    {
+      "id": "030.XLVII",
+      "tipo": "fraccion",
+      "marca": "XLVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XLVII",
+      "texto": "XLVII.- Determinar los servicios públicos que tendrán a su cargo los municipios según las condiciones territoriales y socioeconómicas de los mismos, así como su capacidad administrativa y financiera."
+    },
+    {
+      "id": "030.XLVIII",
+      "tipo": "fraccion",
+      "marca": "XLVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XLVIII",
+      "texto": "XLVIII.- Ratificar el nombramiento de la secretaria o secretario responsable del control interno del Poder Ejecutivo, que haga la Gobernadora o Gobernador;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DO 22-04-2019",
+          "fechas": [
+            "2019-04-22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "030.XLIX",
+      "tipo": "fraccion",
+      "marca": "XLIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción XLIX",
+      "texto": "XLIX.- Designar a la o el Fiscal Especializado en Combate a la Corrupción, a través del mismo procedimiento dispuesto en esta constitución para la o el fiscal general del estado;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DO 22-04-2019 / 14-11-2019/ 12-09-2022",
+          "fechas": [
+            "2019-04-22"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada DO 12-09-2022/ reformada D.O. 21-04-2023",
+          "fechas": [
+            "2022-09-12",
+            "2023-04-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "030.L",
+      "tipo": "apartado",
+      "marca": "L",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Apartado L",
+      "texto": "L.- Designar por el voto de las dos terceras partes de sus miembros presentes en la sesión respectiva a la persona Titular de la Agencia de Transporte de Yucatán, conforme al procedimiento previsto en esta Constitución;"
+    },
+    {
+      "id": "030.L.LI",
+      "tipo": "fraccion",
+      "marca": "LI",
+      "apartado": "L",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Apartado L › Fracción LI",
+      "texto": "LI.- Designar y, en su caso, remover al Fiscal General del Estado conforme al procedimiento dispuesto en esta Constitución;",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada D.O. 21-04-2023/ reformada D.O. 21-04-2023",
+          "fechas": [
+            "2023-04-21"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada D.O. 02-02-2024",
+          "fechas": [
+            "2024-02-02"
+          ]
+        },
+        {
+          "nota": "Fracción adicionada D.O. 02-02-2024",
+          "fechas": [
+            "2024-02-02"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "030.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "L",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Apartado L › párrafo 8",
+      "texto": "LI Bis.- Ratificar, por el voto favorable de la mayoría de sus integrantes presentes, la designación del nombramiento por un plazo de diez años de la persona titular de la Dirección General de la empresa pública Operadora Energética y Marítima de Yucatán, Sociedad Anónima de Capital Variable de Participación Estatal Mayoritaria que realice la persona titular del Poder Ejecutivo Estatal, en términos de la legislación aplicable; así como la prórroga de dicho nombramiento por un único período de igual duración y, en su caso, la remoción de dicho nombramiento por la mayoría absoluta de sus integrantes."
+    },
+    {
+      "id": "030.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "L",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Apartado L › párrafo 9",
+      "texto": "LI Ter.- Ratificar, por el voto favorable de la mayoría de sus integrantes presentes, la designación del nombramiento por un plazo de seis a diez años de las personas consejeras independientes integrantes del Consejo de Administración de la empresa pública Operadora Energética y Marítima de Yucatán, Sociedad Anónima de Capital Variable de Participación Estatal Mayoritaria, que realice por la persona titular del Poder Ejecutivo del estado, conforme a lo que establezca la ley respectiva; así como la prórroga de dicho nombramiento por un único periodo igual y, en su caso, la remoción de dicho nombramiento por la mayoría absoluta de sus integrantes."
+    },
+    {
+      "id": "030.L.LII",
+      "tipo": "fraccion",
+      "marca": "LII",
+      "apartado": "L",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Apartado L › Fracción LII",
+      "texto": "LII.- Designar y, en su caso, remover a la persona Titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, conforme al procedimiento previsto en esta Constitución;",
+      "reformas": [
+        {
+          "nota": "Fracción recorrida DO 12-09-2022/ 21-04-2023/ reformada D.O. 21-04-2023/ 09-10-2023",
+          "fechas": [
+            "2022-09-12",
+            "2023-04-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "030.L.LIII",
+      "tipo": "fraccion",
+      "marca": "LIII",
+      "apartado": "L",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Apartado L › Fracción LIII",
+      "texto": "LIII.- Designar y, en su caso, remover a la persona Titular de la Secretaría Técnica de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán, conforme al procedimiento previsto en la ley orgánica de esta última;",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada D.O. 09-10-2023/ reformada D.O. 01-04-2024",
+          "fechas": [
+            "2023-10-09",
+            "2024-04-01"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "030.L.LIV",
+      "tipo": "fraccion",
+      "marca": "LIV",
+      "apartado": "L",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Apartado L › Fracción LIV",
+      "texto": "LIV.- Designar, por el voto de las dos terceras partes de sus integrantes, a la persona titular de la Procuraduría de Justicia Ambiental y Urbana del Estado de Yucatán, en los términos establecidos en esta Constitución y en las Leyes aplicables;",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada D.O. 01-04-2024/ reformada D.O. 27-06-2024",
+          "fechas": [
+            "2024-04-01",
+            "2024-06-27"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "030.L.LV",
+      "tipo": "fraccion",
+      "marca": "LV",
+      "apartado": "L",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Apartado L › Fracción LV",
+      "texto": "LV.- Se deroga.",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada D.O. 27-06-2024/ derogada D.O. 04-07-2025",
+          "fechas": [
+            "2024-06-27",
+            "2025-07-04"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "030.L.LVI",
+      "tipo": "fraccion",
+      "marca": "LVI",
+      "apartado": "L",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Apartado L › Fracción LVI",
+      "texto": "LVI.- Las demás que le confiera la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ella emanen.",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada D.O. 21-04-2023/ reformada D.O. 09-10-2023/ recorrida (antes LIV) D.O. 01-04-",
+          "fechas": [
+            "2023-04-21",
+            "2023-10-09"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "030.p10",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "L",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Apartado L › párrafo 10",
+      "texto": "2024/(antes LV) D.O 27-06-2024"
+    }
+  ]
+}
