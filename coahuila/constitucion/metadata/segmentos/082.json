@@ -2,7 +2,7 @@
   "clave": "082",
   "etiqueta": "Artículo 82º",
   "titulo": "TITULO CUARTO.",
-  "capitulo": "CAPÍTULO I",
+  "capitulo": "CAPITULO II.",
   "reformas_articulo": [],
   "bloques": [
     {
@@ -120,16 +120,7 @@
       "apartado": "",
       "fraccion": "V",
       "ruta": "Artículo 82º › Fracción V › 1.",
-      "texto": "1. El concurso del Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo temporalmente de uno o varios servicios o funciones municipales, cuando a juicio del Ayuntamiento fuera necesario;"
-    },
-    {
-      "id": "082.p6",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "",
-      "fraccion": "",
-      "ruta": "Artículo 82º › párrafo 6",
-      "texto": "o bien se presten o ejerzan coordinadamente por el Estado y por el Municipio."
+      "texto": "1. El concurso del Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo temporalmente de uno o varios servicios o funciones municipales, cuando a juicio del Ayuntamiento fuera necesario; o bien se presten o ejerzan coordinadamente por el Estado y por el Municipio."
     },
     {
       "id": "082.V.2~2",
@@ -168,12 +159,12 @@
       "texto": "5. La realización y prestación, también por parte de los Municipios, de programas, obras, funciones y servicios de competencia federal, que el Estado hubiera asumido, en virtud de convenios celebrados con la Federación."
     },
     {
-      "id": "082.p7",
+      "id": "082.p6",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
       "fraccion": "",
-      "ruta": "Artículo 82º › párrafo 7",
+      "ruta": "Artículo 82º › párrafo 6",
       "texto": "(REFORMADA, P.O. 4 DE FEBRERO DE 1977)"
     },
     {

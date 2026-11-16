@@ -2,7 +2,7 @@
   "clave": "009",
   "etiqueta": "Artículo 9º",
   "titulo": "TITULO PRIMERO",
-  "capitulo": "",
+  "capitulo": "CAPITULO III.",
   "reformas_articulo": [],
   "bloques": [
     {
@@ -21,16 +21,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 9º › párrafo 2",
-      "texto": "Las personas que de alguna manera se hallen en territorio del Estado, se considerarán: Coahuilenses; vecinos;"
-    },
-    {
-      "id": "009.p3",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "",
-      "fraccion": "",
-      "ruta": "Artículo 9º › párrafo 3",
-      "texto": "transeúntes y extranjeros."
+      "texto": "Las personas que de alguna manera se hallen en territorio del Estado, se considerarán: Coahuilenses; vecinos; transeúntes y extranjeros."
     }
   ]
 }
