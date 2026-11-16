@@ -1,0 +1,27 @@
+{
+  "clave": "036",
+  "etiqueta": "Artículo 36",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "036.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › párrafo 1",
+      "texto": "El Congreso se renovará en su totalidad cada tres años, mediante elección que se celebrará el primer domingo de junio del año que corresponda, debiendo tomar posesión de su cargo los integrantes de la nueva Legislatura, el primero de septiembre del año de la elección."
+    },
+    {
+      "id": "036.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › párrafo 2",
+      "texto": "Artículo reformado, P.O. Alcance tres del 30 de enero de 2025."
+    }
+  ]
+}

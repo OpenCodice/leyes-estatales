@@ -1,0 +1,81 @@
+{
+  "clave": "012",
+  "etiqueta": "Artículo 12",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "012.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › párrafo 1",
+      "texto": "Son obligaciones de los habitantes del Estado:"
+    },
+    {
+      "id": "012.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción I",
+      "texto": "I.- Cumplir con los preceptos de esta Constitución, los de las Leyes, Reglamentos, y disposiciones que de ellos emanen, así como respetar a las autoridades y los derechos humanos de las demás personas;"
+    },
+    {
+      "id": "012.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción II",
+      "texto": "II.- Contribuir a los gastos públicos del Estado y del Municipio en que residan o tengan bienes, en la forma proporcional y equitativa que dispongan las Leyes;"
+    },
+    {
+      "id": "012.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción III",
+      "texto": "III.- Contribuir a que los satisfactores y servicios que se generen en la Entidad, se destinen preferentemente a resolver las necesidades del Estado;"
+    },
+    {
+      "id": "012.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción IV",
+      "texto": "IV. Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas, para obtener la educación preescolar, primaria, secundaria y media superior y reciban la militar, en los términos que establezca la Ley."
+    },
+    {
+      "id": "012.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción V",
+      "texto": "V.- Tener un modo honesto de vivir;"
+    },
+    {
+      "id": "012.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción VI",
+      "texto": "VI.- Dar auxilio a las autoridades en caso de urgencia, o cuando éstas lo requieran y sea necesario; y"
+    },
+    {
+      "id": "012.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción VII",
+      "texto": "VII.- Si son extranjeros, contribuir a los gastos públicos de la manera que dispongan las Leyes, obedecer y respetar a las instituciones, leyes y autoridades del Estado, sujetándose a los fallos y sentencias de los Tribunales competentes, absteniéndose de invocar o intentar el uso de otros recursos que los que se concedan a los mexicanos."
+    }
+  ]
+}

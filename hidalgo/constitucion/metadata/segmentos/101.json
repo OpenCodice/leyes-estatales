@@ -1,0 +1,36 @@
+{
+  "clave": "101",
+  "etiqueta": "Artículo 101",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPITULO II BIS",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "101.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 1",
+      "texto": "Los bienes que integran el patrimonio del Estado son:"
+    },
+    {
+      "id": "101.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › Fracción I",
+      "texto": "I.- De dominio público; y"
+    },
+    {
+      "id": "101.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › Fracción II",
+      "texto": "II.- De dominio privado estatal."
+    }
+  ]
+}

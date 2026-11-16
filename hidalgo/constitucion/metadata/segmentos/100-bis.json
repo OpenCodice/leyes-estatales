@@ -1,0 +1,27 @@
+{
+  "clave": "100-bis",
+  "etiqueta": "Artículo 100 Bis",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPITULO II BIS",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "100-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 Bis › párrafo 1",
+      "texto": "Derogado."
+    },
+    {
+      "id": "100-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 Bis › párrafo 2",
+      "texto": "Artículo derogado, P.O. Alcance uno del 12 de marzo de 2025."
+    }
+  ]
+}

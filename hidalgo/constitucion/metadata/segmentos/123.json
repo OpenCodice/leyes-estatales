@@ -1,0 +1,18 @@
+{
+  "clave": "123",
+  "etiqueta": "Artículo 123",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPITULO II BIS",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "123.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 1",
+      "texto": "El Ayuntamiento es el órgano de Gobierno municipal a través del cual, el pueblo, en ejercicio de su voluntad política, realiza la autogestión de los intereses de la comunidad."
+    }
+  ]
+}

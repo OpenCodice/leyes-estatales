@@ -1,0 +1,27 @@
+{
+  "clave": "121",
+  "etiqueta": "Artículo 121",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPITULO II BIS",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "121.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 1",
+      "texto": "Los conflictos de límites que se susciten entre las diversas circunscripciones municipales, se podrán resolver mediante convenios que al efecto celebren con la aprobación del Congreso del Estado."
+    },
+    {
+      "id": "121.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 2",
+      "texto": "Cuando dichas diferencias tengan carácter judicial, conocerá de ellas el Tribunal Superior de Justicia."
+    }
+  ]
+}

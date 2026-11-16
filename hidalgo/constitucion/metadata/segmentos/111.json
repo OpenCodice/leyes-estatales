@@ -1,0 +1,18 @@
+{
+  "clave": "111",
+  "etiqueta": "Artículo 111",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPITULO II BIS",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "111.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 1",
+      "texto": "No podrá hacerse pago alguno que no esté comprendido en el presupuesto o determinado por la Ley o por decreto posterior emitido por el Congreso, o con cargo a recursos excedentes."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "clave": "002",
+  "etiqueta": "Artículo 2",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "002.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 1",
+      "texto": "La Constitución Política de los Estados Unidos Mexicanos, esta Constitución, las Leyes que de ellas emanen y los tratados internacionales de los que el Estado mexicano sea parte, integran el orden jurídico fundamental del Estado de Hidalgo."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "137",
+  "etiqueta": "Artículo 137",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPITULO II BIS",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "137.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › párrafo 1",
+      "texto": "Los bienes de dominio privado podrán ser enajenados mediante acuerdo del Ayuntamiento."
+    },
+    {
+      "id": "137.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › párrafo 2",
+      "texto": "Toda enajenación de bienes inmuebles deberá ser aprobada por el voto de las dos terceras partes de los miembros del Ayuntamiento, respetando los procedimientos señalados por la ley."
+    },
+    {
+      "id": "137.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › párrafo 3",
+      "texto": "De los actos mencionados en el párrafo anterior, el Ayuntamiento informará al Congreso del Estado a través de la Cuenta Pública."
+    }
+  ]
+}

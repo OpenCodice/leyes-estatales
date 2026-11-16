@@ -1,0 +1,108 @@
+{
+  "clave": "042",
+  "etiqueta": "Artículo 42",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "042.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 1",
+      "texto": "Durante el Primer Período Ordinario de Sesiones, y para que rijan en el año siguiente, el Congreso se ocupará prioritariamente de examinar y aprobar en su caso, la Ley de Ingresos del Estado y las de los Municipios, así como el Presupuesto de Egresos del Estado, que el Gobernador deberá enviar a más tardar el 19 de noviembre y que deberá ser aprobado a más tardar el 22 de diciembre."
+    },
+    {
+      "id": "042.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 2",
+      "texto": "Durante el Segundo Período Ordinario de Sesiones, el Congreso se ocupará preferentemente de conocer el Informe del Resultado de la Revisión de la Cuenta Pública del Estado, las de los Municipios, las de los Organismos Autónomos y de cualquier persona física o moral que reciba por cualquier título recursos públicos."
+    },
+    {
+      "id": "042.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 3",
+      "texto": "El Congreso concluirá la revisión de las cuentas públicas el 31 de octubre del año siguiente al de su presentación, con base en las conclusiones técnicas del Informe del Resultado de la Revisión, sin menoscabo de que el trámite de las observaciones, recomendaciones y acciones promovidas por la Auditoria Superior del Estado, siga su curso."
+    },
+    {
+      "id": "042.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 4",
+      "texto": "Si al inicio del año no estuviere aprobada la Ley de Ingresos del Estado y/o las leyes de ingresos de los municipios, continuarán vigentes aquellas aprobadas para el año anterior, respectivamente, en tanto, el Congreso del Estado apruebe las Leyes para el año correspondiente."
+    },
+    {
+      "id": "042.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 5",
+      "texto": "En la aprobación del Presupuesto de Egresos del Estado, el Congreso no podrá dejar de prever las asignaciones presupuestales necesarias para cubrir los siguientes gastos ineludibles, sujeto a la disponibilidad presupuestaria anual de:"
+    },
+    {
+      "id": "042.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › Fracción I",
+      "texto": "I. Contratos de prestación de servicios a largo plazo, hasta que sean pagados en su totalidad;"
+    },
+    {
+      "id": "042.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › Fracción II",
+      "texto": "II. Proyectos de infraestructura productiva y deuda pública, hasta que sean pagados en su totalidad;"
+    },
+    {
+      "id": "042.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › Fracción III",
+      "texto": "III. Contratos de obra pública, adquisiciones, arrendamientos y servicios, hasta que sean pagados en su totalidad;"
+    },
+    {
+      "id": "042.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › Fracción IV",
+      "texto": "IV. Las remuneraciones de los servidores públicos y el demás gasto corriente aprobado para el año anterior, distinto al gasto corriente contemplado, según sea el caso, en las fracciones anteriores;"
+    },
+    {
+      "id": "042.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › Fracción V",
+      "texto": "V. Los adeudos de ejercicios fiscales anteriores que no estén contemplados en las fracciones anteriores; y"
+    },
+    {
+      "id": "042.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › Fracción VI",
+      "texto": "VI. Las erogaciones determinadas en cantidad específica, porcentajes o fórmulas en las leyes respectivas.\n\nLas obligaciones de pago que se establecen en las fracciones I, II y III anteriores que no sean cubiertas en un ejercicio fiscal, tendrán preferencia respecto de otras previsiones de gasto público para ser incluidos en los presupuestos de egresos del Estado, de los ejercicios fiscales siguientes, hasta que sean pagados en su totalidad.\n\nLos Poderes Estatales Legislativo, Ejecutivo y Judicial, incluyendo las entidades paraestatales, así como los organismos con autonomía reconocida en esta Constitución que ejerzan recursos del Presupuesto de Egresos del Estado, deberán incluir dentro de sus proyectos de presupuestos los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos.\n\nEl presupuesto anual asignado al Congreso del Estado no podrá exceder del cero punto setenta por ciento del total del Presupuesto de Egresos del Estado.\n\nPárrafo adicionado, P.O. Alcance del 07 de julio de 2026."
+    }
+  ]
+}

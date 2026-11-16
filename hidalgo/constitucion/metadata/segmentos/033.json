@@ -1,0 +1,36 @@
+{
+  "clave": "033",
+  "etiqueta": "Artículo 33",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "033.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › párrafo 1",
+      "texto": "Las personas propietarias de las diputaciones locales, no podrán ser reelectas para el periodo inmediato posterior al ejercicio de su mandato."
+    },
+    {
+      "id": "033.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › párrafo 2",
+      "texto": "Las personas diputadas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio; pero las personas diputadas propietarias no podrán ser electas para el periodo inmediato con el carácter de suplentes."
+    },
+    {
+      "id": "033.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › párrafo 3",
+      "texto": "Artículo reformado. P.O. Alcance uno del 22 de abril de 2026."
+    }
+  ]
+}

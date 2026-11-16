@@ -1,0 +1,72 @@
+{
+  "clave": "052",
+  "etiqueta": "Artículo 52",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "052.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › párrafo 1",
+      "texto": "La persona titular del Poder Ejecutivo del Estado no podrá hacer observaciones a los Proyectos de Ley o de Decretos del Congreso, cuando:"
+    },
+    {
+      "id": "052.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › párrafo 2",
+      "texto": "Párrafo reformado, P.O. Alcance uno del 12 de marzo de 2025."
+    },
+    {
+      "id": "052.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › Fracción I",
+      "texto": "I.- Se trate de adiciones o reformas a esta Constitución;"
+    },
+    {
+      "id": "052.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › Fracción II",
+      "texto": "II.- Hayan sido dictados en ejercicio de la facultad de fiscalización superior a las cuentas públicas;"
+    },
+    {
+      "id": "052.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › Fracción III",
+      "texto": "III.- Hayan sido dictados en uso de la facultad de conceder o negar licencia a la persona titular del Poder Ejecutivo del Estado, a las magistradas y los magistrados del Tribunal de Justicia Administrativa, a las personas titulares de la Auditoría Superior, de la Fiscalía General de Justicia del Estado, de la Fiscalía Especializada en Delitos Electorales y de la Fiscalía Especializada en Delitos de Corrupción;\n\nFracción reformada, P.O. Alcance uno del 22 de junio del 2022, alcance uno del 12 de marzo de 2025."
+    },
+    {
+      "id": "052.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › Fracción IV",
+      "texto": "IV.- Hayan sido dictados en funciones del Colegio Electoral u Órgano de Acusación; y"
+    },
+    {
+      "id": "052.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › Fracción V",
+      "texto": "V.- Hayan sido dictados baja la facultad de expedir su Ley reglamentaria y disposiciones relacionadas con la misma."
+    }
+  ]
+}

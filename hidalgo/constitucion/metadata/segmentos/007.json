@@ -1,0 +1,63 @@
+{
+  "clave": "007",
+  "etiqueta": "Artículo 7",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 1",
+      "texto": "Todo individuo tiene derecho al trabajo digno y socialmente útil; al efecto se promoverá el empleo y la organización social para el trabajo, sin contravenir las bases establecidas en la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella se deriven."
+    },
+    {
+      "id": "007.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 2",
+      "texto": "El trabajo se entenderá como un derecho y una obligación que debe de cumplirse responsablemente, en beneficio de la sociedad."
+    },
+    {
+      "id": "007.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 3",
+      "texto": "Las autoridades del Estado, de conformidad con la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes aplicables, promoverán que a trabajo igual corresponda salario igual, sin tener en cuenta, sexo, género ni nacionalidad."
+    },
+    {
+      "id": "007.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 4",
+      "texto": "Párrafo adicionado, P.O. Alcance dos del 7 de mayo de 2026."
+    },
+    {
+      "id": "007.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 5",
+      "texto": "La ley determinará cuales son las profesiones que necesitan título para su ejercicio, las condiciones que deban llenarse para obtenerlo y las autoridades que han de expedirlos."
+    },
+    {
+      "id": "007.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 6",
+      "texto": "Párrafo recorrido, P.O. Alcance dos del 7 de mayo de 2026."
+    }
+  ]
+}
