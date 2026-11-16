@@ -1,0 +1,36 @@
+{
+  "clave": "096",
+  "etiqueta": "Artículo 96",
+  "titulo": "Título Noveno",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "096.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96 › párrafo 1",
+      "texto": "El Consejo del Ministerio Público funcionará en Pleno, sus acuerdos serán tomados por mayoría de votos, sesionará por lo menos cada dos meses y podrá conformar quórum legal con cinco de sus miembros presentes."
+    },
+    {
+      "id": "096.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96 › párrafo 2",
+      "texto": "El Consejo del Ministerio Publico resolverá cualquier solicitud del Ejecutivo del Estado para crear nuevas Fiscalías, además, determinará las medidas que tiendan a mejorar el sistema de justicia penal en la Entidad, desde los ámbitos de la prevención, la investigación y la persecución de los hechos delictivos."
+    },
+    {
+      "id": "096.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96 › párrafo 3",
+      "texto": "El Consejo del Ministerio Público será el Órgano de Consulta del Fiscal General del Estado."
+    }
+  ]
+}

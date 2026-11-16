@@ -1,0 +1,27 @@
+{
+  "clave": "090",
+  "etiqueta": "Artículo 90",
+  "titulo": "Título Octavo",
+  "capitulo": "Capítulo VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "090.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › párrafo 1",
+      "texto": "Los Ayuntamientos del Estado de Chiapas, deberán elaborar su plan Municipal desarrollo al inicio de su gestión, en los términos que establezca la ley respectiva."
+    },
+    {
+      "id": "090.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › párrafo 2",
+      "texto": "La fiscalización y evaluación del Ayuntamiento le corresponde al Congreso del Estado a Través de su Órgano de Fiscalización."
+    }
+  ]
+}

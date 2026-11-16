@@ -1,0 +1,27 @@
+{
+  "clave": "119",
+  "etiqueta": "Artículo 119",
+  "titulo": "Título Décimo Primero",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "119.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › párrafo 1",
+      "texto": "Los cargos de elección popular en el estado y los municipios sólo son renunciables por causa justificada, calificada por el Congreso del Estado. Las renuncias deberán presentarse ante la autoridad legislativa con la expresión de las causas de la misma."
+    },
+    {
+      "id": "119.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › párrafo 2",
+      "texto": "Las solicitudes de licencia por más de un año o por tiempo indefinido, serán calificadas como renuncias y, por lo tanto, el Congreso del Estado resolverá lo conducente."
+    }
+  ]
+}

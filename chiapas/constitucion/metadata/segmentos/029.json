@@ -1,0 +1,45 @@
+{
+  "clave": "029",
+  "etiqueta": "Artículo 29",
+  "titulo": "Título Cuarto",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "029.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29 › párrafo 1",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NUM. 029 DE FECHA 14 DE MARZO DE 2025)"
+    },
+    {
+      "id": "029.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29 › párrafo 2",
+      "texto": "En las elecciones de gubernatura, diputaciones locales y miembros de Ayuntamientos, podrán participar tanto partidos políticos de carácter nacional como partidos políticos con registro local, así como los ciudadanos con candidaturas independientes."
+    },
+    {
+      "id": "029.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29 › párrafo 3",
+      "texto": "Los requisitos que deberán cumplirse para el registro de un partido local, así como las causas de pérdida de registro, serán establecidos en la ley. Salvo las disposiciones expresamente señaladas, la ley reconocerá los mismos derechos y deberes para los partidos políticos con registro nacional y para los partidos políticos con registro local."
+    },
+    {
+      "id": "029.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29 › párrafo 4",
+      "texto": "La intervención en la vida interna de los partidos por parte de las autoridades electorales locales, sólo podrá ser conforme a las disposiciones que establezcan esta Constitución y las leyes generales respectivas."
+    }
+  ]
+}

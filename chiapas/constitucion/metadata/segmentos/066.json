@@ -1,0 +1,45 @@
+{
+  "clave": "066",
+  "etiqueta": "Artículo 66",
+  "titulo": "Título Sexto",
+  "capitulo": "Capítulo III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "066.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › párrafo 1",
+      "texto": "El Estado contará con los ingresos que determinen las leyes del Estado y los convenios que se celebren con la Federación."
+    },
+    {
+      "id": "066.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › párrafo 2",
+      "texto": "Los egresos se regularán en el presupuesto correspondiente, que será sancionado anualmente por el Congreso del Estado. Las partidas presupuestales, o las que asignen cualquier cantidad para gastos extraordinarios serán firmadas por el Gobernador y el Secretario del ramo que corresponda."
+    },
+    {
+      "id": "066.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › párrafo 3",
+      "texto": "El servidor público que realice erogaciones que no estén previstas en las leyes correspondientes, incurrirá en responsabilidad oficial y responderá con su patrimonio de las erogaciones realizadas."
+    },
+    {
+      "id": "066.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › párrafo 4",
+      "texto": "Todo empleado de Hacienda que maneje caudales públicos otorgará fianza en los términos que establezca la Ley."
+    }
+  ]
+}

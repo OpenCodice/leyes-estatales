@@ -1,0 +1,36 @@
+{
+  "clave": "031",
+  "etiqueta": "Artículo 31",
+  "titulo": "Título Cuarto",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "031.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › párrafo 1",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NUM. 110 DE FECHA 24 DE JUNIO DE 2020)"
+    },
+    {
+      "id": "031.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › párrafo 2",
+      "texto": "Los partidos políticos nacionales o locales, con acreditación o registro ante el Instituto de Elecciones y Participación Ciudadana, tendrán el derecho a solicitar el registro de candidatos a cargos de elección popular, debiendo respetar en todos los casos los principios de paridad de género, representación indígena, acceso a los jóvenes y participación política de las mujeres, como lo establecen la Constitución federal, esta constitución, las leyes generales y demás normativa aplicable."
+    },
+    {
+      "id": "031.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › párrafo 3",
+      "texto": "En los Distritos Uninominales con mayor presencia indígena de acuerdo al Instituto Nacional Electoral y en los Municipios con población de mayoría indígena, los Partidos Políticos postularán al menos al cincuenta por ciento de sus Candidatos a Diputados y a Presidentes Municipales, y deberán cumplir con la paridad entre los géneros establecidos en la Constitución; asimismo, deberán cumplir con la obligación de fortalecer y hacer efectiva la capacitación y participación política de las mujeres."
+    }
+  ]
+}

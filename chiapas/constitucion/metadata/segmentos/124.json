@@ -1,0 +1,54 @@
+{
+  "clave": "124",
+  "etiqueta": "Artículo 124",
+  "titulo": "Título Décimo Tercero",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "124.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 124 › párrafo 1",
+      "texto": "Para que las adiciones y reformas a la presente Constitución puedan ser parte de la misma, se requiere:"
+    },
+    {
+      "id": "124.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 124 › Fracción I",
+      "texto": "I. Que el Congreso del Estado, con la aprobación de las dos terceras partes de los Diputados que lo integren, acuerden las reformas o adiciones."
+    },
+    {
+      "id": "124.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 124 › Fracción II",
+      "texto": "II. Que la Minuta Proyecto de Decreto se publique en el Periódico Oficial del Estado."
+    },
+    {
+      "id": "124.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 124 › Fracción III",
+      "texto": "III.- Que la mayoría de los Ayuntamientos den su aprobación dentro de los 30 días siguientes a aquel en que hubiere comunicado la Minuta Proyecto de Decreto de reformas y/o adiciones, entendiéndose que su abstención es aprobación."
+    },
+    {
+      "id": "124.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 124 › Fracción IV",
+      "texto": "IV. El Congreso del Estado o la Comisión Permanente en su caso, harán el computo de los votos de los Ayuntamientos que aprueben la Minuta Proyecto de Decreto de reformas y adiciones y realice la declaratoria correspondiente."
+    }
+  ]
+}

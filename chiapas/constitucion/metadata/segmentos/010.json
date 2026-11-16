@@ -1,0 +1,72 @@
+{
+  "clave": "010",
+  "etiqueta": "Artículo 10",
+  "titulo": "Título Primero",
+  "capitulo": "Capítulo V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "010.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 1",
+      "texto": "El Estado de Chiapas protegerá y garantizará a la niñez y adolescencia su derecho:"
+    },
+    {
+      "id": "010.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción I",
+      "texto": "I. A la educación."
+    },
+    {
+      "id": "010.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción II",
+      "texto": "II. A la protección contra la explotación infantil, en cualquiera de sus formas:\n\ntrabajo, matrimonio, pornografía, violencia, esclavitud, y prostitución."
+    },
+    {
+      "id": "010.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción III",
+      "texto": "III. A tener una vida digna, libre de violencia física o mental."
+    },
+    {
+      "id": "010.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción IV",
+      "texto": "IV. A la información y a expresarse libremente."
+    },
+    {
+      "id": "010.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción V",
+      "texto": "V. A tener un hogar y una familia."
+    },
+    {
+      "id": "010.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción VI",
+      "texto": "VI. A tener acceso a la cultura y las artes.\n\nEl Estado está obligado a adoptar medidas protectoras y procedimientos eficaces a favor de la niñez. Deberá proteger a la niñez contra el matrimonio y toda forma de unión forzada.\n\nSe prohíbe cualquier medio de trabajo, explotación y pornografía infantil; trata de personas."
+    }
+  ]
+}

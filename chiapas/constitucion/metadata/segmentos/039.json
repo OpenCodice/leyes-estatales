@@ -1,0 +1,36 @@
+{
+  "clave": "039",
+  "etiqueta": "Artículo 39",
+  "titulo": "Título Quinto",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "039.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 1",
+      "texto": "El Congreso del Estado expedirá la ley que regulará su estructura y funcionamiento internos, la que no podrá ser vetada ni necesitará de promulgación del Ejecutivo estatal para tener vigencia."
+    },
+    {
+      "id": "039.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 2",
+      "texto": "El Congreso del Estado celebrará sesiones ordinarias y extraordinarias con los requisitos que prevea su propia ley."
+    },
+    {
+      "id": "039.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 3",
+      "texto": "La ley determinará las formas y procedimientos para la agrupación de Diputados, según su afiliación de partido, a efecto de garantizar la libre expresión de las corrientes ideológicas representadas en el Congreso del Estado."
+    }
+  ]
+}

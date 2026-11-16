@@ -1,0 +1,180 @@
+{
+  "clave": "074",
+  "etiqueta": "Artículo 74",
+  "titulo": "Título Séptimo",
+  "capitulo": "Capítulo III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "074.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 1",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NÚM. 073 DE FECHA 18 DE DICIEMBRE DE 2019)"
+    },
+    {
+      "id": "074.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 2",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NUM. 029 DE FECHA 14 DE MARZO DE 2025)"
+    },
+    {
+      "id": "074.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 3",
+      "texto": "Las Juezas, Jueces, Magistradas y Magistrados del Tribunal Superior de Justicia, así como las Magistradas y Magistrados del Tribunal de Disciplina Judicial, se elegirán de manera libre, directa y secreta por la ciudadanía conforme al siguiente procedimiento:"
+    },
+    {
+      "id": "074.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 4",
+      "texto": "Para ser Magistrada o Magistrado se necesita:"
+    },
+    {
+      "id": "074.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › Fracción I",
+      "texto": "I. Tener ciudadanía mexicana por nacimiento, en pleno ejercicio de sus derechos civiles y políticos; así como contar con la ciudadanía chiapaneca;"
+    },
+    {
+      "id": "074.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › Fracción II",
+      "texto": "II. Contar el día de la publicación de la convocatoria correspondiente, con título de licenciatura en derecho expedido legalmente y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente y de nueve puntos o equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado. Para el caso de Magistrada y Magistrado deberá contar además con práctica profesional de al menos tres años en un área jurídica afín a su candidatura;"
+    },
+    {
+      "id": "074.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › Fracción III",
+      "texto": "III. Gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de la libertad;"
+    },
+    {
+      "id": "074.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › Fracción IV",
+      "texto": "IV. Haber residido en el país durante el año anterior al día de la publicación de la convocatoria;"
+    },
+    {
+      "id": "074.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › Fracción V",
+      "texto": "V. No ser ministra o ministro de culto religioso, salvo que se separe del cargo dos años antes del día de su nombramiento."
+    },
+    {
+      "id": "074.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › Fracción VI",
+      "texto": "VI. Que la persona que vaya a designarse no haya sido titular de una Secretaría de Estado, de la Fiscalía General del Estado o Diputada o Diputado local, a menos que se haya separado del cargo un año antes de la publicación de la convocatoria correspondiente.\n\nPara ser Jueza o Juez se necesitan los mismos requisitos a que se refiere el párrafo anterior, con excepción del contenido en la fracción VI.\n\nPara la postulación y elección de Juezas, Jueces, Magistradas y Magistrados, se atenderá a lo siguiente:"
+    },
+    {
+      "id": "074.I~2",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › Fracción I",
+      "texto": "I. El Órgano de Administración Judicial hará del conocimiento del Congreso del Estado los cargos sujetos a elección y demás información que requiera."
+    },
+    {
+      "id": "074.II~2",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › Fracción II",
+      "texto": "II. El Congreso del Estado publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir."
+    },
+    {
+      "id": "074.III~2",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › Fracción III",
+      "texto": "III. Los Poderes Ejecutivo, Legislativo y Judicial postularán el número de candidaturas que corresponda a cada cargo. Para la evaluación y selección de sus postulaciones, observarán lo siguiente:"
+    },
+    {
+      "id": "074.III.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 74 › Fracción III › inciso a)",
+      "texto": "a) Los Poderes establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes, presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y remitan cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo.\n\n(REFORMA PUBLICADA MEDIANTE P.O. NUM. 135 DE FECHA 30 DE SEPTIEMBRE DE 2026)"
+    },
+    {
+      "id": "074.III.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 74 › Fracción III › inciso b)",
+      "texto": "b) Cada Poder integrará un Comité de Evaluación conformado por tres personas reconocidas en la actividad jurídica, quienes elegirán de entre sus integrantes a la persona que coordinará sus trabajos.\n\nLas personas coordinadoras de los tres Comités integrarán una Comisión Coordinadora, responsable de verificar el cumplimiento de los requisitos constitucionales y legales de las personas participantes, establecer criterios y metodologías homologadas de evaluación, selección y exámenes de conocimientos, y emitir acuerdos que regulen los trabajos de los tres Comités.\n\nCada Comité seleccionará, conforme a los criterios definidos por la Comisión Coordinadora, a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica."
+    },
+    {
+      "id": "074.III.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 74 › Fracción III › inciso c)",
+      "texto": "c) Los Comités de Evaluación integrarán un listado de las diez personas mejor evaluadas para cada cargo en los casos de Magistradas y Magistrados del Tribunal de Disciplina Judicial, y de las seis personas mejor evaluadas para cada cargo en los casos de Juezas, Jueces, Magistradas y Magistrados del Tribunal Superior de Justicia. Posteriormente, dicho listado será remitido a las personas titulares del Poder al que pertenezcan para ajustarlo al número de postulaciones para cada cargo, observando la paridad de género.\n\nPara el caso de Juezas, Jueces, Magistradas y Magistrados del Tribunal Superior de Justicia, y Magistradas y Magistrados del Tribunal de Disciplina Judicial, la postulación se realizará en los términos que dispongan las leyes y conforme a lo siguiente: cada uno de los Poderes postulará de manera paritaria, para cada cargo, hasta dos personas, el Poder Ejecutivo lo hará por conducto de su titular; el Poder Legislativo mediante votación calificada de sus integrantes presentes; y el Poder Judicial por conducto de la persona titular de la presidencia del Pleno de Distrito, por mayoría de votos.\n\nLas personas candidatas podrán ser postuladas simultáneamente por más de uno de los Poderes, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente."
+    },
+    {
+      "id": "074.IV~2",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › Fracción IV",
+      "texto": "IV. El Congreso del Estado recibirá las postulaciones y remitirá los listados al Instituto de Elecciones y Participación Ciudadana a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.\n\nEl Congreso del Estado incorporará a los listados que remita al Instituto de Elecciones y Participación Ciudadana a las Juezas, Jueces, Magistradas y Magistrados del Tribunal Superior de Justicia que se encuentren en funciones al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a la publicación de la convocatoria o sean postuladas para un cargo diverso. La asignación de los cargos electos se realizará por materia de especialización entre las candidaturas que obtengan el mayor número de votos."
+    },
+    {
+      "id": "074.V~2",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › Fracción V",
+      "texto": "V. La etapa de preparación de la elección iniciará con la primera sesión que el Consejo General del Instituto de Elecciones y Participación Ciudadana celebre durante la segunda semana del mes de enero del año en que deban realizarse las elecciones ordinarias.\n\nLas personas candidatas tendrán derecho de acceso a radio y televisión de manera igualitaria, conforme a la distribución del tiempo que señale la ley y determine el Instituto Nacional Electoral. Podrán, además, participar en debates organizados por el Instituto de Elecciones y Participación Ciudadana o en aquellos brindados gratuitamente por el sector público, privado o social en condiciones de equidad.\n\nPara todos los cargos de elección dentro del Poder Judicial estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidatas y candidatos. Los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna.\n\nLa duración de las campañas para los cargos señalados en el presente artículo no podrá exceder de treinta días y en ningún caso habrá etapa de precampaña.\n\nLa ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales.\n\n(SE ADICIONA MEDIANTE P.O. NUM. 135 DE FECHA 30 DE SEPTIEMBRE DE 2026)\n\nLa jornada electoral judicial se celebrará en la misma ubicación donde se realicen las elecciones ordinarias federales o locales. Las autoridades electorales adoptarán las medidas necesarias para garantizar que la jornada electoral judicial se desarrolle sin la intervención de personas representantes, militantes o simpatizantes de partidos políticos.\n\n(SE ADICIONA MEDIANTE P.O. NUM. 135 DE FECHA 30 DE SEPTIEMBRE DE 2026)\n\nEl escrutinio y cómputo de los votos se realizará en la casilla donde fueron sufragados.\n\n(REFORMA PUBLICADA MEDIANTE P.O. NUM. 135 DE FECHA 30 DE SEPTIEMBRE DE 2026)"
+    },
+    {
+      "id": "074.VI~2",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › Fracción VI",
+      "texto": "VI. El Instituto de Elecciones y Participación Ciudadana efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos. También declarará la validez de la elección y enviará sus resultados al Tribunal Electoral del Estado de Chiapas, el cual resolverá las impugnaciones a más tardar en el mes de agosto del año de la elección judicial. Las personas electas tomarán protesta de su encargo ante el Congreso del Estado. Las autoridades electorales no podrán modificar los resultados de la elección ni la asignación de cargos después de esa fecha.\n\nLo relativo a las licencias, renuncias, ausencias y faltas definitivas de una Jueza, Juez, Magistrada o Magistrado del Tribunal Superior de Justicia, así como de una Magistrada o Magistrado del Tribunal de Disciplina Judicial, se resolverán conforme a lo establecido en la legislación aplicable.\n\n(REFORMA PUBLICADA MEDIANTE P.O. NÚM. 073 DE FECHA 18 DE DICIEMBRE DE 2019)\n\n(REFORMA PUBLICADA MEDIANTE P.O. NUM. 029 DE FECHA 14 DE MARZO DE 2025)"
+    }
+  ]
+}

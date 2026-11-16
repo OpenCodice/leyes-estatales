@@ -1,0 +1,81 @@
+{
+  "clave": "008",
+  "etiqueta": "Artículo 8",
+  "titulo": "Título Primero",
+  "capitulo": "Capítulo III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "008.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 1",
+      "texto": "En el Estado de Chiapas se garantiza:"
+    },
+    {
+      "id": "008.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción I",
+      "texto": "I. Que todas las personas son iguales ante la ley y que no habrá diversidad de tratamiento por razón de raza, color, sexo, idioma, religión, opinión política posición económica, origen étnico o social, lugar de nacimiento, o de cualquier otra índole o condición."
+    },
+    {
+      "id": "008.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción II",
+      "texto": "II. La libertad para decidir sobre el número y espaciamiento de los hijos."
+    },
+    {
+      "id": "008.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción III",
+      "texto": "III. El derecho de las mujeres embarazadas al pago del 50% de los gastos derivados del embarazo y parto de quien indiquen como el padre."
+    },
+    {
+      "id": "008.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción IV",
+      "texto": "IV. El derecho de la mujer a conservar la custodia de los hijos menores de edad, en caso de separación y abandono, mientras se resuelva la custodia legal."
+    },
+    {
+      "id": "008.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción V",
+      "texto": "V. El derecho de las mujeres al menaje del hogar y a permanecer en el domicilio conyugal en caso de separación o abandono."
+    },
+    {
+      "id": "008.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción VI",
+      "texto": "VI. El derecho de toda persona con discapacidad a vivir en un entorno adecuado con las condiciones necesarias para desarrollarse de manera independiente. A tener acceso a la educación, a contar con un empleo, a que se reconozca su personalidad jurídica y a gozar de sus derechos políticos electorales."
+    },
+    {
+      "id": "008.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción VII",
+      "texto": "VII. El derecho de todas las mujeres que habitan en Chiapas a la protección efectiva contra todo tipo de violencia. incluyendo la violencia en procesos electorales y post-electorales en donde las mujeres pasen a ejercer una función pública."
+    }
+  ]
+}

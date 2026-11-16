@@ -1,0 +1,162 @@
+{
+  "clave": "005",
+  "etiqueta": "Artículo 5",
+  "titulo": "Título Primero",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "005.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 1",
+      "texto": "Toda persona tendrá derecho:"
+    },
+    {
+      "id": "005.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Fracción I",
+      "texto": "I. A la protección de su dignidad, como el principio inherente al ser humano y sobre el que se sustenta la base para el disfrute de todos sus derechos, para que sea tratada con respeto y no como un objeto o cosa, ni sea humillada, degradada o envilecida."
+    },
+    {
+      "id": "005.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Fracción II",
+      "texto": "II. A no ser discriminada por causa de raza, color, sexo, idioma, religión, opinión política o de cualquier otra índole; origen étnico o social, posición económica, nacimiento, preferencia sexual o cualquier otra condición."
+    },
+    {
+      "id": "005.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Fracción III",
+      "texto": "III. A la protección de su libertad. Ninguna persona podrá ser sometida a esclavitud ni a servidumbre; la esclavitud y la trata de personas están prohibidas en todas sus formas."
+    },
+    {
+      "id": "005.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Fracción IV",
+      "texto": "IV. A no ser sometida a torturas ni a penas o tratos crueles, inhumanos o degradantes."
+    },
+    {
+      "id": "005.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Fracción V",
+      "texto": "V. Al reconocimiento de su personalidad jurídica."
+    },
+    {
+      "id": "005.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Fracción VI",
+      "texto": "VI. A transitar libremente y elegir dónde vivir."
+    },
+    {
+      "id": "005.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Fracción VII",
+      "texto": "VII. Al reconocimiento y protección de su propiedad, individual o colectiva. Ninguna persona podrá ser privada arbitrariamente de su propiedad."
+    },
+    {
+      "id": "005.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Fracción VIII",
+      "texto": "VIII. A la seguridad en sus bienes, domicilio y correspondencia; así como el acceso a la protección civil del Estado y los Municipios, teniendo los habitantes, a su vez, el deber de participar activamente, cumpliendo con las medidas necesarias y colaborando con las autoridades en la prevención de los desastres."
+    },
+    {
+      "id": "005.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Fracción IX",
+      "texto": "IX. A la libertad de pensamiento y manifestación de sus ideas. Las personas profesionales de la información tienen derecho a mantener la identidad de sus fuentes."
+    },
+    {
+      "id": "005.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Fracción X",
+      "texto": "X. A no ser molestada a causa de sus opiniones; podrá investigar y recibir información pública y difundirla, por cualquier medio de expresión."
+    },
+    {
+      "id": "005.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Fracción XI",
+      "texto": "XI. A la libertad de conciencia y de religión o credo."
+    },
+    {
+      "id": "005.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Fracción XII",
+      "texto": "XII. A acceder de forma libre y universal a internet y a las tecnologías de la información y la comunicación."
+    },
+    {
+      "id": "005.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Fracción XIII",
+      "texto": "XIII. A la libertad de reunión y asociación pacífica. Ninguna persona podrá ser obligada a pertenecer a una asociación."
+    },
+    {
+      "id": "005.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Fracción XIV",
+      "texto": "XIV. A asociarse sindicalmente para la defensa de sus derechos.\n\n(REFORMA PUBLICADA MEDIANTE P.O. NUM. 042 DE FECHA 28 DE MAYO DE 2025)"
+    },
+    {
+      "id": "005.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Fracción XV",
+      "texto": "XV. A acceder a la información pública.\n\n(ADICIÓN PUBLICADA MEDIANTE P.O. NUM. 042 DE FECHA 28 DE MAYO DE 2025)"
+    },
+    {
+      "id": "005.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Fracción XVI",
+      "texto": "XVI. A la protección de sus datos personales, así como al acceso, rectificación, cancelación y portabilidad de los mismos u oponerse al tratamiento de estos."
+    }
+  ]
+}

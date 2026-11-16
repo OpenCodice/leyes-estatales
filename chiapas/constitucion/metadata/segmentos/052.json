@@ -1,0 +1,99 @@
+{
+  "clave": "052",
+  "etiqueta": "Artículo 52",
+  "titulo": "Título Sexto",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "052.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › párrafo 1",
+      "texto": "Requisitos para ser Titular del Poder Ejecutivo:"
+    },
+    {
+      "id": "052.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › Fracción I",
+      "texto": "I.- Ser chiapaneco por nacimiento."
+    },
+    {
+      "id": "052.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › Fracción II",
+      "texto": "II.- Ser ciudadano chiapaneco, en pleno goce de sus derechos y con residencia efectiva no menor a ocho años."
+    },
+    {
+      "id": "052.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › Fracción III",
+      "texto": "III.- Tener 30 años cumplidos al día de la elección."
+    },
+    {
+      "id": "052.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › Fracción IV",
+      "texto": "IV.- No pertenecer al estado eclesiástico ni ser ministro de algún culto religioso o haberse separado ocho años antes de la fecha de la elección o, en su caso, designación.\n\n(REFORMA PUBLICADA MEDIANTE P.O. NUM. 390 DE FECHA 30 DE AGOSTO DE 2018, DECRETO 274)\n\n(REFORMA PUBLICADA MEDIANTE P.O. NUM. 061, TOMO III, DE FECHA 09 DE OCTUBRE DE 2019)"
+    },
+    {
+      "id": "052.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › Fracción V",
+      "texto": "V.- No tener empleo, cargo o comisión en el gobierno federal, estatal o municipal, o renunciar o estar separado de cualquiera de ellos cuando menos ciento veinte días antes del día de la elección. En los casos de los cargos de elección popular, obtener la licencia respectiva en el plazo antes señalado.\n\n(REFORMA PUBLICADA MEDIANTE P.O. NUM. 390 DE FECHA 30 DE AGOSTO DE 2018, DECRETO 274)\n\n(REFORMA PUBLICADA MEDIANTE P.O. NUM. 061, TOMO III, DE FECHA 09 DE OCTUBRE DE 2019)"
+    },
+    {
+      "id": "052.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › Fracción VI",
+      "texto": "VI.- No haber ocupado anteriormente el cargo de Gobernador o Gobernadora por elección popular."
+    },
+    {
+      "id": "052.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › Fracción VII",
+      "texto": "VII. No haber ocupado en el periodo inmediato anterior la Titularidad del Ejecutivo de manera provisional, interina o sustituta."
+    },
+    {
+      "id": "052.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › Fracción VIII",
+      "texto": "VIII.- No haber sido condenado por delito que amerite pena privativa de la libertad mayor a un año."
+    },
+    {
+      "id": "052.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › Fracción IX",
+      "texto": "IX.- No ser cónyuge o concubino, hermana o hermano, madre, padre, hija, hijo, o tener parentesco consanguíneo hasta el cuarto grado, así como tampoco tener parentesco por afinidad hasta el segundo grado, con el Gobernador en funciones."
+    }
+  ]
+}
