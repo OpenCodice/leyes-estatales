@@ -1,0 +1,45 @@
+{
+  "clave": "129",
+  "etiqueta": "Artículo 129º",
+  "titulo": "TÍTULO DUODÉCIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "129.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 129º › párrafo 1",
+      "texto": "Esta Constitución puede ser adicionada o reformada, pero para que las adiciones o reformas lleguen formar parte de ella se necesita que:"
+    },
+    {
+      "id": "129.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 129º › Fracción I",
+      "texto": "I. Iniciadas las adiciones o reformas, el Congreso del Estado las admita a su discusión;\n\n(REFORMADA DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "129.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 129º › Fracción II",
+      "texto": "II. Sean aprobadas dichas adiciones o reformas por las dos terceras partes del número total de diputados y diputadas que forman la Cámara; y\n\n(REFORMADA DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "129.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 129º › Fracción III",
+      "texto": "III. Aprobadas las adiciones o reformas por los diputados y diputadas, se pase a los ayuntamientos del Estado el proyecto que las contenga juntamente con los debates que haya provocado, y si entre estos cuerpos son también aprobadas, se declararán por el Congreso parte de esta Constitución y se publicará en la forma legal.\n\nLa aprobación o reprobación de parte de los ayuntamientos será presentada dentro de los treinta días siguientes a la fecha en que reciban el proyecto de ley, y si transcurre este término sin que aquéllos remitan al Congreso el resultado de la votación, se entenderá que aceptan las adiciones o reformas.\n\nEl cómputo de votos de los ayuntamientos se hará por corporaciones y no por personas.\n\n(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)\n\nSi no se obtiene el voto de las dos terceras partes de los diputados y diputadas o la aprobación de los ayuntamientos, se entenderá desechado el proyecto de ley respectivo."
+    }
+  ]
+}

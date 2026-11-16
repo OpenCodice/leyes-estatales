@@ -1,0 +1,27 @@
+{
+  "clave": "063",
+  "etiqueta": "Artículo 63º",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "063.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63º › párrafo 1",
+      "texto": "(REFORMADO DECRETO 113, P.O. 57, 03 AGOSTO 2019)"
+    },
+    {
+      "id": "063.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63º › párrafo 2",
+      "texto": "Todos los reglamentos, decretos, acuerdos y órdenes del Ejecutivo deberán ser refrendados con carácter obligatorio por la Secretaria o Secretario General de Gobierno y por las Secretarias o Secretarios del ramo a que el asunto corresponda."
+    }
+  ]
+}

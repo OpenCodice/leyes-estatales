@@ -1,0 +1,63 @@
+{
+  "clave": "054",
+  "etiqueta": "Artículo 54º",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "054.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54º › párrafo 1",
+      "texto": "(REFORMADO DECRETO 113, P.O. 57, 03 AGOSTO 2019)"
+    },
+    {
+      "id": "054.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54º › párrafo 2",
+      "texto": "La Gobernadora o Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aun con el carácter de interino, provisional, sustituto o encargado del Despacho."
+    },
+    {
+      "id": "054.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54º › párrafo 3",
+      "texto": "Nunca podrán ser elegidos para el periodo inmediato:"
+    },
+    {
+      "id": "054.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54º › párrafo 4",
+      "texto": "(REFORMADO DECRETO 113, P.O. 57, 03 AGOSTO 2019)"
+    },
+    {
+      "id": "054.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54º › Fracción I",
+      "texto": "I. La Gobernadora o Gobernador sustituto o el designado para concluir el periodo en caso de falta absoluta del constitucional, aun cuando tenga distinta denominación; y\n\n(REFORMADA DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "054.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54º › Fracción II",
+      "texto": "II. La Gobernadora o Gobernador interino, el provisional o, la ciudadana o ciudadano que bajo cualquiera denominación supla las faltas temporales de la Gobernadora o Gobernador, siempre que desempeñe el cargo en los últimos dos años del periodo."
+    }
+  ]
+}

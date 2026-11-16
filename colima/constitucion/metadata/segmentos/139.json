@@ -1,0 +1,27 @@
+{
+  "clave": "139",
+  "etiqueta": "Artículo 139º",
+  "titulo": "TÍTULO DÉCIMO TERCERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "139.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 139º › párrafo 1",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "139.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 139º › párrafo 2",
+      "texto": "Las personas funcionarias que entren a ejercer su cargo después del día señalado por esta Constitución o por las leyes como inicio del período que les corresponde, solo durarán en sus funciones el tiempo que les falte para cumplir dicho período."
+    }
+  ]
+}

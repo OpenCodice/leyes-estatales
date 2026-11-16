@@ -1,0 +1,162 @@
+{
+  "clave": "033",
+  "etiqueta": "Artículo 33º",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "033.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › párrafo 1",
+      "texto": "El Congreso del Estado tiene facultad para:"
+    },
+    {
+      "id": "033.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › Fracción I",
+      "texto": "I. Reformar esta Constitución, previo cumplimiento de los requisitos que ella misma establece, así como también para reformar, abrogar y derogar las leyes que expida;"
+    },
+    {
+      "id": "033.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › Fracción II",
+      "texto": "II. Legislar sobre todo los ramos de la administración o gobierno interiores que sean de la competencia del Estado, conforme a la Constitución Federal;"
+    },
+    {
+      "id": "033.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › Fracción III",
+      "texto": "III. Legislar sobre la organización y funcionamiento del Municipio Libre, en los términos establecidos por la Constitución Federal y esta Constitución;"
+    },
+    {
+      "id": "033.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › Fracción IV",
+      "texto": "IV. Legislar en materia de salubridad, servicios de salud y asistencia social, en términos del artículo 4º de la Constitución Federal y de conformidad a la legislación federal correspondiente;"
+    },
+    {
+      "id": "033.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › Fracción V",
+      "texto": "V. Expedir leyes sobre planeación del desarrollo económico y social del Estado;"
+    },
+    {
+      "id": "033.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › Fracción VI",
+      "texto": "VI. Legislar sobre expropiación por causa de utilidad pública;"
+    },
+    {
+      "id": "033.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › Fracción VII",
+      "texto": "VII. Legislar en materia educativa en los términos del artículo 3º de la Constitución Federal y conforme a lo dispuesto por la legislación correspondiente;"
+    },
+    {
+      "id": "033.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › Fracción VIII",
+      "texto": "VIII. Expedir leyes electorales conforme a la presente Constitución;\n\n(REFORMADO DECRETO 70, 18 MAYO 2019)"
+    },
+    {
+      "id": "033.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › Fracción IX",
+      "texto": "IX. Legislar en materia de participación ciudadana y democracia directa;\n\n(REFORMADO DECRETO 70, 18 MAYO 2019)"
+    },
+    {
+      "id": "033.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › Fracción X",
+      "texto": "X. Expedir leyes para preservar y restaurar el equilibrio ecológico y proteger el ambiente.\n\nDichas leyes establecerán la concurrencia de los gobiernos del Estado y de los municipios, en el ámbito de sus respectivas competencias, conforme a la Constitución Federal y la ley general reglamentaria correspondiente;\n\n(REFORMADO DECRETO 70, 18 MAYO 2019)"
+    },
+    {
+      "id": "033.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › Fracción XI",
+      "texto": "XI. Expedir leyes relativas al servicio de agua potable y saneamiento, así como para su cuidado, preservación, extracción sustentable y tratamiento, a fin de fomentar entre la población una cultura del uso y aprovechamiento racional del mismo;\n\n(REFORMADO DECRETO 70, 18 MAYO 2019)"
+    },
+    {
+      "id": "033.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › Fracción XII",
+      "texto": "XII. Expedir leyes para regular las relaciones de trabajo entre el gobierno del Estado, los municipios, los organismos descentralizados y sus trabajadores, ajustándose a las bases del artículo 123, Apartado B, de la Constitución Federal;\n\n(REFORMADO DECRETO 70, 18 MAYO 2019)"
+    },
+    {
+      "id": "033.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › Fracción XIII",
+      "texto": "XIII. Expedir la ley que instituya el Tribunal de Justicia Administrativa del Estado;\n\n(REFORMADO DECRETO 70, P.O. 37, 18 MAYO 2019)"
+    },
+    {
+      "id": "033.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › Fracción XIV",
+      "texto": "XIV. Expedir la ley que establezca las bases de coordinación del Sistema Estatal Anticorrupción, así como la ley que distribuya competencias para establecer las responsabilidades administrativas de los servidores públicos del Estado y los municipios, sus obligaciones, las sanciones aplicables por los actos u omisiones en que incurran y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevea, así como los procedimientos para su aplicación;\n\n(REFORMADA DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "033.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › Fracción XV",
+      "texto": "XV. Expedir la ley que establezca los principios, bases y reglas en materia de pensiones de las y los servidores públicos del Estado y los municipios, así como fijar la organización y funcionamiento del organismo público rector en la materia dotado de facultades exclusivas para el otorgamiento de las pensiones que correspondan; y\n\n(ADICIONADO DECRETO 70, P.O. 37, 18 MAYO 2019)"
+    },
+    {
+      "id": "033.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › Fracción XVI",
+      "texto": "XVI. Expedir todas las leyes que sean necesarias, a objeto de hacer efectivas las facultades anteriores, las enunciadas en los artículos siguientes, y todas las demás que le concedan la Constitución Federal y la Constitución del Estado."
+    }
+  ]
+}

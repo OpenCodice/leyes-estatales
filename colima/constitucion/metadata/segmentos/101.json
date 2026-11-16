@@ -1,0 +1,18 @@
+{
+  "clave": "101",
+  "etiqueta": "Artículo 101º",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "101.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101º › párrafo 1",
+      "texto": "La Universidad de Colima es un organismo público descentralizado, dotado de personalidad jurídica y patrimonio propio, el que, con pleno derecho a su autonomía, tiene por fines impartir enseñanza en sus niveles medio superior, superior y postgrado; fomentar la investigación científica y social, principalmente en relación con los problemas del Estado y la Nación, y extender con la mayor amplitud los beneficios de la cultura, con irrestricto respeto a la libertad de cátedra e investigación, así como al libre examen y discusión de las ideas."
+    }
+  ]
+}

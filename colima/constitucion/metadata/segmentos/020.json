@@ -1,0 +1,81 @@
+{
+  "clave": "020",
+  "etiqueta": "Artículo 20º",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "020.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20º › párrafo 1",
+      "texto": "La vecindad se adquiere por residir habitualmente en un lugar durante un año o más."
+    },
+    {
+      "id": "020.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20º › Apartado A",
+      "texto": "A. La vecindad se pierde:"
+    },
+    {
+      "id": "020.A.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 20º › Apartado A › Fracción I",
+      "texto": "I. Por dejar de residir habitualmente en un lugar por más de un año; y"
+    },
+    {
+      "id": "020.A.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 20º › Apartado A › Fracción II",
+      "texto": "II. Desde el momento de separarse de un lugar, siempre que se manifieste ante la autoridad municipal respectiva que se va a cambiar de vecindad."
+    },
+    {
+      "id": "020.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20º › Apartado B",
+      "texto": "B. La vecindad no se pierde cuando la ausencia tenga por motivo:"
+    },
+    {
+      "id": "020.B.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 20º › Apartado B › Fracción I",
+      "texto": "I. Una comisión de servicio público del Estado o de la Federación;"
+    },
+    {
+      "id": "020.B.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 20º › Apartado B › Fracción II",
+      "texto": "II. Persecución política, si el hecho que la origina no implica la comisión de un delito; o"
+    },
+    {
+      "id": "020.B.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 20º › Apartado B › Fracción III",
+      "texto": "III. Fines educativos."
+    }
+  ]
+}

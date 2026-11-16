@@ -1,0 +1,54 @@
+{
+  "clave": "095",
+  "etiqueta": "Artículo 95º",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "095.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95º › párrafo 1",
+      "texto": "Los ayuntamientos estarán obligados a remitir anualmente al Congreso del Estado, para su aprobación, sus proyectos de ley de ingresos, a más tardar el 31 de octubre, y hasta el 15 de noviembre en el año en que haya cambio de gobierno municipal."
+    },
+    {
+      "id": "095.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95º › párrafo 2",
+      "texto": "(REFORMADO DECRETO 125, P.O. 20 AGOSTO 2022)"
+    },
+    {
+      "id": "095.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95º › párrafo 3",
+      "texto": "Asimismo, presentarán al Congreso su cuenta pública anual, conjuntamente con el dictamen de revisión de los resultados correspondientes, aprobado por el cabildo, a más tardar el último día de abril del año siguiente al que corresponda la cuenta pública anual, para los efectos del artículo 36 de esta Constitución."
+    },
+    {
+      "id": "095.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95º › párrafo 4",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "095.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95º › párrafo 5",
+      "texto": "La aprobación del dictamen de revisión por el cabildo no impide que, en su caso, el Congreso finque responsabilidades a las y los servidores públicos que hayan incurrido en ellas."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "047",
+  "etiqueta": "Artículo 47º",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "047.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47º › párrafo 1",
+      "texto": "(REFORMADA DECRETO 258, P.O. 33, 18 ABRIL 2026)"
+    },
+    {
+      "id": "047.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47º › párrafo 2",
+      "texto": "Las iniciativas de ley o decreto se considerarán aprobadas con el voto de la mayoría de los miembros del Congreso. Cuando sean objetadas por representantes del Ejecutivo, del Tribunal Superior de Justicia, o de los ayuntamientos, se requerirá el voto de las dos terceras partes de las y los diputados respecto de los puntos en que haya discrepancia."
+    }
+  ]
+}

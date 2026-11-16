@@ -1,0 +1,81 @@
+{
+  "clave": "092",
+  "etiqueta": "Artículo 92º",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "092.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92º › párrafo 1",
+      "texto": "Los ayuntamientos se integrarán de acuerdo con las normas que establezca la ley de la materia, observando las bases siguientes:"
+    },
+    {
+      "id": "092.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92º › párrafo 2",
+      "texto": "(REFORMADO DECRETO 113, P.O. 57, 03 AGOSTO 2019)"
+    },
+    {
+      "id": "092.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92º › Fracción I",
+      "texto": "I. Además de la Presidenta o Presidente Municipal y una Síndica o Síndico, los ayuntamientos contarán con el siguiente número de regidoras o regidores:"
+    },
+    {
+      "id": "092.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 92º › Fracción I › inciso a)",
+      "texto": "a) En municipios con población hasta veinticinco mil habitantes, cuatro de mayoría relativa y cuatro de representación proporcional;"
+    },
+    {
+      "id": "092.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 92º › Fracción I › inciso b)",
+      "texto": "b) En municipios con población entre veinticinco mil uno y cincuenta mil habitantes, cinco de mayoría relativa y cuatro de representación proporcional;"
+    },
+    {
+      "id": "092.I.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 92º › Fracción I › inciso c)",
+      "texto": "c) En municipios con población entre cincuenta mil uno y cien mil habitantes, cinco de mayoría relativa y cinco de representación proporcional; y\n\n(REFORMADO DECRETO 113, P.O. 57, 03 AGOSTO 2019)"
+    },
+    {
+      "id": "092.I.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 92º › Fracción I › inciso d)",
+      "texto": "d) En municipios con población superior a cien mil habitantes, seis de mayoría relativa y cinco de representación proporcional.\n\nLa determinación del número de regidoras o regidores que corresponda a cada Municipio se hará de conformidad con el último Censo General de Población.\n\n(REFORMADA DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "092.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92º › Fracción II",
+      "texto": "II. Todo partido político, coalición o planilla de candidaturas independientes, que alcance por lo menos tres por ciento de la votación emitida en el Municipio respectivo, tendrá derecho a participar en la asignación de regidurías de representación proporcional, a excepción del partido, coalición o planilla de candidaturas independientes que haya obtenido el triunfo por mayoría relativa."
+    }
+  ]
+}

@@ -1,0 +1,144 @@
+{
+  "clave": "022",
+  "etiqueta": "Artículo 22º",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "022.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22º › párrafo 1",
+      "texto": "En el régimen interior del Estado, los órganos autónomos son instituciones que expresamente se definen como tales por esta Constitución y que cuentan con personalidad jurídica y patrimonio propio; gozan de independencia en sus decisiones, funcionamiento y administración; están dotados de autonomía presupuestaria, técnica y de gestión en el ejercicio de sus atribuciones, y ejercen funciones primarias u originarias del Estado que requieren especialización para ser eficazmente atendidas en beneficio de la sociedad."
+    },
+    {
+      "id": "022.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22º › párrafo 2",
+      "texto": "Esta Constitución y las leyes de la materia establecerán las bases de la integración, coordinación, organización, funcionamiento, modalidades, límites y formas de control y de rendición de cuentas de los órganos autónomos del Estado. Dichos órganos se regirán por los principios de certeza, legalidad, independencia, imparcialidad, eficiencia, objetividad, profesionalismo, transparencia, máxima publicidad y respeto a los derechos humanos."
+    },
+    {
+      "id": "022.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22º › párrafo 3",
+      "texto": "(REFORMADO DECRETO 113, P.O.57, 03 AGOSTO 2019)"
+    },
+    {
+      "id": "022.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22º › párrafo 4",
+      "texto": "El nombramiento de sus titulares deberá recaer en aquellas personas que se hayan distinguido por su honorabilidad, imparcialidad, competencia y antecedentes profesionales en la materia de la función que se pretenda ocupar, atendiendo el principio de paridad de género."
+    },
+    {
+      "id": "022.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22º › párrafo 5",
+      "texto": "Los titulares de los órganos internos de control serán nombrados en los términos de las leyes respectivas."
+    },
+    {
+      "id": "022.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22º › párrafo 6",
+      "texto": "Los representantes de los órganos autónomos comparecerán ante el Congreso del Estado en los términos que disponga la ley."
+    },
+    {
+      "id": "022.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22º › párrafo 7",
+      "texto": "En el Estado de Colima se reconoce como órganos autónomos a los siguientes:"
+    },
+    {
+      "id": "022.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22º › Fracción I",
+      "texto": "I. Comisión de Derechos Humanos;"
+    },
+    {
+      "id": "022.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22º › Fracción II",
+      "texto": "II. Fiscalía General;"
+    },
+    {
+      "id": "022.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22º › Fracción III",
+      "texto": "III. Instituto Electoral;\n\n(DEROGADO, DECRETO NO. 153, P.O. 80, 16 AGOSTO 2025)"
+    },
+    {
+      "id": "022.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22º › Fracción IV",
+      "texto": "IV. Se deroga."
+    },
+    {
+      "id": "022.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22º › Fracción V",
+      "texto": "V. Órgano Superior de Auditoría y Fiscalización Gubernamental;"
+    },
+    {
+      "id": "022.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22º › Fracción VI",
+      "texto": "VI. Tribunal Electoral;"
+    },
+    {
+      "id": "022.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22º › Fracción VII",
+      "texto": "VII. Tribunal de Arbitraje y Escalafón; y"
+    },
+    {
+      "id": "022.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22º › Fracción VIII",
+      "texto": "VIII. Tribunal de Justicia Administrativa."
+    }
+  ]
+}

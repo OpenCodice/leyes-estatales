@@ -1,0 +1,423 @@
+{
+  "clave": "058",
+  "etiqueta": "Artículo 58º",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "058.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › párrafo 1",
+      "texto": "(REFORMADO DECRETO 113, P.O. 57, 03 AGOSTO 2019)"
+    },
+    {
+      "id": "058.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › párrafo 2",
+      "texto": "Son facultades y obligaciones de la Gobernadora o Gobernador:"
+    },
+    {
+      "id": "058.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción I",
+      "texto": "I. En el orden federal, las que determinen la Constitución y las leyes federales;"
+    },
+    {
+      "id": "058.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción II",
+      "texto": "II. Mantener relaciones políticas con el Gobierno Federal y con los órganos de gobierno de las demás entidades federativas;"
+    },
+    {
+      "id": "058.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción III",
+      "texto": "III. Promulgar, publicar, ejecutar y hacer que se ejecuten las leyes y los decretos, haciendo uso, en su caso, de todas las facultades que le concede esta Constitución;"
+    },
+    {
+      "id": "058.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción IV",
+      "texto": "IV. Formar los reglamentos y dictar las providencias que demande la mejor ejecución de las leyes;\n\n(REFORMADA DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "058.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción V",
+      "texto": "V. Nombrar y remover libremente a las Secretarias y Secretarios de la Administración Pública del Estado, a la Consejera o Consejero Jurídico y demás servidoras y servidores públicos cuyo nombramiento y remoción no correspondan, conforme a la ley, a otra autoridad. En el nombramiento de quienes hayan de ocupar la titularidad de los cargos antes mencionados, se atenderá el principio de paridad de género;\n\n(REFORMADA DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "058.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción VI",
+      "texto": "VI. Suspender, cuando falten a sus deberes, a las personas empleadas nombradas por ella o él y promover, conforme a la Ley, la responsabilidad consiguiente;\n\n(REFORMADA DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "058.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción VII",
+      "texto": "VII. Conceder licencias con goce de sueldo o sin él, y aceptar las renuncias de las personas funcionarias y empleadas a que se refiere la fracción V de este artículo;\n\n(REFORMADA DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "058.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción VIII",
+      "texto": "VIII. Proponer a la persona Titular de la Fiscalía General del Estado para su aprobación al Congreso y, en su caso, removerla en los términos prescritos por esta Constitución;"
+    },
+    {
+      "id": "058.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción IX",
+      "texto": "IX. Pedir a la Comisión Permanente convoque al Congreso a sesión o periodo extraordinario;"
+    },
+    {
+      "id": "058.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción X",
+      "texto": "X. Convocar al Congreso al desempeño de sus funciones cuando por algún motivo no haya Comisión Permanente;\n\n(REFORMADA DECRETO 63, P.O. 5, 14 ENERO 2025)"
+    },
+    {
+      "id": "058.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XI",
+      "texto": "XI. Designar a una persona integrante del órgano de administración judicial, de conformidad con el artículo 72 de esta Constitución;\n\n(REFORMADA DECRETO 63, P.O. 5, 14 ENERO 2025)"
+    },
+    {
+      "id": "058.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XII",
+      "texto": "XII. Designar a las personas integrantes del Comité de Evaluación a que hace referencia el artículo 70 de esta Constitución;\n\n(REFORMADO DECRETO 09, P.O. 90,24 NOVIEMBRE 2021)"
+    },
+    {
+      "id": "058.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XIII",
+      "texto": "XIII. Proponer al Congreso del Estado, en los términos previstos en esta Constitución, los nombramientos de las magistradas y magistrados del Tribunal de Justicia Administrativa;\n\n(REFORMADO DECRETO 09, P.O. 90,24 NOVIEMBRE 2021)"
+    },
+    {
+      "id": "058.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XIV",
+      "texto": "XIV. Proponer al Congreso del Estado, en los términos previstos en esta Constitución, a la magistrada o magistrado que integre y presida el Tribunal de Arbitraje y Escalafón;"
+    },
+    {
+      "id": "058.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XV",
+      "texto": "XV. Facilitar al Poder Judicial el auxilio que necesite para el ejercicio de sus funciones, y hacer que se cumplan las sentencias de los tribunales;"
+    },
+    {
+      "id": "058.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XVI",
+      "texto": "XVI. Tener el mando de la fuerza pública del Estado y transmitir órdenes a las policías preventivas municipales sólo en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público;"
+    },
+    {
+      "id": "058.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XVII",
+      "texto": "XVII. Conceder indultos conforme a la ley;\n\n(REFORMADA DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "058.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XVIII",
+      "texto": "XVIII. Celebrar convenios con los gobiernos Federal y las demás entidades federativas, para que las y los reos sentenciados por delitos del orden común puedan cumplir sus sanciones privativas de libertad en establecimientos ubicados fuera de la Entidad;"
+    },
+    {
+      "id": "058.XIX",
+      "tipo": "fraccion",
+      "marca": "XIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XIX",
+      "texto": "XIX. Remitir cada año para su aprobación al Congreso del Estado, a más tardar el 31 de octubre, y en su caso hasta el 15 de noviembre de cada seis años, con motivo del cambio del Ejecutivo, los proyectos de Ley de Ingresos y Presupuesto de Egresos del Estado;"
+    },
+    {
+      "id": "058.XX",
+      "tipo": "fraccion",
+      "marca": "XX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XX",
+      "texto": "XX. Vigilar la recaudación de los impuestos y contribuciones, y disponer su inversión según lo determinen las leyes;\n\n(REFORMADA DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "058.XXI",
+      "tipo": "fraccion",
+      "marca": "XXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XXI",
+      "texto": "XXI. Cuidar de que el manejo de los fondos públicos se asegure conforme a las leyes y de que las personas empleadas rindan cuenta en la forma y tiempo prescritos por las mismas;"
+    },
+    {
+      "id": "058.XXII",
+      "tipo": "fraccion",
+      "marca": "XXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XXII",
+      "texto": "XXII. Presentar al Congreso del Estado, para su revisión y fiscalización, el resultado de la cuenta pública anual del Gobierno, a más tardar el 30 de abril del ejercicio siguiente.\n\nDichos resultados se elaborarán por los meses comprendidos de enero a diciembre de cada año, debiendo integrar las cifras consolidadas anuales de los resultados de la gestión;"
+    },
+    {
+      "id": "058.XXIII",
+      "tipo": "fraccion",
+      "marca": "XXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XXIII",
+      "texto": "XXIII. Dirigir y fomentar, por todos los medios lícitos posibles, la educación pública, de acuerdo con esta Constitución y la Federal; y procurar el adelanto y mejoramiento social en todos los órdenes;"
+    },
+    {
+      "id": "058.XXIV",
+      "tipo": "fraccion",
+      "marca": "XXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XXIV",
+      "texto": "XXIV. Expedir títulos profesionales a quienes hayan justificado haber sido aprobados en los exámenes correspondientes, conforme a los reglamentos vigentes en las escuelas profesionales establecidas en el Estado;"
+    },
+    {
+      "id": "058.XXV",
+      "tipo": "fraccion",
+      "marca": "XXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XXV",
+      "texto": "XXV. Visitar el Estado en sus correspondientes municipios, ya sea personalmente o por medio de servidores públicos en los que delegue su representación, realizando recorridos o reuniones de consulta y diálogo popular, así como el inicio o puesta en servicio de acciones y obras públicas;"
+    },
+    {
+      "id": "058.XXVI",
+      "tipo": "fraccion",
+      "marca": "XXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XXVI",
+      "texto": "XXVI. Inspeccionar las obras de mejoras materiales costeadas por los ingresos del Estado, cuidando de que no se dilapiden los mismos;"
+    },
+    {
+      "id": "058.XXVII",
+      "tipo": "fraccion",
+      "marca": "XXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XXVII",
+      "texto": "XXVII. Celebrar, con aprobación del Congreso, los convenios de carácter financiero con la Federación; y con los Estados en materia de conurbación y límites, en términos de las fracciones VIII y IX del artículo 34 de esta Constitución;\n\n(REFORMADO DECRETO 9, P.O. 90,24 NOVIEMBRE 2021)"
+    },
+    {
+      "id": "058.XXVIII",
+      "tipo": "fraccion",
+      "marca": "XXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XXVIII",
+      "texto": "XXVIII. Desincorporar y enajenar los bienes que constituyen el patrimonio inmobiliario a cargo de la Administración Pública Centralizada del Estado, con la autorización del Congreso, en los términos que dispongan las leyes y disposiciones jurídicas de la materia;\n\n(REFORMADA DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "058.XXIX",
+      "tipo": "fraccion",
+      "marca": "XXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XXIX",
+      "texto": "XXIX. Recibir la protesta de la totalidad de personas funcionarias y empleadas nombradas por ella o él, que conforme a las leyes, no deban otorgarla ante otra autoridad;"
+    },
+    {
+      "id": "058.XXX",
+      "tipo": "fraccion",
+      "marca": "XXX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XXX",
+      "texto": "XXX. Ejercitar los derechos a que se refieren los artículos 41 y 44 de esta Constitución;\n\n(REFORMADA DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "058.XXXI",
+      "tipo": "fraccion",
+      "marca": "XXXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XXXI",
+      "texto": "XXXI. Otorgar a particulares, mediante concesión, la explotación de bienes propiedad del Estado o la prestación de servicios públicos, cuando así proceda con arreglo a la legislación aplicable;"
+    },
+    {
+      "id": "058.XXXII",
+      "tipo": "fraccion",
+      "marca": "XXXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XXXII",
+      "texto": "XXXII. Rendir ante el Congreso del Estado el informe a que se refiere el artículo 31 de esta Constitución;"
+    },
+    {
+      "id": "058.XXXIII",
+      "tipo": "fraccion",
+      "marca": "XXXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XXXIII",
+      "texto": "XXXIII. Asistir a la apertura del primer periodo ordinario de sesiones del Congreso;"
+    },
+    {
+      "id": "058.XXXIV",
+      "tipo": "fraccion",
+      "marca": "XXXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XXXIV",
+      "texto": "XXXIV. Autorizar, expedir y cancelar patentes para el desempeño de la función notarial en los términos de la legislación respectiva;"
+    },
+    {
+      "id": "058.XXXV",
+      "tipo": "fraccion",
+      "marca": "XXXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XXXV",
+      "texto": "XXXV. Presidir todas las reuniones oficiales a que concurra, a excepción de las del Congreso y tribunales;"
+    },
+    {
+      "id": "058.XXXVI",
+      "tipo": "fraccion",
+      "marca": "XXXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XXXVI",
+      "texto": "XXXVI. Prestar, previa solicitud de las autoridades electorales, el auxilio de la fuerza pública, así como los apoyos que requieran para la preservación del orden público en los procesos electorales;"
+    },
+    {
+      "id": "058.XXXVII",
+      "tipo": "fraccion",
+      "marca": "XXXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XXXVII",
+      "texto": "XXXVII. Participar, en los términos que establezcan las leyes de la materia, en acciones de desarrollo urbano y asentamientos humanos;"
+    },
+    {
+      "id": "058.XXXVIII",
+      "tipo": "fraccion",
+      "marca": "XXXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XXXVIII",
+      "texto": "XXXVIII. Asumir facultades especiales o extraordinarias conforme a la fracción XII del artículo 34 de esta Constitución, cuando, en virtud de las circunstancias, no se pueda recabar la autorización del Congreso, a quien dará cuenta de lo que haga, para su aprobación o reprobación;"
+    },
+    {
+      "id": "058.XXXIX",
+      "tipo": "fraccion",
+      "marca": "XXXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XXXIX",
+      "texto": "XXXIX. Decretar la expropiación por causa de utilidad pública, en la forma que determinen las leyes;"
+    },
+    {
+      "id": "058.XL",
+      "tipo": "fraccion",
+      "marca": "XL",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XL",
+      "texto": "XL. Siempre que esté en goce de facultades extraordinarias en el ramo de hacienda, condonar contribuciones cuando lo considere justo y equitativo;"
+    },
+    {
+      "id": "058.XLI",
+      "tipo": "fraccion",
+      "marca": "XLI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XLI",
+      "texto": "XLI. Organizar y conducir la planeación democrática del desarrollo del Estado, y establecer los medios para la participación ciudadana y la consulta popular;"
+    },
+    {
+      "id": "058.XLII",
+      "tipo": "fraccion",
+      "marca": "XLII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XLII",
+      "texto": "XLII. Promover el desarrollo del Estado en materia económica, social y cultural;"
+    },
+    {
+      "id": "058.XLIII",
+      "tipo": "fraccion",
+      "marca": "XLIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XLIII",
+      "texto": "XLIII. Solicitar al Instituto Electoral del Estado someta a plebiscito, en los términos que disponga la ley, propuestas de actos o decisiones de gobierno considerados como trascendentes para la vida pública del Estado; y"
+    },
+    {
+      "id": "058.XLIV",
+      "tipo": "fraccion",
+      "marca": "XLIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › Fracción XLIV",
+      "texto": "XLIV. Las demás que le confiera esta Constitución."
+    }
+  ]
+}
