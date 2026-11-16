@@ -1,0 +1,63 @@
+{
+  "clave": "017",
+  "etiqueta": "Artículo 17º",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "017.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 26 DE MARZO DE 1938)"
+    },
+    {
+      "id": "017.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17º › párrafo 2",
+      "texto": "Los habitantes del Estado tienen, además de los derechos concedidos en el Capítulo I de la Constitución General de la República, los siguientes:"
+    },
+    {
+      "id": "017.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17º › Fracción I",
+      "texto": "I. Ser amparados y protegidos por las leyes que serán aplicadas con igualdad a todas las personas, siempre que, se encuentren colocadas en la misma situación jurídica.\n\n(REFORMADA, P.O. 26 DE MARZO DE 1938)"
+    },
+    {
+      "id": "017.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17º › Fracción II",
+      "texto": "II. A ser educados en los establecimientos de enseñanza sostenidos con los fondos públicos cumpliendo con las obligaciones que establezcan las leyes respectivas."
+    },
+    {
+      "id": "017.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17º › Fracción III",
+      "texto": "III. A ejercer el derecho de petición ante las autoridades del Estado debiendo éstas contestar dentro de un plazo máximo de 15 días, contados desde la fecha en que se recibe la petición, siempre que se hagan conforme a la ley y cuando ésta no marque término."
+    },
+    {
+      "id": "017.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17º › Fracción IV",
+      "texto": "IV. A rehusar el pago de todo préstamo o contribución que no esté decretado legalmente."
+    }
+  ]
+}

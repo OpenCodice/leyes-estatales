@@ -1,0 +1,45 @@
+{
+  "clave": "151",
+  "etiqueta": "Artículo 151º",
+  "titulo": "TITULO QUINTO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "151.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 151º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE JUNIO DE 1988)"
+    },
+    {
+      "id": "151.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 151º › párrafo 2",
+      "texto": "Son causas de retiro forzoso de los Magistrados y Jueces:"
+    },
+    {
+      "id": "151.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 151º › Fracción I",
+      "texto": "I. (DEROGADA, P.O. 18 DE DICIEMBRE DE 2015)"
+    },
+    {
+      "id": "151.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 151º › Fracción II",
+      "texto": "II. Padecer incapacidad física incurable o mental, incluso cuando esta fuese parcial o transitoria."
+    }
+  ]
+}

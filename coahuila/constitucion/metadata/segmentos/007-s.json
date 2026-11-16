@@ -1,0 +1,54 @@
+{
+  "clave": "007-s",
+  "etiqueta": "Artículo 7º S",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007-s.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º S › párrafo 1",
+      "texto": "La autoridad competente deberá motivar en forma concreta, autónoma e individualizada el fin legítimo de la restricción de los derechos, su idoneidad, necesidad y proporcionalidad."
+    },
+    {
+      "id": "007-s.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º S › párrafo 2",
+      "texto": "El objetivo que persiga la restricción deberá ser congruente con los principios, fines y normas de esta Constitución, a fin de proteger los derechos de los demás, la seguridad de todos, el interés general o las justas exigencias del bien común, en el marco de los fines de la sociedad democrática."
+    },
+    {
+      "id": "007-s.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º S › párrafo 3",
+      "texto": "La determinación de la idoneidad de la restricción implica un análisis objetivo a través del cual se establece la relación lógica de causalidad y, por tanto, si la medida es idónea para lograr el fin legítimo y constitucionalmente aceptable."
+    },
+    {
+      "id": "007-s.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º S › párrafo 4",
+      "texto": "La necesidad de la restricción se verifica cuando los medios adoptados por la restricción no sean excesivamente gravosos, sino útiles para tutelar los fines, así como mediante la constatación de la ausencia de otros medios menos restrictivos e igualmente idóneos para contribuir a lograr el fin legítimo que se persigue con la restricción."
+    },
+    {
+      "id": "007-s.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º S › párrafo 5",
+      "texto": "La estricta proporcionalidad implica la congruencia entre los fines y medios para evitar afectaciones inusuales o excesivamente gravosas en la titularidad, el contenido esencial o el ejercicio pleno del derecho restringido."
+    }
+  ]
+}

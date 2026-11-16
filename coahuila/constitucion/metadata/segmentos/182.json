@@ -1,0 +1,27 @@
+{
+  "clave": "182",
+  "etiqueta": "Artículo 182º",
+  "titulo": "TITULO OCTAVO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "182.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 182º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "182.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 182º › párrafo 2",
+      "texto": "Los servidores públicos del Estado al prestar la protesta que exige la Constitución Política de los Estados Unidos Mexicanos, también protestarán guardar la presente. La protesta se otorgará ante la autoridad que determine la Ley; pero los titulares de los Poderes del Estado, pueden delegar esa facultad, cuando el que ha de prestar la protesta, se encuentre, al ser nombrado, fuera del lugar en que se halle el superior."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "034",
+  "etiqueta": "Artículo 34º",
+  "titulo": "TITULO TERCERO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "034.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 6 DE FEBRERO DE 2009)"
+    },
+    {
+      "id": "034.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34º › párrafo 2",
+      "texto": "La demarcación territorial de los dieciséis distritos electorales se determinará por la ley de la materia."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "007-a",
+  "etiqueta": "Artículo 7º A",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007-a.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º A › párrafo 1",
+      "texto": "La dignidad humana es inviolable. Su respeto y protección más amplia es obligación prioritaria de todas las autoridades y particulares."
+    },
+    {
+      "id": "007-a.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º A › párrafo 2",
+      "texto": "La persona humana debe ser tratada como fin en sí mismo. Es un sujeto de derechos y libertades fundamentales que exigen el trato digno; en ningún caso como objeto."
+    }
+  ]
+}

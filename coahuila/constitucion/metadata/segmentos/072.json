@@ -1,0 +1,27 @@
+{
+  "clave": "072",
+  "etiqueta": "Artículo 72º",
+  "titulo": "TITULO TERCERO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "072.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 3 DE NOVIEMBRE DE 1992)"
+    },
+    {
+      "id": "072.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72º › párrafo 2",
+      "texto": "Si durante el receso del Congreso fuere éste convocado a sesiones extraordinarias, la Diputación Permanente no suspenderá sus trabajos, salvo en aquello que se refiera al asunto para el que se haya convocado el período extraordinario."
+    }
+  ]
+}

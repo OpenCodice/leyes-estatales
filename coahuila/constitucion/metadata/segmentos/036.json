@@ -1,0 +1,90 @@
+{
+  "clave": "036",
+  "etiqueta": "Artículo 36º",
+  "titulo": "TITULO TERCERO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "036.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36º › párrafo 1",
+      "texto": "(REFORMADO P.O. 22 DE ABRIL DE 1994)"
+    },
+    {
+      "id": "036.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36º › párrafo 2",
+      "texto": "Para ser diputado propietario o suplente se requiere:"
+    },
+    {
+      "id": "036.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36º › párrafo 3",
+      "texto": "(REFORMADA P.O. 22 DE ABRIL DE 1994)"
+    },
+    {
+      "id": "036.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36º › Fracción I",
+      "texto": "I. Ser ciudadano coahuilense o estar avecindado en el Estado cuando menos tres años continuos inmediatamente anteriores al día de la elección;\n\n(REFORMADA, P.O. 24 DE OCTUBRE DE 2024) (REFORMADA, P.O. 9 DE NOVIEMBRE DE 1974)"
+    },
+    {
+      "id": "036.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36º › Fracción II",
+      "texto": "II. Tener 18 años cumplidos el día de la elección."
+    },
+    {
+      "id": "036.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36º › Fracción III",
+      "texto": "III. No estar en ejercicio activo en el Ejército Nacional ni tener mando en la Policía del Distrito, en que se pretenda su elección, cuando menos noventa días antes de ella.\n\n(REFORMADA, P.O. 14 DE JULIO DE 2017) (REFORMADA, P.O. 22 DE SEPTIEMBRE DE 2015) (REFORMADA, P.O. 8 DE ABRIL DE 2012)"
+    },
+    {
+      "id": "036.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36º › Fracción IV",
+      "texto": "IV. No ser Secretario de la Administración Pública Estatal, Magistrado del Poder Judicial, Presidente Municipal, Síndico o Regidor, Consejero o integrante del órgano de dirección de los organismos públicos autónomos, Fiscal General del Estado, Magistrado del Tribunal de Justicia Administrativa de Coahuila de Zaragoza, titular de algún organismo descentralizado, miembro de los órganos directivos y técnicos o integrante del cuerpo del servicio profesional electoral del Instituto Electoral de Coahuila, ni Magistrado o Secretario del Tribunal Electoral del Estado de Coahuila de Zaragoza, salvo que se separe de su encargo en los términos que señale la legislación reglamentaria.\n\n(ADICIONADA, P.O. 01 DE SEPTIEMBRE DE 2026)"
+    },
+    {
+      "id": "036.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36º › Fracción V",
+      "texto": "V. No estar comprendido en alguno de los impedimentos que señala el artículo 30 de esta Constitución.\n\n(ADICIONADA, P.O. 01 DE SEPTIEMBRE DE 2026)"
+    },
+    {
+      "id": "036.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36º › Fracción VI",
+      "texto": "VI. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación."
+    }
+  ]
+}

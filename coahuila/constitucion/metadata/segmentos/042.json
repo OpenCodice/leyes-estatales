@@ -1,0 +1,27 @@
+{
+  "clave": "042",
+  "etiqueta": "Artículo 42º",
+  "titulo": "TITULO TERCERO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "042.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 23 DE DICIEMBRE DE 2008)"
+    },
+    {
+      "id": "042.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42º › párrafo 2",
+      "texto": "Los Diputados recibirán una remuneración por el desempeño de su cargo, la cual se determinará conforme a lo dispuesto en el Título Octavo de esta misma Constitución."
+    }
+  ]
+}

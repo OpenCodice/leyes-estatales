@@ -1,0 +1,63 @@
+{
+  "clave": "011",
+  "etiqueta": "Artículo 11º",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "011.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE MAYO DE 1967)"
+    },
+    {
+      "id": "011.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › párrafo 2",
+      "texto": "Son ciudadanos coahuilenses:"
+    },
+    {
+      "id": "011.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › párrafo 3",
+      "texto": "(REFORMADA, P.O. 18 DE MARZO DE 1970)"
+    },
+    {
+      "id": "011.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › Fracción I",
+      "texto": "I. Los varones y las mujeres nacidos en el Estado de Coahuila que hayan cumplido 18 años y tengan un modo honesto de vivir.\n\n(REFORMADA, P.O. 9 DE FEBRERO DE 2007)"
+    },
+    {
+      "id": "011.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › Fracción II",
+      "texto": "II. Los mexicanos por nacimiento que reúnan la calidad de ciudadanos mexicanos, que tengan en el Estado una vecindad continua de tres años y que ejerzan algún arte u oficio, comercio, industria, trabajo, profesión o modo honesto de vivir.\n\n(REFORMADA, P.O. 9 DE FEBRERO DE 2007)"
+    },
+    {
+      "id": "011.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11º › Fracción III",
+      "texto": "III. Los que obtengan del Congreso del Estado Carta de Ciudadanía Coahuilense, de acuerdo con lo establecido en los ordenamientos jurídicos aplicables.\n\n(ADICIONADO, P.O. 9 DE FEBRERO DE 2007)\n\nLa solicitud al Congreso del Estado para estos fines, se formulará de conformidad con la Ley de la materia."
+    }
+  ]
+}

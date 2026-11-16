@@ -1,0 +1,72 @@
+{
+  "clave": "094",
+  "etiqueta": "Artículo 94º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "094.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94º › párrafo 1",
+      "texto": "(REFORMADO PRIMER PARRAFO, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "094.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94º › párrafo 2",
+      "texto": "Constituyen la Hacienda Pública del Estado:"
+    },
+    {
+      "id": "094.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94º › Fracción I",
+      "texto": "I. Los bienes que sean propiedad del Estado.\n\n(REFORMADA, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "094.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94º › Fracción II",
+      "texto": "II. Los impuestos, derechos, productos y aprovechamientos decretados por el Congreso del Estado."
+    },
+    {
+      "id": "094.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94º › Fracción III",
+      "texto": "III. Los bienes vacantes en el Estado.\n\n(REFORMADA, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "094.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94º › Fracción IV",
+      "texto": "IV. Las donaciones, legados, herencias o reintegros que se hagan o dejen al patrimonio estatal.\n\n(REFORMADA, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "094.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94º › Fracción V",
+      "texto": "V. Los ingresos que, por otros conceptos, señalen los ordenamientos legales de la materia."
+    }
+  ]
+}

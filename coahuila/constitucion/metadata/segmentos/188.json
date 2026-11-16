@@ -1,0 +1,27 @@
+{
+  "clave": "188",
+  "etiqueta": "Artículo 188º",
+  "titulo": "TITULO OCTAVO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "188.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 188º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "188.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 188º › párrafo 2",
+      "texto": "No se cubrirá ninguna remuneración a los servidores públicos por el tiempo de sus faltas temporales, a no ser que estas fueren por causa justificada, en los términos que señalen las Leyes respectivas."
+    }
+  ]
+}

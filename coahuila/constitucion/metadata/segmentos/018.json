@@ -1,0 +1,63 @@
+{
+  "clave": "018",
+  "etiqueta": "Artículo 18º",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "018.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18º › párrafo 1",
+      "texto": "Son deberes del ciudadano coahuilense:"
+    },
+    {
+      "id": "018.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18º › párrafo 2",
+      "texto": "(REFORMADA, P.O. 29 DE JUNIO DE 2010)"
+    },
+    {
+      "id": "018.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18º › Fracción I",
+      "texto": "I. Inscribirse en el padrón del Municipio de su residencia.\n\n(REFORMADA, P.O. 29 DE JUNIO DE 2010)"
+    },
+    {
+      "id": "018.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18º › Fracción II",
+      "texto": "II. Votar en las elecciones populares en los términos que prescriban las leyes.\n\n(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "018.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18º › Fracción III",
+      "texto": "III.- Desempeñar los cargos de elección popular, en la forma que establezca la ley;"
+    },
+    {
+      "id": "018.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18º › Fracción IV",
+      "texto": "IV. Alistarse en la Guardia Nacional y servir en ella en los términos que designe la ley respectiva."
+    }
+  ]
+}

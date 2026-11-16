@@ -1,0 +1,36 @@
+{
+  "clave": "068",
+  "etiqueta": "Artículo 68º",
+  "titulo": "TITULO TERCERO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "068.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68º › párrafo 1",
+      "texto": "En los casos de grave perturbación de la paz pública, o cualesquiera otros que pongan a la sociedad en peligro, el Congreso, si se hallare reunido, concederá las autorizaciones que juzgue necesarias para que el Ejecutivo haga frente a la situación. Las facultades extraordinarias solo podrán concederse en los casos a que se contrae este artículo, con arreglo a las prescripciones siguientes:"
+    },
+    {
+      "id": "068.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68º › Fracción I",
+      "texto": "I. Se concederán por tiempo limitado."
+    },
+    {
+      "id": "068.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68º › Fracción II",
+      "texto": "II. En el decreto que con tal motivo se expida, se expresarán con claridad y precisión todas y cada una de la facultades que se concedan al Ejecutivo."
+    }
+  ]
+}

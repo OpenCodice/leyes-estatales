@@ -1,0 +1,45 @@
+{
+  "clave": "003",
+  "etiqueta": "Artículo 3º",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "003.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE MARZO DE 2001)"
+    },
+    {
+      "id": "003.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3º › párrafo 2",
+      "texto": "La Soberanía del Estado se ejerce:"
+    },
+    {
+      "id": "003.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3º › Fracción I",
+      "texto": "I. Por el Gobierno Estatal a través de los Poderes Legislativo, Ejecutivo y Judicial, en el ámbito de sus respectivas competencias; y,"
+    },
+    {
+      "id": "003.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3º › Fracción II",
+      "texto": "II. Por el Gobierno Municipal a través de los Ayuntamientos o, en su caso, de los Concejos Municipales, en el ámbito de su competencia municipal.\n\n(ADICIONADO, P.O. 13 DE OCTUBRE DE 2001)\n\nEn el régimen interior del estado, los organismos públicos autónomos son instituciones constitucionales que expresamente se definen como tales por esta constitución y que se caracterizan por la esencialidad, permanencia, independencia, imparcialidad, profesionalismo, transparencia, responsabilidad y sujeción al estado humanista, social y democrático de derecho. Esta Constitución y las leyes establecerán las bases de la organización, funcionamiento, modalidades, límites y formas de control de los organismos públicos autónomos."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "103",
+  "etiqueta": "Artículo 103º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "103.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 103º › párrafo 1",
+      "texto": "(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2011)"
+    },
+    {
+      "id": "103.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 103º › párrafo 2",
+      "texto": "El Secretario de Finanzas del Estado deberá exigir a todo servidor público que maneje caudales del Estado, que constituya caución suficiente a su satisfacción, antes de tomar posesión de su cargo."
+    }
+  ]
+}
