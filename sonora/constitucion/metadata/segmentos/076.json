@@ -1,0 +1,27 @@
+{
+  "clave": "076",
+  "etiqueta": "Artículo 76",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "076.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76 › párrafo 1",
+      "texto": "Si por cualquier motivo el Congreso no pudiere hacer el nombramiento a que se refieren los Artículos 74 y 75, ni expedir la convocatoria a que se contrae el mismo Articulo 74, o hubiere por alguna circunstancia acefalía de los Poderes Legislativo y Ejecutivo del Estado, el Presidente del Supremo Tribunal de Justicia se hará cargo del Poder Ejecutivo."
+    },
+    {
+      "id": "076.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76 › párrafo 2",
+      "texto": "En el caso previsto en el párrafo anterior, el encargado del Poder Ejecutivo convocará inmediatamente a elecciones tanto de Gobernador como de Diputados, las que se verificarán en un periodo de tiempo que en ningún caso excederá de tres meses y sólo dejará de hacerlo en lo que respecta a la de Gobernador cuando falten seis meses o menos para que se verifique la renovación de Poderes, conforme a las disposiciones relativas de esta Constitución."
+    }
+  ]
+}

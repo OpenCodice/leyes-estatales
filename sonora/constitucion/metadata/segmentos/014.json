@@ -1,0 +1,54 @@
+{
+  "clave": "014",
+  "etiqueta": "Artículo 14",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "014.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › párrafo 1",
+      "texto": "Son obligaciones de los extranjeros:"
+    },
+    {
+      "id": "014.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Fracción I",
+      "texto": "I.- Respetar y obedecer las Leyes, instituciones y autoridades de la Federación, del Estado y del Municipio."
+    },
+    {
+      "id": "014.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Fracción II",
+      "texto": "II.- Contribuir para los gastos públicos del Estado y Municipios en que residan, de la manera proporcional y equitativa que dispongan las leyes."
+    },
+    {
+      "id": "014.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Fracción III",
+      "texto": "III.- No inmiscuirse en asuntos políticos."
+    },
+    {
+      "id": "014.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Fracción IV",
+      "texto": "IV.- Inscribirse de acuerdo con las leyes relativas en el Catastro del Municipio donde residan."
+    }
+  ]
+}

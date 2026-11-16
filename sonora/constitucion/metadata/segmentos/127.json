@@ -1,0 +1,27 @@
+{
+  "clave": "127",
+  "etiqueta": "Artículo 127",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "127.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 1",
+      "texto": "Para ser Juez Local se requiere ser ciudadano mexicano en pleno ejercicio de sus derechos, gozar de buena reputación, no haber sido condenado por delito intencional con sanción privativa de libertad mayor de un año y tener la competencia necesaria para el desempeño del cargo, a juicio del Supremo Tribunal de Justicia del Estado."
+    },
+    {
+      "id": "127.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 2",
+      "texto": "Los Jueces Locales serán nombrados cada dos años por el Supremo Tribunal de Justicia del Estado."
+    }
+  ]
+}

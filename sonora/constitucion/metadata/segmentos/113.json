@@ -1,0 +1,27 @@
+{
+  "clave": "113",
+  "etiqueta": "Artículo 113",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "113.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 113 › párrafo 1",
+      "texto": "El Supremo Tribunal de Justicia se compondrá de siete Magistradas o Magistrados y funcionará en Pleno, en Salas o en Comisiones. Su presidencia se renovará cada dos años de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación."
+    },
+    {
+      "id": "113.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 113 › párrafo 2",
+      "texto": "Las Magistradas y Magistrados del Supremo Tribunal de Justicia durarán en su encargo nueve años y podrán ser reelectos de forma consecutiva cada que concluya su periodo. Podrán ser privados de sus puestos en los términos que determine la Constitución Política del Estado de Sonora y las demás leyes aplicables."
+    }
+  ]
+}

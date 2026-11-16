@@ -1,0 +1,54 @@
+{
+  "clave": "074",
+  "etiqueta": "Artículo 74",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "074.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 1",
+      "texto": "En caso de falta absoluta del Gobernador, ocurrida en los dos primeros años del periodo respectivo, si el Congreso estuviera en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará, en escrutinio secreto y por mayoría absoluta de votos, un Gobernador Interino, que tomará posesión de su cargo dentro del término de diez días posteriores a la fecha en que se haga la declaratoria correspondiente; el mismo Congreso expedirá dentro de los diez días siguientes al de la designación de Gobernador Interino, la convocatoria para la elección del Gobernador que deba concluir el período respectivo; debiendo mediar entre la fecha de la convocatoria y la que señale para la verificación de las elecciones, un plazo no menor de seis meses ni mayor de ocho."
+    },
+    {
+      "id": "074.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 2",
+      "texto": "Si el Congreso no estuviera en sesiones, la Diputación Permanente nombrará desde luego un Gobernador Provisional y convocará a sesiones extraordinarias al Congreso para que éste, a su vez, designe al Gobernador Interino y expida la convocatoria a elecciones en los términos del párrafo anterior."
+    },
+    {
+      "id": "074.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 3",
+      "texto": "Cuando la falta de Gobernador ocurriera en los cuatro últimos años del período respectivo, si el Congreso se encontrara en sesiones, designará al Gobernador Substituto que deberá concluir el periodo; si el Congreso no estuviera reunido, la Diputación Permanente nombrará un Gobernador Provisional y convocará inmediatamente al Congreso a sesiones extraordinarias para que se erija en Colegio Electoral y haga la designación del Gobernador Substituto."
+    },
+    {
+      "id": "074.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 4",
+      "texto": "El Gobernador Provisional podrá ser electo por el Congreso como Gobernador Substituto."
+    },
+    {
+      "id": "074.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 5",
+      "texto": "El ciudadano que hubiere sido nombrado Gobernador Interino, en caso de falta absoluta del titular, ocurrida en los dos primeros años del período respectivo, no podrá ser designado en las elecciones que se celebren con ese motivo."
+    }
+  ]
+}

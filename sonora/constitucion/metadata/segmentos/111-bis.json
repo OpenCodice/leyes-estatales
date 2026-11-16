@@ -1,0 +1,18 @@
+{
+  "clave": "111-bis",
+  "etiqueta": "Artículo 111 Bis",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "111-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 Bis › párrafo 1",
+      "texto": "Se deroga."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "clave": "019",
+  "etiqueta": "Artículo 19",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "019.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › párrafo 1",
+      "texto": "Tienen suspensos los derechos o prerrogativas de ciudadanos del Estado."
+    },
+    {
+      "id": "019.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › Fracción I",
+      "texto": "I.- Los que hayan sido suspendidos en sus prerrogativas o derechos como ciudadanos mexicanos por las causas enumeradas en la Constitución General de la República."
+    },
+    {
+      "id": "019.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › Fracción II",
+      "texto": "II.- Los que faltaron sin causa justificada a las obligaciones de ciudadano que les imponen las fracciones II, III y IV del Artículo 13 de esta Constitución."
+    },
+    {
+      "id": "019.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › Fracción III",
+      "texto": "III.- Los procesados desde que se dicte el auto de vinculación a proceso hasta que cause ejecutoria la sentencia que los absuelva."
+    },
+    {
+      "id": "019.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › Fracción IV",
+      "texto": "IV.- Los funcionarios y empleados públicos, desde que se resuelva que ha lugar a proceder penalmente en su contra, hasta que se declare ejecutoriada la sentencia que los absuelva o extingan la pena que les fuere impuesta."
+    },
+    {
+      "id": "019.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › Fracción V",
+      "texto": "V.- Los que por sentencia ejecutoriada sean condenados a pena corporal o a suspensión de derechos hasta que la extingan."
+    },
+    {
+      "id": "019.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › Fracción VI",
+      "texto": "VI.- Los que por causa de enfermedad mental tuvieren en suspenso el ejercicio de sus derechos civiles."
+    }
+  ]
+}

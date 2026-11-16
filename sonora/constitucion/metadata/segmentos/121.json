@@ -1,0 +1,36 @@
+{
+  "clave": "121",
+  "etiqueta": "Artículo 121",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "121.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 1",
+      "texto": "Las Magistradas y los Magistrados de los Tribunales Regionales de Circuito, serán electos en los términos establecidos en el artículo 113 BIS de esta Constitución."
+    },
+    {
+      "id": "121.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 2",
+      "texto": "Para ser Magistrada o Magistrado de los Tribunales Regionales de Circuito se requiere cumplir con los requisitos establecidos en el artículo 114 de esta Constitución."
+    },
+    {
+      "id": "121.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 3",
+      "texto": "Durarán nueve años en el ejercicio de su encargo, al término de los cuales podrán ser reelectos de forma consecutiva cada que concluya su periodo. Podrán ser privados de su cargo en cualquier momento en los casos y conforme a los procedimientos que establezca esta Constitución y la Ley."
+    }
+  ]
+}

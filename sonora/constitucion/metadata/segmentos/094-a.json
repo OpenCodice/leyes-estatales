@@ -1,0 +1,27 @@
+{
+  "clave": "094-a",
+  "etiqueta": "Artículo 94 A",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "094-a.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 A › párrafo 1",
+      "texto": "La enseñanza normal será protegida preferentemente por el Gobierno del Estado, como un medio de cumplir con la obligación ineludible que tienen, el propio Estado y el Municipio, de impartir la enseñanza preescolar, primaria y secundaria."
+    },
+    {
+      "id": "094-a.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 A › párrafo 2",
+      "texto": "Es obligación del Gobierno del Estado fomentar y difundir la Enseñanza Universitaria."
+    }
+  ]
+}

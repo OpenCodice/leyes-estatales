@@ -1,0 +1,27 @@
+{
+  "clave": "003",
+  "etiqueta": "Artículo 3",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "003.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 1",
+      "texto": "El territorio del Estado de Sonora se constituye por la extensión de tierra firme que posee actualmente y sobre el cual ha ejercido y ejerce soberanía y jurisdicción y que está limitado por el norte, con el territorio de los Estados Unidos de América; por el sur, con el Estado de Sinaloa; por el oriente, con el Estado de Chihuahua, de por medio la Sierra Madre Occidental, y por el poniente con el Golfo de California y Estado de Baja California, conforme a los convenios correspondientes en sus respectivos casos; así como por toda otra extensión de terreno que por derecho le pertenezca."
+    },
+    {
+      "id": "003.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 2",
+      "texto": "Comprende igualmente las islas de El Tiburón, San Esteban, Lobos y demás islas e isletas que han estado sujetas a su dominio."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "105",
+  "etiqueta": "Artículo 105",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "105.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › párrafo 1",
+      "texto": "Para ser Agente del Ministerio Público, se requiere:"
+    },
+    {
+      "id": "105.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción I",
+      "texto": "I.- Ser ciudadano mexicano en pleno ejercicio de sus derechos."
+    },
+    {
+      "id": "105.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción II",
+      "texto": "II.- Acreditar que ha observado buena conducta y no haber sido condenado por sentencia ejecutoriada como responsable de delitos intencionales."
+    },
+    {
+      "id": "105.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción III",
+      "texto": "III.- Ser licenciado en derecho con titulo legalmente expedido."
+    }
+  ]
+}

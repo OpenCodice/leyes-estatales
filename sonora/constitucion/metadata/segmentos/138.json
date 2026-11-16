@@ -1,0 +1,36 @@
+{
+  "clave": "138",
+  "etiqueta": "Artículo 138",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "138.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138 › párrafo 1",
+      "texto": "Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la asociación de Municipios del Estado con Municipios de otro u otros Estados, deberán contar con la aprobación del Congreso del Estado. Asimismo, cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio."
+    },
+    {
+      "id": "138.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138 › párrafo 2",
+      "texto": "Los servicios públicos municipales también podrán ser prestados mediante concertaciones con particulares o a través del otorgamiento de concesiones, en los términos de las leyes aplicables."
+    },
+    {
+      "id": "138.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138 › párrafo 3",
+      "texto": "En los casos en que los servicios públicos de competencia municipal se encuentren a cargo de particulares, podrán revocarse para que los Municipios los presten de manera directa, por razones de orden e interés público y en los términos que establezca la Ley."
+    }
+  ]
+}

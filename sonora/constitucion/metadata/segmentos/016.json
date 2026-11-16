@@ -1,0 +1,63 @@
+{
+  "clave": "016",
+  "etiqueta": "Artículo 16",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "016.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › párrafo 1",
+      "texto": "Son derechos y prerrogativas del ciudadano sonorense:"
+    },
+    {
+      "id": "016.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Fracción I",
+      "texto": "I.- Votar en las elecciones populares y en los procesos de participación ciudadana, en los términos que señalen las leyes respectivas."
+    },
+    {
+      "id": "016.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Fracción II",
+      "texto": "II.- Poder ser votado para los cargos de elección popular en el Estado y los municipios y nombrado para cualquier otro empleo o comisión en igualdad de oportunidades y equidad entre mujeres y hombres, salvo las modalidades y excepciones que se encuentran previstas en esta Constitución."
+    },
+    {
+      "id": "016.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Fracción III",
+      "texto": "III.- Asociarse para tratar los asuntos políticos del Estado y formar partidos políticos en los términos que prevenga la Ley Electoral correspondiente."
+    },
+    {
+      "id": "016.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Fracción IV",
+      "texto": "IV.- Tomar las armas en el Ejército o Guardia Nacional para la defensa de la República, del Estado y de sus instituciones."
+    },
+    {
+      "id": "016.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Fracción V",
+      "texto": "V.- Ejercer en toda clase de asuntos políticos el derecho de petición."
+    }
+  ]
+}
