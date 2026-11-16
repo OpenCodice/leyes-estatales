@@ -1,0 +1,27 @@
+{
+  "clave": "008",
+  "etiqueta": "Artículo 8",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "008.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 1",
+      "texto": "Las leyes establecerán las sanciones correspondientes a los atentados en contra de estos derechos, los cuales tienen como límites el interés legítimo del Estado y los derechos iguales de los demás hombres, según se encuentran formulados en esta Constitución, en la de la República y en las Leyes secundarias."
+    },
+    {
+      "id": "008.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 2",
+      "texto": "Las normas relativas a los derechos humanos se interpretarán de conformidad con la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y con los tratados internacionales de la materia favoreciendo en todo tiempo a las personas la protección más amplia."
+    }
+  ]
+}

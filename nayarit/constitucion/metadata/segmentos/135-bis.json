@@ -1,0 +1,27 @@
+{
+  "clave": "135-bis",
+  "etiqueta": "Artículo 135 Bis",
+  "titulo": "TITULO DECIMO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "135-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 Bis › párrafo 1",
+      "texto": "Las remuneraciones de las personas integrantes del Consejo Local Electoral del Instituto Estatal Electoral de Nayarit, así como de las magistraturas del Tribunal Estatal Electoral, no podrán exceder el límite previsto en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "135-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 Bis › párrafo 2",
+      "texto": "Queda prohibida la contratación o financiamiento con recursos públicos de seguros médicos privados, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro, pensiones complementarias o prestaciones análogas no previstas expresamente en la ley."
+    }
+  ]
+}

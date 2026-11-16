@@ -1,0 +1,72 @@
+{
+  "clave": "053",
+  "etiqueta": "Artículo 53",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "053.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › párrafo 1",
+      "texto": "Las resoluciones del Congreso no tendrán otro carácter que el de ley, decreto o acuerdo."
+    },
+    {
+      "id": "053.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › párrafo 2",
+      "texto": "Es materia de ley, toda resolución que otorgue derechos o imponga obligaciones a generalidad de personas."
+    },
+    {
+      "id": "053.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › párrafo 3",
+      "texto": "Es materia de decreto, toda resolución que otorgue derechos y obligaciones a determinadas personas individuales o morales con expresión de sus nombres."
+    },
+    {
+      "id": "053.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › párrafo 4",
+      "texto": "Son materia de acuerdo, todas las demás resoluciones de la Cámara que no tengan el carácter de ley o decreto."
+    },
+    {
+      "id": "053.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › párrafo 5",
+      "texto": "DEROGADO, P.O. 1 DE DICIEMBRE DE 2022 (REFORMADO, P.O. 9 DE JUNIO DE 2023) Las leyes y decretos se comunicarán al Ejecutivo, para su promulgación y observancia, firmados por el Presidente y Secretarios de la Mesa Directiva."
+    },
+    {
+      "id": "053.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › párrafo 6",
+      "texto": "Aprobado por el Congreso el proyecto de ley o decreto se enviará al Ejecutivo, para que dentro del plazo de treinta días naturales haga las observaciones que estime pertinentes."
+    },
+    {
+      "id": "053.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › párrafo 7",
+      "texto": "(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010) El plazo para la presentación de las observaciones a los proyectos de Ley de Ingresos y Presupuesto de Egresos se ajustará a lo dispuesto por el artículo 38 de esta Constitución."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "clave": "105",
+  "etiqueta": "Artículo 105",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "105.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › párrafo 1",
+      "texto": "Para ser magistrado del Tribunal de Justicia Administrativa, se requiere:"
+    },
+    {
+      "id": "105.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción I",
+      "texto": "I.- Ser mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;"
+    },
+    {
+      "id": "105.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción II",
+      "texto": "II.- Tener cuando menos treinta años cumplidos al día de la designación;"
+    },
+    {
+      "id": "105.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción III",
+      "texto": "III.- Ser licenciado en derecho, con al menos siete años de antigüedad al día de la designación;"
+    },
+    {
+      "id": "105.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción IV",
+      "texto": "IV.- Tener por lo menos cinco años de experiencia profesional, preferentemente, en materia administrativa o fiscal;\n\n(REFORMADA, P.O. 19 DE MAYO DE 2022)"
+    },
+    {
+      "id": "105.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción V",
+      "texto": "V.- Ser de notoria buena conducta y honorabilidad manifiesta y no haber sido condenado en sentencia ejecutoriada por delito intencional que amerite pena corporal de más de un año de prisión, pero si se tratare de robo, fraude, falsificación, abuso de confianza o alguno otro que lastime seriamente la fama en el servicio público inhabilitará para el cargo, cualquiera que haya sido la pena.\n\nAdemás, no estar inscrita o inscrito en el Registro de Deudores Alimentarios Morosos en el Estado de Nayarit o en otra entidad federativa; ni en el Registro Nacional de Personas Sancionadas en Materia de Violencia Política contra las Mujeres en Razón de Género;"
+    },
+    {
+      "id": "105.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción VI",
+      "texto": "VI.-Ser originario del Estado de Nayarit o haber residido en el mismo, durante los dos años anteriores al día de la designación;\n\n(REFORMADA, P.O. 1 DE DICIEMBRE DE 2022)"
+    },
+    {
+      "id": "105.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción VII",
+      "texto": "VII.- No haber ocupado cargo de elección popular, de dirigencia de algún partido político, de Fiscal General, Secretario de alguna dependencia del Poder Ejecutivo, o haber pertenecido a las fuerzas armadas durante el año previo al día de la designación."
+    },
+    {
+      "id": "105.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción VIII",
+      "texto": "VIII.- No ser ministro de algún culto religioso, a menos que se haya separado formal y definitivamente de su ministerio, cuando menos cinco años anteriores al día de la designación.\n\n(REFORMADO, P.O. 28 DE JULIO DE 2020) Para la designación de Magistrados, el Gobernador someterá las ternas a consideración del Congreso, quien previa comparecencia de las personas propuestas elegirá a los Magistrados que deban cubrir cada una de las vacantes.\n\nLa elección se hará por el voto de las dos terceras partes de los diputados presentes en la sesión, dentro del improrrogable término de treinta días. Si el Congreso no resolviere dentro de ese plazo, ocuparán el cargo de Magistrados las personas que, dentro de dichas ternas, designe el Gobernador.\n\nSi la Legislatura rechaza alguna o la totalidad de las ternas propuestas, el Gobernador someterá a su consideración unas nuevas, en los términos del párrafo anterior. Si estas segundas tampoco son aceptadas, ocuparán el cargo las personas que dentro de esas ternas designe el Gobernador."
+    }
+  ]
+}

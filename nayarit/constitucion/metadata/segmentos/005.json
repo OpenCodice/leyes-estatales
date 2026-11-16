@@ -1,0 +1,27 @@
+{
+  "clave": "005",
+  "etiqueta": "Artículo 5",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "005.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 1",
+      "texto": "Los municipios podrán convenir entre sí y en cualquier momento sus respectivos límites; dichos arreglos no tendrán efecto sin la aprobación del Congreso del Estado."
+    },
+    {
+      "id": "005.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022) A falta de acuerdo, cualquier municipio podrá acudir ante el Tribunal Superior de Justicia del Estado, quien conocerá de los conflictos por límites territoriales en la vía contenciosa en términos del artículo 91 de esta Constitución. Sus resoluciones serán inatacables."
+    }
+  ]
+}

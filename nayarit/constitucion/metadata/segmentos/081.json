@@ -1,0 +1,126 @@
+{
+  "clave": "081",
+  "etiqueta": "Artículo 81",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "081.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 1",
+      "texto": "El ejercicio de la función jurisdiccional corresponde al Poder Judicial, en el ámbito de su competencia y se deposita en el Tribunal Superior de Justicia y en los Juzgados que la ley determine."
+    },
+    {
+      "id": "081.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 27 DE ENERO DE 2025) El Tribunal Superior de Justicia, se integrará por trece Magistradas y Magistrados, observando el principio de paridad de género y funcionará en Pleno o en Salas, de conformidad con lo establecido en la Ley Reglamentaria."
+    },
+    {
+      "id": "081.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 27 DE ENERO DE 2025) La administración del Poder Judicial estará a cargo de un Órgano de Administración Judicial, mientras que la disciplina judicial de su personal estará a cargo del Tribunal de Disciplina Judicial, en los términos que señala esta Constitución y las leyes de la materia."
+    },
+    {
+      "id": "081.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 4",
+      "texto": "La ley establecerá los términos y condiciones para la solución de conflictos mediante procedimientos alternativos de justicia y juicios orales."
+    },
+    {
+      "id": "081.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 5",
+      "texto": "Las autoridades están obligadas al estricto cumplimiento de las sentencias y resoluciones emitidas por el Poder Judicial, así como a prestar el auxilio que resulte necesario para el desarrollo de la función jurisdiccional. El incumplimiento de las resoluciones judiciales por parte de las autoridades será sancionado de conformidad con lo que establezca la ley."
+    },
+    {
+      "id": "081.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 6",
+      "texto": "En los términos en que la ley disponga, las sesiones del Pleno y de las Salas serán públicas, y por excepción secretas en los casos en que así lo exijan la moral o el interés público."
+    },
+    {
+      "id": "081.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 7",
+      "texto": "Es facultad del Pleno del Tribunal Superior de Justicia, emitir los acuerdos generales necesarios para el mejor y pronto despacho de los asuntos."
+    },
+    {
+      "id": "081.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 8",
+      "texto": "(REFORMADO, P.O. 24 DE JULIO DE 2025) Las Magistradas y Magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina; las Juezas y los Jueces, así como el personal del Poder Judicial, percibirán una remuneración adecuada e irrenunciable. Dicha remuneración no podrá exceder a la asignada, en el presupuesto correspondiente, a la persona titular del Poder Ejecutivo del Estado ni a la persona titular de la Presidencia de la República, y no podrá ser disminuida durante el ejercicio de su encargo."
+    },
+    {
+      "id": "081.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 9",
+      "texto": "(REFORMADO, P.O. 27 DE ENERO DE 2025) La Ley Orgánica del Poder Judicial establecerá las competencias para la investigación, substanciación y resolución de los procedimientos de responsabilidad administrativa de las Magistradas y Magistrados, Juezas o Jueces y miembros del Tribunal de Disciplina Judicial. Lo anterior de conformidad con las bases previstas en el artículo 85 de esta Constitución."
+    },
+    {
+      "id": "081.p10",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 10",
+      "texto": "(DEROGADO [PÁRRAFO DÉCIMO] P.O. 27 DE ENERO DE 2025) (DEROGADO [PÁRRAFO DÉCIMO PRIMERO] P.O. 27 DE ENERO DE 2025) (DEROGADO [PÁRRAFO DÉCIMO SEGUNDO] P.O. 27 DE ENERO DE 2025) (DEROGADO [PÁRRAFO DÉCIMO TERCERO] P.O. 27 DE ENERO DE 2025) Los Magistrados y Jueces se retirarán de sus cargos en forma forzosa o voluntaria."
+    },
+    {
+      "id": "081.p11",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 11",
+      "texto": "Es causa de retiro forzoso:"
+    },
+    {
+      "id": "081.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › Fracción I",
+      "texto": "I.- Padecer incapacidad física o mental declarada legalmente, incluso cuando ésta fuese parcial o transitoria, y siempre que impida el ejercicio de su función."
+    },
+    {
+      "id": "081.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › Fracción II",
+      "texto": "II.- Al cumplir setenta años de edad.\n\nLa Ley Orgánica del Poder Judicial fijará las causas del retiro voluntario, y los beneficios que tendrá el Magistrado o Juez que se retire forzosa o voluntariamente."
+    }
+  ]
+}

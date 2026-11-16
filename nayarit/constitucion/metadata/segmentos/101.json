@@ -1,0 +1,81 @@
+{
+  "clave": "101",
+  "etiqueta": "Artículo 101",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "101.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 1",
+      "texto": "La protección de los Derechos Humanos, se realizará por el organismo denominado Comisión de Defensa de los Derechos Humanos del Estado de Nayarit, el cual conocerá de quejas en contra de actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público de carácter estatal o municipal."
+    },
+    {
+      "id": "101.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 23 DE JUNIO DE 2012) El organismo a que se refiere el párrafo anterior, formulará recomendaciones públicas no vinculatorias, denuncias y quejas ante las autoridades respectivas; no tendrá competencia tratándose de asuntos electorales y jurisdiccionales."
+    },
+    {
+      "id": "101.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 3",
+      "texto": "(REFORMADO [ADICIONADO], P.O. 23 DE JUNIO DE 2012) Todo servidor público o autoridad está obligado a responder las recomendaciones que le formule el organismo. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además la Cámara de Diputados, o en sus recesos, la Diputación Permanente, podrán llamar a solicitud del organismo, a las autoridades o servidores públicos responsables para que comparezcan a efecto de que expliquen el motivo de su negativa, en los términos que disponga la ley."
+    },
+    {
+      "id": "101.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 4",
+      "texto": "(REFORMADO, P.O. 6 DE OCTUBRE DE 2020) La Comisión de Defensa de los Derechos Humanos del Estado de Nayarit; contará con autonomía de gestión y presupuestaria, personalidad jurídica y patrimonio propio; tendrá un Consejo Consultivo integrado por el número de consejeros que fije la ley los cuales serán elegidos por el voto de las dos terceras partes de los miembros presentes de la Cámara de Diputados o, en sus recesos, por la Diputación Permanente, con la misma votación, observando el principio de paridad de género. La integración de las propuestas por parte del Congreso para la elección de los integrantes del Consejo Consultivo, se ajustará a un procedimiento de consulta pública, que deberá ser transparente, en los términos y condiciones que determine la ley."
+    },
+    {
+      "id": "101.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 5",
+      "texto": "(REFORMADO, P.O. 23 DE JUNIO DE 2012) El Presidente, quien lo será también del Consejo Consultivo, será elegido en los mismos términos del párrafo anterior. Durará en su cargo cinco años, pudiendo ser reelecto por única vez por un período igual en los términos que disponga la ley."
+    },
+    {
+      "id": "101.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 6",
+      "texto": "Solo podrá ser removido de sus funciones en los términos del Título Octavo de esta Constitución."
+    },
+    {
+      "id": "101.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 7",
+      "texto": "El Presidente de la Comisión para la Defensa de los Derechos Humanos del Estado de Nayarit presentará anualmente al Congreso un informe de actividades."
+    },
+    {
+      "id": "101.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 8",
+      "texto": "Al efecto comparecerá, ante la Cámara en los términos que disponga la ley."
+    }
+  ]
+}

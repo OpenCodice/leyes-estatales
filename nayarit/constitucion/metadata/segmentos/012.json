@@ -1,0 +1,45 @@
+{
+  "clave": "012",
+  "etiqueta": "Artículo 12",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "012.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › párrafo 1",
+      "texto": "La vecindad no se pierde:"
+    },
+    {
+      "id": "012.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción I",
+      "texto": "I. Por ausencia en virtud de comisión del servicio público del Estado o de la Federación, que no constituya empleos o funciones permanentes."
+    },
+    {
+      "id": "012.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción II",
+      "texto": "II. (DEROGADA, P.O. 3 DE SEPTIEMBRE DE 1941)"
+    },
+    {
+      "id": "012.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción III",
+      "texto": "III. Por ausencia con ocasión de estudios, comisiones científicas o artísticas."
+    }
+  ]
+}

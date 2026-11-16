@@ -1,0 +1,27 @@
+{
+  "clave": "087",
+  "etiqueta": "Artículo 87",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "087.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › párrafo 1",
+      "texto": "Cuando la falta de una Magistrada o Magistrado del Tribunal de Disciplina Judicial excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o cualquier causa de separación definitiva, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso o la Diputación Permanente en su caso, tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo. En caso de defunción, renuncia, destitución o ausencia definitiva de Magistradas y Magistrados del Tribunal Superior de Justicia, Juezas o Jueces, el órgano de administración judicial declarará vacante el cargo y deberá renovarse para un nuevo periodo en la elección inmediata posterior que corresponda."
+    },
+    {
+      "id": "087.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › párrafo 2",
+      "texto": "En tanto se elija y tome posesión la persona que deba ocupar el cargo, el órgano de administración judicial realizará la designación interina correspondiente, en los términos que establezca la Ley Orgánica."
+    }
+  ]
+}

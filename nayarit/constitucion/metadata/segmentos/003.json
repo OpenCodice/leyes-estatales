@@ -1,0 +1,18 @@
+{
+  "clave": "003",
+  "etiqueta": "Artículo 3",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "003.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 1",
+      "texto": "El territorio del Estado es el que le corresponde conforme a la Constitución Federal, y se divide en los siguientes municipios: Acaponeta, Ahuacatlán, Amatlán de Cañas, Bahía de Banderas, Compostela, Del Nayar, Huajicori, Ixtlán del Río, Jala, La Yesca, Rosamorada, Ruiz, San Blas, San Pedro Lagunillas, Santiago Ixcuintla, Santa María del Oro, Tecuala, Tepic, Tuxpan y Xalisco, igualmente, forman parte del territorio del Estado las Islas que le corresponden conforme al artículo 48º de la Constitución General de la República."
+    }
+  ]
+}
