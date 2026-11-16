@@ -1,0 +1,36 @@
+{
+  "clave": "129",
+  "etiqueta": "Artículo 129",
+  "titulo": "TÍTULO DECIMOTERCERO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "129.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 129 › párrafo 1",
+      "texto": "En los supuestos del artículo 124 de esta Constitución, la Legislatura del Estado, previa la substanciación del procedimiento respectivo, resolverá lo conducente por el voto aprobatorio de las dos terceras partes de sus miembros presentes."
+    },
+    {
+      "id": "129.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 129 › párrafo 2",
+      "texto": "Si el fallo determina la responsabilidad, el efecto inmediato será la revocación del mandato constitucional."
+    },
+    {
+      "id": "129.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 129 › párrafo 3",
+      "texto": "La separación del encargo no libera de la responsabilidad penal en que hubiere incurrido el acusado."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "099",
+  "etiqueta": "Artículo 99",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "099.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 1",
+      "texto": "Para ser persona Consejera del Órgano de Administración Judicial, se requiere acreditar los requisitos para ser Magistrado o Magistrada del Supremo Tribunal de Justicia, con excepción del voto ciudadano, además de los establecidos en este artículo. La presidencia del órgano durará dos años y será́ rotatoria, en términos de lo que establezcan las leyes."
+    },
+    {
+      "id": "099.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 2",
+      "texto": "(REFORMADO EN EL P.O DEL EDO EL 22 DE DICIEMBRE DE 2024) Quienes integren el Pleno del Órgano de Administración Judicial deberán ser mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos; contar con experiencia profesional mínima de cinco años; y contar con título de licenciatura en derecho, economía, actuaria, administración, contabilidad o cualquier título profesional relacionado con las actividades del Órgano de Administración Judicial, con antigüedad mínima de cinco años; y no estar inhabilitados para desempeñar un empleo, cargo o comisión en el servicio público, ni haber sido condenados por delito doloso con sanción privativa de la libertad."
+    },
+    {
+      "id": "099.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 3",
+      "texto": "….. (SE DEROGA P.O. DEL EDO DEL 22 DE DICIEMBRE DE 2024) El Órgano de Administración Judicial será́ responsable de rendir al Congreso del Estado un informe trimestral del estado financiero y anualmente la Cuenta Publica del Poder Judicial del Estado."
+    }
+  ]
+}

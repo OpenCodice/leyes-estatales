@@ -1,0 +1,45 @@
+{
+  "clave": "071",
+  "etiqueta": "Artículo 71",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "071.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › párrafo 1",
+      "texto": "Las leyes se publicarán bajo la siguiente formalidad:"
+    },
+    {
+      "id": "071.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › párrafo 2",
+      "texto": "\"NN, Gobernador Constitucional del Estado Libre y Soberano de San Luis Potosí, a sus habitantes, sabed: Que el Congreso del Estado ha decretado lo siguiente. (AQUÍ TEXTO).- Lo tendrá entendido el Ejecutivo del Estado y lo hará publicar, circular y obedecer. - Fecha y firmas del Presidente y Secretarios del Congreso."
+    },
+    {
+      "id": "071.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › párrafo 3",
+      "texto": "Por tanto, mando se cumpla y ejecute el presente Decreto y que todas las autoridades lo hagan cumplir y guardar; y al efecto se imprima, publique y circule a quienes corresponda\". (Fecha y firmas del Gobernador y del Secretario General de Gobierno)."
+    },
+    {
+      "id": "071.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › párrafo 4",
+      "texto": "Ninguna ley tiene carácter obligatorio si no ha sido publicada con dicha formalidad."
+    }
+  ]
+}

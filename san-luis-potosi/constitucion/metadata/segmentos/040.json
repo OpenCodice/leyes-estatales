@@ -1,0 +1,27 @@
+{
+  "clave": "040",
+  "etiqueta": "Artículo 40",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "040.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 1",
+      "texto": "El ejercicio del Poder Legislativo se deposita en una asamblea de diputadas y diputados que se denomina Congreso del Estado, la cual se elegirá cada tres años."
+    },
+    {
+      "id": "040.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 2",
+      "texto": "El Congreso del Estado rige su actuación bajo el principio de parlamento abierto, en los términos que establezcan sus disposiciones, orgánica; y reglamentaria."
+    }
+  ]
+}

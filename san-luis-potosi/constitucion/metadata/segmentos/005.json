@@ -1,0 +1,36 @@
+{
+  "clave": "005",
+  "etiqueta": "Artículo 5",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "005.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 1",
+      "texto": "El territorio del Estado es el que de hecho y por derecho le pertenece y que le es reconocido por la Constitución Política de los Estados Unidos Mexicanos. Su extensión y límites sólo podrán modificarse por virtud, y conforme a los procedimientos que en aquella y en esta Constitución se señalan."
+    },
+    {
+      "id": "005.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 2",
+      "texto": "El Estado tiene como base de su división territorial y de su organización política y administrativa al Municipio Libre."
+    },
+    {
+      "id": "005.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 3",
+      "texto": "Los Municipios que integran el Estado son los establecidos por la Ley Orgánica del Municipio Libre."
+    }
+  ]
+}

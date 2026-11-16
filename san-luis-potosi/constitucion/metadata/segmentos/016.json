@@ -1,0 +1,27 @@
+{
+  "clave": "016",
+  "etiqueta": "Artículo 16",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "016.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › párrafo 1",
+      "texto": "El Estado de San Luis Potosí ́reconoce la vida digna como fundamento de todos los derechos de los seres humanos. Queda prohibida la pena de muerte, la cual no podrá́ aplicarse en ningún caso."
+    },
+    {
+      "id": "016.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › párrafo 2",
+      "texto": "Toda persona tiene derecho a decidir sobre su gestación de manera libre, informada, autónoma y responsable."
+    }
+  ]
+}

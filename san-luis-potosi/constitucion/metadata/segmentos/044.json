@@ -1,0 +1,27 @@
+{
+  "clave": "044",
+  "etiqueta": "Artículo 44",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "044.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 1",
+      "texto": "La ley reglamentará la forma y procedimientos relativos a la elección de Diputados de mayoría, y a la asignación de Diputados de representación proporcional, con el propósito de garantizar que un partido político no pueda contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que no exceda en ocho puntos su porcentaje de votación emitida, así como de que el porcentaje de representación de un partido político no sea menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales."
+    },
+    {
+      "id": "044.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 2",
+      "texto": "El máximo de Diputados por ambos principios que puede alcanzar un partido político es de quince; esta base no aplica al partido político que, por sus triunfos en distritos uninominales, obtenga quince o más curules."
+    }
+  ]
+}

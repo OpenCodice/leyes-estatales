@@ -1,0 +1,36 @@
+{
+  "clave": "128",
+  "etiqueta": "Artículo 128",
+  "titulo": "TÍTULO DECIMOTERCERO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "128.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 128 › párrafo 1",
+      "texto": "Por lo que se refiere al Gobernador del Estado, en el supuesto del artículo 110 párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos, recibidas las constancias por el Congreso Local, procederá a imponer las sanciones correspondientes aprobadas con el voto de las dos terceras partes de sus miembros presentes, aplicando las disposiciones conducentes de la Ley Federal de Responsabilidades de los Servidores Públicos."
+    },
+    {
+      "id": "128.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 128 › Fracción I",
+      "texto": "I.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2017)"
+    },
+    {
+      "id": "128.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 128 › Fracción II",
+      "texto": "II.- (DEROGADA, P.O. 30 DE OCTUBRE DE 2017)"
+    }
+  ]
+}
