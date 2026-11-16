@@ -1,0 +1,27 @@
+{
+  "clave": "120",
+  "etiqueta": "Artículo 120",
+  "titulo": "TÍTULO DÉCIMO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "120.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 120 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 29 DE SEPTIEMBRE DE 1999)"
+    },
+    {
+      "id": "120.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 120 › párrafo 2",
+      "texto": "En las Delegaciones Municipales la autoridad será ejercida por un Delegado Municipal, quien será designado por el respectivo Ayuntamiento, conforme a lo establecido en la Ley Orgánica del Municipio Libre, la cual señalará sus atribuciones y responsabilidades."
+    }
+  ]
+}

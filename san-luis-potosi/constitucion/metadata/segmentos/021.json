@@ -1,0 +1,45 @@
+{
+  "clave": "021",
+  "etiqueta": "Artículo 21",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "021.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "021.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 2",
+      "texto": "Son potosinos por nacimiento:"
+    },
+    {
+      "id": "021.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción I",
+      "texto": "I.- Los nacidos dentro del territorio del Estado; y"
+    },
+    {
+      "id": "021.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción II",
+      "texto": "II.- Los nacidos fuera del territorio del Estado, siempre que sean hijos de padre o madre potosinos por nacimiento."
+    }
+  ]
+}

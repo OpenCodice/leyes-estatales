@@ -1,0 +1,27 @@
+{
+  "clave": "029",
+  "etiqueta": "Artículo 29",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "029.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29 › párrafo 1",
+      "texto": "(REFORMADO P.O. DEL EDO. EL 20 NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "029.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29 › párrafo 2",
+      "texto": "La ley fijará el procedimiento para la pérdida y suspensión de los derechos o prerrogativas del ciudadano, el tiempo de la suspensión, las causas y el procedimiento para su rehabilitación."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "clave": "028",
+  "etiqueta": "Artículo 28",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "028.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › párrafo 1",
+      "texto": "(REFORMADO P.O. DEL EDO. EL 20 NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "028.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › párrafo 2",
+      "texto": "La ciudadanía potosina se pierde:"
+    },
+    {
+      "id": "028.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › Fracción I",
+      "texto": "I.- Por la pérdida de la nacionalidad o de la ciudadanía mexicana;"
+    },
+    {
+      "id": "028.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › Fracción II",
+      "texto": "II.- Por adquirir voluntariamente la ciudadanía de otra entidad federativa; y"
+    },
+    {
+      "id": "028.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › Fracción III",
+      "texto": "III.- En los demás casos que señalen la Constitución Política de los Estados Unidos Mexicanos y las leyes."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "clave": "050",
+  "etiqueta": "Artículo 50",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "050.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "050.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 2",
+      "texto": "La Legislatura electa deberá instalarse en sesión solemne el día catorce de septiembre del año de su elección. Los Diputados deberán rendir la protesta de ley ante la Diputación Permanente de la Legislatura saliente."
+    },
+    {
+      "id": "050.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 3",
+      "texto": "El Congreso del Estado no puede instalarse ni ejercer sus funciones sin la concurrencia de más de la mitad del número total de sus miembros. Si la sesión de instalación excepcionalmente no pudiera celebrase por falta de quorum, los diputados presentes deberán reunirse el día señalado por la ley y compeler a los ausentes a que concurran dentro de las cuarenta y ocho horas siguientes, con la advertencia de que si no lo hicieran, perderán su cargo, en cuyo caso serán llamados en forma inmediata los suplentes, quienes deberán presentarse en un plazo igual y, si tampoco concurrieran, se declarará vacante la diputación. Si se tratara de un Diputado de mayoría, se convocará a nuevas elecciones; en el caso de Diputados de representación proporcional, se llamará al suplente y, en su defecto, al siguiente del orden de la lista que haya registrado el partido a quien correspondió la representación vacante."
+    },
+    {
+      "id": "050.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 4",
+      "texto": "Si en las sesiones posteriores a su instalación no hubiere quórum para que el Congreso ejerza sus funciones, los diputados que concurran convocarán inmediatamente a los suplentes para que se presenten a desempeñar su cargo, entretanto transcurre el término de cuarenta y ocho horas antes señalado."
+    },
+    {
+      "id": "050.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 5",
+      "texto": "Incurrirán en responsabilidad y se harán acreedores a las sanciones que la ley prevenga quienes, habiendo sido electos Diputados, no se presenten sin causa justificada, a juicio del Congreso, a desempeñar el cargo dentro del plazo señalado en este artículo. También incurrirán en responsabilidad, que la misma ley sancionará, los partidos políticos que, habiendo postulado candidatos, acuerden que sus miembros que resultaron electos no se presenten a desempeñar sus funciones."
+    }
+  ]
+}

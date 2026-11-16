@@ -1,0 +1,27 @@
+{
+  "clave": "001",
+  "etiqueta": "Artículo 1",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "001.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 1",
+      "texto": "(ARTÍCULO REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "001.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 2",
+      "texto": "El Estado de San Luis Potosí es la organización política y jurídica de sus habitantes, nacidos o avecindados en su territorio, que tengan las calidades que exige la presente Constitución."
+    }
+  ]
+}

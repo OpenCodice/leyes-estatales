@@ -1,0 +1,27 @@
+{
+  "clave": "137",
+  "etiqueta": "Artículo 137",
+  "titulo": "TÍTULO DECIMOQUINTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "137.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "137.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › párrafo 2",
+      "texto": "Los funcionarios que, según el artículo 61 de esta Constitución, tienen derecho de iniciativa, lo tienen, igualmente, de iniciar las reformas a esta Constitución."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "100",
+  "etiqueta": "Artículo 100",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "100.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › párrafo 1",
+      "texto": "(REFORMADO P.O. DEL EDO.19 DICIEMBRE 2024)"
+    },
+    {
+      "id": "100.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › párrafo 2",
+      "texto": "La Ley establecerá́ las bases para la formación y actualización de los funcionarios del Poder Judicial del Estado, así ́como para el desarrollo de la carrera judicial. Esto implica la capacitación y actualización continua a las personas funcionarias judiciales."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "091",
+  "etiqueta": "Artículo 91",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "091.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 1",
+      "texto": "(REFORMADO EN EL P.O. EL 19 DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "091.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 26 DE JULIO DE 2005)"
+    },
+    {
+      "id": "091.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 3",
+      "texto": "El Supremo Tribunal de Justicia estará́ integrado por quince Magistraturas electas mediante voto ciudadano libre, directo y secreto. Las personas Magistradas residirán en la Capital del Estado y desempeñarán sus funciones en el Pleno y en Salas Colegiadas según lo disponga la Ley."
+    }
+  ]
+}

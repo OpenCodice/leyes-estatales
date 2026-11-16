@@ -1,0 +1,27 @@
+{
+  "clave": "014",
+  "etiqueta": "Artículo 14",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "014.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › párrafo 1",
+      "texto": "(REFORMADO EN EL P.O. 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "014.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › párrafo 2",
+      "texto": "Con la participación democrática de la sociedad, compete al Gobierno del Estado la formulación de los planes y programas de desarrollo del Estado para la consecución de una existencia digna y justa de sus habitantes."
+    }
+  ]
+}

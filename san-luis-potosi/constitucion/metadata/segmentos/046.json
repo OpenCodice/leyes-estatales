@@ -1,0 +1,108 @@
+{
+  "clave": "046",
+  "etiqueta": "Artículo 46",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "046.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 16 DE OCTUBRE DE 2023)"
+    },
+    {
+      "id": "046.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "046.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › párrafo 3",
+      "texto": "Para ser Diputada o Diputado se requiere:"
+    },
+    {
+      "id": "046.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción I",
+      "texto": "I.- Ser ciudadana o ciudadano potosino en ejercicio de sus derechos;"
+    },
+    {
+      "id": "046.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción II",
+      "texto": "II.- Tener la calidad de potosina o potosino por nacimiento, con residencia efectiva en el Estado no menor de seis meses inmediatos anteriores al día de la elección y, si es por vecindad, la residencia efectiva inmediata anterior al día de la elección deberá ser no menor de tres años, a partir de la adquisición de aquella;"
+    },
+    {
+      "id": "046.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción III",
+      "texto": "III.- No tener una multa firme pendiente de pago, o que encontrándose sub júdice no esté garantizada en los términos de las disposiciones legales aplicables, que haya sido impuesta por responsabilidad con motivo de los cargos públicos que hubiere desempeñado en la administración federal, estatal o municipal; y no haber sido condenado por sentencia firme por la comisión de delitos dolosos que hayan ameritado pena de prisión;"
+    },
+    {
+      "id": "046.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción IV",
+      "texto": "IV.- Tener dieciocho años cumplidos al día de la elección, y"
+    },
+    {
+      "id": "046.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción V",
+      "texto": "V. No estar en alguno de los siguientes supuestos:"
+    },
+    {
+      "id": "046.V.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 46 › Fracción V › inciso a)",
+      "texto": "a) Tener sentencia condenatoria que haya causado estado, por violencia familiar; o delitos contra las mujeres por razón de género."
+    },
+    {
+      "id": "046.V.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 46 › Fracción V › inciso b)",
+      "texto": "b) Tener sentencia condenatoria que haya causado estado por los delitos: contra la libertad sexual; la seguridad sexual; y el normal desarrollo psicosexual, o"
+    },
+    {
+      "id": "046.V.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 46 › Fracción V › inciso c)",
+      "texto": "c) Estar registrado o registrada en el padrón de personas deudoras alimentarias morosas o en caso de serlo, demostrar que ha pagado en su totalidad los adeudos alimenticios."
+    }
+  ]
+}

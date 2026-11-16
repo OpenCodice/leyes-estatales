@@ -1,0 +1,36 @@
+{
+  "clave": "059",
+  "etiqueta": "Artículo 59",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPITULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "059.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE AGOSTO DE 2006)"
+    },
+    {
+      "id": "059.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "059.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59 › párrafo 3",
+      "texto": "Durante los recesos del Congreso habrá una Diputación Permanente, que aquel nombrará antes de la clausura de sus sesiones ordinarias. La misma será presidida por el Presidente de la Directiva del Congreso y se compondrá además con cuatro diputados propietarios que conforme al orden de su elección, ocuparan los cargos de Vicepresidente, Secretario, primer y segundo vocales y dos suplentes quienes actuarán en ausencia de los propietarios en el orden que fueran electos."
+    }
+  ]
+}
