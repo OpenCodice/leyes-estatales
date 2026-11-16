@@ -1,0 +1,27 @@
+{
+  "clave": "001",
+  "etiqueta": "Artículo 1",
+  "titulo": "Título Primero",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "001.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 1",
+      "texto": "El Estado Libre y Soberano de Querétaro es parte integrante de la Federación Mexicana, es libre y autónomo en lo que se refiere a su régimen interno y sólo delega sus facultades en los Poderes Federales, en todo aquello que fije expresamente la Constitución Política de los Estados Unidos Mexicanos. (Ref. P. O. No. 64, 23-VIII-19)"
+    },
+    {
+      "id": "001.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 2",
+      "texto": "Son ley suprema en la entidad, las disposiciones que establezcan la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales."
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "clave": "022",
+  "etiqueta": "Artículo 22",
+  "titulo": "Título Segundo",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "022.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › párrafo 1",
+      "texto": "Son facultades y obligaciones del gobernador del Estado las siguientes:"
+    },
+    {
+      "id": "022.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › párrafo 2",
+      "texto": "(Ref. P. O. No. 7, 30-I-10)"
+    },
+    {
+      "id": "022.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción I",
+      "texto": "I. Promulgar, publicar y ejecutar las leyes;"
+    },
+    {
+      "id": "022.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción II",
+      "texto": "II. Reglamentar las leyes, proveyendo en la esfera administrativa a su exacta observancia, con excepción de las leyes orgánicas de los Poderes y de los órganos autónomos;"
+    },
+    {
+      "id": "022.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción III",
+      "texto": "III. Preservar las libertades, el orden y la paz públicos, así como la tranquilidad y la seguridad social en el Estado, asumiendo el mando en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público; (Ref. P. O. No. 27, 13-V-16)"
+    },
+    {
+      "id": "022.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción IV",
+      "texto": "IV. Nombrar y remover libremente a los servidores públicos del Poder Ejecutivo, cuyo nombramiento o remoción no estén determinados en esta Constitución o en las Leyes;\n\nprocurando mantener un equilibrio entre mujeres y hombres cuando se trate de órganos colegiados; (Ref. P. O. No. 50, 31-VIII-12)\n\nEl nombramiento de los titulares de las dependencias del Poder Ejecutivo del Estado de Querétaro, deberá realizarse observando el principio de paridad de género.\n\n(Adición P. O. No. 89, 13-IX-24, ver artículos transitorios)"
+    },
+    {
+      "id": "022.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción V",
+      "texto": "V. Hacer cumplir los fallos y resoluciones de la autoridad judicial; conceder a las autoridades judiciales de la entidad los apoyos necesarios para el desempeño de sus funciones;"
+    },
+    {
+      "id": "022.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción VI",
+      "texto": "VI. Derogada; (P. O. No. 30, 13-IV-21)"
+    },
+    {
+      "id": "022.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción VII",
+      "texto": "VII. Contratar empréstitos y garantizar las obligaciones que de ellos se deriven en los términos de la ley respectiva y, en su caso, con la autorización previa de la Legislatura;"
+    },
+    {
+      "id": "022.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción VIII",
+      "texto": "VIII. Expedir decretos y acuerdos de carácter administrativo para la eficaz prestación de los servicios públicos y otorgar concesiones a los particulares para este mismo efecto;"
+    },
+    {
+      "id": "022.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción IX",
+      "texto": "IX. Celebrar convenios con la Federación, con otros Estados, con los Municipios y con particulares para el mejor cumplimiento de sus atribuciones y cuando el desarrollo económico y social lo haga necesario;"
+    },
+    {
+      "id": "022.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción X",
+      "texto": "X. Rendir ante la Legislatura durante el mes de septiembre de cada año, por escrito, un informe del estado general que guarda la administración pública en los términos que establezca la Ley, salvo el último año de ejercicio constitucional, en el cual el informe a que se refiere el presente artículo se rendirá en el mes de agosto; (Ref. P. O. No. 57, 14-VII-21)"
+    },
+    {
+      "id": "022.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción XI",
+      "texto": "XI. Promover el desarrollo equilibrado y armónico del Estado en materia económica, social y cultural;"
+    },
+    {
+      "id": "022.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción XII",
+      "texto": "XII. Planear, participar, conducir, coordinar y orientar el desarrollo integral y sustentable de la Entidad, fomentando el crecimiento económico, el empleo y velando por una justa distribución del ingreso y la riqueza, que permita el pleno ejercicio de la libertad y la dignidad de individuos y grupos sociales;"
+    },
+    {
+      "id": "022.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción XIII",
+      "texto": "XIII. Designar a los fedatarios públicos en los términos de la ley de la materia; Ref. P. O.\n\nNo. 35, 30-IV-26)"
+    },
+    {
+      "id": "022.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción XIV",
+      "texto": "XIV. Designar al integrante del Órgano de Administración del Poder Judicial que le compete; así como a los integrantes del Comité de Evaluación para la elección del Poder Judicial que le corresponda; y (Adición P. O. No. 35, 30-IV-26)"
+    },
+    {
+      "id": "022.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción XV",
+      "texto": "XV. Las que le otorga la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes y ordenamientos que de ambas se deriven."
+    }
+  ]
+}

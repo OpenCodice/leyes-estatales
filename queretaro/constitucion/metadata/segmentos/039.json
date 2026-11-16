@@ -1,0 +1,36 @@
+{
+  "clave": "039",
+  "etiqueta": "Artículo 39",
+  "titulo": "Título Cuarto",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "039.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 1",
+      "texto": "Esta Constitución es la Norma Fundamental del Estado y podrá ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere la aprobación del Constituyente Permanente consistente en: las dos terceras partes del número total de integrantes de la Legislatura del Estado y el voto favorable de las dos terceras partes de los Ayuntamientos. El voto que emitan los Ayuntamientos podrá ser a favor o en contra, debiendo de fundar y motivar el sentido del mismo, y deberán ser convocados por la Legislatura del Estado a participar en sus trabajos de estudio y dictamen."
+    },
+    {
+      "id": "039.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 2",
+      "texto": "Si transcurrieran más de treinta días naturales después de que los Ayuntamientos recibieron para su consideración la propuesta de reformas aprobada por la Legislatura del Estado, sin que ésta reciba el acuerdo municipal respectivo, se entenderá que las reformas han sido aprobadas."
+    },
+    {
+      "id": "039.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 3",
+      "texto": "Cuando se reciban los votos necesarios para la aprobación de las reformas, se procederá de inmediato a su declaración correspondiente."
+    }
+  ]
+}
