@@ -1,0 +1,54 @@
+{
+  "clave": "120",
+  "etiqueta": "Artículo 120",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "120.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 120 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 18 DE MAYO DE 2001)"
+    },
+    {
+      "id": "120.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 120 › párrafo 2",
+      "texto": "La presente Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se requiere que el Congreso, por el voto de las dos terceras partes del número total de sus miembros, acuerde las reformas o adiciones y que éstas sean aprobadas por la mayoría de los Ayuntamientos, quienes para tal efecto y con carácter vinculatorio, consultarán al Cabildo, el cual resolverá con base en lo que decidan las dos terceras partes de sus miembros. Si transcurrido un mes, a partir de la fecha en que hubieren recibido los Ayuntamientos el proyecto de adiciones o de reformas, no contestaren, se entenderá que lo aprueban."
+    },
+    {
+      "id": "120.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 120 › párrafo 3",
+      "texto": "Cuando la legislatura considere procedente revisar toda o proponer una nueva Constitución, convocará a una convención constitucional con la aprobación de las dos terceras partes de los miembros de la cámara."
+    },
+    {
+      "id": "120.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 120 › párrafo 4",
+      "texto": "Si el resultado de la convención es afirmativo se someterá a plebiscito."
+    },
+    {
+      "id": "120.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 120 › párrafo 5",
+      "texto": "La Ley establecerá los procedimientos para el cumplimiento de este Título."
+    }
+  ]
+}

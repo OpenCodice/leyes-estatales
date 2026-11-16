@@ -1,0 +1,63 @@
+{
+  "clave": "099",
+  "etiqueta": "Artículo 99",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "099.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 18 DE MAYO DE 2001)"
+    },
+    {
+      "id": "099.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 2",
+      "texto": "La planeación del desarrollo económico y social del Estado es obligatoria para el Poder Público. La Ley definirá los niveles de obligatoriedad, coordinación, concertación e inducción a los que concurrirán los sectores público, privado y social en esta materia y establecerá los requisitos y especificaciones que deberá cubrir el Plan Estatal de Desarrollo y los planes municipales."
+    },
+    {
+      "id": "099.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 3",
+      "texto": "En la planeación, conducción, orientación y dirección de las actividades económicas, el Gobierno del Estado tendrá la atribución de regular, promover e impulsar a los agentes económicos, para mantener y alentar la libre competencia y el bienestar social."
+    },
+    {
+      "id": "099.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 4",
+      "texto": "Las estrategias rectoras para alcanzar al desarrollo integral, serán incluidas en el Plan Estatal de Desarrollo con proyección a largo plazo."
+    },
+    {
+      "id": "099.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 5",
+      "texto": "(ADICIONADO, P.O. 20 DE MARZO DE 2015)"
+    },
+    {
+      "id": "099.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 6",
+      "texto": "El Gobierno del Estado impulsará la organización, promoción, y fortalecimiento del sector social que participa en la economía, a través de políticas públicas que contribuyan a la equitativa distribución de ingresos, así como a la mayor generación del patrimonio de este sector."
+    }
+  ]
+}

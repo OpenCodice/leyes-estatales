@@ -1,0 +1,27 @@
+{
+  "clave": "015",
+  "etiqueta": "Artículo 15",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "015.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "015.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › párrafo 2",
+      "texto": "Los derechos humanos tienen aplicación y eficacia directa y vinculan a los poderes públicos."
+    }
+  ]
+}

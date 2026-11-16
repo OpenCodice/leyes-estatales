@@ -1,0 +1,27 @@
+{
+  "clave": "092",
+  "etiqueta": "Artículo 92",
+  "titulo": "",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "092.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 30 DE DICIEMBRE DE 2015)"
+    },
+    {
+      "id": "092.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › párrafo 2",
+      "texto": "Los Ayuntamientos remitirán para su aprobación al Congreso, las cuentas del ejercicio anual por periodos trimestrales, que se rendirán durante los treinta días naturales posteriores al periodo de que se trate."
+    }
+  ]
+}

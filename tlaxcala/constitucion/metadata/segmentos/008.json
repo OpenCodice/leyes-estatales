@@ -1,0 +1,27 @@
+{
+  "clave": "008",
+  "etiqueta": "Artículo 8",
+  "titulo": "",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "008.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "008.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 2",
+      "texto": "Los municipios del Estado conservan la extensión y límites territoriales que hasta hoy han tenido. Los conflictos que se susciten entre dos o más municipios por cuestiones de límites o competencia, serán resueltos por el Congreso del Estado, en los términos que al efecto dispongan la Ley Municipal y demás leyes aplicables, sin perjuicio de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos."
+    }
+  ]
+}

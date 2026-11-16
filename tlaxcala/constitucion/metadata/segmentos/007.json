@@ -1,0 +1,558 @@
+{
+  "clave": "007",
+  "etiqueta": "Artículo 7",
+  "titulo": "",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "007.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 2",
+      "texto": "Los municipios integrantes del Estado son:"
+    },
+    {
+      "id": "007.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 3",
+      "texto": "Acuamanala de Miguel Hidalgo;"
+    },
+    {
+      "id": "007.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 4",
+      "texto": "Atltzayanca;"
+    },
+    {
+      "id": "007.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 5",
+      "texto": "Amaxac de Guerrero;"
+    },
+    {
+      "id": "007.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 6",
+      "texto": "Apetatitlán de Antonio Carvajal;"
+    },
+    {
+      "id": "007.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 7",
+      "texto": "Apizaco;"
+    },
+    {
+      "id": "007.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 8",
+      "texto": "Atlangatepec;"
+    },
+    {
+      "id": "007.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 9",
+      "texto": "Benito Juárez;"
+    },
+    {
+      "id": "007.p10",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 10",
+      "texto": "Calpulalpan;"
+    },
+    {
+      "id": "007.p11",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 11",
+      "texto": "Chiautempan;"
+    },
+    {
+      "id": "007.p12",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 12",
+      "texto": "Contla de Juan Cuamatzi;"
+    },
+    {
+      "id": "007.p13",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 13",
+      "texto": "Cuapiaxtla;"
+    },
+    {
+      "id": "007.p14",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 14",
+      "texto": "Cuaxomulco;"
+    },
+    {
+      "id": "007.p15",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 15",
+      "texto": "El Carmen Tequexquitla;"
+    },
+    {
+      "id": "007.p16",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 16",
+      "texto": "Emiliano Zapata;"
+    },
+    {
+      "id": "007.p17",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 17",
+      "texto": "Españita;"
+    },
+    {
+      "id": "007.p18",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 18",
+      "texto": "Huamantla;"
+    },
+    {
+      "id": "007.p19",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 19",
+      "texto": "Hueyotlipan;"
+    },
+    {
+      "id": "007.p20",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 20",
+      "texto": "Ixtacuixtla de Mariano Matamoros;"
+    },
+    {
+      "id": "007.p21",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 21",
+      "texto": "Ixtenco;"
+    },
+    {
+      "id": "007.p22",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 22",
+      "texto": "La Magdalena Tlaltelulco;"
+    },
+    {
+      "id": "007.p23",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 23",
+      "texto": "Lázaro Cárdenas;"
+    },
+    {
+      "id": "007.p24",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 24",
+      "texto": "Mazatecochco de José María Morelos;"
+    },
+    {
+      "id": "007.p25",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 25",
+      "texto": "Muñoz de Domingo Arenas;"
+    },
+    {
+      "id": "007.p26",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 26",
+      "texto": "Nanacamilpa de Mariano Arista;"
+    },
+    {
+      "id": "007.p27",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 27",
+      "texto": "Natívitas;"
+    },
+    {
+      "id": "007.p28",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 28",
+      "texto": "Panotla;"
+    },
+    {
+      "id": "007.p29",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 29",
+      "texto": "Papalotla de Xicohténcatl;"
+    },
+    {
+      "id": "007.p30",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 30",
+      "texto": "San Damián Texóloc;"
+    },
+    {
+      "id": "007.p31",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 31",
+      "texto": "San Francisco Tetlanohcan;"
+    },
+    {
+      "id": "007.p32",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 32",
+      "texto": "San Jerónimo Zacualpan;"
+    },
+    {
+      "id": "007.p33",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 33",
+      "texto": "San José Teacalco;"
+    },
+    {
+      "id": "007.p34",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 34",
+      "texto": "San Juan Huactzinco;"
+    },
+    {
+      "id": "007.p35",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 35",
+      "texto": "San Lorenzo Axocomanitla;"
+    },
+    {
+      "id": "007.p36",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 36",
+      "texto": "San Lucas Tecopilco;"
+    },
+    {
+      "id": "007.p37",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 37",
+      "texto": "San Pablo del Monte;"
+    },
+    {
+      "id": "007.p38",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 38",
+      "texto": "Sanctórum de Lázaro Cárdenas;"
+    },
+    {
+      "id": "007.p39",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 39",
+      "texto": "Santa Ana Nopalucan;"
+    },
+    {
+      "id": "007.p40",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 40",
+      "texto": "Santa Apolonia Teacalco;"
+    },
+    {
+      "id": "007.p41",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 41",
+      "texto": "Santa Catarina Ayometla;"
+    },
+    {
+      "id": "007.p42",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 42",
+      "texto": "Santa Cruz Quilehtla;"
+    },
+    {
+      "id": "007.p43",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 43",
+      "texto": "Santa Cruz Tlaxcala;"
+    },
+    {
+      "id": "007.p44",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 44",
+      "texto": "Santa Isabel Xiloxoxtla;"
+    },
+    {
+      "id": "007.p45",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 45",
+      "texto": "Tenancingo;"
+    },
+    {
+      "id": "007.p46",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 46",
+      "texto": "Teolocholco;"
+    },
+    {
+      "id": "007.p47",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 47",
+      "texto": "Tepetitla de Lardizábal;"
+    },
+    {
+      "id": "007.p48",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 48",
+      "texto": "Tepeyanco;"
+    },
+    {
+      "id": "007.p49",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 49",
+      "texto": "Terrenate;"
+    },
+    {
+      "id": "007.p50",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 50",
+      "texto": "Tetla de la Solidaridad;"
+    },
+    {
+      "id": "007.p51",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 51",
+      "texto": "Tetlatlahuca;"
+    },
+    {
+      "id": "007.p52",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 52",
+      "texto": "Tlaxcala;"
+    },
+    {
+      "id": "007.p53",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 53",
+      "texto": "Tlaxco;"
+    },
+    {
+      "id": "007.p54",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 54",
+      "texto": "Tocatlán;"
+    },
+    {
+      "id": "007.p55",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 55",
+      "texto": "Totolac;"
+    },
+    {
+      "id": "007.p56",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 56",
+      "texto": "Tzompantepec;"
+    },
+    {
+      "id": "007.p57",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 57",
+      "texto": "Xaloztoc;"
+    },
+    {
+      "id": "007.p58",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 58",
+      "texto": "Xaltocan;"
+    },
+    {
+      "id": "007.p59",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 59",
+      "texto": "Xicohtzinco;"
+    },
+    {
+      "id": "007.p60",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 60",
+      "texto": "Yauhquemehcan;"
+    },
+    {
+      "id": "007.p61",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 61",
+      "texto": "Zacatelco, y Ziltlaltépec de Trinidad Sánchez Santos."
+    }
+  ]
+}

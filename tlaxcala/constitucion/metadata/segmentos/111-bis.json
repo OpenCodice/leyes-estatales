@@ -1,0 +1,63 @@
+{
+  "clave": "111-bis",
+  "etiqueta": "Artículo 111 Bis",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "111-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 Bis › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 18 DE JULIO DE 2017)"
+    },
+    {
+      "id": "111-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 Bis › párrafo 2",
+      "texto": "El Órgano de Fiscalización Superior del Congreso del Estado y los órganos internos de control de las entidades estatales y municipales son competentes para investigar y sustanciar las denuncias u (sic) procedimientos oficiosos sobre actos u omisiones que podrían constituir faltas administrativas graves, y el Tribunal de Justicia Administrativa será el órgano competente de su resolución."
+    },
+    {
+      "id": "111-bis.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 Bis › párrafo 3",
+      "texto": "Las demás faltas y sanciones administrativas, serán conocidas y resueltas por los órganos internos de control de cada entidad estatal o municipal."
+    },
+    {
+      "id": "111-bis.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 Bis › párrafo 4",
+      "texto": "Para la investigación, substanciación y sanción de las responsabilidades administrativas de los integrantes del Poder Judicial del Estado, se observará lo previsto en el artículo 79 de esta Constitución, sin perjuicio de las atribuciones del Órgano de Fiscalización Superior en materia de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos."
+    },
+    {
+      "id": "111-bis.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 Bis › párrafo 5",
+      "texto": "La prescripción para exigir la responsabilidad administrativa por causas no graves será de tres años, y tratándose de faltas administrativas graves o faltas de particulares será de siete años."
+    },
+    {
+      "id": "111-bis.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 Bis › párrafo 6",
+      "texto": "Cualquier ciudadano, bajo su más estricta responsabilidad y mediante la presentación de elementos de prueba, podrá formular denuncia ante el Congreso del Estado respecto de las conductas a las que se refiere el presente artículo."
+    }
+  ]
+}

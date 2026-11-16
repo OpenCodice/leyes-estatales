@@ -1,0 +1,27 @@
+{
+  "clave": "024",
+  "etiqueta": "Artículo 24",
+  "titulo": "",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "024.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "024.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › párrafo 2",
+      "texto": "Los derechos políticos de los ciudadanos se suspenden por sentencia condenatoria por delito intencional que merezca pena corporal, hasta la extinción de la pena."
+    }
+  ]
+}

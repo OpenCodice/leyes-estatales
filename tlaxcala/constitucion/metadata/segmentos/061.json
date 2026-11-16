@@ -1,0 +1,27 @@
+{
+  "clave": "061",
+  "etiqueta": "Artículo 61",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "061.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "061.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › párrafo 2",
+      "texto": "El Gobernador al tomar posesión de su cargo otorgará ante el Congreso o en su caso, ante la Comisión Permanente la siguiente protesta: \"Protesto guardar y hacer guardar la Constitución Política de la República, la particular del Estado y las leyes que de una u otra emanen y desempeñar leal y patrióticamente el cargo de Gobernador del Estado de Tlaxcala que el pueblo me ha conferido, mirando en todo por el bien y prosperidad de la Entidad. Y si así no lo hiciere que el Estado me lo demande\"."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "clave": "046",
+  "etiqueta": "Artículo 46",
+  "titulo": "",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "046.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 18 DE MAYO DE 2001)"
+    },
+    {
+      "id": "046.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › párrafo 2",
+      "texto": "La facultad de iniciar Leyes y Decretos corresponde:"
+    },
+    {
+      "id": "046.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción I",
+      "texto": "I. A los Diputados;"
+    },
+    {
+      "id": "046.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción II",
+      "texto": "II. Al Gobernador;\n\n(REFORMADA, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "046.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción III",
+      "texto": "III. Al Tribunal Superior de Justicia;\n\n(REFORMADA, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "046.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción IV",
+      "texto": "IV. A los ayuntamientos;\n\n(REFORMADA, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "046.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción V",
+      "texto": "V. A los habitantes del Estado en los términos que establezca la ley, y\n\n(REFORMADA, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "046.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción VI",
+      "texto": "VI. A los titulares de los órganos públicos autónomos."
+    }
+  ]
+}
