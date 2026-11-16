@@ -1,0 +1,27 @@
+{
+  "clave": "009",
+  "etiqueta": "Artículo 9",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "009.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › párrafo 1",
+      "texto": "En los casos de riesgo, siniestro o desastre, el o la titular del Ejecutivo del Estado acordará la ejecución de acciones y programas públicos en relación a las personas, sus bienes o del hábitat para el restablecimiento de la normalidad; para ello podrá disponer de los recursos necesarios, sin autorización previa de la Legislatura. Asimismo podrá ordenar la ocupación o utilización temporal de bienes o la prestación de servicios."
+    },
+    {
+      "id": "009.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › párrafo 2",
+      "texto": "Una vez tomadas las primeras medidas para atender las causas mencionadas, el o la titular del Ejecutivo del Estado, dará cuenta de inmediato a la Legislatura o a la Diputación Permanente de las acciones adoptadas para hacer frente a esos hechos."
+    }
+  ]
+}

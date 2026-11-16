@@ -1,0 +1,261 @@
+{
+  "clave": "049",
+  "etiqueta": "Artículo 49",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "049.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 1",
+      "texto": "(REFORMADO, PRIMER PÁRRAFO; 4 DE MAYO DE 2026)"
+    },
+    {
+      "id": "049.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 2",
+      "texto": "Son atribuciones de la persona titular del Poder Ejecutivo:"
+    },
+    {
+      "id": "049.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción I",
+      "texto": "I. Cumplir y hacer cumplir la Constitución y las leyes federales, los tratados internacionales, esta Constitución y las leyes que de ella emanen;\n\n(REFORMADA, G.O. 18 DE MARZO DE 2003)"
+    },
+    {
+      "id": "049.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción II",
+      "texto": "II. Promulgar, publicar y ejecutar las leyes o decretos aprobados por el Congreso;"
+    },
+    {
+      "id": "049.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción III",
+      "texto": "III. Expedir los reglamentos necesarios para la ejecución y cumplimiento de las leyes y decretos aprobados por el Congreso;\n\n(REFORMADA, G.O. 11 DE MAYO DE 2020)"
+    },
+    {
+      "id": "049.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción IV",
+      "texto": "IV. Velar por la conservación del orden, tranquilidad y seguridad del Estado, disponiendo al efecto de las corporaciones policiales estatales, y de las municipales en aquellos casos que juzgue como de fuerza mayor o alteración grave del orden público; así como impedir los abusos de la fuerza pública a su cargo en contra de la ciudadanía, haciendo efectiva la responsabilidad en que aquélla incurriera;\n\n(REFORMADA, G.O. 23 DE NOVIEMBRE DE 2017)"
+    },
+    {
+      "id": "049.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción V",
+      "texto": "V. Promover y fomentar, por todos los medios posibles, la educación pública, la protección a la salud, la seguridad humana y procurar el progreso y bienestar social en el Estado;\n\n(REFORMADA, G.O. 17 DE OCTUBRE DE 2005)"
+    },
+    {
+      "id": "049.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción VI",
+      "texto": "VI. Presentar al Congreso del Estado el presupuesto de egresos del año siguiente, proponiendo los ingresos necesarios para cubrirlos, atendiendo a los términos establecidos por el artículo 26, fracción I, inciso a) de esta Constitución;"
+    },
+    {
+      "id": "049.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción VII",
+      "texto": "VII. Realizar las gestiones necesarias ante el Gobierno Federal a fin de que las transferencias de recursos que se le otorguen al Estado sean proporcionales y acordes a su densidad poblacional y extensión territorial, a efecto de lograr la equidad en la distribución de las mismas;"
+    },
+    {
+      "id": "049.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción VIII",
+      "texto": "VIII. Cuidar de que los fondos públicos estén bien asegurados, y que su recaudación y distribución se hagan con arreglo a la ley;"
+    },
+    {
+      "id": "049.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción IX",
+      "texto": "IX. Solicitar a la Diputación Permanente que convoque al Congreso a sesiones extraordinarias, expresando el objeto de ellas;"
+    },
+    {
+      "id": "049.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción X",
+      "texto": "X. Planear y conducir el desarrollo integral del Estado en la esfera de su competencia; establecer los procedimientos de consulta popular para formular, instrumentar, ejecutar, controlar y evaluar el Plan Veracruzano de Desarrollo y los programas que de éste se deriven;"
+    },
+    {
+      "id": "049.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción XI",
+      "texto": "XI. Convocar, en los términos que establezcan esta Constitución y la ley, a referendo o plebiscito, cuyos resultados serán obligatorios para las autoridades del Estado;"
+    },
+    {
+      "id": "049.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción XII",
+      "texto": "XII. Disponer en caso de alteración del orden o peligro público, con autorización del Congreso o, en su caso, de la Diputación Permanente, con la aprobación de las dos terceras partes del total de los diputados, las medidas extraordinarias que fueren necesarias para hacer frente a la situación;"
+    },
+    {
+      "id": "049.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción XIII",
+      "texto": "XIII. Hacer cumplir los fallos y sentencias de los tribunales y prestar a éstos el auxilio que necesiten para el ejercicio expedito de sus funciones;\n\n(REFORMADA, G.O. 11 DE MAYO DE 2020)"
+    },
+    {
+      "id": "049.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción XIV",
+      "texto": "XIV. Nombrar, considerando para ello el principio de paridad de género, y remover libremente a las y los servidores públicos de la administración pública, cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución y por las leyes."
+    },
+    {
+      "id": "049.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción XV",
+      "texto": "XV. Proponer al Congreso la suspensión o revocación del mandato de uno o más ediles, así como la suspensión o desaparición de uno o más Ayuntamientos;"
+    },
+    {
+      "id": "049.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción XVI",
+      "texto": "XVI. Vigilar que los recursos naturales sean utilizados en forma racional, estableciendo en la esfera de su competencia políticas adecuadas y las normas tendientes a su cuidado, preservación y óptimo aprovechamiento;"
+    },
+    {
+      "id": "049.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción XVII",
+      "texto": "XVII. Celebrar, en su calidad de representante del Gobierno del Estado y con observancia de lo dispuesto en la ley, convenios y contratos en los diversos ramos de la administración pública, con los gobiernos federal, estatales o municipales, así como con entidades descentralizadas de estos niveles de gobierno y personas físicas o morales de carácter público o privado;"
+    },
+    {
+      "id": "049.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción XVIII",
+      "texto": "XVIII. Representar al Estado, para efectos de lo dispuesto por la fracción I del Artículo 105 de la Constitución Federal;"
+    },
+    {
+      "id": "049.XIX",
+      "tipo": "fraccion",
+      "marca": "XIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción XIX",
+      "texto": "XIX. Convenir con los municipios, previo acuerdo de sus respectivos Ayuntamientos, para que el Estado se haga cargo de alguna o algunas de las funciones relacionadas con la administración y recaudación de los impuestos, derechos, aprovechamientos, participaciones, contribuciones o cualquier otro tipo de ingresos fiscales que deban recibir los municipios; o para la ejecución y operación de obras y la prestación de servicios públicos que deban suministrar los Ayuntamientos; y convenir para que éstos se hagan cargo de alguna o algunas de las funciones, o de la ejecución y operación de obras y la prestación de servicios públicos que correspondan al Estado;"
+    },
+    {
+      "id": "049.XX",
+      "tipo": "fraccion",
+      "marca": "XX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción XX",
+      "texto": "XX. Conceder el indulto a los reos sentenciados por los tribunales del Estado, conforme a la ley;\n\n(REFORMADA, G.O. 14 DE OCTUBRE DE 2024)"
+    },
+    {
+      "id": "049.XXI",
+      "tipo": "fraccion",
+      "marca": "XXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción XXI",
+      "texto": "XXI. Presentar ante el Congreso del Estado, el día diez de septiembre de cada año, un informe escrito acerca del estado que guarda la administración pública. El Congreso realizará el análisis del informe y citará a las y los secretarios de despacho o equivalentes, quienes comparecerán y rendirán informes bajo protesta de decir verdad.\n\nConcluida la comparecencia de las y los secretarios de despacho o equivalentes, la Gobernadora o el Gobernador comparecerá ante el Pleno del Congreso a responder las preguntas que le formulen las y los diputados.\n\n“NOTA DE EDITOR: La reforma al artículo 49, fracción XXI, de esta Constitución iniciará su vigencia a partir del primero de septiembre de 2036, de conformidad con el artículo Cuarto Transitorio del Decreto de reforma número 741, publicada en la Gaceta Oficial N°Ext. 412 Tomo III del 14 de octubre de 2024.” TEXTO ANTERIOR:\n\n(REFORMADA, G.O. 23 DE OCTUBRE DE 2018)"
+    },
+    {
+      "id": "049.XXI~2",
+      "tipo": "fraccion",
+      "marca": "XXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción XXI",
+      "texto": "XXI. Presentar ante el Congreso del Estado, el 15 de noviembre de cada año, un informe escrito acerca del estado que guarda la administración pública. El Congreso realizará el análisis del informe, y citará a los secretarios del despacho o equivalente, quienes comparecerán y rendirán informes bajo protesta de decir verdad.\n\nConcluida la comparecencia de los secretarios de despacho o equivalente, el Gobernador comparecerá ante el Pleno del Congreso a responder las preguntas que le formulen los diputados."
+    },
+    {
+      "id": "049.XXII",
+      "tipo": "fraccion",
+      "marca": "XXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción XXII",
+      "texto": "XXII. Comprometer el crédito del Estado, previa autorización del Congreso, en los términos de esta Constitución y la ley; y\n\n(REFORMADA, G.O. 4 DE DICIEMBRE DE 2025)"
+    },
+    {
+      "id": "049.XXIII",
+      "tipo": "fraccion",
+      "marca": "XXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción XXIII",
+      "texto": "XXIII. Remitir al Congreso del Estado, la propuesta de nombramiento de la persona titular de la Fiscalía General del Estado;\n\n(ADICIONADA, G.O. 4 DE DICIEMBRE DE 2025)"
+    },
+    {
+      "id": "049.XXIV",
+      "tipo": "fraccion",
+      "marca": "XXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción XXIV",
+      "texto": "XXIV. Remover y ratificar a la persona titular de la Fiscalía General del Estado, notificándole al Congreso del Estado su determinación; y\n\n(ADICIONADA, G.O. 4 DE DICIEMBRE DE 2025)"
+    },
+    {
+      "id": "049.XXV",
+      "tipo": "fraccion",
+      "marca": "XXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › Fracción XXV",
+      "texto": "XXV. Las demás que la Constitución Federal, esta Constitución, las leyes federales y las del Estado le otorguen."
+    }
+  ]
+}

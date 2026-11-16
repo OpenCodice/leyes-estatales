@@ -1,0 +1,81 @@
+{
+  "clave": "091",
+  "etiqueta": "Artículo 91",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "091.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 1",
+      "texto": "Para ser Magistradas y Magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, así como Jueza o Juez del Poder Judicial, se requiere:"
+    },
+    {
+      "id": "091.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción I",
+      "texto": "I. Ser ciudadana o ciudadano del Estado, mexicano por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;"
+    },
+    {
+      "id": "091.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción II",
+      "texto": "II. Haber residido en la entidad durante el año anterior al día de la publicación de la convocatoria señalada en el artículo 89 de esta Constitución;"
+    },
+    {
+      "id": "091.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción III",
+      "texto": "III. Contar el día de la publicación de la convocatoria señalada en el artículo 89 de esta Constitución con título de licenciatura en derecho expedido legalmente y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente y de nueve puntos o equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado; Para el caso de Magistrada y Magistrado del Tribunal Superior de Justicia, además, deberá contar con práctica profesional de al menos tres años en un área jurídica afín a su candidatura;"
+    },
+    {
+      "id": "091.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción IV",
+      "texto": "IV. Gozar de buena reputación y no haber sido condenada o condenado por delito doloso con sanción privativa de la libertad;"
+    },
+    {
+      "id": "091.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción V",
+      "texto": "V. Para el caso de Magistradas y Magistrados, no haber ocupado en el Estado el cargo de titular de Secretaría o equivalente, Fiscal General de Justicia, Senadora o Senador, Diputada o Diputado federal o local, Presidenta o Presidente Municipal, durante el año previo al día de la publicación de la convocatoria señalada en el artículo 89 de esta Constitución;"
+    },
+    {
+      "id": "091.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción VI",
+      "texto": "VI. No estar condenada o condenado por sentencia ejecutoriada por el delito de violencia política contra las mujeres en razón de género, o por delitos de violencia familiar, contra la libertad sexual o de violencia de género, y"
+    },
+    {
+      "id": "091.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción VII",
+      "texto": "VII. No estar inscrita o inscrito en el Registro Nacional de Obligaciones Alimentarias."
+    }
+  ]
+}

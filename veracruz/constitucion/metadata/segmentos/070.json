@@ -1,0 +1,54 @@
+{
+  "clave": "070",
+  "etiqueta": "Artículo 70",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "070.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 1",
+      "texto": "(TEXTO VIGENTE POR REVIVISCENCIA DETERMINADA EN SENTENCIA DE LA SCJN)*"
+    },
+    {
+      "id": "070.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 2",
+      "texto": "(REFORMADO, PRIMER PÁRRAFO; G.O. 09 DE ENERO DE 2012)"
+    },
+    {
+      "id": "070.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 3",
+      "texto": "Los ediles durarán en su cargo cuatro años, debiendo tomar posesión el día primero de enero inmediato a su elección; si alguno de ellos no se presentare o dejare de desempeñar su cargo, será sustituido por el suplente, o se procederá según lo disponga la ley."
+    },
+    {
+      "id": "070.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 4",
+      "texto": "(REFORMADO, SEGUNDO PÁRRAFO; G.O. 2 DE JULIO DE 2026)"
+    },
+    {
+      "id": "070.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 5",
+      "texto": "Queda prohibida la reelección consecutiva para el mismo cargo de las personas ediles; la misma prohibición se aplicará a los integrantes de los Concejos Municipales. Las personas ediles, cuando tengan el carácter de propietarias, no podrán ser electas para el período inmediato con el carácter de suplentes; pero las que tengan el carácter de suplentes, sí podrán ser electas para el período inmediato como propietarias menos que hayan estado en ejercicio."
+    }
+  ]
+}

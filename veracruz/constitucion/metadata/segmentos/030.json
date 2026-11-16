@@ -1,0 +1,27 @@
+{
+  "clave": "030",
+  "etiqueta": "Artículo 30",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "030.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 1",
+      "texto": "Los diputados gozarán de inmunidad por las opiniones que manifiesten en el ejercicio de su cargo, y sólo podrán ser procesados por delitos del orden común cometidos durante el mismo, previa declaración del Congreso de haber lugar a formación de causa."
+    },
+    {
+      "id": "030.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 2",
+      "texto": "El Presidente del Congreso o, en su caso, el de la Diputación Permanente, velarán por el respeto al fuero constitucional de los diputados, así como por la inviolabilidad del recinto donde se reúnan a sesionar."
+    }
+  ]
+}

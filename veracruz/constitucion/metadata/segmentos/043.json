@@ -1,0 +1,117 @@
+{
+  "clave": "043",
+  "etiqueta": "Artículo 43",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "043.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 1",
+      "texto": "(REFORMADO, PRIMER PÁRRAFO; G.O. 4 DE MAYO DE 2026)"
+    },
+    {
+      "id": "043.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 2",
+      "texto": "Para ser Gobernadora o Gobernador del Estado se requiere:"
+    },
+    {
+      "id": "043.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 3",
+      "texto": "(REFORMADA, G.O. 4 DE MAYO DE 2026)"
+    },
+    {
+      "id": "043.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › Fracción I",
+      "texto": "I. Ser veracruzana o veracruzano en pleno ejercicio de sus derechos;"
+    },
+    {
+      "id": "043.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › Fracción II",
+      "texto": "II. Contar con residencia efectiva en la Entidad de cinco años inmediatos anteriores al día de la elección;"
+    },
+    {
+      "id": "043.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › Fracción III",
+      "texto": "III. Tener por lo menos treinta años cumplidos al día de la elección;\n\n(REFORMADA, G.O. 4 DE MAYO DE 2026)"
+    },
+    {
+      "id": "043.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › Fracción IV",
+      "texto": "IV. No ser persona servidora pública del Estado o de la Federación en ejercicio de autoridad.\n\nEste requisito no se exigirá a quien ejerza la titularidad del Poder Ejecutivo con carácter de interino o sustituto;"
+    },
+    {
+      "id": "043.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › Fracción V",
+      "texto": "V. No ser militar en servicio activo o con mando de fuerzas;"
+    },
+    {
+      "id": "043.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › Fracción VI",
+      "texto": "VI. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe de su ministerio conforme a lo establecido por la Constitución Federal y la ley de la materia; y\n\n(REFORMADA, G.O. 18 DE MARZO DE 2003)"
+    },
+    {
+      "id": "043.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › Fracción VII",
+      "texto": "VII. Saber leer y escribir y no tener antecedentes penales por la comisión de delitos realizados con dolo, exceptuando aquellos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción.\n\n(ADICIONADA, G.O. 30 DE JUNIO DE 2025)"
+    },
+    {
+      "id": "043.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › Fracción VIII",
+      "texto": "VIII. No incurrir en alguno de los impedimentos señalados en el artículo 18 Bis de esta Constitución.\n\n(ADICIONADA, G.O. 2 DE JULIO DE 2026)"
+    },
+    {
+      "id": "043.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › Fracción IX",
+      "texto": "IX. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la gubernatura.\n\nLa prohibición para los servidores públicos mencionados en las fracciones IV y V, no surtirá efectos si se separan de sus cargos noventa días naturales anteriores al día de la elección, o a partir del quinto día posterior a la publicación de la convocatoria para la elección extraordinaria."
+    }
+  ]
+}

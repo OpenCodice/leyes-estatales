@@ -1,0 +1,36 @@
+{
+  "clave": "040",
+  "etiqueta": "Artículo 40",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "040.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 1",
+      "texto": "La víspera del día en que concluyan los períodos de sesiones ordinarias, el Congreso del Estado, mediante votación secreta y por mayoría de los diputados presentes, elegirá una Diputación Permanente compuesta por el cuarenta por ciento del total de los integrantes del Congreso, de los cuales la mitad actuarán como propietarios y los demás como sustitutos."
+    },
+    {
+      "id": "040.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 2",
+      "texto": "(REFORMADO, G.O. 18 DE MARZO DE 2003)"
+    },
+    {
+      "id": "040.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 3",
+      "texto": "La Diputación Permanente funcionará durante los recesos del Congreso y, en el año de su renovación, hasta la instalación del sucesivo, debiendo integrarse proporcionalmente según el número de diputados pertenecientes a los diversos grupos legislativos, en los términos que establezcan la ley."
+    }
+  ]
+}

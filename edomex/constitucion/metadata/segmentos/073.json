@@ -1,0 +1,27 @@
+{
+  "clave": "073",
+  "etiqueta": "Artículo 73",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "073.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › párrafo 1",
+      "texto": "Las faltas temporales de la Gobernadora o del Gobernador hasta por 15 días las suplirá la Secretaria o el Secretario General de Gobierno."
+    },
+    {
+      "id": "073.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › párrafo 2",
+      "texto": "Aquellas que excedan de 15 días pero no de 60, las cubrirá como encargada o encargado del despacho la Secretaria o el Secretario General de Gobierno. La Legislatura del Estado si estuviere reunida o la Diputación Permanente, decretará el nombramiento respectivo."
+    }
+  ]
+}

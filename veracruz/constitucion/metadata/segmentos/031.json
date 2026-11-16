@@ -1,0 +1,36 @@
+{
+  "clave": "031",
+  "etiqueta": "Artículo 31",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "031.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › párrafo 1",
+      "texto": "Los diputados no podrán desempeñar ninguna otra comisión o empleo público por el que disfruten retribución económica, sin licencia previa del Congreso o, en su caso, de la Diputación Permanente; pero concedida la licencia, cesarán definitivamente en sus funciones."
+    },
+    {
+      "id": "031.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › párrafo 2",
+      "texto": "No estarán comprendidas en esta disposición las actividades docentes o de beneficencia."
+    },
+    {
+      "id": "031.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › párrafo 3",
+      "texto": "La infracción de esta disposición será castigada con la pérdida del cargo de diputado."
+    }
+  ]
+}

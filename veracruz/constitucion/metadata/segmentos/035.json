@@ -1,0 +1,72 @@
+{
+  "clave": "035",
+  "etiqueta": "Artículo 35",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "035.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35 › párrafo 1",
+      "texto": "(REFORMADO, PRIMER PÁRRAFO; G.O. 18 DE MARZO DE 2003)"
+    },
+    {
+      "id": "035.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35 › párrafo 2",
+      "texto": "Las iniciativas de ley o decreto se sujetarán a los trámites siguientes:"
+    },
+    {
+      "id": "035.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35 › Fracción I",
+      "texto": "I. Turno a Comisiones;"
+    },
+    {
+      "id": "035.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35 › Fracción II",
+      "texto": "II. Dictamen de comisiones;\n\n(REFORMADA, G.O. 4 DE MAYO DE 2026)"
+    },
+    {
+      "id": "035.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35 › Fracción III",
+      "texto": "III. Discusión del dictamen en el pleno del Congreso, a la cual podrá asistir la persona titular del Poder Ejecutivo, o quien ésta designe, para hacer las aclaraciones que considere necesarias;"
+    },
+    {
+      "id": "035.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35 › Fracción IV",
+      "texto": "IV. Votación nominal; y"
+    },
+    {
+      "id": "035.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35 › Fracción V",
+      "texto": "V. Aprobación por la mayoría que, según el caso, exija esta Constitución y la ley.\n\nAprobada la ley o decreto, se turnará al Titular del Poder Ejecutivo para su promulgación y publicación en la Gaceta Oficial del Estado.\n\nEn el caso de urgencia u obviedad, calificado por el voto de las dos terceras partes de los diputados presentes, o cuando esté por terminar algún período de sesiones, el Congreso podrá dispensar los trámites reglamentarios."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "127",
+  "etiqueta": "Artículo 127",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "127.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 1",
+      "texto": "La administración de las participaciones del erario que por ley o por convenio deba cubrir el Estado a los municipios, se programará y entregará oportunamente a los ayuntamientos."
+    },
+    {
+      "id": "127.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 2",
+      "texto": "Cualquier incumplimiento en la entrega de las participaciones que correspondan a los municipios, en las fechas programadas, será responsabilidad de los servidores públicos que originen el retraso; el Ejecutivo proveerá para que se entreguen inmediatamente las participaciones retrasadas y resarcirá al ayuntamiento que corresponda el daño que en su caso se cause, con cargo a los emolumentos de los responsables."
+    },
+    {
+      "id": "127.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 3",
+      "texto": "En los casos de participaciones federales, las autoridades del Estado convendrán con las de la Federación el calendario respectivo; no asistirá responsabilidad a quien, por razones que no le sean imputables, origine retraso en la ejecución de dicho calendario."
+    }
+  ]
+}

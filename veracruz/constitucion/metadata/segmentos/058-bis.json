@@ -1,0 +1,27 @@
+{
+  "clave": "058-bis",
+  "etiqueta": "Artículo 58 Bis",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "058-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 Bis › párrafo 1",
+      "texto": "(DEROGADO, G.O. 27 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "058-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 Bis › párrafo 2",
+      "texto": "Derogado."
+    }
+  ]
+}

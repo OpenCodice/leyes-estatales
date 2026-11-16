@@ -1,0 +1,27 @@
+{
+  "clave": "003",
+  "etiqueta": "Artículo 3",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "003.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 1",
+      "texto": "El territorio del Estado tiene la extensión y límites que históricamente le corresponden y comprende además los cabos, islas e islotes adyacentes a su litoral en los que ejerce jurisdicción, de conformidad con lo establecido en la Constitución Federal y la ley."
+    },
+    {
+      "id": "003.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 2",
+      "texto": "El Estado tiene como base de su división territorial y de su organización política al municipio libre, sin perjuicio de las divisiones que establezcan las leyes de los distintos ramos de la administración. La ley fijará el mínimo de la población y los demás requisitos necesarios para crear o suprimir municipios."
+    }
+  ]
+}

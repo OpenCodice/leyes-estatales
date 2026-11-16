@@ -1,0 +1,27 @@
+{
+  "clave": "038",
+  "etiqueta": "Artículo 38",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "038.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › párrafo 1",
+      "texto": "(REFORMADO, G.O. 18 DE MARZO DE 2003)"
+    },
+    {
+      "id": "038.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › párrafo 2",
+      "texto": "Las resoluciones del Congreso tendrán el carácter de ley, decreto, acuerdo o iniciativa ante el Congreso de la Unión."
+    }
+  ]
+}

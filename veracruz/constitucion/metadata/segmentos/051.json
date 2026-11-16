@@ -1,0 +1,27 @@
+{
+  "clave": "051",
+  "etiqueta": "Artículo 51",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "051.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › párrafo 1",
+      "texto": "(REFORMADO, G.O. 4 DE MAYO DE 2026)"
+    },
+    {
+      "id": "051.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › párrafo 2",
+      "texto": "Los titulares de las dependencias y entidades de la administración pública comparecerán ante el Congreso, a convocatoria expresa de éste, por conducto de la persona titular del Poder Ejecutivo, para dar cuenta del estado que guardan las dependencias y entidades a su cargo, así como cuando se discuta una ley o se estudie un negocio concerniente a sus respectivos ramos o actividades."
+    }
+  ]
+}

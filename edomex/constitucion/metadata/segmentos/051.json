@@ -1,0 +1,90 @@
+{
+  "clave": "051",
+  "etiqueta": "Artículo 51",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "051.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › párrafo 1",
+      "texto": "El derecho de iniciar leyes y decretos corresponde:"
+    },
+    {
+      "id": "051.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › Fracción I",
+      "texto": "I. A la Gobernadora o al Gobernador del Estado;"
+    },
+    {
+      "id": "051.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › Fracción II",
+      "texto": "II. A las diputadas o diputados;"
+    },
+    {
+      "id": "051.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › Fracción III",
+      "texto": "III. Al Tribunal Superior de Justicia;"
+    },
+    {
+      "id": "051.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › Fracción IV",
+      "texto": "IV. A los ayuntamientos;"
+    },
+    {
+      "id": "051.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › Fracción V",
+      "texto": "V. A las ciudadanas y ciudadanos del Estado;"
+    },
+    {
+      "id": "051.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › Fracción VI",
+      "texto": "VI. A la Comisión de Derechos Humanos del Estado de México, en materia de derechos humanos."
+    },
+    {
+      "id": "051.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › Fracción VII",
+      "texto": "VII. A la Fiscalía General de Justicia del Estado de México, en materia de su competencia."
+    },
+    {
+      "id": "051.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › Fracción VIII",
+      "texto": "VIII. Derogada.\n\nLa Gobernadora o el Gobernador del Estado tendrán derecho a presentar hasta tres iniciativas de carácter preferente al inicio del periodo ordinario de sesiones, debiendo sustentar las razones por las cuales les otorga dicho carácter.\n\nLas iniciativas con carácter preferente deberán ser sometidas a discusión y votación de la asamblea, a más tardar, en la última sesión del periodo ordinario en el que fueren presentadas. La ley establecerá los mecanismos aplicables para dar cumplimiento a lo previsto por el presente artículo.\n\nNo podrán incluirse como iniciativas preferentes las que modifiquen disposiciones en materia electoral, las relacionadas con la creación de impuestos o las referidas en el artículo 61 fracción XXX de esta Constitución."
+    }
+  ]
+}

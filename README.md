@@ -3,7 +3,7 @@
 Texto vigente de leyes de las entidades federativas, un archivo por artículo,
 versionado en git para dejar un **rastro auditable de las reformas**.
 
-Hoy: las constituciones de 29 de las 32 entidades.
+Hoy: las constituciones de 31 de las 32 entidades.
 
 > Repo de **datos**. La lógica que genera estos archivos vive en
 > [`constitucion-extractor`](https://github.com/OpenCodice/constitucion-extractor)
@@ -54,6 +54,7 @@ ensucia el historial del texto.
 | Coahuila | [`coahuila/constitucion/`](coahuila/constitucion/) | Periódico Oficial del Estado de Coahuila de Zaragoza — Congreso del Estado de Coahuila de Zaragoza |
 | Colima | [`colima/constitucion/`](colima/constitucion/) | Periódico Oficial "El Estado de Colima" — Dirección de Proceso Legislativo del H. Congreso del Estado de Colima |
 | Durango | [`durango/constitucion/`](durango/constitucion/) | Periódico Oficial del Gobierno del Estado de Durango — H. Congreso del Estado de Durango |
+| Estado de México | [`edomex/constitucion/`](edomex/constitucion/) | Periódico Oficial «Gaceta del Gobierno» — Gobierno del Estado de México (Legislación vigente) |
 | Guanajuato | [`guanajuato/constitucion/`](guanajuato/constitucion/) | Periódico Oficial del Gobierno del Estado de Guanajuato — H. Congreso del Estado de Guanajuato |
 | Guerrero | [`guerrero/constitucion/`](guerrero/constitucion/) | Periódico Oficial del Gobierno del Estado de Guerrero — H. Congreso del Estado de Guerrero |
 | Hidalgo | [`hidalgo/constitucion/`](hidalgo/constitucion/) | Periódico Oficial del Estado de Hidalgo — Congreso del Estado de Hidalgo (Instituto de Estudios Legislativos) |
@@ -72,10 +73,11 @@ ensucia el historial del texto.
 | Tabasco | [`tabasco/constitucion/`](tabasco/constitucion/) | Periódico Oficial del Estado de Tabasco — H. Congreso del Estado de Tabasco |
 | Tamaulipas | [`tamaulipas/constitucion/`](tamaulipas/constitucion/) | Periódico Oficial del Estado de Tamaulipas — H. Congreso del Estado de Tamaulipas |
 | Tlaxcala | [`tlaxcala/constitucion/`](tlaxcala/constitucion/) | Periódico Oficial del Gobierno del Estado de Tlaxcala — Congreso del Estado de Tlaxcala |
+| Veracruz | [`veracruz/constitucion/`](veracruz/constitucion/) | Gaceta Oficial del Estado de Veracruz — H. Congreso del Estado de Veracruz |
 | Yucatán | [`yucatan/constitucion/`](yucatan/constitucion/) | H. Congreso del Estado de Yucatán (Secretaría General del Poder Legislativo, Unidad de Servicios Técnico-Legislativos) |
 | Zacatecas | [`zacatecas/constitucion/`](zacatecas/constitucion/) | Poder Legislativo del Estado de Zacatecas (Congreso del Estado, LXV Legislatura) |
 
-Faltan 3: Baja California Sur, Estado de México, Veracruz. Por qué, en [constitucion.app/leyes](https://constitucion.app/leyes#estados).
+Faltan 1: Baja California Sur. Por qué, en [constitucion.app/leyes](https://constitucion.app/leyes#estados).
 <!-- ESTADOS:FIN -->
 
 La tabla la regenera `scripts/gen_readme.py` al dar de alta un estado. Cada
