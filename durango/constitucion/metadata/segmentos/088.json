@@ -1,0 +1,81 @@
+{
+  "clave": "088",
+  "etiqueta": "Artículo 88",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "088.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88 › párrafo 1",
+      "texto": "La persona titular de la Auditoría Superior del Estado durará en su encargo siete años."
+    },
+    {
+      "id": "088.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88 › párrafo 2",
+      "texto": "Será electo por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado, y deberá cumplir con los siguientes requisitos:"
+    },
+    {
+      "id": "088.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88 › Fracción I",
+      "texto": "I. Ser ciudadana mexicana o ciudadano mexicano en pleno ejercicio de sus derechos."
+    },
+    {
+      "id": "088.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88 › Fracción II",
+      "texto": "II. Tener cuando menos treinta y cinco años cumplidos al día de su designación."
+    },
+    {
+      "id": "088.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88 › Fracción III",
+      "texto": "III. Poseer título profesional de licenciatura y experiencia en materia de control, auditoría financiera y de responsabilidades de por lo menos cinco años al momento de la designación."
+    },
+    {
+      "id": "088.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88 › Fracción IV",
+      "texto": "IV. No haber sido titular de alguna de las secretarías de despacho del Ejecutivo estatal, Fiscal General del Estado, Magistrada o Magistrado, Diputada o Diputado o titular de algún ente fiscalizable durante los dos años previos al de su designación.\n\nREFORMADO POR DEC. 585 P.O. 11 EXT. DEL 24 DE MAYO DE 2022."
+    },
+    {
+      "id": "088.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88 › Fracción V",
+      "texto": "V. No haber sido dirigente de un partido político, durante los últimos seis años."
+    },
+    {
+      "id": "088.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88 › Fracción VI",
+      "texto": "VI. No haber sido condenado por delito doloso.\n\nDurante el ejercicio de su cargo no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados de docencia o en asociaciones científicas, artísticas o de beneficencia.\n\nARTÍCULO REFORMADO POR DEC. 585, P. O. 73 BIS DEL 12 DE SEPTIEMBRE DE 2024."
+    }
+  ]
+}

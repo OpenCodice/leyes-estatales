@@ -1,0 +1,36 @@
+{
+  "clave": "116",
+  "etiqueta": "Artículo 116",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPITULO VII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "116.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › párrafo 1",
+      "texto": "El Tribunal Laboral Burocrático es la autoridad jurisdiccional dotada de autonomía en sus resoluciones y competente para conocer de los conflictos que se susciten entre los trabajadores al servicio del Estado y de los municipios, con motivo de las relaciones laborales; de los trabajadores entre sí; de éstos con los sindicatos en los que se encuentren afiliados; y de aquellos que se susciten entre sindicatos."
+    },
+    {
+      "id": "116.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › párrafo 2",
+      "texto": "El Tribunal se integrará por jueces en los términos que determine la ley."
+    },
+    {
+      "id": "116.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › párrafo 3",
+      "texto": "La ley establecerá las normas para su organización y funcionamiento."
+    }
+  ]
+}

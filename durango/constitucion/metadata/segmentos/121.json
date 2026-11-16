@@ -1,0 +1,45 @@
+{
+  "clave": "121",
+  "etiqueta": "Artículo 121",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPITULO VII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "121.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 1",
+      "texto": "Las Juezas y los Jueces serán electos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones estatales ordinarias del año que corresponda, conforme al mismo procedimiento que los magistrados del Poder Judicial."
+    },
+    {
+      "id": "121.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 2",
+      "texto": "Las atribuciones de las Juezas y los Jueces, se precisarán en la ley correspondiente."
+    },
+    {
+      "id": "121.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 3",
+      "texto": "ARTÍCULO REFORMADO POR DEC. 585 P.O. 11 EXT. DEL 24 DE MAYO DE 2022."
+    },
+    {
+      "id": "121.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 4",
+      "texto": "ARTÍCULO REFORMADO POR DEC. 071 P.O. 93 BIS DEL 21 DE NOVIEMBRE DE 2024."
+    }
+  ]
+}

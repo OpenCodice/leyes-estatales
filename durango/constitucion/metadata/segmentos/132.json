@@ -1,0 +1,27 @@
+{
+  "clave": "132",
+  "etiqueta": "Artículo 132",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "132.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › párrafo 1",
+      "texto": "Las personas titulares de los órganos constitucionales autónomos, deberán concurrir al Congreso del Estado a solicitud expresa de éste, para que informen cuando se discuta una ley, se estudie un asunto concerniente a sus respectivos ramos o para que respondan a interpelaciones o preguntas."
+    },
+    {
+      "id": "132.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › párrafo 2",
+      "texto": "REFORMADO POR DEC. 585 P.O. 11 EXT. DEL 24 DE MAYO DE 2022."
+    }
+  ]
+}

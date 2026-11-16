@@ -1,0 +1,36 @@
+{
+  "clave": "156",
+  "etiqueta": "Artículo 156",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "156.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 156 › párrafo 1",
+      "texto": "Los ayuntamientos podrán coordinarse y asociarse para la prestación de los servicios públicos o el ejercicio de las funciones que les correspondan. La asociación con un Municipio de otra entidad deberá contar con la aprobación del Congreso del Estado."
+    },
+    {
+      "id": "156.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 156 › párrafo 2",
+      "texto": "Si un Ayuntamiento lo considera necesario podrá celebrar convenios con el Estado para que éste se haga cargo en forma temporal de algún servicio o se presten o ejerzan coordinadamente por ambos."
+    },
+    {
+      "id": "156.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 156 › párrafo 3",
+      "texto": "El Municipio deberá realizar las funciones o prestar los servicios que el Estado le transfiera o delegue en los términos de esta Constitución, siempre que para ello le asigne los recursos financieros necesarios para su cumplimiento."
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "clave": "014",
+  "etiqueta": "Artículo 14",
+  "titulo": "TÍTULO PRIMERO DE LOS DERECHOS HUMANOS",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "014.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › párrafo 1",
+      "texto": "El proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad, inmediación e igualdad en los términos de la Constitución Política de los Estados Unidos Mexicanos y de los tratados internacionales ratificados por el Estado Mexicano, garantizará los siguientes derechos a imputados y víctimas:"
+    },
+    {
+      "id": "014.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado A",
+      "texto": "A) De la persona imputada:"
+    },
+    {
+      "id": "014.A.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado A › Fracción I",
+      "texto": "I. A que se presuma su inocencia mientras no se declare su responsabilidad mediante sentencia firme."
+    },
+    {
+      "id": "014.A.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado A › Fracción II",
+      "texto": "II. A un recurso judicial efectivo contra cualquier resolución que viole sus derechos. No podrá ser privado de él en ninguna etapa del procedimiento."
+    },
+    {
+      "id": "014.A.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado A › Fracción III",
+      "texto": "III. A una defensa adecuada por abogado, al cual elegirá libremente incluso desde el momento de su detención. Si no quiere o no puede nombrar un abogado después de haber sido requerido para hacerlo el juez le designará un defensor público. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se lo requiera, además que incluya la posibilidad de ser oído públicamente, en condiciones de plena igualdad y a permitirle interrogar a testigos de cargo y de descargo."
+    },
+    {
+      "id": "014.A.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado A › Fracción IV",
+      "texto": "IV. A ser informada, de forma previa, detallada y en su propio idioma, de las acciones formuladas en su contra y de la identidad de la autoridad responsable del procedimiento."
+    },
+    {
+      "id": "014.A.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado A › Fracción V",
+      "texto": "V. Tratándose de miembros de comunidades indígenas o comunidades menonitas se les garantizará el acceso a la jurisdicción del Estado, el respeto a sus costumbres y especificidades culturales, así como a recibir asistencia por intérpretes y defensores con conocimiento de su lengua, usos, costumbres y cultura.\n\nREFORMADO POR DEC. 483 P.O. 56 DE FECHA 15 DE JULIO DE 2021."
+    },
+    {
+      "id": "014.A.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado A › Fracción VI",
+      "texto": "VI. Tratándose de extranjeros se les garantizará el acceso a la asistencia consular de su país."
+    },
+    {
+      "id": "014.A.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado A › Fracción VII",
+      "texto": "VII. Toda persona detenida en flagrancia y tratándose de delitos perseguibles por querella o de aquellos cuya pena media aritmética, incluyendo sus modalidades, no exceda de 3 años podrá solicitar ser llevada sin demora ante un juez, quien decidirá sobre la legalidad de su detención, así como de la imposición de las medidas cautelares a efecto de que obtenga su libertad cuando así proceda."
+    },
+    {
+      "id": "014.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado B",
+      "texto": "B) De la víctima u ofendido:"
+    },
+    {
+      "id": "014.B.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado B › Fracción I",
+      "texto": "I. A recibir asesoría jurídica en todas las etapas del proceso penal."
+    },
+    {
+      "id": "014.B.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado B › Fracción II",
+      "texto": "II. Se le informe tanto de los derechos que le asisten como del desarrollo del proceso penal."
+    },
+    {
+      "id": "014.B.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado B › Fracción III",
+      "texto": "III. A rendir o ampliar sus declaraciones sin ser identificados dentro de la audiencia, teniendo la obligación el juez de resguardar sus datos personales, y si lo solicitan, hacerlos por medios electrónicos."
+    },
+    {
+      "id": "014.B.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado B › Fracción IV",
+      "texto": "IV. Al acceso a la verdad y a una tutela judicial efectiva de sus derechos, la cual incluirá la posibilidad de interrogar a los testigos de cargo y descargo."
+    },
+    {
+      "id": "014.B.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado B › Fracción V",
+      "texto": "V. A coadyuvar con el Ministerio Público, a intervenir en el proceso y a que se les reciba todos los datos o elementos de prueba con los que cuente en los términos establecidos por la ley."
+    },
+    {
+      "id": "014.B.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado B › Fracción VI",
+      "texto": "VI. Al resguardo de su identidad cuando se trate de menores de edad o de víctimas de los delitos de violación, secuestro o trata de personas y cuando a juicio del juzgador sea necesaria su protección."
+    },
+    {
+      "id": "014.B.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Apartado B › Fracción VII",
+      "texto": "VII. A solicitar las medidas cautelares para la protección y restitución de sus derechos."
+    }
+  ]
+}

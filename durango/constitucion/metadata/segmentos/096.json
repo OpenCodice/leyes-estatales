@@ -1,0 +1,45 @@
+{
+  "clave": "096",
+  "etiqueta": "Artículo 96",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "096.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96 › párrafo 1",
+      "texto": "En las faltas temporales de la Gobernadora o el Gobernador del Estado que no excedan de sesenta días, la persona titular de la Secretaría General de Gobierno se hará cargo del despacho del Poder Ejecutivo."
+    },
+    {
+      "id": "096.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96 › párrafo 2",
+      "texto": "Cuando las faltas excedan de dicho plazo, el Congreso del Estado designará Gobernador Provisional, quien lo suplirá hasta el término de la licencia."
+    },
+    {
+      "id": "096.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96 › párrafo 3",
+      "texto": "La Gobernadora o el Gobernador del Estado podrá desempeñar otra comisión o empleo de la Federación, del Estado o de los municipios, por los cuales se disfrute sueldo, con licencia previa del Congreso del Estado, y cesará de sus funciones mientras dure la nueva ocupación."
+    },
+    {
+      "id": "096.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96 › párrafo 4",
+      "texto": "REFORMADO POR DEC. 585 P.O. 11 EXT. DEL 24 DE MAYO DE 2022."
+    }
+  ]
+}

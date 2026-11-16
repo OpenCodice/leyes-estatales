@@ -1,0 +1,27 @@
+{
+  "clave": "025",
+  "etiqueta": "Artículo 25",
+  "titulo": "TÍTULO PRIMERO DE LOS DERECHOS HUMANOS",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "025.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 1",
+      "texto": "El Estado garantizará el derecho a la vivienda digna y decorosa. Para tal efecto, deberá implementar políticas y programas de acceso a la vivienda; desarrollar planes de financiamiento para vivienda de interés social, en colaboración con el Gobierno Federal; y garantizar la dotación de servicios públicos, en coordinación con los municipios."
+    },
+    {
+      "id": "025.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 2",
+      "texto": "REFORMADO POR DEC. 315, P.O. 56 DEL 15 DE JULIO DEL 2021."
+    }
+  ]
+}

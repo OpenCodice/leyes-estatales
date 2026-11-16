@@ -1,0 +1,27 @@
+{
+  "clave": "159",
+  "etiqueta": "Artículo 159",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "159.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 159 › párrafo 1",
+      "texto": "El Presupuesto de Egresos del Estado se determinará con base en resultados y estará sujeto a la evaluación del desempeño de las políticas públicas. Su aplicación se sujetará a un sistema de contabilidad armonizada y devengada."
+    },
+    {
+      "id": "159.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 159 › párrafo 2",
+      "texto": "Los entes públicos adoptarán las normas de contabilidad gubernamental aplicables para el registro, emisión de información financiera y fiscalización de activos, pasivos, ingresos, egresos, deuda y patrimonio, en los términos que dispongan las leyes."
+    }
+  ]
+}

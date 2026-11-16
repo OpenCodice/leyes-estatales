@@ -1,0 +1,27 @@
+{
+  "clave": "044",
+  "etiqueta": "Artículo 44",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "044.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 1",
+      "texto": "La ley establecerá las bases para la creación de un sistema coordinado y concurrente de innovación y desarrollo científico y tecnológico, a fin de impulsar la producción de bienes y servicios de alto valor agregado, que generen empleos de calidad y sean competitivos en el mercado global."
+    },
+    {
+      "id": "044.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 2",
+      "texto": "El Estado instrumentará políticas públicas para propiciar el acceso de las empresas a la tecnología y la inversión en proyectos de formación de capital humano, mediante la integración y vinculación entre sí de las instituciones académicas, los centros de investigación y las organizaciones empresariales."
+    }
+  ]
+}
