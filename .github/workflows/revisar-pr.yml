@@ -13,7 +13,6 @@ permissions:
 
 env:
   EXTRACTOR_REPO: https://github.com/OpenCodice/constitucion-extractor.git
-  ESTADOS: "jalisco:jalisco:jalisco/constitucion cdmx:cdmx:cdmx/constitucion"
 
 jobs:
   validar:
@@ -45,8 +44,9 @@ jobs:
           esac
           BASE="origin/${{ github.base_ref }}"
           rc=0
-          for spec in $ESTADOS; do
-            IFS=: read -r estado perfil dir <<< "$spec"
+          # Cada carpeta {estado}/constitucion se valida con el perfil del mismo nombre.
+          for dir in */constitucion; do
+            estado="${dir%%/*}"; perfil="$estado"
             echo "::group::Validar $estado ($perfil)"
             if PYTHONPATH=/tmp/extractor python -m extractor validar \
                  --out "$GITHUB_WORKSPACE/$dir" --perfil "$perfil" --base "$BASE" \

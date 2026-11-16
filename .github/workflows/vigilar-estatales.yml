@@ -24,8 +24,7 @@ on:
         default: false
       estado:
         description: 'Limitar a un estado (vacío = todos)'
-        type: choice
-        options: ['', jalisco, cdmx]
+        type: string
         default: ''
       pdf_url:
         description: 'URL del PDF (override del resolver; requiere elegir estado)'
@@ -41,18 +40,25 @@ env:
   TIENE_CLAUDE: ${{ secrets.CLAUDE_CODE_OAUTH_TOKEN != '' }}
 
 jobs:
+  planear:
+    runs-on: ubuntu-latest
+    outputs:
+      matriz: ${{ steps.m.outputs.matriz }}
+    steps:
+      - name: Estados con vigilancia automática (del registro del extractor)
+        id: m
+        run: |
+          git clone -q --depth 1 "$EXTRACTOR_REPO" /tmp/extractor
+          echo "matriz=$(python3 /tmp/extractor/scripts/resolver_pdf.py --matriz)" >> "$GITHUB_OUTPUT"
+
   vigilar:
+    needs: planear
     runs-on: ubuntu-latest
     strategy:
       fail-fast: false
+      max-parallel: 8
       matrix:
-        include:
-          - estado: jalisco
-            perfil: jalisco
-            dir: jalisco/constitucion
-          - estado: cdmx
-            perfil: cdmx
-            dir: cdmx/constitucion
+        include: ${{ fromJSON(needs.planear.outputs.matriz) }}
     steps:
       - uses: actions/checkout@v5
         with:
@@ -219,7 +225,7 @@ jobs:
           } >> "$GITHUB_STEP_SUMMARY"
 
   salud:
-    needs: vigilar
+    needs: [planear, vigilar]
     if: always()
     runs-on: ubuntu-latest
     permissions:
@@ -235,11 +241,11 @@ jobs:
         # Casi todas las fallas son de red o de la fuente oficial: se reintenta
         # solo, una vez. Si el reintento también falla, la siguiente vigilancia
         # semanal lo vuelve a intentar.
-        if: (needs.vigilar.result == 'failure') && inputs.reintento != true
+        if: (needs.planear.result == 'failure' || needs.vigilar.result == 'failure') && inputs.reintento != true
         run: gh workflow run vigilar-estatales.yml -R "$GITHUB_REPOSITORY" --ref main -f reintento=true
 
       - name: Dejar constancia si también falló el reintento
-        if: (needs.vigilar.result == 'failure') && inputs.reintento == true
+        if: (needs.planear.result == 'failure' || needs.vigilar.result == 'failure') && inputs.reintento == true
         run: |
           titulo="🚨 Falló: ${{ github.workflow }}"
           url="$GITHUB_SERVER_URL/$GITHUB_REPOSITORY/actions/runs/$GITHUB_RUN_ID"
