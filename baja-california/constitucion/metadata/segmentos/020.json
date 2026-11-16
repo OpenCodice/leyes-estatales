@@ -1,0 +1,36 @@
+{
+  "clave": "020",
+  "etiqueta": "Artículo 20",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "020.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 1",
+      "texto": "El Instituto Estatal Electoral de acuerdo con lo que establezca la Ley, otorgará las constancias de mayoría a las fórmulas de candidatos que la hayan obtenido y hará la asignación de Diputados por el principio de representación proporcional, de acuerdo con el procedimiento que para tal efecto establece el Artículo 15 de esta Constitución y la Ley."
+    },
+    {
+      "id": "020.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 2",
+      "texto": "El otorgamiento de las constancias de mayoría y la asignación de Diputados de representación proporcional que se mencionan en el párrafo anterior, podrán ser impugnadas ante el Tribunal de Justicia Electoral, en los términos que señale la Ley."
+    },
+    {
+      "id": "020.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 3",
+      "texto": "Artículo Reformado"
+    }
+  ]
+}

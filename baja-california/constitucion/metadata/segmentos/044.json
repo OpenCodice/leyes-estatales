@@ -1,0 +1,54 @@
+{
+  "clave": "044",
+  "etiqueta": "Artículo 44",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "044.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 1",
+      "texto": "La Persona Titular del Poder Ejecutivo del Estado, será electa cada seis años, mediante el sufragio universal, libre, secreto, directo, personal e intransferible y entrará a ejercer sus funciones el día primero del mes de septiembre posterior a la elección."
+    },
+    {
+      "id": "044.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 2",
+      "texto": "Párrafo Reformado"
+    },
+    {
+      "id": "044.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 3",
+      "texto": "Es revocable el cargo de Gobernadora o Gobernador del Estado en los términos establecidos en la fracción VII del artículo 12 de esta Constitución."
+    },
+    {
+      "id": "044.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 4",
+      "texto": "Párrafo Adicionado"
+    },
+    {
+      "id": "044.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 5",
+      "texto": "Artículo Reformado"
+    }
+  ]
+}

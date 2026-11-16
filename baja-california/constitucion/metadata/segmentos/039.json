@@ -1,0 +1,45 @@
+{
+  "clave": "039",
+  "etiqueta": "Artículo 39",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "039.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 1",
+      "texto": "El Congreso del Estado contará con sistemas y mecanismos de evaluación de la función legislativa."
+    },
+    {
+      "id": "039.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 2",
+      "texto": "La evaluación de la función legislativa contará con criterios de medición de la eficacia e impacto de los procesos de formación de leyes y decretos, dictaminación de cuentas públicas, gestión en auxilio a sus representados y desarrollo institucional del Poder Legislativo."
+    },
+    {
+      "id": "039.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 3",
+      "texto": "La Ley determinará las bases, instancias, mecanismos de participación ciudadana, criterios y procedimientos necesarios para su cumplimiento."
+    },
+    {
+      "id": "039.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 4",
+      "texto": "Artículo Reformado"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "clave": "003",
+  "etiqueta": "Artículo 3",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "003.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 1",
+      "texto": "La base de la división territorial y de la organización política y administrativa del Estado, es el Municipio Libre."
+    }
+  ]
+}

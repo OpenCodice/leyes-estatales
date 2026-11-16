@@ -1,0 +1,45 @@
+{
+  "clave": "029",
+  "etiqueta": "Artículo 29",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "029.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29 › párrafo 1",
+      "texto": "Las iniciativas de ley o decreto deberán sujetarse a los trámites siguientes:"
+    },
+    {
+      "id": "029.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29 › Fracción I",
+      "texto": "I.- Dictamen de Comisiones;"
+    },
+    {
+      "id": "029.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29 › Fracción II",
+      "texto": "II.- Discusión;"
+    },
+    {
+      "id": "029.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29 › Fracción III",
+      "texto": "III.- Votación."
+    }
+  ]
+}

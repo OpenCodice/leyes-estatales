@@ -1,0 +1,54 @@
+{
+  "clave": "098",
+  "etiqueta": "Artículo 98",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "098.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 1",
+      "texto": "En el Estado las mujeres tienen los mismos derechos civiles y políticos que los hombres; podrán ser electas y tendrán derecho al voto en cualquier elección, siempre que reúnan los requisitos que señale la Ley. El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres, y tiene deberes reforzados de protección con las mujeres, adolescentes, niñas y niños."
+    },
+    {
+      "id": "098.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 2",
+      "texto": "Párrafo Reformado"
+    },
+    {
+      "id": "098.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 3",
+      "texto": "El Estado y los Municipios promoverán el desarrollo integral de la juventud; la Ley establecerá los mecanismos para la protección de sus derechos."
+    },
+    {
+      "id": "098.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 4",
+      "texto": "El Estado y los Municipios fomentarán el acceso universal de toda persona a la conectividad de redes digitales dentro de los bienes del dominio público que a cada ámbito correspondan, desarrollando las acciones que sean necesarias para garantizar el ejercicio de este derecho."
+    },
+    {
+      "id": "098.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 5",
+      "texto": "Artículo Reformado"
+    }
+  ]
+}

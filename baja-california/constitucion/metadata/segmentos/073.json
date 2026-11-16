@@ -1,0 +1,27 @@
+{
+  "clave": "073",
+  "etiqueta": "Artículo 73",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "073.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › párrafo 1",
+      "texto": "La función de Consejero Jurídico del Ejecutivo estará a cargo de la dependencia que para tal efecto establezca la Ley."
+    },
+    {
+      "id": "073.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › párrafo 2",
+      "texto": "Artículo Reformado"
+    }
+  ]
+}

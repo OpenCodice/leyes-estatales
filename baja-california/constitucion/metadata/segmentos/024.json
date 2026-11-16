@@ -1,0 +1,27 @@
+{
+  "clave": "024",
+  "etiqueta": "Artículo 24",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "024.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › párrafo 1",
+      "texto": "Si el día señalado para la instalación del Congreso, no se presentaren todos los Diputados electos; o si una vez instalado no hubiere quórum para la celebración de las sesiones, los que estuvieren presentes compelarán a los ausentes, para que concurran a la próxima sesión, la que no deberá rebasar el término de cinco días a la fecha de la instalación o de la sesión, apercibiéndolos hasta en dos ocasiones, de que en caso de que dejaren de comparecer injustificadamente se llamará a los suplentes. Si estos incurrieren en la misma omisión, se declarará vacante el puesto, obligándose inmediatamente a convocar a elecciones extraordinarias, conforme a la Ley de la materia."
+    },
+    {
+      "id": "024.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › párrafo 2",
+      "texto": "Artículo Reformado"
+    }
+  ]
+}

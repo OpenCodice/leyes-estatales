@@ -1,0 +1,72 @@
+{
+  "clave": "028",
+  "etiqueta": "Artículo 28",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "028.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › párrafo 1",
+      "texto": "La iniciativa de las leyes y decretos corresponde:"
+    },
+    {
+      "id": "028.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › Fracción I",
+      "texto": "I.- A los diputados;"
+    },
+    {
+      "id": "028.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › Fracción II",
+      "texto": "II.- Al Gobernador;"
+    },
+    {
+      "id": "028.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › Fracción III",
+      "texto": "III.- Al Tribunal Superior en asuntos relacionados con la organización y funcionamiento de la administración de Justicia; así como al Tribunal de Justicia Electoral en asuntos inherentes a la materia electoral;"
+    },
+    {
+      "id": "028.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › Fracción IV",
+      "texto": "IV.- A los Ayuntamientos."
+    },
+    {
+      "id": "028.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › Fracción V",
+      "texto": "V.- Al Instituto Estatal Electoral exclusivamente en materia electoral, y"
+    },
+    {
+      "id": "028.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › Fracción VI",
+      "texto": "VI.- A los ciudadanos residentes en el Estado, a las Organizaciones de la Sociedad Civil del Estado en los asuntos relativos al objeto para el cual fueron constituidas y a las Instituciones de Educación Superior del Estado en los términos que establezca la Ley.\n\nArtículo Reformado"
+    }
+  ]
+}

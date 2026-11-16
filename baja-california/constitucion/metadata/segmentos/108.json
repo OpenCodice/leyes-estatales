@@ -1,0 +1,27 @@
+{
+  "clave": "108",
+  "etiqueta": "Artículo 108",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "108.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › párrafo 1",
+      "texto": "Nadie podrá entrar en el desempeño de ningún cargo o empleo del Estado, sin prestar previamente la protesta de Ley, la cual determinará la fórmula de la protesta y la autoridad ante quien deba hacerse."
+    },
+    {
+      "id": "108.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › párrafo 2",
+      "texto": "Los funcionarios que entren a ejercer su encargo después del día señalado por esta Constitución, sólo durarán en sus funciones el tiempo que les faltare para cumplir el período correspondiente."
+    }
+  ]
+}
