@@ -1,0 +1,36 @@
+{
+  "clave": "031",
+  "etiqueta": "Artículo 31",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "031.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › párrafo 1",
+      "texto": "Pierden la calidad de ciudadanas y ciudadanos del Estado:"
+    },
+    {
+      "id": "031.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › Fracción I",
+      "texto": "I. Los que por cualquier causa dejen de ser ciudadanas mexicanas y ciudadanos mexicanos; y"
+    },
+    {
+      "id": "031.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › Fracción II",
+      "texto": "II. Las ciudadanas y los ciudadanos electos para cargos públicos que se nieguen a desempeñarlos sin causa justificada.\n\nLa Ley determinará los términos y procedimientos para la declaratoria de la pérdida de la ciudadanía y la manera de hacer la rehabilitación."
+    }
+  ]
+}

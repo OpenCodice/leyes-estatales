@@ -1,0 +1,27 @@
+{
+  "clave": "086",
+  "etiqueta": "Artículo 86",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "086.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › párrafo 1",
+      "texto": "El Ministerio Público y las instituciones policiales se coordinarán en términos de la Ley General del Sistema Nacional de Seguridad Pública, la Ley del Sistema Nacional de Investigación e Inteligencia en Materia de Seguridad Pública, así como de las Leyes locales en la materia."
+    },
+    {
+      "id": "086.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › párrafo 2",
+      "texto": "El Ministerio Público y las instituciones policiales, en el ejercicio de sus funciones, prestarán el auxilio que les soliciten los órganos del poder público y los órganos constitucionales autónomos."
+    }
+  ]
+}

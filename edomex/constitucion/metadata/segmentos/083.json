@@ -1,0 +1,45 @@
+{
+  "clave": "083",
+  "etiqueta": "Artículo 83",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "083.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › párrafo 1",
+      "texto": "El Ministerio Público se integra en una Fiscalía General de Justicia, órgano público autónomo, dotado de personalidad jurídica y patrimonio propios con autonomía presupuestal, técnica y de gestión, así como con capacidad para decidir sobre el ejercicio de su presupuesto, que tiene como misión fundamental garantizar el acceso a la justicia de todas las personas, priorizando la protección de los derechos de las mujeres, adolescentes, niñas y niños, con perspectiva de género y una visión de igualdad sustantiva en los términos que establece la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las demás leyes aplicables, la cual estará a cargo de un Fiscal General."
+    },
+    {
+      "id": "083.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › párrafo 2",
+      "texto": "La ley establecerá las bases para la formación y profesionalización de las personas servidoras públicas de la Fiscalía General de Justicia, así como para el desarrollo del servicio de carrera, el cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, perspectiva de género y respeto a los derechos humanos."
+    },
+    {
+      "id": "083.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › párrafo 3",
+      "texto": "Las personas servidoras públicas de la Fiscalía General del Estado de México, se regirán por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez, perspectiva de género y respeto a los derechos humanos."
+    },
+    {
+      "id": "083.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › párrafo 4",
+      "texto": "Para proteger el derecho de las mujeres, adolescentes, niñas y niños a una vida libre de violencias, la Fiscalía General de Justicia contará con una Fiscalía Especializada en Atención de Delitos por Razón de Género cometidos contra Mujeres, Niñas Niños y Adolescentes, con perspectiva de género."
+    }
+  ]
+}

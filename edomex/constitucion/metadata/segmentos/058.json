@@ -1,0 +1,72 @@
+{
+  "clave": "058",
+  "etiqueta": "Artículo 58",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "058.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 1",
+      "texto": "Las leyes y decretos se publicarán en la siguiente forma:"
+    },
+    {
+      "id": "058.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 2",
+      "texto": "N.N. Gobernadora o Gobernador (aquí el carácter que tenga, si es constitucional, interina, interino, sustituta o sustituto) del Estado Libre y Soberano de México, a sus habitantes, sabed: Que la Legislatura del Estado ha tenido a bien aprobar lo siguiente:"
+    },
+    {
+      "id": "058.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 3",
+      "texto": "La (número ordinal que corresponda) Legislatura del Estado de México decreta:"
+    },
+    {
+      "id": "058.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 4",
+      "texto": "(El texto de la ley o decreto)."
+    },
+    {
+      "id": "058.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 5",
+      "texto": "Lo tendrá entendido la Gobernadora o el Gobernador del Estado, haciendo que se publique y se cumpla. (Fecha y rúbricas de la Presidenta o Presidente y Secretarias o Secretarios)."
+    },
+    {
+      "id": "058.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 6",
+      "texto": "Por tanto, mando se publique, circule, observe y se le dé el debido cumplimiento."
+    },
+    {
+      "id": "058.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 7",
+      "texto": "(Fecha y rúbricas de la Gobernadora o del Gobernador y de la Secretaria o del Secretario General de Gobierno) (La exposición de motivos que originó su expedición y el dictamen legislativo correspondiente)."
+    }
+  ]
+}

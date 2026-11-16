@@ -1,0 +1,36 @@
+{
+  "clave": "075",
+  "etiqueta": "Artículo 75",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "075.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › párrafo 1",
+      "texto": "La Gobernadora o el Gobernador del Estado rendirá la protesta constitucional ante la Legislatura o ante la Diputación Permanente en los recesos de aquélla."
+    },
+    {
+      "id": "075.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › párrafo 2",
+      "texto": "Si por cualquier circunstancia la Gobernadora o el Gobernador no pudiere rendir la protesta en los términos del párrafo anterior, lo hará de inmediato ante la Directiva de la Legislatura."
+    },
+    {
+      "id": "075.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › párrafo 3",
+      "texto": "En caso de que la Gobernadora o el Gobernador no pudiere rendir la protesta ante la Legislatura, la Diputación Permanente o su Directiva, lo hará de inmediato ante la Presidenta o el Presidente del Tribunal Superior de Justicia."
+    }
+  ]
+}

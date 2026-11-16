@@ -1,0 +1,36 @@
+{
+  "clave": "114",
+  "etiqueta": "Artículo 114",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "114.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 › párrafo 1",
+      "texto": "Los ayuntamientos serán electos mediante sufragio universal, libre, secreto y directo."
+    },
+    {
+      "id": "114.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 › párrafo 2",
+      "texto": "La ley de la materia determinará la fecha de la elección. Las elecciones de ayuntamientos serán computadas y declaradas válidas por el órgano electoral municipal, mismo que otorgará la constancia de mayoría de las y los integrantes de la planilla que hubiere obtenido el mayor número de votos en términos de la ley de la materia."
+    },
+    {
+      "id": "114.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 › párrafo 3",
+      "texto": "El cargo de miembro del ayuntamiento no es renunciable, sino por justa causa que calificará el ayuntamiento ante el que se presentará la renuncia y quien conocerá también de las licencias de sus miembros."
+    }
+  ]
+}

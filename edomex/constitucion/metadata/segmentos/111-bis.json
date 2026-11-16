@@ -1,0 +1,36 @@
+{
+  "clave": "111-bis",
+  "etiqueta": "Artículo 111 Bis",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "111-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 Bis › párrafo 1",
+      "texto": "El Pleno del Órgano de Administración Judicial se integrará por cinco personas que durarán en su encargo seis años improrrogables, de las cuales una será designada por el Poder Ejecutivo, por conducto de la o el Gobernador; uno por la Legislatura mediante votación calificada de dos tercios de sus integrantes presentes; y tres por el Pleno del Tribunal Superior de Justicia, mediante votación calificada de dos tercios de sus integrantes presentes. La presidencia del Órgano durará dos años y será rotatoria, en términos de lo que establezcan las leyes."
+    },
+    {
+      "id": "111-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 Bis › párrafo 2",
+      "texto": "Quienes integren el Pleno del Órgano de Administración Judicial deberán ser mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos; contar con experiencia profesional mínima de cinco años; y contar con título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier título profesional relacionado con las actividades del Órgano de Administración Judicial, con antigüedad mínima de cinco años; y no estar inhabilitados para desempeñar un empleo, cargo o comisión en el servicio público, ni haber sido condenados por delito doloso con sanción privativa de la libertad, o delito de violencia política contra las mujeres en razón de género, o por delitos de violencia familiar, contra la libertad sexual o de violencia de género, así como no estar inscrita o inscrito en el Registro Nacional de Obligaciones Alimentarias."
+    },
+    {
+      "id": "111-bis.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 Bis › párrafo 3",
+      "texto": "Durante su encargo, las personas integrantes del Pleno del Órgano de Administración sólo podrán ser removidas en los términos previstos en el Título Séptimo de esta Constitución. En caso de defunción, renuncia o ausencia definitiva de alguna de las personas integrantes, la autoridad que le designó hará un nuevo nombramiento por el tiempo que reste al periodo de designación respectivo."
+    }
+  ]
+}

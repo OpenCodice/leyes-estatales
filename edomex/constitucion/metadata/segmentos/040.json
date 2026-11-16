@@ -1,0 +1,135 @@
+{
+  "clave": "040",
+  "etiqueta": "Artículo 40",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "040.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 1",
+      "texto": "Para ser diputada o diputado, propietario o suplente, se requiere:"
+    },
+    {
+      "id": "040.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › Fracción I",
+      "texto": "I. Ser ciudadana o ciudadano del Estado en pleno ejercicio de sus derechos;"
+    },
+    {
+      "id": "040.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › Fracción II",
+      "texto": "II. Ser mexiquense con residencia efectiva en su territorio no menor a un año o vecino del mismo, con residencia efectiva en su territorio no menor a tres años, anteriores al día de la elección;"
+    },
+    {
+      "id": "040.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › Fracción III",
+      "texto": "III. No haber sido condenado por sentencia ejecutoriada por delito intencional que merezca pena corporal;"
+    },
+    {
+      "id": "040.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › Fracción IV",
+      "texto": "IV. Tener 21 años cumplidos el día de la elección;"
+    },
+    {
+      "id": "040.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › Fracción V",
+      "texto": "V. No ser ministro de algún culto religioso, a menos de que se separe formal, material y definitivamente de su ministerio cuando menos 5 años antes del día de la elección;"
+    },
+    {
+      "id": "040.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › Fracción VI",
+      "texto": "VI. No ser consejera o consejero presidente o consejera o consejero electoral, en los consejos distritales o municipales del Instituto Electoral del Estado de México, salvo que se hubiera separado del cargo dos años antes del día de la elección;"
+    },
+    {
+      "id": "040.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › Fracción VII",
+      "texto": "VII. No ser diputada o diputado local, diputada o diputado federal o senadora o senador en ejercicio;"
+    },
+    {
+      "id": "040.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › Fracción VIII",
+      "texto": "VIII. No ser jueza o juez, magistrada o magistrado del Tribunal Superior de Justicia o del Tribunal de Disciplina Judicial, integrante del Órgano de Administración Judicial, o servidora o servidor público federal, estatal o municipal;"
+    },
+    {
+      "id": "040.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › Fracción IX",
+      "texto": "IX. No ser militar o jefe de las fuerzas de seguridad pública del Estado o de los municipios en ejercicio de mando en el territorio del distrito o circunscripción por el que se pretenda postularse."
+    },
+    {
+      "id": "040.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › Fracción X",
+      "texto": "X. No estar condenada o condenado por sentencia ejecutoriada por el delito de violencia política contra las mujeres en razón de género;"
+    },
+    {
+      "id": "040.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › Fracción XI",
+      "texto": "XI. No estar inscrito en el Registro de Deudores Alimentarios Morosos en el Estado, ni en otra entidad federativa;"
+    },
+    {
+      "id": "040.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › Fracción XII",
+      "texto": "XII. No estar condenada o condenado por sentencia ejecutoriada por delitos de violencia familiar, contra la libertad sexual o de violencia de género, y"
+    },
+    {
+      "id": "040.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › Fracción XIII",
+      "texto": "XIII. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.\n\nPara efectos de las restricciones previstas en este artículo, la autoridad electoral competente deberá valorar la existencia de los vínculos referidos mediante criterios objetivos, documentales y verificables, garantizando en todo momento los principios de certeza jurídica, legalidad, igualdad y no discriminación.\n\nEn el caso a que se refieren las fracciones VII, VIII y IX podrán postularse si se separan del cargo, por lo menos, veinticuatro horas antes del inicio de las campañas, conforme al calendario electoral vigente.\n\nLa Gobernadora o el Gobernador del Estado, durante todo el período del ejercicio, no podrá ser electo diputado o diputada."
+    }
+  ]
+}
