@@ -102,7 +102,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 7 › párrafo 11",
-      "texto": "Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa, arresto hasta por treinta y seis horas o en trabajo a favor de la comunidad;"
+      "texto": "Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa, arresto hasta por treinta y seis horas o en trabajo a favor de la comunidad; pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas."
     },
     {
       "id": "007.p12",
@@ -111,7 +111,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 7 › párrafo 12",
-      "texto": "pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas."
+      "texto": "Si el infractor de los reglamentos gubernativos y de policía fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor al importe de su jornal o salario de un día."
     },
     {
       "id": "007.p13",
@@ -120,7 +120,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 7 › párrafo 13",
-      "texto": "Si el infractor de los reglamentos gubernativos y de policía fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor al importe de su jornal o salario de un día."
+      "texto": "Tratándose de trabajadores no asalariados, la multa que se imponga por infracción de los reglamentos gubernativos y de policía, no excederá del equivalente a un día de su ingreso."
     },
     {
       "id": "007.p14",
@@ -129,7 +129,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 7 › párrafo 14",
-      "texto": "Tratándose de trabajadores no asalariados, la multa que se imponga por infracción de los reglamentos gubernativos y de policía, no excederá del equivalente a un día de su ingreso."
+      "texto": "La multa que se imponga al infractor menor de dieciocho años que dependa económicamente de otra persona estará sujeta a las limitaciones aplicables a ésta."
     },
     {
       "id": "007.p15",
@@ -138,7 +138,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 7 › párrafo 15",
-      "texto": "La multa que se imponga al infractor menor de dieciocho años que dependa económicamente de otra persona estará sujeta a las limitaciones aplicables a ésta."
+      "texto": "El arresto comenzará a computarse desde el momento mismo de la detención."
     },
     {
       "id": "007.p16",
@@ -147,7 +147,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 7 › párrafo 16",
-      "texto": "El arresto comenzará a computarse desde el momento mismo de la detención."
+      "texto": "Quien efectúe la detención está obligado a poner al infractor, inmediatamente y sin que pueda exceder en ningún caso del plazo de una hora, a disposición de la autoridad competente y ésta, a fijar la sanción alternativa dentro del plazo de una hora."
     },
     {
       "id": "007.p17",
@@ -156,15 +156,6 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 7 › párrafo 17",
-      "texto": "Quien efectúe la detención está obligado a poner al infractor, inmediatamente y sin que pueda exceder en ningún caso del plazo de una hora, a disposición de la autoridad competente y ésta, a fijar la sanción alternativa dentro del plazo de una hora."
-    },
-    {
-      "id": "007.p18",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "",
-      "fraccion": "",
-      "ruta": "Artículo 7 › párrafo 18",
       "texto": "Las medidas de corrección y las sanciones acordadas por las autoridades administrativas se impondrán siempre con audiencia de la persona a quien se apliquen, salvo rebeldía del infractor, debiendo en ambos casos comunicarse por escrito, precisando los medios y fundamentos de hecho y de derecho de las mismas."
     }
   ]
