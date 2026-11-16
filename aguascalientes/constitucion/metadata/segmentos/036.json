@@ -1,0 +1,27 @@
+{
+  "clave": "036",
+  "etiqueta": "Artículo 36º",
+  "titulo": "",
+  "capitulo": "CAPITULO DECIMO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "036.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 13 DE AGOSTO DE 1950)"
+    },
+    {
+      "id": "036.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36º › párrafo 2",
+      "texto": "El ejercicio del Poder Ejecutivo se deposita en un sólo individuo que se denominará Gobernador del Estado."
+    }
+  ]
+}

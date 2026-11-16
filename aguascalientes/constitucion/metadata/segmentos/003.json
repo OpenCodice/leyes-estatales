@@ -1,0 +1,36 @@
+{
+  "clave": "003",
+  "etiqueta": "Artículo 3º",
+  "titulo": "",
+  "capitulo": "CAPITULO PRIMERO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "003.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 6 DE MAYO DE 2013)"
+    },
+    {
+      "id": "003.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3º › párrafo 2",
+      "texto": "El Poder Público solamente puede actuar en uso de facultades expresas mientras que los particulares pueden hacer todo lo que las Leyes federales y locales no les prohíban. La violación de este principio dará lugar a las consecuencias jurídicas que determine la ley."
+    },
+    {
+      "id": "003.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3º › párrafo 3",
+      "texto": "En el cumplimiento de la ley, si la autoridad requiere afectar o intervenir un derecho, deberá observar los principios de justicia, racionalidad, necesidad, idoneidad y proporcionalidad para hacerlo."
+    }
+  ]
+}

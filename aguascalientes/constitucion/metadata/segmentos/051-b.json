@@ -1,0 +1,27 @@
+{
+  "clave": "051-b",
+  "etiqueta": "Artículo 51º B",
+  "titulo": "",
+  "capitulo": "CAPITULO DUODECIMO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "051-b.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51º B › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)"
+    },
+    {
+      "id": "051-b.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51º B › párrafo 2",
+      "texto": "El Poder Judicial está facultado para administrar con autonomía su presupuesto, y destinará, en renglones separados, los recursos para los tribunales, juzgados y órganos que lo integran, debiendo rendir cuentas anualmente al Congreso del Estado acerca de su ejercicio."
+    }
+  ]
+}

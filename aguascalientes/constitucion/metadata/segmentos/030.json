@@ -1,0 +1,81 @@
+{
+  "clave": "030",
+  "etiqueta": "Artículo 30º",
+  "titulo": "",
+  "capitulo": "CAPITULO NOVENO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "030.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 13 DE AGOSTO DE 1950)"
+    },
+    {
+      "id": "030.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30º › párrafo 2",
+      "texto": "La iniciativa de las leyes corresponde:"
+    },
+    {
+      "id": "030.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30º › párrafo 3",
+      "texto": "(REFORMADA, P.O. 29 DE ENERO DE 2018)"
+    },
+    {
+      "id": "030.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30º › Fracción I",
+      "texto": "I.- A los Diputados al Congreso del Estado;\n\n(REFORMADA, P.O. 29 DE ENERO DE 2018)"
+    },
+    {
+      "id": "030.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30º › Fracción II",
+      "texto": "II.- Al Gobernador del Estado;\n\n(REFORMADA, P.O. 29 DE ENERO DE 2018)"
+    },
+    {
+      "id": "030.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30º › Fracción III",
+      "texto": "III.- Al Supremo Tribunal de Justicia, en asuntos de su ramo;\n\n(REFORMADA, P.O. 29 DE ENERO DE 2018)"
+    },
+    {
+      "id": "030.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30º › Fracción IV",
+      "texto": "IV.- A los Ayuntamientos, en los asuntos de su competencia; y\n\n(ADICIONADA, P.O. 29 DE ENERO DE 2018)"
+    },
+    {
+      "id": "030.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30º › Fracción V",
+      "texto": "V.- A los ciudadanos que en términos de esta Constitución y la ley de la materia, presenten una Iniciativa Ciudadana."
+    }
+  ]
+}

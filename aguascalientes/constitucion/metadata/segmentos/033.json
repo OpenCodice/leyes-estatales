@@ -1,0 +1,27 @@
+{
+  "clave": "033",
+  "etiqueta": "Artículo 33º",
+  "titulo": "",
+  "capitulo": "CAPITULO NOVENO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "033.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 8 DE JULIO DE 1973)"
+    },
+    {
+      "id": "033.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33º › párrafo 2",
+      "texto": "La iniciativa que sea desechada por el Congreso, no podrá volver a presentarse sino hasta el siguiente período ordinario."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "085",
+  "etiqueta": "Artículo 85º",
+  "titulo": "",
+  "capitulo": "CAPITULO DECIMOCTAVO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "085.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85º › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)"
+    },
+    {
+      "id": "085.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85º › párrafo 2",
+      "texto": "Ningún individuo deberá desempeñar a la vez dos cargos de elección popular, pero el nombrado puede elegir entre ambos, el que quiera desempeñar."
+    },
+    {
+      "id": "085.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85º › párrafo 3",
+      "texto": "Tampoco podrán reunirse en una sola persona dos o más empleos publicos por los que se disfrute sueldo, exceptuando los del Ramo de Instrucción."
+    }
+  ]
+}

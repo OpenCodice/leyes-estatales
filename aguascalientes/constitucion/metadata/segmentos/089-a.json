@@ -1,0 +1,27 @@
+{
+  "clave": "089-a",
+  "etiqueta": "Artículo 89º A",
+  "titulo": "",
+  "capitulo": "CAPITULO DECIMOCTAVO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "089-a.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89º A › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 11 DE JUNIO DE 2018)"
+    },
+    {
+      "id": "089-a.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89º A › párrafo 2",
+      "texto": "El diseño, ejecución, seguimiento y evaluación de las políticas implementadas por el Estado y los Municipios deberán garantizar el respeto a los principios de igualdad, equidad, igualdad sustantiva y paridad, previstos en la Ley."
+    }
+  ]
+}

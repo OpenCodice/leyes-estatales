@@ -1,0 +1,72 @@
+{
+  "clave": "002-a",
+  "etiqueta": "Artículo 2º A",
+  "titulo": "",
+  "capitulo": "CAPITULO PRIMERO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "002-a.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2º A › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 4 DE OCTUBRE DE 2021)"
+    },
+    {
+      "id": "002-a.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2º A › párrafo 2",
+      "texto": "El Estado de Aguascalientes reconoce y comparte la composición pluricultural, pluriétnica y plurilingüe de la Nación Mexicana. En tal tenor, esta Constitución asume a plenitud todos los derechos, prerrogativas y obligaciones de los pueblos y comunidades indígenas, así como las obligaciones de las instituciones públicas establecidas en la Constitución Federal y Tratados Internaciones (sic) celebrados por el Ejecutivo de la Unión con aprobación del Senado."
+    },
+    {
+      "id": "002-a.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2º A › párrafo 3",
+      "texto": "Las comunidades indígenas procedentes de otros Estados de la República y que residan temporal o permanentemente dentro del territorio del Estado de Aguascalientes quedan protegidos por los derechos señalados en esta Constitución y la ley local respectiva."
+    },
+    {
+      "id": "002-a.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2º A › párrafo 4",
+      "texto": "La conciencia de la identidad indígena será criterio fundamental para determinar a quienes aplican las disposiciones que sobre pueblos indígenas se establezcan en esta Constitución y leyes de la materia."
+    },
+    {
+      "id": "002-a.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2º A › párrafo 5",
+      "texto": "El Poder Ejecutivo, el Poder Judicial, el Poder Legislativo y los Ayuntamientos del Estado, en el ámbito de sus respectivas competencias, tienen a su cargo la salvaguarda de los derechos colectivos aquí señalados, a fin de asegurar su respeto y aplicación de la ley a favor de los pueblos y comunidades indígenas que se encuentren en el Estado de Aguascalientes."
+    },
+    {
+      "id": "002-a.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2º A › párrafo 6",
+      "texto": "Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación, en los términos del Artículo 2o de la Constitución Federal. Lo cual será efectivo, una vez que su permanencia en el Estado sea reconocida como tal por el Instituto Nacional de Pueblos Indígenas o la autoridad federal competente."
+    },
+    {
+      "id": "002-a.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2º A › párrafo 7",
+      "texto": "Para promover la igualdad de oportunidades de los indígenas y eliminar cualquier práctica discriminatoria, el Estado y los municipios establecerán las instituciones y las políticas públicas requeridas para garantizar la vigencia de los derechos de los indígenas y el desarrollo integral de sus pueblos y comunidades, las cuales tendrán que ser diseñadas y operadas conjuntamente con ellos, en los términos del artículo segundo constitucional y la ley de la materia."
+    }
+  ]
+}
