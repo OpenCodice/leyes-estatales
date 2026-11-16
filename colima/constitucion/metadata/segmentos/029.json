@@ -1,0 +1,45 @@
+{
+  "clave": "029",
+  "etiqueta": "Artículo 29º",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "029.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29º › párrafo 1",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "029.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29º › párrafo 2",
+      "texto": "El Congreso renovará sus integrantes cada tres años, adoptando el número progresivo que le corresponda y la denominación oficial de Legislatura, se instalará el día primero de octubre del año de la elección de las y los Diputados de la nueva Legislatura."
+    },
+    {
+      "id": "029.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29º › párrafo 3",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "029.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29º › párrafo 4",
+      "texto": "Reunidos el día antes indicado y en caso de no haber quórum, las y los diputados presentes compelerán a los faltantes para que asistan dentro de los cinco días siguientes, advertidos que, de no hacerlo, se entenderá por este solo hecho que no aceptan su cargo, llamándose desde luego a sus suplentes, quienes deberán presentarse dentro de un plazo igual, y si tampoco lo hacen, se declarara vacante el puesto y se convocará a nuevas elecciones. En el caso de diputaciones de representación proporcional, se procederá en los términos del artículo 24, segundo párrafo, de esta Constitución."
+    }
+  ]
+}

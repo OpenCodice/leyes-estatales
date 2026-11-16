@@ -1,0 +1,54 @@
+{
+  "clave": "052",
+  "etiqueta": "Artículo 52º",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "052.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52º › párrafo 1",
+      "texto": "(REFORMADO DECRETO 113, P.O. 57, 03 AGOSTO 2019)"
+    },
+    {
+      "id": "052.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52º › párrafo 2",
+      "texto": "La Gobernadora o Gobernador será elegido popular y directamente y entrará en ejercicio de sus funciones el día primero de noviembre del año de su elección;"
+    },
+    {
+      "id": "052.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52º › párrafo 3",
+      "texto": "durará en su encargo seis años y no podrá volver a ser electo."
+    },
+    {
+      "id": "052.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52º › párrafo 4",
+      "texto": "(REFORMADO DECRETO 113, P.O. 57, 03 AGOSTO 2019)"
+    },
+    {
+      "id": "052.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52º › párrafo 5",
+      "texto": "La Gobernadora o Gobernador podrá ser removido de su cargo a través del procedimiento de revocación de mandato, en los términos de esta Constitución y leyes aplicables, independientemente de las responsabilidades en las que pudiera haber incurrido durante su encargo."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "clave": "027",
+  "etiqueta": "Artículo 27º",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "027.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27º › párrafo 1",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "027.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27º › párrafo 2",
+      "texto": "El cargo de diputada y diputado es incompatible con cualquier comisión o empleo del gobierno Federal o del Estado por los cuales se disfrute sueldo, salvo que la comisión de empleo sea del ramo de educación pública. En consecuencia, las diputadas y los diputados propietarios desde el día de su elección hasta el día en que concluya su cargo, así como las y los suplentes que estén en ejercicio de sus funciones, no podrán aceptar tal empleo o comisión sin previa licencia del Congreso."
+    },
+    {
+      "id": "027.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27º › párrafo 3",
+      "texto": "Una vez obtenida esta, se separarán de sus funciones por todo el tiempo que dure la comisión o el empleo que se le confiera, si estos son del Estado, y de una manera permanente si el empleo o la comisión es federal."
+    },
+    {
+      "id": "027.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27º › párrafo 4",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "027.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27º › párrafo 5",
+      "texto": "El cargo de diputada y diputado es renunciable por causa que calificará el Congreso y por ningún motivo será gratuito."
+    }
+  ]
+}

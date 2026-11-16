@@ -1,0 +1,81 @@
+{
+  "clave": "008",
+  "etiqueta": "Artículo 8º",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "008.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8º › párrafo 1",
+      "texto": "(REFORMADO DECRETO 9, P.O. 90,24 NOVIEMBRE 2021)"
+    },
+    {
+      "id": "008.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8º › Apartado A",
+      "texto": "A. Los tribunales del Estado garantizarán el derecho de toda persona a la tutela jurisdiccional efectiva y que se le administre justicia de manera pronta, completa, imparcial y gratuita, en los plazos, términos y modalidades que fijen los ordenamientos jurídicos aplicables."
+    },
+    {
+      "id": "008.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 8º › Apartado A › párrafo 2",
+      "texto": "Los tribunales se rigen por el principio de independencia judicial y se encuentran dotados de autonomía y plena jurisdicción para emitir y ejecutar sus resoluciones."
+    },
+    {
+      "id": "008.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 8º › Apartado A › párrafo 3",
+      "texto": "Sus integrantes tienen reconocidas las garantías para el ejercicio, regularidad y seguridad de su actividad, con apego a la Constitución Federal, esta Constitución, los principios básicos relativos a la independencia de la judicatura y las leyes."
+    },
+    {
+      "id": "008.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8º › Apartado B",
+      "texto": "B. En el Estado de Colima el proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad, inmediación y demás bases y lineamientos establecidos en la Constitución Federal."
+    },
+    {
+      "id": "008.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 8º › Apartado B › párrafo 4",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "008.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 8º › Apartado B › párrafo 5",
+      "texto": "En todo proceso del orden penal, la persona imputada, víctima y la ofendida gozarán de los derechos fundamentales y garantías para hacerlos efectivos que les otorgarán la Constitución Federal, los tratados internacionales de que el Estado Mexicano sea parte, esta Constitución y las leyes."
+    },
+    {
+      "id": "008.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8º › Apartado C",
+      "texto": "C. El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, el trabajo, la capacitación para el mismo, la educación, la salud y el deporte, como medio para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "clave": "007",
+  "etiqueta": "Artículo 7º",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º › párrafo 1",
+      "texto": "(REFORMADO DECRETO 113, P.O. 57, 03 AGOSTO 2019)"
+    },
+    {
+      "id": "007.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º › párrafo 2",
+      "texto": "Toda la ciudadanía tiene el derecho y la libertad de participar en la dirección de los asuntos públicos, de modo directo o por medio de representantes libremente elegidos, en condiciones de igualdad, libre de todo tipo de violencia y discriminación, en los términos que señale la ley."
+    },
+    {
+      "id": "007.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º › párrafo 3",
+      "texto": "(REFORMADO, DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "007.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º › párrafo 4",
+      "texto": "Este derecho incluye el de votar y ser votada en elecciones periódicas y auténticas, mediante sufragio universal, igual y secreto, que garantice la libre expresión de la voluntad del electorado, así como el de tener acceso, en condiciones generales de igualdad, a las funciones públicas en el Estado, siempre que se reúnan los requisitos que establezcan esta Constitución y las leyes de la materia."
+    },
+    {
+      "id": "007.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º › párrafo 5",
+      "texto": "(REFORMADO, DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "007.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º › párrafo 6",
+      "texto": "La participación de la ciudadanía en la formación, ejecución, evaluación y control de la gestión pública es un medio necesario para lograr su pleno desarrollo, tanto individual como colectivo. Es obligación del Estado y deber de la sociedad promover la generación de condiciones favorables para su ejercicio."
+    },
+    {
+      "id": "007.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º › párrafo 7",
+      "texto": "(REFORMADO, DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "007.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º › párrafo 8",
+      "texto": "La ciudadanía tiene derecho a solicitar la revocación del mandato de la Gobernadora o Gobernador Constitucional del Estado y sus resultados serán obligatorios, en la forma y términos que señala la ley."
+    }
+  ]
+}

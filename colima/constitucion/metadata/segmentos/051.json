@@ -1,0 +1,117 @@
+{
+  "clave": "051",
+  "etiqueta": "Artículo 51º",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "051.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51º › párrafo 1",
+      "texto": "(REFORMADO DECRETO 113, P.O. 57, 03 AGOSTO 2019)"
+    },
+    {
+      "id": "051.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51º › párrafo 2",
+      "texto": "Para ser Gobernadora o Gobernador se requiere:"
+    },
+    {
+      "id": "051.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51º › Fracción I",
+      "texto": "I. Ser colimense por nacimiento con residencia inmediata anterior al día de la elección de cinco años ininterrumpidos en el Estado; o ser hija o hijo de padre o madre mexicanos y haber residido en el Estado al menos durante doce años anteriores al día de la elección;"
+    },
+    {
+      "id": "051.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51º › Fracción II",
+      "texto": "II. Tener por lo menos treinta años cumplidos al día de la elección;\n\n(REFORMADA DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "051.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51º › Fracción III",
+      "texto": "III. Estar en pleno goce de sus derechos, con inscripción en la lista nominal de electores, y no poseer otra nacionalidad;"
+    },
+    {
+      "id": "051.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51º › Fracción IV",
+      "texto": "IV. Tener un modo honesto de vivir;\n\n(REFORMADO DECRETO 113, P.O. 57, 03 AGOSTO 2019)"
+    },
+    {
+      "id": "051.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51º › Fracción V",
+      "texto": "V. No ser Ministra o Ministro de algún culto religioso;\n\n(REFORMADA DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "051.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51º › Fracción VI",
+      "texto": "VI. No estar en servicio activo de las Fuerzas Armadas y de los cuerpos de seguridad pública, a menos que se separe de la función por lo menos un día antes del inicio del registro de candidaturas.\n\n(REFORMADA DECRETO NO. 318, P.O. 51, SUPL. 11, 30 MAYO 2026)"
+    },
+    {
+      "id": "051.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51º › Fracción VII",
+      "texto": "VII. No ocupar la titularidad de una secretaría o subsecretaría de la Administración Pública, de la Consejería Jurídica, de la Fiscalía General, Magistratura del Tribunal Superior de Justicia o Presidencia Municipal, a menos que se separe del cargo por lo menos un día antes del inicio del registro de candidaturas;\n\n(REFORMADO DECRETO 113, P.O. 57, 03 AGOSTO 2019)"
+    },
+    {
+      "id": "051.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51º › Fracción VIII",
+      "texto": "VIII. No haberse desempeñado como Gobernadora o Gobernador del Estado de Colima electo popularmente, o de otra entidad federativa, ni como Jefa o Jefe de Gobierno de la Ciudad de México, o haber ejercido cualquier otra atribución relacionada con las mismas funciones.\n\n(ADICIONADA DECRETO NO. 318, P.O. 51, SUPL. 11, 30 MAYO 2026)"
+    },
+    {
+      "id": "051.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51º › Fracción IX",
+      "texto": "IX. No estar comprendido en alguno de los impedimentos previstos en el artículo 54 de esta Constitución; y\n\n(ADICIONADA DECRETO NO. 318, P.O. 51, SUPL. 11, 30 MAYO 2026)\n\n[N. DE. E. LA PRESENTE FRACCIÓN SERÁ APLICABLE A PARTIR DEL PROCESO ELECTORAL 2030]"
+    },
+    {
+      "id": "051.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51º › Fracción X",
+      "texto": "X. No tener o haber tenido en los últimos tres años anteriores al día de la elección, un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad del Ejecutivo del Estado."
+    }
+  ]
+}

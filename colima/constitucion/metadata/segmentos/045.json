@@ -1,0 +1,27 @@
+{
+  "clave": "045",
+  "etiqueta": "Artículo 45º",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "045.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45º › párrafo 1",
+      "texto": "(REFORMADO DECRETO NO. 63, P.O. 5, 14 ENERO 2025)"
+    },
+    {
+      "id": "045.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45º › párrafo 2",
+      "texto": "El mismo derecho a que se refiere el artículo anterior tendrá el Tribunal Superior de Justicia del Estado, cuando la iniciativa de ley o decreto sea del ramo judicial, y para facilitarle su ejercicio, se le remitirá copia de la iniciativa al darle aviso del día de la discusión."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "103",
+  "etiqueta": "Artículo 103º",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "103.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 103º › párrafo 1",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "103.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 103º › párrafo 2",
+      "texto": "Para la expedición de fiats de notario, la persona solicitante deberá ser profesional de Derecho con título oficial del Estado o legalmente reconocido; poseer una práctica forense de cinco años; presentar examen de oposición y cumplir con los demás requisitos que determine la ley. El Ejecutivo queda facultado para expedir los fiats de acuerdo con la ley relativa, la que fijará el número de notarios que puedan ejercer en el Estado."
+    }
+  ]
+}
