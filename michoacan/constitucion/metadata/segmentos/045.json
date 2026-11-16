@@ -1,0 +1,27 @@
+{
+  "clave": "045",
+  "etiqueta": "Artículo 45",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "045.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45 › párrafo 1",
+      "texto": "(DEROGADA, P.O. 7 DE MARZO DE 2003)"
+    },
+    {
+      "id": "045.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45 › párrafo 2",
+      "texto": "(DEROGADO, P.O. 7 DE MARZO DE 2003)"
+    }
+  ]
+}

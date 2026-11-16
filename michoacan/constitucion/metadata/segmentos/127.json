@@ -1,0 +1,27 @@
+{
+  "clave": "127",
+  "etiqueta": "Artículo 127",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "127.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "127.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 2",
+      "texto": "Las controversias entre la administración municipal y los particulares, se dirimirán de acuerdo a lo establecido en las leyes."
+    }
+  ]
+}

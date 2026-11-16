@@ -1,0 +1,27 @@
+{
+  "clave": "054",
+  "etiqueta": "Artículo 54",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "054.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)"
+    },
+    {
+      "id": "054.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › párrafo 2",
+      "texto": "Si al comenzar un período constitucional no se presentare la Gobernadora o Gobernador electo, la elección no estuviere hecha o no sea declarada su legalidad y validez, cesará, sin embargo, el Gobernador cuyo período haya concluido, y se encargará desde luego del Poder Ejecutivo, en calidad de Gobernador interino, el que designe el Congreso del Estado."
+    }
+  ]
+}

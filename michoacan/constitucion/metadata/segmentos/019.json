@@ -1,0 +1,54 @@
+{
+  "clave": "019",
+  "etiqueta": "Artículo 19",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "019.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "019.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "019.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › párrafo 3",
+      "texto": "Se deposita el ejercicio del Poder Legislativo en una asamblea que se denominará: Congreso del Estado de Michoacán de Ocampo."
+    },
+    {
+      "id": "019.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › párrafo 4",
+      "texto": "(ADICIONADO, P.O. 20 DE OCTUBRE DE 2023)"
+    },
+    {
+      "id": "019.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › párrafo 5",
+      "texto": "El Congreso del Estado se regirá por los principios de transparencia, de rendición de cuentas y de parlamento abierto, en términos de su ley orgánica."
+    }
+  ]
+}

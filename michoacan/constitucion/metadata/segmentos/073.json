@@ -1,0 +1,27 @@
+{
+  "clave": "073",
+  "etiqueta": "Artículo 73",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "073.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)"
+    },
+    {
+      "id": "073.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › párrafo 2",
+      "texto": "El Supremo Tribunal de Justicia funcionará en Pleno, Salas Unitarias en materia penal, Salas colegiadas con tres magistrados regionales y especializadas, en los términos que disponga el Órgano de Administración Judicial y la Ley Orgánica."
+    }
+  ]
+}

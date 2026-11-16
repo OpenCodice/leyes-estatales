@@ -1,0 +1,27 @@
+{
+  "clave": "041",
+  "etiqueta": "Artículo 41",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "041.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "041.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › párrafo 2",
+      "texto": "Las votaciones de las leyes o decretos serán nominales; las de los acuerdos serán económicas."
+    }
+  ]
+}

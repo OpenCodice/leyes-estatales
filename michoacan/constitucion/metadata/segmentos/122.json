@@ -1,0 +1,54 @@
+{
+  "clave": "122",
+  "etiqueta": "Artículo 122",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "122.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122 › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2020)"
+    },
+    {
+      "id": "122.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122 › párrafo 2",
+      "texto": "Todo Ayuntamiento tendrá un Secretario y un Tesorero, que serán nombrados por sus miembros por mayoría absoluta de votos a propuesta del Presidente Municipal, y contará con la estructura administrativa que determine su Bando de Gobierno Municipal, garantizando el principio de paridad de género."
+    },
+    {
+      "id": "122.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 8 DE DICIEMBRE DE 1983)"
+    },
+    {
+      "id": "122.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122 › párrafo 4",
+      "texto": "Ningún regidor podrá desempeñar estos empleos y las personas designadas llenarán los mismos requisitos que los regidores, con excepción del de vecindad."
+    },
+    {
+      "id": "122.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122 › párrafo 5",
+      "texto": "El Tesorero deberá otorgar fianza para garantizar el manejo de fondos públicos."
+    }
+  ]
+}

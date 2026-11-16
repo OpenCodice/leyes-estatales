@@ -1,0 +1,27 @@
+{
+  "clave": "158",
+  "etiqueta": "Artículo 158",
+  "titulo": "TITULO NOVENO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "158.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "158.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158 › párrafo 2",
+      "texto": "Los Poderes Supremos del Estado residirán en el mismo lugar, a menos que por circunstancias extraordinarias, calificadas por el voto de las dos terceras partes de los individuos presentes en el Congreso, sea necesaria la separación."
+    }
+  ]
+}

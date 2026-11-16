@@ -1,0 +1,36 @@
+{
+  "clave": "066",
+  "etiqueta": "Artículo 66",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "066.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)"
+    },
+    {
+      "id": "066.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › párrafo 2",
+      "texto": "Los titulares de las dependencias serán responsables con la Gobernadora o Gobernador en todos aquellos asuntos que lleven su firma."
+    },
+    {
+      "id": "066.N",
+      "tipo": "apartado",
+      "marca": "N",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › Apartado N",
+      "texto": "N. DE E. DE CONFORMIDAD CON LAS REFORMAS APROBADAS Y PUBLICADAS EN EL P.O. DE 23 DE MAYO DE 2006, MEDIANTE DECRETO NÚMERO 44, SE MODIFICA SUSTANCIALMENTE EL CONTENIDO DEL PRESENTE CAPÍTULO; MOTIVO POR EL CUAL SE PRESENTA EL TEXTO DEL MISMO PUBLICADO EN EL PERIÓDICO QUE SE MENCIONA."
+    }
+  ]
+}

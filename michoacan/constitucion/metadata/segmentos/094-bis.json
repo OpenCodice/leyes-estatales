@@ -1,0 +1,27 @@
+{
+  "clave": "094-bis",
+  "etiqueta": "Artículo 94 Bis",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "094-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 Bis › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 13 DE NOVIEMBRE DE 2015)"
+    },
+    {
+      "id": "094-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 Bis › párrafo 2",
+      "texto": "Los organismos autónomos contarán con un órgano de control interno, cuyo titular será electo por el Congreso del Estado, con las facultades que determine la ley para prevenir, corregir e investigar actos u omisiones que pudieran constituir responsabilidades administrativas."
+    }
+  ]
+}

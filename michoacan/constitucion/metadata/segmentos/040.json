@@ -1,0 +1,27 @@
+{
+  "clave": "040",
+  "etiqueta": "Artículo 40",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "040.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "040.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 2",
+      "texto": "La derogación de las leyes se hará con los mismos requisitos y formalidades que se prescriben para su formación."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "018",
+  "etiqueta": "Artículo 18",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "018.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)"
+    },
+    {
+      "id": "018.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › párrafo 2",
+      "texto": "La ciudad de Morelia es la residencia habitual de los Poderes, y éstos no podrán trasladarse a otro lugar del Estado sino por causa grave, cuando lo acuerden así las dos terceras partes de los miembros del Congreso, a iniciativa de la persona Titular del Ejecutivo del Estado."
+    }
+  ]
+}

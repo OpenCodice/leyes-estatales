@@ -1,0 +1,27 @@
+{
+  "clave": "016",
+  "etiqueta": "Artículo 16",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "016.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "016.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › párrafo 2",
+      "texto": "La creación de nuevos municipios se sujetará a las prescripciones de esta Constitución."
+    }
+  ]
+}

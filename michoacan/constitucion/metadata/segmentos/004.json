@@ -1,0 +1,54 @@
+{
+  "clave": "004",
+  "etiqueta": "Artículo 4",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "004.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "004.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "004.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 3",
+      "texto": "Son obligaciones de los habitantes del Estado:"
+    },
+    {
+      "id": "004.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › Fracción I",
+      "texto": "I.- Si son mexicanos, las que se señalen en esta Constitución y en el artículo 31 de la General de la República, y"
+    },
+    {
+      "id": "004.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › Fracción II",
+      "texto": "II.- Si son extranjeros, acatar y respetar en todas sus partes lo establecido por las leyes y sujetarse a las resoluciones de los tribunales, sin poder intentar otros recursos que los que se conceden a los mexicanos, y contribuir a los gastos públicos de la manera que dispongan las leyes y autoridades del Estado."
+    }
+  ]
+}

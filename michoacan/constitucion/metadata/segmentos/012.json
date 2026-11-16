@@ -1,0 +1,27 @@
+{
+  "clave": "012",
+  "etiqueta": "Artículo 12",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "012.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "012.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › párrafo 2",
+      "texto": "La soberanía del Estado reside esencial y originariamente en el pueblo, y se ejerce por medio de los poderes públicos, en los términos que establece esta Constitución."
+    }
+  ]
+}

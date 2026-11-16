@@ -1,0 +1,54 @@
+{
+  "clave": "052",
+  "etiqueta": "Artículo 52",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "052.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "052.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › párrafo 2",
+      "texto": "Nunca podrán ser electos para el período inmediato;"
+    },
+    {
+      "id": "052.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)"
+    },
+    {
+      "id": "052.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › inciso a)",
+      "texto": "a) La Gobernadora o Gobernador substituto constitucional, o el designado para concluir el período en caso de falta absoluta del constitucional, aun cuando tenga distinta denominación; y, (REFORMADO, P.O. 8 DE OCTUBRE DE 2025)"
+    },
+    {
+      "id": "052.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › inciso b)",
+      "texto": "b) La Gobernadora o Gobernador interino, el provisional o el ciudadano que, bajo cualquier denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los últimos años del período."
+    }
+  ]
+}

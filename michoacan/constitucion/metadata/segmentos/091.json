@@ -1,0 +1,27 @@
+{
+  "clave": "091",
+  "etiqueta": "Artículo 91",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "091.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)"
+    },
+    {
+      "id": "091.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 2",
+      "texto": "Para ser Juezas o Juez menor se requiere, cumplir con los requisitos previstos para ser Magistrada o Magistrado del Supremo Tribunal de Justicia, con excepción de la edad que será de veintiún años cumplidos al día de la elección."
+    }
+  ]
+}

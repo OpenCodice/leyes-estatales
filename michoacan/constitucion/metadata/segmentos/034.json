@@ -1,0 +1,45 @@
+{
+  "clave": "034",
+  "etiqueta": "Artículo 34",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "034.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "034.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › párrafo 2",
+      "texto": "Toda resolución del Congreso tendrá el carácter de ley o decreto."
+    },
+    {
+      "id": "034.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › párrafo 3",
+      "texto": "El primer nombre corresponde a las resoluciones que versen sobre materia de interés común, dentro de la órbita de atribuciones del Poder Legislativo; el segundo, a las que sean solo relativas a determinados tiempos, lugares, corporaciones, establecimientos o personas."
+    },
+    {
+      "id": "034.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › párrafo 4",
+      "texto": "Las resoluciones administrativas del Congreso tendrán el carácter de acuerdos."
+    }
+  ]
+}

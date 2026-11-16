@@ -1,0 +1,72 @@
+{
+  "clave": "093",
+  "etiqueta": "Artículo 93",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "093.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)"
+    },
+    {
+      "id": "093.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › párrafo 2",
+      "texto": "Los negocios judiciales serán decididos dentro del Estado en todas sus instancias, las que nunca podrán ser más de dos. Cada instancia será sentenciada por diferentes jueces."
+    },
+    {
+      "id": "093.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › párrafo 3",
+      "texto": "La Ley determinará la competencia de los juzgados menores."
+    },
+    {
+      "id": "093.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › párrafo 4",
+      "texto": "En todos los casos se procederá con audiencia de parte y comprobación de los hechos."
+    },
+    {
+      "id": "093.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › párrafo 5",
+      "texto": "El Órgano de Administración Judicial, en el ámbito de su competencia, tomará las medidas para que existan en el Estado centros especializados en mecanismos alternativos de solución de controversias."
+    },
+    {
+      "id": "093.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › párrafo 6",
+      "texto": "Toda persona está en libertad para terminar sus diferencias con otra, ya sea por convenio o por medio de árbitro o mediador, aun cuando se haya sometido a juicio y sea cual fuere el estado que éste guarde."
+    },
+    {
+      "id": "093.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › párrafo 7",
+      "texto": "Toda sentencia arbitral se ejecutará sin recurso, a menos que las partes se hayan reservado alguno."
+    }
+  ]
+}
