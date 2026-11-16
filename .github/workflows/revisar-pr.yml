@@ -2,7 +2,8 @@ name: Revisar PR de reforma (estatales)
 
 # Se ejecuta en cada PR.
 #   validar  — invariantes deterministas. Es el GATE: required check de main.
-#   fusionar — fusiona solo el PR si la vigilancia lo dejó verificado contra el PDF.
+#   fusionar — fusiona solo el PR si la vigilancia lo dejó verificado contra el PDF,
+#              con rebase (cada commit con sus trailers).
 
 on:
   pull_request: {}
@@ -60,14 +61,14 @@ jobs:
           done
           exit $rc
 
+      - name: Validar los trailers de cada commit (GATE)
+        run: python /tmp/extractor/scripts/validar_commits.py "$GITHUB_WORKSPACE" "origin/${{ github.base_ref }}"
+
   fusionar:
     needs: validar
     if: github.event.pull_request.head.repo.full_name == github.repository && startsWith(github.head_ref, 'reforma/')
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
-        with:
-          fetch-depth: 0
       - name: Fusionar si la extracción quedó verificada
         env:
           GH_TOKEN: ${{ secrets.PR_TOKEN }}
@@ -83,27 +84,14 @@ jobs:
             *verificado*) ;;
             *) echo "Sin etiqueta 'verificado': no se fusiona."; exit 0 ;;
           esac
-          git fetch -q origin "${{ github.base_ref }}"
-          archivos=$(git diff --name-only "origin/${{ github.base_ref }}...HEAD" -- '*/articulos/*.md')
-          n=$(echo "$archivos" | grep -c . || true)
-          if [ "$n" -gt 12 ]; then
-            arts="$n artículos"
-          else
-            arts="arts. $(echo "$archivos" | sed -E 's|.*/0*([0-9]+)(-[a-z]+)?\.md$|\1\2|' | paste -sd, - | sed 's/,/, /g')"
-          fi
-          dir=$(echo "$archivos" | sed -E 's|/articulos/.*||' | sort -u | head -1)
-          ver=$(jq -r '.version // empty' "$dir/metadata/articulos.json")
-          asunto="Reforma ${dir%%/*}${ver:+ ($ver)}: $arts"
-          declarado=$(gh pr view "$PR" -R "$GITHUB_REPOSITORY" --json body -q .body \
-            | sed -n 's/.*<!-- asunto: \(.*\) -->.*/\1/p' | head -n 1)
-          asunto="${declarado:-$asunto}"
+          # Cada commit trae su título y sus trailers (reforma y corrección van
+          # en commits separados): se fusiona con rebase para conservarlos.
           # La vigilancia abre un PR por estado y varios se fusionan casi a la vez:
           # si main cambió entre la validación y la fusión, GitHub la rechaza
           # ("Base branch was modified") aunque no haya conflicto, porque cada PR
           # toca solo la carpeta de su estado. Se reintenta con una espera al azar.
           for intento in 1 2 3 4 5 6; do
-            if gh pr merge "$PR" -R "$GITHUB_REPOSITORY" --squash --delete-branch \
-                 --subject "$asunto" --body "Fusionado automáticamente: validación y verificación del agente contra el PDF oficial en verde (#$PR)."; then
+            if gh pr merge "$PR" -R "$GITHUB_REPOSITORY" --rebase --delete-branch; then
               exit 0
             fi
             sleep $(( (RANDOM % 30) + 15 * intento ))

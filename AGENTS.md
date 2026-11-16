@@ -28,15 +28,41 @@ regenera con el extractor y, si cambió texto, lanza un agente (Claude Code) que
 compara cada unidad cambiada contra el PDF y repara el extractor si hace falta.
 Después abre aquí un PR:
 
-- Con la etiqueta `verificado`, `revisar-pr` corre los invariantes (`validar`)
-  y lo fusiona solo, con squash.
+- Con la etiqueta `verificado`, `revisar-pr` corre los invariantes (`validar`),
+  valida los trailers de cada commit y lo fusiona solo, con rebase.
 - Si no quedó verificado, no se abre PR: el texto vigente se queda como está,
   lo no publicado se anota en el resumen de la corrida y la siguiente vigilancia
   lo reintenta. Nada se asigna a una persona.
 
-El título del commit lo declara el agente y distingue una **reforma** (cambió la
-ley) de una **corrección de extracción** (misma ley, mejor lectura del PDF). No
-lo cambies a mano al fusionar: la bitácora dependerá de él.
+Cada commit lleva, además del título, trailers de git que calcula el código del
+extractor (`scripts/trailers.py`), nunca el agente:
+
+```
+Reforma jalisco (P.O. 2026-10-29): 17 artículos
+
+Documento: jalisco/constitucion
+Tipo: reforma
+Publicacion: 2026-10-29
+Publicacion-Origen: portada
+Medio: Periódico Oficial del Estado de Jalisco
+Articulos-Modificados: 004, 009, 011, …
+Fuente: https://congresoweb.congresojal.gob.mx/…-291026.pdf
+Fuente-Sha256: 8bfc145e…
+Extractor: OpenCodice/constitucion-extractor@e3ae3f5
+```
+
+`Tipo` sale de la causa: otro archivo oficial con el mismo extractor es una
+`reforma`; el mismo archivo leído por un extractor nuevo, una `correccion`; si
+cambiaron ambos, son dos commits (primero la corrección, reconstruyendo con el
+extractor actual el PDF anterior de `fuente/`; luego la reforma, que trae el PDF
+nuevo). `alta` y `retiro` cuando el documento aparece o desaparece.
+`Publicacion` son las fechas de reforma nuevas de la metadata
+(`Publicacion-Origen: notas`) o, si no hay, la versión de la portada
+(`portada`). `revisar-pr` comprueba cada commit del PR con
+`scripts/validar_commits.py` del extractor —trailers bien formados, título
+coherente, listas de artículos idénticas al diff— y lo fusiona con rebase. Un
+commit que no toca documentos (README, documentación) lleva `Tipo: indice`. La
+bitácora lee estos trailers: no reescribas mensajes al fusionar.
 
 Si la vigilancia falla, se relanza una vez; si el reintento también falla,
 deja un issue (sin asignar) en el extractor como constancia, y el vigilante del
