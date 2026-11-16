@@ -1,0 +1,27 @@
+{
+  "clave": "140",
+  "etiqueta": "Artículo 140",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "140.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 140 › párrafo 1",
+      "texto": "El Sistema Educativo Estatal se constituye por la educación que impartan el Estado, los Municipios o sus organismos descentralizados, la Universidad Autónoma de Tamaulipas y los particulares a quienes se autorice a impartir educación o se les reconozca validez oficial de estudios, mediante el cumplimiento de los requisitos y condiciones que establezca la Ley reglamentaria, ciñéndose a lo prescrito en el Artículo 3º de la Constitución Política de los Estados Unidos Mexicanos y sujetándose siempre a la vigilancia e inspección oficiales."
+    },
+    {
+      "id": "140.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 140 › párrafo 2",
+      "texto": "En todo tiempo el Ejecutivo del Estado podrá, de acuerdo con lo dispuesto en la Ley reglamentaria, otorgar, negar, revocar o retirar la autorización o el reconocimiento de validez oficial a los estudios efectuados en los planteles particulares."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "clave": "029",
+  "etiqueta": "Artículo 29",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "029.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29 › párrafo 1",
+      "texto": "Para ser Diputada o Diputado, Propietaria, Propietario o Suplente, se requiere:"
+    },
+    {
+      "id": "029.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29 › Fracción I",
+      "texto": "I.- Ser mexicano por nacimiento, en pleno goce de sus derechos;"
+    },
+    {
+      "id": "029.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29 › Fracción II",
+      "texto": "II.- Ser ciudadano del Estado, en ejercicio de sus derechos, nacido en el Estado o vecino con residencia en él, por más de cinco años;"
+    },
+    {
+      "id": "029.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29 › Fracción III",
+      "texto": "III.- Tener veintiún años cumplidos el día de la elección;"
+    },
+    {
+      "id": "029.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29 › Fracción IV",
+      "texto": "IV.- Poseer suficiente instrucción; y"
+    },
+    {
+      "id": "029.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29 › Fracción V",
+      "texto": "V.- Los demás señalamientos que disponga la ley."
+    }
+  ]
+}

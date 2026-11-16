@@ -1,0 +1,27 @@
+{
+  "clave": "102",
+  "etiqueta": "Artículo 102",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "102.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › párrafo 1",
+      "texto": "Los Jueces y Magistrados no pueden ejercer otras funciones que las expresamente consignadas en la ley, salvo en los casos previstos por el artículo 112 segundo párrafo de esta Constitución. Los servidores públicos del Poder Judicial del Estado en ningún caso podrán suspender el cumplimiento de las leyes ni emitir reglamento o acuerdo alguno que entorpezca la impartición de justicia."
+    },
+    {
+      "id": "102.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › párrafo 2",
+      "texto": "La justicia se impartirá en nombre de la ley, la que determinará las formalidades para los procedimientos judiciales. Las ejecutorias y provisiones de los Tribunales, se ejecutarán por ellos mismos, en nombre del Estado, en la forma que las leyes prescriban. El juzgador que conozca de un asunto en una instancia, no podrá hacerlo en la otra."
+    }
+  ]
+}

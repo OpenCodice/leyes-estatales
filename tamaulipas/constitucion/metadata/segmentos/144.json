@@ -1,0 +1,27 @@
+{
+  "clave": "144",
+  "etiqueta": "Artículo 144",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "144.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 144 › párrafo 1",
+      "texto": "Toda persona tiene derecho a la protección de la salud. La Ley establecerá las bases y modalidades para el acceso a los servicios de salud, así como la distribución de competencias en materia de salubridad."
+    },
+    {
+      "id": "144.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 144 › párrafo 2",
+      "texto": "Para garantizar el derecho de protección a la salud de las personas, la ley sancionará toda actividad relacionada con cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos que señale la ley; así como la producción, distribución y enajenación de sustancias tóxicas, precursores químicos, el uso ilícito del fentanilo y demás drogas sintéticas no autorizadas."
+    }
+  ]
+}

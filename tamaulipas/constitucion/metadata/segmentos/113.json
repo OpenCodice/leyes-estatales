@@ -1,0 +1,36 @@
+{
+  "clave": "113",
+  "etiqueta": "Artículo 113",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "113.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 113 › párrafo 1",
+      "texto": "El Pleno del Supremo Tribunal de Justicia, en funciones de tribunal constitucional, tendrá jurisdicción para conocer y resolver, en los términos que señale la ley reglamentaria, exceptuándose por cuanto disponen los artículos 76, fracción VI y 105, fracciones I y II de la Constitución Política de los Estados Unidos Mexicanos, los siguientes medios de control de la constitucionalidad local:"
+    },
+    {
+      "id": "113.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 113 › Fracción I",
+      "texto": "I.- De la controversia constitucional local, que podrán promover los Poderes del Estado, los organismos a los que esta constitución otorgue autonomía y los municipios, para impugnar actos o normas generales estatales o municipales que invadan su competencia conforme a esta Constitución. El Poder Judicial del Estado no podrá ser parte actora ni demandada en estas controversias."
+    },
+    {
+      "id": "113.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 113 › Fracción II",
+      "texto": "II.- De la acción de inconstitucionalidad local, para impugnar normas generales expedidas por el Congreso del Estado o por un Ayuntamiento, que sean contrarias a esta Constitución. Podrán promoverla las Diputadas y los Diputados tratándose de normas generales expedidas por el Congreso del Estado, o por las síndicas, los síndicos, regidoras y regidores tratándose de normas generales expedidas por su respectivo Ayuntamiento, en los términos que determine la ley. Esta acción también podrá promoverla el Poder Ejecutivo a través de la Consejera o Consejero Jurídico del Gobierno del Estado; la o el Fiscal General de Justicia del Estado en contra de normas generales en materia penal, así como la Comisión de Derechos Humanos del Estado de Tamaulipas, a través de su presidencia, tratándose de normas generales que violen derechos humanos previstos por esta Constitución.\n\nLas sentencias dictadas para resolver los asuntos planteados conforme a las fracciones I y II de este artículo, que declaren inconstitucional una norma general, tendrán efectos generales cuando sean votados por las dos terceras partes de los integrantes del Pleno Supremo Tribunal de Justicia, a partir de la fecha en que sean publicadas en el Periódico Oficial del Estado o de la fecha posterior a la publicación que la propia resolución ordene."
+    }
+  ]
+}

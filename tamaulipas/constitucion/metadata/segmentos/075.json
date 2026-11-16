@@ -1,0 +1,27 @@
+{
+  "clave": "075",
+  "etiqueta": "Artículo 75",
+  "titulo": "",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "075.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › párrafo 1",
+      "texto": "Las resoluciones del Congreso tendrán carácter de ley, decreto o acuerdo."
+    },
+    {
+      "id": "075.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › párrafo 2",
+      "texto": "Las leyes o decretos se comunicarán al Ejecutivo firmadas por el Presidente y los Secretarios del Congreso, empleándose la siguiente fórmula: “El Congreso del Estado Libre y Soberano de Tamaulipas, decreta: (texto de la ley o decreto)”, y los acuerdos serán suscritos únicamente por los Secretarios."
+    }
+  ]
+}

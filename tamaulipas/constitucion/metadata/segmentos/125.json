@@ -1,0 +1,153 @@
+{
+  "clave": "125",
+  "etiqueta": "Artículo 125",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "125.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › párrafo 1",
+      "texto": "El Ministerio Público estará integrado por un Fiscal General de Justicia, quien lo presidirá, así como por los fiscales especializados, agentes y demás servidores públicos que determine la ley para su organización."
+    },
+    {
+      "id": "125.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › párrafo 2",
+      "texto": "La Fiscalía General de Justicia del Estado de Tamaulipas será un organismo público, con autonomía administrativa, técnica, operativa y presupuestal, personalidad jurídica y patrimonio propios. El presupuesto de egresos de la Fiscalía General de Justicia, no podrá ser menor al aprobado por el Congreso para el ejercicio anual inmediato anterior."
+    },
+    {
+      "id": "125.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › párrafo 3",
+      "texto": "La función de procuración de justicia en el Estado se regirá por los principios de autonomía, legalidad, imparcialidad, objetividad, eficiencia, profesionalismo, responsabilidad, así como perspectiva de género y respeto a los derechos humanos. La ley orgánica, reglamentos, acuerdos y los manuales de organización deberán garantizar estos principios, así como regular los procesos para la segmentación de casos, la descentralización territorial de funciones y la independencia técnica de los servicios periciales y forenses."
+    },
+    {
+      "id": "125.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › párrafo 4",
+      "texto": "La ley establecerá el servicio profesional de carrera para las funciones ministeriales, de investigación y periciales."
+    },
+    {
+      "id": "125.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › párrafo 5",
+      "texto": "La ley orgánica establecerá un Consejo de Fiscales, como el órgano colegiado encargado de la administración, vigilancia y disciplina de la Fiscalía General. Asimismo, será el órgano rector del servicio profesional de carrera, en los términos que establezca la ley."
+    },
+    {
+      "id": "125.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › párrafo 6",
+      "texto": "La Fiscalía General contará, al menos, con las fiscalías especializadas en materia de delitos electorales, asuntos internos y de combate a la corrupción, cuyas personas titulares serán nombradas y removidas en términos de esta constitución y la ley."
+    },
+    {
+      "id": "125.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › párrafo 7",
+      "texto": "La Fiscalía Especializada en la Investigación de los Delitos contra Niñas, Niños y Adolescentes y de Delitos contra las Mujeres por Razones de Género; dependiente de la Fiscalía General del Estado de Tamaulipas, será competente para investigar y perseguir delitos relacionados con las violencias de género contra las mujeres, protegiendo el derecho de las mujeres a una vida libre de violencias."
+    },
+    {
+      "id": "125.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › párrafo 8",
+      "texto": "Para ser Fiscal General de Justicia se requiere: ser ciudadano mexicano por nacimiento; tener cuando menos treinta y cinco años cumplidos al día de la designación; contar con título profesional de licenciado en derecho con antigüedad mínima de diez años; gozar de buena reputación, y no haber sido condenado por delito doloso."
+    },
+    {
+      "id": "125.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › párrafo 9",
+      "texto": "El Fiscal General durará en su encargo siete años y será designado y removido conforme al siguiente procedimiento:"
+    },
+    {
+      "id": "125.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › Fracción I",
+      "texto": "I. A partir de la ausencia definitiva de la o del Fiscal General, el Congreso del Estado contará con diez días para integrar una lista paritaria de al menos seis candidatos al cargo, aprobada por las dos terceras partes de los miembros presentes, la cual enviará a la persona titular del Ejecutivo.\n\nSi el Ejecutivo no recibe la lista en el plazo antes señalado, enviará libremente al Congreso una terna y designará provisionalmente a un Fiscal General interino, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Fiscal General interino podrá formar parte de la terna."
+    },
+    {
+      "id": "125.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › Fracción II",
+      "texto": "II. Recibida la lista a que se refiere la fracción anterior, dentro de los diez días siguientes el Ejecutivo formulará una terna y la enviará a la consideración del Congreso."
+    },
+    {
+      "id": "125.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › Fracción III",
+      "texto": "III. El Congreso, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General con el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.\n\nEn caso de que el Ejecutivo no envíe la terna a que se refiere la fracción anterior, el Congreso tendrá diez días para designar al Fiscal General de entre los candidatos de la lista que señala la fracción I. Si el Congreso no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará al Fiscal General de entre los candidatos que integren la lista o, en su caso, la terna respectiva."
+    },
+    {
+      "id": "125.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › Fracción IV",
+      "texto": "IV. La o el Fiscal General podrá ser removido por la persona titular del Ejecutivo únicamente por las causas graves que establezca la ley. La remoción deberá ser aprobada dentro del plazo de diez días por el voto de al menos dos terceras partes de los miembros del Congreso del Estado. En caso de negativa o vencido el plazo, la o el Fiscal General permanecerá en el cargo y no podrá ser removido por los mismos hechos que originaron el procedimiento."
+    },
+    {
+      "id": "125.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › Fracción V",
+      "texto": "V. En los recesos del Congreso, la Diputación Permanente lo convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción del Fiscal General."
+    },
+    {
+      "id": "125.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › Fracción VI",
+      "texto": "VI. Los demás integrantes del Ministerio Público serán nombrados y removidos en términos de su ley orgánica."
+    },
+    {
+      "id": "125.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › Fracción VII",
+      "texto": "VII. Las ausencias del Fiscal General serán suplidas en los términos que determine la ley.\n\nEl nombramiento de los fiscales especializados a los que se refiere esta Constitución, con excepción del Fiscal Especializado en Combate a la Corrupción, se llevará a cabo a propuesta del Fiscal General y por el voto de las dos terceras partes de los miembros presentes del Congreso del Estado. Solamente podrán ser removidos por las causas graves que establezca la ley y con el mismo procedimiento para remover al Fiscal General.\n\nEl Fiscal General presentará anualmente al Congreso del Estado y al Ejecutivo, un informe de actividades.\n\nSe establece un Consejo de Participación Ciudadana de la Fiscalía General, como un órgano especializado de consulta, integrado por cinco consejeros independientes con probada experiencia en materias de ciencias forenses y penales, procuración de justicia, seguridad pública y cualquier otra que resulte afín a su objeto. El cargo será de naturaleza honoraria. La ley determinará las facultades y obligaciones de los consejeros, así como su régimen de responsabilidades.\n\nLos miembros del Consejo de Participación Ciudadana serán designados por las dos terceras partes de los miembros presentes del Congreso a propuesta del Ejecutivo, conforme al procedimiento que prevea la ley, durarán en su encargo cinco años improrrogables y serán renovados de manera escalonada, conforme a lo previsto en la ley.\n\nEn ningún caso, los consejeros podrán intervenir o influir, de manera directa o indirecta, en las investigaciones o expedientes que se encuentren bajo el conocimiento del Ministerio Público."
+    }
+  ]
+}

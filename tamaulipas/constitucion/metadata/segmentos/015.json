@@ -1,0 +1,45 @@
+{
+  "clave": "015",
+  "etiqueta": "Artículo 15",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "015.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › párrafo 1",
+      "texto": "La vecindad no se pierde:"
+    },
+    {
+      "id": "015.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción I",
+      "texto": "I.- Por ausencia en virtud de comisión del servicio público de la Federación, del Estado o de algún Municipio de éste;"
+    },
+    {
+      "id": "015.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción II",
+      "texto": "II.- Por ausencia con motivo de persecuciones políticas, si el hecho que las origina no implica al mismo tiempo la comisión de un delito del orden común;"
+    },
+    {
+      "id": "015.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción III",
+      "texto": "III.- Por ausencia en ocasión de estudios o comisiones científicas o artísticas."
+    }
+  ]
+}
