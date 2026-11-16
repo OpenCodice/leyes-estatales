@@ -1,0 +1,27 @@
+{
+  "clave": "131",
+  "etiqueta": "Artículo 131",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "131.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 131 › párrafo 1",
+      "texto": "Los Ayuntamientos electos se instalarán en ceremonia pública y solemne. El Presidente entrante rendirá la protesta de ley en los términos siguientes:"
+    },
+    {
+      "id": "131.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 131 › párrafo 2",
+      "texto": "\"PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA DEL ESTADO DE HIDALGO ASÍ COMO LAS LEYES QUE DE ELLAS EMANEN Y DESEMPEÑAR LEAL Y PATRIÓTICAMENTE EL CARGO DE PRESIDENTE MUNICIPAL QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DE LA NACIÓN, DEL ESTADO DE HIDALGO Y DEL MUNICIPIO DE (nombre oficial del Municipio). SI ASÍ NO LO HICIERE, QUE EL PUEBLO ME LO DEMANDE\"."
+    }
+  ]
+}

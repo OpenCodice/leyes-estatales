@@ -1,0 +1,27 @@
+{
+  "clave": "112",
+  "etiqueta": "Artículo 112",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "112.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › párrafo 1",
+      "texto": "Todo empleado de Hacienda que deba tener a su cargo el manejo de fondos del Estado, otorgará previamente fianza suficiente para garantizar su manejo en los términos que la Ley señale."
+    },
+    {
+      "id": "112.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › párrafo 2",
+      "texto": "El Gobernador cuidará de que el Congreso del Estado conozca de la fianza con que los empleados de la Tesorería General caucionen su manejo."
+    }
+  ]
+}

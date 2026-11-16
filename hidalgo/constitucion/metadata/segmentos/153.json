@@ -1,0 +1,36 @@
+{
+  "clave": "153",
+  "etiqueta": "Artículo 153",
+  "titulo": "TÍTULO DÉCIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "153.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 153 › párrafo 1",
+      "texto": "Ninguna persona gozará de fuero o inmunidad procesal que le otorgue privilegios o prerrogativas en materia jurídica."
+    },
+    {
+      "id": "153.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 153 › párrafo 2",
+      "texto": "La responsabilidad de cualquier servidor público por delitos del orden común será exigible conforme a la Legislación Penal aplicable a nivel local, sin requerir declaración de procedencia o tramite adicional alguno, procurando la igualdad en la aplicación de la ley y garantizando el acceso a la justicia imparcial para todas las personas."
+    },
+    {
+      "id": "153.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 153 › párrafo 3",
+      "texto": "El Ministerio Publico deberá realizar las investigaciones pertinentes para asegurarse que las denuncias o procesos penales instaurados en contra de alguna de las personas que ocupan cargos públicos de los enunciados en el artículo 149 y el primer párrafo del artículo 150, no respondan a censura, venganza o persecución política."
+    }
+  ]
+}

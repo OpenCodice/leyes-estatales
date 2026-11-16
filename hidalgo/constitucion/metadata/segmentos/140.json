@@ -1,0 +1,45 @@
+{
+  "clave": "140",
+  "etiqueta": "Artículo 140",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "140.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 140 › párrafo 1",
+      "texto": "Los Municipios del Estado previo acuerdo entre sus Ayuntamientos y con sujeción a la Ley que al efecto expida la Legislatura del Estado, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan."
+    },
+    {
+      "id": "140.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 140 › párrafo 2",
+      "texto": "Cuando los municipios del Estado de Hidalgo pretendan asociarse con otros de distinta entidad federativa para los fines mencionados en el párrafo anterior, deberán contar con la autorización del Congreso del Estado, la que deberá ser aprobada por el voto de las dos terceras partes de los diputados presentes."
+    },
+    {
+      "id": "140.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 140 › párrafo 3",
+      "texto": "Los Ayuntamientos podrán celebrar convenios con el Gobierno del Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de una función o de un servicio público municipal o bien, para que éstos se ejerzan o se presten en forma coordinada por la Administración Pública del Estado y por el propio Municipio."
+    },
+    {
+      "id": "140.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 140 › párrafo 4",
+      "texto": "Si para la ejecución de los convenios a que se refiere el presente artículo se utilizan créditos cuyo vencimiento sea posterior al término del período del Ayuntamiento, la celebración de los actos jurídicos correspondientes deberá ser previamente aprobada por las dos terceras partes de los miembros del Ayuntamiento; además, si el crédito se obtiene teniendo como aval al Ejecutivo del Estado, el Gobernador le informará al Congreso del Estado para que éste vigile su aplicación."
+    }
+  ]
+}

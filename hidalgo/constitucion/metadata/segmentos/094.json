@@ -1,0 +1,108 @@
+{
+  "clave": "094",
+  "etiqueta": "Artículo 94",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPITULO II BIS",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "094.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 › párrafo 1",
+      "texto": "El Tribunal Superior de Justicia y el Tribunal Electoral estarán integrados por el número de magistradas y magistrados que establezcan las leyes orgánicas respectivas, observando el principio de paridad de género."
+    },
+    {
+      "id": "094.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 › párrafo 2",
+      "texto": "Párrafo reformado, P.O. Alcance del 3 de marzo de 2026."
+    },
+    {
+      "id": "094.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 › párrafo 3",
+      "texto": "Las magistradas y magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, así como las juezas y jueces del fuero común, serán elegidos mediante sufragio universal, libre, secreto y directo por parte de la ciudadanía el día que se realicen las elecciones locales ordinarias del año que corresponda, conforme al siguiente procedimiento:"
+    },
+    {
+      "id": "094.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 › Fracción I",
+      "texto": "I. El Congreso del Estado publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, la cual contendrá las etapas completas del procedimiento, sus fechas, plazos improrrogables y los cargos a elegir. El Órgano de Administración Judicial hará del conocimiento del Congreso del Estado los cargos sujetos a elección, la especialización por materia, el distrito judicial respectivo y demás información que requiera;"
+    },
+    {
+      "id": "094.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 › Fracción II",
+      "texto": "II. Los Poderes del Estado postularán hasta tres personas para cada cargo, el Poder Ejecutivo lo hará por conducto de su titular, el Poder Legislativo por conducto del Congreso del Estado, mediante la aprobación de las dos terceras partes de sus integrantes presentes, y el Poder Judicial, por conducto del Pleno del Tribunal Superior de Justicia, con la aprobación de las dos terceras partes de sus miembros.\n\nPara la evaluación y selección de sus postulaciones, observarán lo siguiente:"
+    },
+    {
+      "id": "094.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 94 › Fracción II › inciso a)",
+      "texto": "a) Los Poderes establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes respectivas; las personas interesadas deberán presentar un ensayo de tres cuartillas donde justifiquen los motivos de su postulación, así como cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo;"
+    },
+    {
+      "id": "094.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 94 › Fracción II › inciso b)",
+      "texto": "b) Cada Poder integrará un Comité de Evaluación conformado por tres personas reconocidas en la actividad jurídica, que recibirá los expedientes de las personas aspirantes, verificará el cumplimiento de los requisitos constitucionales y legales e identificará a aquellas personas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica. Asimismo, las personas aspirantes deberán presentar un examen de oposición en los términos a que se refiera la normatividad aplicable y en el plazo que establezca la convocatoria, y"
+    },
+    {
+      "id": "094.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 94 › Fracción II › inciso c)",
+      "texto": "c) Los Comités de Evaluación integrarán un listado con el nombre de las personas mejor evaluadas.\n\nPosteriormente, depurarán dicho listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo, observando la paridad de género. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder del Estado para su aprobación y envío al Congreso."
+    },
+    {
+      "id": "094.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 › Fracción III",
+      "texto": "III. El Congreso del Estado recibirá las postulaciones y remitirá los listados al Instituto Estatal Electoral a más tardar en el mes de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.\n\nEl Congreso incorporará a los listados que remita al Instituto Estatal Electoral a las personas que se encuentren en funciones en los cargos señalados en el segundo párrafo del presente artículo al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo o distrito judicial diverso.\n\nLas personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria, no podrán hacerlo posteriormente, y"
+    },
+    {
+      "id": "094.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 › Fracción IV",
+      "texto": "IV. El Instituto Estatal Electoral efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres. También declarará la validez de la elección y enviará sus resultados al Pleno del Tribunal Electoral, quien resolverá las impugnaciones antes de que el Congreso del Estado instale el primer periodo ordinario de sesiones del año de la elección que corresponda."
+    },
+    {
+      "id": "094.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 › Fracción V",
+      "texto": "V. Las personas electas a los cargos públicos a que se refiere el segundo párrafo del presente artículo, tomarán protesta de su encargo ante el Congreso del Estado el primer día en que se instale el primer periodo ordinario de sesiones del año de la elección que corresponda.\n\nLas personas candidatas tendrán derecho de acceso a radio y televisión de manera igualitaria, conforme a la distribución del tiempo que señale la ley y determine la autoridad electoral competente. Podrán, además, participar en foros de debate organizados por el Instituto Estatal Electoral o en aquellos brindados gratuitamente por el sector público, privado o social en condiciones de equidad.\n\nPara todos los cargos de elección dentro del Poder Judicial estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidatas y candidatos. Los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo, ni posicionarse a favor o en contra de candidatura alguna.\n\nLa ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales.\n\nCada dos años se renovará la presidencia de cada Tribunal de manera rotatoria, en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación.\n\nPara el trámite de las renuncias de las magistraturas del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, así como de las personas juzgadoras del fuero común, se deberá seguir lo dispuesto en esta Constitución, así como el procedimiento que al efecto establezcan las leyes secundarias.\n\nCuando la falta de alguna de las personas servidoras públicas señaladas en el párrafo anterior excediere de un mes sin licencia o dicha falta se deba a su defunción, renuncia o separación definitiva de su cargo, ocupará la vacante la persona del mismo género que haya obtenido el segundo lugar en número de votos en la elección para ese cargo; en caso de declinación o imposibilidad, seguirá en orden de prelación la persona que haya obtenido mayor votación. El Congreso del Estado tomará protesta a la persona sustituta para desempeñarse por el periodo que reste al encargo.\n\nLas licencias de las personas servidoras públicas del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial que no excedan de tres meses, podrán ser concedidas por el Pleno de dichos órganos colegiados; y para el caso de juezas y jueces del fuero común, podrán ser otorgadas por el Pleno del Órgano de Administración Judicial. Las licencias que excedan de este tiempo deberán concederse por el Congreso del Estado o la Diputación Permanente, en los términos que señala esta Constitución y las leyes respectivas.\n\nLa remuneración que perciban por sus servicios las magistradas y magistrados del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa y del Tribunal de Disciplina Judicial, así como las juezas y jueces del fuero común, no podrá ser mayor a la establecida para la persona titular del Poder Ejecutivo del Estado en el presupuesto correspondiente, misma que no podrá ser disminuida durante su encargo.\n\nArtículo reformado, P.O. Alcance uno del 12 de marzo de 2025."
+    }
+  ]
+}

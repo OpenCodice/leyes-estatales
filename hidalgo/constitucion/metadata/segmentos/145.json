@@ -1,0 +1,72 @@
+{
+  "clave": "145",
+  "etiqueta": "Artículo 145",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "145.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 145 › párrafo 1",
+      "texto": "Los Síndicos tienen a su cargo la vigilancia de la Hacienda Pública municipal y además las siguientes facultades y obligaciones:"
+    },
+    {
+      "id": "145.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 145 › Fracción I",
+      "texto": "I.- Comparecer ante las autoridades judiciales, en los asuntos que revistan interés jurídico para el Ayuntamiento;"
+    },
+    {
+      "id": "145.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 145 › Fracción II",
+      "texto": "II.- Tramitar ante las autoridades correspondientes, los asuntos de su competencia;"
+    },
+    {
+      "id": "145.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 145 › Fracción III",
+      "texto": "III.- Presidir la Comisión de Hacienda municipal y revisar las cuentas de la tesorería, mismas que deberá dar a conocer en forma mensual a la Asamblea Municipal;"
+    },
+    {
+      "id": "145.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 145 › Fracción IV",
+      "texto": "IV.- Concurrir a las sesiones del Ayuntamiento, con voz y voto y percibir su dieta de asistencia que señale el Presupuesto de Egresos del Municipio;"
+    },
+    {
+      "id": "145.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 145 › Fracción V",
+      "texto": "V.- Los Síndicos no podrán, en ningún caso, desempeñar cargos, empleos o comisiones remunerados en la Administración Pública Municipal y"
+    },
+    {
+      "id": "145.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 145 › Fracción VI",
+      "texto": "VI.- Las demás que le confieren las Leyes y los Reglamentos y Acuerdos del Ayuntamiento."
+    }
+  ]
+}

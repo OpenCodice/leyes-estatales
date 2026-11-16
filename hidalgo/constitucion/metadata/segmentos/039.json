@@ -1,0 +1,36 @@
+{
+  "clave": "039",
+  "etiqueta": "Artículo 39",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "039.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 1",
+      "texto": "El Congreso podrá celebrar periodos extraordinarios, los cuales deberán ser aprobados por la Diputación Permanente a solicitud de la misma, de la Junta de Gobierno o del Ejecutivo del Estado. Una vez aprobados, la convocatoria a dichos periodos será realizada por la Directiva de la Diputación Permanente."
+    },
+    {
+      "id": "039.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 2",
+      "texto": "Durante los periodos extraordinarios, la Directiva de la Diputación Permanente en funciones actuará como Directiva del Congreso."
+    },
+    {
+      "id": "039.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 3",
+      "texto": "Artículo reformado, P.O. Alcance tres del 30 de enero de 2025."
+    }
+  ]
+}

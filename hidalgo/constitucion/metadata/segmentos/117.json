@@ -1,0 +1,27 @@
+{
+  "clave": "117",
+  "etiqueta": "Artículo 117",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "117.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › párrafo 1",
+      "texto": "El territorio del Estado de Hidalgo se divide en ochenta y cuatro municipios con las cabeceras que se señalan en la ley de la materia."
+    },
+    {
+      "id": "117.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › párrafo 2",
+      "texto": "Los límites de los municipios se consignarán en la Ley Orgánica municipal."
+    }
+  ]
+}

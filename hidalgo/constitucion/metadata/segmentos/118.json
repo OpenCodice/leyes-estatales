@@ -1,0 +1,90 @@
+{
+  "clave": "118",
+  "etiqueta": "Artículo 118",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "118.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › párrafo 1",
+      "texto": "Para la creación de Municipios en la Entidad se requiere la aprobación del Constituyente Permanente del Estado y la concurrencia de los siguientes elementos:"
+    },
+    {
+      "id": "118.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › Fracción I",
+      "texto": "I.- Que sea conveniente para satisfacer las necesidades de sus habitantes;"
+    },
+    {
+      "id": "118.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › Fracción II",
+      "texto": "II.- Que el territorio donde se pretenda erigir un nuevo Municipio, sea capaz de cubrir sus necesidades y atender a sus posibilidades de desarrollo futuro;"
+    },
+    {
+      "id": "118.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › Fracción III",
+      "texto": "III.- Que los recursos para su desarrollo potencial le garanticen posibilidades económicas para prestar en forma adecuada los servicios públicos y ejercer las funciones que están a su cargo, en los términos que fije la ley;"
+    },
+    {
+      "id": "118.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › Fracción IV",
+      "texto": "IV.- Que su población no sea inferior de cien mil habitantes."
+    },
+    {
+      "id": "118.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › Fracción V",
+      "texto": "V.- Que la comunidad en la que establezca su cabecera cuente con más de diez mil habitantes;"
+    },
+    {
+      "id": "118.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › Fracción VI",
+      "texto": "VI.- Que el territorio que constituya el nuevo Municipio sea por lo menos de 500 kilómetros cuadrados;"
+    },
+    {
+      "id": "118.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › Fracción VII",
+      "texto": "VII.- Que la población que se señala en la fracción IV, tenga equipamiento urbano adecuado para sus habitantes; y"
+    },
+    {
+      "id": "118.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › Fracción VIII",
+      "texto": "VIII.- Que previamente se escuche la opinión de los Ayuntamientos de los Municipios que resultaren afectados en su territorio, su economía y su población, con la creación del nuevo Municipio."
+    }
+  ]
+}

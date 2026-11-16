@@ -1,0 +1,306 @@
+{
+  "clave": "141",
+  "etiqueta": "Artículo 141",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "141.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › párrafo 1",
+      "texto": "Son facultades y obligaciones del Ayuntamiento:"
+    },
+    {
+      "id": "141.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › Fracción I",
+      "texto": "I.- Cumplir y hacer cumplir la Constitución Política de los Estados Unidos mexicanos, esta Constitución y las Leyes, Decretos y disposiciones federales, estatales y municipales;"
+    },
+    {
+      "id": "141.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › Fracción II",
+      "texto": "II.- Expedir y aprobar de acuerdo con las leyes que en materia municipal emita el Congreso del Estado, los bandos de policía y gobierno y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de competencia municipal y aseguren la participación ciudadana y vecinal, dentro de un marco de respeto a los derechos humanos;"
+    },
+    {
+      "id": "141.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › Fracción III",
+      "texto": "III.- Conceder licencia al Presidente Municipal hasta por treinta días y llamar a quien debe suplirlo; si la licencia fuese por un periodo mayor, conocerá de ella y resolverá el Congreso del Estado, escuchando previamente la opinión del Ayuntamiento;"
+    },
+    {
+      "id": "141.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › Fracción IV",
+      "texto": "IV.- Designar al Regidor que deba sustituir al Presidente Municipal, en caso de falta absoluta de éste y de su suplente y llamar a los suplentes de los Síndicos o Regidores en los casos de falta absoluta de éstos;"
+    },
+    {
+      "id": "141.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › Fracción V",
+      "texto": "V.- Establecer en el territorio del Municipio, las Delegaciones y Subdelegaciones que sean necesarias;\n\nVI- Participar con las autoridades federales y estatales en las funciones de su competencia, atendiendo a lo establecido por el Plan Estatal de Desarrollo y a los programas sectoriales, regionales y especiales, así como el del municipio;"
+    },
+    {
+      "id": "141.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › Fracción VII",
+      "texto": "VII.- Proceder conforme a la Ley sobre monumentos y zonas arqueológicas, artísticas e históricas con auxilio del organismo correspondiente, así como ordenar la suspensión provisional de las obras de restauración y conservación de bienes declarados monumentos y que se ejecuten sin autorización, permiso o cumplimiento de los requisitos establecidos en las Leyes y decretos correlativos;"
+    },
+    {
+      "id": "141.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › Fracción VIII",
+      "texto": "VIII.- Promover el mejoramiento de los servicios y el acrecentamiento del patrimonio municipal;"
+    },
+    {
+      "id": "141.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › Fracción IX",
+      "texto": "IX.- Formular anualmente su proyecto de Ley de Ingresos, que será sometido a la aprobación del Congreso del Estado;"
+    },
+    {
+      "id": "141.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › Fracción X",
+      "texto": "X.- Analizar y Aprobar en su caso, el Presupuesto de Egresos, que cada año le será presentado por el Presidente Municipal, así como la cuenta comprobada de gastos mensuales del ejercicio en curso, en los términos que señale la ley."
+    },
+    {
+      "id": "141.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › Fracción XI",
+      "texto": "XI. Presentar al Congreso del Estado a más tardar el 30 de abril de cada año, la Cuenta Pública del año anterior, salvo lo previsto por la Ley;"
+    },
+    {
+      "id": "141.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › Fracción XII",
+      "texto": "XII.- Vigilar el cumplimiento del Plan Estatal de Desarrollo y los programas sectoriales, regionales y especiales en lo que respecta a su municipio, así como cumplir su Programa Municipal de Desarrollo;"
+    },
+    {
+      "id": "141.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › Fracción XIII",
+      "texto": "XIII.- Promover el desenvolvimiento material, social, cultural, artístico, deportivo, científico, tecnológico y educativo en general, en la comunidad, defendiendo y preservando su ecología a través de programas concretos;"
+    },
+    {
+      "id": "141.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › Fracción XIV",
+      "texto": "XIV.- Mantener actualizada la Estadística del municipio;"
+    },
+    {
+      "id": "141.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › Fracción XV",
+      "texto": "XV.- Facultar al Presidente municipal para que pueda celebrar contratos con particulares e instituciones oficiales, sobre asuntos de interés público, requiriéndose la aprobación de las dos terceras partes de los miembros del Ayuntamiento en la enajenación de bienes inmuebles propiedad del municipio o para comprometer a éste por un plazo mayor al periodo del gobierno municipal en funciones.\n\nXV Bis. - Autorizar la celebración de los siguientes actos:"
+    },
+    {
+      "id": "141.XV.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "XV",
+      "ruta": "Artículo 141 › Fracción XV › inciso a)",
+      "texto": "a) La contratación de financiamientos a cargo del Municipio para destinarlos a inversiones públicas productivas o a su refinanciamiento o reestructuración, en términos de la legislación aplicable;"
+    },
+    {
+      "id": "141.XV.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "XV",
+      "ruta": "Artículo 141 › Fracción XV › inciso b)",
+      "texto": "b) La afectación, como fuente de pago o garantía de las obligaciones o financiamientos a cargo del Municipio, del derecho y los ingresos a las participaciones y aportaciones federales susceptibles de afectación, o los ingresos derivados de contribuciones, productos, aprovechamientos, accesorios u otros conceptos susceptibles de afectación;"
+    },
+    {
+      "id": "141.XV.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "XV",
+      "ruta": "Artículo 141 › Fracción XV › inciso c)",
+      "texto": "c) El otorgamiento de la garantía o aval del Municipio respecto de las obligaciones de las entidades de la administración pública paramunicipal, incluyendo la posibilidad de que el Municipio se obligue de manera subsidiaria o solidaria; y"
+    },
+    {
+      "id": "141.XV.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "XV",
+      "ruta": "Artículo 141 › Fracción XV › inciso d)",
+      "texto": "d) La celebración de convenios con el Estado y, en su caso, con la Federación para la obtención de la garantía del Gobierno Federal respecto de las obligaciones constitutivas de deuda pública a cargo del Municipio.\n\nCuando los actos a que se refieren los incisos anteriores comprometan al Municipio o impacten la hacienda pública municipal por un plazo mayor al periodo del gobierno municipal en funciones, se requerirá la aprobación de las dos terceras partes de los miembros del Ayuntamiento."
+    },
+    {
+      "id": "141.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › Fracción XVI",
+      "texto": "XVI.- Admitir o desechar la licencia que soliciten los Síndicos o los Regidores;"
+    },
+    {
+      "id": "141.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › Fracción XVII",
+      "texto": "XVII. Ejercer, en los términos de las leyes federales y estatales respectivas, las atribuciones siguientes:"
+    },
+    {
+      "id": "141.XVII.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "XVII",
+      "ruta": "Artículo 141 › Fracción XVII › inciso a)",
+      "texto": "a).- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como los planes en materia de movilidad y seguridad vial;\n\nInciso reformado, P.O. Alcance tres del 07 de agosto de 2023."
+    },
+    {
+      "id": "141.XVII.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "XVII",
+      "ruta": "Artículo 141 › Fracción XVII › inciso b)",
+      "texto": "b).- Participar en la creación y administración de sus reservas territoriales;"
+    },
+    {
+      "id": "141.XVII.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "XVII",
+      "ruta": "Artículo 141 › Fracción XVII › inciso c)",
+      "texto": "c).- Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando la Federación o el Estado elaboren proyectos de desarrollo regional deberán asegurar la participación de los Municipios;"
+    },
+    {
+      "id": "141.XVII.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "XVII",
+      "ruta": "Artículo 141 › Fracción XVII › inciso d)",
+      "texto": "d).- Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales;"
+    },
+    {
+      "id": "141.XVII.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "XVII",
+      "ruta": "Artículo 141 › Fracción XVII › inciso e)",
+      "texto": "e).- Intervenir en la regularización de la tenencia de la tierra urbana;"
+    },
+    {
+      "id": "141.XVII.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "XVII",
+      "ruta": "Artículo 141 › Fracción XVII › inciso f)",
+      "texto": "f).- Otorgar licencias y permisos para construcciones;"
+    },
+    {
+      "id": "141.XVII.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "XVII",
+      "ruta": "Artículo 141 › Fracción XVII › inciso g)",
+      "texto": "g).- Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de Programas de ordenamiento en esta materia;"
+    },
+    {
+      "id": "141.XVII.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "",
+      "fraccion": "XVII",
+      "ruta": "Artículo 141 › Fracción XVII › inciso h)",
+      "texto": "h).- Intervenir en la formulación y aplicación de programas de transporte publico de pasajeros cuando aquellos afecten su ámbito territorial;"
+    },
+    {
+      "id": "141.XVII.i",
+      "tipo": "inciso",
+      "marca": "i",
+      "apartado": "",
+      "fraccion": "XVII",
+      "ruta": "Artículo 141 › Fracción XVII › inciso i)",
+      "texto": "i).- Celebrar convenios para la administración y custodia de las Zonas Federales.\n\nEn lo conducente, los ayuntamientos podrán expedir los reglamentos y disposiciones administrativas que sean necesarios de conformidad con lo dispuesto en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "141.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › Fracción XVIII",
+      "texto": "XVIII.- Cuando dos o más centros urbanos situados en territorios municipales del Estado de Hidalgo y otra u otras entidades federativas formen o tiendan a formar una continuidad demográfica, el Estado y los municipios respectivos planearán con la Federación y él o los otros Estados y sus municipios y regularán en el ámbito de sus competencias, de manera conjunta y coordinada, el desarrollo de dichos centros, incluyendo criterios para la movilidad y seguridad vial, con apego a las leyes federales en la materia;\n\nFracción reformada, P.O. Alcance tres del 07 de agosto de 2023."
+    },
+    {
+      "id": "141.XIX",
+      "tipo": "fraccion",
+      "marca": "XIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › Fracción XIX",
+      "texto": "XIX.- Participar en el Sistema para la Profesionalización del Servicio Público Municipal, mediante la capacitación, evaluación y certificación de su personal, en los términos que establezca la Ley; y"
+    },
+    {
+      "id": "141.XX",
+      "tipo": "fraccion",
+      "marca": "XX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › Fracción XX",
+      "texto": "XX.- Las demás que le concedan la Constitución Política de los Estados Unidos Mexicanos y esta Constitución."
+    }
+  ]
+}

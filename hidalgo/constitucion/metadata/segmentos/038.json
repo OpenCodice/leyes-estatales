@@ -1,0 +1,54 @@
+{
+  "clave": "038",
+  "etiqueta": "Artículo 38",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "038.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › párrafo 1",
+      "texto": "El Congreso tendrá durante cada año de ejercicio, dos períodos ordinarios de sesiones, de la siguiente manera:"
+    },
+    {
+      "id": "038.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › párrafo 2",
+      "texto": "El primer periodo ordinario iniciará el primero de septiembre y concluirá a más tardar el último día de diciembre."
+    },
+    {
+      "id": "038.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › párrafo 3",
+      "texto": "El segundo periodo ordinario comenzará el primer día hábil de febrero y terminará a más tardar el último día de julio."
+    },
+    {
+      "id": "038.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › párrafo 4",
+      "texto": "Los periodos ordinarios no podrán prorrogarse más allá de la fecha de su terminación."
+    },
+    {
+      "id": "038.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › párrafo 5",
+      "texto": "Artículo reformado, P.O. Alcance tres del 30 de enero de 2025."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "clave": "102",
+  "etiqueta": "Artículo 102",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "102.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › párrafo 1",
+      "texto": "Son bienes del dominio público del Estado de Hidalgo:"
+    },
+    {
+      "id": "102.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › Fracción I",
+      "texto": "I.- Los de uso común sitios dentro del territorio Estatal, que no pertenezcan a la Federación o a los Municipios;"
+    },
+    {
+      "id": "102.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › Fracción II",
+      "texto": "II.- Los inmuebles destinados por el Estado a un servicio público y los que se equiparen a éstos conforme a la legislación ordinaria;"
+    },
+    {
+      "id": "102.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › Fracción III",
+      "texto": "III.- Las tierras y sus componentes y las aguas, situadas dentro del territorio del Estado, que no pertenezcan a la Federación, a los Municipios o a otras personas físicas o jurídicas, conforme se defina por la ley que expida el Congreso del Estado;"
+    },
+    {
+      "id": "102.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › Fracción IV",
+      "texto": "IV.- Los inmuebles de propiedad del Estado que por su naturaleza no sean normalmente substituibles; y"
+    },
+    {
+      "id": "102.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › Fracción V",
+      "texto": "V.- Los demás que con ese carácter señale la Legislación ordinaria."
+    }
+  ]
+}

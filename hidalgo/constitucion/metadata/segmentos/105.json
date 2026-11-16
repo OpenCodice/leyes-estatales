@@ -1,0 +1,36 @@
+{
+  "clave": "105",
+  "etiqueta": "Artículo 105",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "105.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › párrafo 1",
+      "texto": "La Hacienda Pública del Estado está constituida por:"
+    },
+    {
+      "id": "105.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción I",
+      "texto": "I.- Los ingresos que determine la Ley de la Materia y demás normas aplicables; y"
+    },
+    {
+      "id": "105.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción II",
+      "texto": "II.- Los ingresos que se perciban por concepto de convenios, participaciones, aportaciones, legados, donaciones o cualesquiera otras causas."
+    }
+  ]
+}
