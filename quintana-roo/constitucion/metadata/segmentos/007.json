@@ -1,0 +1,27 @@
+{
+  "clave": "007",
+  "etiqueta": "Artículo 7",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 1",
+      "texto": "Son Ley Suprema en el Estado de Quintana Roo, las disposiciones que establezcan la Constitución Política de los Estados Unidos Mexicanos, los Tratados Internacionales de los que el Estado Mexicano sea parte y esta Constitución. Los ordenamientos que de ellas emanen forman la estructura jurídica de Quintana Roo."
+    },
+    {
+      "id": "007.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 2",
+      "texto": "Artículo reformado POE 30-07-2013"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "151",
+  "etiqueta": "Artículo 151",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "151.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 151 › párrafo 1",
+      "texto": "El Estado podrá transferir o delegar a los Municipios, mediante Ley o convenio, funciones o servicios que le son propios y que por su naturaleza sean susceptibles de transferencia o delegación, considerando las condiciones territoriales y socioeconómicas de los propios Municipios, así como su capacidad administrativa y financiera."
+    },
+    {
+      "id": "151.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 151 › párrafo 2",
+      "texto": "En la Ley o en el convenio se preverá la correspondiente transferencia de medios financieros, así como las formas de control que se reserva el Estado."
+    },
+    {
+      "id": "151.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 151 › párrafo 3",
+      "texto": "Artículo reformado POE 17-07-2002, 24-10-2003"
+    }
+  ]
+}

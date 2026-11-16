@@ -1,0 +1,54 @@
+{
+  "clave": "044",
+  "etiqueta": "Artículo 44",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "044.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 1",
+      "texto": "Las prerrogativas de las personas ciudadanas se recobran:"
+    },
+    {
+      "id": "044.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 2",
+      "texto": "Párrafo reformado POE 19-03-2025"
+    },
+    {
+      "id": "044.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Fracción I",
+      "texto": "I.- Por haber cesado la causa que originó la suspensión."
+    },
+    {
+      "id": "044.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Fracción II",
+      "texto": "II.- Por rehabilitación, y"
+    },
+    {
+      "id": "044.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › Fracción III",
+      "texto": "III.- Por haber transcurrido el término de la suspensión."
+    }
+  ]
+}

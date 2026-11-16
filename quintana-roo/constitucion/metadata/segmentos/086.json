@@ -1,0 +1,27 @@
+{
+  "clave": "086",
+  "etiqueta": "Artículo 86",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "086.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › párrafo 1",
+      "texto": "Para ser persona Gobernadora sustituta, interina o provisional se requieren los mismos requisitos señalados en el artículo 80."
+    },
+    {
+      "id": "086.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › párrafo 2",
+      "texto": "Artículo reformado POE 19-03-2025"
+    }
+  ]
+}

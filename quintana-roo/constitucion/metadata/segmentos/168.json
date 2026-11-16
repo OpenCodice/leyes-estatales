@@ -1,0 +1,27 @@
+{
+  "clave": "168",
+  "etiqueta": "Artículo 168",
+  "titulo": "TÍTULO DÉCIMO",
+  "capitulo": "CAPITULO VIII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "168.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 168 › párrafo 1",
+      "texto": "Los cargos de elección popular son preferentes a los de nombramiento, y renunciables sólo por causa grave, que calificará la Entidad a quien corresponda conocer las renuncias."
+    },
+    {
+      "id": "168.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 168 › párrafo 2",
+      "texto": "Artículo renumerado (antes 178) POE 24-10-2003. Reformado POE 24-10-2003"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "069",
+  "etiqueta": "Artículo 69",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "069.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 1",
+      "texto": "Las iniciativas se sujetarán al trámite señalado en la Ley Orgánica del Poder Legislativo del Estado y en el Reglamento Interior de la Legislatura. Una vez aprobadas, pasarán al Poder Ejecutivo para que en un plazo no mayor de 10 días formule, si las hubiere, las observaciones pertinentes, o proceda a su publicación. En la interpretación, reforma o derogación de las leyes o decreto se observarán los mismos trámites establecidos para su formación."
+    },
+    {
+      "id": "069.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 2",
+      "texto": "Artículo reformado POE 15-06-2017, 19-03-2025"
+    }
+  ]
+}

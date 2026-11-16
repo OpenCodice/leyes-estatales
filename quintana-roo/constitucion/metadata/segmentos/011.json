@@ -1,0 +1,27 @@
+{
+  "clave": "011",
+  "etiqueta": "Artículo 11",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "011.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › párrafo 1",
+      "texto": "Esta Constitución no perderá su fuerza y vigencia, aún cuando por cualquier causa se interrumpa su observancia. En caso de que por trastornos públicos se establezca un gobierno contrario a sus principios o a los de la Constitución Federal, tan luego como el pueblo recobre su libertad, se restablecerá su observancia."
+    },
+    {
+      "id": "011.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › párrafo 2",
+      "texto": "Artículo original POE 12-01-1975"
+    }
+  ]
+}

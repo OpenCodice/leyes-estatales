@@ -1,0 +1,36 @@
+{
+  "clave": "131",
+  "etiqueta": "Artículo 131",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "131.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 131 › párrafo 1",
+      "texto": "Los Municipios del Estado pueden arreglar entre sí y en cualquier momento, por convenios amistosos, sus respectivos límites; pero no se llevarán a efecto esos arreglos sin la aprobación de la Legislatura del Estado."
+    },
+    {
+      "id": "131.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 131 › párrafo 2",
+      "texto": "De no existir el convenio a que se refiere el párrafo anterior, y a instancia de alguna de las partes en conflicto, el Tribunal Superior de Justicia del Estado conocerá, sustanciará y resolverá con carácter de inatacable en el ámbito estatal, las controversias sobre límites territoriales que se susciten entre los Municipios del Estado, en los términos de la fracción I, apartado A, del artículo 105 de esta Constitución."
+    },
+    {
+      "id": "131.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 131 › párrafo 3",
+      "texto": "Artículo reformado POE 30-09-1992, 24-10-2003, 22-03-2019"
+    }
+  ]
+}

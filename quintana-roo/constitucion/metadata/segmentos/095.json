@@ -1,0 +1,54 @@
+{
+  "clave": "095",
+  "etiqueta": "Artículo 95",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "095.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › párrafo 1",
+      "texto": "Para ser titular de una Secretaría del Despacho y titular de una Dirección de Organismos Descentralizados y Empresas de Participación Estatal se requiere:"
+    },
+    {
+      "id": "095.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › párrafo 2",
+      "texto": "Párrafo reformado POE 31-01-1985, 17-03-1995, 19-03-2025"
+    },
+    {
+      "id": "095.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › Fracción I",
+      "texto": "I. Ser persona ciudadana quintanarroense, y nativa de la Entidad o con residencia efectiva no menor de cinco años.\n\nfracción reformada POE 19-03-2025"
+    },
+    {
+      "id": "095.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › Fracción II",
+      "texto": "II.- Estar en pleno ejercicio de sus derechos políticos, y"
+    },
+    {
+      "id": "095.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › Fracción III",
+      "texto": "III.- Tener modo honesto de vivir.\n\nTratándose de lo dispuesto en la fracción I del presente artículo, podrá ser dispensable únicamente para el cargo de Titular de la Secretaría de Seguridad Ciudadana.\n\nPárrafo adicionado POE 25-03-2011. Reformado POE 19-03-2025 Artículo reformado POE 30-04-1987, 30-09-1987"
+    }
+  ]
+}

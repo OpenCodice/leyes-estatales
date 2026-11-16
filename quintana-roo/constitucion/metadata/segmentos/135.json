@@ -1,0 +1,54 @@
+{
+  "clave": "135",
+  "etiqueta": "Artículo 135",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "135.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › párrafo 1",
+      "texto": "Las personas integrantes del Ayuntamiento se elegirán por sufragio universal, libre, secreto y directo de las personas ciudadanas quintanarroenses en ejercicio de sus derechos, en jornada electoral que tendrá lugar el primer domingo de junio del año que corresponda, mediante el sistema electoral mixto de mayoría relativa y de representación proporcional conforme a las bases siguientes:"
+    },
+    {
+      "id": "135.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción I",
+      "texto": "I. En los Municipios de Othón P. Blanco, Benito Juárez y Playa del Carmen, cada partido político postulará una lista de once personas para ocupar los cargos de Presidencias Municipales, Sindicaturas y Regidurías.\n\nPárrafo reformado POE 19-03-2025 En los municipios de Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Isla Mujeres, Tulum, Bacalar y Puerto Morelos cada partido político postulará una lista de ocho personas para ocupar los cargos de Presidencias Municipales, Sindicaturas y Regidurías."
+    },
+    {
+      "id": "135.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción II",
+      "texto": "II. El Partido Político que obtenga mayoría de votos acreditará a sus personas integrantes en los cargos para los que fueron postuladas."
+    },
+    {
+      "id": "135.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción III",
+      "texto": "III. Los cargos de las Regidurías electas según el principio de representación proporcional, se asignarán a los Partidos Políticos y candidaturas independientes que hayan obtenido por los menos el tres por ciento del total de votos válidos emitidos en los Municipios donde hubiere participado, excepto el Partido Político o la planilla de candidaturas independientes que haya obtenido la mayoría de votos."
+    },
+    {
+      "id": "135.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción IV",
+      "texto": "IV. DEROGADO.\n\nFracción adicionada POE 22-11-2012. Derogada POE 21-09-2017 Artículo reformado POE 24-10-2003, 19-03-2025"
+    }
+  ]
+}

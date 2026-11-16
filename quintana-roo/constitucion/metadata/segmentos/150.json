@@ -1,0 +1,36 @@
+{
+  "clave": "150",
+  "etiqueta": "Artículo 150",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "150.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 150 › párrafo 1",
+      "texto": "Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En todo caso y tratándose de la asociación de Municipios del Estado y uno o más de otras Entidades Federativas, deberán contar con la aprobación de las Legislaturas respectivas."
+    },
+    {
+      "id": "150.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 150 › párrafo 2",
+      "texto": "Sin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios públicos señalados en el artículo 147 de la presente Constitución, los Municipios observarán lo dispuesto por las Leyes federales y estatales."
+    },
+    {
+      "id": "150.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 150 › párrafo 3",
+      "texto": "Artículo reformado POE 20-09-1995, 24-10-2003"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "034",
+  "etiqueta": "Artículo 34",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "034.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › párrafo 1",
+      "texto": "El Estado de Quintana Roo protegerá en beneficio de sus personas trabajadoras, el cumplimiento de los derechos y prerrogativas establecidos en el artículo 123 de la Constitución de los Estados Unidos Mexicanos y en sus leyes reglamentarias."
+    },
+    {
+      "id": "034.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › párrafo 2",
+      "texto": "Artículo reformado POE 19-03-2025"
+    }
+  ]
+}

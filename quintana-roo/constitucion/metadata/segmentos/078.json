@@ -1,0 +1,27 @@
+{
+  "clave": "078",
+  "etiqueta": "Artículo 78",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "078.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › párrafo 1",
+      "texto": "El Poder Ejecutivo se ejerce por una sola persona denominada \"Gobernadora o Gobernador del Estado de Quintana Roo\"."
+    },
+    {
+      "id": "078.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › párrafo 2",
+      "texto": "Artículo reformado POE 19-03-2025"
+    }
+  ]
+}

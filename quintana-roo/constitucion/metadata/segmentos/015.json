@@ -1,0 +1,36 @@
+{
+  "clave": "015",
+  "etiqueta": "Artículo 15",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "015.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › párrafo 1",
+      "texto": "La persona sometida a régimen de servidumbre que entrañe menoscabo de su libertad, por sólo entrar en el Estado, alcanzará la protección dispuesta en sus leyes para las personas habitantes."
+    },
+    {
+      "id": "015.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › párrafo 2",
+      "texto": "Párrafo reformado POE 19-03-2025 En Quintana Roo no se conferirán títulos ni honores privativos o especiales con base al estado social o económico de las personas. Tampoco serán reconocidas distinciones semejantes sin importar quien las otorgue."
+    },
+    {
+      "id": "015.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › párrafo 3",
+      "texto": "Artículo original POE 12-01-1975"
+    }
+  ]
+}

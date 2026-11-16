@@ -1,0 +1,45 @@
+{
+  "clave": "051",
+  "etiqueta": "Artículo 51",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "051.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › párrafo 1",
+      "texto": "No podrán reunirse dos o más de estos poderes en una persona o corporación ni depositarse el Legislativo en una sola persona."
+    },
+    {
+      "id": "051.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › párrafo 2",
+      "texto": "Párrafo reformado POE 19-03-2025 La persona Titular del Poder Ejecutivo representará al Estado en los asuntos en que esta sea parte, por conducto de la dependencia que tenga a su cargo la función de la Consejería Jurídica del Poder Ejecutivo o de las Secretarías de Estado, en los términos que establezca la ley. En el supuesto previsto en el Artículo 46 de la Constitución Política de los Estados Unidos Mexicanos, el Estado será representado por la Gobernadora o el Gobernador en cuyo caso, los convenios que éste celebre deberán ser aprobados por la Legislatura."
+    },
+    {
+      "id": "051.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › párrafo 3",
+      "texto": "Párrafo adicionado POE 03-02-1997. Reformado POE 09-07-2018, 19-03-2025 En los demás casos, el Estado estará representado en la forma que prevea la ley."
+    },
+    {
+      "id": "051.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › párrafo 4",
+      "texto": "Párrafo adicionado POE 03-02-1997"
+    }
+  ]
+}

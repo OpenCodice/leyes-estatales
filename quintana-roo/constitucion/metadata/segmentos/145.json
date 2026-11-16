@@ -1,0 +1,27 @@
+{
+  "clave": "145",
+  "etiqueta": "Artículo 145",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "145.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 145 › párrafo 1",
+      "texto": "Los Ayuntamientos, tendrán facultades para formular, aprobar y publicar, de acuerdo con las leyes en materia municipal que expida la Legislatura del Estado, los bandos de policía y buen gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal."
+    },
+    {
+      "id": "145.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 145 › párrafo 2",
+      "texto": "Artículo reformado POE 10-11-1977, 04-08-1978, 31-03-1983, 21-11-1983, 20-09-1995, 24-10-2003"
+    }
+  ]
+}

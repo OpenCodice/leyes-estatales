@@ -1,0 +1,144 @@
+{
+  "clave": "080",
+  "etiqueta": "Artículo 80",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "080.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 1",
+      "texto": "Para ser Gobernadora o Gobernador del Estado requiere:"
+    },
+    {
+      "id": "080.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 2",
+      "texto": "Párrafo reformado POE 19-03-2025"
+    },
+    {
+      "id": "080.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción I",
+      "texto": "I.- Ser persona ciudadana mexicana por nacimiento y nativa de la entidad, hija o hijo de persona nacida en la entidad o con residencia efectiva no menor de diez años inmediatamente anteriores al día de la elección;\n\nFracción reformada POE 18-03-2008, 21-09-2017, 19-03-2025"
+    },
+    {
+      "id": "080.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción II",
+      "texto": "II.- Tener treinta años cumplidos al día de la elección, y estar en pleno ejercicio de sus derechos políticos.\n\nFracción reformada POE 21-09-2017"
+    },
+    {
+      "id": "080.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción III",
+      "texto": "III. No pertenecer al estado eclesiástico ni ser ministra o ministro de algún culto religioso.\n\nFracción reformada POE 19-03-2025"
+    },
+    {
+      "id": "080.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción IV",
+      "texto": "IV.- No ser militar en servicio activo o persona ciudadana con mando en los cuerpos de seguridad pública, dentro de los noventa días anteriores a la fecha de la elección.\n\nFracción reformada POE 19-03-2025"
+    },
+    {
+      "id": "080.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción V",
+      "texto": "V.- No ser persona Titular de una Secretaría de Estado, Diputada, Diputado o Senadora, Senador, Ministra o Ministro de la Suprema Corte de Justicia de la Nación, Titular de la Fiscalía General de la República, Titular de la Fiscalía Federal Especializada en Combate a la Corrupción, en funciones, a menos que se separe del cargo noventa días anteriores a la fecha de la elección;\n\nFracción reformada POE 25-06-2016, 03-07-2017, 19-03-2025"
+    },
+    {
+      "id": "080.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción VI",
+      "texto": "VI. No ser titular de una Secretaría o Subsecretaría del despacho, titular de Dirección de Organismos Descentralizados o Empresas de Participación Estatal, de la Oficialía Mayor, titular de la Fiscalía General del Estado o de la Fiscalía Especializada en Combate a la Corrupción del Estado, Titular de la Auditoría Superior del Estado, titular de alguna magistratura del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial o del Tribunal de Justicia Administrativa y Anticorrupción del Estado o integrante del Órgano de Administración Judicial, a menos que se separe del cargo noventa días antes de la fecha de la elección;\n\nFracción reformada POE 21-11-1983, 31-01-1985, 30-04-1987, 30-09-1987, 17-07-2002, 22-02-2010, 25-06-2016, 03-07-2017, 09-09-2024, 13-01-2025"
+    },
+    {
+      "id": "080.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción VII",
+      "texto": "VII.- No estar comprendido en alguna de las prohibiciones establecidas por el artículo 89 de esta Constitución."
+    },
+    {
+      "id": "080.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción VIII",
+      "texto": "VIII. No ser persona Consejera Presidenta, Consejera Electoral, Secretaria Ejecutiva o Funcionaria del Instituto Electoral de Quintana Roo, Secretaria o Magistrada del Tribunal Electoral, a menos que se separe de su cargo tres años antes de la fecha de elección.\n\nFracción adicionada POE 17-07-2002, 21-09-2017. Reformado POE 19-03-2025"
+    },
+    {
+      "id": "080.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción IX",
+      "texto": "IX. No pertenecer al Servicio Profesional Electoral Nacional, salvo que se separe del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;\n\nFracción adicionada POE 21-09-2017, 29-05-2026"
+    },
+    {
+      "id": "080.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción X",
+      "texto": "X. No ser Presidenta o Presidente Municipal o persona titular de algún órgano político administrativo, ni ejercer bajo circunstancia alguna las mismas funciones, salvo que se separe del cargo noventa días antes de la fecha de la elección;\n\nFracción adicionada POE 21-09-2017. Reformada POE 19-03-2025, 29-05-2026"
+    },
+    {
+      "id": "080.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción XI",
+      "texto": "XI. No contar con sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;\n\nFracción adicionada POE 29-05-2026"
+    },
+    {
+      "id": "080.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción XII",
+      "texto": "XII. No ser persona deudora alimentaria morosa, y Fracción adicionada POE 29-05-2026"
+    },
+    {
+      "id": "080.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción XIII",
+      "texto": "XIII. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio, concubinato, unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la Gobernadora o Gobernador del Estado en funciones.\n\nFracción adicionada POE 29-05-2026"
+    }
+  ]
+}

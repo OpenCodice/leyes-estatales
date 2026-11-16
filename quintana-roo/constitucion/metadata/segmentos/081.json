@@ -1,0 +1,27 @@
+{
+  "clave": "081",
+  "etiqueta": "Artículo 81",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "081.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 1",
+      "texto": "La Gobernadora o el Gobernador del Estado durará en su cargo 6 años, e iniciará el ejercicio de sus funciones el día 25 de septiembre del año que corresponda."
+    },
+    {
+      "id": "081.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 2",
+      "texto": "Artículo reformado POE 03-03-2009, 19-03-2025"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "156",
+  "etiqueta": "Artículo 156",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPITULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "156.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 156 › párrafo 1",
+      "texto": "En lo conducente y de conformidad a los fines señalados en el párrafo tercero del Artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios, para hacer efectivas las atribuciones señaladas en el presente capítulo."
+    },
+    {
+      "id": "156.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 156 › párrafo 2",
+      "texto": "Artículo reformado POE 31-03-1983, 21-11-1983, 15-02-2001, 17-07-2002, 24-10-2003"
+    }
+  ]
+}

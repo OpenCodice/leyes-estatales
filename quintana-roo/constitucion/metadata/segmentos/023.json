@@ -1,0 +1,117 @@
+{
+  "clave": "023",
+  "etiqueta": "Artículo 23",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "023.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › párrafo 1",
+      "texto": "Las leyes no surtirán efectos retroactivos en perjuicio de persona alguna."
+    },
+    {
+      "id": "023.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › párrafo 2",
+      "texto": "Sólo podrá privarse a las personas de la libertad, propiedades, posesiones o derechos, mediante juicio en que se observen las leyes expedidas con antelación, seguido ante los tribunales previamente establecidos, y en el que se cumplan las formalidades esenciales del procedimiento."
+    },
+    {
+      "id": "023.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › párrafo 3",
+      "texto": "En los juicios del orden criminal nunca se impondrá por simple analogía ni aun por mayoría de razón, pena alguna que no esté decretada por una ley exactamente aplicable al delito de que se trata."
+    },
+    {
+      "id": "023.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › párrafo 4",
+      "texto": "En los juicios del orden civil, la sentencia definitiva deberá ser conforme a la letra o a la interpretación jurídica de la ley, y en su deficiencia, ésta se fundará en los principios generales de derecho."
+    },
+    {
+      "id": "023.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › párrafo 5",
+      "texto": "No se considerará confiscación la aplicación de bienes de una persona cuando sea decretada para el pago de multas o impuestos, ni cuando la decrete una autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito. Tampoco se considera confiscación el decomiso que ordene la autoridad judicial de los bienes en caso de enriquecimiento ilícito en los términos de esta Constitución, la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables, ni la de aquellos bienes cuyo dominio se declare extinto en sentencia. En el caso de extinción de dominio se establecerá un procedimiento que se regirá por las siguientes reglas:"
+    },
+    {
+      "id": "023.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › párrafo 6",
+      "texto": "l. Será jurisdiccional y autónomo del de materia penal;"
+    },
+    {
+      "id": "023.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › Fracción II",
+      "texto": "II. Procederá en los casos de delitos contra la salud, secuestro, robo de vehículos, trata de personas y enriquecimiento ilícito, respecto de los bienes siguientes:\n\nPárrafo reformado POE 03-07-2017"
+    },
+    {
+      "id": "023.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 23 › Fracción II › inciso a)",
+      "texto": "a) Aquellos que sean instrumento, objeto o producto del delito, aún cuando no se haya dictado la sentencia que determine la responsabilidad penal, pero existan elementos suficientes para determinar que el hecho ilícito sucedió."
+    },
+    {
+      "id": "023.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 23 › Fracción II › inciso b)",
+      "texto": "b) Aquellos que no sean instrumento, objeto o producto del delito, pero que hayan sido utilizados o destinados a ocultar o mezclar bienes producto del delito, siempre y cuando se reúnan los extremos del inciso anterior."
+    },
+    {
+      "id": "023.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 23 › Fracción II › inciso c)",
+      "texto": "c) Aquellos que estén siendo utilizados para la comisión de delitos por un tercero, si su dueña o dueño tuvo conocimiento de ello y no lo notificó a la autoridad o hizo algo para impedirlo.\n\nInciso reformado POE 19-03-2025"
+    },
+    {
+      "id": "023.II.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 23 › Fracción II › inciso d)",
+      "texto": "d) Aquellos que estén intitulados a nombre de terceros, pero existan suficientes elementos para determinar que son producto de delitos patrimoniales, y la persona acusada por estos delitos se comporte como dueña o dueño.\n\nInciso reformado POE 19-03-2025"
+    },
+    {
+      "id": "023.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › Fracción III",
+      "texto": "III. Toda persona que se considere afectada podrá interponer los recursos respectivos para demostrar la procedencia lícita de los bienes y su actuación de buena fe, así como que estaba impedida para conocer la utilización ilícita de sus bienes.\n\nArtículo reformado POE 31-08-2015"
+    }
+  ]
+}
