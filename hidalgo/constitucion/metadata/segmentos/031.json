@@ -1,0 +1,63 @@
+{
+  "clave": "031",
+  "etiqueta": "Artículo 31",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "031.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › párrafo 1",
+      "texto": "Para ser Diputado se requiere:"
+    },
+    {
+      "id": "031.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › Fracción I",
+      "texto": "I.- Ser hidalguense;"
+    },
+    {
+      "id": "031.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › Fracción II",
+      "texto": "II.- Tener dieciocho años cumplidos al día de la elección."
+    },
+    {
+      "id": "031.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › Fracción III",
+      "texto": "III.- Tener una residencia efectiva no menor de tres años en el Estado; y"
+    },
+    {
+      "id": "031.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › Fracción IV",
+      "texto": "IV.- (DEROGADA, P.O. 14 DE NOVIEMBRE DE 1995)"
+    },
+    {
+      "id": "031.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › Fracción V",
+      "texto": "V.- No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de alguna diputación.\n\nFracción adicionada. P.O. Alcance uno del 22 de abril de 2026."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "046",
+  "etiqueta": "Artículo 46",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "046.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › párrafo 1",
+      "texto": "La Ley Orgánica del Poder Legislativo establecerá las demás formalidades de instalación, funcionamiento y clausura de los trabajos relativos a los periodos ordinarios y extraordinarios del Congreso."
+    },
+    {
+      "id": "046.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › párrafo 2",
+      "texto": "Artículo reformado, P.O. Alcance tres del 30 de enero de 2025."
+    }
+  ]
+}

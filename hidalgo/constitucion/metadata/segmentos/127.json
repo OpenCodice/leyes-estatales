@@ -1,0 +1,36 @@
+{
+  "clave": "127",
+  "etiqueta": "Artículo 127",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPITULO II BIS",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "127.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 1",
+      "texto": "Los Ayuntamientos serán electos por sufragio directo, libre y secreto, en jornada comicial que se celebrará el primer domingo de junio del año que corresponda. Durarán en su encargo tres años y tomarán posesión el cinco de septiembre del año de la elección."
+    },
+    {
+      "id": "127.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 2",
+      "texto": "Párrafo reformado, P.O. Alcance del 7 de marzo de 2023."
+    },
+    {
+      "id": "127.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 3",
+      "texto": "Los miembros del Ayuntamiento se elegirán por planillas, en los términos de la ley, por cada miembro propietario, se elegirá su suplente del mismo género."
+    }
+  ]
+}

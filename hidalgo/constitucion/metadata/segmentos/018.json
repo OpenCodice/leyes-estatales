@@ -1,0 +1,72 @@
+{
+  "clave": "018",
+  "etiqueta": "Artículo 18",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "018.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › párrafo 1",
+      "texto": "Son obligaciones de los ciudadanos del Estado:"
+    },
+    {
+      "id": "018.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción I",
+      "texto": "I.- Inscribir sus bienes en el Registro Público de la Propiedad y del Comercio del Distrito Judicial que les corresponda, así como registrarse en el Catastro de la Municipalidad, expresando la industria, profesión o trabajo del que subsistan;"
+    },
+    {
+      "id": "018.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción II",
+      "texto": "II.- Inscribirse en los Padrones Electorales, en los términos que determine la Ley de la materia;"
+    },
+    {
+      "id": "018.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción III",
+      "texto": "III.- Alistarse en la Guardia Nacional;"
+    },
+    {
+      "id": "018.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción IV",
+      "texto": "IV.- Votar en las elecciones y consultas populares, así como en los procesos de revocación de mandato, en los términos que señale la legislación secundaria;\n\nFracción reformada, P.O. Alcance cuatro del 01 de diciembre de 2022."
+    },
+    {
+      "id": "018.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción V",
+      "texto": "V.- Desempeñar los cargos de elección popular que en ningún caso serán gratuitos; y"
+    },
+    {
+      "id": "018.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción VI",
+      "texto": "VI.- Desempeñar gratuitamente los cargos consejiles del Municipio donde resida, así como las funciones electorales y censales.\n\nEl incumplimiento de alguna de estas obligaciones se sancionará con suspensión de la ciudadanía hasta por un año."
+    }
+  ]
+}
