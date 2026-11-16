@@ -1,0 +1,36 @@
+{
+  "clave": "043",
+  "etiqueta": "Artículo 43.",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "043.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43. › párrafo 1",
+      "texto": "Las elecciones de diputados por el principio de mayoría relativa serán computadas y declaradas válidas por los órganos electorales en cuyo territorio se haya llevado a cabo el proceso electoral correspondiente, el que otorgará las constancias respectivas a las fórmulas de candidatos que hubiesen obtenido mayoría de votos, en los términos de la ley de la materia."
+    },
+    {
+      "id": "043.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43. › párrafo 2",
+      "texto": "El cómputo de las elecciones de diputados por el principio de Representación proporcional, así como la asignación de éstos, será efectuada por el Instituto Estatal Electoral."
+    },
+    {
+      "id": "043.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43. › párrafo 3",
+      "texto": "Se deroga."
+    }
+  ]
+}

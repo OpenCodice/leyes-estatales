@@ -1,0 +1,54 @@
+{
+  "clave": "017",
+  "etiqueta": "Artículo 17.",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "017.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17. › párrafo 1",
+      "texto": "Sólo por delito que merezca pena privativa de libertad habrá lugar a prisión preventiva. El sitio de ésta será distinto del que se destinare para la extinción de las penas y estarán completamente separados."
+    },
+    {
+      "id": "017.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17. › párrafo 2",
+      "texto": "El sistema penitenciario se organizará sobre la base del respeto a los derechos humanos, el trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no reincida en la comisión de algún delito, observando los beneficios que para él prevé la ley. Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto."
+    },
+    {
+      "id": "017.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17. › párrafo 3",
+      "texto": "El Estado podrá celebrar convenios para que los sentenciados por delitos del ámbito de su competencia extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa."
+    },
+    {
+      "id": "017.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17. › párrafo 4",
+      "texto": "Queda prohibida la pena de muerte y cualesquiera otras penas inusitadas y trascendentales."
+    },
+    {
+      "id": "017.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17. › párrafo 5",
+      "texto": "Toda pena deberá ser proporcional al delito que sancione y al bien jurídico afectado."
+    }
+  ]
+}

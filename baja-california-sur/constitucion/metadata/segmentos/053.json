@@ -1,0 +1,27 @@
+{
+  "clave": "053",
+  "etiqueta": "Artículo 53.",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "053.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53. › párrafo 1",
+      "texto": "Las diputadas o diputados que no concurran a una sesión sin causa justificada o sin permiso de la Presidenta o Presidente del Congreso del Estado, no tendrán derecho a la dieta correspondiente al día en que faltaren."
+    },
+    {
+      "id": "053.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53. › párrafo 2",
+      "texto": "Cuando alguna diputada o diputado deje de asistir por más de cinco sesiones continuas del Congreso del Estado, se entenderá por renuncia a concurrir al período respectivo. En este caso, se llamará al suplente para que lo reemplace."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "058",
+  "etiqueta": "Artículo 58.",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "058.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58. › párrafo 1",
+      "texto": "Las iniciativas se sujetarán al trámite que señale la Ley Orgánica del Poder Legislativo."
+    },
+    {
+      "id": "058.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58. › párrafo 2",
+      "texto": "Una vez aprobadas, se remitirán al Gobernador del Estado para que proceda a su promulgación y publicación, a no ser que formule, si las hubiere, las observaciones pertinentes en un plazo no mayor de diez días hábiles."
+    }
+  ]
+}

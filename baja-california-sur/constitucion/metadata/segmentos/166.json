@@ -1,0 +1,27 @@
+{
+  "clave": "166",
+  "etiqueta": "Artículo 166.",
+  "titulo": "TITULO UNDECIMO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "166.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 166. › párrafo 1",
+      "texto": "La presente Constitución puede ser adicionada y reformada. Las iniciativas que tengan ese objeto, se sujetarán a las disposiciones establecidas en los artículos 57 al 63, pero requerirán de la aprobación de cuando menos, las dos terceras partes del total de diputados que integran la Legislatura."
+    },
+    {
+      "id": "166.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 166. › párrafo 2",
+      "texto": "Se deroga."
+    }
+  ]
+}

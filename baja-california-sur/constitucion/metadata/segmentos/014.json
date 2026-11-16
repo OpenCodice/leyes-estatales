@@ -1,0 +1,72 @@
+{
+  "clave": "014",
+  "etiqueta": "Artículo 14.",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "014.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14. › párrafo 1",
+      "texto": "A nadie se le podrá aplicar una ley retroactivamente en su perjuicio."
+    },
+    {
+      "id": "014.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14. › párrafo 2",
+      "texto": "Nadie podrá ser privado de la libertad o de sus propiedades, posesiones o derechos, sino mediante juicio seguido ante los tribunales previamente establecidos, en el que se cumplan las formalidades esenciales del procedimiento y conforme a las Leyes expedidas con anterioridad al hecho."
+    },
+    {
+      "id": "014.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14. › párrafo 3",
+      "texto": "Toda persona tiene derecho a que se le administre justicia por tribunales que estarán expeditos para impartirla en los plazos y términos que fijen las leyes, emitiendo sus resoluciones de manera pronta, completa e imparcial. Su servicio será gratuito, quedando, en consecuencia, prohibidas las costas judiciales. Las leyes preverán las cuantías y supuestos en materia tributaria en las cuales tanto los Tribunales Administrativos como las Magistradas y Magistrados y Juezas y Jueces del Tribunal Superior de Justicia, deberán resolver en un máximo de seis meses, contados a partir del conocimiento del asunto por parte de la autoridad competente. En caso de cumplirse con el plazo señalado y que no se haya dictado sentencia, el órgano jurisdiccional que conozca del asunto deberá dar aviso inmediato al Tribunal de Disciplina Judicial y justificar las razones de dicha demora o, en su caso, dar vista al órgano interno de control tratándose de Tribunales Administrativos."
+    },
+    {
+      "id": "014.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14. › párrafo 4",
+      "texto": "Queda estrictamente prohibida la creación de leyes o tribunales especiales para casos concretos. Las leyes del Estado establecerán los medios necesarios para que se garantice la independencia de los Tribunales y la plena ejecución de sus resoluciones."
+    },
+    {
+      "id": "014.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14. › párrafo 5",
+      "texto": "En los juicios del orden penal queda prohibido imponer, por simple analogía, y aún por mayoría de razón, pena alguna que no esté decretada por una ley exactamente aplicable al delito de que se trata."
+    },
+    {
+      "id": "014.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14. › párrafo 6",
+      "texto": "En los juicios del orden civil, la sentencia definitiva deberá ser conforme a la letra o a la interpretación jurídica de la ley, y a falta de ésta se fundará en los principios generales del derecho."
+    },
+    {
+      "id": "014.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14. › párrafo 7",
+      "texto": "Nadie puede ser aprisionado por deudas de carácter puramente civil."
+    }
+  ]
+}

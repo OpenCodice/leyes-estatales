@@ -1,0 +1,72 @@
+{
+  "clave": "029",
+  "etiqueta": "Artículo 29.",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "029.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29. › párrafo 1",
+      "texto": "Son deberes de las ciudadanas y ciudadanos sudcalifornianos:"
+    },
+    {
+      "id": "029.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29. › Fracción I",
+      "texto": "I.- Inscribirse en el Catastro de la Municipalidad, manifestando sus propiedades, industria, profesión u ocupación."
+    },
+    {
+      "id": "029.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29. › Fracción II",
+      "texto": "II.- Inscribirse en los padrones electorales en los términos que determinen las Leyes."
+    },
+    {
+      "id": "029.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29. › Fracción III",
+      "texto": "III.- Alistarse en la Guardia Nacional."
+    },
+    {
+      "id": "029.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29. › Fracción IV",
+      "texto": "IV.- Votar en las elecciones, consultas ciudadanas plebiscitarias, de referéndum y los procesos de revocación de mandato; en los términos que señale la Ley;"
+    },
+    {
+      "id": "029.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29. › Fracción V",
+      "texto": "V.- Ejercer los cargos de elección popular para los que fuere electo; y"
+    },
+    {
+      "id": "029.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29. › Fracción VI",
+      "texto": "VI.- Desempeñar las funciones electorales, censales, las de jurado y las de Consejo del Municipio en que resida."
+    }
+  ]
+}

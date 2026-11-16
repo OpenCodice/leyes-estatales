@@ -1,0 +1,36 @@
+{
+  "clave": "155",
+  "etiqueta": "Artículo 155.",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "CAPITULO X",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "155.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 155. › párrafo 1",
+      "texto": "La Ley Orgánica determinará la organización y funcionamiento de las Dependencias Administrativas del Ayuntamiento y los requisitos, facultades y obligaciones de sus titulares."
+    },
+    {
+      "id": "155.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 155. › párrafo 2",
+      "texto": "En el nombramiento y remoción de los Titulares de la Secretaría General, Tesorería, Contraloría, Oficialía Mayor y de las Direcciones Generales de los Ayuntamientos, deberá observarse el principio de paridad de género."
+    },
+    {
+      "id": "155.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 155. › párrafo 3",
+      "texto": "En caso de que los nombramientos y remociones de dichos Titulares se realicen en contravención a lo establecido en el párrafo anterior, se considerarán nulos de pleno derecho."
+    }
+  ]
+}

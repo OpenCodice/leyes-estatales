@@ -1,0 +1,27 @@
+{
+  "clave": "144",
+  "etiqueta": "Artículo 144.",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "CAPITULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "144.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 144. › párrafo 1",
+      "texto": "Cuando no se hubiere verificado la elección en la fecha que debe renovarse el Ayuntamiento, o efectuada ésta, no se presente el Ayuntamiento a tomar posesión de su cargo, el Gobernador propondrá al Congreso un Concejo Municipal que se encargará provisionalmente de las funciones del Ayuntamiento y se convocará a elecciones extraordinarias, las que, en caso de juzgarse necesarias, deberán celebrarse en un plazo no mayor de 45 días."
+    },
+    {
+      "id": "144.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 144. › párrafo 2",
+      "texto": "En caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, el Congreso del Estado designará de entre los vecinos al Concejo Municipal que concluirá los períodos respectivos este Concejo estará integrado por el número de miembros que establece la fracción XXXVIII del artículo 64 de esta Constitución, quienes deberán cumplir con los requisitos de elegibilidad establecidos para regidores."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "clave": "138-bis",
+  "etiqueta": "Artículo 138. Bis",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "CAPITULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "138-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138. Bis › párrafo 1",
+      "texto": "No podrá ser miembro de un ayuntamiento:"
+    },
+    {
+      "id": "138-bis.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138. Bis › Fracción I",
+      "texto": "I.- El Gobernador en ejercicio, aun cuando se separe definitivamente de su puesto, cualquiera que sea su calidad, el origen y la forma de su designación"
+    },
+    {
+      "id": "138-bis.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138. Bis › Fracción II",
+      "texto": "II.- Quienes desempeñen, con excepción de las personas docentes, cargos o comisión del Gobierno Federal o Estatal, las personas Titulares de las Secretarias y subsecretarias de Despacho o su equivalente del Poder Ejecutivo, las personas Procuradora General de Justicia, Fiscal Especializado en Materia de Combate a la Corrupción, la personas Magistradas del Tribunal Superior de Justicia, Juezas, personas integrantes tribunal de disciplina Judicial y del órgano de administración judicial, Magistradas del Tribunal Estatal Electoral, Magistradas del Tribunal de Justicia Administrativa del Estado de Baja California Sur, a menos que se separe sesenta días naturales anteriores al día de la elección."
+    },
+    {
+      "id": "138-bis.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138. Bis › Fracción III",
+      "texto": "III.- Los militares en servicio activo y los ciudadanos que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos sesenta días anteriores a la elección; y"
+    },
+    {
+      "id": "138-bis.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138. Bis › Fracción IV",
+      "texto": "IV.- Las personas ministros de algún culto religioso, a menos que se separen formal, material y definitivamente de su ministerio, cuando menos cinco años antes del día de la elección."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "080",
+  "etiqueta": "Artículo 80.",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "080.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80. › párrafo 1",
+      "texto": "La Administración Pública de Baja California Sur, será Centralizada y Paraestatal conforme a esta Constitución y a la Ley Orgánica que expida el Congreso del Estado, que distribuirá los asuntos de orden administrativo que estarán a cargo de las Secretarías del Despacho, Dependencias y demás organismos, y definirá las bases para la creación de las Entidades Paraestatales y la intervención del Ejecutivo Estatal en su operación."
+    },
+    {
+      "id": "080.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80. › párrafo 2",
+      "texto": "Las Leyes determinarán las relaciones entre las Entidades Paraestatales y el Gobernador y por el funcionario del ramo relativo."
+    }
+  ]
+}

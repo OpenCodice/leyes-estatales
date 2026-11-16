@@ -1,0 +1,27 @@
+{
+  "clave": "147",
+  "etiqueta": "Artículo 147.",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "CAPITULO VII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "147.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 147. › párrafo 1",
+      "texto": "Concluida la sesión de instalación, el Presidente o quien haga sus veces, notificará de inmediato a los miembros propietarios ausentes para que asuman su cargo en un plazo no mayor de quince días."
+    },
+    {
+      "id": "147.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 147. › párrafo 2",
+      "texto": "Si no se presentan transcurrido este plazo, los suplentes entrarán en ejercicio definitivo."
+    }
+  ]
+}
