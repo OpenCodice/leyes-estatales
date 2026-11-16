@@ -1,0 +1,27 @@
+{
+  "clave": "165",
+  "etiqueta": "Artículo 165",
+  "titulo": "TITULO XII",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "165.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 165 › párrafo 1",
+      "texto": "Los Poderes Legislativo, incluida la Auditoría Superior del Estado, Judicial y Ejecutivo del Estado, este último, tanto en la administración pública centralizada como en la paraestatal; los organismos públicos autónomos y los ayuntamientos, incluyendo las dependencias de la administración pública municipal centralizada y paraestatal y la sindicatura, deberán entregar antes del término de su función, a las autoridades entrantes, la documentación e información necesaria que permita conocer el ejercicio y funcionamiento de dicho encargo. La legislación regulará el proceso de entrega-recepción de las diferentes dependencias."
+    },
+    {
+      "id": "165.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 165 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 1362-2013 XIII P.E. publicado en el P.O.E. No. 12 del 11 de febrero de 2015]"
+    }
+  ]
+}

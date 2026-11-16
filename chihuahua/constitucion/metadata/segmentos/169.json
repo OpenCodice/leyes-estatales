@@ -1,0 +1,27 @@
+{
+  "clave": "169",
+  "etiqueta": "Artículo 169",
+  "titulo": "TITULO XII",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "169.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 169 › párrafo 1",
+      "texto": "La ley determinará las atribuciones de la dependencia encargada de las finanzas públicas del Estado."
+    },
+    {
+      "id": "169.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 169 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 922-07 II P.O. publicado en el P.O.E. No. 37 del 9 de mayo del 2007]"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "158",
+  "etiqueta": "Artículo 158",
+  "titulo": "TITULO XII",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "158.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158 › párrafo 1",
+      "texto": "Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos."
+    },
+    {
+      "id": "158.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

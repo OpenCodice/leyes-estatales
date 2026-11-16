@@ -1,0 +1,27 @@
+{
+  "clave": "141",
+  "etiqueta": "Artículo 141",
+  "titulo": "TITULO XI",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "141.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › párrafo 1",
+      "texto": "Los ayuntamientos están facultados para aprobar, de acuerdo a las leyes en materia municipal que expida el Congreso del Estado, los bandos de policía y gobierno y los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana, a través de los instrumentos establecidos en la legislación aplicable."
+    },
+    {
+      "id": "141.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. LXV/RFCNT/0769/2018 II P.O. publicado en el P.O.E. No. 50 del 23 de junio de 2018]"
+    }
+  ]
+}

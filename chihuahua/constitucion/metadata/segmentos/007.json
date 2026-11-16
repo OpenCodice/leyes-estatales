@@ -1,0 +1,27 @@
+{
+  "clave": "007",
+  "etiqueta": "Artículo 7",
+  "titulo": "TITULO II",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 1",
+      "texto": "La autoridad ante quien se ejerza el derecho de petición en los términos del artículo 8º. de la Constitución Federal, comunicará su proveído al peticionario a más tardar dentro de los quince días hábiles siguientes a la presentación del escrito, salvo lo que disponga la ley para casos especiales."
+    },
+    {
+      "id": "007.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

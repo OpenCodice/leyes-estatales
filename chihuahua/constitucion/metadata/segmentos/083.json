@@ -1,0 +1,27 @@
+{
+  "clave": "083",
+  "etiqueta": "Artículo 83",
+  "titulo": "TITULO VII",
+  "capitulo": "CAPITULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "083.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › párrafo 1",
+      "texto": "La Diputación Permanente dará cuenta al Congreso, en la segunda sesión del período ordinario siguiente, del uso que hubiere hecho de sus atribuciones, presentando al efecto una memoria escrita de sus trabajos, así como de los expedientes que hubiere formado."
+    },
+    {
+      "id": "083.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

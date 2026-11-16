@@ -1,0 +1,45 @@
+{
+  "clave": "012",
+  "etiqueta": "Artículo 12",
+  "titulo": "TITULO III",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "012.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › párrafo 1",
+      "texto": "Los habitantes del Estado, sean nacionales o extranjeros y cualquier otra persona que en él se halle, están obligados a:"
+    },
+    {
+      "id": "012.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción I",
+      "texto": "I. Obedecer las leyes y respetar a las autoridades;"
+    },
+    {
+      "id": "012.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción II",
+      "texto": "II. Contribuir a los gastos públicos del Estado y del municipio en que residan en la forma proporcional y equitativa que dispongan las leyes, y"
+    },
+    {
+      "id": "012.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción III",
+      "texto": "III. Tener un modo honesto de vivir.\n\n[Artículo reformado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

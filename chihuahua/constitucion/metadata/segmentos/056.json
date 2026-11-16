@@ -1,0 +1,27 @@
+{
+  "clave": "056",
+  "etiqueta": "Artículo 56",
+  "titulo": "TITULO VII",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "056.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › párrafo 1",
+      "texto": "Las sesiones del Congreso serán públicas; y secretas solamente las que determine su Ley Orgánica."
+    },
+    {
+      "id": "056.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 296-3-4 P.E. publicado en el P.O.E. No. 7 del 24 de enero de 1979]"
+    }
+  ]
+}

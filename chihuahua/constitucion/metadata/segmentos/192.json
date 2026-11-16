@@ -1,0 +1,27 @@
+{
+  "clave": "192",
+  "etiqueta": "Artículo 192",
+  "titulo": "TITULO XIV",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "192.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 192 › párrafo 1",
+      "texto": "Nunca podrán reunirse en una persona varios empleos públicos por los que se disfrute remuneración; exceptuándose únicamente los de enseñanza, siempre que no interfieran con el desempeño de su función. La infracción de este artículo y de los dos próximos anteriores será motivo de responsabilidad para los funcionarios y empleados que, en sus respectivos casos, ordenen o reciban los pagos indebidos."
+    },
+    {
+      "id": "192.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 192 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 640-09 II P.O. publicado en el P.O.E. No. 99 del 12 de diciembre de 2009]"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "154",
+  "etiqueta": "Artículo 154",
+  "titulo": "TITULO XII",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "154.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154 › párrafo 1",
+      "texto": "Derogado."
+    },
+    {
+      "id": "154.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 154 › párrafo 2",
+      "texto": "[Artículo derogado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

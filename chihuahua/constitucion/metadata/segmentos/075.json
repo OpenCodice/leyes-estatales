@@ -1,0 +1,27 @@
+{
+  "clave": "075",
+  "etiqueta": "Artículo 75",
+  "titulo": "TITULO VII",
+  "capitulo": "CAPITULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "075.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › párrafo 1",
+      "texto": "El Ejecutivo no podrá hacer observaciones a las resoluciones del Congreso, cuando hayan sido dictadas en ejercicio de las atribuciones que a este confiere el artículo 64 en sus fracciones VII, VIII, IX, XV, XVI, XVII, XVIII, XIX, XX, XXI, XXII, XXVII y XLIII y la fracción II del artículo 82."
+    },
+    {
+      "id": "075.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 910-2015 II P.O. publicado en el P.O.E. No. 98 del 9 de diciembre de 2015]"
+    }
+  ]
+}

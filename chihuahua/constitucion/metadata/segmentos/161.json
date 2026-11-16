@@ -1,0 +1,54 @@
+{
+  "clave": "161",
+  "etiqueta": "Artículo 161",
+  "titulo": "TITULO XII",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "161.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 161 › párrafo 1",
+      "texto": "La Hacienda Pública del Estado se formará:"
+    },
+    {
+      "id": "161.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 161 › Fracción I",
+      "texto": "I. De los bienes que pertenezcan al mismo."
+    },
+    {
+      "id": "161.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 161 › Fracción II",
+      "texto": "II. Del producto de las contribuciones o participaciones legales."
+    },
+    {
+      "id": "161.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 161 › Fracción III",
+      "texto": "III. De las multas que deban ingresar al Erario del Estado y del producto de las demás penas pecuniarias que se impongan conforme a la ley."
+    },
+    {
+      "id": "161.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 161 › Fracción IV",
+      "texto": "IV. De las herencias que se dejen o por ley correspondan al tesoro público, y de los legados y donaciones que se le hagan."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "034",
+  "etiqueta": "Artículo 34",
+  "titulo": "TÍTULO V",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "034.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › párrafo 1",
+      "texto": "Si desaparecieren al mismo tiempo el Congreso y el Ejecutivo, el Presidente del Tribunal Superior de Justicia asumirá por ministerio de ley y sin ningún otro requisito el Poder Ejecutivo y convocará, dentro de los noventa días siguientes, a elecciones de diputados al Congreso; y éste, una vez instalado, nombrará Gobernador con el carácter que corresponda."
+    },
+    {
+      "id": "034.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 1622-2016 XXII P.E. publicado en el P.O.E. No. 79 del 01 de octubre de 2016]"
+    }
+  ]
+}

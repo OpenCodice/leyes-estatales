@@ -1,0 +1,36 @@
+{
+  "clave": "131",
+  "etiqueta": "Artículo 131",
+  "titulo": "TITULO XI",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "131.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 131 › párrafo 1",
+      "texto": "Los Ayuntamientos tienen personalidad jurídica para todos los efectos legales y no habrá autoridad intermedia entre ellos y el Gobierno del Estado."
+    },
+    {
+      "id": "131.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 131 › párrafo 2",
+      "texto": "El municipio libre constituye la primera expresión de la soberanía, de la división territorial y de la organización política y administrativa. Gozará de autonomía financiera, con transparencia y rendición de cuentas. El municipio libre reconocerá la diversidad cultural, demográfica, territorial, étnica, económica y social, preservando los principios de equidad en su desarrollo y de cooperación e interdependencia."
+    },
+    {
+      "id": "131.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 131 › párrafo 3",
+      "texto": "[Artículo adicionado con un segundo párrafo mediante Decreto No. LXVIII/RFCNT/0552/2026 VIII P.E. publicado en el P.O.E. No. 83 del 17 de octubre de 2026]"
+    }
+  ]
+}
