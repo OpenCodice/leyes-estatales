@@ -1,0 +1,27 @@
+{
+  "clave": "117",
+  "etiqueta": "Artículo 117",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "117.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)"
+    },
+    {
+      "id": "117.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › párrafo 2",
+      "texto": "Nadie puede ejercer a la vez en el Estado dos o más cargos de elección popular, pero el que esté en el caso podrá optar por alguno de ellos."
+    }
+  ]
+}

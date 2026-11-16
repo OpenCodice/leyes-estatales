@@ -1,0 +1,27 @@
+{
+  "clave": "041",
+  "etiqueta": "Artículo 41",
+  "titulo": "",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "041.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 4 DE FEBRERO DE 1982)"
+    },
+    {
+      "id": "041.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › párrafo 2",
+      "texto": "El Congreso no puede abrir sesiones ni ejercer su encargo, sin la concurrencia de más de la mitad del número total de sus miembros; pero los Diputados que asistan los días señalados por la Ley deberán compeler a los ausentes para que concurran, apercibiéndolos de las penas que la misma Ley establezca y, en su caso, llamarán a los respectivos suplentes, a fin de que desempeñen las funciones de los propietarios mientras se presentan éstos, o bien, los substituyan en forma definitiva conforme a la Ley."
+    }
+  ]
+}

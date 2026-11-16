@@ -1,0 +1,27 @@
+{
+  "clave": "028",
+  "etiqueta": "Artículo 28",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "028.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "028.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › párrafo 2",
+      "texto": "Es objeto del poder público el integral y constante mejoramiento de la población del Estado, con base en el perfeccionamiento de la democracia política, económica y social."
+    }
+  ]
+}

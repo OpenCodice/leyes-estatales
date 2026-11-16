@@ -1,0 +1,27 @@
+{
+  "clave": "077",
+  "etiqueta": "Artículo 77",
+  "titulo": "",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "077.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 18 DE MAYO DE 2001)"
+    },
+    {
+      "id": "077.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 2",
+      "texto": "Se establece en el Estado una Institución de Asistencia Jurídico-Social, que tendrá por objeto proporcionar la defensa de las personas. La Ley Orgánica que se expida sobre esta materia, establecerá las bases para su funcionamiento."
+    }
+  ]
+}

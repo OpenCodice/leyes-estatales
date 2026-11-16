@@ -1,0 +1,72 @@
+{
+  "clave": "016",
+  "etiqueta": "Artículo 16",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "016.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "016.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › párrafo 2",
+      "texto": "La interpretación de los derechos humanos a que hace alusión esta Constitución se hará de conformidad con los siguientes principios:"
+    },
+    {
+      "id": "016.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › inciso a)",
+      "texto": "a) Deben interpretarse evitando la contradicción con la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales en la materia;"
+    },
+    {
+      "id": "016.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › inciso b)",
+      "texto": "b) Su sentido se determinará de conformidad con los instrumentos internacionales incorporados al orden jurídico mexicano aplicables y atendiendo a los criterios de los organismos internacionales de protección de los derechos humanos reconocidos por el Estado mexicano;"
+    },
+    {
+      "id": "016.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › inciso c)",
+      "texto": "c) Cuando resulten aplicables o en conflicto dos o más derechos humanos se hará una ponderación entre ellos a fin de lograr su interpretación jurídica, logrando que su ejercicio no signifique menoscabo a los derechos de terceros, prevaleciendo la seguridad de todos y las justas exigencias del bienestar general;"
+    },
+    {
+      "id": "016.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › inciso d)",
+      "texto": "d) Ninguna interpretación podrá excluir otros derechos inherentes al ser humano que no estén previstos en la presente Constitución, e"
+    },
+    {
+      "id": "016.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › inciso e)",
+      "texto": "e) Se deberá optar en la interpretación por el sentido más favorable a la persona y atendiendo a su progresividad."
+    }
+  ]
+}

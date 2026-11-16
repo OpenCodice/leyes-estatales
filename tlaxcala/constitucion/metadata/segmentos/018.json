@@ -1,0 +1,45 @@
+{
+  "clave": "018",
+  "etiqueta": "Artículo 18",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "018.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "018.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › párrafo 2",
+      "texto": "Los derechos que se encuentren restringidos se recobrarán:"
+    },
+    {
+      "id": "018.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción I",
+      "texto": "I. En el caso de la fracción I del artículo anterior, por recuperar la ciudadanía mexicana, y"
+    },
+    {
+      "id": "018.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción II",
+      "texto": "II. Por indulto, conmutación o cumplimiento de la pena impuesta."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "038",
+  "etiqueta": "Artículo 38",
+  "titulo": "",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "038.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 21 DE JULIO DE 2015)"
+    },
+    {
+      "id": "038.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › párrafo 2",
+      "texto": "El Congreso del Estado se renovará en su totalidad cada tres años; la Legislatura entrante comenzará a funcionar el día treinta de agosto del año de la elección de que se trate."
+    }
+  ]
+}

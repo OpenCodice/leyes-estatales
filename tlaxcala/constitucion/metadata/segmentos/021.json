@@ -1,0 +1,27 @@
+{
+  "clave": "021",
+  "etiqueta": "Artículo 21",
+  "titulo": "",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "021.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "021.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 2",
+      "texto": "El voto es la prerrogativa de todo ciudadano, es la forma concreta y práctica del sufragio universal, libre, secreto y directo."
+    }
+  ]
+}

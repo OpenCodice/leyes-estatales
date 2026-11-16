@@ -1,0 +1,27 @@
+{
+  "clave": "005",
+  "etiqueta": "Artículo 5",
+  "titulo": "",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "005.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "005.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 2",
+      "texto": "Las cuestiones que se presenten sobre la extensión y límites se arreglarán o solucionarán en los términos previstos en la Constitución Política de los Estados Unidos Mexicanos."
+    }
+  ]
+}

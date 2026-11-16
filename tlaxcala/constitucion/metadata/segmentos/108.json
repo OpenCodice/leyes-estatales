@@ -1,0 +1,45 @@
+{
+  "clave": "108",
+  "etiqueta": "Artículo 108",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "108.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 18 DE MAYO DE 2001)"
+    },
+    {
+      "id": "108.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › párrafo 2",
+      "texto": "Todo servidor público será responsable política, administrativa, penal y civilmente de los actos u omisiones en el ejercicio de sus funciones. Estas responsabilidades son independientes entre sí. No se podrán imponer dos sanciones de igual naturaleza por una misma conducta u omisión. Las Leyes señalarán el tiempo de prescripción de cada responsabilidad. En todo caso, deberá respetarse el derecho de audiencia del inculpado."
+    },
+    {
+      "id": "108.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 18 DE JULIO DE 2017)"
+    },
+    {
+      "id": "108.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › párrafo 4",
+      "texto": "El Congreso expedirá la Ley que determine las responsabilidades y sanciones de los servidores públicos y particulares, señalará las causas y procedimientos, así como las autoridades competentes para tales efectos."
+    }
+  ]
+}

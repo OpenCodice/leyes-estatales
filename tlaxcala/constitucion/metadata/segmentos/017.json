@@ -1,0 +1,45 @@
+{
+  "clave": "017",
+  "etiqueta": "Artículo 17",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "017.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "017.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 2",
+      "texto": "Los derechos consagrados en esta Constitución se restringen:"
+    },
+    {
+      "id": "017.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción I",
+      "texto": "I. Por la pérdida de la ciudadanía mexicana, y"
+    },
+    {
+      "id": "017.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción II",
+      "texto": "II. Por sentencia ejecutoriada que así lo declare en calidad de pena impuesta con la privación de su libertad y en aquellas que la ley así lo determine."
+    }
+  ]
+}

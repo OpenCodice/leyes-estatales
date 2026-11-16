@@ -1,0 +1,72 @@
+{
+  "clave": "011",
+  "etiqueta": "Artículo 11",
+  "titulo": "",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "011.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "011.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › párrafo 2",
+      "texto": "Son obligaciones de la población, sin distinción alguna:"
+    },
+    {
+      "id": "011.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción I",
+      "texto": "I. Cumplir con las disposiciones de la presente Constitución, las leyes y ordenamientos que de ella emanen;"
+    },
+    {
+      "id": "011.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción II",
+      "texto": "II. Obedecer a las autoridades legalmente constituidas;"
+    },
+    {
+      "id": "011.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción III",
+      "texto": "III. Prestar a las autoridades el auxilio para el que fueren legalmente requeridos;"
+    },
+    {
+      "id": "011.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción IV",
+      "texto": "IV. Contribuir al gasto público de manera proporcional y equitativa conforme lo dispongan las leyes, y"
+    },
+    {
+      "id": "011.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción V",
+      "texto": "V. Recibir y dar educación obligatoria a sus hijos y la instrucción militar de acuerdo a las leyes."
+    }
+  ]
+}

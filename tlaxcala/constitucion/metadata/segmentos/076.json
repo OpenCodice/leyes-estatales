@@ -1,0 +1,27 @@
+{
+  "clave": "076",
+  "etiqueta": "Artículo 76",
+  "titulo": "",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "076.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 21 DE MAYO DE 2024)"
+    },
+    {
+      "id": "076.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76 › párrafo 2",
+      "texto": "La operación del sistema integral de justicia para adolescentes estará a cargo de instancias de la Fiscalía General de Justicia del Estado, jurisdiccionales y administrativas especializadas en la materia. La ley que se expida establecerá su estructura, y normará su funcionamiento, competencia y administración."
+    }
+  ]
+}

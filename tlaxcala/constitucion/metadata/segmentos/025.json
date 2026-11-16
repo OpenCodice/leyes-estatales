@@ -1,0 +1,27 @@
+{
+  "clave": "025",
+  "etiqueta": "Artículo 25",
+  "titulo": "",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "025.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 01 DE SEPTIEMBRE DE 2026)"
+    },
+    {
+      "id": "025.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 2",
+      "texto": "Los procesos de elección para renovar a los poderes del Estado, a los Tribunales de Justicia Administrativa y de Conciliación y Arbitraje, así como a los ayuntamientos y presidencias de comunidad electas por voto constitucional, se realizarán por medio del sufragio universal, libre, secreto y directo; ordinariamente se celebrarán el primer domingo de junio de cada tres o seis años conforme a la elección que corresponda o extraordinariamente, según sean convocados, de acuerdo con los principios y bases que prescriben la Constitución Política de los Estados Unidos Mexicanos y la presente Constitución. Tratándose de la elección de personas juzgadoras, la jornada electoral se celebrará en la fecha que corresponda a la elección judicial federal, conforme a las bases previstas en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en las leyes aplicables. La Ley de la materia determinará las reglas y los procedimientos que correspondan."
+    }
+  ]
+}

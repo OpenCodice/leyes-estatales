@@ -1,0 +1,36 @@
+{
+  "clave": "047",
+  "etiqueta": "Artículo 47",
+  "titulo": "",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "047.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › párrafo 1",
+      "texto": "(DEROGADO ÚLTIMO PÁRRAFO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "047.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 18 DE MAYO DE 2001)"
+    },
+    {
+      "id": "047.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › párrafo 3",
+      "texto": "Los proyectos o iniciativas adquirirán el carácter de Ley o Decreto, cuando sean aprobados por la mayoría de los diputados presentes, salvo que la Ley disponga otra cosa."
+    }
+  ]
+}

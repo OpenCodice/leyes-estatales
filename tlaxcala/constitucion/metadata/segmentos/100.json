@@ -1,0 +1,27 @@
+{
+  "clave": "100",
+  "etiqueta": "Artículo 100",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "100.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "100.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › párrafo 2",
+      "texto": "Los planes de desarrollo estatal como los municipales, se orientarán para lograr el equilibrio socioeconómico de las comunidades del Estado; atenderán prioritariamente las zonas marginadas y establecerán la forma de aprovechar sus recursos, infraestructura y organización a través de la participación comunitaria."
+    }
+  ]
+}

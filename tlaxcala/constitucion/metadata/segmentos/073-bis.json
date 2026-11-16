@@ -1,0 +1,45 @@
+{
+  "clave": "073-bis",
+  "etiqueta": "Artículo 73 Bis",
+  "titulo": "",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "073-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 Bis › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 21 DE MAYO DE 2024)"
+    },
+    {
+      "id": "073-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 Bis › párrafo 2",
+      "texto": "La persona titular del Poder Ejecutivo podrá solicitar al Congreso la remoción de la persona titular de la Fiscalía General de Justicia del Estado, por las causas graves que establezca la ley. En el escrito de solicitud de remoción deberán expresarse los motivos y fundamentos y ofrecerse las pruebas respectivas."
+    },
+    {
+      "id": "073-bis.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 Bis › párrafo 3",
+      "texto": "El Congreso podrá rechazar la solicitud, conforme al procedimiento que señale la Ley."
+    },
+    {
+      "id": "073-bis.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 Bis › párrafo 4",
+      "texto": "Durante los recesos del Congreso, la Comisión Permanente convocará de inmediato a periodo extraordinario de sesiones, para conocer de la solicitud de remoción."
+    }
+  ]
+}
