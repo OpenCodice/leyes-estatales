@@ -1,0 +1,36 @@
+{
+  "clave": "010",
+  "etiqueta": "Artículo 10",
+  "titulo": "",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "010.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 1",
+      "texto": "REFORMADO P.O. 7125 SPTO. C 18-DIC-2010"
+    },
+    {
+      "id": "010.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 02 DE ABRIL DE 1975)"
+    },
+    {
+      "id": "010.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 3",
+      "texto": "Inspirado en los principios de democracia y laicidad el Estado adopta para su régimen interior, la forma de Gobierno Republicana, Representativa y Popular, teniendo como base de su organización política y administrativa el Municipio Libre."
+    }
+  ]
+}

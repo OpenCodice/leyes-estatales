@@ -1,0 +1,36 @@
+{
+  "clave": "032",
+  "etiqueta": "Artículo 32",
+  "titulo": "",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "032.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › párrafo 1",
+      "texto": "REFORMADO P.O. NO. 7625 03-OCT-2015"
+    },
+    {
+      "id": "032.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 02 DE ABRIL DE 1975)"
+    },
+    {
+      "id": "032.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › párrafo 3",
+      "texto": "Las sesiones del Pleno serán públicas, excepto cuando los ordenamientos respectivos o la índole del asunto de que se trate establezcan o recomienden que se traten en sesión privada. La Ley y el Reglamento regularán lo relativo a las sesiones de los órganos directivos y de las Comisiones del Congreso."
+    }
+  ]
+}

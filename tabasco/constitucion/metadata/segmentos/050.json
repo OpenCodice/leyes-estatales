@@ -1,0 +1,54 @@
+{
+  "clave": "050",
+  "etiqueta": "Artículo 50",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "050.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 1",
+      "texto": "REFORMADO P.O. 8469 SPTO. F 4-NOV-2023"
+    },
+    {
+      "id": "050.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 2",
+      "texto": "REFORMADO P.O. NO. 7625 03-OCT-2015"
+    },
+    {
+      "id": "050.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 3",
+      "texto": "REFORMADO P.O. 6905 SPTO. B 8-NOVIEMBRE-2008"
+    },
+    {
+      "id": "050.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 4",
+      "texto": "(REFORMADO, P.O. 02 DE ABRIL DE 1975)"
+    },
+    {
+      "id": "050.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 5",
+      "texto": "El Gobernador o Gobernadora Constitucional del Estado sólo podrá presentar renuncia por causa grave que calificará y, en su caso, aceptará la Legislatura en los términos del artículo 37."
+    }
+  ]
+}

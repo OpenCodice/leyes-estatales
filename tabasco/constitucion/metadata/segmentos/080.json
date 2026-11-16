@@ -1,0 +1,54 @@
+{
+  "clave": "080",
+  "etiqueta": "Artículo 80",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "080.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 1",
+      "texto": "REFORMADO P.O. 8469 SPTO. F 4-NOV-2023"
+    },
+    {
+      "id": "080.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 02 DE ABRIL DE 1975)"
+    },
+    {
+      "id": "080.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 3",
+      "texto": "Al ocurrir la desaparición de Poderes, el Gobernador o Gobernadora provisional convocará a elecciones de nuevos Diputados y Diputadas para que concluyan el periodo."
+    },
+    {
+      "id": "080.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 4",
+      "texto": "REFORMADO P.O. 8469 SPTO. F 4-NOV-2023"
+    },
+    {
+      "id": "080.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 5",
+      "texto": "La convocatoria se hará en tiempo oportuno, a fin de que las y los nuevos Diputados queden instalados antes de los seis meses de gestión del Gobernador o Gobernadora provisional."
+    }
+  ]
+}
