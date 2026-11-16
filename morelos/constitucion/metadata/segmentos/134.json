@@ -2,7 +2,7 @@
   "clave": "134",
   "etiqueta": "Artículo 134",
   "titulo": "TITULO SEPTIMO",
-  "capitulo": "Capítulo IV",
+  "capitulo": "",
   "reformas_articulo": [],
   "bloques": [
     {
@@ -39,7 +39,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 134 › párrafo 4",
-      "texto": "El Sistema tendrá un Comité Coordinador, el que contará a su vez con un órgano de apoyo técnico; el Comité estará integrado por las personas Titulares de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, de la Fiscalía Especializada en Combate a la Corrupción, de la Secretaría de Despacho del Poder Ejecutivo Estatal responsable del control interno y de transparencia, acceso a la información pública y protección de datos personales, la persona Titular de la Magistratura que presida el Tribunal de Justicia Administrativa, así como por la persona titular de la Magistratura que presida el Tribunal de Disciplina Judicial, una persona representante de las Contralorías Municipales del Estado y la persona titular de la Presidencia del Comité de Participación Ciudadana;"
+      "texto": "El Sistema tendrá un Comité Coordinador, el que contará a su vez con un órgano de apoyo técnico; el Comité estará integrado por las personas Titulares de la Entidad Superior de Auditoría y Fiscalización del Congreso del Estado de Morelos, de la Fiscalía Especializada en Combate a la Corrupción, de la Secretaría de Despacho del Poder Ejecutivo Estatal responsable del control interno y de transparencia, acceso a la información pública y protección de datos personales, la persona Titular de la Magistratura que presida el Tribunal de Justicia Administrativa, así como por la persona titular de la Magistratura que presida el Tribunal de Disciplina Judicial, una persona representante de las Contralorías Municipales del Estado y la persona titular de la Presidencia del Comité de Participación Ciudadana; quien será a su vez la persona que Presida el Comité Coordinador."
     },
     {
       "id": "134.p5",
@@ -48,15 +48,6 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 134 › párrafo 5",
-      "texto": "quien será a su vez la persona que Presida el Comité Coordinador."
-    },
-    {
-      "id": "134.p6",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "",
-      "fraccion": "",
-      "ruta": "Artículo 134 › párrafo 6",
       "texto": "Sin detrimento de las funciones que la normativa aplicable le confiera, corresponderá al Comité Coordinador del Sistema Estatal Anticorrupción, en los términos que determine la Ley:"
     },
     {
