@@ -25,14 +25,17 @@ contra el PDF y repara el extractor si hace falta. Después abre un PR:
 
 - Con la etiqueta `verificado`, `revisar-pr` corre los invariantes (`validar`)
   y lo fusiona solo, con squash.
-- Con `extraccion-sospechosa`, queda como borrador asignado a una persona.
+- Si no quedó verificado, no se abre PR: el texto vigente se queda como está,
+  lo no publicado se anota en el resumen de la corrida y la siguiente vigilancia
+  lo reintenta. Nada se asigna a una persona.
 
 El título del commit lo declara el agente y distingue una **reforma** (cambió la
 ley) de una **corrección de extracción** (misma ley, mejor lectura del PDF). No
 lo cambies a mano al fusionar: la bitácora dependerá de él.
 
-Un job `salud` renueva el cron en cada corrida y abre un issue si el workflow
-falla.
+Un job `salud` renueva el cron en cada corrida y, si el workflow falla, lo
+relanza una vez; si el reintento también falla, deja un issue (sin asignar) como
+constancia y la vigilancia de la semana siguiente lo vuelve a intentar.
 
 `vigilar-estatales` corre un job por estado (matriz). Los congresos estatales
 cambian la URL de su PDF con cada reforma; la resuelve
