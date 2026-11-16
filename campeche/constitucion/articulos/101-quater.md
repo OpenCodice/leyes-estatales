@@ -4,9 +4,7 @@ El Sistema Anticorrupción del Estado de Campeche es la instancia de coordinaci�
 
 Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:
 
-I. El Sistema contará con un Comité Coordinador que estará integrado por las personas titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción del Estado;
-
-de la Secretaría de la Contraloría de la Administración Pública Estatal; por la o el presidente del Tribunal de Justicia Administrativa del Estado; por la o el titular del órgano encargado de las funciones de transparencia y acceso a la información pública del Estado de Campeche; así como por una o un representante del Tribunal de Disciplina Judicial y otro del Comité de Participación Ciudadana del Sistema Anticorrupción. El Comité Coordinador estará presidido por la o el Presidente del Consejo de Participación Ciudadana del Sistema;
+I. El Sistema contará con un Comité Coordinador que estará integrado por las personas titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción del Estado; de la Secretaría de la Contraloría de la Administración Pública Estatal; por la o el presidente del Tribunal de Justicia Administrativa del Estado; por la o el titular del órgano encargado de las funciones de transparencia y acceso a la información pública del Estado de Campeche; así como por una o un representante del Tribunal de Disciplina Judicial y otro del Comité de Participación Ciudadana del Sistema Anticorrupción. El Comité Coordinador estará presidido por la o el Presidente del Consejo de Participación Ciudadana del Sistema;
 
 II. El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la Ley en la materia, y
 

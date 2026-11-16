@@ -12,17 +12,13 @@ II. Tener cuando menos 30 años cumplidos al día de la designación;
 
 III. Poseer al día de la designación con antigüedad mínima de 5 años, título profesional de licenciado en derecho, expedido por autoridad o institución legalmente autorizada para ello;
 
-IV. No haber sido condenado por delito que amerite pena privativa de libertad mayor a un año de prisión;
-
-pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el servicio público, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
+IV. No haber sido condenado por delito que amerite pena privativa de libertad mayor a un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el servicio público, lo inhabilitará para el cargo, cualquiera que haya sido la pena;
 
 V. Ser originario del Estado o haber residido en el Estado durante los dos años anteriores al día de la designación.
 
 El Fiscal Especializado en Combate a la Corrupción durará en su encargo siete años sin posibilidad de ser ratificado.
 
-La Fiscalía Especializada en Combate a la Corrupción del Estado de Campeche, a través de su Órgano encargado de las funciones de la contraloría, tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales, en el ámbito de su competencia;
-
-también conocerá de los recursos en los términos que establezca la Ley en la materia.
+La Fiscalía Especializada en Combate a la Corrupción del Estado de Campeche, a través de su Órgano encargado de las funciones de la contraloría, tendrá competencia para conocer de los asuntos relacionados con el acceso a la información pública y la protección de datos personales, en el ámbito de su competencia; también conocerá de los recursos en los términos que establezca la Ley en la materia.
 
 Nota: Se adicionó mediante decreto No.162 de la LXII Legislatura, publicado en el P. O. del Gobierno del Estado No. 0466 Segunda Sección de fecha 27 de junio de 2017.
 
