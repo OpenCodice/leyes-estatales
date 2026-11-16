@@ -1,0 +1,45 @@
+{
+  "clave": "071",
+  "etiqueta": "Artículo 71.",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "071.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71. › párrafo 1",
+      "texto": "Al tomar posesión de su cargo, el Gobernador del Estado deberá rendir protesta ante el Congreso del Estado o la Diputación Permanente, en su caso, en los términos siguientes:"
+    },
+    {
+      "id": "071.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71. › párrafo 2",
+      "texto": "\"PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCION POLITICA DE LOS ESTADOS UNIDOS MEXICANOS, LA DEL ESTADO DE BAJA CALIFORNIA SUR Y LAS LEYES QUE DE ELLAS EMANEN, Y DESEMPEÑAR LEAL Y PATRIOTICAMENTE EL CARGO DE GOBERNADOR DEL ESTADO QUE EL PUEBLO ME HA CONFERIDO, MIRANDO EN TODO POR EL BIEN Y PROSPERIDAD DE LA NACION Y DEL ESTADO DE BAJA CALIFORNIA SUR, SI ASI NO LO HICIERE, QUE EL PUEBLO ME LO DEMANDE\"."
+    },
+    {
+      "id": "071.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71. › párrafo 3",
+      "texto": "Al rendir protesta, el Gobernador del Estado lo hará sobre los ejemplares facsimilares de la Constitución Política de los Estados Unidos Mexicanos y de esta Constitución que al efecto se hallen bajo resguardo del Poder Ejecutivo, de conformidad con la ley correspondiente."
+    },
+    {
+      "id": "071.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71. › párrafo 4",
+      "texto": "El Congreso del Estado no podrá declarar sede distinta ni recinto oficial diferente al de su residencia habitual tratándose de la toma de protesta del Gobernador del Estado."
+    }
+  ]
+}

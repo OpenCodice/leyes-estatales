@@ -1,0 +1,72 @@
+{
+  "clave": "118",
+  "etiqueta": "Artículo 118.",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "118.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118. › párrafo 1",
+      "texto": "Cada municipio será gobernado por un ayuntamiento de elección popular directa y secreta, de conformidad con los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal. La elección se celebrará el primer domingo de junio de cada tres años en los términos de la Ley de Instituciones y Procedimientos Electorales del Estado de Baja California Sur y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado."
+    },
+    {
+      "id": "118.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118. › párrafo 2",
+      "texto": "Los ayuntamientos iniciarán el ejercicio de sus periodos de conformidad al siguiente calendario:"
+    },
+    {
+      "id": "118.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118. › Fracción I",
+      "texto": "I.- El ayuntamiento de Mulegé, iniciará su periodo el 25 de Septiembre del año de la elección."
+    },
+    {
+      "id": "118.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118. › Fracción II",
+      "texto": "II.- El ayuntamiento de Loreto, iniciará su periodo el 26 de Septiembre del año de la elección."
+    },
+    {
+      "id": "118.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118. › Fracción III",
+      "texto": "III.- El ayuntamiento de Comondú, iniciará su periodo el 27 de Septiembre del año de la elección."
+    },
+    {
+      "id": "118.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118. › Fracción IV",
+      "texto": "IV.- El ayuntamiento de La Paz, iniciará su periodo el 28 de Septiembre del año de la elección."
+    },
+    {
+      "id": "118.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118. › Fracción V",
+      "texto": "V.- El ayuntamiento de Los Cabos, iniciará su periodo el 29 de Septiembre del año de la elección.\n\nEn ningún caso, podrá participar en la elección para la presidencia municipal, las regidurías y las sindicaturas, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o relación de pareja, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula."
+    }
+  ]
+}

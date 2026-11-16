@@ -1,0 +1,54 @@
+{
+  "clave": "049",
+  "etiqueta": "Artículo 49.",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "049.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49. › párrafo 1",
+      "texto": "Son obligaciones de las Diputadas y Diputados:"
+    },
+    {
+      "id": "049.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49. › Fracción I",
+      "texto": "I.- Asistir regularmente a las sesiones."
+    },
+    {
+      "id": "049.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49. › Fracción II",
+      "texto": "II.- Desempeñar las comisiones que les sean conferidas."
+    },
+    {
+      "id": "049.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49. › Fracción III",
+      "texto": "III.- Visitar los distritos en los que fueren electos e informar a los habitantes de sus labores legislativas; y"
+    },
+    {
+      "id": "049.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49. › Fracción IV",
+      "texto": "IV.- Al reanudarse el período de sesiones ordinarias, presentarán al Congreso del Estado un informe de sus actividades desarrolladas dentro y fuera de sus distritos correspondientes."
+    }
+  ]
+}

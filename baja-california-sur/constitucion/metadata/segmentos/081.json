@@ -1,0 +1,27 @@
+{
+  "clave": "081",
+  "etiqueta": "Artículo 81.",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "081.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81. › párrafo 1",
+      "texto": "Los reglamentos, Decretos, Acuerdos y ordenes expedidos por el Gobernador del Estado, deberán, para su validez y observancia, ser refrendados por el Secretario General de Gobierno y por el Secretario del Ramo respectivo; cuando se refieran asuntos de la competencia de dos o más Secretarias, deberán ser refrendados por todos los titulares de las mismas."
+    },
+    {
+      "id": "081.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81. › párrafo 2",
+      "texto": "Tratándose de Decretos de publicación de las Leyes o Decretos expedidos por el Congreso del Estado, solo se requerirá el refrendo del Secretario General."
+    }
+  ]
+}

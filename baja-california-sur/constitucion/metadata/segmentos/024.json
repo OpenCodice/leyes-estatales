@@ -1,0 +1,36 @@
+{
+  "clave": "024",
+  "etiqueta": "Artículo 24.",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "024.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24. › párrafo 1",
+      "texto": "La calidad de Sudcaliforniano a la que se refieren las fracciones III y IV del Artículo anterior, se pierde por ausentarse de la entidad durante más de 2 años consecutivos, excepto cuando la causa sea:"
+    },
+    {
+      "id": "024.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24. › Fracción I",
+      "texto": "I.- Por ausencia en el desempeño de cargos públicos o de elección popular; y"
+    },
+    {
+      "id": "024.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24. › Fracción II",
+      "texto": "II.- Por ausencia con motivo de la realización de estudios profesionales, científicos o artísticos, efectuados fuera de la entidad por el tiempo que lo requieran."
+    }
+  ]
+}

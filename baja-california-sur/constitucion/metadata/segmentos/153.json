@@ -1,0 +1,54 @@
+{
+  "clave": "153",
+  "etiqueta": "Artículo 153.",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "CAPITULO IX",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "153.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 153. › párrafo 1",
+      "texto": "Los Regidores ejercen las funciones que les son propias como miembros del Ayuntamiento y las demás que les confiera la Ley Orgánica."
+    },
+    {
+      "id": "153.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 153. › párrafo 2",
+      "texto": "También son facultades y obligaciones de los Regidores."
+    },
+    {
+      "id": "153.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 153. › Fracción I",
+      "texto": "I.- Vigilar la correcta observancia de las disposiciones y acuerdos del Ayuntamiento."
+    },
+    {
+      "id": "153.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 153. › Fracción II",
+      "texto": "II.- Someter a consideración del Ayuntamiento, proyectos de acuerdo y programas correspondientes a su esfera de competencia; y"
+    },
+    {
+      "id": "153.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 153. › Fracción III",
+      "texto": "III.- Cumplir las funciones inherentes a sus comisiones e informar al Ayuntamiento de sus resultados."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "clave": "057",
+  "etiqueta": "Artículo 57.",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "057.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57. › párrafo 1",
+      "texto": "La facultad de iniciar leyes, decretos, reformas y adiciones, compete a:"
+    },
+    {
+      "id": "057.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57. › Fracción I",
+      "texto": "I.- El Gobernador del Estado."
+    },
+    {
+      "id": "057.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57. › Fracción II",
+      "texto": "II.- Las Diputadas y Diputados al Congreso del Estado."
+    },
+    {
+      "id": "057.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57. › Fracción III",
+      "texto": "III.- Los Ayuntamientos"
+    },
+    {
+      "id": "057.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57. › Fracción IV",
+      "texto": "IV.- El Tribunal Superior de Justicia"
+    },
+    {
+      "id": "057.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57. › Fracción V",
+      "texto": "V.- Las ciudadanas y ciudadanos del Estado registrados en la lista nominal de electores, mediante escrito presentado en los términos y con las formalidades que exijan las leyes respetivas."
+    },
+    {
+      "id": "057.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57. › Fracción VI",
+      "texto": "VI.- Al inicio de cada periodo ordinario de sesiones, el Gobernador del Estado tiene derecho de presentar dos iniciativas para trámite preferente, o bien señalar con tal carácter hasta dos que se hubieren presentado en periodos anteriores y se encuentren pendientes de dictamen. De igual forma, cada una de las fracciones parlamentarias del Congreso del Estado, podrá presentar una iniciativa para trámite preferente, o bien, señalar con tal carácter una de las que se hubieren presentado en periodos anteriores y que se encuentre pendiente de dictamen. Lo anterior en los términos que prescriba la legislación de la materia.\n\nEl Congreso del Estado deberá discutir y votar las iniciativas de trámite preferente en un plazo no mayor a treinta días naturales. Las primeras tres iniciativas ciudadanas que se presenten al inicio de cada periodo ordinario de sesiones, se considerarán de trámite preferente para los efectos señalados en el presente párrafo.\n\nNo podrán tener el carácter de preferente las iniciativas de adición o reforma a esta Constitución."
+    }
+  ]
+}

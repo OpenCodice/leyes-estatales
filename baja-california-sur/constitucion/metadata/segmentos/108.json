@@ -1,0 +1,36 @@
+{
+  "clave": "108",
+  "etiqueta": "Artículo 108.",
+  "titulo": "TITULO SEPTIMO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "108.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108. › párrafo 1",
+      "texto": "La iniciativa de la Ley de Ingresos y el proyecto de Presupuesto de Egresos, se elaborarán conforme a las disposiciones legales de la materia, con base en objetivos, parámetros cuantificables e indicadores y deberán ser congruentes con el Plan Estatal de Desarrollo y los programas derivados del mismo, debiéndose de incluir las partidas necesarias, para cumplir con sus obligaciones, incluyendo las derivadas de la celebración de los Contratos de Servicios de largo plazo, durante la vigencia de los mismos."
+    },
+    {
+      "id": "108.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108. › párrafo 2",
+      "texto": "Los recursos económicos de que disponga el Estado, se administrarán con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que estén destinados."
+    },
+    {
+      "id": "108.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108. › párrafo 3",
+      "texto": "Los resultados del ejercicio de dichos recursos serán evaluados por las instancias técnicas que establezca el Estado, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos del párrafo anterior."
+    }
+  ]
+}

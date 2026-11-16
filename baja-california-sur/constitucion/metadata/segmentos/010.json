@@ -1,0 +1,45 @@
+{
+  "clave": "010",
+  "etiqueta": "Artículo 10.",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "010.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10. › párrafo 1",
+      "texto": "La educación será motivo de especial atención del Estado, asumiendo el ejercicio de todas las atribuciones que le confieren el Artículo 3o. de la Constitución General de la República y sus disposiciones reglamentarias. Su orientación será conforme al marco del respeto a los derechos humanos y a los principios señalados en dicho precepto, y en el desenvolvimiento integral y racional de los recursos socioeconómicos del Estado."
+    },
+    {
+      "id": "010.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10. › párrafo 2",
+      "texto": "Todos los habitantes del Estado tienen derecho a recibir educación. El Estado y Municipios impartirán educación preescolar, primaria, secundaria y media superior. La educación preescolar, primaria y secundaria conforman la educación básica; ésta y la media superior serán obligatorias. La educación que impartan el Estado y Municipios será gratuita y tenderá a desarrollar armónicamente, todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a los derechos humanos y la conciencia de la solidaridad internacional, en la independencia y en la justicia."
+    },
+    {
+      "id": "010.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10. › párrafo 3",
+      "texto": "Es derecho de los habitantes del Estado, acceder a la información y el conocimiento para lograr una comunidad totalmente intercomunicada. El Estado y Municipios, en apoyo de las labores escolares proporcionarán espacios públicos con acceso a internet gratuito en Bibliotecas Públicas y Escolares, para lo cual se coordinarán con sus dependencias, instituciones tecnológicas y educativas de todo el Estado."
+    },
+    {
+      "id": "010.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10. › párrafo 4",
+      "texto": "El Estado y municipios dentro del ámbito de su competencia garantizarán la calidad en la educación obligatoria, con base en el mejoramiento constante, de manera que los materiales y métodos educativos, la organización escolar, y la infraestructura educativa garantice el máximo logro de aprendizaje de los educandos."
+    }
+  ]
+}
