@@ -1,0 +1,54 @@
+{
+  "clave": "100",
+  "etiqueta": "Artículo 100",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "100.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › párrafo 1",
+      "texto": "La Ley Orgánica del Poder Judicial del Estado determinará:"
+    },
+    {
+      "id": "100.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › Fracción I",
+      "texto": "I. El funcionamiento del mismo; garantizará la independencia de las Magistradas y los Magistrados, las Juezas y los Jueces en el ejercicio de sus funciones y establecerá las condiciones para su elección por voto libre, directo y secreto de la ciudadanía conforme a las bases, procedimientos, términos, modalidades y requisitos que señala la Constitución Federal para el Poder Judicial de la Federación en lo que resulte aplicable y esta Constitución, y las leyes correspondientes;"
+    },
+    {
+      "id": "100.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › Fracción II",
+      "texto": "II. Los mecanismos públicos, abiertos, transparentes, inclusivos, accesibles y paritarios de evaluación y selección que garanticen la participación de personas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo de Magistradas o Magistrados, Juezas o Jueces y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes profesionales y académicos en el ejercicio de la actividad jurídica;"
+    },
+    {
+      "id": "100.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › Fracción III",
+      "texto": "III. Las funciones del Tribunal de Disciplina Judicial y del órgano de administración judicial, garantizará su independencia técnica, de gestión y para emitir sus resoluciones, conforme a las bases establecidas en esta Constitución; y"
+    },
+    {
+      "id": "100.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › Fracción IV",
+      "texto": "IV. El ingreso, formación, permanencia y especialización de las personas que integran al Poder Judicial; garantizará en todo momento el principio de paridad entre mujeres y hombres, si esto no fuere posible el número de nombramientos a expedir será impar, lo más cercano al equilibrio numérico en todos los casos.\n\n(Artículo reformado mediante decreto número 1539, aprobado por la LXIII Legislatura el 31 de julio del 2018 y publicado en el Periódico Oficial Extra del 1 de agosto del 2018) (Artículo restituido mediante decreto número 633, aprobado por la LXIV Legislatura el 12 de abril del 2019 y publicado en el Periódico Oficial número 18 Cuarta Sección de fecha 4 de mayo del 2019, mediante el cual queda sin efecto el Decreto número 1539, aprobado el 31 de julio del 2018 y publicado en el Periódico Oficial Extra de fecha 1 de agosto del 2018) (Artículo reformado mediante decreto número 613, aprobado por la LXVI Legislatura del Estado el 12 de marzo del 2025 y publicado en el Periódico Oficial Extra, de fecha 14 de marzo del 2025)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "117-bis",
+  "etiqueta": "Artículo 117 Bis",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "117-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 Bis › párrafo 1",
+      "texto": "Para proceder penalmente contra las y los servidores enunciados en el artículo 117, por la comisión de delitos durante el tiempo de su encargo, el Congreso del Estado declarará por decreto aprobado de las dos tercera partes de sus miembros presentes en sesión de pleno, si ha o no lugar a proceder contra la persona inculpada."
+    },
+    {
+      "id": "117-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 Bis › párrafo 2",
+      "texto": "(Artículo adicionado mediante decreto número 613, aprobado por la LXVI Legislatura del Estado el 12 de marzo del 2025 y publicado en el Periódico Oficial Extra, de fecha 14 de marzo del 2025)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "067",
+  "etiqueta": "Artículo 67",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "067.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 › párrafo 1",
+      "texto": "La elección de Gobernadora o Gobernador será mediante sufragio universal, libre, secreto y directo, por mayoría relativa y en una circunscripción uninominal que comprende todo el territorio del Estado, en los términos de la Constitución Política de los Estados Unidos Mexicanos, la Ley General de Instituciones y Procedimientos Electorales, esta Constitución y la legislación correspondiente."
+    },
+    {
+      "id": "067.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 › párrafo 2",
+      "texto": "Artículo reformado mediante decreto Número 1263 aprobado el 30 de junio del 2015 y publicado en el Periódico Oficial Extra del 30 de junio del 2015."
+    }
+  ]
+}

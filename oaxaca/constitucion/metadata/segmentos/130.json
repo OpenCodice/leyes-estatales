@@ -1,0 +1,36 @@
+{
+  "clave": "130",
+  "etiqueta": "Artículo 130",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "130.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 130 › párrafo 1",
+      "texto": "El Estado está obligado a entregar sin demora a los indiciados, procesados o sentenciados, así como practicar el aseguramiento y entrega de objetos, instrumentos o productos del delito a la autoridad de cualquier otra Entidad Federativa o de la Ciudad de México que los requiera. Estas diligencias se practicarán con la intervención de la Fiscalía General del Estado de Oaxaca, en coordinación con la Fiscalía General de la República, y sus homólogas de las Entidades Federativas, en los términos de los convenios de colaboración, que para este efecto se celebren."
+    },
+    {
+      "id": "130.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 130 › párrafo 2",
+      "texto": "Artículo reformado mediante decreto Número 1263 aprobado el 30 de junio del 2015 y publicado en el Periódico Oficial Extra del 30 de junio del 2015."
+    },
+    {
+      "id": "130.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 130 › párrafo 3",
+      "texto": "Artículo reformado mediante decreto Número 675 aprobado el 19 de junio del 2019 y publicado en el Periódico Oficial número 33 Quinta Sección del 17 de agosto del 2019."
+    }
+  ]
+}

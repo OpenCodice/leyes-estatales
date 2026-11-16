@@ -1,0 +1,27 @@
+{
+  "clave": "127",
+  "etiqueta": "Artículo 127",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "127.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 1",
+      "texto": "Las autoridades fomentarán con preferencia las actividades turísticas que aprovechen los atractivos de toda índole que posee el Estado de Oaxaca y vigilarán que la realización de estas actividades preserve el patrimonio cultural de los pueblos y comunidades indígenas, y como consecuencia de dichas actividades, no deteriore el medio ambiente, ni se demeriten sus propias riquezas turísticas."
+    },
+    {
+      "id": "127.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 2",
+      "texto": "Es responsabilidad del Estado promover el desarrollo de las actividades turísticas dentro del territorio estatal, asegurando en todo momento que los centros de turismo crezcan de manera integrada al desarrollo de la región donde están ubicados y contribuyan al desarrollo general de la entidad."
+    }
+  ]
+}

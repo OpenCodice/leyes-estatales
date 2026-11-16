@@ -1,0 +1,45 @@
+{
+  "clave": "110",
+  "etiqueta": "Artículo 110",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "110.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › párrafo 1",
+      "texto": "Derogado."
+    },
+    {
+      "id": "110.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › párrafo 2",
+      "texto": "SECCIÓN CUARTA DEL TRIBUNAL DE DISCIPLINA JUDICIAL Y DEL ÓRGANO DE ADMINISTRACIÓN JUDICIAL Denominación de la Sección Cuarta reformada mediante decreto Número 1263 aprobado el 30 de junio del 2015 y publicado en el Periódico Oficial Extra del 30 de junio del 2015."
+    },
+    {
+      "id": "110.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › párrafo 3",
+      "texto": "Sección Cuarta derogada mediante decreto Número 786 aprobado por la LXIII Legislatura Constitucional del Estado el 12 de diciembre del 2017 y publicado en el Periódico Oficial Extra del 16 de enero del 2018."
+    },
+    {
+      "id": "110.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › párrafo 4",
+      "texto": "(Sección Cuarta reformada mediante decreto número 613, aprobado por la LXVI Legislatura del Estado el 12 de marzo del 2025 y publicado en el Periódico Oficial Extra, de fecha 14 de marzo del 2025)"
+    }
+  ]
+}

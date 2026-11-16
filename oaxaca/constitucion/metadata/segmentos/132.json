@@ -1,0 +1,27 @@
+{
+  "clave": "132",
+  "etiqueta": "Artículo 132",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "132.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › párrafo 1",
+      "texto": "Los bienes raíces de beneficencia o instrucción pública que puedan conservar las corporaciones respectivas, conforme a las leyes así como los capitales impuestos pertenecientes a las mismas, no podrán ser enajenados ni de algún modo gravados sin decreto especial de la Legislatura del Estado."
+    },
+    {
+      "id": "132.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › párrafo 2",
+      "texto": "La infracción de éste y del Artículo 81 fracción IX de esta Constitución produce la nulidad del acto, quedando, además, responsables solidariamente por el capital, intereses y perjuicios, tanto la autoridad o servidores públicos que dispongan de dichos bienes como los que los reciban, endosen las escrituras o de cualquier manera intervengan en su enajenación, siendo exigible la cosa enajenada de quienquiera que sea su poseedor."
+    }
+  ]
+}
