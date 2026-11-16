@@ -1,0 +1,27 @@
+{
+  "clave": "169",
+  "etiqueta": "Artículo 169",
+  "titulo": "TÍTULO DÉCIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "169.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 169 › párrafo 1",
+      "texto": "Todo cargo, comisión o empleo público es incompatible con algún otro, federal o estatal, cuando por ambos se perciba un sueldo, salvo los docentes."
+    },
+    {
+      "id": "169.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 169 › párrafo 2",
+      "texto": "Artículo reformado POE 15-02-2001. Renumerado (antes 179) POE 24-10-2003"
+    }
+  ]
+}

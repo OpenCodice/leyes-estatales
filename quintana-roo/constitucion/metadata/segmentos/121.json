@@ -1,0 +1,27 @@
+{
+  "clave": "121",
+  "etiqueta": "Artículo 121",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "121.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 1",
+      "texto": "No podrá hacerse pago alguno que no esté comprendido en el Presupuesto de Egresos o determinado por ley posterior."
+    },
+    {
+      "id": "121.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 2",
+      "texto": "Artículo original POE 12-01-1975"
+    }
+  ]
+}

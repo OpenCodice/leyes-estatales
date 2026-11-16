@@ -1,0 +1,27 @@
+{
+  "clave": "116",
+  "etiqueta": "Artículo 116",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "116.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › párrafo 1",
+      "texto": "La administración de la hacienda pública estará a cargo del Poder Ejecutivo por conducto de la persona secretaria del ramo respectivo quien será responsable de su manejo."
+    },
+    {
+      "id": "116.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › párrafo 2",
+      "texto": "Artículo reformado POE 17-03-1995, 19-03-2025"
+    }
+  ]
+}

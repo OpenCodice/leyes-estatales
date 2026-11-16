@@ -1,0 +1,27 @@
+{
+  "clave": "123",
+  "etiqueta": "Artículo 123",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "123.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 1",
+      "texto": "Todas las personas empleadas de hacienda que deban tener a su cargo manejo de fondos del Estado, otorgarán previamente ante el Poder Ejecutivo fianza suficiente para garantizar su manejo en los términos señalados por la ley."
+    },
+    {
+      "id": "123.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 2",
+      "texto": "Artículo reformado POE 19-03-2025"
+    }
+  ]
+}

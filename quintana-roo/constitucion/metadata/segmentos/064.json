@@ -1,0 +1,36 @@
+{
+  "clave": "064",
+  "etiqueta": "Artículo 64",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "064.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › párrafo 1",
+      "texto": "Las Diputadas y los Diputados que no concurran a una sesión del Pleno, sin causa justificada, no tendrán derecho a la dieta correspondiente al día en que faltaren."
+    },
+    {
+      "id": "064.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › párrafo 2",
+      "texto": "Cuando alguna Diputada o Diputado deje de asistir a más de tres sesiones consecutivas de la Legislatura, sin causa justificada, se entenderá que renuncia a concurrir al período respectivo. En este caso, se llamará a su suplente para que lo reemplace."
+    },
+    {
+      "id": "064.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › párrafo 3",
+      "texto": "Artículo reformado POE 06-03-2019, 19-03-2025"
+    }
+  ]
+}

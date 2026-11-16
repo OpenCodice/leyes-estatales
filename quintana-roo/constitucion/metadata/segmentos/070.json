@@ -1,0 +1,27 @@
+{
+  "clave": "070",
+  "etiqueta": "Artículo 70",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "070.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 1",
+      "texto": "Se considera aprobado todo proyecto de ley o decreto no devuelto por la persona Titular del Poder Ejecutivo en ese plazo, a no ser que durante ese término la Legislatura hubiese entrado en receso, en cuyo caso la devolución deberá hacerla el primer día de sesiones del período siguiente."
+    },
+    {
+      "id": "070.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 2",
+      "texto": "Artículo reformado POE 19-03-2025"
+    }
+  ]
+}

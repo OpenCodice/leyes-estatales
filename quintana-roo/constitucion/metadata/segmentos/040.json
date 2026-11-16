@@ -1,0 +1,36 @@
+{
+  "clave": "040",
+  "etiqueta": "Artículo 40",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "040.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 1",
+      "texto": "Son personas ciudadanas del Estado de Quintana Roo las personas quintanarroenses que hayan cumplido 18 años y tengan modo honesto de vivir."
+    },
+    {
+      "id": "040.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 2",
+      "texto": "Adquieren el derecho de voto activo y el de asociación política y deberán cumplir con los deberes contenidos en las fracciones I, II, III, IV y VI, del artículo 42, las personas ciudadanas mexicanas que habiendo cumplido 18 años y tengan modo honesto de vivir, hayan residido en el Estado durante 6 meses efectivos."
+    },
+    {
+      "id": "040.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 3",
+      "texto": "Artículo reformado POE 19-03-2025"
+    }
+  ]
+}

@@ -1,0 +1,531 @@
+{
+  "clave": "075",
+  "etiqueta": "Artículo 75",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "075.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › párrafo 1",
+      "texto": "Son facultades de la Legislatura del Estado."
+    },
+    {
+      "id": "075.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción I",
+      "texto": "I.-Legislar en su orden interno en todo cuanto no esté reservado por la Constitución General de la República a las personas funcionarias federales.\n\nFracción reformada POE 19-03-2025"
+    },
+    {
+      "id": "075.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción II",
+      "texto": "II.- Expedir leyes reglamentarias y ejercer las facultades explícitas otorgadas en la Constitución Política de los Estados Unidos Mexicanos principalmente en materia educativa de conformidad con la Ley General de Educación.\n\nFracción reformada POE 28-05-2004"
+    },
+    {
+      "id": "075.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción III",
+      "texto": "III.- Iniciar leyes y decretos ante el Congreso de la Unión."
+    },
+    {
+      "id": "075.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción IV",
+      "texto": "IV.- Expedir su Ley Orgánica y su Reglamento Interior, así como para expedir las leyes que regulen la organización y facultades de la Auditoría Superior del Estado y su Reglamento Interno y las demás que normen la gestión, control y evaluación de los Poderes del Estado y de los entes públicos estatales; así como para expedir la ley que establezca la integración, atribuciones y funcionamiento del Sistema Estatal Anticorrupción a que se refiere el artículo 161 de esta Constitución.\n\nLa Legislatura del Estado coordinará y evaluará, a través de la Comisión de Hacienda, Presupuesto y Cuenta, sin perjuicio de su autonomía técnica y de gestión, el desempeño de las funciones de la Auditoría Superior del Estado, en los términos que disponga la ley.\n\nFe de erratas POE 21-09-1995. Fracción reformada POE 20-09-1995, 17-07-2002, 30-08-2002, 22-02-2010, 03-07-2017"
+    },
+    {
+      "id": "075.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción V",
+      "texto": "V.- Expedir el Bando Solemne para dar a conocer en todo el Estado la Declaratoria de la Gobernadora o el Gobernador Electo, una vez que ésta se dé por parte de la autoridad correspondiente.\n\nFracción reformada POE 28-02-1997, 17-07-2002, 19-03-2025"
+    },
+    {
+      "id": "075.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción VI",
+      "texto": "VI.- Legislar sobre la protección, conservación y restauración del patrimonio histórico, cultural y artístico del Estado.\n\nFracción derogada POE 20-09-1995. Fe de erratas POE 21-09-1995"
+    },
+    {
+      "id": "075.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción VII",
+      "texto": "VII.- Convocar a elecciones extraordinarias para la Gobernatura, en caso de falta absoluta de la persona Titular de esta, ocurrida dentro de los primeros dos años del período constitucional, conforme al Artículo 83 de esta Constitución.\n\nFracción reformada POE 17-07-2002, 19-03-2025"
+    },
+    {
+      "id": "075.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción VIII",
+      "texto": "VIII.- Convocar a elecciones extraordinarias de Ayuntamientos, los cuales deberán entrar en funciones en un plazo no mayor a seis meses a partir de la fecha en que se produzca la vacante;\n\nFracción reformada POE 17-07-2002, 21-09-2017 VIII Bis. Convocar a elecciones de las personas titulares de las Magistraturas y de los Juzgados del Poder Judicial e integrantes del Tribunal de Disciplina Judicial en términos de lo previsto en esta Constitución. La convocatoria deberá expedirse dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda;\n\nFracción adicionada POE 13-01-2025"
+    },
+    {
+      "id": "075.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción IX",
+      "texto": "IX.- Erigirse en Colegio Electoral para elegir a la persona Titular del Poder Ejecutivo sustituta para que concluya el período constitucional, en caso de falta absoluta de ésta ocurrida dentro de los cuatro últimos años de dicho período, de conformidad al artículo 83 de esta Constitución.\n\nFracción reformada POE 19-03-2025"
+    },
+    {
+      "id": "075.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción X",
+      "texto": "X. Conceder a las diputadas y los diputados y a las personas titulares de las magistraturas del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y del Tribunal de Justicia Administrativa y Anticorrupción, licencia temporal para separarse de sus cargos, en los términos que establezca esta Constitución y las leyes aplicables;\n\nFracción reformada POE 03-07-2017, 09-09-2024, 13-01-2025"
+    },
+    {
+      "id": "075.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XI",
+      "texto": "XI. Decidir sobre las solicitudes de renuncia que formulen las Diputadas y Diputados y la persona Titular del Poder Ejecutivo del Estado para separarse definitivamente de sus cargos.\n\nFracción reformada POE 19-03-2025, 19-03-2025"
+    },
+    {
+      "id": "075.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XII",
+      "texto": "XII.- Designar y remover a las personas titulares de los órganos internos de control de los órganos públicos autónomos reconocidos en esta Constitución y de la Secretaría Ejecutiva del Sistema Estatal Anticorrupción que ejerzan recursos del Presupuesto de Egresos del Estado, con excepción de la persona titular del órgano interno de control del Tribunal Electoral de Quintana Roo. Las Leyes determinarán el procedimiento para su designación y remoción;\n\nFracción derogada POE 03-02-1997. Reformada POE 15-03-2002, 17-07-2002, 03-03-2009, 06-11-2015, 03-07-2017, 18-08-2017, 09-09-2024"
+    },
+    {
+      "id": "075.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XIII",
+      "texto": "XIII.- Cambiar la sede de los poderes del Estado."
+    },
+    {
+      "id": "075.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XIV",
+      "texto": "XIV.- Ejercer las facultades que le otorga la Constitución Federal en relación a la Guardia Nacional."
+    },
+    {
+      "id": "075.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XV",
+      "texto": "XV.- Legislar en materia de símbolos estatales, como son: himno, escudo, y bandera, a fin de fomentar el patrimonio cultural, historia e identidad local, respetando en todo momento la supremacía de los símbolos patrios.\n\nFracción reformada POE 06-08-2024"
+    },
+    {
+      "id": "075.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XVI",
+      "texto": "XVI.- Recibir en pleno o a través de la comisión respectiva, la comparecencia de las personas servidoras públicas para que informen, cuando se discuta o estudie un negocio relativo a su dependencia.\n\nFracción reformada POE 21-11-1983, 06-03-2019, 19-03-2025"
+    },
+    {
+      "id": "075.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XVII",
+      "texto": "XVII.- Derogada.\n\nFracción derogada POE 22-09-2017"
+    },
+    {
+      "id": "075.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XVIII",
+      "texto": "XVIII.- Derogada.\n\nFe de erratas POE 13-01-1975. Fracción derogada POE 06-03-2019"
+    },
+    {
+      "id": "075.XIX",
+      "tipo": "fraccion",
+      "marca": "XIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XIX",
+      "texto": "XIX.- Elegir la Comisión Permanente.\n\nFracción reformada POE 06-03-2019"
+    },
+    {
+      "id": "075.XX",
+      "tipo": "fraccion",
+      "marca": "XX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XX",
+      "texto": "XX. Designar a las personas titulares de las magistraturas del Tribunal de Justicia Administrativa y Anticorrupción del Estado, así como aprobar o rechazar, en su caso, las renuncias o destituciones de éstas, en los términos de esta Constitución;\n\nFracción reformada POE 21-11-1983, 09-07-1998, 09-10-2014, 03-07-2017, 09-09-2024, 13-01-2025 XX Bis. Resolver sobre las renuncias de las Magistraturas del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, así como de Juezas y Jueces del Poder Judicial, cuando las ausencias excedan del término que establece esta Constitución;\n\nFracción adicionada POE 13-01-2025 XX Ter. Conocer y resolver de las solicitudes de destitución por faltas graves de Magistradas y Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y de los integrantes del Órgano de Administración Judicial, en términos de la presente Constitución;\n\nFracción adicionada POE 13-01-2025 XX Quáter. Postular, mediante votación de dos terceras partes de sus integrantes presentes un aspirante para ocupar el cargo de Magistradas y Magistrados, Juezas y Jueces del Poder Judicial, respetando el principio de paridad de género y un aspirante para integrar el Tribunal de Disciplina Judicial, conforme al procedimiento establecido en esta Constitución;\n\nFracción adicionada POE 13-01-2025 XX Quinquies. Designar mediante votación de dos terceras partes de sus integrantes presentes a una persona integrante del Órgano de Administración Judicial;\n\nFracción adicionada POE 13-01-2025"
+    },
+    {
+      "id": "075.XXI",
+      "tipo": "fraccion",
+      "marca": "XXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XXI",
+      "texto": "XXI.- Legislar con perspectiva de género en todo lo relativo a la administración pública, planeación y desarrollo económico y social, así como para la programación y ejecución de acciones de orden económico, en la esfera de la competencia estatal y otras cuya finalidad sea la producción suficiente y oportuna de bienes y servicios, social y estatalmente necesarios.\n\nFracción reformada POE 29-11-1983, 03-11-2016"
+    },
+    {
+      "id": "075.XXII",
+      "tipo": "fraccion",
+      "marca": "XXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XXII",
+      "texto": "XXII.- Autorizar la participación del Poder Ejecutivo en comisiones inter estatales de desarrollo regional.\n\nFracción reformada POE 19-03-2025"
+    },
+    {
+      "id": "075.XXIII",
+      "tipo": "fraccion",
+      "marca": "XXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XXIII",
+      "texto": "XXIII.- Ratificar o rechazar los convenios que celebren el Poder Ejecutivo con el Gobierno Federal.\n\nFracción reformada POE 29-05-1981, 19-03-2025"
+    },
+    {
+      "id": "075.XXIV",
+      "tipo": "fraccion",
+      "marca": "XXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XXIV",
+      "texto": "XXIV.- Otorgar reconocimiento a las personas ciudadanas que hayan prestado eminentes servicios a la entidad o a la humanidad.\n\nFracción reformada POE 19-03-2025"
+    },
+    {
+      "id": "075.XXV",
+      "tipo": "fraccion",
+      "marca": "XXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XXV",
+      "texto": "XXV.- Autorizar al Poder Ejecutivo y a los Ayuntamientos para contratar Empréstitos a nombre del Estado y de los Municipios, Órganos autónomos, Organismos Descentralizados y Empresas Públicas y Fideicomisos, siempre que se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura de deuda, las que deberán realizarse bajo las mejores condiciones de mercado; así como aprobar los montos de endeudamiento, los cuales deberán incluirse en la Ley de Ingresos, conforme a las bases de la Ley correspondiente. El Poder Ejecutivo y los Ayuntamientos en su caso, informarán anualmente sobre el ejercicio de dicha deuda, al momento de rendir la cuenta pública.\n\nFracción reformada POE 31-01-1982, 03-11-2016, 19-03-2025"
+    },
+    {
+      "id": "075.XXVI",
+      "tipo": "fraccion",
+      "marca": "XXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XXVI",
+      "texto": "XXVI.- Legislar acerca de la administración, conservación y enajenación de los bienes del Estado.\n\nFracción reformada POE 29-05-1981"
+    },
+    {
+      "id": "075.XXVII",
+      "tipo": "fraccion",
+      "marca": "XXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XXVII",
+      "texto": "XXVII.- Aprobar o rechazar las concesiones otorgadas por la persona Titular del Poder Ejecutivo.\n\nFracción reformada POE 29-05-1981, 19-03-2025"
+    },
+    {
+      "id": "075.XXVIII",
+      "tipo": "fraccion",
+      "marca": "XXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XXVIII",
+      "texto": "XXVIII.- Nombrar y remover, conforme al procedimiento previsto en esta Constitución y en la ley de la materia, a la persona Titular de la Auditoría Superior del Estado; así como ratificar con el voto de las dos terceras partes de las diputadas y los diputados presentes el nombramiento de las personas auditoras especiales;\n\nFracción reformada POE 30-08-2002, 22-02-2010, 01-08-2016, 03-07-2017, 19-03-2025"
+    },
+    {
+      "id": "075.XXIX",
+      "tipo": "fraccion",
+      "marca": "XXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XXIX",
+      "texto": "XXIX.- Aprobar o rechazar los Informes de Resultados que presente la auditoría Superior del Estado de conformidad con lo establecido en el artículo 77 de esta Constitución.\n\nAsí como revisar y fiscalizar la Cuenta Pública del año anterior que deberán presentar las entidades fiscalizables ante la Auditoría Superior del Estado, con el objeto de evaluar los resultados de la gestión financiera, comprobar si se ha ajustado a los criterios señalados por el presupuesto y verificar el cumplimiento de los objetivos contenidos en los programas.\n\nPara la revisión de la cuenta pública, la legislatura se apoyará en la Auditoría Superior del Estado. Si del examen que ésta realice aparecieran discrepancias entre las cantidades correspondientes a los ingresos o a los egresos, con relación a los conceptos y a las partidas respectivas o no existiera exactitud o justificación en los ingresos obtenidos o en los gastos realizados, se determinarán las responsabilidades de acuerdo con la ley. En el caso de la revisión sobre el cumplimiento de los objetivos de los programas, la Auditoría Superior del Estado podrá emitir las recomendaciones para la mejora en el desempeño de los mismos, en los términos de la ley.\n\nLa Legislatura del Estado evaluará el desempeño de la Auditoría Superior del Estado y al efecto le podrá requerir que le informe sobre la evolución de sus trabajos de fiscalización.\n\nFracción reformada POE 15-02-2001, 30-08-2002, 03-07-2017"
+    },
+    {
+      "id": "075.XXX",
+      "tipo": "fraccion",
+      "marca": "XXX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XXX",
+      "texto": "XXX.- Aprobar las leyes de ingresos municipal y estatal y el presupuesto de egresos del Estado, considerando lo establecido en el párrafo segundo del artículo 67 de esta Constitución, determinando en cada caso, las partidas correspondientes para cubrirlas.\n\nAsimismo, podrá autorizar en dicho presupuesto las erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la ley reglamentaria; las erogaciones correspondientes deberán incluirse en los subsecuentes Presupuestos de Egresos del Estado.\n\nFracción reformada POE 29-05-2026 La Legislatura del Estado, al aprobar el Presupuesto de Egresos del Estado, no podrá dejar de señalar los tabuladores desglosados de las remuneraciones que perciban las personas servidoras públicas estatales; en caso de que por cualquiera circunstancia se omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido fijada en el Presupuesto anterior o en la ley que estableció el empleo.\n\nPárrafo adicionado POE 21-08-2013, 19-03-2025. Reformado POE 19-03-2025 En todo caso, dicho señalamiento deberá respetar las bases previstas en el artículo 165 de esta Constitución y las disposiciones de las leyes que en la materia expida la Legislatura.\n\nPárrafo adicionado POE 21-08-2013 Sólo se podrán ampliar los plazos previstos en los artículos 91 y 118, para la presentación de la iniciativa de Ley de Ingresos y del Proyecto de Presupuesto de Egresos, cuando medie solicitud del Poder Ejecutivo suficientemente justificada a juicio de la Legislatura, debiendo comparecer en todo caso de la persona Titular de la Secretaría del Despacho correspondiente a informar de las razones que lo motiven.\n\nPárrafo adicionado POE 03-07-2017. Reformado POE 19-03-2025 Fracción reformada POE 21-11-1983, 22-02-2010"
+    },
+    {
+      "id": "075.XXXI",
+      "tipo": "fraccion",
+      "marca": "XXXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XXXI",
+      "texto": "XXXI. Crear y suprimir empleos públicos y fijar sus emolumentos.\n\nFracción reformada POE 19-03-2025"
+    },
+    {
+      "id": "075.XXXII",
+      "tipo": "fraccion",
+      "marca": "XXXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XXXII",
+      "texto": "XXXII. Facultar a la persona Titular del Ejecutivo a tomar medidas de emergencia en caso de calamidad y desastre.\n\nFracción reformada POE 19-03-2025"
+    },
+    {
+      "id": "075.XXXIII",
+      "tipo": "fraccion",
+      "marca": "XXXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XXXIII",
+      "texto": "XXXIII.- Decretar las leyes de hacienda de los Municipios, así como revisar y fiscalizar sus cuentas públicas.\n\nFracción reformada POE 15-02-2001"
+    },
+    {
+      "id": "075.XXXIV",
+      "tipo": "fraccion",
+      "marca": "XXXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XXXIV",
+      "texto": "XXXIV.- Decretar la Ley de los Municipios del Estado de Quintana Roo.\n\nFracción reformada POE 15-02-2001"
+    },
+    {
+      "id": "075.XXXV",
+      "tipo": "fraccion",
+      "marca": "XXXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XXXV",
+      "texto": "XXXV.- Crear o suprimir municipios y reformar la división política del Estado, mediante el voto de las dos terceras partes de la totalidad de las Diputadas y los Diputados, y la mayoría de los ayuntamientos en los términos del artículo 132 de esta Constitución.\n\nFracción reformada POE 19-03-2025"
+    },
+    {
+      "id": "075.XXXVI",
+      "tipo": "fraccion",
+      "marca": "XXXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XXXVI",
+      "texto": "XXXVI.- Resolver los conflictos que surjan entre los Ayuntamientos entre sí y entre éstos y el Poder Ejecutivo Estatal, salvo cuando tengan carácter contencioso.\n\nFracción reformada POE 09-07-1998, 19-03-2025"
+    },
+    {
+      "id": "075.XXXVII",
+      "tipo": "fraccion",
+      "marca": "XXXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XXXVII",
+      "texto": "XXXVII.- Aprobar los convenios amistosos que celebren los Municipios del Estado para arreglar entre sí, sus respectivos límites territoriales.\n\nFracción reformada POE 22-03-2019"
+    },
+    {
+      "id": "075.XXXVIII",
+      "tipo": "fraccion",
+      "marca": "XXXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XXXVIII",
+      "texto": "XXXVIII.- Decidir sobre la desaparición de poderes municipales, solo en casos de causa grave, calificada por la Legislatura mediante el voto de las dos terceras partes de la totalidad de las Diputadas y Diputados siempre y cuando las y los integrantes del Ayuntamiento hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.\n\nFracción reformada POE 31-03-1983, 19-03-2025"
+    },
+    {
+      "id": "075.XXXIX",
+      "tipo": "fraccion",
+      "marca": "XXXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XXXIX",
+      "texto": "XXXIX.- Designar por el voto de las dos terceras partes de las Diputadas y los Diputados integrantes de la Legislatura, a las personas integrantes de los Concejos Municipales, en los casos previstos por esta Constitución y por la Ley de los Municipios.\n\nFracción reformada POE 31-03-1983, 21-11-1983, 15-03-2002, 17-07-2002, 19-03-2025"
+    },
+    {
+      "id": "075.XL",
+      "tipo": "fraccion",
+      "marca": "XL",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XL",
+      "texto": "XL.- Expedir la Ley de Expropiación por causa de utilidad pública."
+    },
+    {
+      "id": "075.XLI",
+      "tipo": "fraccion",
+      "marca": "XLI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XLI",
+      "texto": "XLI.- Expedir leyes para fijar la extensión máxima de la propiedad rural, en los términos del artículo 27 fracción XVII de la Constitución General de la República."
+    },
+    {
+      "id": "075.XLII",
+      "tipo": "fraccion",
+      "marca": "XLII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XLII",
+      "texto": "XLII.- Determinar el patrimonio familiar señalando los bienes que lo integran, sobre la base de su naturaleza inalienable e ingravable."
+    },
+    {
+      "id": "075.XLIII",
+      "tipo": "fraccion",
+      "marca": "XLIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XLIII",
+      "texto": "XLIII.- Legislar en materia de seguridad social, teniendo como objetivo la permanente superación del nivel de vida de la población, el mejoramiento de su salud y la conservación del medio ambiente, y"
+    },
+    {
+      "id": "075.XLIV",
+      "tipo": "fraccion",
+      "marca": "XLIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XLIV",
+      "texto": "XLIV.- Integrar la lista de personas candidatas a ocupar la titularidad de la Fiscalía General del Estado; designar, tomar la protesta y removerla de conformidad con esta Constitución y la ley en la materia.\n\nFe de erratas 21-09-1995. Fracción reformada POE 17-03-1995, 20-09-1995, 23-09-2011, 25-06-2016, 01-08-2016, 03-07-2017, 09-09-2024, 19-03-2025 XLIV BIS.- Designar a la persona titular de la Fiscalía Especializada en Combate a la Corrupción, tomarle su protesta y removerla en los términos que establezca esta constitución y la ley;\n\nFracción adicionada POE 09-09-2024"
+    },
+    {
+      "id": "075.XLV",
+      "tipo": "fraccion",
+      "marca": "XLV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XLV",
+      "texto": "XLV.- Designar, mediante el procedimiento que la ley determine, a la persona Titular de la Presidencia y a las personas integrantes del Consejo Consultivo de la Comisión de los Derechos Humanos del Estado de Quintana Roo, así como recibirles la protesta de ley;\n\nFracción adicionada POE 17-03-1995. Fe de erratas 21-09-1995. Reformada POE 20-09-1995, 29-10-1999, 27-02-2014, 19-03-2025"
+    },
+    {
+      "id": "075.XLVI",
+      "tipo": "fraccion",
+      "marca": "XLVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XLVI",
+      "texto": "XLVI.- Solicitar, a petición de la Comisión de los Derechos Humanos del Estado de Quintana Roo, la comparecencia de las autoridades o personas servidoras públicas responsables cuando éstas se hayan negado a aceptar o cumplir una recomendación del mencionado Órgano de protección de los derechos humanos.\n\nPárrafo reformado POE 19-03-2025 La solicitud de comparecencia a que se refiere el párrafo anterior deberá ingresar a la Legislatura por conducto de su Comisión Ordinaria de Derechos Humanos;\n\nFracción adicionada POE 29-10-1999. Reformada POE 06-03-2000, 30-07-2013, 27-02-2014"
+    },
+    {
+      "id": "075.XLVII",
+      "tipo": "fraccion",
+      "marca": "XLVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XLVII",
+      "texto": "XLVII.- Solicitar a la Comisión Nacional de los Derechos Humanos la investigación de hechos que constituyan violaciones graves de Derechos Humanos;\n\nFracción adicionada POE 06-03-2000. Reformada POE 30-07-2013"
+    },
+    {
+      "id": "075.XLVIII",
+      "tipo": "fraccion",
+      "marca": "XLVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XLVIII",
+      "texto": "XLVIII.- Expedir leyes encaminadas a combatir el alcoholismo;\n\nFracción adicionada POE 30-07-2013"
+    },
+    {
+      "id": "075.XLIX",
+      "tipo": "fraccion",
+      "marca": "XLIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Fracción XLIX",
+      "texto": "XLIX.- DEROGADO.\n\nFracción adicionada POE 27-02-2015. Reformado POE 27-07-2015. Derogado POE 11-02-2025"
+    },
+    {
+      "id": "075.L",
+      "tipo": "apartado",
+      "marca": "L",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Apartado L",
+      "texto": "L.- Expedir la Ley Orgánica del Tribunal de Justicia Administrativa y Anticorrupción del Estado de Quintana Roo, para establecer su integración, organización, atribuciones y funcionamiento;"
+    },
+    {
+      "id": "075.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "L",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Apartado L › párrafo 2",
+      "texto": "Fracción adicionada POE 30-07-2013. Recorrida (antes XLIX) POE 27-02-2015. Derogada POE 01-08-2016. Reformada POE 25-06-2016, 03-07-2017, 09-09-2024 L BIS.- Expedir la legislación que regule los actos y procedimientos administrativos, los recursos administrativos y el juicio contencioso administrativo, de competencia estatal y municipal;"
+    },
+    {
+      "id": "075.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "L",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Apartado L › párrafo 3",
+      "texto": "Fracción adicionada POE 09-09-2024"
+    },
+    {
+      "id": "075.L.LI",
+      "tipo": "fraccion",
+      "marca": "LI",
+      "apartado": "L",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Apartado L › Fracción LI",
+      "texto": "LI.- Ratificar a la persona Titular de la Secretaría encargada del Control Interno del Poder Ejecutivo Estatal;\n\nFracción adicionada POE 25-06-2016. Reformada POE 03-07-2017, 19-03-2025"
+    },
+    {
+      "id": "075.L.LII",
+      "tipo": "fraccion",
+      "marca": "LII",
+      "apartado": "L",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Apartado L › Fracción LII",
+      "texto": "LII.- Autorizar la celebración de los convenios del Estado o sus Municipios, en caso de adherirse al mecanismo de contratación de Deuda Estatal Garantizada de conformidad con la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios.\n\nFracción adicionada POE 03-11-2016"
+    },
+    {
+      "id": "075.L.LIII",
+      "tipo": "fraccion",
+      "marca": "LIII",
+      "apartado": "L",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Apartado L › Fracción LIII",
+      "texto": "LIII.- Legislar en materia de cultura física y deporte en la entidad, con el objeto de cumplir lo previsto en el artículo 4 de la Constitución Política de los Estados Unidos Mexicanos y el artículo 13 de esta Constitución.\n\nFracción adicionada POE 03-07-2017. Reformada POE 03-01-2020"
+    },
+    {
+      "id": "075.L.LIV",
+      "tipo": "fraccion",
+      "marca": "LIV",
+      "apartado": "L",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Apartado L › Fracción LIV",
+      "texto": "LIV.- Expedir las leyes que señale el Título Octavo de esta Constitución, y Fracción adicionada POE 03-07-2017. Reformada POE 03-01-2020"
+    },
+    {
+      "id": "075.L.LV",
+      "tipo": "fraccion",
+      "marca": "LV",
+      "apartado": "L",
+      "fraccion": "",
+      "ruta": "Artículo 75 › Apartado L › Fracción LV",
+      "texto": "LV. Expedir todas las leyes y decretos que sean necesarios para hacer efectivas las facultades anteriores.\n\nFracción adicionada POE 03-01-2020"
+    }
+  ]
+}

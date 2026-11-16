@@ -1,0 +1,36 @@
+{
+  "clave": "009",
+  "etiqueta": "Artículo 9",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "009.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › párrafo 1",
+      "texto": "Es finalidad del Estado procurar y promover la participación de toda la ciudadanía en los procesos que regulan la vida de la comunidad por medio de las formas que establezcan las leyes respectivas; así como fomentar entre las personas habitantes de Quintana Roo la conciencia de solidaridad y pertenencia al Estado y a la Nación, la cultura democrática y el sentido de responsabilidad hacia la humanidad en su conjunto."
+    },
+    {
+      "id": "009.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › párrafo 2",
+      "texto": "Párrafo reformado POE 19-03-2025 A fin de lograr este objeto, el Estado organizará un sistema de planeación democrática en lo político, social y cultural, para el desarrollo estatal integral y sustentable, que imprima solidez, dinamismo, permanencia y equidad al crecimiento económico, estableciendo para tal efecto los convenios adecuados con la Federación."
+    },
+    {
+      "id": "009.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › párrafo 3",
+      "texto": "Párrafo reformado POE 17-12-2007 Artículo reformado POE 21-11-1983, 17-07-2002"
+    }
+  ]
+}

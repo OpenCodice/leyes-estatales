@@ -1,0 +1,45 @@
+{
+  "clave": "061",
+  "etiqueta": "Artículo 61",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "061.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › párrafo 1",
+      "texto": "La Legislatura durará tres años, cada año de ejercicio constitucional tendrá dos periodos ordinarios de sesiones, el primero, será del 5 de septiembre al 15 de diciembre y el segundo, del 15 de febrero hasta el 31 de mayo del año que corresponda."
+    },
+    {
+      "id": "061.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › párrafo 2",
+      "texto": "Párrafo reformado POE 06-03-2019 La Legislatura se reunirá en la capital del Estado, pero podrá cambiar provisionalmente su sede, si así lo acuerdan las dos terceras partes de la totalidad de Diputadas y Diputados."
+    },
+    {
+      "id": "061.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › párrafo 3",
+      "texto": "Párrafo adicionado POE 25-06-2016. Reformado POE 19-03-2025 No podrá celebrarse ninguna sesión sin la concurrencia de la mayoría simple del número total de Diputadas y Diputados que integran la Legislatura."
+    },
+    {
+      "id": "061.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › párrafo 4",
+      "texto": "Párrafo adicionado POE 06-03-2019. Reformado POE 19-03-2025 Artículo reformado POE 20-09-1995, 06-03-2000, 03-03-2009, 03-03-2010"
+    }
+  ]
+}

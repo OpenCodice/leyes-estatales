@@ -1,0 +1,171 @@
+{
+  "clave": "105",
+  "etiqueta": "Artículo 105",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "105.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › párrafo 1",
+      "texto": "El Tribunal Superior de Justicia contará con una Sala Constitucional conformada por tres integrantes, Magistradas y Magistrados, designados por el Tribunal Pleno, sin que el número de integrantes de un mismo género pueda ser mayor a dos. Las Magistradas y los Magistrados se designarán de manera escalonada y durarán en el cargo tres años, pudiendo ser designados para integrar simultáneamente otras Salas. La Presidenta o el Presidente de la Sala durará un año, sin posibilidad de reelección para el período inmediato posterior."
+    },
+    {
+      "id": "105.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › párrafo 2",
+      "texto": "Párrafo reformado POE 03-07-2017, 06-06-2024 APARTADO A. La Sala Constitucional será la máxima autoridad local en materia de interpretación de esta Constitución. Tendrá competencia para conocer de los siguientes medios de control:"
+    },
+    {
+      "id": "105.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › párrafo 3",
+      "texto": "Párrafo reformado POE 03-07-2017, 06-06-2024"
+    },
+    {
+      "id": "105.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción I",
+      "texto": "I. De las controversias que, por la constitucionalidad de sus actos o disposiciones generales, con excepción de las que se refieran a la materia electoral, surjan entre:"
+    },
+    {
+      "id": "105.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 105 › Fracción I › inciso a)",
+      "texto": "a) El Poder Ejecutivo y el Poder Legislativo."
+    },
+    {
+      "id": "105.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 105 › Fracción I › inciso b)",
+      "texto": "b) El Poder Ejecutivo y uno de los Municipios."
+    },
+    {
+      "id": "105.I.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 105 › Fracción I › inciso c)",
+      "texto": "c) El Poder Legislativo y uno de los Municipios."
+    },
+    {
+      "id": "105.I.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 105 › Fracción I › inciso d)",
+      "texto": "d) Dos o más municipios del Estado."
+    },
+    {
+      "id": "105.I.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 105 › Fracción I › inciso e)",
+      "texto": "e) Uno o más organismos constitucionalmente autónomos y otro u otros organismos o Poderes del Estado o Municipios.\n\nInciso adicionado POE 06-06-2024 Para que la controversia constitucional proceda, el actor deberá acreditar el interés jurídico.\n\nLa ley establecerá el plazo para la interposición de la demanda y los casos en que proceda la suspensión del acto que las motive. La suspensión no podrá otorgarse cuando se demande la invalidez de disposiciones generales.\n\nLa misma Ley establecerá las condiciones para que tengan efectos generales, las resoluciones sobre controversias que impugnen la validez constitucional de disposiciones generales."
+    },
+    {
+      "id": "105.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción II",
+      "texto": "II. De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución, con excepción de las que se refieran a la materia electoral, siempre que se ejerzan dentro de los treinta días naturales siguientes a la fecha de publicación de la norma, por:"
+    },
+    {
+      "id": "105.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 105 › Fracción II › inciso a)",
+      "texto": "a) Cuando menos la tercera parte de los miembros del Congreso del Estado."
+    },
+    {
+      "id": "105.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 105 › Fracción II › inciso b)",
+      "texto": "b) La Gobernadora o el Gobernador del Estado, por conducto de la persona consejera jurídica del Poder Ejecutivo, en contra de normas de carácter estatal;\n\nInciso reformado POE 03-07-2017, 19-03-2025"
+    },
+    {
+      "id": "105.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 105 › Fracción II › inciso c)",
+      "texto": "c) La persona titular de la Fiscalía General del Estado, respecto de leyes en materia penal, así como, las relacionadas en el ámbito de sus funciones, y Inciso adicionado POE 03-07-2017. Reformado POE 19-03-2025"
+    },
+    {
+      "id": "105.II.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 105 › Fracción II › inciso d)",
+      "texto": "d) Los organismos públicos autónomos, por conducto de quien les represente legalmente, con relación a la materia de su competencia, y Inciso adicionado POE 03-07-2017. Reformado POE 06-06-2024"
+    },
+    {
+      "id": "105.II.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 105 › Fracción II › inciso e)",
+      "texto": "e) Cuando menos la tercera parte de las personas encargadas de las Regidurias del Municipio, en contra de las disposiciones de carácter general aprobadas por el Ayuntamiento.\n\nInciso adicionado POE 06-06-2024 La admisión de una acción de inconstitucionalidad no dará lugar a la suspensión de la norma impugnada.\n\nLas resoluciones de la Sala Constitucional solo podrán declarar la invalidez de normas impugnadas, siempre que fueren aprobadas por unanimidad de votos, y no tendrán efectos retroactivos, salvo en materia penal.\n\nPárrafo reformado POE 06-06-2024"
+    },
+    {
+      "id": "105.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción III",
+      "texto": "III. De las acciones por omisión legislativa, cuando se considere que la Legislatura del Estado no ha resuelto sobre la expedición de alguna Ley o Decreto, y que dicha omisión afecte el debido cumplimiento de esta Constitución, siempre y cuando sean interpuestas por:"
+    },
+    {
+      "id": "105.III.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 105 › Fracción III › inciso a)",
+      "texto": "a) La Gobernadora o el Gobernador del Estado, o Inciso reformado POE 19-03-2025"
+    },
+    {
+      "id": "105.III.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 105 › Fracción III › inciso b)",
+      "texto": "b) Un Ayuntamiento del Estado.\n\nLa resolución que emita la Sala Constitucional que decrete el reconocimiento de la inconstitucionalidad por omisión legislativa, surtirá sus efectos a partir de su publicación en el Periódico Oficial del Estado.\n\nPárrafo reformado POE 06-06-2024 En dicha resolución se determinará un plazo para que se expida la Ley o Decreto de que se trate la omisión, a más tardar en el período ordinario que curse o el inmediato siguiente de la Legislatura del Estado, pudiendo disminuir este plazo cuando el interés público lo amerite.\n\nAPARTADO B. DEROGADO.\n\nApartado derogado POE 06-06-2024 APARTADO C. DEROGADO.\n\nApartado derogado POE 03-07-2017 Artículo reformado POE 09-07-1998, 24-10-2003, 01-08-2016"
+    }
+  ]
+}

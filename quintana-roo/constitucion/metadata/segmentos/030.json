@@ -1,0 +1,36 @@
+{
+  "clave": "030",
+  "etiqueta": "Artículo 30",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "030.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 1",
+      "texto": "Quedan prohibidas la pena de muerte, las de mutilación y de infamia, la marca, los azotes, los palos, el tormento de toda especie, la multa excesiva, la confiscación y cualesquiera otras penas inusitadas y trascendentales."
+    },
+    {
+      "id": "030.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 2",
+      "texto": "Fe de erratas POE 13-01-1975 DEROGADO (Segundo Párrafo)."
+    },
+    {
+      "id": "030.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 3",
+      "texto": "Párrafo reformado POE 31-03-1983. Derogado POE 02-03-2011"
+    }
+  ]
+}

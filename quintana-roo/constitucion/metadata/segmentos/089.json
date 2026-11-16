@@ -1,0 +1,45 @@
+{
+  "clave": "089",
+  "etiqueta": "Artículo 89",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "089.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › párrafo 1",
+      "texto": "La Gobernadora o el Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo, ni aún con el carácter de interino, provisional, sustituto o encargado del despacho."
+    },
+    {
+      "id": "089.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › párrafo 2",
+      "texto": "Nunca podrá ser electa para el período inmediato:"
+    },
+    {
+      "id": "089.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción I",
+      "texto": "I.- La persona Gobernadora que como sustituta constitucional, o la designada para concluir el período en caso de falta absoluta de la constitucional, aun cuando tengan distinta denominación, y"
+    },
+    {
+      "id": "089.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción II",
+      "texto": "II. La persona Gobernadora interina, provisional o la ciudadana, que bajo, cualquiera denominación, supla las faltas temporales de la Gobernadora o el Gobernador, siempre que desempeñe el cargo en los dos últimos años del período.\n\nArtículo reformado POE 19-03-2025"
+    }
+  ]
+}

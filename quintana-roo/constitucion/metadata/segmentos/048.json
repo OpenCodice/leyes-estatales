@@ -1,0 +1,27 @@
+{
+  "clave": "048",
+  "etiqueta": "Artículo 48",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "048.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › párrafo 1",
+      "texto": "La ciudad de Chetumal es la capital del Estado y la residencia oficial de los Poderes Estatales."
+    },
+    {
+      "id": "048.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › párrafo 2",
+      "texto": "Artículo original POE 12-01-1975"
+    }
+  ]
+}

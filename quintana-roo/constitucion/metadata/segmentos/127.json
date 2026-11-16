@@ -1,0 +1,36 @@
+{
+  "clave": "127",
+  "etiqueta": "Artículo 127",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "127.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 1",
+      "texto": "El Estado de Quintana Roo, se integra con los siguientes Municipios:"
+    },
+    {
+      "id": "127.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 2",
+      "texto": "Othón P. Blanco, Felipe Carrillo Puerto, José María Morelos, Cozumel, Lázaro Cárdenas, Benito Juárez, Isla Mujeres, Playa del Carmen, Tulum, Bacalar y Puerto Morelos."
+    },
+    {
+      "id": "127.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 3",
+      "texto": "Artículo reformado POE 15-02-2001, 24-10-2003, 19-05-2008, 17-02-2011, 06-11-2015, 19-03-2025"
+    }
+  ]
+}

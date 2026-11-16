@@ -1,0 +1,27 @@
+{
+  "clave": "137",
+  "etiqueta": "Artículo 137",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "137.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › párrafo 1",
+      "texto": "La Ley Reglamentaria, establecerá las fórmulas electorales y los procedimientos que se observarán en la asignación de las regidurías electas según el principio de representación proporcional."
+    },
+    {
+      "id": "137.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › párrafo 2",
+      "texto": "Artículo reformado POE 24-10-2003, 19-03-2025"
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "clave": "037",
+  "etiqueta": "Artículo 37",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "037.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › párrafo 1",
+      "texto": "Son quintanarroenses:"
+    },
+    {
+      "id": "037.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › Fracción I",
+      "texto": "I.- Los que nazcan en el Estado."
+    },
+    {
+      "id": "037.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › Fracción II",
+      "texto": "II.- Los mexicanos hijos de padres o madre quintanarroense, cualquiera que sea el lugar de su nacimiento."
+    },
+    {
+      "id": "037.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › Fracción III",
+      "texto": "III.- Los mexicanos que tengan domicilio establecido y una residencia efectiva de dos años por lo menos, dentro de la circunscripción territorial del Estado y estén dedicados al desempeño de actividad lícita, y"
+    },
+    {
+      "id": "037.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › Fracción IV",
+      "texto": "IV.- Los mexicanos que habiendo contraído matrimonio con quintanarroense, residan cuando menos un año en el Estado y manifiesten su deseo de adquirir esta calidad, ante el ayuntamiento de su residencia.\n\nArtículo original POE 12-01-1975"
+    }
+  ]
+}

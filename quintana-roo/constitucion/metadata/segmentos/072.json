@@ -1,0 +1,27 @@
+{
+  "clave": "072",
+  "etiqueta": "Artículo 72",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "072.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72 › párrafo 1",
+      "texto": "El Poder Ejecutivo no podrá hacer observaciones sobre los acuerdos económicos, las resoluciones que dicte la Legislatura erigida en Colegio Electoral, las referentes a la responsabilidad de las personas servidoras públicas, ni a la convocatoria a sesiones extraordinarias expedida por la Comisión Permanente."
+    },
+    {
+      "id": "072.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72 › párrafo 2",
+      "texto": "Artículo reformado POE 22-09-2017, 06-03-2019, 19-03-2025"
+    }
+  ]
+}

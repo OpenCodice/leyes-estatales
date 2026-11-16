@@ -1,0 +1,81 @@
+{
+  "clave": "042",
+  "etiqueta": "Artículo 42",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "042.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 1",
+      "texto": "Son deberes de las personas ciudadanas del Estado de Quintana Roo:"
+    },
+    {
+      "id": "042.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 2",
+      "texto": "Párrafo reformado POE 19-03-2025"
+    },
+    {
+      "id": "042.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › Fracción I",
+      "texto": "I.- Inscribirse en el catastro de la municipalidad manifestando sus propiedades, industria, profesión u ocupación."
+    },
+    {
+      "id": "042.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › Fracción II",
+      "texto": "II.- Inscribirse en los padrones electorales, en los términos que determinen las leyes."
+    },
+    {
+      "id": "042.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › Fracción III",
+      "texto": "III.- Alistarse en la Guardia Nacional."
+    },
+    {
+      "id": "042.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › Fracción IV",
+      "texto": "IV.- Votar en las elecciones populares estatales y municipales, así como en el plebiscito, referéndum, consulta popular y en los demás mecanismos de participación ciudadana, en los términos que señale la ley respectiva.\n\nFracción reformada POE 28-02-1997, 21-09-2017"
+    },
+    {
+      "id": "042.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › Fracción V",
+      "texto": "V. Ejercer los cargos de elección popular para los que fuera electa, y Fracción reformada POE 19-03-2025"
+    },
+    {
+      "id": "042.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › Fracción VI",
+      "texto": "VI.- Desempeñar las funciones electorales, censales, las de jurado y demás contenidas en esta Constitución y disposiciones emanadas de ella."
+    }
+  ]
+}
