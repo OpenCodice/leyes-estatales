@@ -1,0 +1,27 @@
+{
+  "clave": "187",
+  "etiqueta": "Artículo 187",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "187.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 187 › párrafo 1",
+      "texto": "El Patrimonio del Estado se compone de todos los bienes y derechos que este haya adquirido y adquiera por cualquier título, incluyendo sin limitación: las aguas que no siendo federales tampoco pertenezcan a particulares; las herencias y bienes vacantes, los créditos que tenga a su favor, sus propias rentas, los derechos sobre el patrimonio neto de los organismos descentralizados y empresas de participación estatal, sin perjuicio de los derechos de terceros, las obras públicas hechas con fondos estatales mientras no sean transferidas a otras entidades, las contribuciones que decrete el legislativo y de los demás ingresos que determinen las leyes fiscales o que se generen en su favor por cualquier causa legal."
+    },
+    {
+      "id": "187.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 187 › párrafo 2",
+      "texto": "El Estado podrá celebrar Convenios de Coordinación Fiscal con la Federación, equitativos y proporcionales con la recaudación fiscal federal que se genere en el Estado por concepto de impuestos y derechos. Se procurará que la redistribución al Estado no sea menor al cincuenta por ciento de la recaudación fiscal federal que se genere en el Estado. Para lo cual, el Sistema Estatal de Coordinación Hacendaria revisará el cumplimiento de la redistribución fiscal cada tres años."
+    }
+  ]
+}

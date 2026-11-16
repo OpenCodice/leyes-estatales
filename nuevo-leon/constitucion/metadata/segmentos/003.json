@@ -1,0 +1,63 @@
+{
+  "clave": "003",
+  "etiqueta": "Artículo 3",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "003.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 1",
+      "texto": "Esta Constitución tendrá el fin de salvaguardar en todo momento la dignidad y la libertad de las personas, armonizando los aspectos individuales y sociales de la vida humana, que propicien el desarrollo humano sustentable."
+    },
+    {
+      "id": "003.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 2",
+      "texto": "En el Estado de Nuevo León, todas las personas gozarán de los derechos humanos reconocidos en esta Constitución, la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales ratificados por el Estado Mexicano, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la Constitución Federal establece. A través de las leyes que emanen de esta Constitución, y en lo que resulte competencia de los poderes de esta entidad, se generarán los mecanismos idóneos para garantizar el ejercicio de dichos derechos."
+    },
+    {
+      "id": "003.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 3",
+      "texto": "Los derechos humanos de esta Constitución alientan la vida democrática y son expresión concreta de la dignidad humana. Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezca la ley."
+    },
+    {
+      "id": "003.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 4",
+      "texto": "En el Estado todos nacen libres. Los esclavos que pisen el territorio del Estado, recobrarán, por ese solo hecho, su libertad y tienen derecho a la protección de las leyes."
+    },
+    {
+      "id": "003.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 5",
+      "texto": "Queda prohibida la pena de muerte, así como las penas de mutilación y de infamia, la marca, los azotes, los palos, el tormento de cualquiera especie, la multa excesiva, la confiscación de bienes y cualquiera otras penas inusitadas o trascendentales."
+    },
+    {
+      "id": "003.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 6",
+      "texto": "Toda pena deberá ser proporcional al delito que sancione y al bien jurídico afectado."
+    }
+  ]
+}

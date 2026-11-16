@@ -1,0 +1,27 @@
+{
+  "clave": "039",
+  "etiqueta": "Artículo 39",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "039.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 1",
+      "texto": "Todas las personas tienen derecho a decidir de manera libre, responsable e informada sobre el número y espaciamiento de sus hijos e hijas, de forma segura."
+    },
+    {
+      "id": "039.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 2",
+      "texto": "Las personas tienen derecho a la protección, integración y desarrollo de la familia. El Estado emitirá las leyes necesarias para garantizar su protección, así como los servicios apropiados para su integración, bienestar y desarrollo social, cultural y económico atendiendo a lo establecido en la Constitución Federal y tratados internacionales."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "clave": "100",
+  "etiqueta": "Artículo 100",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "100.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › párrafo 1",
+      "texto": "Si por no haberse verificado las elecciones o por cualquiera otra causa, el Congreso del Estado no pudiere renovarse en el día fijado, la Diputación Permanente continuará en su carácter hasta que deje instalado al nuevo Congreso conforme a las leyes, convocando en su caso a elecciones."
+    }
+  ]
+}

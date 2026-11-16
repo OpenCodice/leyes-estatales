@@ -1,0 +1,27 @@
+{
+  "clave": "037",
+  "etiqueta": "Artículo 37",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "037.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › párrafo 1",
+      "texto": "Las personas adultas mayores tienen el derecho a una vida digna."
+    },
+    {
+      "id": "037.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › párrafo 2",
+      "texto": "El Estado realizará todas las acciones necesarias orientadas a lograr el derecho a una vida digna de las personas adultas mayores y promoverá su bienestar mediante un sistema de servicio social, con la participación de la comunidad, que atienda sus problemas específicos en materia de salud, cultura, recreación y calidad de vida, conforme a la legislación aplicable."
+    }
+  ]
+}

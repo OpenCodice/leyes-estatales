@@ -1,0 +1,36 @@
+{
+  "clave": "041",
+  "etiqueta": "Artículo 41",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "041.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › párrafo 1",
+      "texto": "Todas las personas tienen derecho a gozar de los beneficios del desarrollo de la ciencia y la innovación tecnológica. El Estado apoyará la innovación e investigación científica y social, humanística y tecnológica y garantizará el acceso abierto a la información que deriva de ella, para lo cual deberá proveer de recursos y estímulos suficientes."
+    },
+    {
+      "id": "041.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › párrafo 2",
+      "texto": "En el Estado se protege la libertad de investigación científica, la innovación y desarrollo tecnológico, siendo estos indispensables para la procuración del bien común de la sociedad y necesarios para fortalecer al Estado. La libertad de investigación tiene como límite la dignidad de la persona y el respeto a los derechos humanos."
+    },
+    {
+      "id": "041.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › párrafo 3",
+      "texto": "El Estado impulsará el acceso a las tecnologías de la información y comunicación, incluido el uso del Internet."
+    }
+  ]
+}

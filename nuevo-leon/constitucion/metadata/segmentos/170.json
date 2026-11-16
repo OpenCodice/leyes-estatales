@@ -1,0 +1,36 @@
+{
+  "clave": "170",
+  "etiqueta": "Artículo 170",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "170.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 170 › párrafo 1",
+      "texto": "Los Ayuntamientos elaborarán su Plan Municipal de Desarrollo. La planeación será democrática, abierta, participativa, descentralizada, transparente, transversal y con deliberación pública para impulsar la transformación económica, asegurar el desarrollo sustentable, satisfacer las necesidades individuales y los intereses de la comunidad, la funcionalidad y el uso, disfrute y aprovechamiento equitativo de la ciudad, así como propiciar la redistribución del ingreso y la riqueza."
+    },
+    {
+      "id": "170.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 170 › párrafo 2",
+      "texto": "El Plan Municipal de Desarrollo es el instrumento al que se sujetarán los planes, programas, políticas y proyectos públicos. Por otra parte, la programación y ejecución presupuestal incorporará sus objetivos, estrategias, metas y mecanismos de evaluación y medición. Su observancia será de carácter obligatorio para el sector público e indicativo para los demás sectores; así como deberá generar confianza legítima en la población."
+    },
+    {
+      "id": "170.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 170 › párrafo 3",
+      "texto": "Toda planeación presupuestal y los proyectos de inversión incorporarán sus metas, objetivos, estrategias y mecanismos de evaluación y medición."
+    }
+  ]
+}
