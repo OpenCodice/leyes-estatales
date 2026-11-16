@@ -64,9 +64,7 @@ XI. Toda familia tiene derecho a disfrutar de vivienda digna y decorosa. La Ley 
 
 (Adic. Según Decreto No. 86, de fecha 7 de marzo del 2017, publicado en el P.O. No. 034 de fecha 15 de marzo de 2017)
 
-XII. Toda persona tiene derecho a que se respete su integridad personal. El Estado y los Municipios establecerán las medidas necesarias para protegerlas contra cualquier acto de desaparición forzada y desaparición cometida por particulares;
-
-y contra la tortura y otros tratos o penas crueles, inhumanos o degradantes.
+XII. Toda persona tiene derecho a que se respete su integridad personal. El Estado y los Municipios establecerán las medidas necesarias para protegerlas contra cualquier acto de desaparición forzada y desaparición cometida por particulares; y contra la tortura y otros tratos o penas crueles, inhumanos o degradantes.
 
 (Adic. Según Decreto No. 155, de fecha 28 de mayo del 2019, publicado en el P.O. No. 071 de fecha 12 de junio de 2019).
 
