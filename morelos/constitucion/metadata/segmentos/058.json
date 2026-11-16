@@ -1,0 +1,54 @@
+{
+  "clave": "058",
+  "etiqueta": "Artículo 58",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "058.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 1",
+      "texto": "Para ser Gobernador se requiere:"
+    },
+    {
+      "id": "058.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › Fracción I",
+      "texto": "I. Ser mexicano por nacimiento;"
+    },
+    {
+      "id": "058.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › Fracción II",
+      "texto": "II. Estar en pleno goce de sus derechos;"
+    },
+    {
+      "id": "058.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › Fracción III",
+      "texto": "III. Ser morelense por nacimiento o morelense por residencia con una vecindad habitual efectiva en el estado no menor a doce años inmediatamente anteriores al día de la elección.\n\nLa residencia no se interrumpirá por el desempeño de un cargo de elección popular al Congreso de la Unión o un empleo, cargo o comisión en la Administración Pública Federal; y"
+    },
+    {
+      "id": "058.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › Fracción IV",
+      "texto": "IV. Tener treinta años de edad cumplidos al día de la elección."
+    }
+  ]
+}

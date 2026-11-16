@@ -1,0 +1,27 @@
+{
+  "clave": "132-bis",
+  "etiqueta": "Artículo 132 Bis",
+  "titulo": "TÍTULO SEXTO BIS",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "132-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 Bis › párrafo 1",
+      "texto": "El Estado, garantizará el acceso a la inscripción de las propiedades privadas en el Instituto de Servicios Registrales y Catastrales de Morelos, otorgando los medios legales para que los ciudadanos registren su propiedad inmobiliaria."
+    },
+    {
+      "id": "132-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 Bis › párrafo 2",
+      "texto": "La primera inscripción de la propiedad, será gratuita y el registro de los actos traslativos subsecuentes será obligatorio."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "clave": "003",
+  "etiqueta": "Artículo 3",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "003.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 1",
+      "texto": "Para los efectos de la Ley, las personas en el Estado se dividen en transeúntes y habitantes."
+    }
+  ]
+}

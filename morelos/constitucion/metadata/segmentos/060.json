@@ -1,0 +1,99 @@
+{
+  "clave": "060",
+  "etiqueta": "Artículo 60",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "060.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › párrafo 1",
+      "texto": "No podrán ser Titular del Poder Ejecutivo:"
+    },
+    {
+      "id": "060.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción I",
+      "texto": "I.- Los ministros de algún culto, salvo que hubieren dejado de serlo con la anticipación y en la forma que establezca la Ley reglamentaria del artículo 130 de la Constitución Federal;"
+    },
+    {
+      "id": "060.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción II",
+      "texto": "II.- Los miembros del ejército mexicano y quienes tengan mando de fuerza dentro o fuera del Estado, que no se hayan separado del servicio activo con seis meses de anticipación, inmediatamente anteriores a las elecciones;"
+    },
+    {
+      "id": "060.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción III",
+      "texto": "III.- Los que tengan algún empleo, cargo o comisión civil del Gobierno Federal, si no se separan noventa días antes del día de la elección;"
+    },
+    {
+      "id": "060.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción IV",
+      "texto": "IV.- Las personas Titulares de las Secretarías o Subsecretarías de Despacho, la persona Titular de la Fiscalía General del Estado, las personas Titulares de las Fiscalías y Fiscalías Especializadas, las personas Titulares de las Magistraturas del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, del Tribunal de Disciplina Judicial y del Tribunal Unitario de Justicia Penal para Adolescentes, y las personas integrantes del Órgano de Administración Judicial, si no se separan de sus respectivas funciones 90 días antes del día de la elección;"
+    },
+    {
+      "id": "060.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción V",
+      "texto": "V.- Los Gobernadores del Estado cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo, podrán volver a ocupar ese cargo, ni aún con carácter de interinos, provisionales, substitutos o encargados del despacho.\n\nNunca podrán ser electos para el período inmediato:"
+    },
+    {
+      "id": "060.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Apartado A",
+      "texto": "A).- El Gobernador substituto constitucional o el designado para concluir el período, en caso de falta absoluta del constitucional, aún cuando sea con distinta denominación;"
+    },
+    {
+      "id": "060.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Apartado B",
+      "texto": "B).- El Gobernador interino, el provisional, o el ciudadano que bajo cualquiera denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período."
+    },
+    {
+      "id": "060.B.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Apartado B › Fracción VI",
+      "texto": "VI.- Los Presidentes Municipales si no se separan de sus funciones 90 días antes del día de la elección; y"
+    },
+    {
+      "id": "060.B.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Apartado B › Fracción VII",
+      "texto": "VII.- El Consejero Presidente y los Consejeros Electorales del Organismo Público Electoral de Morelos, los Magistrados del Tribunal Electoral del Estado de Morelos, así como el personal directivo del Instituto Morelense de Procesos Electorales y Participación Ciudadana, aún si se separan de sus funciones, conforme a lo dispuesto en el artículo 23 de la presente Constitución."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "015",
+  "etiqueta": "Artículo 15",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "015.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › párrafo 1",
+      "texto": "Son obligaciones de la ciudadanía morelense:"
+    },
+    {
+      "id": "015.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción I",
+      "texto": "I.- Votar en las elecciones populares y en los procesos de Plebiscito y Referéndum que se convoquen;"
+    },
+    {
+      "id": "015.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción II",
+      "texto": "II.- Las establecidas en los artículos 31 y 36 de la Constitución Política de los Estados Unidos Mexicanos; y"
+    },
+    {
+      "id": "015.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción III",
+      "texto": "III.- Las demás establecidas por la presente Constitución."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "clave": "100",
+  "etiqueta": "Artículo 100",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "100.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › párrafo 1",
+      "texto": "Para dirimir las controversias a que se refiere la fracción XII del artículo anterior, se observarán las reglas siguientes:"
+    },
+    {
+      "id": "100.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › Fracción I",
+      "texto": "I.- El Ejecutivo deberá ocurrir al Tribunal Superior dentro del término de cinco días, contando desde el momento en que haya llegado a su conocimiento la Ley o acto de que se trate. Pasado este término, la reclamación no será admitida;"
+    },
+    {
+      "id": "100.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › Fracción II",
+      "texto": "II.- Al intentar el Ejecutivo la controversia, deberá señalar el precepto constitucional que creyere violado por la Ley o acto que reclame, sin cuyo requisito no será oído por el Tribunal;"
+    },
+    {
+      "id": "100.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › Fracción III",
+      "texto": "III.- Antes de resolver sobre la controversia, en cuanto al fondo, el Tribunal calificará dentro del término de dos días, oyendo previamente al Congreso, si la Ley o acto de que se trate es controvertible;"
+    },
+    {
+      "id": "100.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › Fracción IV",
+      "texto": "IV.- El Tribunal resolverá las controversias que se le sometan como puntos de mero hecho; se limitará a decidir si el precepto que contiene la resolución de que se trate, pugna o no con el artículo constitucional que reclame el Ejecutivo, desentendiéndose de la conveniencia o inconveniencia política o administrativa de la Ley o acto reclamado y de los trámites que haya observado el Congreso al ser presentados y discutidos;"
+    },
+    {
+      "id": "100.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › Fracción V",
+      "texto": "V.- El Tribunal deberá resolver, a más tardar dentro del término de cinco días, contados desde la fecha en que le hubiere promovido la controversia, atendiendo únicamente al texto expreso de la Constitución, sin interpretar en ningún caso ni usar el arbitrio judicial. La consecuencia única de la declaración del Tribunal, será la subsistencia o nulidad de la Ley o acto reclamado, cuyos efectos estarán suspensos entretanto. El Fiscal General del Estado tendrá voz en las discusiones."
+    },
+    {
+      "id": "100.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › Fracción VI",
+      "texto": "VI.- Si transcurriere el término a que se refiere la fracción anterior, sin que el Tribunal haga la declaración que corresponda, subsistirán definitivamente la Ley o acto reclamado, sin perjuicio de exigir la responsabilidad en que hubieren incurrido los Magistrados por la omisión del fallo;"
+    },
+    {
+      "id": "100.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › Fracción VII",
+      "texto": "VII.- No podrán ser objeto de estas controversias los actos del Congreso como jurado, ni las reformas que se hagan a esta Constitución."
+    }
+  ]
+}

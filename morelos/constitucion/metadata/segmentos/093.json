@@ -1,0 +1,27 @@
+{
+  "clave": "093",
+  "etiqueta": "Artículo 93",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "093.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › párrafo 1",
+      "texto": "El Tribunal Superior de Justicia funcionará en pleno o en salas."
+    },
+    {
+      "id": "093.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › párrafo 2",
+      "texto": "Las audiencias serán públicas, salvo cuando se traten de casos en que la moral o el interés social exijan que sean secretas."
+    }
+  ]
+}

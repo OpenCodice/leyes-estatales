@@ -1,0 +1,36 @@
+{
+  "clave": "069",
+  "etiqueta": "Artículo 69",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "069.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 1",
+      "texto": "Cuando por circunstancias anormales no pueda integrarse el Poder Ejecutivo conforme al artículo anterior, y se llegue el caso de que el Senado nombre un Gobernador Provisional de acuerdo con el artículo 76 fracción V de la Constitución General de la República, el nombrado deberá expedir la convocatoria respectiva para la elección de Congreso del Estado, dentro del término improrrogable de sesenta días."
+    },
+    {
+      "id": "069.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 2",
+      "texto": "Integrado el Congreso del Estado, procederá a hacer la designación de Gobernador, con arreglo a los artículos 64 y 65 de esta Constitución, expidiendo en su caso la convocatoria que corresponda."
+    },
+    {
+      "id": "069.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 3",
+      "texto": "En todo caso que el Gobernador por cualquier circunstancia no pueda otorgar la protesta de Ley ante el Congreso o la permanente en su caso, rendirá la protesta ante un notario legalmente autorizado para ejercer sus funciones dentro del territorio del Estado."
+    }
+  ]
+}
