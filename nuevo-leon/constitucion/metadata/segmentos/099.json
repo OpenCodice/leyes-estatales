@@ -1,0 +1,72 @@
+{
+  "clave": "099",
+  "etiqueta": "Artículo 99",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "099.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 1",
+      "texto": "A la Diputación Permanente le corresponde lo siguiente:"
+    },
+    {
+      "id": "099.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción I",
+      "texto": "I. Vigilar el cumplimiento de la Constitución y dar informe al Congreso del Estado de las infracciones que haya notado."
+    },
+    {
+      "id": "099.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción II",
+      "texto": "II. Resolver los asuntos de su competencia."
+    },
+    {
+      "id": "099.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción III",
+      "texto": "III. Recibir durante el receso del Congreso las iniciativas de ley, las observaciones a los proyectos de ley o decreto que envíe el Ejecutivo y proposiciones dirigidas a las autoridades y turnarlas para dictamen a las comisiones correspondientes, a fin de que se despachen en el inmediato periodo de sesiones."
+    },
+    {
+      "id": "099.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción IV",
+      "texto": "IV. Convocar al Congreso del Estado a Periodo Extraordinario de Sesiones, cuando así convenga a la salud del Estado, lo exija el cumplimiento de alguna ley general o lo solicite el Ejecutivo."
+    },
+    {
+      "id": "099.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción V",
+      "texto": "V. Recibir durante sus funciones las protestas de ley que deben otorgarse ante el Congreso."
+    },
+    {
+      "id": "099.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción VI",
+      "texto": "VI. Ejercer las demás facultades que le otorgan esta Constitución y las leyes."
+    }
+  ]
+}

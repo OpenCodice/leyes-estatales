@@ -1,0 +1,27 @@
+{
+  "clave": "091",
+  "etiqueta": "Artículo 91",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "091.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 1",
+      "texto": "Se publicarán las leyes usando esta fórmula: “N__________________________, Gobernador Constitucional del Estado Libre y Soberano de Nuevo León, a todos sus habitantes hago saber: Que el H. Congreso del Estado de Nuevo León ha tenido a bien decretar lo que sigue:” (AQUI EL TEXTO LITERAL) “Por tanto, mando se imprima, publique, circule y se le dé el debido cumplimiento. Dado en…”, etcétera."
+    },
+    {
+      "id": "091.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 2",
+      "texto": "Lo firmarán el Gobernador del Estado, el Secretario General de Gobierno, y en su caso, el Secretario de la materia correspondiente."
+    }
+  ]
+}

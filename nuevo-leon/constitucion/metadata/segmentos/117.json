@@ -1,0 +1,36 @@
+{
+  "clave": "117",
+  "etiqueta": "Artículo 117",
+  "titulo": "",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "117.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › párrafo 1",
+      "texto": "No podrá ser electo como Gobernador para el período inmediato siguiente:"
+    },
+    {
+      "id": "117.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › Fracción I",
+      "texto": "I. El Gobernador sustituto o designado para concluir el período en caso de falta absoluta del constitucional, aun cuando tenga distinta denominación."
+    },
+    {
+      "id": "117.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › Fracción II",
+      "texto": "II. El Gobernador interino, provisional o el ciudadano que, bajo cualquier denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo los dos últimos años del periodo."
+    }
+  ]
+}

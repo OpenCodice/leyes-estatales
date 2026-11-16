@@ -1,0 +1,63 @@
+{
+  "clave": "118",
+  "etiqueta": "Artículo 118",
+  "titulo": "",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "118.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › párrafo 1",
+      "texto": "Para ser Gobernador del Estado se requiere lo siguiente:"
+    },
+    {
+      "id": "118.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › Fracción I",
+      "texto": "I. Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos, nativo del Estado o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección."
+    },
+    {
+      "id": "118.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › Fracción II",
+      "texto": "II. Tener cuando menos veintiocho años cumplidos al día de la elección."
+    },
+    {
+      "id": "118.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › Fracción III",
+      "texto": "III. No pertenecer al estado eclesiástico ni ser ministro de algún culto."
+    },
+    {
+      "id": "118.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › Fracción IV",
+      "texto": "IV. No estar en servicio activo, en caso de pertenecer al Ejército, seis meses antes del día de la elección."
+    },
+    {
+      "id": "118.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › Fracción V",
+      "texto": "V. No ser Secretario de una dependencia, Órgano Desconcentrado, Descentralizado o Paraestatal en la Federación o en la Entidad, Titular del Órgano Interno de Control Estatal, Senador o Diputado del Congreso de la Unión, Diputado del Congreso del Estado, Magistrado del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, o del Tribunal Electoral, Consejero de la Judicatura del Estado, Consejero Electoral del Instituto Estatal Electoral y de Participación Ciudadana, Presidente de la Comisión Estatal de Derechos Humanos, Consejero del Instituto Estatal de Transparencia, Acceso a la Información y Protección de Datos Personales, Fiscal General del Estado, Fiscal Especializado en Combate a la Corrupción, Fiscal Especializado en Delitos Electorales o Presidente Municipal.\n\nLos servidores públicos mencionados en las fracciones anteriores, con excepción de los consejeros electorales y los magistrados electorales, podrán ser electos si se separan de su cargo cuando menos cien días naturales antes del día de la elección correspondiente."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "clave": "148",
+  "etiqueta": "Artículo 148",
+  "titulo": "",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "148.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148 › párrafo 1",
+      "texto": "Los Consejeros del Consejo de la Judicatura a los que se refiere el artículo 144 de esta Constitución serán nombrados de acuerdo a los siguientes procedimientos:"
+    },
+    {
+      "id": "148.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148 › Fracción I",
+      "texto": "I. Para el Consejero nombrado por el Congreso del Estado se seguirán los siguientes pasos:"
+    },
+    {
+      "id": "148.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 148 › Fracción I › inciso a)",
+      "texto": "a) Dentro de los diez días naturales posteriores a la ausencia definitiva del Consejero de la Judicatura o ciento cincuenta días naturales previos a que finalice el periodo de su encargo, el Congreso del Estado emitirá una convocatoria pública por un plazo de quince días hábiles y contará con treinta días hábiles después de concluido dicho plazo para integrar la lista de los candidatos, de entre las personas acreditadas de acuerdo al procedimiento que se fije en la propia convocatoria, la cual establecerá los mecanismos de análisis de perfiles de las personas participantes."
+    },
+    {
+      "id": "148.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 148 › Fracción I › inciso b)",
+      "texto": "b) Previa comparecencia, el Congreso del Estado elegirá al candidato, de entre los que conforman la lista, que ocupará la vacante al cargo de Consejero de la Judicatura mediante el voto aprobatorio secreto de al menos las dos terceras partes de los integrantes del Congreso. De no alcanzarse dicha votación, se procederá a una segunda votación entre las dos personas que hayan obtenido más votos. En caso de empate entre quienes no obtuvieron el mayor número de votos, habrá una votación para definir por mayoría quién, entre dichos candidatos, participará en la segunda votación.\n\nSi en la segunda votación ninguno de los dos obtiene el voto aprobatorio de las dos terceras partes de los integrantes de la legislatura, se procederá a la insaculación de entre estos últimos dos."
+    },
+    {
+      "id": "148.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148 › Fracción II",
+      "texto": "II. Para el Consejero nombrado por el Gobernador se seguirán los siguientes pasos:"
+    },
+    {
+      "id": "148.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 148 › Fracción II › inciso a)",
+      "texto": "a) Dentro de los diez días naturales posteriores a la ausencia definitiva del Consejero de la Judicatura o ciento cincuenta días naturales previos a que finalice el periodo de su encargo, el Gobernador del Estado emitirá una convocatoria pública por un plazo de quince días hábiles y contará con treinta días hábiles después de concluido dicho plazo para integrar la lista de aspirantes, de entre las personas acreditadas de acuerdo al procedimiento que se fije en la propia convocatoria, la cual establecerá los mecanismos de análisis de perfiles de las personas participantes."
+    },
+    {
+      "id": "148.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 148 › Fracción II › inciso b)",
+      "texto": "b) Previa comparecencia, el Gobernador del Estado elegirá a él candidato, de entre los que conforman la lista, que ocupará la vacante al cargo de Consejero del Consejo de la Judicatura."
+    },
+    {
+      "id": "148.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148 › Fracción III",
+      "texto": "III. El Pleno del Tribunal Superior de Justicia elegirá a los jueces que ocuparán el cargo de Consejeros de la Judicatura."
+    }
+  ]
+}

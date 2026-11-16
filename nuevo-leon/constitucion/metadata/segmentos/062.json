@@ -1,0 +1,36 @@
+{
+  "clave": "062",
+  "etiqueta": "Artículo 62",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "062.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › párrafo 1",
+      "texto": "La soberanía del Estado reside en el pueblo, ejerciéndose la misma por medio del poder público."
+    },
+    {
+      "id": "062.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › párrafo 2",
+      "texto": "El poder público del Estado de Nuevo León se dividirá, para su ejercicio como Gobierno, en los Poderes Ejecutivo, Legislativo y Judicial, así como los Órganos Constitucionales Autónomos, y no podrán reunirse dos o más de estos poderes en una sola persona o corporación, ni depositarse el Legislativo en un solo individuo."
+    },
+    {
+      "id": "062.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › párrafo 3",
+      "texto": "El Estado de Nuevo León tiene como base de su división territorial y de su organización política y administrativa, el municipio libre."
+    }
+  ]
+}

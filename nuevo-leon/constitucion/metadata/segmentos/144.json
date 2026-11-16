@@ -1,0 +1,45 @@
+{
+  "clave": "144",
+  "etiqueta": "Artículo 144",
+  "titulo": "",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "144.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 144 › párrafo 1",
+      "texto": "El Consejo de la Judicatura del Estado se compondrá por cinco Consejeros, de las cuales uno será el Presidente del Tribunal Superior de Justicia; dos jueces designadas por el Pleno del Tribunal Superior de Justicia; otro será designado por el Ejecutivo, y otro por el Congreso del Estado."
+    },
+    {
+      "id": "144.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 144 › párrafo 2",
+      "texto": "Las personas que sean consideradas para ser Consejeros de la Judicatura deberán haberse distinguido por su honestidad, capacidad y aptitud profesional para el desempeño de la función."
+    },
+    {
+      "id": "144.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 144 › párrafo 3",
+      "texto": "Los Consejeros de la Judicatura del Estado no representan a quienes los designan, por lo que ejercerán su función con plena independencia e imparcialidad y deberán ser sustituidos de manera escalonada. Para este fin, los Consejeros de la Judicatura designados por el Poder Judicial y los designados por los Poderes Ejecutivo y Legislativo durarán en su cargo tres años pudiendo ser designados por hasta un periodo consecutivo adicional."
+    },
+    {
+      "id": "144.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 144 › párrafo 4",
+      "texto": "El Consejo de la Judicatura del Estado funcionará en Pleno o en Comisiones. El Pleno sesionará con la presencia de la mayoría de sus integrantes."
+    }
+  ]
+}

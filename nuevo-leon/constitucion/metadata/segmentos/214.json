@@ -1,0 +1,27 @@
+{
+  "clave": "214",
+  "etiqueta": "Artículo 214",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "214.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 214 › párrafo 1",
+      "texto": "Para las adiciones o reformas a que se refieren los artículos anteriores, se guardarán las mismas reglas que quedan prescritas respecto de las leyes comunes, excepto el derecho de observaciones que no podrá ejercer el Gobernador, según la fracción III del artículo"
+    },
+    {
+      "id": "214.126",
+      "tipo": "numeral",
+      "marca": "126",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 214 › 126.",
+      "texto": "126."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "clave": "102",
+  "etiqueta": "Artículo 102",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "102.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › párrafo 1",
+      "texto": "La Auditoría Superior del Estado tendrá las siguientes facultades:"
+    },
+    {
+      "id": "102.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › Fracción I",
+      "texto": "I. Fiscalizar en forma posterior los ingresos, egresos y deuda; el manejo, la custodia y la aplicación de fondos y recursos de los Poderes del Estado y de los entes públicos estatales y municipales, así como realizar auditorías sobre el desempeño en el cumplimiento de los objetivos contenidos en los planes y programas estatales y municipales. Fiscalizará además, de manera coordinada con las autoridades de la Federación, las participaciones federales asignadas al Estado y a los municipios."
+    },
+    {
+      "id": "102.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › Fracción II",
+      "texto": "II. Fiscalizar los recursos públicos que se hayan destinado o ejercido por cualquier entidad, persona física o moral, pública o privada, y los transferidos, bajo cualquier título a fideicomisos, mandatos, fondos o cualquier otra figura jurídica, de conformidad con los procedimientos establecidos en las leyes."
+    },
+    {
+      "id": "102.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › Fracción III",
+      "texto": "III. Fiscalizar la situación de los bienes muebles e inmuebles y patrimonial de los sujetos fiscalizados."
+    },
+    {
+      "id": "102.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › Fracción IV",
+      "texto": "IV. Investigar los actos u omisiones que impliquen alguna irregularidad o conducta ilícita en el ingreso, egreso, manejo, custodia, administración y aplicación de fondos y recursos estatales y municipales, y efectuar visitas domiciliarias, únicamente para exigir la exhibición de libros, papeles o archivos indispensables para la realización de sus revisiones e investigaciones, sujetándose a las leyes y a las formalidades establecidas para los cateos."
+    },
+    {
+      "id": "102.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › Fracción V",
+      "texto": "V. Derivado de sus investigaciones, promover las responsabilidades que sean procedentes ante el Tribunal de Justicia Administrativa y la Fiscalía Especializada en Combate a la Corrupción, para la imposición de las sanciones que correspondan a los servidores públicos y a los particulares."
+    },
+    {
+      "id": "102.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › Fracción VI",
+      "texto": "VI. Las demás facultades que esta Constitución y las leyes le otorguen."
+    }
+  ]
+}
