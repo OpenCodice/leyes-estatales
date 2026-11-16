@@ -1,0 +1,27 @@
+{
+  "clave": "136",
+  "etiqueta": "Artículo 136",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "136.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 136 › párrafo 1",
+      "texto": "Se deroga."
+    },
+    {
+      "id": "136.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 136 › párrafo 2",
+      "texto": "ARTÍCULO DEROGADO POR DEC. 163 P.O. 54 DEL 06 DE JULIO DE 2025."
+    }
+  ]
+}

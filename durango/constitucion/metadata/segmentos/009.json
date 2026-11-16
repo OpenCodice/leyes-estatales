@@ -1,0 +1,27 @@
+{
+  "clave": "009",
+  "etiqueta": "Artículo 9",
+  "titulo": "TÍTULO PRIMERO DE LOS DERECHOS HUMANOS",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "009.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › párrafo 1",
+      "texto": "Toda persona tiene derecho a la libre expresión de ideas, pensamientos y opiniones mediante la palabra, el escrito o cualquier otro medio. La manifestación de las ideas no puede ser objeto de ninguna restricción judicial o administrativa, sino en el caso de que ataque a la moral, transgreda derechos de tercero, provoque algún delito o perturbe el orden público o la paz social. El derecho de réplica será ejercido en los términos dispuestos por la ley."
+    },
+    {
+      "id": "009.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › párrafo 2",
+      "texto": "Este derecho incluye el de no ser molestado a causa de las opiniones expresadas y el de investigar, recibir y difundir información, sin mayor limitación que la establecida por la ley."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "182",
+  "etiqueta": "Artículo 182",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "182.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 182 › párrafo 1",
+      "texto": "Toda iniciativa de reforma constitucional deberá ser sometida a la opinión del Gobernador del Estado, del Tribunal Superior de Justicia y, en su caso, de los órganos constitucionales autónomos, cuando la reforma verse sobre la materia de sus atribuciones; quienes deberán rendir un informe por escrito, dentro de los quince días siguientes. Transcurrido dicho plazo, el proceso de reforma contenido en el presente artículo seguirá su curso, con independencia de la recepción de las opiniones respectivas, previa publicación de un comunicado que contenga una síntesis de su contenido."
+    },
+    {
+      "id": "182.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 182 › párrafo 2",
+      "texto": "Para la aprobación de la reforma constitucional se requiere el voto favorable de las dos terceras partes del total de los miembros del Congreso del Estado, y de la mayoría de los ayuntamientos. Si transcurrido un periodo de cuarenta y cinco días naturales, a partir de la recepción del decreto correspondiente, los ayuntamientos no contestaren, se entenderá que aprueban la reforma. El Congreso del Estado hará la declaratoria respectiva."
+    },
+    {
+      "id": "182.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 182 › párrafo 3",
+      "texto": "Cuando el Congreso del Estado considere necesario llevar a cabo una reforma en todo o proponer una nueva Constitución, ésta deberá ser aprobada en Referéndum."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "clave": "099",
+  "etiqueta": "Artículo 99",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "099.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 1",
+      "texto": "Para el despacho de los asuntos que le compete al Ejecutivo Estatal, contará con las dependencias, entidades y organismos que determine la ley; en el nombramiento de los titulares de las Secretarías de Despacho, dependencias y entidades deberá garantizarse la observancia del principio de paridad de género."
+    },
+    {
+      "id": "099.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 2",
+      "texto": "REFORMADO POR DEC. 585 P.O. 11 EXT. DEL 24 DE MAYO DE 2022."
+    },
+    {
+      "id": "099.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 3",
+      "texto": "PÁRRAFO REFORMADO POR DEC. 154, P.O. 87, DEL 30 DE OCTUBRE DE 2022."
+    },
+    {
+      "id": "099.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 4",
+      "texto": "La administración pública del Estado será centralizada y paraestatal."
+    },
+    {
+      "id": "099.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 5",
+      "texto": "El Estado contará con un Centro de Conciliación laboral que tendrá la integración, atribuciones y competencias que señala la Constitución Política de los Estados Unidos Mexicanos y la demás legislación aplicable."
+    },
+    {
+      "id": "099.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 6",
+      "texto": "ADICIONADO POR DEC. 287 P.O. 43 DEL 28 DE MAYO DE 2020."
+    }
+  ]
+}

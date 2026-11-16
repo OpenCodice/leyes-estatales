@@ -1,0 +1,27 @@
+{
+  "clave": "183",
+  "etiqueta": "Artículo 183",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "183.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 183 › párrafo 1",
+      "texto": "Esta Constitución en ningún momento perderá su fuerza y vigencia. En caso de que hubiere un trastorno público continuará su observancia inmediatamente que el pueblo recobre su libertad."
+    },
+    {
+      "id": "183.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 183 › párrafo 2",
+      "texto": "Si se establece un Gobierno contrario a la Constitución, una vez que se restablezca su observancia, toda persona que la haya infringido será juzgada, respetando en todo momento los principios establecidos en ella."
+    }
+  ]
+}

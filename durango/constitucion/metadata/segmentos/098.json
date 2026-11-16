@@ -1,0 +1,369 @@
+{
+  "clave": "098",
+  "etiqueta": "Artículo 98",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "098.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 1",
+      "texto": "Son facultades y obligaciones de la Gobernadora o Gobernador del Estado:"
+    },
+    {
+      "id": "098.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción I",
+      "texto": "I. Cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, las leyes que de ellas emanen y los tratados internacionales suscritos por el Estado mexicano."
+    },
+    {
+      "id": "098.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción II",
+      "texto": "II. Publicar, cumplir y hacer cumplir las leyes decretadas por el Congreso del Estado, proveyendo en la esfera administrativa a su exacta observancia."
+    },
+    {
+      "id": "098.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción III",
+      "texto": "III. Dirigir la administración del Gobierno del Estado, mediante la ejecución de las políticas públicas, derivadas de la legislación y de los planes y programas de desarrollo."
+    },
+    {
+      "id": "098.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción IV",
+      "texto": "IV. Nombrar y remover libremente a las personas titulares de las Secretarías de despacho y demás servidores públicos del Poder Ejecutivo, cuyo nombramiento o remoción no estén determinados de otro modo en esta Constitución o en las leyes."
+    },
+    {
+      "id": "098.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción V",
+      "texto": "V. Designar a la persona integrante del Órgano de Administración del Poder Judicial, a que se refiere el artículo 125 de esta Constitución.\n\nFRACCIÓN REFORMADA POR DEC. 071, P. O. 93 BIS DEL 21 DE NOVIEMBRE DE 2024."
+    },
+    {
+      "id": "098.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción VI",
+      "texto": "VI. Proponer al Congreso del Estado a las Magistradas y los Magistrados del Tribunal de Justicia Administrativa.\n\nREFORMADO POR DEC. 119 P.O. 22 DEL 16 DE MARZO DE 2017.\n\nREFORMADO POR DEC. 585 P.O. 11 EXT. DEL 24 DE MAYO DE 2022.\n\nFRACCIÓN REFORMADA POR DEC. 071, P. O. 93 BIS DEL 21 DE NOVIEMBRE DE 2024."
+    },
+    {
+      "id": "098.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción VII",
+      "texto": "VII. Planear y conducir el desarrollo integral del Estado; formular, ejecutar, controlar y evaluar el Plan Estratégico, el Plan Estatal de Desarrollo, planes sectoriales, metropolitanos y regionales, y los programas que de éstos se deriven. En los procesos de planeación metropolitana y regional deberá consultarse a los ayuntamientos."
+    },
+    {
+      "id": "098.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción VIII",
+      "texto": "VIII. Imponer las sanciones administrativas que determinen las leyes y reglamentos."
+    },
+    {
+      "id": "098.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción IX",
+      "texto": "IX. Autorizar, expedir y revocar patentes para el desempeño de la función notarial en los términos de la legislación respectiva."
+    },
+    {
+      "id": "098.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción X",
+      "texto": "X. Celebrar contratos y convenios."
+    },
+    {
+      "id": "098.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XI",
+      "texto": "XI. Otorgar permisos, concesiones y autorizaciones de acuerdo con la ley."
+    },
+    {
+      "id": "098.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XII",
+      "texto": "XII. Llevar a cabo convenios con el Gobierno Federal y con los ayuntamientos del Estado para coordinar sus atribuciones en materias concurrentes, así como para la prestación eficaz de funciones y servicios públicos, y asumir la prestación temporal de los mismos, cuando los ayuntamientos así lo soliciten."
+    },
+    {
+      "id": "098.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XIII",
+      "texto": "XIII. Transferir o delegar a los municipios, mediante ley o convenio, funciones o servicios que le son propios, debiendo realizar la asignación de los recursos financieros necesarios para su debido cumplimiento."
+    },
+    {
+      "id": "098.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XIV",
+      "texto": "XIV. Conservar la paz, tranquilidad y el orden público en todo el territorio del Estado; mandar las fuerzas de seguridad pública estatales y coordinarse en esta materia con la Federación, otras entidades y los municipios, según lo dispuesto en la ley."
+    },
+    {
+      "id": "098.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XV",
+      "texto": "XV. Promover la inversión pública, privada y extranjera, la generación de empleos y el desarrollo económico."
+    },
+    {
+      "id": "098.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XVI",
+      "texto": "XVI. Contratar, con la autorización del Congreso del Estado, obligaciones o empréstitos destinados a inversiones públicas productivas y a su refinanciamiento o reestructura, mismas que deberán realizarse bajo las mejores condiciones del mercado; así como informar de su ejercicio al rendir la cuenta pública;\n\nFRACCIÓN REFORMADO POR DEC. 48, LXVII, P. O. No. 8, 26 DE ENERO DE 2017."
+    },
+    {
+      "id": "098.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XVII",
+      "texto": "XVII. Enajenar previa autorización del Congreso del Estado, los bienes que pertenezcan al Ejecutivo Estatal."
+    },
+    {
+      "id": "098.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XVIII",
+      "texto": "XVIII. Ejercer la representación jurídica del Gobierno del Estado y delegarla mediante acuerdo, así como otorgar mandatos de conformidad con las disposiciones legales aplicables."
+    },
+    {
+      "id": "098.XIX",
+      "tipo": "fraccion",
+      "marca": "XIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XIX",
+      "texto": "XIX. Representar al Estado ante cualquier autoridad judicial del ámbito federal o del fuero común, así como ante autoridades administrativas federales o locales en los procedimientos legales en que sea parte, sin perjuicio de las facultades que otorga esta Constitución a los otros poderes."
+    },
+    {
+      "id": "098.XX",
+      "tipo": "fraccion",
+      "marca": "XX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XX",
+      "texto": "XX. Representar al Estado en las controversias constitucionales establecidas en la Constitución Política de los Estados Unidos Mexicanos; así como participar en las controversias constitucionales y acciones de inconstitucionalidad previstas en esta Constitución."
+    },
+    {
+      "id": "098.XXI",
+      "tipo": "fraccion",
+      "marca": "XXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XXI",
+      "texto": "XXI. Asumir la representación política y jurídica del Estado en los conflictos sobre límites territoriales que prevé la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "098.XXII",
+      "tipo": "fraccion",
+      "marca": "XXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XXII",
+      "texto": "XXII. Representar al Estado en las comisiones federales y en las comisiones interestatales regionales."
+    },
+    {
+      "id": "098.XXIII",
+      "tipo": "fraccion",
+      "marca": "XXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XXIII",
+      "texto": "XXIII. Presentar ante el Congreso del Estado iniciativas de ley o decreto y solicitar a la misma que inicie ante el Congreso de la Unión las de competencia federal."
+    },
+    {
+      "id": "098.XXIV",
+      "tipo": "fraccion",
+      "marca": "XXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XXIV",
+      "texto": "XXIV. Presentar al Congreso del Estado a más tardar el treinta de noviembre de cada año, las iniciativas de ley de ingresos y la ley que contiene el presupuesto de egresos, que deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, que deberán regir durante el año siguiente, dichas iniciativas deberán presentarse en los términos que disponga la legislación federal y local aplicable;\n\nFRACCIÓN REFORMADO POR DEC. 48, LXVII, P. O. No. 8, 26 DE ENERO DE 2017."
+    },
+    {
+      "id": "098.XXV",
+      "tipo": "fraccion",
+      "marca": "XXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XXV",
+      "texto": "XXV. Ejercer el derecho de veto, en los términos de la presente Constitución."
+    },
+    {
+      "id": "098.XXVI",
+      "tipo": "fraccion",
+      "marca": "XXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XXVI",
+      "texto": "XXVI. Ejercer la potestad reglamentaria, dictando los decretos, acuerdos, reglamentos e instrucciones que sean convenientes para la ejecución de las leyes."
+    },
+    {
+      "id": "098.XXVII",
+      "tipo": "fraccion",
+      "marca": "XXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XXVII",
+      "texto": "XXVII. Entregar al Congreso del Estado el 1 de septiembre, el informe anual de la situación que guarda la Administración Pública Estatal, y el avance en el cumplimiento del Plan Estatal de Desarrollo.\n\nFRACCIÓN REFORMADA DEC. 51, LXVII, P. O. No. 8, 26 DE ENERO DE 2017.\n\nFRACCIÓN REFORMADA POR DEC. 401, P.O. 19 EXT. DEL 23 DE AGOSTO DE 2023."
+    },
+    {
+      "id": "098.XXVIII",
+      "tipo": "fraccion",
+      "marca": "XXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XXVIII",
+      "texto": "XXVIII. Enviar al Congreso del Estado al término de su periodo, una Memoria del ejercicio de su gestión."
+    },
+    {
+      "id": "098.XXIX",
+      "tipo": "fraccion",
+      "marca": "XXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XXIX",
+      "texto": "XXIX. Facilitar a los poderes Judicial y Legislativo, a los municipios y a los órganos constitucionales autónomos el auxilio que requieran para el ejercicio de sus funciones."
+    },
+    {
+      "id": "098.XXX",
+      "tipo": "fraccion",
+      "marca": "XXX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XXX",
+      "texto": "XXX. Conceder indulto a los sentenciados por delitos del orden común."
+    },
+    {
+      "id": "098.XXXI",
+      "tipo": "fraccion",
+      "marca": "XXXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XXXI",
+      "texto": "XXXI. Dirigir el Sistema Estatal de Protección Civil, en coordinación con las instancias federales y municipales correspondientes, en casos de desastre natural o situaciones urgentes."
+    },
+    {
+      "id": "098.XXXII",
+      "tipo": "fraccion",
+      "marca": "XXXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XXXII",
+      "texto": "XXXII. Determinar los casos en los que sea de utilidad pública la ocupación de la propiedad privada y decretar la expropiación en términos de la ley."
+    },
+    {
+      "id": "098.XXXIII",
+      "tipo": "fraccion",
+      "marca": "XXXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XXXIII",
+      "texto": "XXXIII. Convocar a consulta popular, plebiscito y referéndum, en los casos y con los requisitos previstos en esta Constitución y la ley."
+    },
+    {
+      "id": "098.XXXIV",
+      "tipo": "fraccion",
+      "marca": "XXXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XXXIV",
+      "texto": "XXXIV. Impulsar el desarrollo y aprovechamiento integral de los recursos naturales y el turismo."
+    },
+    {
+      "id": "098.XXXV",
+      "tipo": "fraccion",
+      "marca": "XXXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XXXV",
+      "texto": "XXXV. Impulsar el fortalecimiento del Estado de Derecho, de la cultura de participación ciudadana y del respeto a los derechos humanos."
+    },
+    {
+      "id": "098.XXXVI",
+      "tipo": "fraccion",
+      "marca": "XXXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XXXVI",
+      "texto": "XXXVI. Nombrar representantes para la gestión de los negocios fuera del Estado."
+    },
+    {
+      "id": "098.XXXVII",
+      "tipo": "fraccion",
+      "marca": "XXXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XXXVII",
+      "texto": "XXXVII. Las que sean propias de la autoridad del gobierno del Estado y no estén expresamente asignadas a los otros poderes del Estado o a los municipios."
+    },
+    {
+      "id": "098.XXXVIII",
+      "tipo": "fraccion",
+      "marca": "XXXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XXXVIII",
+      "texto": "XXXVIII. Designar a las personas integrantes del Comité de Evaluación a que hace referencia el artículo 108 de esta Constitución.\n\nFRACCIÓN ADICIONADA POR DEC. 071, P. O. 93 BIS DEL 21 DE NOVIEMBRE 2024."
+    },
+    {
+      "id": "098.XXXIX",
+      "tipo": "fraccion",
+      "marca": "XXXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › Fracción XXXIX",
+      "texto": "XXXIX. Las demás que señale esta Constitución, la Constitución Política de los Estados Unidos Mexicanos y las leyes.\n\nARTÍCULO REFORMADO POR DEC. 071, P. O. 93 BIS DEL 21 DE NOVIEMBRE 2024."
+    }
+  ]
+}

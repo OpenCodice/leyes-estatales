@@ -1,0 +1,36 @@
+{
+  "clave": "030",
+  "etiqueta": "Artículo 30",
+  "titulo": "TÍTULO PRIMERO DE LOS DERECHOS HUMANOS",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "030.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 1",
+      "texto": "Es derecho de todos los habitantes del Estado acceder a la sociedad de la información y el conocimiento."
+    },
+    {
+      "id": "030.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 2",
+      "texto": "El acceso a internet y a las tecnologías de información y comunicación, la creación de medios de comunicación social, y el acceso a toda forma de comunicación visual, auditiva, sensorial o de cualquier otro tipo son derechos de toda persona que se encuentre en el Estado de Durango. El Estado implementará acciones para el establecimiento de áreas de libre acceso a señal de internet."
+    },
+    {
+      "id": "030.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 3",
+      "texto": "El Estado garantizará el derecho de los ciudadanos para relacionarse electrónicamente con los entes públicos."
+    }
+  ]
+}

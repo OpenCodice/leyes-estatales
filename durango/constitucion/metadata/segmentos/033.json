@@ -1,0 +1,45 @@
+{
+  "clave": "033",
+  "etiqueta": "Artículo 33",
+  "titulo": "TÍTULO PRIMERO DE LOS DERECHOS HUMANOS",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "033.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › párrafo 1",
+      "texto": "El Estado garantizará a las mujeres embarazadas, los siguientes derechos:"
+    },
+    {
+      "id": "033.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › Fracción I",
+      "texto": "I. A recibir un trato sin discriminación por su embarazo en los ámbitos educativo, económico, social y laboral."
+    },
+    {
+      "id": "033.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › Fracción II",
+      "texto": "II. Al acceso de manera gratuita a los servicios públicos de salud materna durante el periodo de embarazo, parto y posparto."
+    },
+    {
+      "id": "033.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › Fracción III",
+      "texto": "III. A que disponga de tiempo de lactancia durante la jornada laboral."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "041",
+  "etiqueta": "Artículo 41",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "041.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › párrafo 1",
+      "texto": "En el desarrollo económico concurrirán los sectores público, social y privado;"
+    },
+    {
+      "id": "041.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › párrafo 2",
+      "texto": "corresponde al Estado procurar la armonía entre ellos para cumplir con su responsabilidad social."
+    },
+    {
+      "id": "041.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › párrafo 3",
+      "texto": "El Estado impulsará la generación de un entorno económico, político, social y jurídico favorable para la inversión de capital, la competitividad de las actividades productivas, el establecimiento de alianzas estratégicas para la consolidación de grupos empresariales y sectores productivos, así como la gestión de fondos y su correcta aplicación para fortalecer el desarrollo del Estado."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "124",
+  "etiqueta": "Artículo 124",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPITULO VII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "124.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 124 › párrafo 1",
+      "texto": "El Órgano de Administración del Poder Judicial, contará con independencia técnica y de gestión, y será responsable de la administración y carrera judicial del Poder Judicial."
+    },
+    {
+      "id": "124.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 124 › párrafo 2",
+      "texto": "Tendrá a su cargo la determinación del número, división en distritos judiciales, competencia territorial y especialización por materias de los Juzgados; el ingreso, permanencia y separación del personal de carrera judicial y administrativo, así como su formación, promoción y evaluación de desempeño; la inspección del cumplimiento de las normas de funcionamiento administrativo del Poder Judicial; y las demás que establezcan las leyes."
+    },
+    {
+      "id": "124.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 124 › párrafo 3",
+      "texto": "ARTÍCULO REFORMADO POR DEC. 071, P.O. 93 BIS DE 21 DE NOVIEMBRE DE 2024."
+    }
+  ]
+}

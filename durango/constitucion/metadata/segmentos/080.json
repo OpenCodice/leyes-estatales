@@ -1,0 +1,36 @@
+{
+  "clave": "080",
+  "etiqueta": "Artículo 80",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "080.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 1",
+      "texto": "Se considera aprobado por el Ejecutivo todo proyecto de ley o decreto no devuelto con observaciones al Congreso del Estado, en el término de quince días hábiles, siguientes a su remisión."
+    },
+    {
+      "id": "080.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 2",
+      "texto": "Toda ley devuelta por el Ejecutivo con observaciones, volverá a sujetarse a discusión, y si fuere confirmada por el voto las dos terceras partes de los presentes, se remitirá nuevamente a aquél para que sin más trámite dentro del término de diez días hábiles, la promulgue."
+    },
+    {
+      "id": "080.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 3",
+      "texto": "El Congreso del Estado, puede ordenar la publicación de las leyes o decretos si el Ejecutivo no lo hace dentro de los quince días hábiles siguientes al vencimiento del término fijado para hacer observaciones."
+    }
+  ]
+}

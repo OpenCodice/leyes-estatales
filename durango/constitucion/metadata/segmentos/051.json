@@ -1,0 +1,27 @@
+{
+  "clave": "051",
+  "etiqueta": "Artículo 51",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "051.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › párrafo 1",
+      "texto": "El Estado de Durango está integrado por los siguientes municipios: Canatlán, Canelas, Coneto de Comonfort, Cuencamé, Durango, El Oro, Gómez Palacio, General Simón Bolívar, Guadalupe Victoria, Guanaceví, Hidalgo, Indé, Lerdo, Mapimí, Mezquital, Nazas, Nombre de Dios, Nuevo Ideal, Ocampo, Otáez, Pánuco de Coronado, Peñón Blanco, Poanas, Pueblo Nuevo, Rodeo, San Bernardo, San Dimas, San Juan de Guadalupe, San Juan del Río, San Luis de Cordero, San Pedro del Gallo, Santa Clara, Santiago Papasquiaro, Súchil, Tamazula, Tepehuanes, Tlahualilo, Topia y Vicente Guerrero."
+    },
+    {
+      "id": "051.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › párrafo 2",
+      "texto": "Para la creación de nuevos municipios se estará a lo dispuesto por esta Constitución y la ley."
+    }
+  ]
+}

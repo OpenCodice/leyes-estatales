@@ -1,0 +1,54 @@
+{
+  "clave": "133",
+  "etiqueta": "Artículo 133",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "133.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › párrafo 1",
+      "texto": "La Comisión Estatal de Derechos Humanos conocerá de las quejas que se formulen contra actos u omisiones de naturaleza administrativa provenientes de cualquier autoridad o servidor público del ámbito estatal o municipal, que se presuma violan los derechos humanos, con excepción de los del Poder Judicial del Estado."
+    },
+    {
+      "id": "133.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › párrafo 2",
+      "texto": "Tampoco tendrá competencia tratándose de asuntos electorales y jurisdiccionales."
+    },
+    {
+      "id": "133.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › párrafo 3",
+      "texto": "La Comisión formulará recomendaciones públicas, no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones emitidas por este organismo."
+    },
+    {
+      "id": "133.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › párrafo 4",
+      "texto": "Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa."
+    },
+    {
+      "id": "133.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › párrafo 5",
+      "texto": "La Comisión solicitará al Congreso del Estado, que cite a comparecer a los servidores públicos que hagan caso omiso o rechacen sus recomendaciones, para informar de las razones que motiven su negativa."
+    }
+  ]
+}

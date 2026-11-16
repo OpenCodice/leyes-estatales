@@ -1,0 +1,27 @@
+{
+  "clave": "106",
+  "etiqueta": "Artículo 106",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "106.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 106 › párrafo 1",
+      "texto": "La ley garantizará la independencia judicial, incluida la de las magistradas, los magistrados y jueces en el ejercicio de sus funciones, por lo que en ello no se someterán a mandato alguno de cualquier órgano o ente del Poder Judicial. Igualmente se garantizará la plena ejecución de sus resoluciones."
+    },
+    {
+      "id": "106.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 106 › párrafo 2",
+      "texto": "REFORMADO POR DEC. 585 P.O. 11 EXT. DEL 24 DE MAYO DE 2022."
+    }
+  ]
+}

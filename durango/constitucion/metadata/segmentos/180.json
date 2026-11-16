@@ -1,0 +1,36 @@
+{
+  "clave": "180",
+  "etiqueta": "Artículo 180",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "180.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 180 › párrafo 1",
+      "texto": "La propaganda, bajo cualquier modalidad de comunicación social, que difundan como tales, los poderes públicos, los órganos constitucionales autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de gobierno, deberá tener carácter institucional y fines informativos, educativos o de orientación social."
+    },
+    {
+      "id": "180.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 180 › párrafo 2",
+      "texto": "En ningún caso esta propaganda incluirá nombres, imágenes, voces o símbolos que impliquen promoción personalizada de cualquier servidor público."
+    },
+    {
+      "id": "180.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 180 › párrafo 3",
+      "texto": "La ley garantizará el estricto cumplimiento de lo previsto en el presente artículo, incluyendo el régimen de sanciones a que haya lugar."
+    }
+  ]
+}
