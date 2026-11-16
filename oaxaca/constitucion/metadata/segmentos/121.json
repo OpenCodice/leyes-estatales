@@ -1,0 +1,45 @@
+{
+  "clave": "121",
+  "etiqueta": "Artículo 121",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "121.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 1",
+      "texto": "El procedimiento de juicio político sólo podrá iniciarse durante el periodo en el que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un periodo no mayor de un año a partir de iniciado el procedimiento."
+    },
+    {
+      "id": "121.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 2",
+      "texto": "Se deroga Párrafo derogado mediante decreto Número 2050 aprobado el 15 de septiembre del 2016."
+    },
+    {
+      "id": "121.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 3",
+      "texto": "La Ley señalará los casos de prescripción de la responsabilidad administrativa tomando en cuenta a la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del Artículo 116 de esta Constitución.."
+    },
+    {
+      "id": "121.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 4",
+      "texto": "(Párrafo reformado mediante decreto número 673, aprobado por la LXIV Legislatura el 19 de junio del 2019 y publicado en el Periódico Oficial número 31 Tercera Sección de fecha 3 de agosto del 2019)"
+    }
+  ]
+}

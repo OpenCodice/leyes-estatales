@@ -1,0 +1,36 @@
+{
+  "clave": "098-bis",
+  "etiqueta": "Artículo 98 Bis",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "098-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 Bis › párrafo 1",
+      "texto": "La Consejería Jurídica y Asistencia Legal del Gobierno del Estado, ejercerá la representación jurídica del Estado, del Titular del Poder Ejecutivo y de la Gubernatura; brindará el apoyo técnico jurídico en forma permanente y directa al Gobernador del Estado y desarrollará las funciones administrativas necesarias en el ejercicio de su cargo, en los términos que señale la Ley Orgánica del Poder Ejecutivo del Estado."
+    },
+    {
+      "id": "098-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 Bis › párrafo 2",
+      "texto": "Como titular de la dependencia, estará una persona que se denominará Consejero Jurídico del Gobierno del Estado, quien para su nombramiento deberá cumplir con los requisitos establecidos en la Ley."
+    },
+    {
+      "id": "098-bis.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 Bis › párrafo 3",
+      "texto": "(Artículo reformado mediante decreto número 729, aprobado por la LXV Legislatura del Estado el 23 de noviembre del 2022 y publicado en el Periódico Oficial Extra, de fecha 30 de noviembre del 2022)"
+    }
+  ]
+}

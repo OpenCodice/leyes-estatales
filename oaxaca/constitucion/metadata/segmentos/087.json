@@ -1,0 +1,54 @@
+{
+  "clave": "087",
+  "etiqueta": "Artículo 87",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "087.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › párrafo 1",
+      "texto": "Los secretarios así como los titulares de las entidades, órganos desconcentrados y órganos auxiliares, que determine el Gobernador, asistirán ante el Congreso:"
+    },
+    {
+      "id": "087.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › Fracción I",
+      "texto": "I.- Cuando el Gobernador concurra a los actos oficiales que determina esta Constitución."
+    },
+    {
+      "id": "087.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › Fracción II",
+      "texto": "II.- Cuando el Congreso del Estado los convoque a presentar informes y comentarios ante las comisiones correspondientes, en el proceso de discusión de las leyes y decretos;"
+    },
+    {
+      "id": "087.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › Fracción III",
+      "texto": "III.- Cuando a solicitud del Congreso del Estado, los funcionarios del Poder Ejecutivo tengan que informar sobre algún asunto;"
+    },
+    {
+      "id": "087.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › Fracción IV",
+      "texto": "IV.- Cuando sea necesario informar o aclarar asuntos que se consideren relevantes para el gobierno."
+    }
+  ]
+}

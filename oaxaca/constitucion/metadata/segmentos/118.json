@@ -1,0 +1,27 @@
+{
+  "clave": "118",
+  "etiqueta": "Artículo 118",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "118.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › párrafo 1",
+      "texto": "Se deroga."
+    },
+    {
+      "id": "118.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › párrafo 2",
+      "texto": "(Artículo derogado mediante decreto número 671, aprobado por la LXIII Legislatura el 9 de agosto del 2017 y publicado en el Periódico Oficial Extra del 11 de agosto del 2017)"
+    }
+  ]
+}

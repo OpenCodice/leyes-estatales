@@ -1,0 +1,153 @@
+{
+  "clave": "114-bis",
+  "etiqueta": "Artículo 114 Bis",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "114-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 Bis › párrafo 1",
+      "texto": "El Tribunal Electoral del Estado de Oaxaca, es un órgano especializado, autónomo en su funcionamiento e independiente en sus decisiones, es la máxima autoridad jurisdiccional en materia electoral del Estado de Oaxaca y tendrá las siguientes atribuciones:"
+    },
+    {
+      "id": "114-bis.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 Bis › Fracción I",
+      "texto": "I.- Conocer de los recursos y medios de impugnación que se interpongan respecto de las elecciones de Gobernador o Gobernadora del Estado, Diputados o Diputadas, Magistradas o Magistrados, Juezas o Jueces de primera instancia y laborales, y Concejales de los Ayuntamientos por los regímenes de partidos políticos y de sistemas normativos indígenas, de la revocación de mandato del Gobernador del Estado así como de todas las demás controversias que determine la ley respectiva;"
+    },
+    {
+      "id": "114-bis.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 Bis › Fracción II",
+      "texto": "II. Resolver en única instancia las impugnaciones que se presenten en contra de la elección de Gobernador del Estado;"
+    },
+    {
+      "id": "114-bis.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 Bis › Fracción III",
+      "texto": "III. Realizar el cómputo final y la calificación de la elección de Gobernador del Estado, una vez resueltas las impugnaciones que se hubieren interpuesto sobre la misma, o cuando se tenga constancia de que no se presentó ningún recurso, procediendo a formular la declaratoria de Gobernador electo, respecto del candidato que hubiese obtenido el mayor número de votos, comunicándolo a la Legislatura para difundirlo mediante Bando Solemne y por otros medios idóneos;"
+    },
+    {
+      "id": "114-bis.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 Bis › Fracción IV",
+      "texto": "IV. Resolver los procedimientos especiales sancionadores instruidos por el Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, en los términos previstos en la Ley General de Instituciones y Procedimientos Electorales y la ley;"
+    },
+    {
+      "id": "114-bis.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 Bis › Fracción V",
+      "texto": "V. Se preverán los plazos convenientes para el desahogo de todas las instancias de impugnación, tomando en cuenta el principio de definitividad de los procesos electorales."
+    },
+    {
+      "id": "114-bis.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 Bis › Fracción VI",
+      "texto": "VI. Podrá decretar la nulidad de una elección de conformidad con el sistema de nulidades de las elecciones locales por violaciones graves, dolosas y determinantes en los siguientes casos:"
+    },
+    {
+      "id": "114-bis.VI.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "VI",
+      "ruta": "Artículo 114 Bis › Fracción VI › inciso a)",
+      "texto": "a) Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;"
+    },
+    {
+      "id": "114-bis.VI.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "VI",
+      "ruta": "Artículo 114 Bis › Fracción VI › inciso b)",
+      "texto": "b) Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la Ley."
+    },
+    {
+      "id": "114-bis.VI.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "VI",
+      "ruta": "Artículo 114 Bis › Fracción VI › inciso c)",
+      "texto": "c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas;"
+    },
+    {
+      "id": "114-bis.VI.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "VI",
+      "ruta": "Artículo 114 Bis › Fracción VI › inciso d)",
+      "texto": "d) Se acredite violencia política contra las mujeres en razón de género;"
+    },
+    {
+      "id": "114-bis.VI.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "VI",
+      "ruta": "Artículo 114 Bis › Fracción VI › inciso e)",
+      "texto": "e) Se acrediten actos de intervención e injerencia extranjera que influyan en los resultados electorales; y"
+    },
+    {
+      "id": "114-bis.VI.e~2",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "VI",
+      "ruta": "Artículo 114 Bis › Fracción VI › inciso e)",
+      "texto": "e) Las demás causas previstas en esta Constitución y por las causas expresamente establecidas en la Ley."
+    },
+    {
+      "id": "114-bis.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 Bis › Fracción VII",
+      "texto": "VII. Dichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento. En caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada."
+    },
+    {
+      "id": "114-bis.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 Bis › Fracción VIII",
+      "texto": "VIII. Resolver los medios de impugnación que se presenten para controvertir los resultados de los procesos de revocación de mandato, así como las determinaciones del Instituto Estatal Electoral y de Participación Ciudadana de Oaxaca, sobre la misma materia, de acuerdo con lo previsto en los artículos 25 apartado D, y 114 BIS fracción I, de esta Constitución, realizar el cómputo final de la votación del proceso de revocación de mandato, una vez resueltas todas las impugnaciones que se hubieren interpuesto; emitir la declaratoria de validez de la revocación de mandato, y las demás que disponga la ley de la materia; y"
+    },
+    {
+      "id": "114-bis.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 Bis › Fracción IX",
+      "texto": "IX. Las demás atribuciones que le confieran esta Constitución, y las leyes.\n\nEl Tribunal funcionará en pleno, sus resoluciones se tomarán por mayoría de votos y sus sesiones serán públicas. El pleno del tribunal estará integrado por tres magistrados quienes elegirán dentro de sus integrantes al presidente del Tribunal conforme a su Ley Orgánica, durarán en su cargo siete años y serán designados conforme a la Ley General de Instituciones y Procedimientos Electorales; percibirán una remuneración conforme a la legislación que establezca el Estado. No podrán ser designadas magistrados o magistradas las personas que hayan sido condenadas o condenados mediante resolución firme por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento correspondiente ante las instancias que así correspondan, en términos de lo dispuesto en la ley de la materia.\n\nEl Tribunal respetará los sistemas normativos indígenas en el marco del pluralismo jurídico.\n\nArtículo 114 bis adicionado mediante decreto Número 1263 aprobado el 30 de junio del 2015 y publicado en el Periódico Oficial Extra del 30 de junio del 2015.\n\nArtículo 114 bis reformado mediante decreto Número 1508 aprobado el 28 de mayo del 2020 y publicado en el Periódico Oficial número 22 Cuarta Sección del 30 de mayo del 2020.\n\n(Artículo reformado mediante decreto número 761, aprobado por la LXV Legislatura del Estado el 21 de diciembre del 2022 y publicado en el Periódico Oficial Extra de fecha 27 de diciembre del 2022) (Artículo reformado mediante decreto número 875, aprobado por la LXV Legislatura del Estado el 15 de febrero del 2023 y publicado en el Periódico Oficial Extra de fecha 20 de febrero del 2023) (Artículo reformado mediante decreto número 613, aprobado por la LXVI Legislatura del Estado el 12 de marzo del 2025 y publicado en el Periódico Oficial Extra, de fecha 14 de marzo del 2025) (Artículo reformado mediante decreto número 1564, aprobado por la LXVI Legislatura del Estado el 3 de junio del 2026 y publicado en el Periódico Oficial número 26 Décimo cuarta sección, de fecha 27 de junio del 2026)"
+    }
+  ]
+}

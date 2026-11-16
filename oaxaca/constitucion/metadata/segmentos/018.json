@@ -1,0 +1,27 @@
+{
+  "clave": "018",
+  "etiqueta": "Artículo 18",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "018.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › párrafo 1",
+      "texto": "Los habitantes del Estado tienen derecho a poseer armas en su domicilio para su seguridad y legítima defensa, con excepción de las prohibidas por la Ley y de las reservadas para uso exclusivo del ejército, armada, fuerza aérea y guardia nacional."
+    },
+    {
+      "id": "018.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › párrafo 2",
+      "texto": "Los reglamentos para la portación de armas se sujetarán a la Ley Federal."
+    }
+  ]
+}
