@@ -1,0 +1,27 @@
+{
+  "clave": "043",
+  "etiqueta": "Artículo 43",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "043.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 1",
+      "texto": "Las iniciativas presentadas por el Ejecutivo del Estado, por el Tribunal Superior de Justicia, por los Ayuntamientos o las signadas por uno o más Diputados, por los ciudadanos y la Comisión de Derechos Humanos del Estado de Morelos, pasarán desde luego a la Comisión respectiva del Congreso."
+    },
+    {
+      "id": "043.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 2",
+      "texto": "Las Comisiones encargadas del estudio de las iniciativas, en la elaboración de los dictámenes con proyecto de ley o decreto, incluirán la estimación sobre el impacto presupuestario del mismo."
+    }
+  ]
+}

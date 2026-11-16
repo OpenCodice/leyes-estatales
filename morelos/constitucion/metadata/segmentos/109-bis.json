@@ -1,0 +1,135 @@
+{
+  "clave": "109-bis",
+  "etiqueta": "Artículo 109 Bis",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "109-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 Bis › párrafo 1",
+      "texto": "La justicia administrativa estatal se deposita en un Tribunal de Justicia Administrativa del Estado de Morelos; será la máxima autoridad en la materia, dotado de plena jurisdicción y autonomía para dictar sus fallos, y no estará adscrito al Poder Judicial."
+    },
+    {
+      "id": "109-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 Bis › párrafo 2",
+      "texto": "Dicho Tribunal de Justicia Administrativa tendrá a su cargo el conocimiento y resolución de las controversias de carácter administrativo y fiscal, que se susciten entre la Administración Pública Estatal o Municipal, sus organismos auxiliares estatales o municipales y los particulares; la determinación de existencia de conflicto de intereses; la emisión de resoluciones sobre la compatibilidad para el desempeño de dos o más empleos o comisiones con cargo a los presupuestos de los Poderes Públicos, los organismos públicos autónomos, los municipios y los organismos auxiliares de la Administración Pública, Estatal o Municipal; la imposición en los términos que disponga la Ley, de las sanciones a los servidores públicos, con excepción de las personas servidoras públicas que integren el Poder Judicial del Estado de Morelos, por las responsabilidades administrativas que la ley determine como graves, y a los particulares que participen en actos vinculados con dichas responsabilidades, así como fincar a los responsables el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales, la Universidad Autónoma del Estado de Morelos y los Organismos Públicos Autónomos creados por esta Constitución."
+    },
+    {
+      "id": "109-bis.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 Bis › párrafo 3",
+      "texto": "Para la investigación, substanciación y sanción de las responsabilidades administrativas de los miembros del Poder Judicial del Estado de Morelos, se observará lo previsto en esta Constitución, sin perjuicio de las atribuciones de las entidades de fiscalización sobre el manejo, la custodia y aplicación de recursos públicos."
+    },
+    {
+      "id": "109-bis.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 Bis › párrafo 4",
+      "texto": "El Tribunal de Justicia Administrativa estará integrado por siete Magistraturas;"
+    },
+    {
+      "id": "109-bis.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 Bis › párrafo 5",
+      "texto": "funcionará en términos de lo dispuesto en las normas aplicables."
+    },
+    {
+      "id": "109-bis.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 Bis › párrafo 6",
+      "texto": "Las personas Titulares de las Magistraturas del Tribunal de Justicia Administrativa deberán reunir los siguientes requisitos:"
+    },
+    {
+      "id": "109-bis.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 Bis › Fracción I",
+      "texto": "I.- Contar con ciudadanía mexicana por nacimiento, de preferencia morelense, y estar en pleno ejercicio de sus derechos políticos y civiles;"
+    },
+    {
+      "id": "109-bis.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 Bis › Fracción II",
+      "texto": "II.- Haber residido en el Estado durante los últimos 10 años, salvo el caso de ausencia por un tiempo máximo de seis meses, motivado por el desempeño del servicio público;"
+    },
+    {
+      "id": "109-bis.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 Bis › Fracción III",
+      "texto": "III.- Poseer al momento de su designación, con antigüedad mínima de diez años el título y la cédula profesional de licenciado en derecho, expedido por la autoridad o institución legalmente facultada para ello:"
+    },
+    {
+      "id": "109-bis.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 Bis › Fracción IV",
+      "texto": "IV.- No tener más de sesenta y cinco años de edad, ni menos de treinta y cinco, el día de la designación;"
+    },
+    {
+      "id": "109-bis.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 Bis › Fracción V",
+      "texto": "V.- Tener cinco años de ejercicio profesional por lo menos, o tres si se ha dedicado a la judicatura;"
+    },
+    {
+      "id": "109-bis.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 Bis › Fracción VI",
+      "texto": "VI.- Ser de reconocida honorabilidad y no haber sido condenado por delito intencional que merezca pena corporal de más de un año de prisión, o destituido o suspendido de empleo, si se trata de juicio de responsabilidad; pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que afecte seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena;"
+    },
+    {
+      "id": "109-bis.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 Bis › Fracción VII",
+      "texto": "VII.- Cumplir con los requisitos, criterios, procedimientos, e indicadores de gestión y aprobar la evaluación que en su caso se realice.\n\nLos nombramientos de los Magistrados del Tribunal de Justicia Administrativa deberán recaer preferentemente entre aquellas personas que hayan servido con eficiencia, capacidad y probidad en la impartición de justicia o que se hayan distinguido por su honorabilidad, competencia y antecedentes profesionales en el ejercicio de la actividad jurídica, plenamente acreditados, observando el principio de paridad de género en las designaciones, y"
+    },
+    {
+      "id": "109-bis.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 Bis › Fracción VIII",
+      "texto": "VIII.- No podrán ser Magistrados las personas que hayan ocupado el cargo de Titular de las dependencias y Secretarías de Despacho del Poder Ejecutivo, de la Fiscalía General del Estado, las personas Titulares de las Fiscalías y Fiscalías Especializadas o integrante del Poder Legislativo del Estado o de cualquier Ayuntamiento, durante el año previo al día de su designación.\n\nDebiendo, además, contar con experiencia en materia administrativa, fiscal o de responsabilidades plenamente acreditada. Serán designados por el Pleno del Poder Legislativo a propuesta del Órgano político del Congreso, el cual emitirá la Convocatoria pública conforme a lo establecido en esta Constitución y la Ley Orgánica para el Congreso del Estado.\n\nDurarán en su encargo nueve años, contados a partir de la fecha en que rindan la protesta constitucional y sólo podrán ser removidos de sus cargos en los términos que establece esta Constitución y las leyes en materia de responsabilidad de los servidores públicos.\n\nNinguna persona que haya sido nombrada persona Titular de la Magistratura podrá volver a ocupar el cargo o ser nombrada para un nuevo periodo. En ningún caso y por ningún motivo, las personas Titulares de las Magistraturas que hubieran ejercido el cargo, podrán rebasar nueve años en ejercicio de este.\n\nEl retiro forzoso de los Magistrados se producirá en los mismos términos que para los magistrados del Tribunal Superior de Justicia.\n\nLa Ley establecerá su organización, su funcionamiento, el procedimiento y los recursos contra sus resoluciones. El Tribunal podrá establecer unidades de apoyo técnico especializado, atendiendo a su disponibilidad presupuestal.\n\nLas personas Titulares de las Magistraturas deberán cumplir con la presentación oportuna de su declaración de intereses y situación patrimonial en los términos de lo dispuesto por el artículo 133-bis de esta Constitución."
+    }
+  ]
+}

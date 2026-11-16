@@ -1,0 +1,45 @@
+{
+  "clave": "127",
+  "etiqueta": "Artículo 127",
+  "titulo": "TÍTULO SEXTO BIS",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "127.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 1",
+      "texto": "Toda riqueza poseída por una o varias personas, está obligada a contribuir a los gastos públicos del Estado, con la parte proporcional que determinen las Leyes, pero al mismo tiempo el Estado prestará garantías y dará facilidades a todos los que ejerciten sus actividades y hagan inversiones dentro de su territorio."
+    },
+    {
+      "id": "127.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 2",
+      "texto": "Se declaran revisables todos los contratos y concesiones hechos por los Gobiernos anteriores desde el año de 1872, para ajustarlos al precepto del artículo 28 de la Constitución Federal y para la reglamentación de los servicios públicos en su caso."
+    },
+    {
+      "id": "127.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 3",
+      "texto": "El Ejecutivo declarará la nulidad de los que impliquen grave perjuicio de interés general."
+    },
+    {
+      "id": "127.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 4",
+      "texto": "Las autoridades estatales y municipales, en el ámbito de su competencia, deberán implementar de manera permanente políticas públicas de mejora regulatoria, para la simplificación de regulaciones, trámites, servicios y procedimientos. La ley de la materia que expida el Congreso del Estado dispondrá lo necesario para que las Leyes emitidas por dicho Congreso y las normas de carácter general que emita cualquier autoridad, entidad, órgano u organismo gubernamental, garanticen beneficios superiores a sus costos, fortalezcan la competitividad económica, la creación de empleos en la entidad y, en consecuencia, el desarrollo económico del Estado. Asimismo, deberá sujetar sus disposiciones a lo dispuesto por la Ley que expida al efecto el Congreso de la Unión, en términos de lo establecido por la Constitución Política de los Estados Unidos Mexicanos."
+    }
+  ]
+}

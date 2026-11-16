@@ -1,0 +1,45 @@
+{
+  "clave": "147",
+  "etiqueta": "Artículo 147",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "147.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 147 › párrafo 1",
+      "texto": "Esta Constitución puede ser adicionada o reformada con los requisitos siguientes:"
+    },
+    {
+      "id": "147.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 147 › Fracción I",
+      "texto": "I.- Iniciada la reforma y aprobada por los votos de las dos terceras partes del número total de Diputados, se pasará a los Ayuntamientos con los debates que hubiere provocado para su discusión; si las dos terceras partes de los Ayuntamientos aprobaran la reforma o adición, una vez hecho el cómputo por el Congreso del Estado o Diputación Permanente en su caso, se hará la declaratoria correspondiente y al día siguiente de su publicación, las reformas y adiciones se tendrán como parte de esta Constitución;"
+    },
+    {
+      "id": "147.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 147 › Fracción II",
+      "texto": "II.- Derogada;"
+    },
+    {
+      "id": "147.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 147 › Fracción III",
+      "texto": "III.- Las adiciones y reformas hechas a la Constitución Política de los Estados Unidos Mexicanos que afecten a esta Constitución, serán inmediatamente adoptadas por el Congreso y programadas sin necesidad de algún otro trámite."
+    }
+  ]
+}

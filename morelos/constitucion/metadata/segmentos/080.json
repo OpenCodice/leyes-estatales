@@ -1,0 +1,99 @@
+{
+  "clave": "080",
+  "etiqueta": "Artículo 80",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "080.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 1",
+      "texto": "La Hacienda Pública se integra:"
+    },
+    {
+      "id": "080.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción I",
+      "texto": "I.- Por los bienes públicos y privados propiedad del Estado;"
+    },
+    {
+      "id": "080.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción II",
+      "texto": "II.- Por los ingresos previstos anualmente en la Ley correspondiente;"
+    },
+    {
+      "id": "080.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción III",
+      "texto": "III.- Por el gasto público, que estará contenido en el presupuesto de egresos que en Ley se expida anualmente;"
+    },
+    {
+      "id": "080.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción IV",
+      "texto": "IV.- Derogada;"
+    },
+    {
+      "id": "080.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción V",
+      "texto": "V.- Derogada;"
+    },
+    {
+      "id": "080.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción VI",
+      "texto": "VI.- Derogada;"
+    },
+    {
+      "id": "080.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción VII",
+      "texto": "VII.- Derogada;"
+    },
+    {
+      "id": "080.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción VIII",
+      "texto": "VIII.- Derogada."
+    },
+    {
+      "id": "080.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción IX",
+      "texto": "IX.- Por las obligaciones a cargo del Estado, derivadas de empréstitos, garantías, avales, contratos de colaboración público privada y demás actos jurídicos cuya vigencia abarque más de un ejercicio fiscal."
+    }
+  ]
+}

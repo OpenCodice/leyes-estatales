@@ -1,0 +1,27 @@
+{
+  "clave": "076",
+  "etiqueta": "Artículo 76",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "076.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76 › párrafo 1",
+      "texto": "Todos los decretos, reglamentos y acuerdos administrativos del Gobernador del Estado, deberán ser suscritos por el Secretario de Despacho encargado del ramo a que el asunto corresponda."
+    },
+    {
+      "id": "076.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76 › párrafo 2",
+      "texto": "El decreto promulgatorio que realice el titular del Ejecutivo del Estado respecto de las leyes y decretos legislativos, deberá ser refrendado únicamente por el Secretario de Gobierno."
+    }
+  ]
+}
