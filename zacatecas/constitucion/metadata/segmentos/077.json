@@ -1,0 +1,36 @@
+{
+  "clave": "077",
+  "etiqueta": "Artículo 77",
+  "titulo": "TÍTULO IV",
+  "capitulo": "CAPÍTULO SEGUNDO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "077.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 1",
+      "texto": "Al término del periodo constitucional cesará la persona que estuviere encargada del Gobierno, cualquiera que sea el carácter con el que lo desempeñe, independientemente de que la elección no se hubiese verificado o sus resultados fueran anulados por el órgano competente, no se hubiese hecho la declaratoria formal respectiva o el electo no se presentase a tomar posesión del cargo."
+    },
+    {
+      "id": "077.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 2",
+      "texto": "En el último de los casos previstos por el párrafo anterior, la Legislatura conminará a la persona electa para que comparezca en un plazo máximo de treinta días para asumir la gubernatura y le apercibirá de que, si no lo hace sin mediar causa justificada, se le tendrá por renunciado el cargo."
+    },
+    {
+      "id": "077.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 3",
+      "texto": "Párrafo reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    }
+  ]
+}

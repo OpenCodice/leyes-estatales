@@ -1,0 +1,27 @@
+{
+  "clave": "081",
+  "etiqueta": "Artículo 81",
+  "titulo": "TÍTULO IV",
+  "capitulo": "CAPÍTULO SEGUNDO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "081.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 1",
+      "texto": "El cargo de Gobernadora o Gobernador debe preferirse a cualquier otro de elección popular o de la Administración Pública, y sólo es renunciable por causa grave, calificada por la Legislatura."
+    },
+    {
+      "id": "081.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 2",
+      "texto": "Artículo reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    }
+  ]
+}

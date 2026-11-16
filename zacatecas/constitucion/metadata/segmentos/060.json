@@ -1,0 +1,90 @@
+{
+  "clave": "060",
+  "etiqueta": "Artículo 60",
+  "titulo": "TÍTULO IV",
+  "capitulo": "CAPÍTULO PRIMERO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "060.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › párrafo 1",
+      "texto": "Compete el derecho de iniciar leyes y decretos:"
+    },
+    {
+      "id": "060.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción I",
+      "texto": "I. A las Diputadas y Diputados a la Legislatura del Estado;\n\nFracción reformada POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "060.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción II",
+      "texto": "II. A la Gobernadora o Gobernador del Estado;\n\nFracción reformada POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "060.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción III",
+      "texto": "III. Al Tribunal Superior de Justicia del Estado;"
+    },
+    {
+      "id": "060.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción IV",
+      "texto": "IV. A los Ayuntamientos Municipales;"
+    },
+    {
+      "id": "060.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción V",
+      "texto": "V. A las personas representantes del Estado ante el Congreso de la Unión;\n\nFracción reformada POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "060.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción VI",
+      "texto": "VI. A las ciudadanas zacatecanas y los ciudadanos zacatecanos radicados en el Estado, en un número equivalente, por lo menos, al cero punto trece por ciento de la lista nominal de electores, en los términos que establezca la ley; y\n\nFracción reformada POG 3 de octubre de 2012 (Decreto 422) Fracción reformada POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "060.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción VII",
+      "texto": "VII. …\n\nFracción adicionada POG 10 de julio de 2002 (Decreto 94) y derogada 29 de febrero de 2020 (Decreto 375)"
+    },
+    {
+      "id": "060.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción VIII",
+      "texto": "VIII. A los Organismos Constitucionalmente Autónomos en su respectiva materia y competencia.\n\nFracción adicionada POG 29 de febrero de 2020 (Decreto 375)"
+    }
+  ]
+}

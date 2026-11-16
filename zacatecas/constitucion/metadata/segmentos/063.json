@@ -1,0 +1,27 @@
+{
+  "clave": "063",
+  "etiqueta": "Artículo 63",
+  "titulo": "TÍTULO IV",
+  "capitulo": "CAPÍTULO PRIMERO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "063.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63 › párrafo 1",
+      "texto": "Las leyes y decretos serán promulgados por la Gobernadora o el Gobernador del Estado. Sus disposiciones serán obligatorias y surtirán efectos a partir de su publicación en el Periódico Oficial, órgano del Gobierno del Estado, salvo que en los propios ordenamientos se establezcan expresamente otros plazos para su aplicación."
+    },
+    {
+      "id": "063.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63 › párrafo 2",
+      "texto": "Artículo reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    }
+  ]
+}

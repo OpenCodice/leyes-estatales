@@ -1,0 +1,36 @@
+{
+  "clave": "049",
+  "etiqueta": "Artículo 49",
+  "titulo": "TÍTULO IV",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "049.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 1",
+      "texto": "El Poder Público del Estado se divide, para su ejercicio, en Legislativo, Ejecutivo y Judicial."
+    },
+    {
+      "id": "049.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 2",
+      "texto": "No podrán reunirse dos o más poderes en una sola persona o corporación, salvo el caso de facultades extraordinarias concedidas al Ejecutivo en los términos que establece esta Constitución."
+    },
+    {
+      "id": "049.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 3",
+      "texto": "Es obligación de los distintos órganos del poder público instituir relaciones de colaboración y coordinación para el cumplimiento eficaz de sus respectivas funciones."
+    }
+  ]
+}
