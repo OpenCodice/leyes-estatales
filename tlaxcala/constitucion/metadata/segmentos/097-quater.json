@@ -1,0 +1,36 @@
+{
+  "clave": "097-quater",
+  "etiqueta": "Artículo 97 Quáter",
+  "titulo": "",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "097-quater.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 97 Quáter › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 21 DE MAYO DE 2024)"
+    },
+    {
+      "id": "097-quater.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 97 Quáter › párrafo 2",
+      "texto": "La persona titular de la Fiscalía General de Justicia del Estado deberá presentar, ante el Congreso, un plan de política criminal cada año, el primer día del segundo periodo de sesiones."
+    },
+    {
+      "id": "097-quater.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 97 Quáter › párrafo 3",
+      "texto": "Dicho plan contendrá en un diagnóstico de la criminalidad y la proyección de las acciones que emprenderá el Ministerio Público al respecto, criterios sobre los delitos que se atenderán de manera prioritaria y metas de desempeño para el siguiente año."
+    }
+  ]
+}

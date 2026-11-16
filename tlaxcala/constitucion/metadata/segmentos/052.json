@@ -1,0 +1,27 @@
+{
+  "clave": "052",
+  "etiqueta": "Artículo 52",
+  "titulo": "",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "052.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "052.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › párrafo 2",
+      "texto": "El Ejecutivo no podrá hacer observaciones al decreto de convocatoria que expida la Comisión Permanente para sesiones extraordinarias, a los acuerdos del Congreso y resoluciones que dictare para abrir o cerrar sus sesiones, a los que diere en funciones de Colegio Electoral o de Jurado ni a la Ley que regule la estructura y funcionamiento interno del Congreso, en los casos que determina esta Constitución."
+    }
+  ]
+}

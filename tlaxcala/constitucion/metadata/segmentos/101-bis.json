@@ -1,0 +1,36 @@
+{
+  "clave": "101-bis",
+  "etiqueta": "Artículo 101 Bis",
+  "titulo": "",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "101-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 Bis › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 31 DE OCTUBRE DE 2023)"
+    },
+    {
+      "id": "101-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 Bis › párrafo 2",
+      "texto": "Los haberes de retiro que se otorguen a las personas que hayan ocupado la titularidad de alguna Magistratura, en los supuestos en que se amerite el otorgamiento de esa prestación, se pagarán con cargo al presupuesto del poder público o ente al que estuvieran adscritas al concluir su encargo."
+    },
+    {
+      "id": "101-bis.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 Bis › párrafo 3",
+      "texto": "En el procedimiento para determinar el haber de retiro a otorgar, se tomará en consideración la disponibilidad presupuestaria del poder público o ente de que se trate."
+    }
+  ]
+}

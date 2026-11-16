@@ -1,0 +1,27 @@
+{
+  "clave": "049",
+  "etiqueta": "Artículo 49",
+  "titulo": "",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "049.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 4 DE FEBRERO DE 1982)"
+    },
+    {
+      "id": "049.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 2",
+      "texto": "El Gobernador deberá sancionar los proyectos de Ley o Decreto que le envíe el Congreso y mandar publicarlos, salvo cuando tenga alguna objeción, en cuyo caso los devolverá al Congreso con las correspondientes observaciones, dentro de ocho días contados desde su recibo; de no hacerlo así, se reputarán aprobados. Si corriendo este término el Congreso hubiere clausurado sus sesiones, la devolución deberá hacerse el primer día hábil en que se reúna."
+    }
+  ]
+}

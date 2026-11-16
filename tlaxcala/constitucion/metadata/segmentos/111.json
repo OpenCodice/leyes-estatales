@@ -1,0 +1,81 @@
+{
+  "clave": "111",
+  "etiqueta": "Artículo 111",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "111.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 1",
+      "texto": "(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)"
+    },
+    {
+      "id": "111.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 2",
+      "texto": "(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)"
+    },
+    {
+      "id": "111.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 3",
+      "texto": "(DEROGADO, P.O. 30 DE SEPTIEMBRE DE 2021)"
+    },
+    {
+      "id": "111.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 4",
+      "texto": "(REFORMADO, P.O. 18 DE MAYO DE 2001)"
+    },
+    {
+      "id": "111.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 5",
+      "texto": "La responsabilidad administrativa de los servidores públicos se hará exigible por los actos u omisiones que afecten la legalidad, honradez, lealtad, imparcialidad y eficiencia que deban observar en el desempeño de sus funciones, empleos, cargos o comisiones. El procedimiento para la aplicación de las sanciones administrativas se desarrollará autónomamente."
+    },
+    {
+      "id": "111.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 6",
+      "texto": "La responsabilidad administrativa se sancionará según su gravedad con amonestación, multa, suspensión, destitución, o inhabilitación del empleo, cargo o comisión. La sanción económica deberá establecerse de acuerdo a los beneficios obtenidos por el responsable o de los daños o perjuicios causados, pero no podrá exceder de tres tantos del monto de los beneficios obtenidos o de los daños o perjuicios causados."
+    },
+    {
+      "id": "111.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 7",
+      "texto": "La Ley establecerá las obligaciones y prohibiciones de los servidores públicos, así como el procedimiento y las autoridades competentes para aplicar las sanciones correspondientes."
+    },
+    {
+      "id": "111.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 8",
+      "texto": "La prescripción para exigir la responsabilidad administrativa, no será inferior a tres años."
+    }
+  ]
+}

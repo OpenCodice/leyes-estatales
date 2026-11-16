@@ -1,0 +1,27 @@
+{
+  "clave": "036",
+  "etiqueta": "Artículo 36",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "036.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 30 DE SEPTIEMBRE DE 2021)"
+    },
+    {
+      "id": "036.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › párrafo 2",
+      "texto": "Los diputados no podrán ser reconvenidos por lo que expresen. La Junta de Coordinación y Concertación Política del Congreso velará por el respeto a la inviolabilidad del recinto parlamentario."
+    }
+  ]
+}

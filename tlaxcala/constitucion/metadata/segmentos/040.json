@@ -1,0 +1,27 @@
+{
+  "clave": "040",
+  "etiqueta": "Artículo 40",
+  "titulo": "",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "040.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 25 DE JUNIO DE 1997)"
+    },
+    {
+      "id": "040.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 2",
+      "texto": "La nueva Legislatura será instalada por la Legislatura saliente, si por cualquier circunstancia no la instalare, la nueva procederá a su propia instalación, conforme a lo dispuesto por la Ley Orgánica del Poder Legislativo."
+    }
+  ]
+}

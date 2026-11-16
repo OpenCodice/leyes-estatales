@@ -1,0 +1,27 @@
+{
+  "clave": "068",
+  "etiqueta": "Artículo 68",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "068.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "068.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 2",
+      "texto": "El Secretario de Gobierno quedará encargado del despacho durante las ausencias del Gobernador conforme a lo previsto por el artículo 62; cuando se dé la hipótesis prevista en los artículos 63, 64 y 65 de esta Constitución, lo hará mientras el Congreso nombra al Gobernador provisional o interino."
+    }
+  ]
+}

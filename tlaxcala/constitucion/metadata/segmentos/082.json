@@ -1,0 +1,27 @@
+{
+  "clave": "082",
+  "etiqueta": "Artículo 82",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "082.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "082.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › párrafo 2",
+      "texto": "La organización y funcionamiento de las salas que integran el Tribunal Superior de Justicia se establecerán expresamente en la Ley Orgánica del Poder Judicial."
+    }
+  ]
+}

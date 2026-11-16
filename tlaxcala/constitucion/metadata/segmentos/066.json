@@ -1,0 +1,27 @@
+{
+  "clave": "066",
+  "etiqueta": "Artículo 66",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "066.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 4 DE FEBRERO DE 1982)"
+    },
+    {
+      "id": "066.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › párrafo 2",
+      "texto": "El cargo de Gobernador sólo es renunciable por causa grave calificada por el Congreso."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "clave": "056",
+  "etiqueta": "Artículo 56",
+  "titulo": "",
+  "capitulo": "CAPITULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "056.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 18 DE MAYO DE MAYO DE 2001)"
+    },
+    {
+      "id": "056.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › párrafo 2",
+      "texto": "Son atribuciones de la Comisión Permanente:"
+    },
+    {
+      "id": "056.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción I",
+      "texto": "I.- Recibir los documentos que se dirijan al Congreso y resolver los asuntos que tengan carácter de urgentes y no ameriten la expedición de una Ley o Decreto;"
+    },
+    {
+      "id": "056.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción II",
+      "texto": "II.- Iniciar el dictamen sobre los asuntos que en las últimas sesiones ordinarias hayan quedado pendientes y sobre los que después se presenten, para dar cuenta al Congreso."
+    },
+    {
+      "id": "056.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción III",
+      "texto": "III.- Acordar por sí o a propuesta del Ejecutivo, la convocatoria de la Legislatura a sesiones extraordinarias. La convocatoria señalará el objeto de las sesiones y la fecha en que deban comenzar."
+    },
+    {
+      "id": "056.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción IV",
+      "texto": "IV.- Recibir la protesta de Ley a los servidores públicos que deban prestarla ante el Congreso, cuando éste se encuentre en receso."
+    },
+    {
+      "id": "056.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción V",
+      "texto": "V.- Conceder las licencias a que se refiere la Fracción XXXI del Artículo 54 de esta Constitución;"
+    },
+    {
+      "id": "056.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción VI",
+      "texto": "VI.- Designar Gobernador Provisional en los términos de esta Constitución; y,"
+    },
+    {
+      "id": "056.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción VII",
+      "texto": "VII.- Las demás que le confiere esta Constitución y la Ley."
+    }
+  ]
+}

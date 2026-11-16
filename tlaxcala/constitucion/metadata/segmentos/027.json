@@ -1,0 +1,36 @@
+{
+  "clave": "027",
+  "etiqueta": "Artículo 27",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "027.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "027.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 2",
+      "texto": "La forma de Gobierno del Estado es democrática, republicana, representativa, popular y participativa."
+    },
+    {
+      "id": "027.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 3",
+      "texto": "El Municipio de acuerdo con lo preceptuado en la Constitución Política de los Estados Unidos Mexicanos, es la base de la división territorial, la organización política y administrativa del Estado."
+    }
+  ]
+}

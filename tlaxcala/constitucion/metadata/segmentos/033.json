@@ -1,0 +1,135 @@
+{
+  "clave": "033",
+  "etiqueta": "Artículo 33",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "033.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2015)"
+    },
+    {
+      "id": "033.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › párrafo 2",
+      "texto": "La elección de los diputados según el principio de representación proporcional, por medio de listas de candidatos en la circunscripción plurinominal, así como la asignación de diputaciones, se sujetarán a lo que dispone la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución y las leyes de la materia, de acuerdo con las bases siguientes:"
+    },
+    {
+      "id": "033.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › párrafo 3",
+      "texto": "(REFORMADA, P.O. 21 DE JULIO DE 2015)"
+    },
+    {
+      "id": "033.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › Fracción I",
+      "texto": "I. Para obtener el registro de su lista de candidatos para la circunscripción plurinominal, todo partido político debe acreditar que en el mismo proceso electoral participa con candidatos a diputados locales por mayoría relativa en por lo menos diez distritos electorales uninominales.\n\n(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2003)"
+    },
+    {
+      "id": "033.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › Fracción II",
+      "texto": "II. Todo partido político tendrá derecho a participar en la asignación de diputaciones según el principio de representación proporcional, si obtiene cuando menos tres punto ciento veinticinco por ciento de la votación total válida en la circunscripción plurinominal;\n\n(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2003)"
+    },
+    {
+      "id": "033.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › Fracción III",
+      "texto": "III. Los partidos que cumplan con lo dispuesto por las dos fracciones anteriores, tendrán derecho a que se les asignen diputados conforme al principio de representación proporcional, de acuerdo con la votación total efectiva, siguiendo el orden que tuviesen los candidatos en las listas respectivas y conforme a lo que establecen las tres fracciones siguientes.\n\n(REFORMADA, P.O. 21 DE JULIO DE 2015)"
+    },
+    {
+      "id": "033.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › Fracción IV",
+      "texto": "IV. En ningún caso un partido político podrá contar con más de quince diputados conjuntamente por los principios de mayoría relativa y de representación proporcional. La asignación de diputaciones de representación proporcional cesará para todo partido político que se encuentre en este supuesto.\n\n(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2015)"
+    },
+    {
+      "id": "033.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › Fracción V",
+      "texto": "V. A fin de determinar la votación total emitida en la circunscripción plurinominal, el cómputo final de la elección de diputados por el principio de representación proporcional que realice el Consejo General del organismo público local electoral, se efectuará en modo idéntico a la suma total de los votos anotados en las actas de cómputo distrital uninominal respectivas.\n\n(REFORMADO, P.O. 3 DE NOVIEMBRE DE 2003)\n\nSe determinará el total de la votación válida por la circunscripción plurinominal para realizar la declaratoria de los partidos políticos que no obtuvieron tres punto ciento veinticinco por ciento de dicha votación.\n\n(REFORMADA, P.O. 3 DE NOVIEMBRE DE 2003)"
+    },
+    {
+      "id": "033.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › Fracción VI",
+      "texto": "VI. La fórmula, los métodos, los cálculos y las definiciones aplicables al procedimiento de asignación de diputaciones de representación proporcional se establecerán en la Ley de la materia, aplicando los métodos de cociente electoral y resto mayor, y se procederá de la forma siguiente:"
+    },
+    {
+      "id": "033.VI.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "VI",
+      "ruta": "Artículo 33 › Fracción VI › inciso a)",
+      "texto": "a) En una primera ronda se aplicará el método de cociente electoral y se asignarán diputaciones a cada partido político tantas veces como su votación contenga dicho cociente;"
+    },
+    {
+      "id": "033.VI.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "VI",
+      "ruta": "Artículo 33 › Fracción VI › inciso b)",
+      "texto": "b) Agotada la primera ronda, y si aún quedaren diputaciones por asignar, en una segunda ronda se aplicará el método de resto mayor y se asignará una diputación a cada partido político, hasta donde alcance y no quedare ninguna diputación por asignar.\n\n(REFORMADO, P.O. 21 DE JULIO DE 2015)\n\nEn ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda de ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales."
+    },
+    {
+      "id": "033.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › Fracción VII",
+      "texto": "VII.-\n\n(DEROGADA, P.O. 18 DE MAYO DE 2001)"
+    },
+    {
+      "id": "033.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › Fracción VIII",
+      "texto": "VIII.-\n\n(DEROGADA, P.O. 18 DE MAYO DE 2001)\n\n(ADICIONADA, P.O. 21 DE JULIO DE 2015)"
+    },
+    {
+      "id": "033.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › Fracción IX",
+      "texto": "IX. Los partidos políticos podrán postular simultáneamente a los candidatos a diputados por ambos principios, siempre y cuando el partido político que postule no exceda el límite de veinte por ciento de candidaturas simultáneas, con relación al total de diputados de mayoría que deban integrar el Congreso del Estado."
+    }
+  ]
+}

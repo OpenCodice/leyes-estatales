@@ -1,0 +1,81 @@
+{
+  "clave": "064",
+  "etiqueta": "Artículo 64",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "064.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "064.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › párrafo 2",
+      "texto": "En caso de falta absoluta del Gobernador, el Congreso tomará las siguientes acciones:"
+    },
+    {
+      "id": "064.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › Fracción I",
+      "texto": "I. Cuando la falta absoluta ocurra durante los dos primeros años del período respectivo:"
+    },
+    {
+      "id": "064.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 64 › Fracción I › inciso a)",
+      "texto": "a) Si el Congreso se encontrara en período ordinario de sesiones, dentro de las cuarenta y ocho horas siguientes del conocimiento de ésta, se constituirá en Colegio Electoral y, concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría absoluta de votos un Gobernador Interino. El mismo Congreso expedirá dentro de los diez días siguientes, la convocatoria para la elección extraordinaria de un Gobernador que concluirá el período correspondiente y mediará entre la fecha de esta convocatoria y la que se señale para la celebración de las elecciones, un plazo no menor de treinta ni mayor de noventa días, e instruirá al órgano electoral para que inicie el procedimiento respectivo, e"
+    },
+    {
+      "id": "064.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 64 › Fracción I › inciso b)",
+      "texto": "b) Si el Congreso no estuviere en período ordinario de sesiones, la Comisión Permanente nombrará, dentro de las noventa y seis horas siguientes a las que tenga conocimiento, un Gobernador provisional y convocará a sesiones extraordinarias al Congreso dentro de las cuarenta y ocho horas siguientes, para que éste, a su vez, designe Gobernador Interino y proceda conforme al párrafo anterior, y"
+    },
+    {
+      "id": "064.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › Fracción II",
+      "texto": "II. Cuando la falta de Gobernador ocurra en los cuatro últimos años del período respectivo:"
+    },
+    {
+      "id": "064.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 64 › Fracción II › inciso a)",
+      "texto": "a) Si el Congreso se encontrara en período ordinario de sesiones, dentro de las noventa y seis horas siguientes del conocimiento de ésta designará un Gobernador Provisional por mayoría simple y dentro de las noventa y seis horas siguientes del nombramiento del provisional, se constituirá en Colegio Electoral y, concurriendo cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto un Gobernador Sustituto que deberá concluir el período. En caso de que no concurran las dos terceras partes de los diputados, se volverá a citar a sesión dentro del plazo improrrogable de cuarenta y ocho horas, la que se celebrará con la asistencia cuando menos de las dos terceras partes y si en esa oportunidad tampoco se da ese quórum, se citará a una nueva sesión, la que se celebrará con los que concurran, siempre y cuando se integre el quórum mínimo de la mitad más uno. En los tres casos, la votación deberá ser de por lo menos las dos terceras partes de los asistentes, e"
+    },
+    {
+      "id": "064.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 64 › Fracción II › inciso b)",
+      "texto": "b) Si el Congreso se encontrara en receso, la Comisión Permanente nombrará dentro de las noventa y seis horas siguientes un Gobernador provisional y convocará al pleno a sesiones extraordinarias, para que éste proceda al nombramiento de Gobernador sustituto, en términos del inciso anterior.\n\nPara ser Gobernador sustituto, interino o provisional, son indispensables los mismos requisitos señalados en el artículo 60 de esta Constitución.\n\nEl ciudadano designado para suplir las faltas temporales o absolutas del Gobernador, rendirá la protesta ante el Congreso del Estado, dentro de las veinticuatro horas siguientes a la designación; salvo que el Congreso estuviere en receso, caso en el cual la Comisión Permanente tomará la protesta al Gobernador provisional que ya hubiere designado."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "069",
+  "etiqueta": "Artículo 69",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "069.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 4 DE FEBRERO DE 1982)"
+    },
+    {
+      "id": "069.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 2",
+      "texto": "El Secretario de Gobierno, o a falta de éste el Oficial Mayor y el Secretario del Ejecutivo a cuyo ramo corresponda el asunto, firmarán los Reglamentos, Decretos y Acuerdos que el Gobernador diere en uso de sus facultades y sin este requisito no serán obedecidos."
+    }
+  ]
+}

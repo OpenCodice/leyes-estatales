@@ -1,0 +1,45 @@
+{
+  "clave": "023",
+  "etiqueta": "Artículo 23",
+  "titulo": "",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "023.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "023.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › párrafo 2",
+      "texto": "Son obligaciones político electorales de los ciudadanos:"
+    },
+    {
+      "id": "023.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › Fracción I",
+      "texto": "I. Desempeñar las funciones electorales, para las que fuere designado en los términos y condiciones que fije la ley de la materia, y"
+    },
+    {
+      "id": "023.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › Fracción II",
+      "texto": "II. Votar en las elecciones populares del Estado."
+    }
+  ]
+}
