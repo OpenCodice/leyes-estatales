@@ -1,0 +1,54 @@
+{
+  "clave": "026",
+  "etiqueta": "Artículo 26",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "026.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "026.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › párrafo 2",
+      "texto": "Las prerrogativas del ciudadano guanajuatense se recobran:"
+    },
+    {
+      "id": "026.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › Fracción I",
+      "texto": "I. Por haber cesado la causa que motivó la suspensión;"
+    },
+    {
+      "id": "026.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › Fracción II",
+      "texto": "II. Por rehabilitación; y,"
+    },
+    {
+      "id": "026.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › Fracción III",
+      "texto": "III. Por la extinción de la pena de suspensión."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "103",
+  "etiqueta": "Artículo 103",
+  "titulo": "TITULO SEPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "103.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 103 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 10 DE AGOSTO DE 2023)"
+    },
+    {
+      "id": "103.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 103 › párrafo 2",
+      "texto": "El Estado, en coordinación con la Federación y los Municipios, participará en el establecimiento de un Sistema Nacional de Seguridad Pública en los términos de la Constitución Política de los Estados Unidos Mexicanos."
+    }
+  ]
+}

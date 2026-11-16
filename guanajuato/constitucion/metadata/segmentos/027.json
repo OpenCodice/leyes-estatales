@@ -1,0 +1,36 @@
+{
+  "clave": "027",
+  "etiqueta": "Artículo 27",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "027.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "027.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 2",
+      "texto": "La ciudadanía guanajuatense se pierde al perderse también la nacionalidad mexicana, o por sentencia ejecutoria que imponga esa pena."
+    },
+    {
+      "id": "027.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    }
+  ]
+}

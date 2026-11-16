@@ -1,0 +1,27 @@
+{
+  "clave": "015",
+  "etiqueta": "Artículo 15",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "015.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 11 DE SEPTIEMBRE DE 2019)"
+    },
+    {
+      "id": "015.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › párrafo 2",
+      "texto": "Todo ciudadano guanajuatense tiene derecho a participar en la vida política del Estado, en condiciones de igualdad, libre de todo tipo de violencia y discriminación en la forma y términos que señalen las Leyes."
+    }
+  ]
+}

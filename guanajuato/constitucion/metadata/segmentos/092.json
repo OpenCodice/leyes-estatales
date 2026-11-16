@@ -1,0 +1,162 @@
+{
+  "clave": "092",
+  "etiqueta": "Artículo 92",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "092.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › párrafo 1",
+      "texto": "(SIC) La Ley Orgánica del Poder Judicial del Estado, establecerá:"
+    },
+    {
+      "id": "092.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › párrafo 2",
+      "texto": "(REFORMADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "092.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción I",
+      "texto": "I. La independencia de las personas Magistradas, así como de las personas Juzgadoras en el ejercicio de sus funciones jurisdiccionales;\n\n(REFORMADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "092.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción II",
+      "texto": "II. La estructura, integración, competencia y funcionamiento del Pleno del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial del Estado y del Órgano de Administración Judicial;\n\n(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)"
+    },
+    {
+      "id": "092.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción III",
+      "texto": "III. La organización, competencia y funcionamiento de las Salas;\n\n(REFORMADA, P.O. 26 DE FEBRERO DE 2010)"
+    },
+    {
+      "id": "092.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción IV",
+      "texto": "IV. La organización, competencia y funcionamiento de sus diferentes juzgados y órganos;\n\n(REFORMADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "092.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción V",
+      "texto": "V. Las atribuciones de las personas titulares de las presidencias del Supremo Tribunal de Justicia, del Órgano de Administración Judicial y, del Tribunal de Disciplina Judicial; así como de las personas Magistradas, de las personas Juzgadoras y de las demás servidoras públicas;\n\n(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)"
+    },
+    {
+      "id": "092.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción VI",
+      "texto": "VI. Los términos en que será obligatoria la jurisprudencia que establezca el Pleno del Supremo Tribunal de Justicia sobre interpretación de las Leyes, así como los requisitos para su interrupción o modificación;\n\n(REFORMADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "092.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción VII",
+      "texto": "VII. Las obligaciones que deben cumplir las personas servidoras públicas del Poder Judicial y sus responsabilidades, a fin de salvaguardar la imparcialidad, legalidad, honradez, independencia, veracidad, lealtad, celeridad, eficiencia y eficacia en el desempeño de sus funciones; las sanciones disciplinarias que deban imponerse a quienes incumplan sus obligaciones; el procedimiento y los recursos que procedan contra las resoluciones que se dicten, por el Tribunal de Disciplina Judicial del Estado;\n\n(REFORMADA, P.O. 24 DE AGOSTO DE 2020)"
+    },
+    {
+      "id": "092.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción VIII",
+      "texto": "VIII. La carrera judicial que fijará el catálogo de puestos, las bases para el ingreso, permanencia y ascenso de los servidores públicos del Poder Judicial observando el principio de paridad de género, así como su capacitación, especialización y actualización;\n\n(REFORMADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "092.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción IX",
+      "texto": "IX. La observancia de los principios de excelencia, objetividad, imparcialidad, rectitud, profesionalismo, paridad de género, probidad e independencia que regirán la carrera judicial;\n\n(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)"
+    },
+    {
+      "id": "092.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción X",
+      "texto": "X. La forma de constituir el fondo auxiliar para la impartición de justicia, sus objetivos y la forma en que se manejará; y\n\n(REFORMADA P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "092.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción XI",
+      "texto": "XI. La organización y funcionamiento de la Comisión Sustanciadora que tramite el procedimiento y formule el dictamen a partir del cual el Pleno del Tribunal de Disciplina Judicial del Estado resolverá los conflictos laborales suscitados entre el Poder Judicial y sus personas servidoras públicas;\n\n(REFORMADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "092.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción XII",
+      "texto": "XII. Las normas, métodos, criterios e indicadores para la evaluación de las personas Magistradas, juzgadoras y demás personal judicial;\n\n(REFORMADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "092.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción XIII",
+      "texto": "XIII. Los requisitos que deberán cumplir los aspirantes a personas Magistradas, y personas juzgadoras; el proceso de selección mediante concursos de oposición para la integración de los órganos jurisdiccionales, observando el principio de paridad de género, garantizando que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo.\n\n(ADICIONADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "092.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción XIV",
+      "texto": "XIV. La conformación y atribuciones del Comité de Evaluación del Poder Judicial; y\n\n(ADICIONADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "092.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción XV",
+      "texto": "XV. El tratamiento de las faltas y ausencias de las personas Magistradas, personas juzgadoras, así como integrantes del Órgano de Administración Judicial, además de los mecanismos para la designación de quienes habrán de suplirlos\n\n(REFORMADA SU DENOMINACIÓN, P.O. 26 DE FEBRERO DE 2010)"
+    }
+  ]
+}

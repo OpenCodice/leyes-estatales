@@ -1,0 +1,36 @@
+{
+  "clave": "079",
+  "etiqueta": "Artículo 79",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "079.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE MAYO DE 2013)"
+    },
+    {
+      "id": "079.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › párrafo 2",
+      "texto": "Todas las Leyes, Decretos y Reglamentos, para su cumplimiento, serán promulgados por el Gobernador del Estado y refrendados por el Secretario de Gobierno o por quien haga sus veces, en los términos de la Ley Orgánica del Poder Ejecutivo."
+    },
+    {
+      "id": "079.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › párrafo 3",
+      "texto": "(REFORMADA SU DENOMINACIÓN, P.O. 26 DE ABRIL DE 2018)"
+    }
+  ]
+}

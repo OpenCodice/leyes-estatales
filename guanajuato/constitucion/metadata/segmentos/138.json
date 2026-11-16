@@ -1,0 +1,27 @@
+{
+  "clave": "138",
+  "etiqueta": "Artículo 138",
+  "titulo": "TITULO DECIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "138.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 136], P.O. 6 DE SEPTIEMBRE DE 2016)"
+    },
+    {
+      "id": "138.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138 › párrafo 2",
+      "texto": "La infracción de cualquier precepto constitucional, generará acción popular contra el infractor."
+    }
+  ]
+}

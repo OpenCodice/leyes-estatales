@@ -1,0 +1,27 @@
+{
+  "clave": "067",
+  "etiqueta": "Artículo 67",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "067.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "067.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 › párrafo 2",
+      "texto": "La elección de Gobernador del Estado será por votación directa, secreta, uninominal y por Mayoría Relativa de los ciudadanos guanajuatenses que hayan votado, en los términos de la Ley de la materia, salvo los casos de excepción por falta temporal o definitiva en los que se aplicarán las normas especiales de esta Constitución."
+    }
+  ]
+}

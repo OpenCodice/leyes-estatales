@@ -1,0 +1,27 @@
+{
+  "clave": "129",
+  "etiqueta": "Artículo 129",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "129.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 129 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 3 DE FEBRERO DE 2017)"
+    },
+    {
+      "id": "129.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 129 › párrafo 2",
+      "texto": "Tratándose de delitos que no ameriten prisión preventiva, el proceso penal se seguirá sin que el servidor público sea separado del cargo, sin embargo, si el proceso concluye con sentencia condenatoria firme que amerite pena privativa de la libertad, el servidor público será separado del cargo, mediante la declaratoria que realice el Congreso del Estado, tratándose de delitos dolosos."
+    }
+  ]
+}

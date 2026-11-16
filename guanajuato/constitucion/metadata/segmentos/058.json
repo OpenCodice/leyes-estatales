@@ -1,0 +1,45 @@
+{
+  "clave": "058",
+  "etiqueta": "Artículo 58",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "058.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "058.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 2",
+      "texto": "Todo Proyecto de Ley o Decreto, una vez aprobado, se remitirá al Ejecutivo, quien si no tuviere observaciones que hacer lo publicará inmediatamente."
+    },
+    {
+      "id": "058.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 3",
+      "texto": "Se reputará no vetado por el Poder Ejecutivo, toda Ley o Decreto no devuelto con observaciones al Congreso dentro de diez días hábiles, siguientes al de su recepción."
+    },
+    {
+      "id": "058.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 4",
+      "texto": "El Proyecto de Ley o Decreto vetado en todo o en parte por el Ejecutivo, será devuelto con sus observaciones al Congreso. Deberá ser discutido de nuevo por éste, y si fuese confirmado por las dos terceras partes del número total de votos, será Ley o Decreto y volverá al Ejecutivo para su promulgación."
+    }
+  ]
+}

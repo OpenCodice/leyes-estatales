@@ -1,0 +1,45 @@
+{
+  "clave": "125",
+  "etiqueta": "Artículo 125",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "125.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › párrafo 1",
+      "texto": "(PÁRRAFO REFORMADO, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "125.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › párrafo 2",
+      "texto": "El Gobernador del Estado, los Diputados Locales, las personas Magistradas del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial del Estado, así como los integrantes del Órgano de Administración Judicial, podrán ser sujetos a juicio político en los términos de los artículos 109, 110 y 114 de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "125.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › párrafo 3",
+      "texto": "Si se recibiere resolución de la Cámara de Senadores, el Congreso del Estado, en ejercicio de sus atribuciones, procederá como corresponda."
+    },
+    {
+      "id": "125.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › párrafo 4",
+      "texto": "Las sanciones correspondientes se aplicarán en un período no mayor de un año, a partir de iniciado el procedimiento."
+    }
+  ]
+}

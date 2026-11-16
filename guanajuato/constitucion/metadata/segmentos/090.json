@@ -1,0 +1,27 @@
+{
+  "clave": "090",
+  "etiqueta": "Artículo 90",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "090.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "090.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › párrafo 2",
+      "texto": "El Poder Judicial administrará con autonomía su presupuesto. El Órgano de Administración Judicial elaborará el anteproyecto de presupuesto del Poder Judicial y lo someterá a la aprobación del Pleno. Una vez aprobado, lo remitirá para su inclusión en el proyecto de Presupuesto de Egresos del Estado. El anteproyecto de Presupuesto comprenderá los ingresos propios del Poder Judicial para la constitución del Fondo Auxiliar para la impartición de Justicia."
+    }
+  ]
+}

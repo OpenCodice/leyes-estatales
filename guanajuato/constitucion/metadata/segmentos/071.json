@@ -1,0 +1,27 @@
+{
+  "clave": "071",
+  "etiqueta": "Artículo 71",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "071.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "071.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › párrafo 2",
+      "texto": "El Gobernador del Estado durará en su encargo seis años y comenzará a ejercer sus funciones el 26 de septiembre siguiente a la fecha de su elección."
+    }
+  ]
+}

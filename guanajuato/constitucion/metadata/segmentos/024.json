@@ -1,0 +1,81 @@
+{
+  "clave": "024",
+  "etiqueta": "Artículo 24",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "024.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "024.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › párrafo 2",
+      "texto": "Son obligaciones del ciudadano guanajuatense:"
+    },
+    {
+      "id": "024.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › Fracción I",
+      "texto": "I. Desempeñar los cargos de elección popular para los que fuere electo;\n\n(REFORMADA, P.O. 10 DE AGOSTO DE 2023)"
+    },
+    {
+      "id": "024.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › Fracción II",
+      "texto": "II. Alistarse y servir en los cuerpos de reserva, conforme a la ley, para asegurar y defender la independencia, el territorio, el honor, los derechos e intereses de la Patria;"
+    },
+    {
+      "id": "024.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › Fracción III",
+      "texto": "III. Votar en las elecciones populares;\n\n(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)"
+    },
+    {
+      "id": "024.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › Fracción IV",
+      "texto": "IV. Votar en los procesos de plebiscito, referéndum y de revocación de mandato;\n\n(REFORMADA, P.O. 30 DE SEPTIEMBRE DE 2022)"
+    },
+    {
+      "id": "024.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › Fracción V",
+      "texto": "V. Desempeñar de manera gratuita, los cargos que les señale la autoridad competente en los procesos de plebiscito, referéndum, revocación de mandato, electorales y censales pero serán retribuidos aquellos que se realicen profesionalmente en los términos de esta Constitución y las leyes correspondientes, y\n\n(REFORMADA, P.O. 19 DE ABRIL DE 2002)"
+    },
+    {
+      "id": "024.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › Fracción VI",
+      "texto": "VI. Las demás que dispongan las leyes."
+    }
+  ]
+}

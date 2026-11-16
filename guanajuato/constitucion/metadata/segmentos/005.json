@@ -1,0 +1,63 @@
+{
+  "clave": "005",
+  "etiqueta": "Artículo 5",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "005.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 26 DE FEBRERO DE 2010)"
+    },
+    {
+      "id": "005.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 2",
+      "texto": "El propietario de una cosa puede gozar y disponer de ella con las limitaciones y modalidades que señalen las leyes."
+    },
+    {
+      "id": "005.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 3",
+      "texto": "(ADICIONADO, P.O. 31 DE JULIO DE 2015)"
+    },
+    {
+      "id": "005.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 4",
+      "texto": "No estarán permitidos en el Estado los usos de suelo y edificaciones para casinos, centros de apuestas, salas de sorteos, casas de juego y similares, así como para el establecimiento de centros que presenten espectáculos con personas desnudas o semidesnudas."
+    },
+    {
+      "id": "005.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 5",
+      "texto": "La propiedad particular solamente puede ser objeto de expropiación por causa de utilidad pública y mediante indemnización, en la forma y términos que determinan las leyes."
+    },
+    {
+      "id": "005.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 6",
+      "texto": "El Gobernador del Estado hará la declaratoria correspondiente en cada caso especial."
+    }
+  ]
+}

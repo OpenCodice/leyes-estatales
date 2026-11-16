@@ -1,0 +1,36 @@
+{
+  "clave": "098",
+  "etiqueta": "Artículo 98",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "098.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "098.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 2",
+      "texto": "Son bienes de dominio privado del Estado los que ingresen a su patrimonio, no comprendidos en el artículo anterior."
+    },
+    {
+      "id": "098.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    }
+  ]
+}

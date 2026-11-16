@@ -1,0 +1,54 @@
+{
+  "clave": "076",
+  "etiqueta": "Artículo 76",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "076.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "076.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76 › párrafo 2",
+      "texto": "En las ausencias o faltas temporales del Gobernador del Estado, se observarán las siguientes disposiciones:"
+    },
+    {
+      "id": "076.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76 › párrafo 3",
+      "texto": "(REFORMADA, P.O. 27 DE DICIEMBRE DE 1985)"
+    },
+    {
+      "id": "076.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76 › Fracción I",
+      "texto": "I. Las ausencias hasta por noventa días serán suplidas por el Secretario de Gobierno; y"
+    },
+    {
+      "id": "076.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76 › Fracción II",
+      "texto": "II. Si la falta temporal excede de noventa días, el Congreso designará un Gobernador Interino para que lo supla durante su ausencia.\n\n(REFORMADO, P.O. 27 DE DICIEMBRE DE 1985)\n\nDe no estar reunido el Congreso, la Diputación Permanente lo convocará de inmediato, fungiendo como Gobernador entre tanto, el Secretario de Gobierno, como encargado del Despacho."
+    }
+  ]
+}

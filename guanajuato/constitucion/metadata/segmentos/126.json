@@ -1,0 +1,36 @@
+{
+  "clave": "126",
+  "etiqueta": "Artículo 126",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "126.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126 › párrafo 1",
+      "texto": "(PÁRRAFO REFORMADO, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "126.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126 › párrafo 2",
+      "texto": "Cuando se procediere penalmente contra el Gobernador del Estado, Diputados Locales, personas Magistradas del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial del Estado e integrantes del Órgano de Administración Judicial, por delitos de carácter federal cometidos durante el tiempo de su encargo, en los términos de los artículos 111 y 114 de la Constitución Política de los Estados Unidos Mexicanos, una vez recibida la declaración de procedencia por el Congreso del Estado, éste procederá a declarar la separación del cargo, atendiendo lo establecido en el artículo 127 de esta Constitución, siempre que se trate de delito que amerite prisión preventiva oficiosa en términos del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "126.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126 › párrafo 3",
+      "texto": "Las declaraciones y resoluciones del Congreso del Estado son inatacables."
+    }
+  ]
+}
