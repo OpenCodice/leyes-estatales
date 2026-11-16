@@ -1,0 +1,45 @@
+{
+  "clave": "129",
+  "etiqueta": "Artículo 129",
+  "titulo": "",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "129.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 129 › párrafo 1",
+      "texto": "El ejercicio del Poder Judicial se deposita en un Tribunal Superior de Justicia, en Juzgados de Primera Instancia y en Juzgados Menores, y se expresará a través de funcionarias, funcionarios y auxiliares en los términos que establezcan esta Constitución y las leyes."
+    },
+    {
+      "id": "129.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 129 › párrafo 2",
+      "texto": "En el Poder Judicial habrá un Consejo de la Judicatura del Estado, el cual tendrá las atribuciones que le señalen esta Constitución y las leyes."
+    },
+    {
+      "id": "129.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 129 › párrafo 3",
+      "texto": "La vigilancia y disciplina del Poder Judicial se realizará en los términos que determine la ley."
+    },
+    {
+      "id": "129.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 129 › párrafo 4",
+      "texto": "La administración del Poder Judicial estará a cargo del Pleno del Consejo de la Judicatura."
+    }
+  ]
+}

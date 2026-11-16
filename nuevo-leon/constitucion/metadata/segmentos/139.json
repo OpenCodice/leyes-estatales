@@ -1,0 +1,45 @@
+{
+  "clave": "139",
+  "etiqueta": "Artículo 139",
+  "titulo": "",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "139.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 139 › párrafo 1",
+      "texto": "El Poder Judicial del Estado tendrá jurisdicción para resolver, en los términos que señale la ley reglamentaria, los siguientes medios de control de la constitucionalidad local:"
+    },
+    {
+      "id": "139.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 139 › Fracción I",
+      "texto": "I. Los jueces del Estado, en el ámbito de sus competencias conforme a su régimen interior, de acuerdo a lo previsto en la Constitución y las leyes, están obligados a garantizar la supremacía constitucional y el respeto a los derechos humanos que reconoce esta Constitución. Por lo cual, podrán desaplicar las normas estatales que estén en contra de la Constitución del Estado."
+    },
+    {
+      "id": "139.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 139 › Fracción II",
+      "texto": "II. El Tribunal Superior de Justicia, con plena jurisdicción, resolver las controversias de inconstitucionalidad local, que podrá promover el Estado y los Municipios, así como los poderes u órganos públicos estatales o municipales, para impugnar actos de autoridad o normas generales que invadan su competencia garantizada por esta Constitución, y que provengan de otro diverso poder u órgano estatal o municipal. El Poder Judicial del Estado no podrá ser parte actora ni demandada en estas controversias."
+    },
+    {
+      "id": "139.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 139 › Fracción III",
+      "texto": "III. El Tribunal Superior de Justicia, con plena jurisdicción, resolver las acciones de inconstitucionalidad local para impugnar normas generales expedidas por el Congreso del Estado o por cualquier Ayuntamiento, que en abstracto violen los derechos humanos reconocidos en esta Constitución, o violen la distribución de competencias que en esta Constitución se establecen para el Estado y los municipios, o para cualquiera de los poderes u órganos públicos estatales o municipales. Esta acción de inconstitucionalidad podrá ser promovida por los Diputados, tratándose de normas generales expedidas por el Congreso del Estado, y por los Regidores tratándose de normas generales expedidas por su respectivo Ayuntamiento, en los términos que determine la ley reglamentaria. Esta acción también podrá promoverla el Gobernador o el Fiscal General de Justicia del Estado.\n\nLas sentencias dictadas para resolver una controversia de inconstitucionalidad local o una acción de inconstitucionalidad local, que declaren inconstitucional una norma general, tendrán efectos generales en todo el Estado cuando sean votadas por la mayoría simple, a partir de la fecha en que sean publicadas en el Periódico Oficial del Estado o de la fecha posterior a la publicación que la propia sentencia ordene.\n\nEn los juicios de control constitucional local, los Magistrados podrán recibir amicus curiae para mejor proveer en su resolución, de acuerdo a la ley reglamentaria."
+    }
+  ]
+}

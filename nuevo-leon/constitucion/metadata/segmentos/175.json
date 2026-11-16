@@ -1,0 +1,36 @@
+{
+  "clave": "175",
+  "etiqueta": "Artículo 175",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "175.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 175 › párrafo 1",
+      "texto": "Si alguno de los Regidores o Síndicos del Ayuntamiento dejare de desempeñar su cargo por cualquier causa, será sustituido por el suplente o se procederá según lo disponga la ley."
+    },
+    {
+      "id": "175.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 175 › párrafo 2",
+      "texto": "El Presidente Municipal será sustituido conforme a los requisitos y condiciones previstos en la ley."
+    },
+    {
+      "id": "175.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 175 › párrafo 3",
+      "texto": "De las renuncias y licencias de los miembros de los Ayuntamientos, conocerán estos, pero las renuncias solamente serán aceptadas cuando exista causa justificada."
+    }
+  ]
+}

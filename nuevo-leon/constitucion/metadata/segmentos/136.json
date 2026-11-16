@@ -1,0 +1,72 @@
+{
+  "clave": "136",
+  "etiqueta": "Artículo 136",
+  "titulo": "",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "136.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 136 › párrafo 1",
+      "texto": "Para ser Magistrado del Tribunal Superior de Justicia, se requiere:"
+    },
+    {
+      "id": "136.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 136 › Fracción I",
+      "texto": "I. Ser ciudadano mexicano por nacimiento en pleno ejercicio de sus derechos civiles y políticos."
+    },
+    {
+      "id": "136.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 136 › Fracción II",
+      "texto": "II. Tener cuando menos 35 años el día de la designación."
+    },
+    {
+      "id": "136.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 136 › Fracción III",
+      "texto": "III. Poseer el día de la designación, título profesional de licenciatura en derecho, con antigüedad mínima de diez años, expedido por autoridad o institución legalmente facultada para ello."
+    },
+    {
+      "id": "136.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 136 › Fracción IV",
+      "texto": "IV.- Gozar de buena reputación y no haber sido condenado por delito doloso que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza, peculado u otro que lastime seriamente la buena fama en el concepto público, se inhabilitará para el cargo, cualquiera que haya sido la pena."
+    },
+    {
+      "id": "136.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 136 › Fracción V",
+      "texto": "V. Haber residido en el Estado durante los dos años anteriores al día de la designación."
+    },
+    {
+      "id": "136.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 136 › Fracción VI",
+      "texto": "VI. No haber sido Gobernador, Secretario de Despacho del Ejecutivo, Fiscal General de Justicia del Estado, Fiscal Especializado en Combate a la Corrupción, Fiscal Especializado en Delitos Electorales, Senador, ni Diputado Federal o Local, cuando menos un año previo al día de su nombramiento."
+    }
+  ]
+}

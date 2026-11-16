@@ -1,0 +1,81 @@
+{
+  "clave": "056",
+  "etiqueta": "Artículo 56",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "056.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › párrafo 1",
+      "texto": "Son derechos de la ciudadanía mexicana que habite en el Estado:"
+    },
+    {
+      "id": "056.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › párrafo 2",
+      "texto": "I- Ejercer el sufragio efectivo, universal, libre, directo y secreto."
+    },
+    {
+      "id": "056.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción II",
+      "texto": "II.- Ser votado en condiciones de paridad para todos los cargos de elección popular, cumpliendo los criterios que establezca la ley. El derecho de solicitar el registro de candidaturas ante cualquier autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la ley."
+    },
+    {
+      "id": "056.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción III",
+      "texto": "III.- Hacer peticiones, reclamaciones o protestas en asuntos políticos e iniciar leyes ante el Congreso del Estado."
+    },
+    {
+      "id": "056.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción IV",
+      "texto": "IV.- Asociarse individual y libremente para tratar en forma pacífica los asuntos políticos del Estado."
+    },
+    {
+      "id": "056.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción V",
+      "texto": "V.- Formar partidos políticos y afiliarse a ellos de manera libre, voluntaria e individual, en los términos que prevean las leyes."
+    },
+    {
+      "id": "056.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción VI",
+      "texto": "VI.- Votar en las consultas populares sobre temas de trascendencia estatal o municipal que se llevarán a cabo conforme a lo siguiente y lo que establezcan las leyes aplicables."
+    },
+    {
+      "id": "056.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción VII",
+      "texto": "VII.- Participar en los procesos de revocación de mandato, en términos de esta Constitución."
+    }
+  ]
+}

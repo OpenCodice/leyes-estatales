@@ -1,0 +1,117 @@
+{
+  "clave": "201",
+  "etiqueta": "Artículo 201",
+  "titulo": "",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "201.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 201 › párrafo 1",
+      "texto": "El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes para la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como para la fiscalización y control de recursos públicos. El Sistema se regirá por los principios de transparencia y máxima publicidad."
+    },
+    {
+      "id": "201.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 201 › párrafo 2",
+      "texto": "Para el cumplimiento de su objetivo se sujetará a las siguientes bases mínimas:"
+    },
+    {
+      "id": "201.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 201 › Fracción I",
+      "texto": "I. El Sistema contará con un Comité Coordinador del Sistema Estatal Anticorrupción que estará integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción; de la Dependencia del Ejecutivo del Estado responsable del control interno; por el Magistrado de la Sala Especializada en materia de Responsabilidades Administrativas y, el Presidente del órgano garante en materia de transparencia."
+    },
+    {
+      "id": "201.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 201 › Fracción II",
+      "texto": "II. Un representante del Consejo de la Judicatura del Estado y tres del Comité de Participación Ciudadana. El Comité Coordinador será presidido por uno de los representantes del Comité de Participación Ciudadana, y la presidencia será rotativa entre dichos representantes. La ley podrá contemplar la participación de otros integrantes con voz."
+    },
+    {
+      "id": "201.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 201 › Fracción III",
+      "texto": "III. El Comité de Selección del Sistema Estatal Anticorrupción será designado por el Congreso del Estado y estará integrado por nueve ciudadanos con el objeto de realizar una amplia consulta pública estatal dirigida a toda la sociedad en general para que presenten sus postulaciones de aspirantes a ocupar el cargo de integrante del Comité de Participación Ciudadana del Sistema, además de las otras atribuciones determinadas en esta Constitución y la ley.\n\nLa forma de la designación del Comité de Selección quedará determinada en esta Constitución y la ley, debiéndose hacer una convocatoria en la cual se presenten propuestas de candidatos por un grupo amplio de instituciones y organizaciones de reconocido prestigio, incluyendo instituciones de educación superior e investigación; organizaciones de la sociedad civil que participen en fiscalización, rendición de cuentas y combate a la corrupción; y agrupaciones profesionales. Dichos candidatos deberán presentar los documentos que acrediten el perfil solicitado en la convocatoria la cual deberá incluir como requisito que los aspirantes tengan experiencia o conocimiento en materia de fiscalización, de rendición de cuentas o combate a la corrupción o en otras que se consideren relevantes."
+    },
+    {
+      "id": "201.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 201 › Fracción IV",
+      "texto": "IV. El Comité de Participación Ciudadana del Sistema Estatal Anticorrupción será designado por el Comité de Selección y estará integrado por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción. La forma para su designación y sus atribuciones quedarán determinadas en la ley. Quienes integren el Comité de Participación Ciudadana durarán cinco años en sus cargos y solo podrán ser removidos por las causas graves que prevea la ley de la materia."
+    },
+    {
+      "id": "201.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 201 › Fracción V",
+      "texto": "V.- Corresponderá al Comité Coordinador del Sistema lo siguiente, en los términos que determine la ley:"
+    },
+    {
+      "id": "201.V.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 201 › Fracción V › inciso a)",
+      "texto": "a) La coordinación con las autoridades estatales y municipales competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción."
+    },
+    {
+      "id": "201.V.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 201 › Fracción V › inciso b)",
+      "texto": "b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan."
+    },
+    {
+      "id": "201.V.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 201 › Fracción V › inciso c)",
+      "texto": "c) La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes de los órdenes de gobierno."
+    },
+    {
+      "id": "201.V.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 201 › Fracción V › inciso d)",
+      "texto": "d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno en materia de fiscalización y control de los recursos públicos."
+    },
+    {
+      "id": "201.V.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 201 › Fracción V › inciso e)",
+      "texto": "e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia, sin perjuicio de poder elaborar informes adicionales durante el transcurso del año.\n\nDerivado de sus informes, el Comité Coordinador del Sistema podrá emitir recomendaciones y observaciones dirigidas a las autoridades.\n\nLas autoridades destinatarias de las recomendaciones y observaciones informarán al Comité sobre la atención que brinden a las mismas."
+    }
+  ]
+}

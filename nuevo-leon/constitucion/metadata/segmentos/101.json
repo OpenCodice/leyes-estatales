@@ -1,0 +1,63 @@
+{
+  "clave": "101",
+  "etiqueta": "Artículo 101",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "101.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 1",
+      "texto": "La Auditoría Superior del Estado de Nuevo León es un órgano auxiliar del Congreso en la facultad de la fiscalización sobre las cuentas públicas presentadas por los Poderes del Estado, los órganos constitucionales autónomos, los organismos descentralizados y desconcentrados y fideicomisos públicos de la administración pública del Estado, los municipios y sus organismos descentralizados y desconcentrados. Además podrá fiscalizar los hechos, actos u omisiones de las entidades del Estado y los municipios en materia de fondos, recursos locales y deuda pública."
+    },
+    {
+      "id": "101.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 2",
+      "texto": "A su vez, deberá investigar y substanciar el procedimiento por las faltas administrativas graves en términos de las leyes de la materia."
+    },
+    {
+      "id": "101.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 3",
+      "texto": "La Auditoría Superior del Estado cuenta con personalidad jurídica, patrimonio propio y autonomía financiera, presupuestaria, técnica y de gestión en el ejercicio de sus atribuciones y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que disponga la ley."
+    },
+    {
+      "id": "101.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 4",
+      "texto": "El presupuesto de este órgano no podrá reducirse en términos reales al del ejercicio anterior y podrá definir y ejercer en forma autónoma sus partidas presupuestales, las que serán suficientes para atender adecuadamente el cumplimiento de su función."
+    },
+    {
+      "id": "101.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 5",
+      "texto": "La función de fiscalización será ejercida conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad."
+    },
+    {
+      "id": "101.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 6",
+      "texto": "Los Poderes del Estado, los Órganos Constitucionales Autónomos, los Organismos Descentralizados y Desconcentrados y Fideicomisos Públicos de la Administración Pública del Estado, los Municipios y sus Organismos Descentralizados y Desconcentrados, y las demás entidades fiscalizadas, facilitarán el auxilio que requiera la Auditoría Superior del Estado para el ejercicio de sus funciones y, en caso de no hacerlo, se harán acreedores a las sanciones que establezca la ley."
+    }
+  ]
+}

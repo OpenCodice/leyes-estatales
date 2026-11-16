@@ -1,0 +1,72 @@
+{
+  "clave": "095",
+  "etiqueta": "Artículo 95",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "095.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › párrafo 1",
+      "texto": "Las siguientes leyes tendrán el carácter de constitucionales:"
+    },
+    {
+      "id": "095.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › Fracción I",
+      "texto": "I. La que regule el proceso electoral."
+    },
+    {
+      "id": "095.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › Fracción II",
+      "texto": "II. La que desarrolle las funciones de la Auditoría Superior del Estado."
+    },
+    {
+      "id": "095.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › Fracción III",
+      "texto": "III. La que establezca el Sistema Estatal Anticorrupción."
+    },
+    {
+      "id": "095.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › Fracción IV",
+      "texto": "IV. La que organice al Poder Judicial del Estado."
+    },
+    {
+      "id": "095.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › Fracción V",
+      "texto": "V. La que desarrolle los medios de control constitucional previstos en esta Constitución."
+    },
+    {
+      "id": "095.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › Fracción VI",
+      "texto": "VI. La que regule al gobierno municipal.\n\nEn la aprobación o reforma de las leyes constitucionales se guardarán las mismas reglas que en las de cualquier artículo de la Constitución, pudiendo ser discutidas y votadas en el mismo período en que sean propuestas, si así lo acordare el Congreso del Estado."
+    }
+  ]
+}

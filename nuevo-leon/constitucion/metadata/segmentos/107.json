@@ -1,0 +1,27 @@
+{
+  "clave": "107",
+  "etiqueta": "Artículo 107",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "107.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 107 › párrafo 1",
+      "texto": "La Auditoría Superior del Estado, iniciará el proceso de fiscalización a partir del primer día hábil del Ejercicio Fiscal siguiente, sin perjuicio de que las observaciones o recomendaciones que, en su caso realice, deberán referirse a la información definitiva presentada en la Cuenta Pública."
+    },
+    {
+      "id": "107.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 107 › párrafo 2",
+      "texto": "Asimismo, por lo que corresponde a los trabajos de planeación de las auditorías, la Auditoría Superior del Estado está facultada para solicitar información del ejercicio en curso, respecto de procesos concluidos."
+    }
+  ]
+}

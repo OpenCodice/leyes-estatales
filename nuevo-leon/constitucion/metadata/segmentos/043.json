@@ -1,0 +1,27 @@
+{
+  "clave": "043",
+  "etiqueta": "Artículo 43",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "043.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 1",
+      "texto": "Todas las personas tienen derecho a disponer de tiempo para la convivencia, el esparcimiento, el cuidado personal, el descanso, el disfrute del ocio y a una duración razonable de sus jornadas de trabajo."
+    },
+    {
+      "id": "043.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 2",
+      "texto": "En atención al principio de igualdad sustantiva, las autoridades impulsarán políticas sociales, económicas y territoriales que liberen tiempo y permitan a las personas alcanzar el bienestar. En la medida de lo posible, se deberán establecer políticas públicas que fomenten el teletrabajo."
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "clave": "071",
+  "etiqueta": "Artículo 71",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "071.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › párrafo 1",
+      "texto": "Para ser Diputado se requiere lo siguiente:"
+    },
+    {
+      "id": "071.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción I",
+      "texto": "I. Ser ciudadano mexicano por nacimiento, en ejercicio de sus derechos civiles y políticos."
+    },
+    {
+      "id": "071.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción II",
+      "texto": "II. Tener dieciocho años cumplidos al día de la elección."
+    },
+    {
+      "id": "071.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción III",
+      "texto": "III. Ser vecino del Estado, con residencia no menor de cinco años inmediatos anteriores a la fecha de la elección. Para quien haya nacido en el Estado bastará con que cuente con una residencia de al menos seis meses anteriores a la fecha de la elección."
+    },
+    {
+      "id": "071.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción IV",
+      "texto": "IV. No ser ministro de culto religioso."
+    },
+    {
+      "id": "071.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción V",
+      "texto": "V. No ser Ejecutivo del Estado, Titular de cualquier dependencia, Titular del Órgano Interno de Control Estatal, Titular de algún órgano desconcentrado, descentralizado o paraestatal en la entidad."
+    },
+    {
+      "id": "071.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción VI",
+      "texto": "VI. No ser Magistrado del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, o del Tribunal Electoral del Estado."
+    },
+    {
+      "id": "071.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción VII",
+      "texto": "VII. No ser Consejero de la Judicatura del Estado, Consejero Electoral del Instituto Estatal Electoral y de Participación Ciudadana, Presidente de la Comisión Estatal de Derechos Humanos, Consejero del Instituto Estatal de Transparencia, Acceso a la Información y Protección de Datos Personales, Fiscal General del Estado, Fiscal Especializado en Combate a la Corrupción, Fiscal Especializado en Delitos Electorales, o rector de cualquier universidad pública."
+    },
+    {
+      "id": "071.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción VIII",
+      "texto": "VIII. No ser Diputado ni Senador del Congreso de la Unión, ni funcionario, o empleado federal en el Estado."
+    },
+    {
+      "id": "071.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción IX",
+      "texto": "IX. No ser Presidente Municipal."
+    },
+    {
+      "id": "071.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción X",
+      "texto": "X. No estar en servicio activo del Ejército, seis meses antes del día de la elección correspondiente.\n\nLos servidores públicos mencionados en las fracciones anteriores, con excepción del Ejecutivo, los Consejeros electorales y los Magistrados electorales, podrán ser electos como diputados si se separan de sus cargos a más tardar un día antes del inicio de la campaña electoral correspondiente."
+    }
+  ]
+}

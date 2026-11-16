@@ -1,0 +1,27 @@
+{
+  "clave": "109",
+  "etiqueta": "Artículo 109",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "109.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 › párrafo 1",
+      "texto": "El Auditor General del Estado durará en el cargo ocho años, teniendo derecho para participar en el proceso de selección inmediato al del cumplimiento de su encargo, y podrá ser removido, exclusivamente, por las causas graves que la ley señale, con la misma votación requerida para su nombramiento."
+    },
+    {
+      "id": "109.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 › párrafo 2",
+      "texto": "En caso de ausencia absoluta del Auditor Superior del Estado, el Congreso realizará nuevo nombramiento."
+    }
+  ]
+}

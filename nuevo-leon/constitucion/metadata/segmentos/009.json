@@ -1,0 +1,27 @@
+{
+  "clave": "009",
+  "etiqueta": "Artículo 9",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "009.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › párrafo 1",
+      "texto": "Todas las personas tienen derecho a la libertad de convicciones éticas, de conciencia y de religión, y a tener o adoptar, en su caso, la de su agrado. Esta libertad incluye el derecho de participar, individual o colectivamente, tanto en público como en privado, en las ceremonias, devociones o actos del culto respectivo, siempre que no constituyan un delito o falta penados por la ley. Nadie podrá utilizar los actos públicos de expresión de esta libertad con fines políticos, de proselitismo o de propaganda política."
+    },
+    {
+      "id": "009.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › párrafo 2",
+      "texto": "El Congreso no puede dictar leyes que establezcan o prohíban religión alguna."
+    }
+  ]
+}

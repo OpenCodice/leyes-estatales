@@ -1,0 +1,63 @@
+{
+  "clave": "157",
+  "etiqueta": "Artículo 157",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "157.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 157 › párrafo 1",
+      "texto": "Corresponde al Congreso del Estado designar, por el voto de las dos terceras partes de sus integrantes, a los titulares de los órganos internos de control de los órganos constitucionalmente autónomos reconocidos en esta Constitución que ejerzan recursos de la Ley de Egresos del Estado."
+    },
+    {
+      "id": "157.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 157 › párrafo 2",
+      "texto": "La designación se hará de la propuesta que los órganos constitucionalmente autónomos presenten al Congreso del Estado de conformidad al siguiente procedimiento:"
+    },
+    {
+      "id": "157.I",
+      "tipo": "apartado",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 157 › Apartado I",
+      "texto": "I) Las personas titulares de los órganos internos de control antes señalados serán propuestas al Congreso del Estado. La aprobación se hará, previa comparecencia de la persona propuesta, por el voto secreto de cuando menos las dos terceras partes de los integrantes del Congreso del Estado, dentro de los cinco días hábiles siguientes a la fecha de la comparecencia."
+    },
+    {
+      "id": "157.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "I",
+      "fraccion": "",
+      "ruta": "Artículo 157 › Apartado I › párrafo 3",
+      "texto": "Si el Congreso del Estado no se encontrase reunido, la Diputación Permanente convocará de inmediato a un Período Extraordinario de Sesiones."
+    },
+    {
+      "id": "157.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "I",
+      "fraccion": "",
+      "ruta": "Artículo 157 › Apartado I › párrafo 4",
+      "texto": "II) En caso de que, transcurrido el plazo de cinco días hábiles, el Congreso del Estado rechace a la persona propuesta para ocupar el cargo, se abstenga de resolver o no se alcance la votación de cuando menos las dos terceras partes de sus integrantes, el órgano proponente, en un plazo de diez días hábiles, propondrá a otra persona y la aprobación se efectuará en los términos de los párrafos anteriores."
+    },
+    {
+      "id": "157.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "I",
+      "fraccion": "",
+      "ruta": "Artículo 157 › Apartado I › párrafo 5",
+      "texto": "III) Si presentada la segunda propuesta, el Congreso del Estado la rechaza o no reúne la votación requerida dentro de los plazos señalados, en ese mismo acto, la aprobación se llevará a cabo mediante el voto secreto de cuando menos la mayoría de los diputados asistentes a la sesión. De no reunirse esta votación o si el Congreso del Estado se abstiene de resolver dentro de los plazos señalados, el órgano proponente, dentro de los diez días hábiles posteriores a la celebración de la sesión, realizará la designación, la cual no podrá recaer en ninguna de las personas que en ese mismo procedimiento ya hubieran sido propuestas al Congreso del Estado para ocupar dicho cargo."
+    }
+  ]
+}

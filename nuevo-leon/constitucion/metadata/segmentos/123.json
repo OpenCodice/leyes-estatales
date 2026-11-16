@@ -1,0 +1,45 @@
+{
+  "clave": "123",
+  "etiqueta": "Artículo 123",
+  "titulo": "",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "123.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 1",
+      "texto": "En caso de falta absoluta o impedimento perpetuo del Gobernador dentro de los tres primeros años del período respectivo, el Congreso del Estado nombrará por escrutinio secreto y a mayoría absoluta de votos, un Gobernador interino. El mismo Congreso lanzará la convocatoria para elecciones de Gobernador substituto, procurando que la fecha señalada para dichas elecciones coincida con aquella en que deban tener verificativo las de diputados locales, siempre que estén próximas. Si el Congreso del Estado estuviere en receso, la Diputación Permanente nombrará un Gobernador interino y convocará inmediatamente al Congreso a sesiones extraordinarias para que lance la convocatoria respectiva."
+    },
+    {
+      "id": "123.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 2",
+      "texto": "En el supuesto de convocarse a elecciones extraordinarias, éstas se realizarán de conformidad con lo dispuesto por la ley y bajo la dirección del órgano estatal electoral. Las controversias que en las mismas se presenten serán resueltas por el órgano previsto en el artículo 164 de esta Constitución y en las leyes relativas."
+    },
+    {
+      "id": "123.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 3",
+      "texto": "Si la falta absoluta o impedimento perpetuo del Gobernador aconteciere dentro de los últimos tres años del período respectivo, y el Congreso estuviere en sesiones, será éste quien nombre el Gobernador substituto; y en caso de estar en receso, la Diputación Permanente solo nombrará un Gobernador interino, convocando al Congreso a sesiones extraordinarias para que éste por escrutinio secreto y a mayoría absoluta de votos, elija el Gobernador substituto, pudiendo serlo el interino."
+    },
+    {
+      "id": "123.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 4",
+      "texto": "Nunca se concederá al Gobernador licencia con el carácter de indefinida ni tampoco por un tiempo mayor de seis meses. Si concluida la licencia no se presentare el Gobernador, será llamado por el Congreso o Diputación Permanente; y si no compareciere dentro de diez días, cesará en su cargo, procediéndose como lo establece este artículo, en sus respectivos casos, salvo lo dispuesto en el artículo 121."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "074",
+  "etiqueta": "Artículo 74",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "074.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 1",
+      "texto": "Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de su cargo, sobre las cuales en ningún tiempo pueden ser reconvenidos o juzgados por autoridad alguna."
+    },
+    {
+      "id": "074.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 2",
+      "texto": "Quien presida el Congreso del Estado velará por el respeto a la inviolabilidad mencionada en el párrafo anterior, así como del recinto donde se reúnan a sesionar."
+    }
+  ]
+}
