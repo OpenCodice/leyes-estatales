@@ -1,0 +1,36 @@
+{
+  "clave": "017",
+  "etiqueta": "Artículo 17",
+  "titulo": "",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "017.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 1",
+      "texto": "Son ciudadanos campechanos los varones y mujeres que teniendo la calidad de campechanos, reúnan además los siguientes requisitos:"
+    },
+    {
+      "id": "017.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción I",
+      "texto": "I. Haber cumplido 18 años; y"
+    },
+    {
+      "id": "017.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción II",
+      "texto": "II. Tener un modo honesto de vivir.\n\nNota: Se reformó mediante decreto No. 80 de la XLVI Legislatura, publicado en el P. O. del Gobierno del Estado No. 1317 de fecha 11 de abril de 1970."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "028",
+  "etiqueta": "Artículo 28",
+  "titulo": "",
+  "capitulo": "CAPÍTULO X",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "028.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › párrafo 1",
+      "texto": "Los Poderes residirán en la Ciudad de San Francisco de Campeche, Capital del Estado, salvo en el caso de que, por razones fundadas decrete el Congreso cambiar la residencia de los mismos de acuerdo a lo dispuesto por la fracción II del artículo 54 de esta Constitución."
+    },
+    {
+      "id": "028.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › párrafo 2",
+      "texto": "Nota: Se reformó mediante decreto No. 280 de la LVIII Legislatura, publicado en el P. O. No. 3544 de fecha 12 de abril de 2006."
+    }
+  ]
+}

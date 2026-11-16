@@ -1,0 +1,189 @@
+{
+  "clave": "105",
+  "etiqueta": "Artículo 105",
+  "titulo": "",
+  "capitulo": "CAPÍTULO XVIII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "105.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › párrafo 1",
+      "texto": "Los Municipios:"
+    },
+    {
+      "id": "105.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción I",
+      "texto": "I. Tendrán a su cargo las funciones y servicios públicos que determina la fracción III del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos y las que la Legislatura del Estado les atribuya;"
+    },
+    {
+      "id": "105.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción II",
+      "texto": "II. Con arreglo a las leyes federales y estatales y conforme a los reglamentos municipales podrán realizar los actos previstos en la fracción V del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;"
+    },
+    {
+      "id": "105.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción III",
+      "texto": "III. Administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que la ley establezca, y en todo caso:"
+    },
+    {
+      "id": "105.III.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 105 › Fracción III › inciso a)",
+      "texto": "a) Percibirán las contribuciones, incluyendo las tasas adicionales sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan como base el cambio del valor de los inmuebles;\n\nLos Municipios podrán celebrar convenios con el Estado, para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones;"
+    },
+    {
+      "id": "105.III.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 105 › Fracción III › inciso b)",
+      "texto": "b) Las participaciones federales que serán cubiertas por la Federación a los Municipios, con arreglo a las bases, montos y plazos que anualmente determine la Legislatura;"
+    },
+    {
+      "id": "105.III.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 105 › Fracción III › inciso c)",
+      "texto": "c) Los ingresos derivados de la prestación de los servicios públicos a su cargo;"
+    },
+    {
+      "id": "105.III.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 105 › Fracción III › inciso d)",
+      "texto": "d) Las leyes del Estado no podrán establecer exenciones o subsidios a favor de persona o institución alguna respecto de las contribuciones antes señaladas. Solo estarán exentos los bienes del dominio público de la Federación, del Estado y de los Municipios. Los bienes públicos que sean utilizados por entidades paraestatales o por particulares bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público, causarán las contribuciones antes señaladas;"
+    },
+    {
+      "id": "105.III.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 105 › Fracción III › inciso e)",
+      "texto": "e) Los recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos, o por quien ellos autoricen, conforme a la ley, los cuales se administrarán con eficiencia, eficacia, economía, transparencia y honradez para satisfacer los objetivos a los que están destinados. Los resultados del ejercicio de los recursos serán evaluados por las instancias técnicas competentes, de conformidad con la legislación aplicable, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos señalados.;"
+    },
+    {
+      "id": "105.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción IV",
+      "texto": "IV. Por conducto de sus respectivos Ayuntamientos, podrán convenir con el Estado la asunción de las funciones que originalmente corresponden a éste, la ejecución de obras y la prestación de servicios públicos, cuando el desarrollo económico y social lo hagan necesario;"
+    },
+    {
+      "id": "105.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción V",
+      "texto": "V. Están facultados así mismo para, conforme a lo previsto por esta Constitución y a las bases que establezca la ley de la materia, celebrar convenios:"
+    },
+    {
+      "id": "105.V.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 105 › Fracción V › inciso a)",
+      "texto": "a) Con dos o más Municipios del Estado para coordinarse con el propósito del mejor ejercicio de sus funciones o la más eficaz prestación de los servicios públicos;"
+    },
+    {
+      "id": "105.V.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 105 › Fracción V › inciso b)",
+      "texto": "b) Con el Estado para que éste por sí o mediante un organismo en forma temporal, se haga cargo del ejercicio de alguna función o la prestación de un servicio público;"
+    },
+    {
+      "id": "105.V.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 105 › Fracción V › inciso c)",
+      "texto": "c) Con el Estado para que éste y el Municipio ejerzan la función o presten el servicio público en forma coordinada."
+    },
+    {
+      "id": "105.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción VI",
+      "texto": "VI. Los Municipios no podrán en ningún caso:"
+    },
+    {
+      "id": "105.VI.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "VI",
+      "ruta": "Artículo 105 › Fracción VI › inciso a)",
+      "texto": "a) Prohibir o evitar en cualquier forma la entrada o salida de mercancías locales, nacionales o extranjeras, o productos de cualquier clase;"
+    },
+    {
+      "id": "105.VI.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "VI",
+      "ruta": "Artículo 105 › Fracción VI › inciso b)",
+      "texto": "b) Gravar directa o indirectamente la entrada o salida de los mismos o el paso por el territorio de su jurisdicción; y"
+    },
+    {
+      "id": "105.VI.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "VI",
+      "ruta": "Artículo 105 › Fracción VI › inciso c)",
+      "texto": "c) Imponer contribuciones que no estén especificadas en las leyes fiscales del Municipio."
+    },
+    {
+      "id": "105.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción VII",
+      "texto": "VII. Garantizarán la participación ciudadana de los habitantes de su demarcación mediante acciones de Municipio Abierto, así como la aplicación de su Presupuesto mediante ejercicios participativos en el porcentaje y con el procedimiento que la normatividad secundaria determine."
+    },
+    {
+      "id": "105.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción VIII",
+      "texto": "VIII. Deberán diseñar, implementar y evaluar políticas públicas de simplificación administrativa y digitalización de trámites y servicios, con un lenguaje sencillo y acorde a su comunidad priorizando su lengua originaria bajo un enfoque de derechos humanos e inclusión territorial. El derecho de acceder a trámites y servicios públicos tendrá como principios rectores: simplicidad administrativa, inclusión digital, accesibilidad universal, atención a grupos vulnerables, inclusión cultural, interoperabilidad institucional, transparencia y rendición de cuentas, uso ético y responsable de datos.\n\nNota: Se reformó mediante decreto No. 42 de la LVII Legislatura, publicado en el P. O. del Gobierno del Estado No. 2307 de fecha 2 de febrero de 2001.\n\nNota: Se reformó mediante decreto No. 136 de la LIX Legislatura, publicado en el P. O. No. 3981, Segunda Sección de fecha 15 de febrero de 2008.\n\nNota: Fe de erratas publicada en el P. O. No. 3982, Tercera Sección de fecha 18 de febrero de 2008.\n\nNota: Se reformó el inciso e) de la fracción III mediante decreto No. 3 de la LX Legislatura, publicado en el P. O. No. 4396, Segunda Sección de fecha 18 de noviembre de 2009.\n\nNota: Se adicionó la fracción VII mediante decreto No. 398 de la LXIV Legislatura, publicado en el P.O. del Gobierno del Estado No. 2254 Quinta Sección de fecha 18 de septiembre de 2024.\n\nNota: Se adicionó la fracción VIII mediante decreto No. 295 de la LXV Legislatura, publicado en el P.O. del Gobierno del Estado No. 2756 Segunda Sección de fecha 12 de octubre de 2026."
+    }
+  ]
+}
