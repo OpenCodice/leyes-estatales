@@ -1,0 +1,27 @@
+{
+  "clave": "144",
+  "etiqueta": "Artículo 144",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "144.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 144 › párrafo 1",
+      "texto": "Cada Órgano con Autonomía Técnica elaborará su proyecto de presupuesto con los recursos necesarios para cumplir, adecuadamente, con su función, objetivos y metas."
+    },
+    {
+      "id": "144.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 144 › párrafo 2",
+      "texto": "(REFORMADO PÁRRAFO SEGUNDO, P.O. EDICIÓN 68 ALCANCE II, DE FECHA MARTES 26 DE AGOSTO DE 2025) El proyecto de presupuesto será remitido por su titular al Poder al que estén adscritos, para su inclusión en el proyecto de Presupuesto de Egresos del Estado, se excluye de esta disposición al Poder Judicial del Estado."
+    }
+  ]
+}

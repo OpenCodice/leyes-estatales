@@ -1,0 +1,27 @@
+{
+  "clave": "118",
+  "etiqueta": "Artículo 118",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "118.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › párrafo 1",
+      "texto": "Para elegir al Presidente y a los integrantes del Consejo Consultivo se deberá expedir una convocatoria pública en términos de su ley orgánica, que contendrá, al menos, los requisitos de elegibilidad, los documentos para acreditarlos, los plazos de inscripción, el procedimiento para la realización de la consulta, los términos para realizar el dictamen respectivo y para elevar las propuestas definitivas al pleno del Congreso del Estado, así como el procedimiento que se seguirá para su designación."
+    },
+    {
+      "id": "118.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › párrafo 2",
+      "texto": "Dichos nombramientos deberán recaer en personas que se hayan caracterizado por su compromiso en la defensa de los derechos humanos."
+    }
+  ]
+}

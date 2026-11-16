@@ -1,0 +1,27 @@
+{
+  "clave": "163-ter",
+  "etiqueta": "Artículo 163 Ter",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "163-ter.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 163 Ter › párrafo 1",
+      "texto": "(ADICIONADO, P.O. EDICIÓN 68 ALCANCE II, DE FECHA MARTES 26 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "163-ter.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 163 Ter › párrafo 2",
+      "texto": "El Órgano de Administración Judicial, a solicitud del Tribunal Superior de Justicia, podrá concentrar facultades en uno o más órganos jurisdiccionales para que conozcan de los asuntos vinculados con hechos que constituyan violaciones graves de derechos humanos. La decisión sobre la idoneidad de la concentración deberá tomarse en función del interés social y el orden público, lo que constituirá una excepción a las reglas de turno y competencia."
+    }
+  ]
+}

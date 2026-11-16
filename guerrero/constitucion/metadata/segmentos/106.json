@@ -1,0 +1,54 @@
+{
+  "clave": "106",
+  "etiqueta": "Artículo 106",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "106.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 106 › párrafo 1",
+      "texto": "Los Órganos Autónomos tienen las siguientes características:"
+    },
+    {
+      "id": "106.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 106 › Fracción I",
+      "texto": "I. Permanentes;"
+    },
+    {
+      "id": "106.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 106 › Fracción II",
+      "texto": "II. Personalidad jurídica y patrimonio propios;"
+    },
+    {
+      "id": "106.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 106 › Fracción III",
+      "texto": "III. Garantizada su autonomía técnica, presupuestal, de gestión, organización, funcionamiento y de decisión, en los términos dispuestos en esta Constitución y en las demás disposiciones aplicables; y, (REFORMADA P.O. No. 68 ALCANCE III, DE FECHA VIERNES 24 DE AGOSTO DE 2018) DECRETO 757"
+    },
+    {
+      "id": "106.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 106 › Fracción IV",
+      "texto": "IV. Su residencia y domicilio legal en la ciudad de Chilpancingo de los Bravo, capital del Estado de Guerrero."
+    }
+  ]
+}

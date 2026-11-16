@@ -1,0 +1,45 @@
+{
+  "clave": "087",
+  "etiqueta": "Artículo 87",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "087.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. EDICIÓN 51 ALCANCE I, 27 DE JUNIO DE 2025) D- 828"
+    },
+    {
+      "id": "087.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › párrafo 2",
+      "texto": "Para el despacho de los asuntos que competen al Poder Ejecutivo, la Gobernadora o Gobernador se auxiliará de Secretarias y Secretarios de Despacho y de los servidores públicos que las necesidades de la administración pública demanden, en los términos de la ley orgánica respectiva."
+    },
+    {
+      "id": "087.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › 1.",
+      "texto": "1. La ley establecerá los requisitos que deban cumplir los secretarios de despacho, los titulares de las dependencias y entidades de la administración pública, así como los servidores públicos a su cargo; y,"
+    },
+    {
+      "id": "087.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › 2.",
+      "texto": "2. Al efecto, se observarán los principios de idoneidad, experiencia, honorabilidad, especialización, profesionalismo, equidad de género e igualdad de oportunidades."
+    }
+  ]
+}

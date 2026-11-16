@@ -1,0 +1,54 @@
+{
+  "clave": "063",
+  "etiqueta": "Artículo 63",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "063.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63 › párrafo 1",
+      "texto": "El máximo órgano de gobierno del Congreso del Estado es el Pleno de los Diputados, al que corresponde nombrar a los integrantes de la Mesa Directiva, a los de la Junta de Coordinación Política, a los de la Comisión Permanente, y las Comisiones y Comités ordinarios y especiales."
+    },
+    {
+      "id": "063.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63 › 1.",
+      "texto": "1. El Congreso del Estado contará con una Mesa Directiva y una Junta de Coordinación Política, cuya integración, duración, funcionamiento, facultades y obligaciones serán determinadas en la Ley Orgánica del Poder Legislativo y su Reglamento;"
+    },
+    {
+      "id": "063.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63 › párrafo 2",
+      "texto": "(REFORMADO, P.O. EDICIÓN 51 ALCANCE I, VIERNES 27 DE JUNIO DE 2025) DECRETO 828"
+    },
+    {
+      "id": "063.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63 › 2.",
+      "texto": "2. En ningún caso, la presidencia de la Mesa Directiva recaerá en una Diputada o un Diputado que pertenezca al grupo parlamentario que presida la Junta de Coordinación Política en el mismo año legislativo; y,"
+    },
+    {
+      "id": "063.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63 › 3.",
+      "texto": "3. Los coordinadores de los grupos parlamentarios no podrán formar parte de la Mesa Directiva."
+    }
+  ]
+}

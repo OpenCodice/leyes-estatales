@@ -1,0 +1,135 @@
+{
+  "clave": "013",
+  "etiqueta": "Artículo 13",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "013.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 1",
+      "texto": "(REFORMADO, P.O. EDICIÓN 13 ALCANCE IV, DE FECHA VIERNES 13 DE FEBRERO DE 2026)"
+    },
+    {
+      "id": "013.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 2",
+      "texto": "El Gobierno del Estado en coordinación con las autoridades municipales y conforme a las disposiciones presupuestales que apruebe el Congreso, generará las políticas públicas que promuevan el acceso a los derechos humanos y la igualdad de oportunidades de los pueblos indígenas, así como el pueblo afromexicano, que tiendan a eliminar cualquier práctica discriminatoria y posibiliten el avance socioeconómico y el desarrollo humano. Las obligaciones que corresponda a cada uno de los poderes del Estado y los municipios, se determinarán en una ley reglamentaria atendiendo a lo prescrito en el artículo 2° de la Constitución Política de los Estados Unidos Mexicanos, en las que se deberá prever:"
+    },
+    {
+      "id": "013.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción I",
+      "texto": "I. Impulsar el desarrollo comunitario y regional de los pueblos y comunidades indígenas y afromexicanas, para mejorar sus condiciones de vida y bienestar común, mediante planes de desarrollo que fortalezcan sus economías y fomenten los cultivos tradicionales, en especial el sistema milpa, las semillas nativas, los recursos agroalimentarios y el óptimo uso de la tierra, libres del uso de sustancias peligrosas y productos químicos tóxicos, así como los mecanismos que faciliten la organización y desarrollo de las economías de los pueblos y comunidades indígenas y afromexicanas, y se reconocerá el trabajo comunitario como parte de su organización social y cultural;"
+    },
+    {
+      "id": "013.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción II",
+      "texto": "II. Determinar, mediante normas y criterios compensatorios, equitativos, justos y proporcionales, asignaciones presupuestales para los pueblos y comunidades indígenas y afromexicanas, que serán administradas directamente por estos, conforme a las disposiciones administrativas y fiscales de la materia;"
+    },
+    {
+      "id": "013.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción III",
+      "texto": "III. Adoptar las medidas necesarias para reconocer y proteger el patrimonio cultural, la propiedad intelectual colectiva, los conocimientos y las expresiones culturales tradicionales de los pueblos y comunidades indígenas, en los términos que establezcan las leyes de la materia;"
+    },
+    {
+      "id": "013.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción IV",
+      "texto": "IV. Garantizar y fortalecer la educación indígena, intercultural y plurilingüe;"
+    },
+    {
+      "id": "013.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción V",
+      "texto": "V. Asegurar el acceso efectivo a los servicios de salud, así como reconocer las prácticas de la medicina tradicional;"
+    },
+    {
+      "id": "013.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción VI",
+      "texto": "VI. Garantizar el derecho a la alimentación nutritiva, suficiente y de calidad con pertinencia cultural, en especial para la población infantil;"
+    },
+    {
+      "id": "013.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción VII",
+      "texto": "VII. Mejorar las condiciones de vida de los pueblos y comunidades indígenas y afromexicanas, y de sus espacios para la convivencia y recreación, mediante acciones que garanticen el acceso al financiamiento para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos, en armonía con su entorno natural y cultural, sus conocimientos y tecnologías tradicionales, respetando sus usos y costumbres;"
+    },
+    {
+      "id": "013.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción VIII",
+      "texto": "VIII. Garantizar la participación efectiva de las mujeres indígenas y afromexicanas, en condiciones de igualdad y equidad, en los procesos de desarrollo integral de los pueblos y comunidades indígenas y afromexicanas; su acceso a la educación, así como a la propiedad y posesión de la tierra; su participación en la toma de decisiones de carácter público, y la promoción y respeto de sus derechos humanos;"
+    },
+    {
+      "id": "013.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción IX",
+      "texto": "IX. Coadyuvar con los pueblos y comunidades indígenas y afromexicanas ante la Federación la construcción y ampliación de vías de comunicación y caminos artesanales.\n\nAsí como impulsar las redes de comunicación, la radiodifusión, telecomunicación e internet de banda ancha, para el acceso de los pueblos y comunidades indígenas y afromexicanas en condiciones de dignidad, equidad e interculturalidad, sin discriminación alguna para que reflejen la diversidad cultural indígena;"
+    },
+    {
+      "id": "013.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción X",
+      "texto": "X. Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas y afromexicanas mediante la incorporación de tecnologías, preservando sus sistemas tradicionales de producción, para incrementar su propia capacidad productiva; así como, asegurar el acceso equitativo a los sistemas de abasto y comercialización;"
+    },
+    {
+      "id": "013.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción XI",
+      "texto": "XI. Proteger a las personas indígenas y afromexicanas migrantes, tanto en el territorio nacional como en el extranjero bajo los mecanismos que prevea la legislación vigente para que puedan mantener la ciudadanía guerrerense y el vínculo con sus comunidades de origen, y"
+    },
+    {
+      "id": "013.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción XII",
+      "texto": "XII. Consultar a los pueblos y comunidades indígenas y afromexicanas en la elaboración del Plan Estatal de Desarrollo y los planes municipales de desarrollo cuando así proceda.\n\nEn el diseño, implementación y evaluación de las políticas públicas se incorporarán acciones afirmativas en general a todos los guerrerenses y, en particular, en favor de los grupos vulnerables de los pueblos indígenas y comunidades afromexicanas: mujeres, niños, niñas y adolescentes, personas de la tercera edad, personas con capacidades diferentes, para su plena incorporación al desarrollo humano, social y económico. Los recursos presupuestales destinados a éstos grupos se focalizará y su fiscalización será prioritaria.\n\nEl Estado establecerá las medidas necesarias para la protección y el acceso a la salud de las mujeres y niñas de los pueblos indígenas y comunidades afromexicanas atendiendo, principalmente, a su salud sexual y reproductiva, proveyendo lo necesario en los aspectos de enfermedades infecto contagiosas y maternidad."
+    }
+  ]
+}

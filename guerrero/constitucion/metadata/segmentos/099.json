@@ -1,0 +1,63 @@
+{
+  "clave": "099",
+  "etiqueta": "Artículo 99",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "099.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 1",
+      "texto": "Las magistradas y magistrados no podrán ser removidos de su encargo durante el periodo de su designación, salvo por causas graves estipuladas en la presente Constitución y en su Ley Orgánica, previa audiencia de la persona servidora pública, conforme a los procedimientos previstos en el Título Décimo Tercero de esta Constitución."
+    },
+    {
+      "id": "099.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 2",
+      "texto": "Para el adecuado ejercicio de su función, deberán observar las disposiciones siguientes:"
+    },
+    {
+      "id": "099.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción I",
+      "texto": "I. Percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser mayor a la establecida en los presupuestos correspondientes para las personas titulares de los poderes ejecutivos federal y estatal, y no será disminuida durante su encargo;"
+    },
+    {
+      "id": "099.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción II",
+      "texto": "II. No podrán, en ningún caso, aceptar ni desempeñar empleo o encargo de la Federación, en las entidades federativas o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia. Así mismo no podrán actuar como patronas, patronos, abogadas, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial del Estado, dentro de los dos años siguientes a la fecha de conclusión de su encargo, salvo en causa propia, ni ocupar los cargos señalados en la fracción VI del artículo 96 de esta Constitución durante dicho plazo. Para el caso de las Juezas y Jueces este impedimento será aplicable únicamente dentro de los distritos judiciales en los que hayan estado adscritas o adscritos durante los dos años previos a la conclusión de su encargo, en los términos que establezca la ley;"
+    },
+    {
+      "id": "099.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción III",
+      "texto": "III. La Ley Orgánica del Poder Judicial del Estado regulará las causas y las modalidades por las que procederá la excusa o recusación de las magistradas, magistrados, juezas y jueces en el conocimiento de los asuntos de su competencia, y"
+    },
+    {
+      "id": "099.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción IV",
+      "texto": "IV. Las magistradas, magistrados, juezas y jueces no podrán ser perseguidos o reconvenidos por las opiniones emitidas en el ejercicio de su función, ni por el sentido de sus votos o resoluciones."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "078",
+  "etiqueta": "Artículo 78",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "078.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › párrafo 1",
+      "texto": "(REFORMADO, P.O. EDICIÓN 51 ALCANCE I, VIERNES 27 DE JUNIO DE 2025) DECRETO 828"
+    },
+    {
+      "id": "078.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › párrafo 2",
+      "texto": "Resultará electo Gobernadora o Gobernador del Estado la candidata o el candidato que, una vez realizada la elección, escrutinio y los cómputos respectivos, obtenga la constancia de mayoría expedida por la autoridad electoral."
+    }
+  ]
+}

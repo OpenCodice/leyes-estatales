@@ -1,0 +1,54 @@
+{
+  "clave": "133",
+  "etiqueta": "Artículo 133",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "133.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › párrafo 1",
+      "texto": "La actuación del Tribunal Electoral del Estado de Guerrero deberá regirse por los principios de certeza, legalidad, independencia, imparcialidad y objetividad."
+    },
+    {
+      "id": "133.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › párrafo 2",
+      "texto": "(REFORMADO, P.O. No. EXTRAORDINARIO III, DE FECHA LUNES 30 DE JUNIO DE 2014)"
+    },
+    {
+      "id": "133.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › 1.",
+      "texto": "1. Se integrará con cinco Magistrados electos por las dos terceras partes de los miembros presentes de la Cámara de Senadores, previa convocatoria pública, en los términos que determine la ley."
+    },
+    {
+      "id": "133.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › 2.",
+      "texto": "2. Contará con el personal jurídico y administrativo necesario para el adecuado cumplimiento de sus funciones, de conformidad con lo dispuesto en su ley orgánica y su reglamento, así como con servidores públicos investidos de fe pública para actos de naturaleza electoral, cuyas atribuciones y funcionamiento serán reguladas por la ley; y, (REFORMADO, P.O. No. EXTRAORDINARIO III, DE FECHA LUNES 30 DE JUNIO DE 2014)"
+    },
+    {
+      "id": "133.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › 3.",
+      "texto": "3. El Tribunal Estatal Electoral actuará en forma Colegiada."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "124",
+  "etiqueta": "Artículo 124",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "124.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 124 › párrafo 1",
+      "texto": "La función de garantizar el ejercicio del derecho a votar y ser votado en las elecciones y demás instrumentos de participación ciudadana, y de promover la participación política de los ciudadanos a través del sufragio universal, libre, secreto y directo, se deposita en un órgano denominado Instituto Electoral y de Participación Ciudadana del Estado de Guerrero."
+    },
+    {
+      "id": "124.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 124 › 1.",
+      "texto": "1. El Instituto Electoral y de Participación Ciudadana del Estado de Guerrero ejercerá su función mediante la organización, desarrollo y vigilancia de elecciones periódicas, plebiscitos, referéndum y demás instrumentos de participación ciudadana; y,"
+    },
+    {
+      "id": "124.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 124 › 2.",
+      "texto": "2. En el ejercicio de sus funciones, el Instituto Electoral y de Participación Ciudadana del Estado de Guerrero, deberá contribuir al desarrollo de la vida democrática, a la inclusión de eficacia de la paridad en los cargos electivos de representación popular, al fortalecimiento del régimen de partidos políticos y candidaturas independientes, al aseguramiento de la transparencia y equidad de los procesos electorales, a la garantía de la autenticidad y efectividad del sufragio, a la promoción y difusión de la educación cívica y la cultura democrática y, al fomento de la participación ciudadana en los asuntos públicos."
+    }
+  ]
+}

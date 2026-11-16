@@ -1,0 +1,54 @@
+{
+  "clave": "045",
+  "etiqueta": "Artículo 45",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "045.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45 › párrafo 1",
+      "texto": "(REFORMADO P.O. EDICIÓN 51 ALCANCE I, VIERNES 27 DE JUNIO DE 2025) DECRETO 828"
+    },
+    {
+      "id": "045.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45 › párrafo 2",
+      "texto": "El Congreso del Estado se integra por 28 Diputadas o Diputados de mayoría relativa y 18 Diputadas o Diputados de representación proporcional, en los términos que señale la ley respectiva, los cuales gozarán del mismo estatus jurídico sin diferencia alguna en el ejercicio de la función representativa y deliberativa."
+    },
+    {
+      "id": "045.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45 › párrafo 3",
+      "texto": "Una Diputada o Diputado por el principio de representación proporcional tendrá el carácter de migrante o binacional, que será electo conforme lo determine la ley electoral del Estado. Se entenderá por Diputada o Diputado migrante al representante popular que satisfaga las exigencias previstas en la Constitución Política de los Estados Unidos Mexicanos y su ley reglamentaria en materia de nacionalidad y ciudadanía."
+    },
+    {
+      "id": "045.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45 › párrafo 4",
+      "texto": "Por cada Diputada o Diputado propietario se elegirá un suplente, del mismo género, mediante sufragio universal, libre, directo y secreto."
+    },
+    {
+      "id": "045.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45 › párrafo 5",
+      "texto": "Las Diputadas y los Diputados al Congreso del Estado podrán ser electos de manera consecutiva hasta por cuatro periodos. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado."
+    }
+  ]
+}

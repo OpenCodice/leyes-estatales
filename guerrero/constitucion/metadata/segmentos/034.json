@@ -1,0 +1,54 @@
+{
+  "clave": "034",
+  "etiqueta": "Artículo 34",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "034.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › párrafo 1",
+      "texto": "Son fines esenciales de los partidos políticos:"
+    },
+    {
+      "id": "034.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › 1.",
+      "texto": "1. Promover la participación del pueblo en la vida democrática;"
+    },
+    {
+      "id": "034.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › 2.",
+      "texto": "2. Contribuir a la integración de los órganos de representación política estatal;"
+    },
+    {
+      "id": "034.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › 3.",
+      "texto": "3. Como organizaciones de ciudadanos, coadyuvar en el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan, mediante el sufragio universal, libre, secreto y directo; y,"
+    },
+    {
+      "id": "034.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › 4.",
+      "texto": "4. Garantizar la paridad entre los géneros, en candidaturas a legisladores del Congreso del Estado y la integración de los Ayuntamientos."
+    }
+  ]
+}

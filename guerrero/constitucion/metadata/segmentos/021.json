@@ -1,0 +1,54 @@
+{
+  "clave": "021",
+  "etiqueta": "Artículo 21",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "021.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 1",
+      "texto": "Los derechos de los ciudadanos del Estado se suspenden:"
+    },
+    {
+      "id": "021.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción I",
+      "texto": "I. Por incapacidad jurídica;"
+    },
+    {
+      "id": "021.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción II",
+      "texto": "II. Por sentencia ejecutoriada que imponga como pena la suspensión;"
+    },
+    {
+      "id": "021.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción III",
+      "texto": "III. Por negarse a desempeñar sin causa justificada el cargo de elección popular para el que fue electo; y,"
+    },
+    {
+      "id": "021.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción IV",
+      "texto": "IV. En el caso de las fracciones I a IV del artículo 19.1, por estar sujetos a pena de prisión por sentencia firme, desde el momento en que ésta surta sus efectos y hasta su extinción.\n\nLa ciudadanía guerrerense se recobra por haber cesado la causa que dio motivo a la suspensión."
+    }
+  ]
+}

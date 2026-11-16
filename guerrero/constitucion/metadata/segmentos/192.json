@@ -1,0 +1,36 @@
+{
+  "clave": "192",
+  "etiqueta": "Artículo 192",
+  "titulo": "TÍTULO DÉCIMO TERCERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "192.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 192 › párrafo 1",
+      "texto": "Para garantizar un servicio público profesional, confiable y especializado, las instituciones del Estado impulsarán el servicio civil de carrera y atenderán a la naturaleza de la función desarrollada."
+    },
+    {
+      "id": "192.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 192 › 1.",
+      "texto": "1. El servicio civil de carrera se regirá por los principios de mérito, capacidad, ética, profesionalismo, especialización, eficiencia y productividad; y,"
+    },
+    {
+      "id": "192.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 192 › 2.",
+      "texto": "2. La ley establecerá las bases para la creación, implementación, gestión y supervisión del servicio civil de carrera, el ingreso, permanencia y promoción."
+    }
+  ]
+}

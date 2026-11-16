@@ -1,0 +1,63 @@
+{
+  "clave": "174",
+  "etiqueta": "Artículo 174",
+  "titulo": "TÍTULO DÉCIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "174.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 174 › párrafo 1",
+      "texto": "La elección de los miembros del Ayuntamiento será mediante sufragio universal, libre, secreto y directo, en los términos que disponga la ley electoral respectiva."
+    },
+    {
+      "id": "174.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 174 › 1.",
+      "texto": "1. La jornada electoral para la elección de miembros del ayuntamiento se llevará a cabo el primer domingo de junio del año que corresponda;"
+    },
+    {
+      "id": "174.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 174 › 2.",
+      "texto": "2. En la jornada electoral se elegirá un Presidente Municipal y los Síndicos y Regidores que poblacionalmente se establezca en la ley de la materia;"
+    },
+    {
+      "id": "174.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 174 › 3.",
+      "texto": "3. Los Regidores serán electos mediante el principio de representación proporcional;"
+    },
+    {
+      "id": "174.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 174 › 4.",
+      "texto": "4. En ningún caso un Ayuntamiento se integrará con menos de seis regidores; y,"
+    },
+    {
+      "id": "174.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 174 › 5.",
+      "texto": "5. Cada candidatura se integrará con un propietario y un suplente del mismo género."
+    }
+  ]
+}

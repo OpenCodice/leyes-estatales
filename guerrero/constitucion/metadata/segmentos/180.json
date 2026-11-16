@@ -1,0 +1,81 @@
+{
+  "clave": "180",
+  "etiqueta": "Artículo 180",
+  "titulo": "TÍTULO DÉCIMO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "180.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 180 › párrafo 1",
+      "texto": "La hacienda pública del Estado se integra con:"
+    },
+    {
+      "id": "180.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 180 › Fracción I",
+      "texto": "I. Los bienes muebles e inmuebles públicos que le pertenezcan y los rendimientos de éstos;"
+    },
+    {
+      "id": "180.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 180 › Fracción II",
+      "texto": "II. Las contribuciones, derechos, aprovechamientos, productos u otros ingresos, cualquiera que sea su denominación, que determinen las leyes correspondientes;"
+    },
+    {
+      "id": "180.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 180 › Fracción III",
+      "texto": "III. Las participaciones y aportaciones federales;"
+    },
+    {
+      "id": "180.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 180 › Fracción IV",
+      "texto": "IV. Las herencias, legados, donaciones y bienes vacantes que estén dentro de su territorio;"
+    },
+    {
+      "id": "180.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 180 › Fracción V",
+      "texto": "V. Los créditos que tenga a su favor;"
+    },
+    {
+      "id": "180.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 180 › Fracción VI",
+      "texto": "VI. Las rentas que deba percibir; y,"
+    },
+    {
+      "id": "180.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 180 › Fracción VII",
+      "texto": "VII. Los demás ingresos que determinen las leyes fiscales o que se generen en su favor por cualquier causa legal."
+    }
+  ]
+}

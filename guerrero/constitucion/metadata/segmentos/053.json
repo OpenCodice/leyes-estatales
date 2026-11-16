@@ -1,0 +1,27 @@
+{
+  "clave": "053",
+  "etiqueta": "Artículo 53",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "053.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › párrafo 1",
+      "texto": "(REFORMADO, P.O. EDICIÓN 51 ALCANCE I, VIERNES 27 DE JUNIO DE 2025) DECRETO 828"
+    },
+    {
+      "id": "053.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › párrafo 2",
+      "texto": "Las Diputadas y los Diputados no podrán ser perseguidos o reconvenidos por las opiniones que manifiesten en el desempeño de su cargo ni por el sentido de sus votos."
+    }
+  ]
+}

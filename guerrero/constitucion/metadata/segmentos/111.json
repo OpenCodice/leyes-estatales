@@ -1,0 +1,117 @@
+{
+  "clave": "111",
+  "etiqueta": "Artículo 111",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "111.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 1",
+      "texto": "(REFORMADO, P.O. EDICIÓN No. 32 ALCANCE IV, MARTES 21 DE ABRIL DE 2026)"
+    },
+    {
+      "id": "111.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 2",
+      "texto": "Para ser presidenta o presidente de la Comisión de los Derechos Humanos o titular de la Fiscalía General del Estado de Guerrero, se requiere:"
+    },
+    {
+      "id": "111.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 3",
+      "texto": "(REFORMADA P.O. EDICIÓN No. 42 ALCANCE III, DE FECHA MARTES 27 DE MAYO DE 2025)"
+    },
+    {
+      "id": "111.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › Fracción I",
+      "texto": "I. Ser ciudadano mexicano, preferentemente guerrerense, en ejercicio de sus derechos civiles y políticos;"
+    },
+    {
+      "id": "111.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › Fracción II",
+      "texto": "II. Tener cuando menos treinta años cumplidos al día de la designación;"
+    },
+    {
+      "id": "111.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › Fracción III",
+      "texto": "III. Gozar de buena reputación, no haber sido condenado por delito que amerite pena corporal, ni estar inhabilitado para el desempeño de cargos públicos;"
+    },
+    {
+      "id": "111.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › Fracción IV",
+      "texto": "IV. Haber residido en el Estado durante cinco años anteriores al día de su nombramiento;"
+    },
+    {
+      "id": "111.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › Fracción V",
+      "texto": "V. Contar con conocimientos especializados y con experiencia debidamente comprobados en el ámbito de su competencia;"
+    },
+    {
+      "id": "111.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › Fracción VI",
+      "texto": "VI. Poseer al día de su nombramiento, título y cédula profesional de licenciado en áreas afines a las de su competencia, expedidas por autoridad o institución legalmente facultada para ello;"
+    },
+    {
+      "id": "111.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › Fracción VII",
+      "texto": "VII. No ser ministro de ningún culto religioso;"
+    },
+    {
+      "id": "111.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › Fracción VIII",
+      "texto": "VIII. No haber sido titular de ninguna dependencia, entidad u organismo de la administración pública estatal o municipal, o representante popular federal o estatal, durante dos años previos a su designación; y,"
+    },
+    {
+      "id": "111.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › Fracción IX",
+      "texto": "IX. No haber sido dirigente de algún partido político ni postulado para cargo de elección popular dentro de los tres años anteriores a su designación.\n\n(ADICIONADO SEGUNDO PÁRRAFO P.O. EDICIÓN No. 42 ALCANCE III, 27 DE MAYO DE 2025) Además de los requisitos anteriores, los aspirantes al cargo de Fiscal General del Estado, deberán acreditar plenamente tener conocimientos en el campo del Derecho penal y experiencia en el ejercicio profesional de esa rama, por lo menos cinco años previos a la emisión de la convocatoria."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "149",
+  "etiqueta": "Artículo 149",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "149.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 149 › párrafo 1",
+      "texto": "Los integrantes de los Órganos con Autonomía Técnica serán nombrados en los términos dispuestos en esta Constitución y en las leyes, las cuales determinarán los mecanismos para verificar y constatar sus conocimientos, experiencia e idoneidad para el cargo."
+    },
+    {
+      "id": "149.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 149 › párrafo 2",
+      "texto": "Es aplicable a los integrantes de los Órganos con Autonomía Técnica lo dispuesto en los artículos 112 numerales 3 y 4, 114 y 115 de esta Constitución."
+    }
+  ]
+}

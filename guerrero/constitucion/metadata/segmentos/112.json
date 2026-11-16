@@ -1,0 +1,63 @@
+{
+  "clave": "112",
+  "etiqueta": "Artículo 112",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "112.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › párrafo 1",
+      "texto": "Los integrantes de los Órganos Autónomos, serán nombrados por el voto de las dos terceras partes del total de los Diputados integrantes del Congreso del Estado, excepto en los casos: del Instituto Electoral y de Participación Ciudadana del Estado cuyos nombramientos es competencia del Instituto Nacional Electoral conforme a lo dispuesto en el artículo 116, fracción IV, inciso c), numeral 2 de la Constitución Política de los Estados Unidos Mexicanos y lo prescrito en el artículo 126 de la presente Constitución."
+    },
+    {
+      "id": "112.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › párrafo 2",
+      "texto": "Tratándose de los Magistrados del Tribunal Electoral del Estado de Guerrero corresponde al Senado de la República su nombramiento, con plena observancia a lo previsto en el artículo 116, fracción IV, inciso c), numeral 5 de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "112.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › 1.",
+      "texto": "1. Las propuestas para elegir a los integrantes de los Órganos Autónomos serán hechas por las instituciones que sean convocadas, o bien de entre las personas que acudan a las convocatorias expedidas por el Congreso del Estado;"
+    },
+    {
+      "id": "112.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › 2.",
+      "texto": "2. Las leyes respectivas determinarán los mecanismos para acreditar los conocimientos, experiencia e idoneidad de los candidatos a ocupar un cargo en un Órgano Autónomo, así como los procedimientos de nombramiento de acuerdo con la naturaleza de cada órgano;"
+    },
+    {
+      "id": "112.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › 3.",
+      "texto": "3. Los procedimientos de nombramiento de los integrantes de los Órganos Autónomos deberán respetar los principios de transparencia, máxima publicidad, pluralismo, equilibrio geográfico, generacional y étnico, acceso a los cargos en condiciones de igualdad e idoneidad de los aspirantes y el principio de paridad de género; y,"
+    },
+    {
+      "id": "112.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › 4.",
+      "texto": "4. Los nombramientos deberán recaer, preferentemente, en aquellas personas que presten sus servicios al Estado de Guerrero, que en el ejercicio de su función se hayan caracterizado por su eficiencia, probidad, honorabilidad, especialización y profesionalismo."
+    }
+  ]
+}

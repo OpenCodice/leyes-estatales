@@ -1,0 +1,81 @@
+{
+  "clave": "185",
+  "etiqueta": "Artículo 185",
+  "titulo": "TÍTULO DÉCIMO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "185.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 185 › párrafo 1",
+      "texto": "Los Ayuntamientos administrarán su hacienda conforme a la ley."
+    },
+    {
+      "id": "185.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 185 › 1.",
+      "texto": "1. La hacienda municipal se integra con:"
+    },
+    {
+      "id": "185.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 185 › Fracción I",
+      "texto": "I. Los bienes muebles e inmuebles públicos que les pertenezcan y los rendimientos de estos;"
+    },
+    {
+      "id": "185.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 185 › Fracción II",
+      "texto": "II. Las contribuciones, participaciones, derechos, productos, aprovechamientos u otros ingresos, cualesquiera que sea su denominación, que el Congreso del Estado establezca en su favor;"
+    },
+    {
+      "id": "185.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 185 › Fracción III",
+      "texto": "III. Las aportaciones y participaciones federales conforme lo establezca la Ley de Coordinación Fiscal;"
+    },
+    {
+      "id": "185.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 185 › Fracción IV",
+      "texto": "IV. Los ingresos derivados de la prestación de servicios públicos a su cargo; y,"
+    },
+    {
+      "id": "185.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 185 › Fracción V",
+      "texto": "V. Las contribuciones y tasas adicionales que se establezcan en el Estado sobre la propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan como base el cambio de valor de los inmuebles."
+    },
+    {
+      "id": "185.V.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 185 › Fracción V › 2.",
+      "texto": "2. Los miembros del Ayuntamiento y el Secretario de Finanzas o el tesorero municipal, serán responsables solidarios de los actos y hechos ilícitos que se cometan en la administración de los fondos municipales a su cargo."
+    }
+  ]
+}
