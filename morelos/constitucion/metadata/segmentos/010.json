@@ -1,0 +1,36 @@
+{
+  "clave": "010",
+  "etiqueta": "Artículo 10",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "010.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 1",
+      "texto": "Son morelenses por nacimiento:"
+    },
+    {
+      "id": "010.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción I",
+      "texto": "I.- Los nacidos dentro del territorio del Estado;"
+    },
+    {
+      "id": "010.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción II",
+      "texto": "II.- Los mexicanos nacidos fuera del territorio estatal, hijos de padre o madre morelenses."
+    }
+  ]
+}

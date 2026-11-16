@@ -1,0 +1,90 @@
+{
+  "clave": "026",
+  "etiqueta": "Artículo 26",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "026.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › párrafo 1",
+      "texto": "No pueden ser integrantes del Poder Legislativo:"
+    },
+    {
+      "id": "026.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › Fracción I",
+      "texto": "I.- La Persona Titular del Poder Ejecutivo, ya sea con carácter de interina, sustituta o provisional, no podrá ser electa para el período inmediato de su encargo, aun cuando se separe definitivamente de su puesto;"
+    },
+    {
+      "id": "026.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › Fracción II",
+      "texto": "II.- Las personas Titulares de las Magistraturas, y de las Secretarías del Tribunal Electoral del Estado de Morelos, salvo que se separen del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;"
+    },
+    {
+      "id": "026.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › Fracción III",
+      "texto": "III.- Las personas Titulares de las Secretarías o Subsecretarías de Despacho, la persona Titular de la Fiscalía General del Estado de Morelos, las personas Titulares de las Fiscalías y Fiscalías Especializadas, las personas Titulares de las Magistraturas del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa, del Tribunal de Disciplina Judicial y la persona Titular del Tribunal Unitario de Justicia Penal para Adolescentes, las personas Titulares de los Juzgados que integran el Poder Judicial, las personas integrantes del Órgano de Administración Judicial, las personas Agentes del Ministerio Público, las personas administradoras de rentas Estatales o Municipales, las personas Delegadas o equivalentes de la Federación, las personas que formen parte del Ejército en servicio activo y las personas con rango de Jefatura o Mandos Superiores de Policía de Seguridad Pública Estatal o Municipal y las personas Titulares de las Presidencias Municipales, así como las personas que ocupen un cargo de dirección en los gobiernos federal, estatal y municipal o ejerzan bajo cualquier circunstancia las mismas funciones, las personas titulares de los organismos públicos autónomos, salvo que se separen del cargo noventa días antes del día de la fecha de la elección. Las personas integrantes del Poder Legislativo que pretendan ser reelectos podrán optar por no separarse de su cargo, en términos de la normativa aplicable;"
+    },
+    {
+      "id": "026.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › Fracción IV",
+      "texto": "IV.- DEROGADA."
+    },
+    {
+      "id": "026.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › Fracción V",
+      "texto": "V.- Quienes pertenezcan al Servicio Profesional Electoral, salvo que se separen del cargo tres años antes de la fecha de inicio del proceso electoral de que se trate;"
+    },
+    {
+      "id": "026.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › Fracción VI",
+      "texto": "VI.- Los Diputados Locales que pretendan su reelección y hayan sido postulados por un Partido Político o Coalición distintos al que los postuló, así como los que habiendo sido candidatos independientes sean propuestos por un Partido o Coalición, en términos de lo dispuesto por el artículo 24 de esta Constitución."
+    },
+    {
+      "id": "026.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › Fracción VII",
+      "texto": "VII.- Los que hayan tomado parte directa o indirectamente en alguna asonada, motín o cuartelazo; y"
+    },
+    {
+      "id": "026.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › Fracción VIII",
+      "texto": "VIII.- Los ministros de cualquier culto, salvo que hubieren dejado de serlo con la anticipación y en la forma que establezca la Ley Reglamentaria del Artículo 130 de la Constitución Federal."
+    }
+  ]
+}

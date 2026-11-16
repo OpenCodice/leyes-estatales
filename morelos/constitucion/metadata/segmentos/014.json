@@ -1,0 +1,45 @@
+{
+  "clave": "014",
+  "etiqueta": "Artículo 14",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "014.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › párrafo 1",
+      "texto": "- Son derechos de la ciudadanía morelense:"
+    },
+    {
+      "id": "014.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Fracción I",
+      "texto": "I.- Votar, ser votada y participar activamente en los procesos electorales en condiciones de paridad y de participación ciudadana que correspondan, previstos en esta Constitución y la normativa aplicable.\n\nLa ciudadanía morelense radicada en el extranjero solo podrá participar en las elecciones para Gobernador del Estado, en los términos que señala la ley;"
+    },
+    {
+      "id": "014.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Fracción II",
+      "texto": "II.- Participar del derecho de iniciar leyes, de conformidad con lo que establecen esta Constitución y la ley de la materia; y"
+    },
+    {
+      "id": "014.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Fracción III",
+      "texto": "III.- Solicitar su registro como candidato independiente en las elecciones locales a los diferentes puestos de representación popular, bajo las normas que establezca la normatividad aplicable y los demás establecidos en el artículo 35 de la Constitución Política de los Estados Unidos Mexicanos y en la presente Constitución."
+    }
+  ]
+}

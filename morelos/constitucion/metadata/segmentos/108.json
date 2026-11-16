@@ -1,0 +1,36 @@
+{
+  "clave": "108",
+  "etiqueta": "Artículo 108",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "108.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › párrafo 1",
+      "texto": "La Autoridad Electoral Jurisdiccional se compondrá de tres Magistraturas, que integrarán el Tribunal Electoral del Estado de Morelos; actuarán en forma colegiada y permanecerán en su encargo durante siete años."
+    },
+    {
+      "id": "108.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › párrafo 2",
+      "texto": "Este Órgano Jurisdiccional no estará adscrito al Poder Judicial del Estado de Morelos."
+    },
+    {
+      "id": "108.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › párrafo 3",
+      "texto": "Las personas titulares de las Magistraturas Electorales serán designadas en términos de lo dispuesto por la normativa aplicable y serán las responsables de resolver los medios de impugnación interpuestos en contra de todos los actos y resoluciones electorales locales, incluyendo los relativos a los procesos de elección del Poder Judicial del Estado de Morelos."
+    }
+  ]
+}

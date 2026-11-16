@@ -1,0 +1,171 @@
+{
+  "clave": "099",
+  "etiqueta": "Artículo 99",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "099.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 1",
+      "texto": "Corresponde al Tribunal Superior:"
+    },
+    {
+      "id": "099.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción I",
+      "texto": "I.- Iniciar ante el Congreso del Estado las Leyes y decretos que tiendan a mejorar la organización de los Tribunales del mismo, la legislación civil y penal y los procedimientos judiciales;"
+    },
+    {
+      "id": "099.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción II",
+      "texto": "II.- Derogada;"
+    },
+    {
+      "id": "099.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción III",
+      "texto": "III.- Aprobar su reglamento interior;"
+    },
+    {
+      "id": "099.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción IV",
+      "texto": "IV.- Conocer de las causas por delitos oficiales y comunes y del juicio político de los miembros del Ayuntamiento;"
+    },
+    {
+      "id": "099.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción V",
+      "texto": "V.- Decidir las competencias que se susciten entre los Jueces de Primera Instancia y entre éstos y los de inferior categoría;"
+    },
+    {
+      "id": "099.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción VI",
+      "texto": "VI.- Decidir las controversias que ocurran sobre pactos o negociaciones que celebre el Ejecutivo por sí o por medio de sus agentes, con individuos o corporaciones civiles del Estado, y de los demás negocios de hacienda, siempre que el Gobierno fuere demandado. Si fuere actor, seguirá el fuero del reo;"
+    },
+    {
+      "id": "099.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción VII",
+      "texto": "VII.- Conocer de la segunda instancia en los negocios que la tengan para ante él conforme a las Leyes;"
+    },
+    {
+      "id": "099.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción VIII",
+      "texto": "VIII.- Consultar al Congreso las dudas de Ley que ocurran al mismo Tribunal Superior y a los Jueces inferiores, si estimare que éstas son fundadas;"
+    },
+    {
+      "id": "099.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción IX",
+      "texto": "IX.- Derogada;"
+    },
+    {
+      "id": "099.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción X",
+      "texto": "X.- Derogada;"
+    },
+    {
+      "id": "099.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción XI",
+      "texto": "XI.- Conceder licencias a los Magistrados del Tribunal Superior que no excedan de treinta días, llamando al suplente respectivo;"
+    },
+    {
+      "id": "099.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción XII",
+      "texto": "XII.- Dirimir las controversias que se susciten entre los Poderes Legislativo y Ejecutivo, por Leyes o actos de aquél que este último considere contrarias a la Constitución del Estado;"
+    },
+    {
+      "id": "099.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción XIII",
+      "texto": "XIII.- DEROGADA;"
+    },
+    {
+      "id": "099.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción XIV",
+      "texto": "XIV.- Derogada;"
+    },
+    {
+      "id": "099.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción XV",
+      "texto": "XV.- Derogada;"
+    },
+    {
+      "id": "099.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción XVI",
+      "texto": "XVI.- Designar a uno o más de sus miembros, a petición del Ejecutivo del Estado, a petición de un Presidente Municipal o de oficio, para que investigue la actuación de algún Magistrado, en relación con algún hecho o hechos que constituyan violación de una garantía individual;"
+    },
+    {
+      "id": "099.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › Fracción XVII",
+      "texto": "XVII.- Ejercer las demás atribuciones que le señalen las Leyes."
+    }
+  ]
+}

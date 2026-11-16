@@ -1,0 +1,81 @@
+{
+  "clave": "117",
+  "etiqueta": "Artículo 117",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPITULO VII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "117.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › párrafo 1",
+      "texto": "Los requisitos de elegibilidad para ser Presidente Municipal, Síndico o miembro de un Ayuntamiento o Ayudante Municipal son:"
+    },
+    {
+      "id": "117.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › Fracción I",
+      "texto": "I.- Ser morelense por nacimiento o con residencia efectiva de tres años anteriores a la fecha de la elección, en pleno goce de sus derechos como ciudadano del estado; con excepción del Presidente Municipal y Síndico, los cuales deberá tener una residencia efectiva mínima de siete años;"
+    },
+    {
+      "id": "117.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › Fracción II",
+      "texto": "II.- Tener veintiún años cumplidos; excepto para los cargos de Presidente Municipal y Síndico, en los cuales la edad mínima será de veinticinco años cumplidos al día de la elección;"
+    },
+    {
+      "id": "117.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › Fracción III",
+      "texto": "III.- Saber leer y escribir;"
+    },
+    {
+      "id": "117.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › Fracción IV",
+      "texto": "IV.- No ser ministro de algún culto, salvo que hubiere dejado de serlo con la anticipación y en la forma que establezca la ley reglamentaria del Artículo 130 de la Constitución Federal;"
+    },
+    {
+      "id": "117.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › Fracción V",
+      "texto": "V.- No ser Consejero Presidente o Consejero Electoral del Instituto Morelense de Procesos Electorales y Participación Ciudadana, ni Magistrado del Tribunal Electoral del Estado de Morelos, así como formar parte del personal directivo del Organismo Público Electoral de Morelos, aún si se separan de sus funciones, conforme a lo dispuesto en el Artículo 23 de la presente Constitución;"
+    },
+    {
+      "id": "117.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › Fracción VI",
+      "texto": "VI.- Tampoco podrán ser, los que tuvieren mando de fuerza pública, si no se separan de su cargo o puesto noventa días antes del día de la elección, excepto los miembros de un Ayuntamiento que pretendan ser reelectos, y"
+    },
+    {
+      "id": "117.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › Fracción VII",
+      "texto": "VII.- Derogada."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "038",
+  "etiqueta": "Artículo 38",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "038.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › párrafo 1",
+      "texto": "Las resoluciones del Congreso tendrán el carácter de leyes, decretos o acuerdos económicos. Las leyes y decretos se remitirán al Ejecutivo firmados por el Presidente y los Secretarios, y los acuerdos económicos sólo por los Secretarios."
+    },
+    {
+      "id": "038.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › párrafo 2",
+      "texto": "El Congreso expedirá la Ley que en lo sucesivo regulará su estructura y funcionamiento interno, la cual no podrá ser vetada ni requerirá promulgación expresa del Ejecutivo estatal para tener vigencia."
+    }
+  ]
+}

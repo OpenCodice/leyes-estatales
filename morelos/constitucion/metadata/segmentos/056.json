@@ -1,0 +1,171 @@
+{
+  "clave": "056",
+  "etiqueta": "Artículo 56",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "056.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › párrafo 1",
+      "texto": "Son atribuciones de la Diputación Permanente:"
+    },
+    {
+      "id": "056.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción I",
+      "texto": "I.- Vigilar sobre la observancia de la Constitución y de las Leyes y dar cuenta al Congreso en su próxima reunión ordinaria de las infracciones que notare;"
+    },
+    {
+      "id": "056.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción II",
+      "texto": "II.- Tramitar todos los asuntos que quedaren pendientes al cerrarse las sesiones del Congreso y los que se reciban durante el receso, hasta dejarlos en estado de resolución;"
+    },
+    {
+      "id": "056.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción III",
+      "texto": "III.- Conceder licencia al Gobernador para separarse de sus funciones o salir del territorio del Estado, por un término mayor de treinta días, pero que no exceda de dos meses;"
+    },
+    {
+      "id": "056.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción IV",
+      "texto": "IV.- Derogada"
+    },
+    {
+      "id": "056.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción V",
+      "texto": "V.- Convocar al Congreso a sesiones extraordinarias en los casos siguientes:"
+    },
+    {
+      "id": "056.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Apartado A",
+      "texto": "A) Cuando a su juicio lo exija el interés público;"
+    },
+    {
+      "id": "056.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Apartado B",
+      "texto": "B) Cuando sea necesario para el cumplimiento de alguna Ley general;"
+    },
+    {
+      "id": "056.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Apartado C",
+      "texto": "C) En los casos de falta absoluta del Gobernador, o cuando tenga que separarse de sus funciones por más de dos meses;"
+    },
+    {
+      "id": "056.D",
+      "tipo": "apartado",
+      "marca": "D",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Apartado D",
+      "texto": "D) Cuando alguno de los funcionarios a que se refiere el artículo 40 fracción XLI, hubiere cometido un delito grave; entendiéndose por tal el que sea castigado con la pena de prisión o la destitución del cargo;"
+    },
+    {
+      "id": "056.E",
+      "tipo": "apartado",
+      "marca": "E",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Apartado E",
+      "texto": "E).- Cuando lo pida el Ejecutivo del Estado con causa justificada a satisfacción de la mayoría de los integrantes de la Diputación Permanente;"
+    },
+    {
+      "id": "056.F",
+      "tipo": "apartado",
+      "marca": "F",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Apartado F",
+      "texto": "F) Derogado"
+    },
+    {
+      "id": "056.F.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Apartado F › Fracción VI",
+      "texto": "VI.- Remitir al Ejecutivo el Decreto de convocatoria a sesiones extraordinarias, suscrito por el Presidente y Secretario, y publicarlo, si aquél no lo hiciere dentro del término de seis días;"
+    },
+    {
+      "id": "056.F.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Apartado F › Fracción VII",
+      "texto": "VII.- Conceder licencia a alguno o algunos de sus miembros para separarse de su encargo, procurando que no falte el \"quórum\" legal, y llamar a los suplentes respectivos;"
+    },
+    {
+      "id": "056.F.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Apartado F › Fracción VIII",
+      "texto": "VIII.- Derogada;"
+    },
+    {
+      "id": "056.F.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Apartado F › Fracción IX",
+      "texto": "IX.- Ejercer durante los recesos del Congreso las facultades a que se refieren las fracciones XXX, XXXII, XXXIII y LV del artículo 40 de esta Constitución, y"
+    },
+    {
+      "id": "056.F.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Apartado F › Fracción X",
+      "texto": "X.- Realizar el cómputo y emitir la Declaratoria correspondiente en términos de lo que disponen los artículo 147 y 148, de esta Constitución; y"
+    },
+    {
+      "id": "056.F.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Apartado F › Fracción XI",
+      "texto": "XI.- Las demás que le confiere expresamente esta misma Constitución."
+    }
+  ]
+}

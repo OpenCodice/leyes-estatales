@@ -1,0 +1,54 @@
+{
+  "clave": "025",
+  "etiqueta": "Artículo 25",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "025.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 1",
+      "texto": "Para ser Diputado propietario o suplente se requiere:"
+    },
+    {
+      "id": "025.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción I",
+      "texto": "I.- Ser morelense por nacimiento o con residencia efectiva de tres años anteriores a la fecha de la elección, en pleno goce de sus derechos como ciudadano del estado."
+    },
+    {
+      "id": "025.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción II",
+      "texto": "II.- Tener una residencia efectiva por más de un año anterior a la elección del Distrito que represente, salvo que en un Municipio exista más de un Distrito Electoral, caso en el cual los candidatos deberán acreditar dicha residencia en cualquier parte del Municipio de que se trate;"
+    },
+    {
+      "id": "025.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción III",
+      "texto": "III.- Ser ciudadano del Estado en ejercicio de sus derechos y estar inscrito en el Registro Federal de Electores, contando con credencial para votar actualizada; y"
+    },
+    {
+      "id": "025.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción IV",
+      "texto": "IV.- Haber cumplido 21 años de edad.\n\nPara poder figurar en las listas de las circunscripciones electorales plurinominales como candidato a diputado, se requiere además de los requisitos comprendidos en las fracciones I, III y IV, tener una residencia efectiva dentro del Estado por más de un año anterior a la fecha de la elección.\n\nLa vecindad no se pierde por ausencia en el desempeño de los cargos públicos de elección popular."
+    }
+  ]
+}

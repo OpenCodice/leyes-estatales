@@ -1,0 +1,90 @@
+{
+  "clave": "090",
+  "etiqueta": "Artículo 90",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "090.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › párrafo 1",
+      "texto": "Para ser electa como persona Titular de la Magistratura del Tribunal Superior de Justicia se requiere:"
+    },
+    {
+      "id": "090.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › Fracción I",
+      "texto": "I.- Tener ciudadanía mexicana por nacimiento, de preferencia morelense, y estar en pleno ejercicio de sus derechos políticos y civiles;"
+    },
+    {
+      "id": "090.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › Fracción II",
+      "texto": "II.- Contar al día de la publicación de la convocatoria señalada en la fracción I del artículo 87 BIS de esta Constitución con título de licenciatura en derecho expedido legalmente y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente, o de nueve puntos o equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado;"
+    },
+    {
+      "id": "090.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › Fracción III",
+      "texto": "III. Contar con práctica profesional de al menos tres años en un área jurídica afín a su candidatura o bien, carrera judicial o experiencia jurisdiccional;"
+    },
+    {
+      "id": "090.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › Fracción IV",
+      "texto": "IV.- Gozar de buena reputación y no haber sido condenado por delito doloso con sanción privativa de la libertad, ni tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; ni haber sido declarada como persona deudora alimentaria morosa;"
+    },
+    {
+      "id": "090.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › Fracción V",
+      "texto": "V.- Haber residido en el Estado durante los cinco años anteriores al día de la publicación de la convocatoria señalada en la fracción I del artículo 87 BIS de esta Constitución; o un año para el caso de las personas morelenses por nacimiento;"
+    },
+    {
+      "id": "090.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › Fracción VI",
+      "texto": "VI.- No haber ejercido el cargo de persona Titular de Magistratura en el Estado, a menos de que se trate de reelección y hayan sido elegidos mediante voto popular;"
+    },
+    {
+      "id": "090.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › Fracción VII",
+      "texto": "VII.- No podrán ser electas para ocupar la titularidad de las Magistraturas de los Tribunales del Poder Judicial, aquellas personas que cuenten o hayan solicitado haber de retiro, pensión por jubilación, o equivalentes, como persona Magistrada;"
+    },
+    {
+      "id": "090.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › Fracción VIII",
+      "texto": "VIII.- No podrán ser personas Titulares de las Magistraturas quienes hayan ocupado el cargo de persona Titular de las Dependencias y Secretarías de Despacho del Poder Ejecutivo, de la Fiscalía General del Estado, las personas Titulares de las Fiscalías y Fiscalías Especializadas o integrante del Poder Legislativo del Estado o de cualquier Ayuntamiento, durante el año previo al día de la publicación de la convocatoria respectiva emitida por el Congreso.\n\nLas Leyes secundarias deberán prever la prohibición del nepotismo así como la injerencia de los Partidos Políticos."
+    }
+  ]
+}

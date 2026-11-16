@@ -1,0 +1,27 @@
+{
+  "clave": "052",
+  "etiqueta": "Artículo 52",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "052.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › párrafo 1",
+      "texto": "El Ejecutivo del Estado no puede hacer observaciones a las resoluciones del Congreso, cuando éste ejerza funciones de jurado o cuando declare que debe acusarse a alguno de los servidores de la administración pública, por la comisión de un delito o en los juicios de responsabilidad política."
+    },
+    {
+      "id": "052.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › párrafo 2",
+      "texto": "Tampoco podrá hacerlas al decreto de convocatoria que expida la Diputación Permanente, en los casos del artículo 66 de esta Constitución."
+    }
+  ]
+}
