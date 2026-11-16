@@ -1,0 +1,72 @@
+{
+  "clave": "025",
+  "etiqueta": "Artículo 25º",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "025.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25º › párrafo 1",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "025.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25º › párrafo 2",
+      "texto": "Para la elección por representación proporcional mediante lista regional se observará lo dispuesto en el Código Electoral. Para solicitar el registro de su lista regional, los partidos políticos deberán acreditar que cuentan con registro y que participan con candidaturas a diputaciones por mayoría relativa en por lo menos la mitad de los distritos uninominales."
+    },
+    {
+      "id": "025.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25º › párrafo 3",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "025.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25º › párrafo 4",
+      "texto": "Todo partido político que alcance por lo menos el tres por ciento de la votación emitida en la circunscripción electoral plurinominal, tendrá derecho a participar en la asignación de diputaciones según el principio de representación proporcional y, en su caso a que le sean atribuidas diputaciones por dicho principio de conformidad con las reglas de asignación que determine el Código Electoral."
+    },
+    {
+      "id": "025.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25º › párrafo 5",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "025.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25º › párrafo 6",
+      "texto": "Ningún partido político o coalición podrá contar con más de dieciséis diputaciones por ambos principios, ni con un número de diputaciones que represente un porcentaje de integración total del Congreso que exceda en ocho puntos el porcentaje de su votación efectiva. Esta disposición no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de diputaciones del total del Congreso que rebase la suma de su porcentaje de votación más de ocho puntos."
+    },
+    {
+      "id": "025.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25º › párrafo 7",
+      "texto": "Asimismo, en la integración de la Legislatura, la representación de un partido político no podrá ser menor al porcentaje de votación que haya recibido, menos ocho puntos porcentuales."
+    }
+  ]
+}

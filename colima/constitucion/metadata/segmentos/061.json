@@ -1,0 +1,27 @@
+{
+  "clave": "061",
+  "etiqueta": "Artículo 61º",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "061.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61º › párrafo 1",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "061.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61º › párrafo 2",
+      "texto": "Las Secretarías tendrán igual rango, por lo que no habrá entre ellas preeminencia alguna. Al frente de cada Secretaría habrá una Secretaria o Secretario, que será nombrado y removido libremente por la Gobernadora o Gobernador del Estado y que, para el despacho de los asuntos de su competencia, se auxiliará de las unidades administrativas y de las demás personas servidoras públicas que requiera el desempeño de sus funciones."
+    }
+  ]
+}

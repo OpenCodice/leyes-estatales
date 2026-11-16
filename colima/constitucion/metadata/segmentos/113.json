@@ -1,0 +1,27 @@
+{
+  "clave": "113",
+  "etiqueta": "Artículo 113º",
+  "titulo": "TÍTULO DÉCIMO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "113.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 113º › párrafo 1",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "113.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 113º › párrafo 2",
+      "texto": "La persona Titular de la Secretaría competente en materia de finanzas del Estado y las Titulares de las tesorerías municipales, distribuirán los caudales públicos con estricto apego al presupuesto y serán responsables personal y pecuniariamente por los gastos que hagan u ordenen sin estar comprendidos o autorizados por una ley posterior."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "clave": "005",
+  "etiqueta": "Artículo 5º",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "005.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5º › Apartado A",
+      "texto": "A. La población tiene derecho a estar informada de manera continua y eficiente sobre las actividades que lleven a cabo las autoridades del Estado y de los municipios y, en general, sobre los acontecimientos de su entorno local y regional."
+    },
+    {
+      "id": "005.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 5º › Apartado A › párrafo 1",
+      "texto": "(REFORMADO, DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "005.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 5º › Apartado A › párrafo 2",
+      "texto": "Es derecho de las y los colimenses el acceso a la sociedad de la información y el conocimiento. La política de Estado respectiva deberá estar orientada al desarrollo y dirigirse a todos los sectores de la sociedad; tendrá el propósito de lograr una comunidad integrada y plenamente intercomunicada, a fin de que cada uno de sus integrantes viva en un entorno de igualdad de oportunidades, con respeto a su diversidad e identidad culturales."
+    },
+    {
+      "id": "005.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5º › Apartado B",
+      "texto": "B. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales y a la rectificación de éstos."
+    },
+    {
+      "id": "005.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 5º › Apartado B › párrafo 3",
+      "texto": "En la interpretación del derecho de acceso a la información deberá prevalecer el principio de máxima publicidad y su ejercicio se regirá por los siguientes principios y bases:"
+    },
+    {
+      "id": "005.B.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 5º › Apartado B › Fracción I",
+      "texto": "I. Toda la información en posesión de cualquier autoridad, entidad, órgano u organismo de los poderes Ejecutivo, Legislativo y Judicial del Estado, de los municipios, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato, que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito del Estado y los municipios, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad, en los términos que fijen las leyes;\n\n(REFORMADO, DECRETO NO. 153, P.O. 80, 16 AGOSTO 2025)"
+    },
+    {
+      "id": "005.B.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 5º › Apartado B › Fracción II",
+      "texto": "II. La información que se refiere a la vida privada y a los datos personales será protegida en los términos y con las excepciones que fijen las leyes. Para tal efecto, los sujetos obligados contarán con las facultades suficientes para su atención."
+    },
+    {
+      "id": "005.B.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 5º › Apartado B › Fracción III",
+      "texto": "III. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias y funciones; la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información.\n\nAsimismo, deberán preservar sus documentos en archivos administrativos actualizados, y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos.\n\nLas leyes determinarán la manera en que deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales.\n\n(REFORMADO, DECRETO NO. 153, P.O. 80, 16 AGOSTO 2025)\n\nLa ley establecerá mecanismos de acceso a la información pública y a los datos personales, así como procedimientos de revisión expeditos que se sustanciarán ante las autoridades garantes siguientes:\n\n(ADICIONADO, DECRETO NO. 153, P.O. 80, 16 AGOSTO 2025)"
+    },
+    {
+      "id": "005.B.III.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "B",
+      "fraccion": "III",
+      "ruta": "Artículo 5º › Apartado B › Fracción III › inciso a)",
+      "texto": "a) Del Poder Ejecutivo, por conducto de la Contraloría General del Estado, por sí o a través del ente que se determine en la ley respectiva, quien también conocerá de los asuntos en materia de transparencia de los municipios de la entidad y las dependencias y entidades de la administración pública paramunicipal;\n\n(ADICIONADO, DECRETO NO. 153, P.O. 80, 16 AGOSTO 2025)"
+    },
+    {
+      "id": "005.B.III.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "B",
+      "fraccion": "III",
+      "ruta": "Artículo 5º › Apartado B › Fracción III › inciso b)",
+      "texto": "b) Del Poder Judicial, a través del órgano de control y disciplina, por conducto del ente que determinen mediante la ley, reglamento o acuerdo correspondiente, quien conocerá de los asuntos en materia de transparencia de su competencia;\n\n(ADICIONADO, DECRETO NO. 153, P.O. 80, 16 AGOSTO 2025)"
+    },
+    {
+      "id": "005.B.III.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "B",
+      "fraccion": "III",
+      "ruta": "Artículo 5º › Apartado B › Fracción III › inciso c)",
+      "texto": "c) Del Poder Legislativo, a través de la contraloría interna, por sí o a través del ente que se determine en la ley o reglamento correspondiente, quien conocerá de los asuntos en materia de transparencia de su competencia, y\n\n(ADICIONADO, DECRETO NO. 153, P.O. 80, 16 AGOSTO 2025)"
+    },
+    {
+      "id": "005.B.III.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "B",
+      "fraccion": "III",
+      "ruta": "Artículo 5º › Apartado B › Fracción III › inciso d)",
+      "texto": "d) De cada uno de los órganos autónomos previstos en esta Constitución, a través de su órgano interno de control, por conducto del ente que determinen mediante la ley, reglamento o acuerdo correspondiente, quien conocerá de los asuntos en materia de transparencia de su competencia.\n\nLa inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes."
+    }
+  ]
+}

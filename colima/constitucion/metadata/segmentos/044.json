@@ -1,0 +1,27 @@
+{
+  "clave": "044",
+  "etiqueta": "Artículo 44º",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "044.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44º › párrafo 1",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "044.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44º › párrafo 2",
+      "texto": "La persona Titular del Poder Ejecutivo podrá nombrar un representante para que, sin voto, asista a las sesiones, con objeto de apoyar las observaciones que haga a las iniciativas de ley o de decreto y para sostener las que procedan de la titularidad del Ejecutivo, a cuyo efecto se le dará oportuno aviso del día de la discusión."
+    }
+  ]
+}

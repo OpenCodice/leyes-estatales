@@ -1,0 +1,18 @@
+{
+  "clave": "100",
+  "etiqueta": "Artículo 100º",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "100.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100º › párrafo 1",
+      "texto": "El Estado podrá expedir, reconocer, legalizar o autorizar que se expidan títulos profesionales, los que se otorgarán a las personas que cursen las carreras correspondientes en la Universidad de Colima, el Instituto de Educación Normal de Colima, y demás instituciones de educación superior."
+    }
+  ]
+}

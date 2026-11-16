@@ -1,0 +1,27 @@
+{
+  "clave": "048",
+  "etiqueta": "Artículo 48º",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "048.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48º › párrafo 1",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "048.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48º › párrafo 2",
+      "texto": "En caso de urgencia notoria, calificada por mayoría de votos de las y los diputados presentes, la Legislatura puede dispensar los trámites reglamentarios, sin que se omita en ningún caso el traslado al Ejecutivo."
+    }
+  ]
+}

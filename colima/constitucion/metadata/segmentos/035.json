@@ -1,0 +1,45 @@
+{
+  "clave": "035",
+  "etiqueta": "Artículo 35º",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "035.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º › párrafo 1",
+      "texto": "En materia hacendaria, corresponde al Congreso del Estado:"
+    },
+    {
+      "id": "035.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º › Fracción I",
+      "texto": "I. Decretar, en todo tiempo, las contribuciones que basten a cubrir los egresos de los gobiernos del Estado y de los municipios;"
+    },
+    {
+      "id": "035.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º › Fracción II",
+      "texto": "II. Aprobar anualmente la Ley de Ingresos y el Presupuesto de Egresos del Estado, a más tardar el 30 de noviembre, y hasta el 15 de diciembre de cada seis años para el caso del cambio de Ejecutivo del Estado.\n\nEl Congreso podrá autorizar erogaciones plurianuales para aquellos proyectos de inversión en infraestructura que se determinen conforme a lo dispuesto en la ley; las erogaciones correspondientes deberán incluirse en los subsecuentes presupuestos de egresos; y"
+    },
+    {
+      "id": "035.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º › Fracción III",
+      "texto": "III. Aprobar anualmente, a más tardar el 30 de noviembre y, en su caso, hasta el 15 de diciembre de cada tres años para el caso de cambio de gobierno municipal, las leyes de ingresos de los municipios para el año siguiente.\n\nSi en las fechas mencionadas no se han aprobado los ordenamientos referidos, quedarán en vigor, en forma provisional y sin modificaciones, los del año en curso, hasta en tanto sean aprobados los nuevos.\n\n(ADICIONADO DECRETO NO. 318, P.O. 51, SUPL. 11, 30 MAYO 2026)\n\nEl presupuesto anual del Congreso no excederá del cero punto setenta por ciento del Presupuesto de Egresos del Estado."
+    }
+  ]
+}

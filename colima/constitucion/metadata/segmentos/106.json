@@ -1,0 +1,54 @@
+{
+  "clave": "106",
+  "etiqueta": "Artículo 106º",
+  "titulo": "TÍTULO DÉCIMO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "106.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 106º › párrafo 1",
+      "texto": "La hacienda pública tiene por objeto atender los gastos del Estado y se formará por:"
+    },
+    {
+      "id": "106.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 106º › Fracción I",
+      "texto": "I. Los bienes públicos y privados propiedad del Estado;"
+    },
+    {
+      "id": "106.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 106º › Fracción II",
+      "texto": "II. Los ingresos previstos anualmente en la Ley de Ingresos del Estado y otras disposiciones legales;"
+    },
+    {
+      "id": "106.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 106º › Fracción III",
+      "texto": "III. El gasto público, que estará contenido en el Presupuesto de Egresos del Estado que se expida anualmente; y"
+    },
+    {
+      "id": "106.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 106º › Fracción IV",
+      "texto": "IV. Las obligaciones a cargo del Estado, derivadas de empréstitos, garantías, avales, contratos de asociación público-privada y demás actos jurídicos."
+    }
+  ]
+}

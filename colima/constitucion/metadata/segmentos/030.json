@@ -1,0 +1,45 @@
+{
+  "clave": "030",
+  "etiqueta": "Artículo 30º",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "030.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30º › párrafo 1",
+      "texto": "El Congreso se reunirá en dos periodos ordinarios de sesiones, en los que se ocupará de estudiar, discutir y votar las iniciativas de ley que se presenten, así como de resolver los demás asuntos de su competencia."
+    },
+    {
+      "id": "030.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30º › párrafo 2",
+      "texto": "El primer periodo iniciará el primero de octubre y concluirá el último día de febrero del año siguiente; el segundo dará inicio el primero de abril y concluirá el treinta y uno de agosto del mismo año. La apertura y la clausura de los periodos de sesiones se harán por decreto."
+    },
+    {
+      "id": "030.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30º › párrafo 3",
+      "texto": "No podrá el Congreso abrir sus sesiones sin la concurrencia de la mayoría de sus miembros. Las sesiones serán públicas, y por excepción secretas cuando, por la calidad de los asuntos que deban tratarse, así lo prevea la reglamentación respectiva."
+    },
+    {
+      "id": "030.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30º › párrafo 4",
+      "texto": "Fuera de los periodos que señala el párrafo segundo, el Congreso celebrará sesiones o periodos extraordinarios sólo cuando sea convocado al efecto por la Comisión Permanente, debiendo ocuparse en ellos únicamente de los asuntos materia de la convocatoria."
+    }
+  ]
+}

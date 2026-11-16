@@ -1,0 +1,27 @@
+{
+  "clave": "050",
+  "etiqueta": "Artículo 50º",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "050.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › párrafo 1",
+      "texto": "(REFORMADO DECRETO 113, P.O. 57, 03 AGOSTO 2019)"
+    },
+    {
+      "id": "050.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50º › párrafo 2",
+      "texto": "El ejercicio del Poder Ejecutivo se deposita en una persona que se denomina Gobernadora o Gobernador del Estado de Colima."
+    }
+  ]
+}

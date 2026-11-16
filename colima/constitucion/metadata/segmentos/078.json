@@ -1,0 +1,234 @@
+{
+  "clave": "078",
+  "etiqueta": "Artículo 78º",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "078.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado A",
+      "texto": "A. El Tribunal Electoral del Estado será la máxima autoridad jurisdiccional electoral, autónomo en su funcionamiento e independiente en sus decisiones de pleno derecho. Funcionará en pleno y sus sesiones de resolución serán públicas."
+    },
+    {
+      "id": "078.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado A › párrafo 1",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "078.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado A › párrafo 2",
+      "texto": "Se organizará en los términos que señale la ley; los mecanismos de vigilancia y disciplina se establecerán en la Ley Electoral. Regirá sus relaciones de trabajo conforme a las leyes aplicables, en las que se establecerá que los derechos de sus trabajadoras y trabajadores no podrán ser menores a los preceptuados por el artículo 123, apartado B, de la Constitución Federal."
+    },
+    {
+      "id": "078.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado A › párrafo 3",
+      "texto": "(REFORMADO DECRETO 113, P.O. 57, 03 AGOSTO 2019)"
+    },
+    {
+      "id": "078.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado B",
+      "texto": "B. Las Magistradas y Magistrados del Tribunal Electoral serán elegidos por la Cámara de Senadores, de conformidad con lo previsto en la Constitución Federal, esta Constitución y la ley de la materia; responderán sólo al mandato de la ley y deberán acreditar los siguientes requisitos:"
+    },
+    {
+      "id": "078.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado B › párrafo 4",
+      "texto": "(REFORMADA DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "078.B.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado B › Fracción I",
+      "texto": "I. Tener la ciudadanía mexicana y vecindad de la Entidad, con una residencia acreditada de por lo menos cinco años anteriores a su elección;"
+    },
+    {
+      "id": "078.B.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado B › Fracción II",
+      "texto": "II. No tener menos de treinta años de edad al día de la elección;"
+    },
+    {
+      "id": "078.B.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado B › Fracción III",
+      "texto": "III. Estar en pleno ejercicio de sus derechos civiles y políticos;\n\n(REFORMADA DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "078.B.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado B › Fracción IV",
+      "texto": "IV. Gozar de buena reputación y no haber sido persona condenada por delito que amerite pena por más de un año de prisión, pero si se trata de robo, fraude, falsificación, abuso de confianza u otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo, cualquiera que haya sido la pena;\n\n(REFORMADA DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "078.B.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado B › Fracción V",
+      "texto": "V. Tener inscripción en el Padrón Electoral y contar con credencial para votar con fotografía que expida la autoridad electoral competente;\n\n(REFORMADA DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "078.B.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado B › Fracción VI",
+      "texto": "VI. Poseer al día de la elección, título profesional de licenciatura en derecho expedido por una institución de educación superior legalmente facultada para ello, con una antigüedad mínima de cinco años;\n\n(REFORMADA DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "078.B.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado B › Fracción VII",
+      "texto": "VII. No haber tenido cargo alguno de elección popular ni haber sido postulada en alguna candidatura en los cinco años anteriores a su nombramiento;"
+    },
+    {
+      "id": "078.B.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado B › Fracción VIII",
+      "texto": "VIII. No haber desempeñado cargo de dirección en los órganos nacionales, estatales o municipales de algún partido político o de algún otro organismo, institución, colegio o agrupación ciudadana afiliada a algún partido político, en los últimos tres años anteriores a su elección;\n\n(REFORMADA DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "078.B.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado B › Fracción IX",
+      "texto": "IX. No ser ni haber sido titular de una delegación o representación del Gobierno Federal o de Organismo Descentralizado de la Federación en la Entidad, ni de alguna Secretaría de Gobierno o Titular de la Fiscalía General de Estado, ni de Presidencia Municipal, Secretaría, Tesorería, Oficialía Mayor o Contraloría de un Municipio, en el año anterior a su designación; y\n\n(REFORMADA DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "078.B.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado B › Fracción X",
+      "texto": "X. No ser ni haber sido ministra o ministro de culto religioso alguno en los últimos cinco años anteriores a su nombramiento."
+    },
+    {
+      "id": "078.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado C",
+      "texto": "C. El Tribunal Electoral del Estado tendrá competencia para:"
+    },
+    {
+      "id": "078.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado C › párrafo 5",
+      "texto": "(REFORMADA DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "078.C.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado C › Fracción I",
+      "texto": "I. Realizar el cómputo final de elección de la Gubernatura del Estado, una vez resueltas, en su caso, las impugnaciones que se hayan interpuesto sobre la misma, procediendo a formular la declaración de validez de la elección y la de Gobernadora o Gobernador Electo respecto de la candidatura que haya obtenido el mayor número de votos;\n\n(REFORMADA DECRETO 70, P.O. 37, 18 MAYO 2019)"
+    },
+    {
+      "id": "078.C.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado C › Fracción II",
+      "texto": "II. Substanciar y resolver en forma definitiva y firme, en los términos de esta Constitución y el Código o la ley respectivos, las impugnaciones que se susciten en materia electoral, de elección de autoridades auxiliares municipales, de referéndum, plebiscito y revocación de mandato."
+    },
+    {
+      "id": "078.C.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado C › Fracción III",
+      "texto": "III. Dirimir los conflictos o diferencias laborales entre el Tribunal y sus servidores, así como entre el Instituto Electoral del Estado y los suyos;"
+    },
+    {
+      "id": "078.C.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado C › Fracción IV",
+      "texto": "IV. Determinar e imponer sanciones en la materia;\n\n(REFORMADA DECRETO 63, P.O. 5, 14 ENERO 2025)"
+    },
+    {
+      "id": "078.C.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado C › Fracción V",
+      "texto": "V. Expedir su reglamento interior;\n\n(ADICIONADA DECRETO 63, P.O. 5, 14 ENERO 2025)"
+    },
+    {
+      "id": "078.C.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado C › Fracción VI",
+      "texto": "VI. Conocer y resolver las impugnaciones sobre el resultado de las elecciones a los cargos de Magistrada o Magistrado del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, o de una Jueza o Juez del Poder Judicial del Estado; y\n\n(CORRIMIENTO DECRETO 63, P.O. 5, 14 ENERO 2025)"
+    },
+    {
+      "id": "078.C.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 78º › Apartado C › Fracción VII",
+      "texto": "VII. Realizar las demás atribuciones que le confiera la ley."
+    }
+  ]
+}
