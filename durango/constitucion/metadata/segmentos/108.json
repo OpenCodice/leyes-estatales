@@ -1,0 +1,117 @@
+{
+  "clave": "108",
+  "etiqueta": "Artículo 108",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "108.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › párrafo 1",
+      "texto": "El Tribunal Superior de Justicia, funciona en Pleno y en salas, y se integra con quince Magistradas y Magistrados. La presidencia del Tribunal Superior de Justicia, será por un periodo de tres años y se elegirá por el pleno de entre las cuatro personas que hayan obtenido el mayor número de votos en su respectiva elección, observando para ello el principio de alternancia de género."
+    },
+    {
+      "id": "108.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › párrafo 2",
+      "texto": "La persona que ocupe la presidencia del Tribunal Superior de Justicia rendirá protesta ante el Pleno del Tribunal, quien mientras ejerza su función no integrará Sala y no podrá volver a ser electo."
+    },
+    {
+      "id": "108.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › párrafo 3",
+      "texto": "El Tribunal Superior de Justicia contará, para el mismo periodo, con una vicepresidencia, que tendrá iguales atribuciones y obligaciones que aquél en el ejercicio de la suplencia, dicho cargo será ocupado por la persona que haya obtenido el segundo lugar en la elección a que se refiere el párrafo anterior."
+    },
+    {
+      "id": "108.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › párrafo 4",
+      "texto": "Las Magistradas y Magistrados del Tribunal Superior de Justicia; del Tribunal de Disciplina Juridicial; del Tribunal de Justicia Penal para Adolescentes, y las Juezas y Jueces, serán elegidos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones estatales ordinarias del año que corresponda conforme al siguiente procedimiento:"
+    },
+    {
+      "id": "108.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › Fracción I",
+      "texto": "I. El Órgano de Administración del Poder Judicial, por lo menos con sesenta días de anticipación a la fecha de inicio del proceso electoral informará al Congreso del Estado, la conclusión del encargo de integrantes del Poder Judicial que se encuentren próximos al término de su periodo;"
+    },
+    {
+      "id": "108.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › Fracción II",
+      "texto": "II. El Congreso del Estado, publicará la convocatoria para la integración del listado de candidaturas, dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, la que contendrá las etapas completas del procedimiento, sus fechas y plazos improrrogables y los cargos a elegir. En el caso de Juezas y Jueces se precisará la especialización por materia, el distrito judicial respectivo y demás información que se requiera;"
+    },
+    {
+      "id": "108.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › Fracción III",
+      "texto": "III. Los Poderes del Estado postularán el número de candidaturas que corresponda a cada cargo conforme a lo precisado en el presente artículo. Para la evaluación y selección de sus postulaciones, observarán lo siguiente:"
+    },
+    {
+      "id": "108.III.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 108 › Fracción III › inciso a)",
+      "texto": "a) Los Poderes establecerán mecanismos públicos, abiertos, transparentes, inclusivos, accesibles y paritarios que permitan la participación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes;"
+    },
+    {
+      "id": "108.III.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 108 › Fracción III › inciso b)",
+      "texto": "b) Cada Poder integrará un Comité de Evaluación conformado por tres personas reconocidas en la actividad jurídica, que recibirá los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica.\n\nPara definir criterios uniformes y homologados, los Comités de Evaluación de los tres Poderes deberán integrarse en un Comité Estatal de Evaluación, en el cual podrán generar lineamientos sobre procedimientos y criterios de evaluación que deberán observar los Comités de Evaluación de cada Poder, para elegir a los perfiles mejor evaluados;"
+    },
+    {
+      "id": "108.III.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 108 › Fracción III › inciso c)",
+      "texto": "c) Los Comités de Evaluación de cada Poder, integrarán un listado con las dos personas mejor evaluadas para cada cargo, observando la paridad de género, dichos listados se remitirán a la autoridad que represente a cada Poder del Estado para su aprobación y envío al Congreso del Estado."
+    },
+    {
+      "id": "108.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › Fracción IV",
+      "texto": "IV. El Congreso del Estado recibirá las postulaciones y remitirá los listados al Instituto Electoral y de Participación Ciudadana del Estado de Durango a más tardar el 15 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.\n\nLas personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes del Estado, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente, y"
+    },
+    {
+      "id": "108.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › Fracción V",
+      "texto": "V. El Instituto Electoral y de Participación Ciudadana del Estado de Durango efectuará los cómputos y declarará la validez de la elección, publicará los resultados y entregará las constancias a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres, iniciando por mujer. Dichos resultados podrán ser impugnados ante el Tribunal Electoral del Estado de Durango, quien resolverá las impugnaciones a más tardar el 15 de agosto del año de la elección. Las personas que resulten electas tomaran protesta ante el Congreso del Estado, el día que se instale el primer periodo ordinario de sesiones.\n\nPara el caso de Magistradas y Magistrados del Tribunal Superior de Justicia; del Tribunal de Disciplina Judicial; y del Tribunal de Justicia Penal para Adolescentes, la elección se realizará a nivel estatal conforme al procedimiento anterior y en los términos que dispongan las leyes. El Poder Ejecutivo postulará por conducto de la persona titular del Gobierno del Estado hasta dos personas aspirantes; el Poder Legislativo postulará, por mayoría simple, hasta dos personas, y el Poder Judicial del Estado, por conducto del Pleno del Tribunal Superior de Justicia, postulará por mayoría de ocho votos, hasta dos personas.\n\nPara el caso de Juezas y Jueces, el Estado se dividirá en dos regiones conforme a las necesidades que determine el Órgano de Administración del Poder Judicial, en los términos del procedimiento establecido en este artículo y en lo que dispongan las leyes. Cada uno de los Poderes postulará hasta dos personas para cada cargo: el Poder Ejecutivo lo hará por conducto de su titular; el Poder Legislativo postulará, por mayoría simple, hasta dos personas, y el Poder Judicial del Estado, por conducto del Pleno del Tribunal Superior de Justicia, postulará hasta dos personas por mayoría de ocho votos.\n\nEl Congreso del Estado incorporará a los listados que remita al Instituto Electoral y de Participación Ciudadana del Estado de Durango a las personas que se encuentren en funciones en los cargos señalados en el párrafo anterior al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo diverso.\n\nLa etapa de preparación de la elección estatal correspondiente iniciará con la primera sesión que el Consejo General del Instituto Electoral y de Participación Ciudadana del Estado de Durango celebre en los primeros siete días del mes de noviembre del año anterior a la elección.\n\nLas personas candidatas tendrán derecho de acceso a radio y televisión de manera igualitaria, en los términos dispuestos en la Constitución Política de los Estados Unidos Mexicanos. Podrán, además, participar en foros de debate organizados por el Instituto Electoral y de Participación Ciudadana del Estado de Durango o en aquellos brindados gratuitamente por el sector público, privado o social en condiciones de equidad.\n\nPara todos los cargos de elección dentro del Poder Judicial, estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidatas y candidatos. Los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna.\n\nLa duración de las campañas para los cargos señalados en el presente artículo será de treinta días y en ningún caso habrá etapa de precampaña. La ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales.\n\nARTÍCULO REFORMADO POR DEC. 071, P.O. 93 BIS DEL 21 DE NOVIEMBRE DE 2024.\n\nFE DE ERRATAS AL DECRETO 071, P.O. 12 EXT. DEL 3 DE DICIEMBRE DE 2024."
+    }
+  ]
+}

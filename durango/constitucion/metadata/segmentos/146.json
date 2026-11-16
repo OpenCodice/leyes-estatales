@@ -1,0 +1,27 @@
+{
+  "clave": "146",
+  "etiqueta": "Artículo 146",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO VII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "146.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 146 › párrafo 1",
+      "texto": "DEROGADO."
+    },
+    {
+      "id": "146.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 146 › párrafo 2",
+      "texto": "DEROGADO POR DEC. 119 P.O. 22 DEL 16 DE MARZO DE 2017."
+    }
+  ]
+}

@@ -1,0 +1,603 @@
+{
+  "clave": "082",
+  "etiqueta": "Artículo 82",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "082.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › párrafo 1",
+      "texto": "El Congreso del Estado tiene facultades para legislar en todo aquello que no esté expresamente establecido como atribución del Congreso de la Unión o alguna de sus cámaras; además tiene las siguientes:"
+    },
+    {
+      "id": "082.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción I",
+      "texto": "I. Hacendarias y de presupuesto:"
+    },
+    {
+      "id": "082.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 82 › Fracción I › inciso a)",
+      "texto": "a) Aprobar anualmente a más tardar el quince de diciembre las leyes de ingresos del Estado y de los municipios; así como la ley que contiene el presupuesto de egresos del Estado, que deberá incluir los tabuladores desglosados de las percepciones de los servidores públicos. Si para un ejercicio fiscal éstas no se aprobaran, regirán los del ejercicio anterior, en los términos que dispongan la ley."
+    },
+    {
+      "id": "082.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 82 › Fracción I › inciso b)",
+      "texto": "b) Decretar, en todo tiempo, las contribuciones que basten a cubrir los egresos de los gobiernos estatal y municipales."
+    },
+    {
+      "id": "082.I.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 82 › Fracción I › inciso c)",
+      "texto": "c) Expedir las bases legales sobre el límite del endeudamiento público del Estado y de los municipios."
+    },
+    {
+      "id": "082.I.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 82 › Fracción I › inciso d)",
+      "texto": "d) Autorizar al ejecutivo, a los ayuntamientos, los organismos descentralizados, empresas públicas y fideicomisos, los montos máximos para contratar obligaciones y empréstitos y en su caso, a afectar como garantía fuente de pago o de cualquier otra forma los ingresos que les correspondan, en los términos establecidos en las leyes correspondientes.\n\nLas autorizaciones a que se refiere este inciso deberán ser aprobados por el voto de las dos terceras partes de los miembros presentes del Congreso, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago y deberán realizarse bajo las mejores condiciones del mercado.\n\nINCISO REFORMADO POR DEC. 48, LXVII, P. O. No. 8, 26 DE ENERO DE 2017."
+    },
+    {
+      "id": "082.I.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 82 › Fracción I › inciso e)",
+      "texto": "e) Autorizar al Ejecutivo Estatal:"
+    },
+    {
+      "id": "082.I.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 82 › Fracción I › 1.",
+      "texto": "1. Para que celebre contratos sobre proyectos de inversión y prestación de servicios, en los términos de la ley."
+    },
+    {
+      "id": "082.I.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 82 › Fracción I › 2.",
+      "texto": "2. La enajenación de bienes inmuebles propiedad del Estado."
+    },
+    {
+      "id": "082.I.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 82 › Fracción I › inciso f)",
+      "texto": "f) Expedir las bases legales que señale cuales serán los supuestos en los que los actos relativos al patrimonio inmobiliario municipal requieran de un acuerdo de mayoría calificada del ayuntamiento."
+    },
+    {
+      "id": "082.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción II",
+      "texto": "II. De fiscalización, vigilancia y combate a la corrupción:"
+    },
+    {
+      "id": "082.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 82 › Fracción II › inciso a)",
+      "texto": "a) Recibir la cuenta pública del Ejecutivo, los órganos constitucionales autónomos y los ayuntamientos."
+    },
+    {
+      "id": "082.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 82 › Fracción II › inciso b)",
+      "texto": "b) Revisar, discutir y aprobar, en su caso, con vista del informe que rinda la Auditoría Superior del Estado, la cuenta pública que anualmente le presentarán, el Ejecutivo, los órganos constitucionales autónomos y los ayuntamientos del Estado, sobre sus respectivos ejercicios presupuestales.\n\nINCISO REFORMADO POR DEC. 585, P. O. 73 BIS DEL 12 DE SEPTIEMBRE DE 2024."
+    },
+    {
+      "id": "082.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 82 › Fracción II › inciso c)",
+      "texto": "c) Coordinar y evaluar por medio de la Comisión correspondiente, el desempeño de las funciones de la Auditoría Superior del Estado.\n\nINCISO REFORMADO POR DEC. 585, P. O. 73 BIS DEL 12 DE SEPTIEMBRE DE 2024."
+    },
+    {
+      "id": "082.II.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 82 › Fracción II › inciso d)",
+      "texto": "d) Para citar a las personas titulares de las Secretarias de Despacho del Ejecutivo, a la persona titular de la Fiscalía General del Estado, a las personas titulares de las entidades de la administración pública estatal o municipal, a las personas titulares de los organismos constitucionales autónomos y demás servidores públicos previstos en esta Constitución, para que emitan opinión cuando se discuta una ley o informen cuando se estudie cualquier asunto concerniente a sus respectivos ramos."
+    },
+    {
+      "id": "082.II.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 82 › Fracción II › inciso e)",
+      "texto": "e) Citar, a solicitud de la Comisión de Derechos Humanos del Estado, a las autoridades o servidores públicos que no acepten o incumplan las recomendaciones de dicha Comisión, esto a fin de que comparezcan ante el Pleno Legislativo en sesión pública, a explicar el motivo de su negativa."
+    },
+    {
+      "id": "082.II.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 82 › Fracción II › inciso f)",
+      "texto": "f) Recabar informes sobre todos los ramos de administración pública del Estado y de los municipios, cuando lo estime necesario para el mejor ejercicio de las funciones de la Legislatura."
+    },
+    {
+      "id": "082.II.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 82 › Fracción II › inciso g)",
+      "texto": "g) Llevar un registro del patrimonio de los servidores públicos en los casos que proceda."
+    },
+    {
+      "id": "082.II.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 82 › Fracción II › inciso h)",
+      "texto": "h) Expedir la ley que regule la organización y facultades de la Auditoría Superior del Estado y las demás que normen la gestión, control y evaluación de los Poderes del Estado, los Municipios y de los entes públicos estatal y municipales; así como para expedir la ley que establezca las bases de coordinación del Sistema Local Anticorrupción.\n\nINCISO REFORMADO POR DEC. 585, P. O. 73 BIS DEL 12 DE SEPTIEMBRE DE 2024."
+    },
+    {
+      "id": "082.II.i",
+      "tipo": "inciso",
+      "marca": "i",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 82 › Fracción II › inciso i)",
+      "texto": "i) Expedir la ley que organice el Tribunal de Justicia Administrativa, dotado de plena autonomía para dictar sus fallos, y que establezca su organización, su funcionamiento, y los recursos para impugnar sus resoluciones; así como el recurso procesal en materia de acceso a la información pública y protección de datos personales.\n\nEl Tribunal tendrá a su cargo dirimir las controversias que se susciten entre la administración pública estatal, municipal y los particulares.\n\nINCISO REFORMADO POR DEC. 293 P.O. 99 BIS DE FECHA 11 DE DICIEMBRE DE 2025."
+    },
+    {
+      "id": "082.II.j",
+      "tipo": "inciso",
+      "marca": "j",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 82 › Fracción II › inciso j)",
+      "texto": "j) Expedir la Ley de Justicia Administrativa, que dirima las diferencias a las que alude el inciso anterior y además, distribuya competencias entre los gobiernos Estatal y municipales, para establecer las responsabilidades administrativas de los servidores públicos y las sanciones aplicables por los actos u omisiones graves en que éstos incurran, y las que correspondan a los particulares vinculados con faltas administrativas graves que al efecto prevenga, así como los procedimientos para su aplicación; así como el recurso procesal en materia de acceso a la información pública y protección de datos personales.\n\nINCISO REFORMADO POR DEC. 293 P.O. 99 BIS DE FECHA 11 DE DICIEMBRE DE 2025."
+    },
+    {
+      "id": "082.II.k",
+      "tipo": "inciso",
+      "marca": "k",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 82 › Fracción II › inciso k)",
+      "texto": "k) Expedir las leyes que hagan efectivo el Sistema Local Anticorrupción, las cuales deberán prever los mecanismos necesarios para:"
+    },
+    {
+      "id": "082.II.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 82 › Fracción II › 1.",
+      "texto": "1.- Que sus integrantes tengan acceso a la información pública necesaria, adecuada y oportuna para el mejor desempeño de sus funciones;"
+    },
+    {
+      "id": "082.II.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 82 › Fracción II › 2.",
+      "texto": "2.- Que las recomendaciones, políticas públicas e informes que emita, reciban respuesta de los sujetos públicos a quienes se dirija;"
+    },
+    {
+      "id": "082.II.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 82 › Fracción II › 3.",
+      "texto": "3.- Contar con las atribuciones y procedimientos adecuados para dar seguimiento a las recomendaciones, informes y políticas que emitan;"
+    },
+    {
+      "id": "082.II.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 82 › Fracción II › 4.",
+      "texto": "4.- Rendir un informe público a los titulares de los Poderes, en que den cuenta de las acciones anticorrupción, los riesgos identificados, los costos potenciales generados y los resultados de sus recomendaciones. Para este efecto deberán seguir las metodologías que emita el Sistema Nacional Anticorrupción;"
+    },
+    {
+      "id": "082.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › párrafo 2",
+      "texto": "La Presidencia de la instancia de coordinación del Sistema Local Anticorrupción deberá corresponder al Consejo de Participación Ciudadana, y Los integrantes del Consejo de Participación Ciudadana deberán reunir como mínimo, los requisitos previstos en Ley General de la materia, expedida por el Congreso de la Unión y serán designados mediante un procedimiento análogo al previsto para el Consejo de Participación Ciudadana del Sistema Nacional Anticorrupción."
+    },
+    {
+      "id": "082.II.l",
+      "tipo": "inciso",
+      "marca": "l",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 82 › Fracción II › inciso l)",
+      "texto": "l) Designar, por el voto de las dos terceras partes de sus integrantes presentes, a los titulares de los órganos internos de control de los organismos constitucionales autónomos, contenidos en esta Constitución, que ejerzan recursos públicos aprobados en la Ley de Egresos del Estado.\n\nREFORMADO POR DEC. 119 P.O. 22 DE FECHA 16 DE MARZO DE 2017."
+    },
+    {
+      "id": "082.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción III",
+      "texto": "III. De nombramiento y ratificación de servidores públicos:"
+    },
+    {
+      "id": "082.III.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 82 › Fracción III › inciso a)",
+      "texto": "a) Nombrar a la persona titular de la Auditoría Superior del Estado, las consejeras y los consejeros y comisionadas y comisionados de los órganos constitucionales autónomos, y en su caso a las y los presidentes municipales sustitutos.\n\nINCISO REFORMADO POR DEC. 585, P. O. 73 BIS DEL 12 DE SEPTIEMBRE DE 2024.\n\nINCISO REFORMADO POR DEC. 071, P. O. 93 BIS DEL 21 DE NOVIEMBRE DE 2024."
+    },
+    {
+      "id": "082.III.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 82 › Fracción III › inciso b)",
+      "texto": "b) Ratificar a la persona titular de la Fiscalía General del Estado."
+    },
+    {
+      "id": "082.III.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 82 › Fracción III › inciso c)",
+      "texto": "c) Designar por mayoría simple a las personas integrantes del Comité de Evaluación a que hace referencia el artículo 108 de esta Constitución.\n\nINCISO REFORMADO POR DEC. 071, P. O. 93 BIS DEL 21 DE NOVIEMBRE DE 2024."
+    },
+    {
+      "id": "082.III.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 82 › Fracción III › inciso d)",
+      "texto": "d). Designar, por mayoría simple a uno de los integrantes del Órgano de Administración del Poder Judicial, a que se refiere el artículo 125 de esta Constitución.\n\nINCISO REFORMADO POR DEC. 071, P. O. 93 BIS DEL 21 DE NOVIEMBRE DE 2024."
+    },
+    {
+      "id": "082.III.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 82 › Fracción III › inciso e)",
+      "texto": "e) Tomar protesta a la Gobernadora o Gobernador del Estado, Magistradas y Magistrados, Juezas y Jueces del Poder Judicial, las comisionadas y los comisionados, consejeras y consejeros de los órganos constitucionales autónomos y a las y los servidores públicos que se determine en esta Constitución y en las leyes.\n\nINCISO REFORMADO POR DEC. 071, P. O. 93 BIS DEL 21 DE NOVIEMBRE DE 2024."
+    },
+    {
+      "id": "082.III.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 82 › Fracción III › inciso f)",
+      "texto": "f) Resolver sobre las renuncias o licencias que presenten la Gobernadora o el Gobernador del Estado, las diputadas y los diputados, las Magistradas y los Magistrados, las y los integrantes del Órgano de Administración del Poder Judicial, las Juezas y los Jueces y las comisionadas y los comisionados, consejeras y consejeros de los órganos constitucionales autónomos, en los términos de esta Constitución y de la ley.\n\nINCISO REFORMADO POR DEC. 071, P. O. 93 BIS DEL 21 DE NOVIEMBRE DE 2024."
+    },
+    {
+      "id": "082.III.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 82 › Fracción III › inciso g)",
+      "texto": "g) Nombrar Gobernadora o Gobernador del Estado Provisional, Interino o Substituto."
+    },
+    {
+      "id": "082.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción IV",
+      "texto": "IV. En materia municipal:"
+    },
+    {
+      "id": "082.IV.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 82 › Fracción IV › inciso a)",
+      "texto": "a) Crear municipios, en los términos dispuestos por esta Constitución y la Legislación aplicable.\n\nFRACCIÓN REFORMADA POR DEC. 155, P.O. 87, DEL 30 DE OCTUBRE DE 2022."
+    },
+    {
+      "id": "082.IV.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 82 › Fracción IV › inciso b)",
+      "texto": "b) Autorizar, en su caso, a los ayuntamientos:"
+    },
+    {
+      "id": "082.IV.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 82 › Fracción IV › 1.",
+      "texto": "1. La contratación de obras y servicios públicos, cuando produzcan obligaciones que excedan al período constitucional del Ayuntamiento contratante."
+    },
+    {
+      "id": "082.IV.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 82 › Fracción IV › 2.",
+      "texto": "2. Las concesiones de prestación de servicios públicos que les corresponda a los municipios, sus prórrogas y cancelaciones."
+    },
+    {
+      "id": "082.IV.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 82 › Fracción IV › inciso c)",
+      "texto": "c) Suspender ayuntamientos, declarar que éstos han desaparecido y suspender temporal o definitivamente a alguno de sus miembros, por alguna de las causas graves que establezca la ley."
+    },
+    {
+      "id": "082.IV.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 82 › Fracción IV › inciso d)",
+      "texto": "d) Nombrar al Concejo Municipal, en el caso de declarar la desaparición de un Ayuntamiento."
+    },
+    {
+      "id": "082.IV.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 82 › Fracción IV › inciso e)",
+      "texto": "e) Intervenir en los casos de falta definitiva de los presidentes municipales, en los términos establecidos en la ley."
+    },
+    {
+      "id": "082.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción V",
+      "texto": "V. Otras facultades:"
+    },
+    {
+      "id": "082.V.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 82 › Fracción V › inciso a)",
+      "texto": "a) Erigirse en Jurado de Acusación en los casos de presunta responsabilidad política y penal."
+    },
+    {
+      "id": "082.V.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 82 › Fracción V › inciso b)",
+      "texto": "b) Ratificar a las personas titulares de la Fiscalía General del Estado, a la persona titular de la Secretaria responsable del control interno del Ejecutivo del Estado y a la persona titular de la Fiscalía Especializada en Combate a la Corrupción con la aprobación de las dos terceras partes de las diputadas y los diputados presentes.\n\nREFORMADO POR DEC. 119 P.O. 22 DE FECHA 16 DE MARZO DE 2017."
+    },
+    {
+      "id": "082.V.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 82 › Fracción V › inciso c)",
+      "texto": "c) Convocar a elecciones ordinarias y extraordinarias."
+    },
+    {
+      "id": "082.V.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 82 › Fracción V › inciso d)",
+      "texto": "d) Cambiar provisionalmente, en caso necesario, la residencia de los poderes del Estado."
+    },
+    {
+      "id": "082.V.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 82 › Fracción V › inciso e)",
+      "texto": "e) Conceder distinciones u honores por servicios distinguidos prestados al Estado y la Nación, en los términos de la ley."
+    },
+    {
+      "id": "082.V.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 82 › Fracción V › inciso f)",
+      "texto": "f) Integrar comisiones para investigar el funcionamiento de cualquier órgano de la administración pública estatal o municipal. Los resultados de las investigaciones se harán de conocimiento del Pleno del Congreso del Estado, y en su caso, de la Gobernadora o Gobernador del Estado y de los ayuntamientos, así como a la Auditoría Superior del Estado y a la Fiscalía Especializada en Combate a la Corrupción, y podrán dar lugar a responsabilidades políticas o de otro tipo.\n\nREFORMADO POR DEC. 119 P.O. 22 DE FECHA 16 DE MARZO DE 2017.\n\nINCISO REFORMADO POR DEC. 585, P. O. 73 BIS DEL 12 DE SEPTIEMBRE DE 2024."
+    },
+    {
+      "id": "082.V.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 82 › Fracción V › inciso g)",
+      "texto": "g) Autorizar a la Gobernadora o Gobernador del Estado para:"
+    },
+    {
+      "id": "082.V.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 82 › Fracción V › 1.",
+      "texto": "1. Ausentarse del territorio estatal por más de treinta días."
+    },
+    {
+      "id": "082.V.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 82 › Fracción V › 2.",
+      "texto": "2. Que celebre arreglos sobre límites del territorio del Estado, conforme a las bases que le fije el mismo Congreso del Estado y sometiéndolos después a su aprobación."
+    },
+    {
+      "id": "082.V.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 82 › Fracción V › inciso h)",
+      "texto": "h) Recibir los informes anuales de gestión gubernamental que rindan los poderes públicos, los órganos constitucionales autónomos y los ayuntamientos."
+    },
+    {
+      "id": "082.V.i",
+      "tipo": "inciso",
+      "marca": "i",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 82 › Fracción V › inciso i)",
+      "texto": "i) Decretar amnistías, en los casos que señala la ley."
+    },
+    {
+      "id": "082.V.j",
+      "tipo": "inciso",
+      "marca": "j",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 82 › Fracción V › inciso j)",
+      "texto": "j) Expedir la ley que regule el Centro Estatal de Conciliación Laboral en términos de lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y la legislación aplicable.\n\nADICIONADO POR DEC. 287 P.O. 43 DEL 28 DE MAYO DE 2020."
+    },
+    {
+      "id": "082.V.k",
+      "tipo": "inciso",
+      "marca": "k",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 82 › Fracción V › inciso k)",
+      "texto": "k) Las demás que le confieren la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución y las leyes."
+    },
+    {
+      "id": "082.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción VI",
+      "texto": "VI.- Durante los periodos de receso del Congreso, la representación del Poder Legislativo radicará en una Comisión Permanente, que se integrará por cinco diputados o diputadas propietarios y sus respectivos suplentes.\n\nDicha Comisión deberá nombrarse en la última sesión de un periodo ordinario, integrándose de la forma que establezca la ley y que fungirá durante todo el receso, aun cuando el Congreso funcione en periodos extraordinarios.\n\nCada una de las formas de organización parlamentaria, y en su caso, diputada o diputado independiente, acreditarán un representante con voz ante la Comisión Permanente, la Ley Orgánica del Congreso determinará cuales de ellas tendrá derecho a voto.\n\nDe su instalación, se dará noticia a los titulares de los Poderes Ejecutivo y Judicial del Estado, al Poder Legislativo Federal, a las Legislaturas de las otras entidades federativas y a los Ayuntamientos de los Municipios del Estado.\n\nLa Comisión Permanente deberá instalarse el día de su elección y su funcionamiento será determinado por la ley.\n\nLa Comisión Permanente tendrá las siguientes atribuciones:"
+    },
+    {
+      "id": "082.I~2",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción I",
+      "texto": "I.- Llevar la correspondencia;"
+    },
+    {
+      "id": "082.II~2",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción II",
+      "texto": "II.- Tomar la protesta de ley, en su caso, a la Gobernadora o Gobernador, a las Magistradas y Magistrados del Tribunal Superior de Justicia, del Tribunal de Menores Infractores, del Tribunal de Justicia Administrativa, a la persona titular de la Auditoría Superior del Estado y a las y los integrantes de la Comisión Estatal de Derechos Humanos del Estado de Durango;\n\nFRACCIÓN REFORMADA POR DEC. 585, P. O. 73 BIS DEL 12 DE SEPTIEMBRE DE 2024."
+    },
+    {
+      "id": "082.III~2",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción III",
+      "texto": "III.- Recibir los avisos de ausencia de la Gobernadora o Gobernador y conceder las autorizaciones o, en su caso, licencias que soliciten la Gobernadora o el Gobernador y las Magistradas y los Magistrados del Tribunal Superior de Justicia, Magistradas y Magistrados Electorales, del Tribunal de Justicia Fiscal y Administrativa y del Tribunal de Menores Infractores y miembros del Consejo de la Judicatura;"
+    },
+    {
+      "id": "082.IV~2",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción IV",
+      "texto": "IV.- Acordar por sí o a pedimento del Ejecutivo, la celebración de períodos extraordinarios de sesiones del Congreso;"
+    },
+    {
+      "id": "082.V~2",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción V",
+      "texto": "V.- Presidir los períodos extraordinarios de sesiones del Congreso;"
+    },
+    {
+      "id": "082.VI~2",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción VI",
+      "texto": "VI.- Recibir las iniciativas de ley y turnarlas para su estudio y dictamen a las comisiones legislativas que corresponda; y"
+    },
+    {
+      "id": "082.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción VII",
+      "texto": "VII.- Las demás que le confiera esta Constitución y las leyes.\n\nFRACCIÓN ADICIONADA DEC. 51, LXVII, P. O. No. 8, 26 DE ENERO DE 2017.\n\nREFORMADO POR DEC. 585 P.O. 11 EXT. DEL 24 DE MAYO DE 2022."
+    }
+  ]
+}

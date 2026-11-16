@@ -1,0 +1,54 @@
+{
+  "clave": "056",
+  "etiqueta": "Artículo 56",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "056.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › párrafo 1",
+      "texto": "Son derechos de los ciudadanos y ciudadanas duranguenses los que para todo mexicano consigna la Constitución Política de los Estados Unidos Mexicanos, además de los siguientes:"
+    },
+    {
+      "id": "056.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción I",
+      "texto": "I. Solicitar su registro de candidatura de manera independiente ante la autoridad electoral, cumpliendo con los requisitos, condiciones y términos que determine la ley."
+    },
+    {
+      "id": "056.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción II",
+      "texto": "II. Participar en los procesos de plebiscito, referéndum, consulta popular, iniciativa ciudadana y revocación de mandato."
+    },
+    {
+      "id": "056.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción III",
+      "texto": "III. Conformar partidos y agrupaciones políticas, afiliarse o desafiliarse libremente de ellos y participar en todas las decisiones que adopten."
+    },
+    {
+      "id": "056.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción IV",
+      "texto": "IV. Exigir la rendición de cuentas de sus representantes y fiscalizar los actos de los poderes públicos.\n\nFRACCIÓN DEROGADA POR DEC. 128, P. O. 19, 6 DE MARZO DE 2014.\n\nREFORMADO POR DEC. 566, P.O. 11 DEL 6 DE FEBRERO DE 2022."
+    }
+  ]
+}

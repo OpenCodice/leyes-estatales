@@ -1,0 +1,36 @@
+{
+  "clave": "168",
+  "etiqueta": "Artículo 168",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "168.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 168 › párrafo 1",
+      "texto": "Cada órgano constitucional autónomo, a través de su titular, rendirá un informe anual de labores ante el Pleno del Congreso del Estado."
+    },
+    {
+      "id": "168.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 168 › párrafo 2",
+      "texto": "La Ley Orgánica del Congreso determinará el procedimiento para analizar el contenido del informe, así como en su caso, remitir los posicionamientos y recomendaciones que se formulen."
+    },
+    {
+      "id": "168.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 168 › párrafo 3",
+      "texto": "REFORMADO POR DEC. 317, P.O. 56 DEL 15 DE JULIO DE 2021."
+    }
+  ]
+}

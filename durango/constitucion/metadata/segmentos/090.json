@@ -1,0 +1,27 @@
+{
+  "clave": "090",
+  "etiqueta": "Artículo 90",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "090.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › párrafo 1",
+      "texto": "La elección de Gobernadora o Gobernador del Estado será directa, a través del voto universal, libre, secreto e intransferible de los ciudadanos que cumplan con los requisitos que establece la ley."
+    },
+    {
+      "id": "090.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › párrafo 2",
+      "texto": "REFORMADO POR DEC. 585 P.O. 11 EXT. DEL 24 DE MAYO DE 2022."
+    }
+  ]
+}

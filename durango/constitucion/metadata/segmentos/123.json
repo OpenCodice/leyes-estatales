@@ -1,0 +1,54 @@
+{
+  "clave": "123",
+  "etiqueta": "Artículo 123",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPITULO VII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "123.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 1",
+      "texto": "Las Juezas y los Jueces serán adscritos por el Órgano de Administración del Poder Judicial, con base en criterios objetivos y de acuerdo a los requisitos y procedimientos que establezca la ley. Durarán nueve años en el ejercicio de su encargo, al término de los cuales, podrán ser reelectos y, si lo fueren, sólo podrán ser privados de sus puestos en los términos que determinen la Constitución Federal y Constitución Local y la legislación aplicable en materia de responsabilidades."
+    },
+    {
+      "id": "123.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 2",
+      "texto": "Independientemente de la región por la que hayan sido, electos las Juezas y los Jueces, podrán ser readscritos por el Órgano de Administración del Poder Judicial, con base en criterios objetivos, requisitos y procedimientos que establezca la ley."
+    },
+    {
+      "id": "123.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 3",
+      "texto": "Las decisiones del Órgano de Administración del Poder Judicial, en materia de readscripción de Juezas y los Jueces, solo podrán ser impugnadas por los interesados ante el Tribunal de Disciplina Judicial."
+    },
+    {
+      "id": "123.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 4",
+      "texto": "REFORMADO POR DEC. 585 P.O. 11 EXT. DEL 24 DE MAYO DE 2022."
+    },
+    {
+      "id": "123.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 5",
+      "texto": "ARTÍCULO REFORMADO POR DEC. 071 P.O. 93 BIS DEL 21 DE NOVIEMBRE DE 2024."
+    }
+  ]
+}

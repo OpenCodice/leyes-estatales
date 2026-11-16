@@ -1,0 +1,36 @@
+{
+  "clave": "129",
+  "etiqueta": "Artículo 129",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPITULO VII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "129.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 129 › párrafo 1",
+      "texto": "El Centro Estatal de Justicia Alternativa, es la instancia de mecanismos de solución de controversias, actuará de forma gratuita y a petición de parte, y estará facultada para elevar a sentencia los convenios a los que lleguen los involucrados en los términos previstos en la ley."
+    },
+    {
+      "id": "129.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 129 › párrafo 2",
+      "texto": "Se reconoce el arbitraje, la negociación, la mediación y la conciliación como procedimientos alternativos para la resolución de conflictos. La ley determinará las condiciones y las materias en las que por su naturaleza se pueda transigir."
+    },
+    {
+      "id": "129.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 129 › párrafo 3",
+      "texto": "Los procedimientos alternativos para la resolución de controversias se regirán por los principios de gratuidad, equidad, imparcialidad, rapidez, profesionalismo y confidencialidad."
+    }
+  ]
+}

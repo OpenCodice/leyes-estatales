@@ -1,0 +1,36 @@
+{
+  "clave": "027",
+  "etiqueta": "Artículo 27",
+  "titulo": "TÍTULO PRIMERO DE LOS DERECHOS HUMANOS",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "027.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 1",
+      "texto": "Toda persona tiene derecho a disponer de bienes y servicios seguros y de óptima calidad, así como a una información precisa y libre de engaño o manipulación sobre su contenido y características."
+    },
+    {
+      "id": "027.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 2",
+      "texto": "El Estado, en colaboración con las autoridades federales de la materia, establecerá mecanismos de control de calidad y verificación de precios."
+    },
+    {
+      "id": "027.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 3",
+      "texto": "Las personas o instituciones que presten servicios públicos deberán incorporar un sistema que mida periódicamente la satisfacción de los usuarios. Los resultados deberán hacerse del conocimiento de la sociedad."
+    }
+  ]
+}

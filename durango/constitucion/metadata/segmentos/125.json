@@ -1,0 +1,72 @@
+{
+  "clave": "125",
+  "etiqueta": "Artículo 125",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPITULO VII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "125.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › párrafo 1",
+      "texto": "El Pleno del Órgano de Administración del Poder Judicial se integrará por cinco personas que durarán en su encargo seis años improrrogables, de las cuales una será designada por el Poder Ejecutivo, por conducto de la persona titular; uno, por mayoría simple, del Congreso del Estado; y tres por el Pleno del Tribunal Superior de Justicia del Estado, con mayoría de ocho votos. La presidencia del Órgano será electa por la mayoría de sus integrantes por un periodo de dos años y quien la ocupe no podrá ostentarla de nueva cuenta."
+    },
+    {
+      "id": "125.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › párrafo 2",
+      "texto": "Quienes integren el Pleno del Órgano de Administración del Poder Judicial, deberán:"
+    },
+    {
+      "id": "125.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › Fracción I",
+      "texto": "I. Ser mexicanos por nacimiento, en pleno ejercicio de sus derechos civiles y políticos;"
+    },
+    {
+      "id": "125.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › Fracción II",
+      "texto": "II. Contar con experiencia profesional mínima de cinco años;"
+    },
+    {
+      "id": "125.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › Fracción III",
+      "texto": "III. Tener título de licenciatura en derecho, economía, actuaría, administración, contabilidad o cualquier título profesional relacionado con las actividades del Órgano de Administración Judicial, con antigüedad mínima de cinco años y experiencia profesional afín a su materia;"
+    },
+    {
+      "id": "125.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › Fracción IV",
+      "texto": "IV. Contar con un mínimo de treinta años al momento de tomar protesta; y"
+    },
+    {
+      "id": "125.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › Fracción V",
+      "texto": "V. No estar inhabilitados para desempeñar un empleo, cargo o comisión en el servicio público, ni haber sido condenados por delito doloso con sanción privativa de la libertad.\n\nREFORMADO POR DEC. 585 P.O. 11 EXT. DEL 24 DE MAYO DE 2022.\n\nARTÍCULO REFORMADO POR DEC. 071, P.O. 93 BIS DE 21 DE NOVIEMBRE DE 2024."
+    }
+  ]
+}

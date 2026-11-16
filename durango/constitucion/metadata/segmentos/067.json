@@ -1,0 +1,27 @@
+{
+  "clave": "067",
+  "etiqueta": "Artículo 67",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "067.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 › párrafo 1",
+      "texto": "La determinación de los distritos electorales locales y su división en secciones electorales, así como el establecimiento de cabeceras, será realizado por el Instituto Nacional Electoral, con base al último censo general de población, de conformidad con lo dispuesto en la ley y los criterios generales que emita dicho Instituto."
+    },
+    {
+      "id": "067.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 › párrafo 2",
+      "texto": "ARTICULO REFORMADO POR DEC. 171, P. O.14 EXT., 24 DE JUNIO DE 2014."
+    }
+  ]
+}

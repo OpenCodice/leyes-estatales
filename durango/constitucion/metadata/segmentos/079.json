@@ -1,0 +1,45 @@
+{
+  "clave": "079",
+  "etiqueta": "Artículo 79",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "079.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › párrafo 1",
+      "texto": "Las iniciativas se turnarán a la Comisión que corresponda para dictamen y en su discusión y resolución se seguirán los trámites que señale la ley."
+    },
+    {
+      "id": "079.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › párrafo 2",
+      "texto": "Toda resolución del Congreso del Estado, tendrá el carácter de ley, decreto, acuerdo o iniciativa."
+    },
+    {
+      "id": "079.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › párrafo 3",
+      "texto": "En la reforma, derogación o abrogación de las leyes o decretos, se observarán los mismos requisitos que para su formación."
+    },
+    {
+      "id": "079.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › párrafo 4",
+      "texto": "Ninguna iniciativa que sea desechada por el Congreso del Estado podrá ser presentada de nuevo en el mismo año de ejercicio constitucional."
+    }
+  ]
+}

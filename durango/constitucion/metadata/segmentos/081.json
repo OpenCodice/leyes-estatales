@@ -1,0 +1,72 @@
+{
+  "clave": "081",
+  "etiqueta": "Artículo 81",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "081.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 1",
+      "texto": "El Ejecutivo no podrá hacer observaciones a las siguientes resoluciones del Congreso del Estado:"
+    },
+    {
+      "id": "081.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › Fracción I",
+      "texto": "I. Los acuerdos."
+    },
+    {
+      "id": "081.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › Fracción II",
+      "texto": "II. La declaración de procedencia o las pronunciadas en un juicio político."
+    },
+    {
+      "id": "081.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › Fracción III",
+      "texto": "III. La ley que regula la organización y funcionamiento del Congreso del Estado."
+    },
+    {
+      "id": "081.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › Fracción IV",
+      "texto": "IV. Los decretos que contengan leyes ratificadas mediante un procedimiento de referéndum."
+    },
+    {
+      "id": "081.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › Fracción V",
+      "texto": "V. Los decretos que se deriven de reformas a la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "081.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › Fracción VI",
+      "texto": "VI. Los decretos que contengan reformas a esta Constitución."
+    }
+  ]
+}
