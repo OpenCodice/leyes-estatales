@@ -1,0 +1,36 @@
+{
+  "clave": "037",
+  "etiqueta": "Artículo 37º",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "037.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37º › párrafo 1",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "037.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37º › párrafo 2",
+      "texto": "En los recesos del Congreso funcionara una Comisión Permanente integrada, en forma paritaria, por siete diputadas y diputados, que serán electos en la forma y términos que señala la Ley Orgánica del Poder Legislativo y su Reglamento, dentro de los tres días anteriores a la clausura de un periodo ordinario de sesiones. Si el día en que deba clausurarse el periodo ordinario no ha sido electa la Comisión Permanente, sus integrantes se designarán por insaculación."
+    },
+    {
+      "id": "037.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37º › párrafo 3",
+      "texto": "La Comisión Permanente no podrá tener acuerdos sin la concurrencia de cinco de sus miembros."
+    }
+  ]
+}

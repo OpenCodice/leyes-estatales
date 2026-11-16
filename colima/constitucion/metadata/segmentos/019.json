@@ -1,0 +1,45 @@
+{
+  "clave": "019",
+  "etiqueta": "Artículo 19º",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "019.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19º › párrafo 1",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "019.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19º › párrafo 2",
+      "texto": "Los derechos de la ciudadanía del Estado de Colima se suspenden:"
+    },
+    {
+      "id": "019.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19º › Fracción I",
+      "texto": "I. En los casos determinados en el artículo 38 de la Constitución Federal; y"
+    },
+    {
+      "id": "019.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19º › Fracción II",
+      "texto": "II. En caso de interdicción o incapacidad declarada conforme a la ley.\n\nTales derechos no se pierden por ausencia motivada en razones de educación, de servicio público relativo a la Federación, al Estado o al Municipio, o por desempeñar un cargo de elección popular."
+    }
+  ]
+}

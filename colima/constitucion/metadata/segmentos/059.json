@@ -1,0 +1,99 @@
+{
+  "clave": "059",
+  "etiqueta": "Artículo 59º",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "059.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59º › párrafo 1",
+      "texto": "(REFORMADO DECRETO 113, P.O. 57, 03 AGOSTO 2019)"
+    },
+    {
+      "id": "059.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59º › párrafo 2",
+      "texto": "La Gobernadora o Gobernador no puede:"
+    },
+    {
+      "id": "059.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59º › Fracción I",
+      "texto": "I. Negarse a publicar las leyes y los decretos del Congreso sólo en el caso de que le parezcan contrarios a la Constitución del Estado, a la Federal, o restrinjan las facultades del Ejecutivo, notificándolo a la Legislatura para que se proceda en los términos del artículo 41 de esta Constitución;"
+    },
+    {
+      "id": "059.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59º › Fracción II",
+      "texto": "II. Distraer los caudales públicos de los objetos a que están destinados por la ley;"
+    },
+    {
+      "id": "059.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59º › Fracción III",
+      "texto": "III. Imponer contribución alguna, a no ser que esté extraordinariamente facultado para ello;"
+    },
+    {
+      "id": "059.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59º › Fracción IV",
+      "texto": "IV. Ocupar la propiedad de persona alguna, ni perturbarla en la posesión, uso o aprovechamiento, sino en los términos que prevenga la ley;\n\n(REFORMADA DECRETO NO. 318, P.O. 51, SUPL. 11, 30 MAYO 2026)"
+    },
+    {
+      "id": "059.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59º › Fracción V",
+      "texto": "V. Intervenir en las elecciones para que recaigan en determinada persona, siendo este motivo de nulidad de la elección y causa de responsabilidad;\n\n(REFORMADA DECRETO 70, P.O. 37, 18 MAYO 2019)"
+    },
+    {
+      "id": "059.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59º › Fracción VI",
+      "texto": "VI. Mezclarse en los asuntos judiciales ni disponer, durante el juicio, de las cosas que en él se versen o de las personas que estén bajo la acción de la justicia;\n\n(REFORMADA DECRETO 70, P.O. 37, 18 MAYO 2019)"
+    },
+    {
+      "id": "059.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59º › Fracción VII",
+      "texto": "VII. Ausentarse del territorio del Estado por más de treinta días sin licencia del Congreso; y\n\n(REFORMADA DECRETO 70, P.O. 37, 18 MAYO 2019)"
+    },
+    {
+      "id": "059.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59º › Fracción VIII",
+      "texto": "VIII. Negarse a entregar la administración pública estatal dentro de un plazo improrrogable de treinta días naturales, cuando hubiese sido removido del cargo, por revocación de mandato."
+    }
+  ]
+}

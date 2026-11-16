@@ -1,0 +1,27 @@
+{
+  "clave": "062",
+  "etiqueta": "Artículo 62º",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "062.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62º › párrafo 1",
+      "texto": "(REFORMADO DECRETO 113, P.O. 57, 03 AGOSTO 2019)"
+    },
+    {
+      "id": "062.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62º › párrafo 2",
+      "texto": "Para ser Secretaria o Secretario de la Administración Pública del Estado se exigen los mismos requisitos que señala el artículo 26 de esta Constitución, exceptuando el de la vecindad."
+    }
+  ]
+}

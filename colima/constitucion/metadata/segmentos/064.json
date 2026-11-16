@@ -1,0 +1,27 @@
+{
+  "clave": "064",
+  "etiqueta": "Artículo 64º",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "064.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64º › párrafo 1",
+      "texto": "(REFORMADO DECRETO 113, P.O. 57, 03 AGOSTO 2019)"
+    },
+    {
+      "id": "064.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64º › párrafo 2",
+      "texto": "Mientras se encuentren en ejercicio de su cargo, las Secretarias o Secretarios de la Administración Pública del Estado, la Consejera o Consejero Jurídico y la Contralora o el Contralor General no podrán desempeñar actividades profesionales que impliquen el ejercicio libre de su profesión o el notariado."
+    }
+  ]
+}

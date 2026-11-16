@@ -1,0 +1,45 @@
+{
+  "clave": "110",
+  "etiqueta": "Artículo 110º",
+  "titulo": "TÍTULO DÉCIMO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "110.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110º › párrafo 1",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "110.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110º › párrafo 2",
+      "texto": "Habrá en el Estado una dependencia encargada de la recaudación, guarda y distribución de los caudales públicos y que estará a cargo de la persona Titular de la Secretaría del Despacho respectivo del Gobierno del Estado."
+    },
+    {
+      "id": "110.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110º › párrafo 3",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "110.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110º › párrafo 4",
+      "texto": "En las cabeceras de cada Municipio o en donde la Secretaría competente en materia de finanzas del Estado lo juzgue conveniente, habrá oficinas encargadas de recaudar las contribuciones que correspondan al Estado, que se denominarán Receptoría de Rentas y estarán cada una de ellas a cargo de una o un receptor de rentas."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "clave": "021",
+  "etiqueta": "Artículo 21º",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "021.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21º › párrafo 1",
+      "texto": "El poder supremo del Estado se divide para su ejercicio en Legislativo, Ejecutivo y Judicial."
+    },
+    {
+      "id": "021.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21º › párrafo 2",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "021.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21º › párrafo 3",
+      "texto": "No podrán reunirse dos o más de estos poderes en una sola persona o corporación, ni depositarse el Legislativo en un individuo, salvo el caso de facultades extraordinarias concedidas a la Gobernadora o al Gobernador conforme a lo dispuesto en el artículo 34, fracción XII de esta Constitución."
+    },
+    {
+      "id": "021.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21º › párrafo 4",
+      "texto": "(ADICIONADO DECRETO NO. 456, P.O. 41, 11 MAYO 2024)"
+    },
+    {
+      "id": "021.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21º › párrafo 5",
+      "texto": "Los poderes del Estado deberán regirse bajo los principios de Parlamento abierto, Gobierno abierto y Justicia abierta, respectivamente, mismos que estarán orientados a la transparencia, la participación ciudadana y la rendición de cuentas en los términos de sus respectivas leyes orgánicas."
+    }
+  ]
+}

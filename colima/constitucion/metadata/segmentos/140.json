@@ -1,0 +1,27 @@
+{
+  "clave": "140",
+  "etiqueta": "Artículo 140º",
+  "titulo": "TÍTULO DÉCIMO TERCERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "140.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 140º › párrafo 1",
+      "texto": "(REFORMADO DECRETO 258, P.O. 33, 18 ABRIL 2026)"
+    },
+    {
+      "id": "140.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 140º › párrafo 2",
+      "texto": "Cuando por circunstancias imprevistas no puedan instalarse el Congreso o los ayuntamientos, el Tribunal Superior de Justicia, ni la Gobernadora o el Gobernador toma posesión de su cargo el día fijado por esta Constitución y demás leyes relativas, lo verificarán lo más brevemente posible, siempre que no haya transcurrido el período legal en que deban funcionar."
+    }
+  ]
+}

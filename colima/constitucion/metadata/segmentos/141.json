@@ -1,0 +1,27 @@
+{
+  "clave": "141",
+  "etiqueta": "Artículo 141º",
+  "titulo": "TÍTULO DÉCIMO TERCERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "141.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141º › párrafo 1",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "141.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141º › párrafo 2",
+      "texto": "Nunca se impondrán préstamos forzosos ni por las oficinas se hará gasto alguno que no conste en los presupuestos o no sea aprobado por el Congreso. La infracción de este artículo hace responsables tanto a las autoridades que lo ordenen como a las y los empleados que lo obedezcan."
+    }
+  ]
+}

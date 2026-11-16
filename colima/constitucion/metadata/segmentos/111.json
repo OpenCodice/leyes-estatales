@@ -1,0 +1,27 @@
+{
+  "clave": "111",
+  "etiqueta": "Artículo 111º",
+  "titulo": "TÍTULO DÉCIMO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "111.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111º › párrafo 1",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "111.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111º › párrafo 2",
+      "texto": "En cada una de las cabeceras de las municipalidades habrá una oficina que recaudará los arbitrios municipales y que denominará Tesorería Municipal y estará a cargo de una o un tesorero municipal."
+    }
+  ]
+}

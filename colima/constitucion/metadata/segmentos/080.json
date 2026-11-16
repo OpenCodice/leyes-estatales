@@ -1,0 +1,36 @@
+{
+  "clave": "080",
+  "etiqueta": "Artículo 80º",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "080.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80º › párrafo 1",
+      "texto": "El Ministerio Público es la institución que tiene por objeto la investigación de los delitos del orden común y de su persecución ante los tribunales; por lo mismo, solicitará las medidas cautelares contra los imputados; buscará y presentará las pruebas que acrediten la participación de éstos en los hechos que las leyes locales señalen como delito; procurará que los juicios en materia penal se sigan con toda regularidad, para que la impartición de justicia sea pronta y expedita; pedirá la aplicación de las penas y la reparación del daño, e intervendrá en los asuntos que la ley determine."
+    },
+    {
+      "id": "080.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80º › párrafo 2",
+      "texto": "(REFORMADA DECRETO 258, P.O. 33, 18 ABRIL 2026)"
+    },
+    {
+      "id": "080.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80º › párrafo 3",
+      "texto": "Le corresponde también la defensa de los derechos de la sociedad y la intervención en los procedimientos que afecten a las personas a quienes las leyes otorguen especial protección. Deberán realizar sus funciones con base en los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo y responsabilidad, así como con perspectiva de género y respeto a los derechos humanos."
+    }
+  ]
+}

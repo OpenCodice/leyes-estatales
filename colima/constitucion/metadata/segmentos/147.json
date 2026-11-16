@@ -1,0 +1,27 @@
+{
+  "clave": "147",
+  "etiqueta": "Artículo 147º",
+  "titulo": "TÍTULO DÉCIMO TERCERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "147.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 147º › párrafo 1",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "147.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 147º › párrafo 2",
+      "texto": "El Congreso del Estado no podrá reconocer, bajo ningún concepto, a militares o civiles que escalen el Poder Ejecutivo de la Unión o del Estado por medio de alguna asonada, motín o cuartelazo. Tampoco podrá reconocer la renuncia de dichas personas funcionarias que se hayan obtenido por medio de la fuerza o coacción."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "096",
+  "etiqueta": "Artículo 96º",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "096.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96º › párrafo 1",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "096.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96º › párrafo 2",
+      "texto": "La ciudadanía de un Municipio, debidamente identificada, podrá presentar iniciativa popular de reglamento municipal, suscrita por un número que sea cuando menos el"
+    },
+    {
+      "id": "096.0",
+      "tipo": "numeral",
+      "marca": "0",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96º › 0.",
+      "texto": "0.13 por ciento de la ciudadanía inscrita en la lista nominal de electores del Municipio respectivo. Las iniciativas presentadas conforme a este artículo deberán ser dictaminadas a más tardar seis meses después de que reciban. Esta facultad será reglamentada por la Ley respectiva."
+    },
+    {
+      "id": "096.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96º › párrafo 3",
+      "texto": "Los actos de gobierno de las autoridades municipales podrán ser sometidos a plebiscito, en los términos de la ley correspondiente."
+    }
+  ]
+}

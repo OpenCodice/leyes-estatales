@@ -1,0 +1,36 @@
+{
+  "clave": "115",
+  "etiqueta": "Artículo 115º",
+  "titulo": "TÍTULO DÉCIMO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "115.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 115º › párrafo 1",
+      "texto": "En el lugar de residencia de los poderes del Estado habrá un Órgano Superior de Auditoría y Fiscalización Gubernamental, con autonomía técnica y de gestión en el ejercicio de sus atribuciones, y para decidir sobre su organización interna, funcionamiento y resoluciones, en los términos que dispongan esta Constitución y la ley. La función de fiscalización a cargo de ese órgano se desarrollará conforme a los principios de legalidad, imparcialidad y confiabilidad. Los informes de auditoría concluidos que emita tendrán carácter público."
+    },
+    {
+      "id": "115.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 115º › párrafo 2",
+      "texto": "El Órgano Superior de Auditoría y Fiscalización Gubernamental podrá iniciar el proceso de fiscalización a partir del primer día hábil del ejercicio fiscal siguiente; no obstante, las observaciones o recomendaciones que, en su caso, realice, deberán referirse a la información definitiva presentada en la cuenta pública correspondiente."
+    },
+    {
+      "id": "115.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 115º › párrafo 3",
+      "texto": "Asimismo, para los efectos de los trabajos de planeación de las auditorías, podrá solicitar información del ejercicio en curso respecto de procesos concluidos."
+    }
+  ]
+}
