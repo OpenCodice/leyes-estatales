@@ -1,0 +1,27 @@
+{
+  "clave": "051",
+  "etiqueta": "Artículo 51",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "051.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › párrafo 1",
+      "texto": "Para ser Secretario General de Gobierno se requiere reunir los mismos requisitos que para ser Gobernador del Estado."
+    },
+    {
+      "id": "051.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › párrafo 2",
+      "texto": "Artículo Reformado"
+    }
+  ]
+}

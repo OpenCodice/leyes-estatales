@@ -1,0 +1,144 @@
+{
+  "clave": "080",
+  "etiqueta": "Artículo 80",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "080.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 1",
+      "texto": "Para ser integrante de un Ayuntamiento, con la salvedad de que la persona que ocupe la Presidencia Municipal debe tener 25 años cumplidos el día de la elección, se requiere:"
+    },
+    {
+      "id": "080.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 2",
+      "texto": "Párrafo Reformado"
+    },
+    {
+      "id": "080.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción I",
+      "texto": "I.- Ser ciudadano mexicano por nacimiento, hijo de madre o padre mexicanos.\n\nAquellos ciudadanos candidatos a munícipes Propietarios o Suplentes, cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con certificado que expida en su caso, la Secretaría de Relaciones Exteriores, conforme a la Ley de Nacionalidad vigente a la fecha de la expedición del certificado;"
+    },
+    {
+      "id": "080.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción II",
+      "texto": "II.- Tener vecindad en el Municipio con residencia efectiva, de por lo menos cinco años inmediatos anteriores al día de la elección.\n\nFracción Reformada\n\nLa vecindad no se interrumpe cuando en el ejercicio de un cargo público, de un cargo de dirección nacional de Partido Político, por motivo de estudios, o por causas ajenas a su voluntad, se tenga que residir fuera del Municipio."
+    },
+    {
+      "id": "080.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción III",
+      "texto": "III.- No ser ministro de cualquier culto religioso, a menos que se separe en los términos que establece la Ley de la materia."
+    },
+    {
+      "id": "080.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción IV",
+      "texto": "IV.- No tener empleo, cargo o comisión en el Gobierno federal, estatal o municipal, en los organismos descentralizados municipales o estatales, e instituciones educativas; salvo que se separen, en forma provisional, noventa días antes del día de la elección.\n\nTratándose de la elección consecutiva, se estará a lo que establece el artículo 78 de esta Constitución.\n\nPárrafo Adicionado\n\nPárrafo Reformado"
+    },
+    {
+      "id": "080.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción V",
+      "texto": "V.- No podrán ser electos integrantes de un Ayuntamiento:\n\nFracción Reformada"
+    },
+    {
+      "id": "080.V.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 80 › Fracción V › 1.",
+      "texto": "1.- El Gobernador del Estado sea provisional, interino, substituto o encargado del despacho, aún cuando se separe de su cargo."
+    },
+    {
+      "id": "080.V.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 80 › Fracción V › 2.",
+      "texto": "2.- Los Magistrados y los Jueces del Tribunal Superior de Justicia, el Secretario General de Gobierno del Estado, el Fiscal General del Estado, Fiscal Especializado para la Atención de Delitos Electorales, el Fiscal Especializado en Combate a la Corrupción y los Secretarios del Poder Ejecutivo, salvo que se separen de sus cargos, en forma definitiva, noventa días antes del día de la elección."
+    },
+    {
+      "id": "080.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 3",
+      "texto": "Numeral Reformado"
+    },
+    {
+      "id": "080.V.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 80 › Fracción V › 3.",
+      "texto": "3.- Los Diputados Locales, los Diputados y Senadores del Congreso de la Unión, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección;"
+    },
+    {
+      "id": "080.V.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 80 › Fracción V › 4.",
+      "texto": "4.- Los Militares en servicio activo y los titulares de los cuerpos policíacos, salvo que se separen de sus cargos, en forma provisional, noventa días antes del día de la elección."
+    },
+    {
+      "id": "080.V.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 80 › Fracción V › 5.",
+      "texto": "5.- Las personas que tengan sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; o que las declare como personas deudoras alimentarias morosas."
+    },
+    {
+      "id": "080.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 4",
+      "texto": "Numeral Reformado"
+    },
+    {
+      "id": "080.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 5",
+      "texto": "Artículo Reformado"
+    }
+  ]
+}

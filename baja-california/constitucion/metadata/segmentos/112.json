@@ -1,0 +1,54 @@
+{
+  "clave": "112",
+  "etiqueta": "Artículo 112",
+  "titulo": "TÍTULO DECIMO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "112.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › párrafo 1",
+      "texto": "Esta Constitución sólo podrá adicionarse o reformarse con los siguientes requisitos: cuando la iniciativa de adición o reforma haya sido aprobada por acuerdo de las dos tercias partes del número total de diputados, se enviará ésta a los Ayuntamientos, con copia de las actas de los debates que hubiere provocado; y si el cómputo efectuado por la Cámara, de los votos de los Ayuntamientos, demuestra que hubo mayoría en favor de la adición o reforma, la misma se declarará parte de esta Constitución."
+    },
+    {
+      "id": "112.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › párrafo 2",
+      "texto": "Si transcurriere un mes después de que se compruebe que ha sido recibido el proyecto de que se trata, sin que los Ayuntamientos remitieran al Congreso el resultado de la votación, se entenderá que aceptan la adición o reforma."
+    },
+    {
+      "id": "112.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › párrafo 3",
+      "texto": "Las reformas o adiciones efectuadas a esta Constitución, aprobadas de conformidad al procedimiento señalado, podrán ser sometidas a Referéndum, de conformidad a las disposiciones que la Ley establezca."
+    },
+    {
+      "id": "112.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › párrafo 4",
+      "texto": "Las adiciones o reformas a la Constitución Política de los Estados Unidos Mexicanos que afecten a esta Constitución, serán inmediatamente adoptadas por el Congreso del Estado, mediante Dictamen, referente a la afectación del texto de ésta, y a la parte de su cuerpo en que deba de incorporarse, aprobado por mayoría calificada, produciendo una declaratoria de reforma o adición constitucional, que deberá promulgarse sin necesidad de ningún otro trámite."
+    },
+    {
+      "id": "112.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › párrafo 5",
+      "texto": "Artículo Reformado"
+    }
+  ]
+}

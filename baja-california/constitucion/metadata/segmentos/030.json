@@ -1,0 +1,45 @@
+{
+  "clave": "030",
+  "etiqueta": "Artículo 30",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "030.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 1",
+      "texto": "Las comisiones de dictamen legislativo anunciarán al Ejecutivo del Estado, cuando menos con cinco días de anticipación, la fecha de la sesión cuando haya de discutirse un proyecto, a fin de que pueda enviar un representante que, sin voto tome parte en los trabajos."
+    },
+    {
+      "id": "030.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 2",
+      "texto": "El mismo procedimiento se seguirá con:"
+    },
+    {
+      "id": "030.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción I",
+      "texto": "I.- El Poder Judicial, cuando la iniciativa se refiere a asuntos relativos a la organización, funcionamiento y competencia del ramo de la Administración de Justicia; y"
+    },
+    {
+      "id": "030.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción II",
+      "texto": "II.- Los ayuntamientos, cuando la Iniciativa se refiera a los asuntos de carácter municipal, en los términos de esta Constitución.\n\nArtículo Reformado"
+    }
+  ]
+}

@@ -1,0 +1,261 @@
+{
+  "clave": "060",
+  "etiqueta": "Artículo 60",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "060.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › párrafo 1",
+      "texto": "La elección de Magistradas y Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y de Juezas o Jueces del Poder Judicial del Estado, se realizará por el voto libre, directo y secreto de la ciudadanía, conforme al siguiente procedimiento:"
+    },
+    {
+      "id": "060.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción I",
+      "texto": "I. El Congreso del Estado emitirá y publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes al inicio del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda.\n\nLa convocatoria deberá contener las etapas completas del procedimiento, sus fechas, plazos y los cargos a elegir."
+    },
+    {
+      "id": "060.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción II",
+      "texto": "II. A efecto de lo anterior, el Consejo de Administración del Poder Judicial del Estado deberá remitir oportunamente al Congreso local, los cargos sujetos a elección, la especialización por materia, el partido judicial respectivo y demás información que requiera."
+    },
+    {
+      "id": "060.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción III",
+      "texto": "III. Cada uno de los Poderes del Estado postularán candidaturas en los siguientes términos:"
+    },
+    {
+      "id": "060.III.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 60 › Fracción III › inciso a)",
+      "texto": "a) De hasta dos personas por cada cargo, tratándose de las Magistraturas del Tribunal Superior de Justicia, y de Juezas y Jueces del Poder Judicial del Estado; y,"
+    },
+    {
+      "id": "060.III.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 60 › Fracción III › inciso b)",
+      "texto": "b) De hasta dos personas por cada cargo, tratándose de las Magistraturas del Tribunal de Disciplina Judicial.\n\nLas postulaciones del Poder Ejecutivo se realizarán por conducto de la persona titular, las del Poder Legislativo mediante votación de las dos terceras partes de los integrantes presentes del Congreso del Estado, y las del Poder Judicial mediante mayoría de al menos doce votos de las Magistraturas del Pleno de Tribunal Superior de Justicia."
+    },
+    {
+      "id": "060.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción IV",
+      "texto": "IV. Para la selección de sus candidaturas a postular, cada Poder del Estado deberá observar lo siguiente:"
+    },
+    {
+      "id": "060.IV.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 60 › Fracción IV › inciso a)",
+      "texto": "a) Establecerá mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación y evaluación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes; y presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación, y remitan cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo."
+    },
+    {
+      "id": "060.IV.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 60 › Fracción IV › inciso b)",
+      "texto": "b) Conformará un Comité de Evaluación compuesto por tres personas reconocidas en la actividad jurídica, que recibirá los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas del cargo que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia así como antecedentes académicos y profesionales en el ejercicio de la actividad jurídica.\n\nQuienes integren el Comité deberán cumplir con al menos los siguientes requisitos, observando la paridad de género:"
+    },
+    {
+      "id": "060.IV.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 60 › Fracción IV › 1.",
+      "texto": "1. Contar con ciudadanía mexicana, en pleno goce de sus derechos civiles y políticos;"
+    },
+    {
+      "id": "060.IV.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 60 › Fracción IV › 2.",
+      "texto": "2. No haber sido condenadas por delito alguno, salvo que hubiese sido de carácter no intencional o imprudencial;"
+    },
+    {
+      "id": "060.IV.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 60 › Fracción IV › 3.",
+      "texto": "3. Contar con título de licenciatura en derecho expedido legalmente, con antigüedad mínima de cinco años, y ejercicio profesional de la actividad jurídica de por lo menos cinco años; y,"
+    },
+    {
+      "id": "060.IV.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 60 › Fracción IV › 4.",
+      "texto": "4. No desempeñar ni haber desempeñado cargo de dirección nacional o estatal en algún partido político en los últimos tres años anteriores a la designación."
+    },
+    {
+      "id": "060.IV.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 60 › Fracción IV › inciso c)",
+      "texto": "c) Cada Comité de Evaluación integrará un listado de las personas aspirantes mejor evaluadas por cargo, en los siguientes términos:"
+    },
+    {
+      "id": "060.IV.1~2",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 60 › Fracción IV › 1.",
+      "texto": "1. De hasta tres personas tratándose de aspirantes a las Magistraturas Numerarias y Supernumerarias del Tribunal Superior de Justicia y de hasta tres personas en el caso de Juezas y Jueces del Poder Judicial del Estado; y,"
+    },
+    {
+      "id": "060.IV.2~2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 60 › Fracción IV › 2.",
+      "texto": "2. De hasta tres personas en el caso de aspirantes a las Magistraturas Numerarias y Supernumerarias del Tribunal de Disciplina Judicial del Poder Judicial del Estado."
+    },
+    {
+      "id": "060.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › párrafo 2",
+      "texto": "Los Comités de Evaluación se podrán coordinar para establecer criterios y metodologías de evaluación y selección adecuadas para identificar a las personas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo, así como de postulación común de candidaturas."
+    },
+    {
+      "id": "060.IV.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 60 › Fracción IV › inciso d)",
+      "texto": "d) Posteriormente, de resultar necesario, depurarán dicho listado mediante insaculación pública para ajustarlo en materia de paridad de género al número de postulaciones que corresponda para cada cargo."
+    },
+    {
+      "id": "060.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción V",
+      "texto": "V. Los Comités de Evaluación enviarán los listados definitivos de postulaciones a la autoridad correspondiente de cada Poder del Estado, para su aprobación y posterior remisión al Congreso del Estado."
+    },
+    {
+      "id": "060.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción VI",
+      "texto": "VI. El Congreso local recibirá las postulaciones y remitirá los listados de cada poder a la autoridad administrativa electoral competente a más tardar el doce de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.\n\nLas personas candidatas podrán ser postuladas simultáneamente por uno o varios de los Poderes, siempre que aspiren al mismo cargo en la elección correspondiente. En este supuesto, el Congreso del Estado deberá integrar además en un listado adicional las candidaturas comunes postuladas en esos términos, debiendo señalar en cada caso, los poderes y el cargo por el que los postulan.\n\nLos Poderes del Estado que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente.\n\nDe igual forma, las personas candidatas podrán participar en el proceso de registro y evaluación para un cargo de elección popular en el Poder Judicial del Estado, sin perjuicio de hacerlo también como aspirantes a un cargo de elección popular en el Poder Judicial de la Federación, en caso de ser incorporados a los listados ajustados para ambos cargos, no serán elegibles para el cargo estatal a menos que renuncien previamente a su postulación en el proceso electoral federal.\n\nEl Congreso del Estado incorporará a los listados que remita la autoridad administrativa electoral competente a las personas que se encuentren en funciones en los cargos de Magistrados y Magistradas del Tribunal Superior de Justicia y de Juezas y Jueces del Poder Judicial del Estado al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días naturales posteriores a la publicación de la convocatoria o sean postuladas en la elección local para un cargo o partido judicial diverso en su caso."
+    },
+    {
+      "id": "060.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción VII",
+      "texto": "VII. La etapa de preparación de la elección correspondiente iniciará con la primera sesión que el Consejo General de la autoridad administrativa electoral competente celebre en los primeros siete días del mes de septiembre del año anterior a la elección."
+    },
+    {
+      "id": "060.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción VIII",
+      "texto": "VIII. Las Juezas y Jueces del Poder Judicial serán electas respectivamente por demarcación territorial del o los partidos judiciales, y las Magistraturas del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial serán electas en todos los partidos judiciales del Estado, conforme al procedimiento previsto en este artículo y en las demás disposiciones aplicables."
+    },
+    {
+      "id": "060.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción IX",
+      "texto": "IX. Para determinar la validez o nulidad de los votos, se observarán las reglas siguientes:"
+    },
+    {
+      "id": "060.IX.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "IX",
+      "ruta": "Artículo 60 › Fracción IX › inciso a)",
+      "texto": "a) Se contará un voto válido, la marca o asiento que realice la persona votante en un recuadro de una misma boleta, en favor de una candidatura claramente identificable, con independencia de que puedan emitirse dos o más votos por diversas candidaturas contenidas en una misma boleta. En el caso de postulación común de los Poderes del Estado se atenderá lo dispuesto en los tres últimos párrafos de esta fracción."
+    },
+    {
+      "id": "060.IX.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "IX",
+      "ruta": "Artículo 60 › Fracción IX › inciso b)",
+      "texto": "b) La autoridad administrativa electoral competente determinará conforme al párrafo anterior la cantidad de votos válidos que pueda emitir cada persona votante en una misma boleta, en función del tipo de elección y el número de candidaturas a elegir."
+    },
+    {
+      "id": "060.IX.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "IX",
+      "ruta": "Artículo 60 › Fracción IX › inciso c)",
+      "texto": "c) Se contará como nulo cualquier voto depositado en la urna sin haber marcado o asentado alguna opción, o se realice de tal forma que no permita identificar el sentido de un voto.\n\nLas personas votantes podrán elegir la totalidad de las candidaturas postuladas por alguno de los Poderes del Estado, de las postuladas de manera común por dos o tres de los Poderes o de las candidaturas correspondientes a las Magistraturas, Juezas y Jueces que estén en funciones, marcando el recuadro dentro del que se contengan o con el que se identifique todo el listado.\n\nEl voto así emitido será válido, siempre que permita identificar el sentido del voto en función del tipo de elección y número de candidaturas a elegir, y contará para cada una de las candidaturas contenidas en el listado del Poder postulante, en el de las candidaturas comunes o en el de cargos en funciones, según sea el caso, asentándose en el apartado o espacio correspondiente del acta de escrutinio y cómputo de casilla.\n\nTratándose de postulación común de poderes, si una candidatura apareciera marcada en el recuadro relativo a dicha postulación, y a la vez se marcará en el recuadro del poder o poderes que la postularon en lo individual, se contará como como un voto."
+    },
+    {
+      "id": "060.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción X",
+      "texto": "X. La autoridad administrativa electoral competente efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos electos por materia de especialización en forma alternada entre mujeres y hombres.\n\nTambién declarará la validez de la elección y enviará sus resultados al Tribunal de Justicia Electoral del Estado, el cual resolverá las impugnaciones que se presenten, a más tardar quince días antes de la fecha de toma de protesta de las candidaturas electas."
+    },
+    {
+      "id": "060.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción XI",
+      "texto": "XI. Las personas electas tomarán protesta de su encargo ante el Congreso del Estado al inicio del primer periodo ordinario de sesiones del año de la elección que corresponda.\n\nArtículo Reformado"
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "clave": "002",
+  "etiqueta": "Artículo 2",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "002.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 1",
+      "texto": "La porción de territorio nacional que corresponde al Estado, es la que le ha sido reconocida en la Constitución Política de los Estados Unidos Mexicanos."
+    }
+  ]
+}

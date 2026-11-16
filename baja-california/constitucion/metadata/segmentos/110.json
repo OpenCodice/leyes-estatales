@@ -1,0 +1,27 @@
+{
+  "clave": "110",
+  "etiqueta": "Artículo 110",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "110.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › párrafo 1",
+      "texto": "El Secretario General de Gobierno, y demás altos funcionarios del Estado rendirán la protesta ante el Gobernador y los empleados en la forma que determinen las leyes respectivas. El Fiscal General del Estado, así como el Fiscal Especializado para la Atención de Delitos Electorales, y el Fiscal Especializado en Combate a la Corrupción rendirán protesta ante el Pleno del Congreso del Estado."
+    },
+    {
+      "id": "110.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › párrafo 2",
+      "texto": "Artículo Reformado"
+    }
+  ]
+}

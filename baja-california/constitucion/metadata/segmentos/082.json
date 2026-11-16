@@ -1,0 +1,261 @@
+{
+  "clave": "082",
+  "etiqueta": "Artículo 82",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "082.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › párrafo 1",
+      "texto": "Para el mejor desempeño de las facultades que le son propias, así como para la prestación de los servicios públicos y el ejercicio de las funciones que le son inherentes, los ayuntamientos tendrán a su cargo las siguientes:"
+    },
+    {
+      "id": "082.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › párrafo 2",
+      "texto": "Artículo Reformado"
+    },
+    {
+      "id": "082.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Apartado A",
+      "texto": "A. ATRIBUCIONES:"
+    },
+    {
+      "id": "082.A.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Apartado A › Fracción I",
+      "texto": "I.- Regular todos los ramos que sean competencia del Municipio y reformar, derogar o abrogar los ordenamientos que expida, así como establecer todas las disposiciones normativas de observancia general indispensables para el cumplimiento de sus fines;"
+    },
+    {
+      "id": "082.A.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Apartado A › Fracción II",
+      "texto": "II.- Expedir los bandos de policía y gobierno, así como los demás reglamentos, circulares y disposiciones administrativas, que regulen:"
+    },
+    {
+      "id": "082.A.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "A",
+      "fraccion": "II",
+      "ruta": "Artículo 82 › Apartado A › Fracción II › inciso a)",
+      "texto": "a) La organización y funcionamiento interno del gobierno, del Ayuntamiento y la administración pública municipal, estableciendo los procedimientos para el nombramiento y remoción de los funcionarios, comisionados y demás servidores públicos;"
+    },
+    {
+      "id": "082.A.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "A",
+      "fraccion": "II",
+      "ruta": "Artículo 82 › Apartado A › Fracción II › inciso b)",
+      "texto": "b) Las materias, procedimientos, funciones y servicios públicos de su competencia;"
+    },
+    {
+      "id": "082.A.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "A",
+      "fraccion": "II",
+      "ruta": "Artículo 82 › Apartado A › Fracción II › inciso c)",
+      "texto": "c) La participación ciudadana y vecinal; y"
+    },
+    {
+      "id": "082.A.II.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "A",
+      "fraccion": "II",
+      "ruta": "Artículo 82 › Apartado A › Fracción II › inciso d)",
+      "texto": "d) La preservación del orden y la seguridad pública."
+    },
+    {
+      "id": "082.A.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Apartado A › Fracción III",
+      "texto": "III.- Participar en las reformas de esta Constitución, en los términos previstos por la misma;"
+    },
+    {
+      "id": "082.A.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Apartado A › Fracción IV",
+      "texto": "IV.- Establecer y organizar demarcaciones administrativas dentro del territorio municipal para el ejercicio de sus funciones, la prestación de los servicios públicos a su cargo y la atención de las necesidades de su población;"
+    },
+    {
+      "id": "082.A.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Apartado A › Fracción V",
+      "texto": "V.- Resolver respecto a la afectación, uso y destino de los bienes muebles municipales;"
+    },
+    {
+      "id": "082.A.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Apartado A › Fracción VI",
+      "texto": "VI.- Resolver, mediante el voto aprobatorio de las dos terceras partes de sus integrantes, respecto de la afectación, gravamen, enajenación, uso y destino de los bienes inmuebles municipales;"
+    },
+    {
+      "id": "082.A.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Apartado A › Fracción VII",
+      "texto": "VII.- Formular, dirigir e implementar la política de desarrollo social municipal; fomentar y regular el deporte y la cultura populares;"
+    },
+    {
+      "id": "082.A.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Apartado A › Fracción VIII",
+      "texto": "VIII.- Regular, autorizar, controlar y vigilar el uso del suelo en sus competencias territoriales;"
+    },
+    {
+      "id": "082.A.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Apartado A › Fracción IX",
+      "texto": "IX.- Regular, autorizar, controlar y vigilar las construcciones, instalaciones y acciones de urbanización que se realicen dentro de sus competencias territoriales;"
+    },
+    {
+      "id": "082.A.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Apartado A › Fracción X",
+      "texto": "X.- Ejercer la función de seguridad pública municipal, en coordinación con los órdenes de gobierno federal y estatal; y"
+    },
+    {
+      "id": "082.A.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Apartado A › Fracción XI",
+      "texto": "XI.- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal."
+    },
+    {
+      "id": "082.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Apartado B",
+      "texto": "B. FUNCIONES Y SERVICIOS PÚBLICOS:"
+    },
+    {
+      "id": "082.B.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Apartado B › Fracción I",
+      "texto": "I.- Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;"
+    },
+    {
+      "id": "082.B.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Apartado B › Fracción II",
+      "texto": "II.- Alumbrado Público;"
+    },
+    {
+      "id": "082.B.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Apartado B › Fracción III",
+      "texto": "III.- Limpia, recolección, traslado, tratamiento y disposición final de residuos;"
+    },
+    {
+      "id": "082.B.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Apartado B › Fracción IV",
+      "texto": "IV.- Mercados y centrales de abasto;"
+    },
+    {
+      "id": "082.B.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Apartado B › Fracción V",
+      "texto": "V.- Panteones;"
+    },
+    {
+      "id": "082.B.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Apartado B › Fracción VI",
+      "texto": "VI.- Rastro;"
+    },
+    {
+      "id": "082.B.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Apartado B › Fracción VII",
+      "texto": "VII.- Calles, parques, jardines y su equipamiento;"
+    },
+    {
+      "id": "082.B.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Apartado B › Fracción VIII",
+      "texto": "VIII.- Seguridad Pública Municipal, policía preventiva y tránsito; y"
+    },
+    {
+      "id": "082.B.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Apartado B › Fracción IX",
+      "texto": "IX.- Catastro y control urbano.\n\nEl Congreso del Estado podrá establecer a favor de los municipios, la facultad de ejercer funciones o la prestación de servicios públicos de carácter supramunicipal, atendiendo a la eficacia de la gestión pública y tomando en consideración sus condiciones territoriales y socioeconómicas, así como su capacidad administrativa y financiera.\n\nSin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios a su cargo, los municipios observarán lo dispuesto por las leyes federales y estatales."
+    }
+  ]
+}
