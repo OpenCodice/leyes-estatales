@@ -1,0 +1,27 @@
+{
+  "clave": "075",
+  "etiqueta": "Artículo 75",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "075.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › párrafo 1",
+      "texto": "Al tomar posesión de su cargo, el Gobernador del Estado deberá rendir protesta ante el Congreso del Estado, en los términos siguientes:"
+    },
+    {
+      "id": "075.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › párrafo 2",
+      "texto": "\"PROTESTO GUARDAR Y HACER GUARDAR LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, LA DEL ESTADO DE SAN LUIS POTOSÍ Y LAS LEYES QUE DE ELLAS EMANEN Y DESEMPEÑAR CON LEALTAD Y PATRIOTISMO EL CARGO QUE SE ME CONFIERE, PARA BIEN DE LA NACIÓN Y DE ESTE ESTADO Y, SI ASI NO LO HICIERE, QUE EL PUEBLO ME LO DEMANDE\"."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "clave": "088",
+  "etiqueta": "Artículo 88",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "088.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88 › párrafo 1",
+      "texto": "Las renuncias de las Magistradas o Magistrados y Juezas o Jueces, o miembro del Tribunal de Disciplina Judicial, solamente procederán por causas graves; serán aprobadas por mayoría de los miembros presentes del Congreso del Estado o, en sus recesos por la Diputación Permanente."
+    },
+    {
+      "id": "088.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88 › párrafo 2",
+      "texto": "(REFORMADO P.O. 3 DE SEPTIEMBRE DE 2026) Las licencias, cuando no excedan de un mes, podrán ser concedidas por el Pleno del Tribunal Superior de Justicia para el caso de Magistradas y Magistrados, por el Pleno del Tribunal de Disciplina Judicial para el caso de sus integrantes y por el órgano de administración judicial para el caso de Juezas y Jueces. Las licencias que excedan de este tiempo deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Diputación Permanente, salvo en el caso de Juezas y Jueces, que podrán concederse sin goce de sueldo por el órgano de administración judicial."
+    },
+    {
+      "id": "088.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88 › párrafo 3",
+      "texto": "Ninguna licencia podrá exceder del término de un año."
+    },
+    {
+      "id": "088.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88 › párrafo 4",
+      "texto": "(REFORMADO, P.O. 27 DE ENERO DE 2025) Las competencias, modo de suplir las faltas y obligaciones de las Magistradas y los Magistrados, y las Juezas o Jueces y demás Servidores Públicos del Poder Judicial, serán determinadas por su ley orgánica, atendiendo las bases previstas por esta Constitución."
+    },
+    {
+      "id": "088.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88 › párrafo 5",
+      "texto": "(ADICIONADO, P.O. 3 DE SEPTIEMBRE DE 2026) Las personas juzgadoras que aspiren a un cargo de elección distinto al que ostenten deberán separarse del cargo mediante renuncia expresa e irrevocable, la cual informarán al órgano de administración judicial antes de su registro en el proceso correspondiente. El órgano de administración judicial comunicará de inmediato la vacante a la autoridad competente para que el cargo sea sujeto a elección."
+    }
+  ]
+}

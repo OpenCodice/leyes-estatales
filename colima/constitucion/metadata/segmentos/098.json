@@ -1,0 +1,63 @@
+{
+  "clave": "098",
+  "etiqueta": "Artículo 98º",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "098.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98º › párrafo 1",
+      "texto": "Los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, el Estado otorgará y retirará el reconocimiento de validez oficial a los estudios que se realicen en los planteles particulares."
+    },
+    {
+      "id": "098.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98º › párrafo 2",
+      "texto": "(REFORMADO, DECRETO 508, P.O. NÚM. 77, 09 DE OCTUBRE DE 2021)"
+    },
+    {
+      "id": "098.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98º › párrafo 3",
+      "texto": "En el caso de la educación inicial, preescolar, primaria, secundaria y normal, los particulares deberán:"
+    },
+    {
+      "id": "098.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98º › párrafo 4",
+      "texto": "(REFORMADA, P.O. 29 DE AGOSTO DE 2020)"
+    },
+    {
+      "id": "098.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98º › Fracción I",
+      "texto": "I. Impartir la educación con apego a los mismos fines y criterios, así como cumplir los planes y programas a que se refieren los párrafos cuartos, décimo primero y décimo segundo, así como la fracción II, del artículo 3o. de la Constitución Federal, y"
+    },
+    {
+      "id": "098.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98º › Fracción II",
+      "texto": "II. Obtener previamente, en cada caso, la autorización expresa del poder público, en los términos que establezca la ley."
+    }
+  ]
+}

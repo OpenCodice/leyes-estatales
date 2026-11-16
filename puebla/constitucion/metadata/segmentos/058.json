@@ -1,0 +1,45 @@
+{
+  "clave": "058",
+  "etiqueta": "Artículo 58",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "058.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 1",
+      "texto": "El Congreso al aprobar la Ley de Egresos del Estado, verificará que en la misma se incluyan los tabuladores desglosados de las remuneraciones que se propone perciban los servidores públicos de las Dependencias y de las Entidades Paraestatales."
+    },
+    {
+      "id": "058.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 2",
+      "texto": "Las Entidades Paraestatales deberán incluir anualmente en sus presupuestos de egresos, los tabuladores desglosados de las remuneraciones de sus servidores públicos, tomando como base los tabuladores aprobados por el Congreso en la Ley de Egresos del Estado."
+    },
+    {
+      "id": "058.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 3",
+      "texto": "Los Poderes Legislativo y Judicial del Estado, así como los Organismos con autonomía reconocida en esta Constitución que ejerzan recursos del presupuesto de egresos del Estado, deberán incluir en sus respectivos proyectos de presupuesto de egresos, los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, a efecto de que se incluyan en la Iniciativa de Ley de Egresos del Estado para su aprobación."
+    },
+    {
+      "id": "058.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 4",
+      "texto": "En la determinación de las remuneraciones a que se refiere este artículo, los entes públicos señalados en los párrafos que anteceden, deberán observar las bases establecidas en el artículo 134 de esta Constitución."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "113",
+  "etiqueta": "Artículo 113",
+  "titulo": "",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "113.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 113 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 18 DE MAYO DE 2001)"
+    },
+    {
+      "id": "113.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 113 › párrafo 2",
+      "texto": "Cada servidor público de los cuerpos de seguridad es responsable ante la Ley de sus actos."
+    },
+    {
+      "id": "113.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 113 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 21 DE MAYO DE 2024)"
+    },
+    {
+      "id": "113.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 113 › párrafo 4",
+      "texto": "El Secretario de Gobierno y la persona titular de la Fiscalía General de Justicia del Estado, así como sus subordinados, serán responsables de los actos de su respectivo cuerpo de seguridad y del uso de la fuerza pública."
+    }
+  ]
+}

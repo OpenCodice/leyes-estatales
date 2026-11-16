@@ -1,0 +1,63 @@
+{
+  "clave": "004",
+  "etiqueta": "Artículo 4",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "004.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 1",
+      "texto": "Nadie debe ser juzgado por leyes privativas ni por tribunales especiales; son necesarias leyes expedidas con anterioridad al hecho y tribunales previamente establecidos por la ley."
+    },
+    {
+      "id": "004.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 2",
+      "texto": "En el Estado queda prohibida la esclavitud y la discriminación con motivo del origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, la condición de migrante, la orientación sexual, identidad, expresiones de género y características sexuales, la vestimenta, el estado civil, el estado de indigencia y situación de calle o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o reducir derechos y libertades de los individuos."
+    },
+    {
+      "id": "004.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 3",
+      "texto": "Párrafo reformado mediante decreto Número 1263 aprobado el 30 de junio del 2015 y publicado en el Periódico Oficial Extra del 30 de junio del 2015."
+    },
+    {
+      "id": "004.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 4",
+      "texto": "Párrafo reformado mediante decreto Número 2296, aprobado por la LXV Legislatura del Estado el 13 de junio del 2024 y publicado en el Periódico Oficial número 27 Décimo primera sección del 6 de julio del 2024."
+    },
+    {
+      "id": "004.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 5",
+      "texto": "Las autoridades del Estado, en su respectiva esfera de atribuciones, tienen el deber de garantizar las condiciones necesarias para que los individuos gocen de los derechos que establece la Constitución; así como de proteger los que se reserve el pueblo de Oaxaca mediante el juicio de protección de derechos humanos. La violación de los mismos implicará la sanción correspondiente y, en su caso, la reparación del daño, en términos de Ley."
+    },
+    {
+      "id": "004.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 6",
+      "texto": "Párrafo reformado mediante decreto Número 1263 aprobado el 30 de junio del 2015 y publicado en el Periódico Oficial Extra del 30 de junio del 2015."
+    }
+  ]
+}

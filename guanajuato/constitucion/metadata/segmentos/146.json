@@ -1,0 +1,27 @@
+{
+  "clave": "146",
+  "etiqueta": "Artículo 146",
+  "titulo": "TITULO DECIMO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "146.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 146 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 144], P.O. 6 DE SEPTIEMBRE DE 2016)"
+    },
+    {
+      "id": "146.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 146 › párrafo 2",
+      "texto": "Si por algún trastorno público dejare de regir en la República la Constitución Federal y, entre tanto el orden se restablece, el Estado de Guanajuato se gobernará solamente por la presente Constitución y por las Leyes que de ella emanen."
+    }
+  ]
+}

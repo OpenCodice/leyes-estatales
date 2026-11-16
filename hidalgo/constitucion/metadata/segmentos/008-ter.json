@@ -1,0 +1,36 @@
+{
+  "clave": "008-ter",
+  "etiqueta": "Artículo 8 Ter",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "008-ter.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 Ter › párrafo 1",
+      "texto": "Esta Constitución reconoce a los animales como seres sintientes. Por lo tanto, se consideran sujetos de tutela, garantizándoles con ello condiciones óptimas que les provean bienestar, así como la preservación de su vida y dignidad. Su tutela es de responsabilidad común. En consecuencia, las personas y el Estado tienen la obligación de respetar y, en su caso, proteger la vida y la integridad de todo animal, evitando cualquier acto de negligencia, maltrato o crueldad en su contra, en los términos que señale la normatividad respectiva."
+    },
+    {
+      "id": "008-ter.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 Ter › párrafo 2",
+      "texto": "Artículo adicionado, P.O. Alcance cuatro del 24 de julio de 2025."
+    },
+    {
+      "id": "008-ter.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 Ter › párrafo 3",
+      "texto": "Artículo reformado, P.O. Alcance uno de 22 de abril de 2026."
+    }
+  ]
+}

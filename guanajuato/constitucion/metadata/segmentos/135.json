@@ -1,0 +1,27 @@
+{
+  "clave": "135",
+  "etiqueta": "Artículo 135",
+  "titulo": "TITULO DECIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "135.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 133], P.O. 6 DE SEPTIEMBRE DE 2016)"
+    },
+    {
+      "id": "135.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › párrafo 2",
+      "texto": "Si el Senado de la República, en ejercicio de sus atribuciones constitucionales, declara desaparecidos los Poderes del Estado de Guanajuato, por el voto de la mayoría de los Presidentes Municipales de la Entidad, será nombrado un Gobernador Provisional, quien, de inmediato, convocará a elecciones, las que se celebrarán en un plazo que no podrá exceder de tres meses, contado a partir de la declaratoria de desaparición de Poderes."
+    }
+  ]
+}

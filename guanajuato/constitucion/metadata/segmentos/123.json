@@ -1,0 +1,45 @@
+{
+  "clave": "123",
+  "etiqueta": "Artículo 123",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "123.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "123.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 2",
+      "texto": "Los Servidores Públicos son responsables por los delitos que cometan y por las faltas administrativas en que incurran, en los términos que señalen las Leyes."
+    },
+    {
+      "id": "123.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 3",
+      "texto": "(ADICIONADO, P.O. 23 DE DICIEMBRE DE 2003)"
+    },
+    {
+      "id": "123.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 4",
+      "texto": "El Estado y sus Municipios son responsables en forma directa y objetiva de los daños que, con motivo de su actividad administrativa irregular, ocasionen a los particulares en sus bienes o derechos, por lo que el afectado tendrá derecho a recibir una indemnización, que se determinará conforme a las bases, límites y procedimientos que establezcan las leyes."
+    }
+  ]
+}

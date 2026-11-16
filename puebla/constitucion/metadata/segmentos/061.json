@@ -1,0 +1,90 @@
+{
+  "clave": "061",
+  "etiqueta": "Artículo 61",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "061.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › párrafo 1",
+      "texto": "Son atribuciones de la Comisión Permanente:"
+    },
+    {
+      "id": "061.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › Fracción I",
+      "texto": "I.- Acordar por sí o a propuesta del Ejecutivo, oyéndolo en el primer caso, la convocatoria de la Legislatura a sesiones extraordinarias. La convocatoria señalará el objeto de las sesiones y la fecha en que deban comenzar."
+    },
+    {
+      "id": "061.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › Fracción II",
+      "texto": "II.- Recibir la protesta de las Diputadas y Diputados, Magistradas, Magistrados, Juezas y Jueces del Tribunal Superior de Justicia, Magistradas y Magistrados del Tribunal de Disciplina Judicial, así como del Tribunal de Justicia Administrativa, Auditora o Auditor Superior del Estado, en su caso, Gobernadora o Gobernador y demás que conforme a Ley deba conocer el Congreso del Estado;"
+    },
+    {
+      "id": "061.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › Fracción III",
+      "texto": "III.- Conceder licencias al Gobernador del Estado, a los Diputados cuando el número de éstos no exceda de la mitad de los que la integran, al Auditor Superior del Estado y a los servidores públicos de la Legislatura; y nombrar en calidad de provisionales, Gobernador del Estado, Auditor Superior del Estado y demás que conforme a Ley corresponda al Congreso;"
+    },
+    {
+      "id": "061.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › Fracción IV",
+      "texto": "IV.- Nombrar Gobernador provisional, cuando falte absolutamente el Gobernador de elección popular dentro de los cuatro últimos años del período, si la falta acaeciere durante un receso del Congreso, y convocar a éste para elegir Gobernador sustituto."
+    },
+    {
+      "id": "061.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › Fracción V",
+      "texto": "V.- Llamar a los Diputados suplentes cuando exista cualquiera (sic) causa que inhabilite a los Diputados propietarios designados para integrar la Comisión Permanente o fallecieren éstos. Los suplentes llamados ocuparán sin previa designación del Congreso, los lugares destinados a los propietarios."
+    },
+    {
+      "id": "061.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › Fracción VI",
+      "texto": "VI.- Recibir las solicitudes y demás documentos que se dirijan al Congreso; resolver desde luego respecto de los asuntos que tengan carácter de urgentes y que no exijan la expedición de una ley o decreto; y reservar las demás para dar cuenta al Congreso."
+    },
+    {
+      "id": "061.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › Fracción VII",
+      "texto": "VII.- Turnar a la Comisión general que corresponda, para dictamen, los asuntos que reciba y que sean de la competencia del Congreso, el que resolverá sobre ellos en el período ordinario de sesiones."
+    },
+    {
+      "id": "061.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › Fracción VIII",
+      "texto": "VIII.- Las demás que le confieran esta Constitución y las leyes."
+    }
+  ]
+}

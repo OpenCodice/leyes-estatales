@@ -1,0 +1,36 @@
+{
+  "clave": "118",
+  "etiqueta": "Artículo 118",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPITULO VII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "118.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › párrafo 1",
+      "texto": "Para el ejercicio de la facultad establecida en la fracción VI del artículo 112 de la presente Constitución, el Tribunal Superior de Justicia contará con una Sala de Control Constitucional integrada por tres magistrados."
+    },
+    {
+      "id": "118.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › párrafo 2",
+      "texto": "El control de constitucionalidad es un procedimiento para mantener el principio de supremacía constitucional; tiene por objeto dirimir de manera definitiva e inatacable los conflictos constitucionales que surjan dentro del ámbito estatal, sin perjuicio de lo previsto en la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "118.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › párrafo 3",
+      "texto": "La Sala de Control Constitucional, además ejercerá una función consultiva para los órganos del Estado, a fin de interpretar las normas contenidas en esta Constitución."
+    }
+  ]
+}

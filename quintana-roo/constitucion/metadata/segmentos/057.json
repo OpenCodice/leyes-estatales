@@ -1,0 +1,36 @@
+{
+  "clave": "057",
+  "etiqueta": "Artículo 57",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "057.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › párrafo 1",
+      "texto": "Las Diputadas o Diputados de la Legislatura que hayan desempeñado su cargo no podrán ser reelectas para el periodo inmediato posterior al ejercicio de su mandato."
+    },
+    {
+      "id": "057.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › párrafo 2",
+      "texto": "Las Diputadas o Diputados suplentes podrán ser electas o electos para el periodo inmediato con el carácter de propietarias o propietarios, siempre que no hubieren estado en ejercicio; pero las Diputadas o Diputados propietarias o propietarios no podrán ser electas o electos para el periodo inmediato con el carácter de suplentes."
+    },
+    {
+      "id": "057.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › párrafo 3",
+      "texto": "Artículo reformado POE 06-11-2015, 29-05-2026"
+    }
+  ]
+}

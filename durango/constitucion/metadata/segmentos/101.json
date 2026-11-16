@@ -1,0 +1,54 @@
+{
+  "clave": "101",
+  "etiqueta": "Artículo 101",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "101.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 1",
+      "texto": "El Congreso del Estado, por sí o a solicitud de una cuarta parte de sus miembros, podrá citar a las personas titulares de las Secretarías del Despacho del Ejecutivo, a la persona Titular de la Fiscalía General del Estado, a las personas titulares de las Entidades de la Administración Pública Estatal y a las personas titulares de los Organismos a los que esta Constitución reconoce autonomía para que comparezcan, rindan informe, o respondan a los cuestionamientos que les formule el Congreso del Estado, previa solventación del procedimiento que fije la ley o el acuerdo parlamentario correspondiente."
+    },
+    {
+      "id": "101.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 2",
+      "texto": "Igual obligación tendrán, cuando se discuta una ley o se estudie un negocio concerniente a su respectivo ramo, debiendo enviarles la Mesa Directiva respectiva, el citatorio correspondiente, con anticipación razonable y haciéndole saber el motivo exacto de su comparecencia."
+    },
+    {
+      "id": "101.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 3",
+      "texto": "Las personas titulares de las dependencias, entidades y organismos del Gobierno Estatal, deberán proporcionar al Congreso del Estado, la información o documentación que les sea requerida mediante pregunta por escrito, la cual deberá ser respondida en un término no mayor a quince días. El cumplimiento de esta obligación se realizará de conformidad con la ley."
+    },
+    {
+      "id": "101.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 4",
+      "texto": "ARTICULO REFORMADO DEC. 51, LXVII, P. O. No. 8, 26 DE ENERO DE 2017."
+    },
+    {
+      "id": "101.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 5",
+      "texto": "REFORMADO POR DEC. 585 P.O. 11 EXT. DEL 24 DE MAYO DE 2022."
+    }
+  ]
+}

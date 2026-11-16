@@ -1,0 +1,81 @@
+{
+  "clave": "012",
+  "etiqueta": "Artículo 12º",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "012.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Apartado A",
+      "texto": "A. La educación gozará de especial atención en el Estado, en los términos que establecen la Constitución Federal y la presente Constitución."
+    },
+    {
+      "id": "012.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Apartado A › párrafo 1",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "012.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Apartado A › párrafo 2",
+      "texto": "La formación de las y los educandos se realizará en el marco de fortalecimiento de los valores de la justicia, la tolerancia, la bondad, la rectitud, la honestidad y el diálogo y, en todo caso, fomentará en ellos la cultura de la paz y la legalidad, como una forma de aprender a vivir en armonía utilizando como métodos alternativos de solución de conflictos."
+    },
+    {
+      "id": "012.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Apartado A › párrafo 3",
+      "texto": "(ADICIONADO DECRETO NO. 144, P.O. 70, SUPL. 4, 12 DE JULIO DE 2025)"
+    },
+    {
+      "id": "012.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Apartado A › párrafo 4",
+      "texto": "Se reconoce a la Lengua de Señas Mexicana como lengua nacional y parte del patrimonio lingüístico del Estado, por lo que se impulsará que las personas Sordas reciban una educación en Lengua de Señas Mexicana, y se promoverá su enseñanza y utilización mediante un esfuerzo coordinado entre el Gobierno del Estado y los Municipios, las instituciones educativas, la sociedad civil y la comunidad de personas Sordas."
+    },
+    {
+      "id": "012.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Apartado B",
+      "texto": "B. El Gobierno del Estado y los gobiernos municipales promoverán la construcción de vivienda popular e inducirán a los sectores privado y social hacia ese propósito, de conformidad con las disposiciones legales aplicables."
+    },
+    {
+      "id": "012.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Apartado C",
+      "texto": "C. Todas las autoridades, dentro del marco de sus atribuciones, están obligadas a vigilar y garantizar el derecho a vivir en un medio ambiente sano y equilibrado, así como a promover una adecuada conservación y protección del medio ambiente y de los recursos naturales de la Entidad."
+    },
+    {
+      "id": "012.D",
+      "tipo": "apartado",
+      "marca": "D",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12º › Apartado D",
+      "texto": "D. El Estado, con la participación de los sectores público y privado, organizará un sistema de protección civil, el cual estará bajo la dirección del titular del Poder Ejecutivo."
+    }
+  ]
+}

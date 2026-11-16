@@ -1,0 +1,36 @@
+{
+  "clave": "067",
+  "etiqueta": "Artículo 67",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "067.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 › párrafo 1",
+      "texto": "Las iniciativas de leyes y decretos deberán ser analizadas, discutidas, dictaminadas en comisiones y votadas por el Pleno a más tardar en el siguiente periodo ordinario de sesiones."
+    },
+    {
+      "id": "067.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 › párrafo 2",
+      "texto": "En caso contrario, la Mesa Directiva deberá presentar la exposición de motivos y el clausulado de la iniciativa como dictamen en el subsecuente periodo ordinario de sesiones."
+    },
+    {
+      "id": "067.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 › párrafo 3",
+      "texto": "Los Ayuntamientos del Estado contarán con un plazo no mayor de 60 días naturales para aprobar un decreto de reforma constitucional."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "clave": "008",
+  "etiqueta": "Artículo 8",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "008.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 1",
+      "texto": "Son obligaciones de los habitantes del Estado:"
+    },
+    {
+      "id": "008.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción I",
+      "texto": "I.- Las mismas que esta Constitución impone a los transeúntes;"
+    },
+    {
+      "id": "008.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción II",
+      "texto": "II.- Las que establece el artículo 31 de la Constitución Política de los Estados Unidos Mexicanos;"
+    },
+    {
+      "id": "008.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción III",
+      "texto": "III.- Las demás que la presente Constitución imponga;"
+    },
+    {
+      "id": "008.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción IV",
+      "texto": "IV.- Los extranjeros, aparte de acatar puntualmente lo establecido en la Constitución de la República, en la presente y en las disposiciones legales que de ellas emanen, deberán contribuir a los gastos públicos en la proporción, forma y tiempo que dispongan las Leyes y sujetarse a los fallos y sentencias de los Tribunales, sin poder intentar otros recursos que los concedidos a los mexicanos."
+    }
+  ]
+}

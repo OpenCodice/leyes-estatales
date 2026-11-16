@@ -1,0 +1,45 @@
+{
+  "clave": "005",
+  "etiqueta": "Artículo 5",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "005.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 1",
+      "texto": "Son Yucatecos:"
+    },
+    {
+      "id": "005.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Fracción I",
+      "texto": "I.- Todos los nacidos dentro o fuera del territorio del Estado, de padres yucatecos;"
+    },
+    {
+      "id": "005.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Fracción II",
+      "texto": "II.- Los nacionales originarios de las demás Entidades de la República Mexicana, que hubiesen residido en el Estado seis meses consecutivos; y"
+    },
+    {
+      "id": "005.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Fracción III",
+      "texto": "III.- Los extranjeros que se naturalicen con arreglo a las Leyes de la República y que hubieren residido en el Estado seis meses consecutivos."
+    }
+  ]
+}

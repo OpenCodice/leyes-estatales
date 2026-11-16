@@ -1,0 +1,27 @@
+{
+  "clave": "200",
+  "etiqueta": "Artículo 200",
+  "titulo": "TITULO XIV",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "200.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 200 › párrafo 1",
+      "texto": "Cualquier persona, en cuyo perjuicio se viole alguno de los derechos expresados en los artículos 6, 7 y 8 de esta Constitución, podrá ocurrir en queja contra la autoridad infractora ante el Supremo Tribunal de Justicia del Estado, el que hará cesar el agravio e impondrá a la autoridad responsable la pena correspondiente. La ley reglamentará el ejercicio de este derecho."
+    },
+    {
+      "id": "200.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 200 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1o. de octubre de 1994]"
+    }
+  ]
+}

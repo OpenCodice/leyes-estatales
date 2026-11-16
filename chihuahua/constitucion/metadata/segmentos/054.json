@@ -1,0 +1,27 @@
+{
+  "clave": "054",
+  "etiqueta": "Artículo 54",
+  "titulo": "TITULO VII",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "054.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › párrafo 1",
+      "texto": "Siempre que el Congreso abra o cierre un período de sesiones, lo hará por formal decreto."
+    },
+    {
+      "id": "054.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 296-3-4 P.E. publicado en el P.O.E. No. 7 del 24 de enero de 1979]"
+    }
+  ]
+}

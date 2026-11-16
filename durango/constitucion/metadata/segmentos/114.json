@@ -1,0 +1,36 @@
+{
+  "clave": "114",
+  "etiqueta": "Artículo 114",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPITULO VII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "114.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 › párrafo 1",
+      "texto": "(DEROGADO)"
+    },
+    {
+      "id": "114.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 › párrafo 2",
+      "texto": "REFORMADO POR DEC. 119 P.O. 22 DEL 16 DE MARZO DE 2017."
+    },
+    {
+      "id": "114.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 › párrafo 3",
+      "texto": "ARTICULO DEROGADO POR DEC. 132, P.O. 87 DE 30 DE OCTUBRE DE 2022."
+    }
+  ]
+}

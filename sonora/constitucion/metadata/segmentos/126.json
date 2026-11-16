@@ -1,0 +1,27 @@
+{
+  "clave": "126",
+  "etiqueta": "Artículo 126",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "126.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126 › párrafo 1",
+      "texto": "Las Juezas y los Jueces serán electos en términos del artículo 113 BIS de la presente Constitución y durarán nueve años en el cargo, al término de los cuales podrán ser reelectos de forma consecutiva cada que concluya su periodo. Podrán ser privados de su cargo en cualquier momento en los casos y conforme a los procedimientos que establezca esta Constitución y la Ley."
+    },
+    {
+      "id": "126.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126 › párrafo 2",
+      "texto": "Para ser Jueza o Juez se requiere cumplir con los requisitos establecidos en el artículo 114 de esta Constitución."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "075",
+  "etiqueta": "Artículo 75",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "075.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › párrafo 1",
+      "texto": "Todos los reglamentos, decretos, acuerdos, circulares y órdenes del Gobernador, deberán ser firmados por el Secretario de la dependencia a que el asunto corresponda, sin cuyo requisito no surtirá sus efectos legales."
+    },
+    {
+      "id": "075.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › párrafo 2",
+      "texto": "Tratándose de los actos promulgatorios de las leyes o decretos que realice el Gobernador, solo se requerirá el refrendo del Secretario General de Gobierno, requisito sin el cual no serán obligatorios."
+    }
+  ]
+}

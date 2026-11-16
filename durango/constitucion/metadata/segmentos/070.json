@@ -1,0 +1,54 @@
+{
+  "clave": "070",
+  "etiqueta": "Artículo 70",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "070.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 1",
+      "texto": "Las diputadas y los diputados no podrán ser reelectos para el periodo inmediato posterior al ejercicio de su mandato."
+    },
+    {
+      "id": "070.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 2",
+      "texto": "Únicamente las personas electas, mediante la figura de suplencia, podrán ser electas para el periodo inmediato con el carácter de propietaria, siempre y cuando no hubiesen ejercido el cargo de forma temporal o definitiva, las personas diputadas propietarias no podrán ser electas para el periodo inmediato con el carácter de suplentes."
+    },
+    {
+      "id": "070.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 3",
+      "texto": "ARTICULO REFORMADO POR DEC. 128, P. O. 19,6 DE MARZO DE 2014."
+    },
+    {
+      "id": "070.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 4",
+      "texto": "REFORMADO POR DEC. 585 P.O. 11 EXT. DEL 24 DE MAYO DE 2022."
+    },
+    {
+      "id": "070.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 5",
+      "texto": "ARTÍCULO REFORMADO POR DEC. 426, P.O. 44 BIS, DEL 31 DE MAYO DE 2026."
+    }
+  ]
+}

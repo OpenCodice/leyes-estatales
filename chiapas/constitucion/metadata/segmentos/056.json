@@ -1,0 +1,45 @@
+{
+  "clave": "056",
+  "etiqueta": "Artículo 56",
+  "titulo": "Título Sexto",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "056.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › párrafo 1",
+      "texto": "Se considerará, que existe falta absoluta del Gobernador en los siguientes casos:"
+    },
+    {
+      "id": "056.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción I",
+      "texto": "I.- Por muerte, o incapacidad total y permanente."
+    },
+    {
+      "id": "056.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción II",
+      "texto": "II. Por ser sentenciado por cargos de responsabilidad política o por delitos del orden común calificados por el Congreso del Estado, erigido en Gran Jurado.\n\n(REFORMA PUBLICADA MEDIANTE P.O. NUM. 390 DE FECHA 30 DE AGOSTO DE 2018, DECRETO 274)"
+    },
+    {
+      "id": "056.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción III",
+      "texto": "III. Por renuncia expresa o por causa grave que será calificada por el Congreso del Estado."
+    }
+  ]
+}

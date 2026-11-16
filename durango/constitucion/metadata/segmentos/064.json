@@ -1,0 +1,36 @@
+{
+  "clave": "064",
+  "etiqueta": "Artículo 64",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "064.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › párrafo 1",
+      "texto": "Las y los servidores públicos estatales y municipales, en el ámbito de sus competencias y con sujeción a la ley, garantizarán la libertad del sufragio y la imparcialidad en el uso de los recursos públicos; y estarán obligados a abstenerse de participar para influir en la equidad de la competencia entre los partidos políticos."
+    },
+    {
+      "id": "064.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › párrafo 2",
+      "texto": "PÁRRAFO REFORMADO POR DEC. 585 P.O. 11 EXT. DEL 24 DE MAYO DE 2022."
+    },
+    {
+      "id": "064.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › párrafo 3",
+      "texto": "El incumplimiento en que incurra cualquier servidor público dará lugar a la aplicación de las sanciones previstas por la ley."
+    }
+  ]
+}

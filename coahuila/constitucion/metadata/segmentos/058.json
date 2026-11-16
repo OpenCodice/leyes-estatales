@@ -1,0 +1,27 @@
+{
+  "clave": "058",
+  "etiqueta": "Artículo 58º",
+  "titulo": "TITULO TERCERO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "058.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE JUNIO DE 1988)"
+    },
+    {
+      "id": "058.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º › párrafo 2",
+      "texto": "La Ley Orgánica del Congreso del Estado señalará las formalidades con que deban celebrarse las sesiones de apertura y de clausura."
+    }
+  ]
+}

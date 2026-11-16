@@ -1,0 +1,45 @@
+{
+  "clave": "099",
+  "etiqueta": "Artículo 99",
+  "titulo": "Título Noveno",
+  "capitulo": "Capítulo III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "099.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 1",
+      "texto": "(SE REFORMA MEDIANTE P.O. NUM. 303 DE FECHA 30 DE JUNIO DE 2017, DECRETO 220)"
+    },
+    {
+      "id": "099.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 2",
+      "texto": "El Instituto de Elecciones y Participación Ciudadana y el Tribunal Electoral del Estado de Chiapas, tendrán a su cargo la organización de las elecciones y la resolución de las controversias que se susciten sobre esta materia, por lo que estos organismos gozarán de autonomía funcional, administrativa y presupuestaria e independencia en sus decisiones. Dichas autoridades ejercerán sus atribuciones de acuerdo con lo establecido en esta Constitución y las leyes secundarias que de ella emanen. Las demás autoridades y los particulares estarán obligados a acatar sus requerimientos."
+    },
+    {
+      "id": "099.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 3",
+      "texto": "Para garantizar que los referidos organismos electorales gocen de autonomía financiera, el Congreso del Estado deberá asignarles el presupuesto necesario para el cumplimiento de sus fines, de conformidad con la suficiencia presupuestal en el ejercicio correspondiente."
+    },
+    {
+      "id": "099.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 4",
+      "texto": "Dichos organismos electorales están obligados a cumplir con todas las disposiciones que se establezcan para la administración de recursos públicos, y deberán ejercer sus presupuestos bajo los criterios de legalidad, honestidad, eficiencia, eficacia, economía, racionalidad, austeridad, transparencia, control, rendición de cuentas y equidad de género."
+    }
+  ]
+}

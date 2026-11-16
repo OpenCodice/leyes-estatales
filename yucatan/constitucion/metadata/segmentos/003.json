@@ -1,0 +1,71 @@
+{
+  "clave": "003",
+  "etiqueta": "Artículo 3",
+  "titulo": "TÍTULO PRELIMINAR",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "003.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 1",
+      "texto": "Todos los habitantes del Estado están obligados a:"
+    },
+    {
+      "id": "003.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción I",
+      "texto": "I.- Cumplir con las Leyes vigentes y a respetar y obedecer a las autoridades legítimamente constituidas;"
+    },
+    {
+      "id": "003.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción II",
+      "texto": "II.- Contribuir a los gastos públicos del Estado como del Municipio en que residan, de la manera proporcional y equitativa, que dispongan las leyes que establezcan contribuciones, que para tal efecto expida el Congreso del Estado;"
+    },
+    {
+      "id": "003.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción III",
+      "texto": "III.- Prestar los servicios que las Leyes prescriban, considerándose como tales los servicios que las autoridades requieran, con arreglo a las Leyes, en casos de epidemia, guerra, siniestro o cualquiera otra contingencia grave;"
+    },
+    {
+      "id": "003.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción IV",
+      "texto": "IV.- Inscribirse en el padrón de su municipalidad manifestando la propiedad que tengan, o la industria, profesión o trabajo de que subsistan; y"
+    },
+    {
+      "id": "003.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción V",
+      "texto": "V.- Corresponsabilizarse con el Estado en la protección y vigilancia de los derechos de las niñas, niños y adolescentes, conforme a las leyes, así como ser responsables de que sus hijas, hijos o pupilos menores de dieciocho años concurran a las escuelas, para recibir la educación obligatoria en los términos que establezca la ley, así como participar en su proceso educativo, al revisar su progreso y desempeño, así como fomentar en ellos, hábitos de una vida saludable, velando siempre por su bienestar y desarrollo.",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DO 09-06-2020, 08-04-2026",
+          "fechas": [
+            "2020-06-09"
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "clave": "132",
+  "etiqueta": "Artículo 132",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "132.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › párrafo 1",
+      "texto": "Los Municipios tendrán a su cargo las funciones y servicios públicos siguientes:"
+    },
+    {
+      "id": "132.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Fracción I",
+      "texto": "I.- Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;"
+    },
+    {
+      "id": "132.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Fracción II",
+      "texto": "II.- Alumbrado público;"
+    },
+    {
+      "id": "132.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Fracción III",
+      "texto": "III.- Limpia, recolección, traslado, tratamiento y disposición final de residuos;"
+    },
+    {
+      "id": "132.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Fracción IV",
+      "texto": "IV.- Mercados y centrales de abasto;"
+    },
+    {
+      "id": "132.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Fracción V",
+      "texto": "V.- Panteones;"
+    },
+    {
+      "id": "132.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Fracción VI",
+      "texto": "VI.- Rastro;"
+    },
+    {
+      "id": "132.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Fracción VII",
+      "texto": "VII.- Calles, parques y jardines y su equipamiento;"
+    },
+    {
+      "id": "132.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Fracción VIII",
+      "texto": "VIII.- Seguridad Pública, en los términos del artículo 21 de la Constitución Federal, policía preventiva municipal y tránsito; el ejercicio del mando estará sujeto al cumplimiento de las capacidades y estándares establecidas en la Ley de Seguridad Pública del Estado; y"
+    },
+    {
+      "id": "132.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Fracción IX",
+      "texto": "IX.- Los demás que la legislatura local determine según las condiciones territoriales y socioeconómicas de los Municipios, así como su capacidad administrativa y financiera.\n\nSin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios a su cargo, los Municipios observarán lo dispuesto por las leyes federales y estatales.\n\nLos Municipios, previo acuerdo entre sus ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les corresponda. En este caso y tratándose de la asociación de Municipios de este Estado y otro u otros de uno o más Estados, deberán contar con la aprobación de las legislaturas de los Estados respectivos. Así mismo, cuando a juicio del ayuntamiento sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio."
+    }
+  ]
+}

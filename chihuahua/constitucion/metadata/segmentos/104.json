@@ -1,0 +1,27 @@
+{
+  "clave": "104",
+  "etiqueta": "Artículo 104",
+  "titulo": "TITULO IX",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "104.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 › párrafo 1",
+      "texto": "Se deroga."
+    },
+    {
+      "id": "104.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 › párrafo 2",
+      "texto": "[Artículo derogado mediante Decreto No. LXVIII/RFCNT/0172/2024 I P.O. publicado en el P.O.E. No. 103 del 25 de diciembre de 2024]"
+    }
+  ]
+}

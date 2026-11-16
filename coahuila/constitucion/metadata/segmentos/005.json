@@ -1,0 +1,27 @@
+{
+  "clave": "005",
+  "etiqueta": "Artículo 5º",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "005.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "005.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5º › párrafo 2",
+      "texto": "El territorio del Estado tiene la extensión y límites que legalmente le corresponden, siendo un deber de las autoridades y de los ciudadanos conservarlo y defenderlo."
+    }
+  ]
+}

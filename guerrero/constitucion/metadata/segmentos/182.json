@@ -1,0 +1,27 @@
+{
+  "clave": "182",
+  "etiqueta": "Artículo 182",
+  "titulo": "TÍTULO DÉCIMO PRIMERO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "182.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 182 › párrafo 1",
+      "texto": "El gobierno del Estado podrá recurrir a empréstitos como fuente de recursos, de conformidad con lo establecido en la fracción IV del artículo 62 de esta Constitución y las leyes en la materia."
+    },
+    {
+      "id": "182.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 182 › párrafo 2",
+      "texto": "El endeudamiento se empleará únicamente en casos excepcionales o que estén plenamente motivados y fundados, de acuerdo a los fines establecidos en la ley de Deuda Pública del Estado."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "106",
+  "etiqueta": "Artículo 106",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "106.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 106 › párrafo 1",
+      "texto": "El Estado vigilará y cooperará con el Gobierno Federal en la observancia de la higiene y salubridad pública, dictando las disposiciones y adoptando las medidas que fueren necesarias para prevenir y combatir las enfermedades, las epidemias y las epizootias."
+    },
+    {
+      "id": "106.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 106 › párrafo 2",
+      "texto": "La atención a la salud será considerada como un área prioritaria para el desarrollo del Estado y de la sociedad en su conjunto, conforme a los derechos humanos reconocidos por la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales en los que México sea parte, en los términos que establezcan las leyes respectivas."
+    },
+    {
+      "id": "106.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 106 › párrafo 3",
+      "texto": "Artículo Reformado"
+    }
+  ]
+}

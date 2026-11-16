@@ -1,0 +1,45 @@
+{
+  "clave": "104",
+  "etiqueta": "Artículo 104",
+  "titulo": "",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "104.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "104.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 › párrafo 2",
+      "texto": "La revisión y fiscalización de las cuentas públicas estará a cargo de un órgano técnico del Congreso del Estado, denominado Órgano de Fiscalización Superior el cual, en el desempeño de sus funciones, tendrá autonomía técnica y de gestión en el ejercicio de sus atribuciones, así como para decidir sobre su organización interna, funcionamiento y resoluciones de conformidad con la ley. Su presupuesto será integrado al presupuesto general del Congreso."
+    },
+    {
+      "id": "104.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 18 DE JULIO DE 2017)"
+    },
+    {
+      "id": "104.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 › párrafo 4",
+      "texto": "La función de fiscalización se desarrollará conforme a los principios de legalidad, definitividad, imparcialidad y confiabilidad. Son sujetos de fiscalización superior, los poderes del Estado, los municipios, entidades, organismos autónomos y en general cualquier persona pública o privada que haya recaudado, administrado, manejado o ejercido recursos públicos."
+    }
+  ]
+}

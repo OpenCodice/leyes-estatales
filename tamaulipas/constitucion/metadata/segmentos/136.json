@@ -1,0 +1,36 @@
+{
+  "clave": "136",
+  "etiqueta": "Artículo 136",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "136.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 136 › párrafo 1",
+      "texto": "La policía preventiva estará al mando la presidenta o del presidente municipal, en los términos de la Ley de Seguridad Pública del Estado. Aquélla acatará las órdenes que la Gobernadora o el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público."
+    },
+    {
+      "id": "136.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 136 › párrafo 2",
+      "texto": "La Gobernadora o el Gobernador del Estado tendrá el mando de la fuerza pública en los lugares donde resida habitual o transitoriamente."
+    },
+    {
+      "id": "136.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 136 › párrafo 3",
+      "texto": "La ley establecerá los procedimientos para la evaluación, subrogación, y en su caso, la intervención en las instancias y servicios municipales de seguridad pública."
+    }
+  ]
+}

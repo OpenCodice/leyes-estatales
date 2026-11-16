@@ -1,0 +1,81 @@
+{
+  "clave": "011-bis",
+  "etiqueta": "Artículo 11 Bis",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "011-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 Bis › párrafo 1",
+      "texto": "Son mecanismos de participación ciudadana los siguientes:"
+    },
+    {
+      "id": "011-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 Bis › párrafo 2",
+      "texto": "A.- El plebiscito, a través del cual, los ciudadanos ejercen su participación opinando sobre los actos y acciones gubernamentales de los Poderes Ejecutivo, Legislativo y de los Municipios; calificadas como trascendentales para la vida pública y el interés social."
+    },
+    {
+      "id": "011-bis.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 Bis › párrafo 3",
+      "texto": "B.- El referéndum, a través del cual, se garantiza la participación ciudadana para recabar su opinión sobre el contenido total o parcial de las reformas a la Constitución, así como de la creación, derogación o reformas a las leyes o decretos, que acuerde el Poder Legislativo. De los Ayuntamientos, cuando se trate del Bando de Policía y Gobierno, y los reglamentos municipales."
+    },
+    {
+      "id": "011-bis.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 Bis › Apartado C",
+      "texto": "C.- La iniciativa popular, por medio de la cual la ciudadanía tiene el derecho de presentar proyectos de creación, reforma o adición a la Constitución, a las leyes, decretos, Bando de Policía y Gobierno o reglamentos municipales."
+    },
+    {
+      "id": "011-bis.D",
+      "tipo": "apartado",
+      "marca": "D",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 Bis › Apartado D",
+      "texto": "D.- La revocación de mandato de los representantes populares electos."
+    },
+    {
+      "id": "011-bis.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 11 Bis › Apartado D › párrafo 4",
+      "texto": "La ley establecerá el porcentaje de ciudadanos que deberán solicitar la revocación de mandato, así como el porcentaje de votación ciudadana que se requiere para que dicha consulta adquiera fuerza vinculante y por tanto obligatoria, tomando como base el listado nominal de la elección que corresponda."
+    },
+    {
+      "id": "011-bis.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 11 Bis › Apartado D › párrafo 5",
+      "texto": "Los requisitos, procedimientos y demás regulación en la materia se establecerán en la ley reglamentaria."
+    },
+    {
+      "id": "011-bis.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 11 Bis › Apartado D › párrafo 6",
+      "texto": "La organización, el desarrollo, el cómputo y declaración de los resultados que se obtengan de los mecanismos de participación ciudadana son una función estatal, que corresponde al Instituto Electoral y de Participación Ciudadana de Yucatán."
+    }
+  ]
+}

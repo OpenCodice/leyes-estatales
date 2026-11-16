@@ -1,0 +1,36 @@
+{
+  "clave": "144",
+  "etiqueta": "Artículo 144º",
+  "titulo": "TITULO QUINTO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "144.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 144º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024) (REFORMADO, P.O. 17 DE JUNIO DE 1988)"
+    },
+    {
+      "id": "144.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 144º › párrafo 2",
+      "texto": "La Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza, regulará el Estatuto Jurídico que formarán un cuerpo único de los titulares de la función judicial y del personal de carrera judicial y servicio profesional de la administración de justicia, así como las condiciones para su ingreso, ascenso, permanencia y retiro."
+    },
+    {
+      "id": "144.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 144º › párrafo 3",
+      "texto": "La formación y actualización de los servidores públicos judiciales estará a cargo de la escuela de formación judicial que es la garantía de la carrera judicial y del servicio profesional de carrera, los cuales se regirán por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y honorabilidad."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "clave": "135",
+  "etiqueta": "Artículo 135º",
+  "titulo": "TITULO QUINTO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "135.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024) (REFORMADO, PRIMER PÁRRAFO, P.O. 22 DE NOVIEMBRE DE 2019) (REFORMADO PRIMER PÁRRAFO, P.O. 14 DE JULIO DE 2017) (REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015)"
+    },
+    {
+      "id": "135.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135º › párrafo 2",
+      "texto": "(REFORMADO, P.O. 22 DE JUNIO DE 2007)"
+    },
+    {
+      "id": "135.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135º › párrafo 3",
+      "texto": "El Poder Judicial se deposita, para su ejercicio, en el Tribunal Superior de Justicia, en los Tribunales Distritales, en los Juzgados de Primera Instancia, cualquiera que sea su denominación y en los demás órganos judiciales que con cualquier otro nombre determinen las leyes. El Pleno del Tribunal Superior de Justicia se integrará con el número de magistraturas que establezca la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza. Será titular de su Presidencia, la persona magistrada que designe el Pleno por tres años, con posibilidad de ser reelecto por igual período. La representación del Poder Judicial recaerá en ella."
+    },
+    {
+      "id": "135.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135º › párrafo 4",
+      "texto": "El Poder Judicial del Estado contará con un Órgano de Administración Judicial, mientras que la vigilancia, disciplina, evaluación y contraloría de su personal estará́ a cargo del Tribunal de Disciplina Judicial, en los términos que señala esta Constitución y demás leyes aplicables."
+    },
+    {
+      "id": "135.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135º › párrafo 5",
+      "texto": "El período constitucional de los integrantes del Poder Judicial será:"
+    },
+    {
+      "id": "135.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135º › Fracción I",
+      "texto": "I. De nueve años, para las personas magistradas del Tribunal Superior de Justicia;"
+    },
+    {
+      "id": "135.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135º › Fracción II",
+      "texto": "II. De nueve años, para las personas magistradas del Tribunal de Disciplina Judicial;"
+    },
+    {
+      "id": "135.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135º › Fracción III",
+      "texto": "III. De nueve años, para las personas magistradas de los Tribunales Distritales;"
+    },
+    {
+      "id": "135.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135º › Fracción IV",
+      "texto": "IV. De nueve años, para las personas juzgadoras de primera instancia; y De seis años, para las personas integrantes del Órgano de Administración Judicial"
+    }
+  ]
+}

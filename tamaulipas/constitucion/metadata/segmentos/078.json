@@ -1,0 +1,63 @@
+{
+  "clave": "078",
+  "etiqueta": "Artículo 78",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "078.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › párrafo 1",
+      "texto": "Para ser Gobernador se requiere:"
+    },
+    {
+      "id": "078.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción I",
+      "texto": "I.- Que el candidato esté en pleno goce de los derechos de ciudadanía de acuerdo con los Artículos 34, 35 y 36 de la Constitución Política de los Estados Unidos Mexicanos y que no haya ocurrido en su perjuicio ninguno de los motivos de pérdida ni de suspensión de derechos a que se refieren los Artículos 37 y 38 de la misma Constitución;"
+    },
+    {
+      "id": "078.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción II",
+      "texto": "II.- Ser mexicano de nacimiento;"
+    },
+    {
+      "id": "078.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción III",
+      "texto": "III.- Ser nativo del Estado, o con residencia efectiva en él no menor de 5 años inmediatamente anteriores al día de la elección;"
+    },
+    {
+      "id": "078.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción IV",
+      "texto": "IV.- Ser mayor de treinta años de edad el día de la elección; y,"
+    },
+    {
+      "id": "078.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción V",
+      "texto": "V.- Poseer suficiente instrucción."
+    }
+  ]
+}

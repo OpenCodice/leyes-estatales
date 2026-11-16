@@ -1,0 +1,54 @@
+{
+  "clave": "038",
+  "etiqueta": "Artículo 38",
+  "titulo": "TÍTULO PRIMERO DE LOS DERECHOS HUMANOS",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "038.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › párrafo 1",
+      "texto": "El Estado brindará protección a los duranguenses que residan en otra entidad federativa o en otro país, para la defensa de sus derechos humanos."
+    },
+    {
+      "id": "038.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › párrafo 2",
+      "texto": "En el caso de los duranguenses emigrantes que residan en el extranjero, tendrán además los siguientes derechos:"
+    },
+    {
+      "id": "038.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › Fracción I",
+      "texto": "I. A recibir asesoría jurídica en sus lugares de residencia."
+    },
+    {
+      "id": "038.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › Fracción II",
+      "texto": "II. A que se les brinde apoyo para su repatriación."
+    },
+    {
+      "id": "038.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › Fracción III",
+      "texto": "III. En caso de fallecimiento, a que los familiares cuenten con asistencia en la realización de trámites, en coordinación con otras instituciones y facilitar el retorno del fallecido.\n\nEl Estado reconoce y garantizará los derechos humanos de los transmigrantes en su tránsito por el territorio del Estado.\n\nEl Estado garantiza la vigencia plena de los derechos de las personas que por causa de la violencia generalizada o violación de sus derechos humanos, hayan sido desplazadas, dentro del propio territorio de la Entidad. La ley establecerá las bases para implementar políticas públicas tendientes a atender y asistir a las víctimas del desplazamiento forzoso."
+    }
+  ]
+}

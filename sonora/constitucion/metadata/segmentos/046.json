@@ -1,0 +1,27 @@
+{
+  "clave": "046",
+  "etiqueta": "Artículo 46",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "046.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › párrafo 1",
+      "texto": "El día 13 del mes de septiembre de cada año, el Titular del Poder Ejecutivo, por sí o de manera extraordinaria y, previo acuerdo, por conducto del Secretario de Gobierno o de quien aquél designe, presentará al Congreso del Estado, un informe sobre el estado que guarde la Administración Pública en sus diversos ramos."
+    },
+    {
+      "id": "046.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › párrafo 2",
+      "texto": "El último año de su ejercicio constitucional, el Titular del Poder Ejecutivo presentará el informe a que este precepto se refiere, el día 26 de agosto."
+    }
+  ]
+}

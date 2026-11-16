@@ -1,0 +1,63 @@
+{
+  "clave": "036",
+  "etiqueta": "Artículo 36",
+  "titulo": "Título Quinto",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "036.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › párrafo 1",
+      "texto": "El Poder Legislativo del Estado de Chiapas, se deposita en una Asamblea de Representantes del pueblo que se denominará Congreso del Estado."
+    },
+    {
+      "id": "036.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › párrafo 2",
+      "texto": "Las personas que ocupen una diputación en su carácter de representantes del pueblo, tienen derecho de opinar, discutir, defender sus ideas y los intereses que representan y jamás serán reconvenidos por las opiniones que emitan o las tesis que sustenten, ni se podrán entorpecer en sus gestiones cuando éstas se ajusten a la Ley."
+    },
+    {
+      "id": "036.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › párrafo 3",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O NUM.116 DE FECHA 08 DE JULIO DE 2026)"
+    },
+    {
+      "id": "036.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › párrafo 4",
+      "texto": "El Congreso del Estado, para su adecuado funcionamiento, contará con las áreas necesarias; mismas que estarán contempladas en la Ley de Desarrollo Constitucional del Congreso del Estado de Chiapas."
+    },
+    {
+      "id": "036.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › párrafo 5",
+      "texto": "(ADICIÓN PUBLICADA MEDIANTE P.O NUM.116 DE FECHA 08 DE JULIO DE 2026)"
+    },
+    {
+      "id": "036.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › párrafo 6",
+      "texto": "En el proyecto de Presupuesto de Egresos del Estado se contemplará en el presupuesto anual del Congreso, el cual no podrá exceder del cero punto setenta por ciento de aquel."
+    }
+  ]
+}

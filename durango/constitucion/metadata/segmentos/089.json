@@ -1,0 +1,36 @@
+{
+  "clave": "089",
+  "etiqueta": "Artículo 89",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "089.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › párrafo 1",
+      "texto": "Se deposita el ejercicio del Poder Ejecutivo en una sola persona que se denominará Gobernadora o Gobernador del Estado."
+    },
+    {
+      "id": "089.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › párrafo 2",
+      "texto": "La Gobernadora o el Gobernador del Estado, cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo; ni aún con el carácter de interino, provisional o substituto. La persona que haya sido Gobernador del Estado interino, sustituto o provisional, no podrá ocupar la gubernatura en el período inmediato, con ningún carácter."
+    },
+    {
+      "id": "089.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › párrafo 3",
+      "texto": "REFORMADO POR DEC. 585 P.O. 11 EXT. DEL 24 DE MAYO DE 2022."
+    }
+  ]
+}

@@ -1,0 +1,117 @@
+{
+  "clave": "001",
+  "etiqueta": "Artículo 1",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "001.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 1",
+      "texto": "El Estado de Oaxaca es multiétnico, pluricultural y multilingüe, parte integrante de los Estados Unidos Mexicanos, libre y soberano en todo lo que concierne a su régimen interior."
+    },
+    {
+      "id": "001.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 2",
+      "texto": "Párrafo primero reformado mediante decreto Número 1263 aprobado el 30 de junio del 2015 y publicado en el Periódico Oficial Extra del 30 de junio del 2015."
+    },
+    {
+      "id": "001.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 3",
+      "texto": "En el Estado todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte y esta Constitución. El poder público garantizará su protección cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la Constitución Política de los Estados Unidos Mexicanos establece."
+    },
+    {
+      "id": "001.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 4",
+      "texto": "Párrafo segundo reformado mediante decreto Número 1263 aprobado el 30 de junio del 2015 y publicado en el Periódico Oficial Extra del 30 de junio del 2015."
+    },
+    {
+      "id": "001.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 5",
+      "texto": "La interpretación de las normas relativas a los derechos humanos, se hará conforme a lo establecido en la Constitución Política de los Estados Unidos Mexicanos, favoreciendo en todo tiempo a las personas la protección más amplia. Para el ejercicio de los derechos humanos y las garantías constitucionales no se exigirán condiciones o requisitos que no estén establecidos en la Constitución o la ley. Ninguna norma jurídica podrá restringir los derechos humanos ni sus garantías."
+    },
+    {
+      "id": "001.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 6",
+      "texto": "Párrafo tercero adicionado mediante decreto Número 1263 aprobado el 30 de junio del 2015 y publicado en el Periódico Oficial Extra del 30 de junio del 2015."
+    },
+    {
+      "id": "001.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 7",
+      "texto": "Las autoridades del Estado, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos, de conformidad con los principios de universalidad, interdependencia, pluriculturalidad y progresividad. El Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos, en los términos que establezcan las leyes. En el caso de aquellos que se reserve el pueblo de Oaxaca, serán protegidos mediante el Juicio para la Protección de los Derechos Humanos. Todas las autoridades están obligadas a que en sus determinaciones o resoluciones que pronuncien deben de aplicar el control difuso de constitucionalidad y convencionalidad en materia de derecho humanos. Cuando exista alguna contradicción o conflicto en la aplicación de dos o más derechos humanos, el juzgador o autoridad respectiva aplicarán la ponderación, razonable, fundada, idónea y atendiendo a las necesidades de cada caso."
+    },
+    {
+      "id": "001.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 8",
+      "texto": "Párrafo cuarto adicionado mediante decreto Número 1263 aprobado el 30 de junio del 2015 y publicado en el Periódico Oficial Extra del 30 de junio del 2015."
+    },
+    {
+      "id": "001.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 9",
+      "texto": "Párrafo cuarto reformado mediante decreto número 798, aprobado por la LXIV Legislatura el 18 de septiembre de 2019 y publicado en el periódico oficial número 44 tercera sección de fecha 2 de noviembre de 2019."
+    },
+    {
+      "id": "001.p10",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 10",
+      "texto": "Todas las personas tienen derecho al respeto y protección de la dignidad humana y las autoridades del Estado deberán garantizar su observancia, conforme al ámbito de sus respectivas competencias."
+    },
+    {
+      "id": "001.p11",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 11",
+      "texto": "Párrafo quinto adicionado mediante decreto Número 2619 aprobado por la LXIV Legislatura del Estado el 11 de agosto del 2021 y publicado en el Periódico Oficial número 38 Octava Sección de fecha 18 de septiembre del 2021."
+    },
+    {
+      "id": "001.p12",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 12",
+      "texto": "(Artículo reformado mediante decreto número 2665, aprobado por la LXIV Legislatura del Estado el 1 de septiembre del 2021 y publicado en el Periódico Oficial número 38 Décimo primera sección, de fecha 18 de septiembre del 2021)"
+    }
+  ]
+}

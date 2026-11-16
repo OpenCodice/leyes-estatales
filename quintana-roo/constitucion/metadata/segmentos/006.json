@@ -1,0 +1,27 @@
+{
+  "clave": "006",
+  "etiqueta": "Artículo 6",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "006.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › párrafo 1",
+      "texto": "Quintana Roo es un Estado democrático, considerando a la democracia no solamente como una estructura jurídica y un régimen político, sino como un sistema de vida fundado en el permanente mejoramiento integral de su población. El Estado, por tanto, persigue la democracia en sus dimensiones, social, económica, política y cultural."
+    },
+    {
+      "id": "006.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › párrafo 2",
+      "texto": "Artículo reformado POE 17-07-2002"
+    }
+  ]
+}

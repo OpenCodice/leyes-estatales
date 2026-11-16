@@ -1,0 +1,61 @@
+{
+  "clave": "013",
+  "etiqueta": "Artículo 13",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "013.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 1",
+      "texto": "La soberanía reside esencial y originariamente en el pueblo, y la del Estado para su régimen interior, se ejerce por medio de los poderes públicos, los cuales dimanan del pueblo y se instituyen para su beneficio."
+    },
+    {
+      "id": "013.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 2",
+      "texto": "El Estado de Yucatán adopta la forma de gobierno republicano, representativo, democrático, laico y popular."
+    },
+    {
+      "id": "013.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 3",
+      "texto": "En el estado de Yucatán se fomentará el patrimonio cultural, así como la identidad local. Contará con símbolos estatales, los cuales son: himno, escudo y bandera, que serán respetados como símbolos distintivos y emblemáticos, ligados a su tradición histórica.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado D.O. 26-09-2023",
+          "fechas": [
+            "2023-09-26"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "013.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 4",
+      "texto": "Las características, así como el uso oficial y particular de los mismos serán determinadas por la ley secundaria.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado D.O. 26-09-2023",
+          "fechas": [
+            "2023-09-26"
+          ]
+        }
+      ]
+    }
+  ]
+}

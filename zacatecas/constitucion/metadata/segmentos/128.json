@@ -1,0 +1,45 @@
+{
+  "clave": "128",
+  "etiqueta": "Artículo 128",
+  "titulo": "TÍTULO V",
+  "capitulo": "CAPÍTULO QUINTO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "128.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 128 › párrafo 1",
+      "texto": "La Presidenta o el Presidente Municipal tendrá a su cargo la representación del Gobierno del Municipio y la ejecución de las resoluciones del Ayuntamiento."
+    },
+    {
+      "id": "128.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 128 › párrafo 2",
+      "texto": "Párrafo reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "128.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 128 › párrafo 3",
+      "texto": "La Síndica o el Síndico municipal asumirá la representación jurídica en los juicios en que el Ayuntamiento sea parte. A falta o negativa de la Síndica o del Síndico, tal personería recaerá en la Presidenta o el Presidente Municipal."
+    },
+    {
+      "id": "128.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 128 › párrafo 4",
+      "texto": "Párrafo reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "081",
+  "etiqueta": "Artículo 81",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "081.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 1",
+      "texto": "La administración de los ingresos y egresos del Estado, se efectuará con base en los principios de legalidad, honestidad, honradez, eficacia, eficiencia, economía, racionalidad, austeridad, transparencia, control y rendición de cuentas, para satisfacer los objetivos a los que estén destinados."
+    },
+    {
+      "id": "081.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 2",
+      "texto": "Los servidores públicos que les corresponda la administración de recursos del Estado, observarán el cumplimiento de estos principios, así como de la ley de la materia y demás normatividad aplicable; y serán responsables por el manejo indebido de recursos públicos en términos de esta Constitución y la normativa aplicable."
+    },
+    {
+      "id": "081.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 3",
+      "texto": "La aplicación de los recursos estatales, se evaluará de acuerdo con las Leyes de la materia."
+    }
+  ]
+}

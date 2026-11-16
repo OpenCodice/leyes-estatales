@@ -1,0 +1,36 @@
+{
+  "clave": "061",
+  "etiqueta": "Artículo 61",
+  "titulo": "Título Sexto",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "061.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › párrafo 1",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NUM. 412 DE FECHA 04 DE DICIEMBRE DE 2018, DECRETO 019)"
+    },
+    {
+      "id": "061.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › párrafo 2",
+      "texto": "Para el diseño de las políticas públicas se establecerán regiones socioeconómicas. En consecuencia, se partirá de la diversidad regional en el Estado para diseñar mecanismos que promuevan la cohesión social; las políticas y programas se adecuarán a las particularidades de los territorios y promoverán la participación de los grupos locales para la promoción del desarrollo regional sustentable."
+    },
+    {
+      "id": "061.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › párrafo 3",
+      "texto": "Las regiones socioeconómicas y los Municipios que las integran se establecerán en la normativa aplicable."
+    }
+  ]
+}

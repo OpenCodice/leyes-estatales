@@ -1,0 +1,162 @@
+{
+  "clave": "008",
+  "etiqueta": "Artículo 8",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "008.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 20 DE ENERO DE 2020)"
+    },
+    {
+      "id": "008.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 2",
+      "texto": "Son derechos de los ciudadanos votar y ser votados en las elecciones populares en condiciones de paridad de género; intervenir y participar, individual o colectivamente, en las decisiones públicas, en la formulación, ejecución y evaluación de las políticas, programas y actos de gobierno a través de los mecanismos de participación ciudadana previstos por la ley de la materia;"
+    },
+    {
+      "id": "008.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 3",
+      "texto": "desempeñar cualquier empleo, cargo o función del Estado o de los ayuntamientos, atendiendo el principio de paridad de género conforme a las normas aplicables y cuando se reúnan las condiciones que la ley exija para cada caso; y los demás que señala el artículo 35 de la Constitución Federal. Las dependencias y entidades de la Administración Pública, Estatal y municipales, así como, los órganos constitucionales autónomos que se determinen en la ley, en el ámbito de sus respectivas atribuciones, en concordancia con esta Constitución y las normas que las regulan, están obligadas a establecer los mecanismos de participación ciudadana y garantizar el derecho de los ciudadanos a utilizarlos en los términos que establezcan las normas que al efecto se emitan."
+    },
+    {
+      "id": "008.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 4",
+      "texto": "(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2015)"
+    },
+    {
+      "id": "008.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 5",
+      "texto": "Toda persona tendrá derecho a expresar sus ideas, las cuales no serán objeto de ninguna inquisición judicial o administrativa, de conformidad a lo previsto en la Constitución Federal. El derecho de réplica será ejercido en los términos dispuestos por la Ley."
+    },
+    {
+      "id": "008.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 6",
+      "texto": "(ADICIONADO, P.O. 20 DE OCTUBRE DE 2023)"
+    },
+    {
+      "id": "008.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 7",
+      "texto": "A fin de garantizar el derecho a difundir información y a la defensa de los derechos humanos, el Estado implementará un conjunto de mecanismos y medidas para garantizar la vida, integridad, libertad y seguridad de las personas que ejerzan el periodismo, la libertad de expresión y la defensa de los derechos humanos, con el fin de inhibir los factores de riesgo que favorezcan las agresiones o daño a la integridad física o psicológica de estas."
+    },
+    {
+      "id": "008.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 8",
+      "texto": "(REFORMADO [N. DE E. ESTE PÁRRAFO CON SUS FRACCIONES], P.O. 13 DE NOVIEMBRE DE 2015)"
+    },
+    {
+      "id": "008.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 9",
+      "texto": "Toda persona tendrá derecho al libre acceso a información plural y oportuna, así como a buscar, recibir y difundir información e ideas de toda índole por cualquier medio de expresión, el que se regirá por los siguientes principios y bases:"
+    },
+    {
+      "id": "008.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción I",
+      "texto": "I. Toda la información en posesión de cualquier autoridad, entidad, órgano y organismo de los Poderes Ejecutivo, Legislativo y Judicial, órganos autónomos, partidos políticos, fideicomisos y fondos públicos, así como de cualquier persona física, moral o sindicato que reciba y ejerza recursos públicos o realice actos de autoridad en el ámbito federal, estatal y municipal, es pública y sólo podrá ser reservada temporalmente por razones de interés público y seguridad nacional, en los términos que fijen las leyes. En la interpretación de este derecho deberá prevalecer el principio de máxima publicidad. Los sujetos obligados deberán documentar todo acto que derive del ejercicio de sus facultades, competencias o funciones, la ley determinará los supuestos específicos bajo los cuales procederá la declaración de inexistencia de la información;\n\n(REFORMADA, P.O. 3 DE ABRIL DE 2025)"
+    },
+    {
+      "id": "008.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción II",
+      "texto": "II. La información que se refiere a la vida privada y los datos personales será protegida en los términos y con las excepciones que fijen las leyes. Para tal efecto, los sujetos obligados contarán con las facultades suficientes para su atención.\n\nPor lo que hace a la información relacionada con los datos personales en posesión de particulares, la legislación secundaria aplicable en la materia determinará la competencia para conocer de los procedimientos relativos a su protección, verificación e imposición de sanciones;"
+    },
+    {
+      "id": "008.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción III",
+      "texto": "III. Toda persona, sin necesidad de acreditar interés alguno o justificar su utilización, tendrá acceso gratuito a la información pública, a sus datos personales o a la rectificación de éstos;\n\n(REFORMADA, P.O. 3 DE ABRIL DE 2025)"
+    },
+    {
+      "id": "008.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción IV",
+      "texto": "IV. La ley establecerá los mecanismos de acceso a la información pública y procedimientos de revisión expeditos que se sustanciarán ante las instancias competentes en los términos que fija esta Constitución y las leyes;"
+    },
+    {
+      "id": "008.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción V",
+      "texto": "V. Los sujetos obligados deberán preservar sus documentos en archivos administrativos actualizados y publicarán, a través de los medios electrónicos disponibles, la información completa y actualizada sobre el ejercicio de los recursos públicos y los indicadores que permitan rendir cuenta del cumplimiento de sus objetivos y de los resultados obtenidos;\n\n(REFORMADA, P.O. 3 DE ABRIL DE 2025)"
+    },
+    {
+      "id": "008.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción VI",
+      "texto": "VI. Las leyes determinarán la manera en que los sujetos obligados deberán hacer pública la información relativa a los recursos públicos que entreguen a personas físicas o morales;\n\n(REFORMADA, P.O. 3 DE ABRIL DE 2025)"
+    },
+    {
+      "id": "008.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción VII",
+      "texto": "VII. La inobservancia a las disposiciones en materia de acceso a la información pública será sancionada en los términos que dispongan las leyes; y, (ADICIONADA, P.O. 3 DE ABRIL DE 2025)"
+    },
+    {
+      "id": "008.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción VIII",
+      "texto": "VIII. Los sujetos obligados deberán promover, respetar, proteger y garantizar los derechos de acceso a la información pública y a la protección de datos personales. Las leyes en la materia determinarán las bases, principios generales y procedimientos del ejercicio de estos derechos, así como la competencia de las autoridades de control interno y vigilancia u homólogos en el ámbito estatal y municipal para conocer de los procedimientos de revisión contra los actos que emitan los sujetos obligados.\n\n(REFORMADO, P.O. 3 DE ABRIL DE 2025)\n\nEste derecho a la información deberá ser garantizado por el Estado. La ley establecerá aquella información que se considere reservada o confidencial.\n\n(ADICIONADO, P.O. 3 DE ABRIL DE 2025)\n\nLos sujetos obligados se regirán por la legislación en materia de transparencia y acceso a la información pública y protección de datos personales, en términos que ésta sea emitida por la autoridad competente para establecer las bases, principios generales y procedimientos del ejercicio de este derecho.\n\n(ADICIONADO, P.O. 3 DE ABRIL DE 2025)\n\nEl ejercicio de este derecho se regirá por los principios de certeza, legalidad, independencia, imparcialidad, eficacia, objetividad, profesionalismo, transparencia y máxima publicidad."
+    }
+  ]
+}

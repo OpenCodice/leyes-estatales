@@ -1,0 +1,36 @@
+{
+  "clave": "021",
+  "etiqueta": "Artículo 21",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "021.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 1",
+      "texto": "Los derechos de los ciudadanos suspensos o perdidos, se recobran:"
+    },
+    {
+      "id": "021.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción I",
+      "texto": "I. En los casos de la fracción I del artículo anterior, por recobrar los del ciudadano mexicano."
+    },
+    {
+      "id": "021.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción II",
+      "texto": "II. En los demás casos por cumplimiento de la pena, por haber finalizado el término o cesado las causas de la suspensión o por rehabilitación.\n\nLa única autoridad competente para la rehabilitación de la ciudadanía es la Legislatura del Estado."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "clave": "115",
+  "etiqueta": "Artículo 115",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPITULO VII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "115.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 115 › párrafo 1",
+      "texto": "(DEROGADO)"
+    },
+    {
+      "id": "115.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 115 › párrafo 2",
+      "texto": "PÁRRAFO REFORMADO POR DEC. 585 P.O. 11 EXT. DEL 24 DE MAYO DE 2022."
+    },
+    {
+      "id": "115.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 115 › párrafo 3",
+      "texto": "ARTÍCULO REFORMADO POR DEC. 387, P. O.63, 6 DE AGOSTO DE 2015."
+    },
+    {
+      "id": "115.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 115 › párrafo 4",
+      "texto": "REFORMADO POR DEC. 119 P.O. 22 DEL 16 DE MARZO DE 2017."
+    },
+    {
+      "id": "115.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 115 › párrafo 5",
+      "texto": "ARTICULO DEROGADO POR DEC. 132, P.O. 87 DE 30 DE OCTUBRE DE 2022."
+    }
+  ]
+}

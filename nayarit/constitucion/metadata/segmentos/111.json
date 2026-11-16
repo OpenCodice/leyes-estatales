@@ -1,0 +1,144 @@
+{
+  "clave": "111",
+  "etiqueta": "Artículo 111",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "111.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 1",
+      "texto": "Los municipios estarán investidos de personalidad jurídica y manejarán su patrimonio conforme a la ley."
+    },
+    {
+      "id": "111.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 2",
+      "texto": "En todo caso los Ayuntamientos tendrán facultades para:"
+    },
+    {
+      "id": "111.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › Fracción I",
+      "texto": "I. Aprobar, de acuerdo con las leyes en materia municipal, los bandos de policía y buen gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal;"
+    },
+    {
+      "id": "111.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › Fracción II",
+      "texto": "II. En el ámbito de su competencia, proponer al Congreso del Estado las cuotas, tasas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;"
+    },
+    {
+      "id": "111.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › Fracción III",
+      "texto": "III. En los términos de las leyes federales y estatales:"
+    },
+    {
+      "id": "111.III.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 111 › Fracción III › inciso a)",
+      "texto": "a) Aprobar y administrar la zonificación y planes de desarrollo urbano municipal;"
+    },
+    {
+      "id": "111.III.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 111 › Fracción III › inciso b)",
+      "texto": "b) Participar en la creación y administración de sus reservas territoriales;"
+    },
+    {
+      "id": "111.III.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 111 › Fracción III › inciso c)",
+      "texto": "c) Autorizar, controlar y vigilar las licencias y usos de suelos en sus jurisdicciones territoriales;"
+    },
+    {
+      "id": "111.III.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 111 › Fracción III › inciso d)",
+      "texto": "d) Intervenir en la regularización de la tenencia de la tierra urbana;"
+    },
+    {
+      "id": "111.III.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 111 › Fracción III › inciso e)",
+      "texto": "e) Otorgar licencias y permisos para construcciones;"
+    },
+    {
+      "id": "111.III.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 111 › Fracción III › inciso f)",
+      "texto": "f) Participar en la creación y administración de zonas de reservas ecológicas, y en la elaboración y aplicación de programas de ordenamiento en esta materia;"
+    },
+    {
+      "id": "111.III.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 111 › Fracción III › inciso g)",
+      "texto": "g) Participar en la formulación de programas de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando el Estado elabore proyectos de desarrollo regional deberá incluir la participación de los municipios;"
+    },
+    {
+      "id": "111.III.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 111 › Fracción III › inciso h)",
+      "texto": "h) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando afecten su ámbito territorial; y"
+    },
+    {
+      "id": "111.III.i",
+      "tipo": "inciso",
+      "marca": "i",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 111 › Fracción III › inciso i)",
+      "texto": "i) Celebrar convenios para la administración y custodia de las zonas federales.\n\n(REFORMADO, P.O. 5 DE MAYO DE 2025) En lo conducente y de conformidad con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Federal, expedirán los reglamentos y disposiciones administrativas que fueren necesarias, y (ADICIONADA, P.O. 5 DE MAYO DE 2025)"
+    },
+    {
+      "id": "111.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › Fracción IV",
+      "texto": "IV. Nombrar a las personas titulares de las dependencias y entidades de la administración pública municipal, observando el principio de paridad de género."
+    }
+  ]
+}

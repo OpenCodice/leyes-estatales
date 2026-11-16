@@ -1,0 +1,225 @@
+{
+  "clave": "002",
+  "etiqueta": "Artículo 2",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "002.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "002.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 2",
+      "texto": "El Poder Público únicamente puede lo que la Ley le concede y el gobernado todo lo que ésta no le prohíbe."
+    },
+    {
+      "id": "002.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 3",
+      "texto": "(ADICIONADO, P.O. 1 DE AGOSTO DE 2014)"
+    },
+    {
+      "id": "002.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 4",
+      "texto": "Los servidores públicos respetarán el ejercicio del derecho de petición, siempre que ésta se formule por escrito, de manera pacífica y respetuosa; pero en materia política sólo podrán hacer uso de ese derecho los ciudadanos mexicanos. A toda petición deberá recaer un acuerdo escrito de la autoridad a quien se haya dirigido, la cual tiene obligación de hacerlo conocer en breve término al peticionario."
+    },
+    {
+      "id": "002.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 5",
+      "texto": "(REFORMADO, P.O. 26 DE FEBRERO DE 2010)"
+    },
+    {
+      "id": "002.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 6",
+      "texto": "La ley es igual para todos, de ella emanan las atribuciones de las autoridades y los derechos y obligaciones de todas las personas que se hallen en el Estado de Guanajuato, ya sean domiciliadas o transeúntes. A todos corresponde el disfrute de sus beneficios y el acatamiento de sus disposiciones."
+    },
+    {
+      "id": "002.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 7",
+      "texto": "(REFORMADO, P.O. 26 DE FEBRERO DE 2010)"
+    },
+    {
+      "id": "002.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 8",
+      "texto": "A ninguna ley ni disposición gubernativa se dará efecto retroactivo en perjuicio de persona alguna. Contra su observancia no puede alegarse ignorancia, desuso, costumbre o práctica en contrario."
+    },
+    {
+      "id": "002.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 9",
+      "texto": "(REFORMADO, P.O. 26 DE FEBRERO DE 2010)"
+    },
+    {
+      "id": "002.p10",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 10",
+      "texto": "La ley establecerá y regulará la mediación y la conciliación como medios alternativos para la resolución de las controversias entre las partes interesadas, respecto a derechos de los cuales tengan libre disposición."
+    },
+    {
+      "id": "002.p11",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 11",
+      "texto": "(ADICIONADO, P.O. 26 DE FEBRERO DE 2010)"
+    },
+    {
+      "id": "002.p12",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 12",
+      "texto": "La mediación y la conciliación se regirán bajo los principios de equidad, imparcialidad, rapidez, profesionalismo y confidencialidad. El Poder Judicial contará con un órgano de mediación y conciliación el cual actuará en forma gratuita a petición de parte interesada. Dicho órgano tendrá la organización, atribuciones y funcionamiento que prevea la ley."
+    },
+    {
+      "id": "002.p13",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 13",
+      "texto": "(ADICIONADO, P.O. 26 DE FEBRERO DE 2010)"
+    },
+    {
+      "id": "002.p14",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 14",
+      "texto": "La ley regulará la aplicación de mecanismos alternativos de solución de controversias en la materia penal, en los que se asegure la reparación del daño y se establezcan los casos en los que se requerirá supervisión judicial."
+    },
+    {
+      "id": "002.p15",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 15",
+      "texto": "(ADICIONADO, P.O. 26 DE FEBRERO DE 2010)"
+    },
+    {
+      "id": "002.p16",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 16",
+      "texto": "El Poder Judicial es independiente de los demás poderes del Estado. El Ejecutivo garantizará la plena ejecución de las resoluciones judiciales."
+    },
+    {
+      "id": "002.p17",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 17",
+      "texto": "(REFORMADO, P.O. 24 DE NOVIEMBRE DE 2025)"
+    },
+    {
+      "id": "002.p18",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 18",
+      "texto": "Toda persona tiene derecho al trabajo digno y socialmente útil; a trabajo igual corresponderá salario igual, sin tener en cuenta sexo, género ni nacionalidad u origen étnico; la resolución de las diferencias o los conflictos entre trabajadores y patrones estará a cargo de tribunales laborales del Poder Judicial. Antes de acudir a dichos tribunales, los trabajadores y patrones deberán asistir a la instancia de conciliación que corresponda."
+    },
+    {
+      "id": "002.p19",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 19",
+      "texto": "(REFORMADO, P.O. 26 DE ABRIL DE 2018)"
+    },
+    {
+      "id": "002.p20",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 20",
+      "texto": "Las sentencias y resoluciones pronunciadas por los tribunales del Estado, solamente afectarán a las personas que hubieren sido citadas y emplazadas legalmente en el juicio en que se dicten y a sus causahabientes y deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía e independencia."
+    },
+    {
+      "id": "002.p21",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 21",
+      "texto": "(ADICIONADO, P.O. 26 DE FEBRERO DE 2010)"
+    },
+    {
+      "id": "002.p22",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 22",
+      "texto": "Las sentencias que pongan fin a los procedimientos orales, deberán ser explicadas en audiencia pública, previa citación a las partes."
+    },
+    {
+      "id": "002.p23",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 23",
+      "texto": "(ADICIONADO, P.O. 24 DE NOVIEMBRE DE 2025)"
+    },
+    {
+      "id": "002.p24",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 24",
+      "texto": "Las leyes establecerán los mecanismos para reducir y erradicar la brecha salarial de género."
+    }
+  ]
+}

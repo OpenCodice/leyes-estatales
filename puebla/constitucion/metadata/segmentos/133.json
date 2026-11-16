@@ -1,0 +1,54 @@
+{
+  "clave": "133",
+  "etiqueta": "Artículo 133",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "133.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › párrafo 1",
+      "texto": "Se prohíbe:"
+    },
+    {
+      "id": "133.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › Fracción I",
+      "texto": "I.- A los funcionarios estatales de elección popular desempeñar a la vez otro cargo, ya sea también de elección popular o de designación, en el Gobierno del Estado, en el Federal, en el Municipio o en entidades paraestatales."
+    },
+    {
+      "id": "133.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › Fracción II",
+      "texto": "II.- A las Magistradas y Magistrados, Juezas y Jueces del Tribunal Superior de Justicia, las y los respectivos Secretarios, Magistradas y Magistrados del Tribunal de Disciplina Judicial, las y los integrantes del Pleno del Órgano de Administración Judicial y funcionarios del Ministerio Público, el desempeño de cualquier otro cargo, empleo o comisión remunerados;"
+    },
+    {
+      "id": "133.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › Fracción III",
+      "texto": "III.- La infracción de lo dispuesto en las fracciones anteriores ocasionará la pérdida del cargo de elección popular o del cargo de nombramiento, que primeramente se hubiese protestado."
+    },
+    {
+      "id": "133.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › Fracción IV",
+      "texto": "IV.- Se exceptúan de esta prohibición las actividades docentes, científicas, literarias y de solidaridad social."
+    }
+  ]
+}

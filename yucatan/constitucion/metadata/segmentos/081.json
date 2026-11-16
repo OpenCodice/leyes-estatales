@@ -1,0 +1,44 @@
+{
+  "clave": "081",
+  "etiqueta": "Artículo 81",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO ÚNICO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "081.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 1",
+      "texto": "La Ley que organiza y reglamenta el funcionamiento de los ayuntamientos, establecerá un sistema de medios de impugnación en materia de lo contencioso administrativo, para dirimir las controversias que se presenten entre la administración pública municipal y los particulares; con sujeción a los principios de igualdad, publicidad, audiencia, legalidad, profesionalismo, gratuidad y proximidad. Los Municipios conforme a lo anterior, podrán contar con Tribunales de lo Contencioso Administrativo."
+    },
+    {
+      "id": "081.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 2",
+      "texto": "Dichos organismos privilegiarán la conciliación como mecanismo de solución de controversias."
+    },
+    {
+      "id": "081.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 3",
+      "texto": "En los municipios que no cuenten con un Tribunal de lo Contencioso Administrativo, resolverá las controversias a que se refiere el presente artículo, el Tribunal de Justicia Administrativa del Estado de Yucatán.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DO 28-07-2026",
+          "fechas": [
+            "2026-07-28"
+          ]
+        }
+      ]
+    }
+  ]
+}

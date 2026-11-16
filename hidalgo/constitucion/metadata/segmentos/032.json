@@ -1,0 +1,63 @@
+{
+  "clave": "032",
+  "etiqueta": "Artículo 32",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "032.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › párrafo 1",
+      "texto": "No pueden ser electos Diputados:"
+    },
+    {
+      "id": "032.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Fracción I",
+      "texto": "I.- La persona titular del Poder Ejecutivo del Estado;\n\nFracción reformada, P.O. Alcance uno del 12 de marzo de 2025."
+    },
+    {
+      "id": "032.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Fracción II",
+      "texto": "II.- Quienes pertenezcan al estado eclesiástico;"
+    },
+    {
+      "id": "032.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Fracción III",
+      "texto": "III.- Las personas titulares de las Secretarías de Gabinete del Poder Ejecutivo, las magistraturas del Tribunal Superior de Justicia, del Tribunal de Justicia Administrativa y del Tribunal de Disciplina Judicial, juezas y jueces del fuero común, la persona titular de la Fiscalía General de Justicia del Estado, de la Fiscalía Especializada en Delitos de Corrupción, de la Fiscalía Especializada en Delitos Electorales, de la Auditoría Superior del Estado y las y los servidores públicos de la Federación, residentes en el Estado, que no se hayan separado de sus respectivos cargos, cuando menos noventa días antes del día de la elección.\n\nPárrafo de la fracción reformado, P.O. Alcance uno del 22 de junio de 2022, alcance uno del 12 de marzo de 2025.\n\nEl Fiscal Especializado para la Atención de Delitos Electorales, los Consejeros Electorales, los integrantes de la Junta Estatal Ejecutiva del Instituto Estatal Electoral y los Magistrados del Tribunal Electoral, tampoco podrán serlo, a menos que se separen de su cargo un año antes del inicio del proceso electoral de que se trate."
+    },
+    {
+      "id": "032.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Fracción IV",
+      "texto": "IV.- Los Jueces de Primera Instancia en la circunscripción en la que ejerzan sus funciones y los Presidentes Municipales en el Distrito del que forme parte el Municipio de su competencia, si no se han separado unos y otros de sus cargos cuando menos noventa días naturales antes del día la elección; y"
+    },
+    {
+      "id": "032.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Fracción V",
+      "texto": "V.- Los Militares que no se hayan separado del servicio activo, cuando menos seis meses antes de la elección."
+    }
+  ]
+}

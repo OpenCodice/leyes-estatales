@@ -1,0 +1,45 @@
+{
+  "clave": "116",
+  "etiqueta": "Artículo 116",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "116.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › párrafo 1",
+      "texto": "La función estatal de protección, promoción, defensa y difusión de los derechos humanos que ampara el orden jurídico mexicano se deposita en un órgano denominado Comisión de los Derechos Humanos del Estado de Guerrero."
+    },
+    {
+      "id": "116.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › 1.",
+      "texto": "1. La Comisión de los Derechos Humanos del Estado de Guerrero ejercerá su función mediante la investigación de quejas presentadas por la probable violación de derechos humanos, y la formulación de recomendaciones públicas, denuncias y quejas ante las autoridades correspondientes;"
+    },
+    {
+      "id": "116.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › 2.",
+      "texto": "2. Las recomendaciones de la Comisión de los Derechos Humanos no serán vinculatorias; y,"
+    },
+    {
+      "id": "116.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › 3.",
+      "texto": "3. Toda autoridad o servidor público deberá responder formalmente y por escrito a las recomendaciones que se le presenten. Cuando no sean aceptadas o cumplidas, deberán hacer pública su negativa y, fundar y motivar su respuesta."
+    }
+  ]
+}

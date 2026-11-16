@@ -1,0 +1,27 @@
+{
+  "clave": "133-ter",
+  "etiqueta": "Artículo 133 Ter",
+  "titulo": "TÍTULO SEXTO BIS",
+  "capitulo": "Capítulo IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "133-ter.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 Ter › párrafo 1",
+      "texto": "La responsabilidad del Estado por los daños que, con motivo de su actividad administrativa irregular, cauce en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezca la ley de la materia. Para tal efecto, el Estado y los Municipios deberán incluir en sus respectivos presupuestos de egresos una partida para atender esta responsabilidad."
+    },
+    {
+      "id": "133-ter.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 Ter › párrafo 2",
+      "texto": "El pago de la indemnización se efectuará después de seguir los procedimientos que la ley establezca, el cual estará sujeto a la disponibilidad presupuestaria del ejercicio fiscal correspondiente."
+    }
+  ]
+}

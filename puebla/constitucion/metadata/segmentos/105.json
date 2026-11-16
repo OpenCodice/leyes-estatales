@@ -1,0 +1,342 @@
+{
+  "clave": "105",
+  "etiqueta": "Artículo 105",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "105.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › párrafo 1",
+      "texto": "La administración pública municipal será centralizada y descentralizada, con sujeción a las siguientes disposiciones:"
+    },
+    {
+      "id": "105.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción I",
+      "texto": "I.- Los Ayuntamientos residirán en las cabeceras de los Municipios y serán presididos por el Primer Regidor, quien tendrá el carácter de Presidente Municipal."
+    },
+    {
+      "id": "105.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción II",
+      "texto": "II.- Podrán establecerse las entidades que se juzguen convenientes para realizar los objetivos de la administración Municipal."
+    },
+    {
+      "id": "105.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción III",
+      "texto": "III.- Los Ayuntamientos tendrán facultades para expedir de acuerdo con las Leyes en materia Municipal que emita el Congreso del Estado, los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal.\n\nEl objeto de las Leyes en materia Municipal, será establecer:"
+    },
+    {
+      "id": "105.III.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 105 › Fracción III › inciso a)",
+      "texto": "a) Las bases generales de la administración pública municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;"
+    },
+    {
+      "id": "105.III.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 105 › Fracción III › inciso b)",
+      "texto": "b) Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los Ayuntamientos para dictar resoluciones que afecten el patrimonio municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del Ayuntamiento;"
+    },
+    {
+      "id": "105.III.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 105 › Fracción III › inciso c)",
+      "texto": "c) Las normas de aplicación general para celebrar los convenios a que se refieren la fracción XVII del artículo 79 y la fracción II del artículo 104 de esta Constitución;"
+    },
+    {
+      "id": "105.III.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 105 › Fracción III › inciso d)",
+      "texto": "d) El procedimiento y condiciones para que el Gobierno del Estado asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, el Congreso del Estado considere que el Municipio de que se trate esté imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del Ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes; y"
+    },
+    {
+      "id": "105.III.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 105 › Fracción III › inciso e)",
+      "texto": "e) Las disposiciones aplicables en aquellos Municipios que no cuenten con los bandos o reglamentos correspondientes."
+    },
+    {
+      "id": "105.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción IV",
+      "texto": "IV.- Los municipios, en los términos de las leyes federales y estatales relativas, estarán facultados para:"
+    },
+    {
+      "id": "105.IV.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 105 › Fracción IV › inciso a)",
+      "texto": "a) Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como los planes en materia de movilidad y seguridad vial, en términos de la legislación aplicable;"
+    },
+    {
+      "id": "105.IV.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 105 › Fracción IV › inciso b)",
+      "texto": "b) Participar en la creación y administración de sus reservas territoriales;"
+    },
+    {
+      "id": "105.IV.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 105 › Fracción IV › inciso c)",
+      "texto": "c) Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando el Estado elabore proyectos de desarrollo regional deberá asegurar la participación de los Municipios;"
+    },
+    {
+      "id": "105.IV.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 105 › Fracción IV › inciso d)",
+      "texto": "d) Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales;"
+    },
+    {
+      "id": "105.IV.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 105 › Fracción IV › inciso e)",
+      "texto": "e) Intervenir en la regulación de la tenencia de la tierra urbana;"
+    },
+    {
+      "id": "105.IV.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 105 › Fracción IV › inciso f)",
+      "texto": "f) Otorgar licencias y permisos para construcciones;"
+    },
+    {
+      "id": "105.IV.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 105 › Fracción IV › inciso g)",
+      "texto": "g) Participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;"
+    },
+    {
+      "id": "105.IV.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 105 › Fracción IV › inciso h)",
+      "texto": "h) Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquéllos afecten su ámbito territorial; e"
+    },
+    {
+      "id": "105.IV.i",
+      "tipo": "inciso",
+      "marca": "i",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 105 › Fracción IV › inciso i)",
+      "texto": "i) Celebrar convenios para la administración y custodia de las zonas federales."
+    },
+    {
+      "id": "105.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción V",
+      "texto": "V.- Los Ayuntamientos sólo podrán contratar financiamientos y obligaciones sujetándose a las disposiciones que dicte el Congreso, conforme a la fracción VIII del artículo 57 de esta Constitución."
+    },
+    {
+      "id": "105.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción VI",
+      "texto": "VI.- Los Ayuntamientos deberán observar en todo momento las disposiciones relativas al Gobierno Digital, establecidas en las leyes de la materia, para la formulación de las políticas públicas relativas al uso de medios electrónicos para llevar a cabo los trámites y prestar los servicios de su competencia;"
+    },
+    {
+      "id": "105.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción VII",
+      "texto": "VII.- Las fuerzas de seguridad del Estado y de los Municipios se auxiliarán recíprocamente."
+    },
+    {
+      "id": "105.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción VIII",
+      "texto": "VIII.- En casos de graves trastornos del orden público, el Gobernador del Estado, por sí o por medio del Delegado que lo represente, podrá hacerse cargo de la fuerza pública existente en el Municipio."
+    },
+    {
+      "id": "105.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción IX",
+      "texto": "IX.- En caso de desarrollo de alguna epidemia, el Gobernador del Estado podrá hacerse cargo del ramo de Salubridad Pública Municipal hasta que el peligro desaparezca."
+    },
+    {
+      "id": "105.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción X",
+      "texto": "X.- Los Ayuntamientos están obligados a seguir los programas que en materia de Instrucción Pública establezcan las autoridades educativas del Estado."
+    },
+    {
+      "id": "105.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción XI",
+      "texto": "XI.- El Presidente Municipal representará al Municipio y al Ayuntamiento, y será el ejecutor de las resoluciones de éste que no sean encomendadas a una Comisión especial."
+    },
+    {
+      "id": "105.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción XII",
+      "texto": "XII.- Tratándose de procedimientos judiciales, la representación del Municipio o del Ayuntamiento corresponderá al Síndico."
+    },
+    {
+      "id": "105.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción XIII",
+      "texto": "XIII.- Los Ayuntamientos atenderán la administración por medio de comisiones, entre las cuales distribuirán los diversos ramos de aquélla."
+    },
+    {
+      "id": "105.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción XIV",
+      "texto": "XIV.- El Ejecutivo nombrará visitadores especiales para las Tesorerías Municipales, los cuales revisarán los libros e informarán después al Ejecutivo, para que éste excite a los Ayuntamientos a recaudar los fondos públicos, o bien corrija las deficiencias que se encuentren o se consignaren, si hubiere algún delito en el manejo de los fondos."
+    },
+    {
+      "id": "105.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción XV",
+      "texto": "XV.- Las relaciones de trabajo entre los Municipios y sus servidores, se regirán por las disposiciones que dicte la Legislatura del Estado."
+    },
+    {
+      "id": "105.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción XVI",
+      "texto": "XVI.- El Congreso del Estado emitirá las normas que establezcan los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre los Municipios y el Gobierno del Estado, o entre aquéllos;"
+    },
+    {
+      "id": "105.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción XVII",
+      "texto": "XVII.- La policía preventiva municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente, y ésta acatará las órdenes que el Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público; y"
+    },
+    {
+      "id": "105.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción XVIII",
+      "texto": "XVIII.- El Congreso del Estado en la Ley Orgánica Municipal, establecerá las bases para la expedición de los bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general, las cuales serán por lo menos las siguientes:"
+    },
+    {
+      "id": "105.XVIII.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "XVIII",
+      "ruta": "Artículo 105 › Fracción XVIII › inciso a)",
+      "texto": "a) El proyecto respectivo será propuesto por dos o más Regidores;"
+    },
+    {
+      "id": "105.XVIII.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "XVIII",
+      "ruta": "Artículo 105 › Fracción XVIII › inciso b)",
+      "texto": "b) Se discutirá, aprobará o desechará por mayoría de votos en Sesión de Cabildo, en la que haya Quórum;"
+    },
+    {
+      "id": "105.XVIII.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "XVIII",
+      "ruta": "Artículo 105 › Fracción XVIII › inciso c)",
+      "texto": "c) En caso de aprobarse el proyecto se enviará al Ejecutivo del Estado para su publicación en el Periódico Oficial de Estado; y"
+    },
+    {
+      "id": "105.XVIII.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "XVIII",
+      "ruta": "Artículo 105 › Fracción XVIII › inciso d)",
+      "texto": "d) Las disposiciones de carácter general dictadas por los Ayuntamientos, deben referirse a hipótesis previstas por la ley que reglamenten y no pueden contrariar a ésta; han de ser claras, precisas y breves, y cada artículo o fracción contendrá una sola disposición."
+    }
+  ]
+}

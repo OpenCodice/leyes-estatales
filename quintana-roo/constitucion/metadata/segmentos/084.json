@@ -1,0 +1,27 @@
+{
+  "clave": "084",
+  "etiqueta": "Artículo 84",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "084.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › párrafo 1",
+      "texto": "Si al inicio de un período constitucional no se presentase la Gobernadora electa o el Gobernador electo, o la elección no estuviere hecha y declarada, cesará sin embargo la Gobernadora o el Gobernador cuyo período haya concluido y se encargará desde luego del Poder Ejecutivo, en calidad de interina, la persona que designe la Legislatura, o en su falta, con el carácter de provisional, la que designe la Comisión Permanente, procediéndose conforme a lo dispuesto en el artículo anterior."
+    },
+    {
+      "id": "084.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › párrafo 2",
+      "texto": "Artículo reformado POE 06-03-2019, 19-03-2025"
+    }
+  ]
+}

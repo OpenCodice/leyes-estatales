@@ -1,0 +1,62 @@
+{
+  "clave": "096",
+  "etiqueta": "Artículo 96",
+  "titulo": "TITULO NOVENO",
+  "capitulo": "CAPÍTULO ÚNICO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "096.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96 › párrafo 1",
+      "texto": "El Estado propugnará por una correcta aplicación de los recursos y al efecto elaborará un Plan de Desarrollo Integral con vigencia sexenal, al cual se sujetarán obligatoriamente los programas de la Administración Pública Estatal."
+    },
+    {
+      "id": "096.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96 › párrafo 2",
+      "texto": "La Ley determinará cuáles serán los órganos responsables del proceso de planeación y las bases para que el Ejecutivo coordine, mediante convenios con los gobiernos federal y municipal e induzca y concerte con los particulares, las acciones a realizar para la elaboración y ejecución del Plan Estatal de Desarrollo."
+    },
+    {
+      "id": "096.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96 › párrafo 3",
+      "texto": "La planeación para el desarrollo estatal y municipal facilitará la programación del gasto público con base en objetivos y metas, claros y cuantificables, que permitan evaluar adecuadamente su cumplimiento, a fin de conocer los resultados obtenidos."
+    },
+    {
+      "id": "096.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96 › párrafo 4",
+      "texto": "La ley facultará al Poder Ejecutivo para que establezca los procedimientos de participación y consulta popular en el sistema estatal de planeación democrática, y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas de desarrollo."
+    },
+    {
+      "id": "096.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96 › párrafo 5",
+      "texto": "La planeación del Estado también implicará mecanismos para el uso racional de los recursos naturales, la salud y el desarrollo sostenido y bajo los principios de eficiencia, economía, sustentabilidad se podrán considerar proyectos que abarquen periodos gubernamentales más allá de la gestión, siempre y cuando estos no comprometan la estabilidad financiera de las subsecuentes administraciones.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado D.O. 08-04-2026",
+          "fechas": [
+            "2026-04-08"
+          ]
+        }
+      ]
+    }
+  ]
+}

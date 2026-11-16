@@ -1,0 +1,27 @@
+{
+  "clave": "051-f",
+  "etiqueta": "Artículo 51º F",
+  "titulo": "",
+  "capitulo": "CAPITULO DUODECIMO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "051-f.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51º F › párrafo 1",
+      "texto": "(REFORMADO, P.O. 3 DE JUNIO DE 2024)"
+    },
+    {
+      "id": "051-f.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51º F › párrafo 2",
+      "texto": "Se establecerá una ley estatal de mediación, arbitraje y mecanismos alternativos de solución de controversias, salvo aquellas materias que se encuentren reservadas a la federación, donde se establezcan los requisitos para ejercer dicha función, los cuales deberán obedecer los principios establecidos en la Constitución Política de los Estados Unidos Mexicanos y las leyes que de ella emanan."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "084",
+  "etiqueta": "Artículo 84",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "084.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)"
+    },
+    {
+      "id": "084.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › párrafo 2",
+      "texto": "La presidencia del Supremo Tribunal de Justicia se renovará cada tres años de manera rotatoria, las magistradas y magistrados integrantes del Pleno del Supremo Tribunal de Justicia elegirán de entre ellos a su Presidente, sin posibilidad de reelección."
+    },
+    {
+      "id": "084.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)"
+    },
+    {
+      "id": "084.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › párrafo 4",
+      "texto": "El Presidente del Supremo Tribunal de Justicia y el Presidente del Órgano de Administración de Justicia, rendirán ante y en nombre de sus Plenos, el tercer jueves del mes de febrero de cada año, informe del estado que guarde la administración de justicia. A este acto asistirán la persona Titular del Ejecutivo del Estado y los diputados al Congreso del Estado."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "027",
+  "etiqueta": "Artículo 27",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "027.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 1",
+      "texto": "Los Poderes Legislativo, Ejecutivo y Judicial residirán en la ciudad capital, Pachuca de Soto."
+    },
+    {
+      "id": "027.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 2",
+      "texto": "La sede de cualesquiera de los Poderes podrá trasladarse a otro sitio, con la aprobación del Congreso, siempre que las circunstancias lo justifiquen."
+    }
+  ]
+}

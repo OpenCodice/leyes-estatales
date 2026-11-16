@@ -1,0 +1,27 @@
+{
+  "clave": "007-v",
+  "etiqueta": "Artículo 7º V",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007-v.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º V › párrafo 1",
+      "texto": "Ninguna norma podrá interpretarse en el sentido de implicar para el Estado, un grupo o persona, el derecho a abusar, destruir o suprimir los derechos o libertades reconocidos en el régimen interior del Estado."
+    },
+    {
+      "id": "007-v.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º V › párrafo 2",
+      "texto": "Los derechos y libertades fundamentales no podrán ser ejercidos ni garantizados en oposición a los valores, fines y principios de los derechos humanos."
+    }
+  ]
+}

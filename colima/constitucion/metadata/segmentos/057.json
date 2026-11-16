@@ -1,0 +1,27 @@
+{
+  "clave": "057",
+  "etiqueta": "Artículo 57º",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "057.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57º › párrafo 1",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "057.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57º › párrafo 2",
+      "texto": "Si por cualquier motivo la elección de la Gubernatura no está hecha y publicada para el día primero de noviembre en que debe efectuarse la renovación, o la persona electa no está en disponibilidad de tomar posesión de su cargo, no obstante lo cual, cesará en sus funciones la Gobernadora o Gobernador que este desempeñando el puesto, y el Congreso nombrará un interino de una terna propuesta por el grupo legislativo del partido político al que pertenezca la Gobernadora o Gobernador que por cualquier motivo no pueda tomar posesión del cargo, y convocará a elecciones, no debiendo exceder el interinato de dos meses."
+    }
+  ]
+}

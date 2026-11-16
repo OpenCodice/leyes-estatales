@@ -1,0 +1,54 @@
+{
+  "clave": "065",
+  "etiqueta": "Artículo 65",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "065.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › párrafo 1",
+      "texto": "No puede ser Gobernador el que con anterioridad hubiere ejercido el Poder Ejecutivo mediante elección popular."
+    },
+    {
+      "id": "065.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › párrafo 2",
+      "texto": "Nunca podrán ser electos para el período inmediato:"
+    },
+    {
+      "id": "065.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › Apartado A",
+      "texto": "A). El Gobernador sustituto Constitucional o el designado para concluir el periodo en caso de falta absoluta del Constitucional, aún cuando tenga distinta denominación."
+    },
+    {
+      "id": "065.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › Apartado B",
+      "texto": "B). El Gobernador interino, el provisional o el ciudadano que bajo cualquier denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período."
+    },
+    {
+      "id": "065.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 65 › Apartado B › párrafo 3",
+      "texto": "(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2025) C). La persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la gubernatura."
+    }
+  ]
+}

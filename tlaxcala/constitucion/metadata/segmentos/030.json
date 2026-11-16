@@ -1,0 +1,63 @@
+{
+  "clave": "030",
+  "etiqueta": "Artículo 30",
+  "titulo": "",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "030.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 4 DE FEBRERO DE 1982)"
+    },
+    {
+      "id": "030.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 2",
+      "texto": "El Poder Público del Estado se divide para su ejercicio en Legislativo, Ejecutivo y Judicial. Nunca podrán reunirse dos o más de estos Poderes en una sola persona o corporación, ni depositarse el Legislativo o Judicial en un solo individuo."
+    },
+    {
+      "id": "030.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 3",
+      "texto": "(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "030.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 4",
+      "texto": "Este principio tiene como propósito esencial procurar la colaboración y corresponsabilidad de gobernar de los poderes para satisfacer los fines del Estado."
+    },
+    {
+      "id": "030.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 5",
+      "texto": "(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "030.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 6",
+      "texto": "Para promover la colaboración coordinada entre los poderes públicos se establecerán órganos, mecanismos y procedimientos que faciliten su actividad."
+    }
+  ]
+}

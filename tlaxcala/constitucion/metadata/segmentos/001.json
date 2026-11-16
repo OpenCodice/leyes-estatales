@@ -1,0 +1,81 @@
+{
+  "clave": "001",
+  "etiqueta": "Artículo 1",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "001.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 4 DE FEBRERO DE 1982)"
+    },
+    {
+      "id": "001.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 2",
+      "texto": "El Estado de Tlaxcala es parte integrante de los Estados Unidos Mexicanos, es Libre y Soberano en lo concerniente a su régimen interior."
+    },
+    {
+      "id": "001.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 3",
+      "texto": "(ADICIONADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "001.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 4",
+      "texto": "Tiene el Estado de Tlaxcala una composición pluricultural sustentada originalmente en sus pueblos náhuatl y otomí, por lo que se reconocen los pueblos y comunidades indígenas y se les garantiza el derecho a preservar su forma de vida y elevar el bienestar social de sus integrantes. La ley protegerá y promoverá el desarrollo de sus lenguas, cultura, religión, educación bilingüe, usos, costumbres, tradiciones, prácticas democráticas, patrimonio étnico, artesanal y formas específicas de organización social y se garantiza a sus integrantes el efectivo acceso a la jurisdicción del Estado."
+    },
+    {
+      "id": "001.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 5",
+      "texto": "(ADICIONADO, P.O. 5 DE DICIEMBRE DE 2012)"
+    },
+    {
+      "id": "001.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 6",
+      "texto": "Sólo se reconocerá como limitante a lo anteriormente establecido, el menoscabo a los derechos humanos contenidos en la Constitución Política de los Estados Unidos Mexicanos y los reconocidos en la presente Constitución."
+    },
+    {
+      "id": "001.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 7",
+      "texto": "(REFORMADO, P.O. 31 DE MARZO DE 2025)"
+    },
+    {
+      "id": "001.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 8",
+      "texto": "Los Tribunales y Jueces velarán por el respeto de los derechos fundamentales de los indígenas y la dignidad e igualdad entre el hombre y la mujer, con perspectiva de género"
+    }
+  ]
+}

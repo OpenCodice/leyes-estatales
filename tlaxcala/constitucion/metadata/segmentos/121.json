@@ -1,0 +1,36 @@
+{
+  "clave": "121",
+  "etiqueta": "Artículo 121",
+  "titulo": "",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "121.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 4 DE FEBRERO DE 1982)"
+    },
+    {
+      "id": "121.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 2",
+      "texto": "Esta Constitución no perderá su fuerza y vigencia, aunque por algún trastorno público se interrumpa su observancia."
+    },
+    {
+      "id": "121.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 3",
+      "texto": "Si se establece un Gobierno contrario a los principios que ella sanciona, luego que se restablezca la observancia de esta Constitución, con arreglo a ella y a las Leyes que en su virtud se hubieren expedido, serán juzgados todos los que la infringieron."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "clave": "009",
+  "etiqueta": "Artículo 9",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "009.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › párrafo 1",
+      "texto": "Son obligaciones de la ciudadana y el ciudadano del Estado, además de las anteriores: (Ref. Según Decreto No. 425, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 088, de fecha 24 de julio de 2026.)"
+    },
+    {
+      "id": "009.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Fracción I",
+      "texto": "I. Inscribirse en los padrones municipales de la jurisdicción a que pertenezcan."
+    },
+    {
+      "id": "009.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Fracción II",
+      "texto": "II. Votar en las elecciones populares y participar en los mecanismos previstos en esta Constitución relativos a la participación ciudadana y revocación de mandato, que sean convocados en los términos de la misma y sus leyes reglamentarias. (Ref. Según Decreto No. 138, de fecha 17 de mayo de 2022, publicado en el Periódico Oficial No. 073, de fecha 17 de junio de 2022)."
+    },
+    {
+      "id": "009.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Fracción III",
+      "texto": "III. Desempeñar las funciones electorales y los cargos de elección popular y los de jurado, en los términos que fijen las leyes respectivas.\n\n(Ref. según Decreto No. 161, de fecha 19 de febrero de 1985, publicado en el Periódico Oficial No. 25, de fecha 27 de febrero de 1985)."
+    },
+    {
+      "id": "009.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Fracción IV",
+      "texto": "IV. DEROGADO. (Por Decreto No. 332, de fecha 19 de mayo de 2015, publicado en el Periódico Oficial No. 65, de fecha 01 de junio de 2015)."
+    }
+  ]
+}

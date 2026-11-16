@@ -1,0 +1,27 @@
+{
+  "clave": "007-b",
+  "etiqueta": "Artículo 7º B",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007-b.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º B › párrafo 1",
+      "texto": "El genoma humano es la base de la unidad biológica fundamental de todos los miembros de la familia humana y del reconocimiento de su dignidad intrínseca y su diversidad."
+    },
+    {
+      "id": "007-b.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º B › párrafo 2",
+      "texto": "Están prohibidas las prácticas contrarias a la dignidad humana. La investigación sobre el genoma humano, sobre todo en el campo de la biología, la genética y la medicina, deberán orientarse a aliviar el sufrimiento y mejorar la salud de las personas y de toda la humanidad, prevaleciendo el respeto a los derechos humanos, la libertad y la dignidad de las personas."
+    }
+  ]
+}

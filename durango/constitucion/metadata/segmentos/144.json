@@ -1,0 +1,27 @@
+{
+  "clave": "144",
+  "etiqueta": "Artículo 144",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO VII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "144.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 144 › párrafo 1",
+      "texto": "DEROGADO."
+    },
+    {
+      "id": "144.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 144 › párrafo 2",
+      "texto": "DEROGADO POR DEC. 119 P.O. 22 DEL 16 DE MARZO DE 2017."
+    }
+  ]
+}

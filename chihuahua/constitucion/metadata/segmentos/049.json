@@ -1,0 +1,27 @@
+{
+  "clave": "049",
+  "etiqueta": "Artículo 49",
+  "titulo": "TITULO VII",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "049.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 1",
+      "texto": "Los períodos ordinarios no podrán prorrogarse sino en el caso previsto en el Artículo 59."
+    },
+    {
+      "id": "049.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 2",
+      "texto": "[Artículo reformado mediante decreto No. 694-92 publicado en el P.O.E. No. 57 del 15 de julio de 1992]"
+    }
+  ]
+}

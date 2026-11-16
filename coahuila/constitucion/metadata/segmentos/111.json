@@ -1,0 +1,54 @@
+{
+  "clave": "111",
+  "etiqueta": "Artículo 111º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "111.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111º › párrafo 1",
+      "texto": "La función de seguridad pública estatal comprende el sistema penitenciario, que se organizará sobre la base del respeto a los derechos humanos, del trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción a la sociedad de las personas sentenciadas y procurar que no vuelvan a delinquir, observando los beneficios que para ellas prevé la ley."
+    },
+    {
+      "id": "111.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111º › párrafo 2",
+      "texto": "(ADICIONADO, P.O. 26 DE ABRIL DE 2013)"
+    },
+    {
+      "id": "111.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111º › párrafo 3",
+      "texto": "Toda persona privada de su libertad tiene derecho a ser alimentada y a tener acceso a asistencia médica, con cargo a los fondos públicos."
+    },
+    {
+      "id": "111.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111º › párrafo 4",
+      "texto": "(REFORMADO, P.O. 26 DE ABRIL DE 2013)"
+    },
+    {
+      "id": "111.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111º › párrafo 5",
+      "texto": "El Estado formará un cuerpo policial especializado en la vigilancia de los centros penitenciarios."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "clave": "037",
+  "etiqueta": "Artículo 37º",
+  "titulo": "",
+  "capitulo": "CAPITULO DECIMO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "037.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 13 DE AGOSTO DE 1950)"
+    },
+    {
+      "id": "037.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37º › párrafo 2",
+      "texto": "Para ser Gobernador del Estado, se requiere:"
+    },
+    {
+      "id": "037.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37º › párrafo 3",
+      "texto": "(REFORMADA, P.O. 5 DE JUNIO DE 2023)"
+    },
+    {
+      "id": "037.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37º › Fracción I",
+      "texto": "I.- Ser ciudadano mexicano por nacimiento, nativo del Estado o con residencia efectiva en él no menor de diez años inmediatamente anteriores al día de la elección;\n\n(REFORMADA, P.O. 5 DE JUNIO DE 2023)"
+    },
+    {
+      "id": "037.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37º › Fracción II",
+      "texto": "II.- Estar en pleno goce y ejercicio de sus derechos; y\n\n(REFORMADA, P.O. 26 DE ENERO DE 2009)"
+    },
+    {
+      "id": "037.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37º › Fracción III",
+      "texto": "III.- Tener cuando menos treinta años cumplidos al día de la elección."
+    }
+  ]
+}

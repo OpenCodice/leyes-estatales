@@ -1,0 +1,36 @@
+{
+  "clave": "024",
+  "etiqueta": "Artículo 24",
+  "titulo": "TÍTULO PRIMERO DE LOS DERECHOS HUMANOS",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "024.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › párrafo 1",
+      "texto": "Toda persona tiene derecho a la propiedad individual y colectiva. Nadie será privado arbitrariamente de su propiedad."
+    },
+    {
+      "id": "024.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › párrafo 2",
+      "texto": "La propiedad es un derecho que debe desempeñar una función social, por lo tanto, la ley puede subordinar el uso y goce de tal derecho al interés público."
+    },
+    {
+      "id": "024.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › párrafo 3",
+      "texto": "La expropiación sólo podrá hacerse por causa de utilidad pública y mediante indemnización."
+    }
+  ]
+}

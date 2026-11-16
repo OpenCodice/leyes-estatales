@@ -1,0 +1,45 @@
+{
+  "clave": "183",
+  "etiqueta": "Artículo 183",
+  "titulo": "TÍTULO DÉCIMO PRIMERO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "183.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 183 › párrafo 1",
+      "texto": "No se podrá recaudar ninguna cantidad por concepto de impuestos o contribuciones que no estén basados en una ley o decreto emanados del Congreso del Estado y sancionados por el Ejecutivo del Estado de Guerrero."
+    },
+    {
+      "id": "183.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 183 › párrafo 2",
+      "texto": "(REFORMADO, P.O. No. 56 ALCANCE I, DE FECHA VIERNES 14 DE JULIO DE 2017)"
+    },
+    {
+      "id": "183.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 183 › 1.",
+      "texto": "1. El servidor público que realice erogaciones que no estén previstas en las leyes correspondientes, incurrirá en responsabilidad administrativa y responderá con su patrimonio por las afectaciones realizadas. Si las irregularidades se tipifican como enriquecimiento ilícito, será sancionado conforme lo que determine la ley de la materia; y"
+    },
+    {
+      "id": "183.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 183 › 2.",
+      "texto": "2. El año fiscal correrá del primero de enero al treinta y uno de diciembre."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "120",
+  "etiqueta": "Artículo 120º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "120.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 120º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "120.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 120º › párrafo 2",
+      "texto": "Se declara de interés público: la campaña permanente de alfabetización; la creación de becas que favorezcan a personas de escasos recursos económicos, con merecimientos académicos; el establecimiento de bibliotecas públicas y escolares;"
+    },
+    {
+      "id": "120.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 120º › párrafo 3",
+      "texto": "hemerotecas y demás centros de estudio, investigación y cultura en general, así como el fomento del deporte y la cultura física."
+    }
+  ]
+}

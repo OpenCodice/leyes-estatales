@@ -1,0 +1,36 @@
+{
+  "clave": "103",
+  "etiqueta": "Artículo 103",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "103.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 103 › párrafo 1",
+      "texto": "El Tribunal Superior de Justicia será presidido por una magistrada o magistrado, que no integrará Sala."
+    },
+    {
+      "id": "103.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 103 › párrafo 2",
+      "texto": "La presidencia se renovará cada dos años en el mes de septiembre del año correspondiente, de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación, garantizando la paridad de género y no podrá ser reelecta para el periodo inmediato siguiente."
+    },
+    {
+      "id": "103.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 103 › párrafo 3",
+      "texto": "La Ley Orgánica del Poder Judicial del Estado regulará los demás aspectos relacionados con lo dispuesto en este artículo."
+    }
+  ]
+}

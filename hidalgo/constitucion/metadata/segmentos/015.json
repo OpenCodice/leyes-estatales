@@ -1,0 +1,54 @@
+{
+  "clave": "015",
+  "etiqueta": "Artículo 15",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "015.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › párrafo 1",
+      "texto": "La calidad de hidalguense a la que se refieren las fracciones II y III del artículo 13 se pierde por ausentarse de la Entidad durante más de dos años consecutivos, excepto cuando la causa sea:"
+    },
+    {
+      "id": "015.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción I",
+      "texto": "I.- El desempeño de cargos públicos o de elección popular;"
+    },
+    {
+      "id": "015.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción II",
+      "texto": "II.- La realización de estudios profesionales, científicos o artísticos, efectuados fuera de la Entidad por el tiempo que lo requieran; y"
+    },
+    {
+      "id": "015.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción III",
+      "texto": "III.- Por el desempeño de actividades administrativas, docentes o laborales lícitas, que aporten beneficios a la Entidad; y"
+    },
+    {
+      "id": "015.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción IV",
+      "texto": "IV.- (DEROGADA, P.O. 20 DE JUNIO DE 2016)."
+    }
+  ]
+}

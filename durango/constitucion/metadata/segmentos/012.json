@@ -1,0 +1,36 @@
+{
+  "clave": "012",
+  "etiqueta": "Artículo 12",
+  "titulo": "TÍTULO PRIMERO DE LOS DERECHOS HUMANOS",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "012.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › párrafo 1",
+      "texto": "Toda persona tiene derecho a entrar, salir, transitar libremente y a elegir su residencia en el territorio del Estado, sin necesidad de pasaporte, salvoconducto o cualquier otro requisito."
+    },
+    {
+      "id": "012.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › párrafo 2",
+      "texto": "Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad, en los términos que señalen la Constitución Política de los Estados Unidos Mexicanos y la legislación aplicable."
+    },
+    {
+      "id": "012.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › párrafo 3",
+      "texto": "PÁRRAFO ADICIONADO POR DEC. 524 P.O 81, DEL 09 DE OCTUBRE DE 2022."
+    }
+  ]
+}

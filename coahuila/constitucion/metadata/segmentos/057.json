@@ -1,0 +1,27 @@
+{
+  "clave": "057",
+  "etiqueta": "Artículo 57º",
+  "titulo": "TITULO TERCERO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "057.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE JUNIO DE 1988)"
+    },
+    {
+      "id": "057.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57º › párrafo 2",
+      "texto": "El Congreso en todo lo que concierne a su régimen interior, se sujetará a las prevenciones de su Ley, en lo que no se oponga a los preceptos constitucionales."
+    }
+  ]
+}

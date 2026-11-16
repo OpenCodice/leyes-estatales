@@ -1,0 +1,36 @@
+{
+  "clave": "074",
+  "etiqueta": "Artículo 74",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "074.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 1",
+      "texto": "Las Diputadas y los Diputados representan los intereses de los ciudadanos; procurarán intervenir en la solución de los problemas que afecten a sus representados, promoviendo la realización de acciones que permitan el mejoramiento y desarrollo de las comunidades. Durante los periodos de receso, deberán, a los que les fuera confiado, atender las labores que les encomiende la Comisión Permanente."
+    },
+    {
+      "id": "074.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 2",
+      "texto": "ARTICULO REFORMADO DEC. 51, LXVII, P. O. No. 8, 26 DE ENERO DE 2016"
+    },
+    {
+      "id": "074.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 3",
+      "texto": "REFORMADO POR DEC. 585 P.O. 11 EXT. DEL 24 DE MAYO DE 2022."
+    }
+  ]
+}

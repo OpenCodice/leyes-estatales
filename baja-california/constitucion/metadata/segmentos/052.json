@@ -1,0 +1,54 @@
+{
+  "clave": "052",
+  "etiqueta": "Artículo 52",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "052.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › párrafo 1",
+      "texto": "Son atribuciones del Secretario General de Gobierno:"
+    },
+    {
+      "id": "052.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › párrafo 2",
+      "texto": "Párrafo Reformado"
+    },
+    {
+      "id": "052.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › Fracción I",
+      "texto": "I.- Autorizar con su firma las Leyes y Decretos que promulgue el Ejecutivo, así como las disposiciones y acuerdos que éste dicte en el uso de sus facultades;"
+    },
+    {
+      "id": "052.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › Fracción II",
+      "texto": "II.- Substituir al Gobernador en los casos que esta Constitución indique;"
+    },
+    {
+      "id": "052.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › Fracción III",
+      "texto": "III.- Las demás que le confiera la Ley Orgánica de la Administración Pública del Estado de Baja California.\n\nArtículo Reformado"
+    }
+  ]
+}

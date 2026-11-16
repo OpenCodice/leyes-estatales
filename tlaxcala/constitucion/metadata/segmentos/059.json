@@ -1,0 +1,81 @@
+{
+  "clave": "059",
+  "etiqueta": "Artículo 59",
+  "titulo": "",
+  "capitulo": "CAPITULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "059.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59 › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 21 DE JULIO DE 2015)"
+    },
+    {
+      "id": "059.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59 › párrafo 2",
+      "texto": "El Gobernador entrará a ejercer su encargo el día treinta y uno de agosto inmediato posterior a su elección, rendirá protesta ante el Congreso el mismo día y durará en él seis años."
+    },
+    {
+      "id": "059.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 18 DE MAYO DE 2001)"
+    },
+    {
+      "id": "059.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59 › párrafo 4",
+      "texto": "El ciudadano que haya desempeñado el cargo de Gobernador, cuyo origen haya sido la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo, podrá volver a ocupar ese cargo, ni aún con el carácter de Interino, Provisional, Sustituto o encargado del despacho."
+    },
+    {
+      "id": "059.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59 › párrafo 5",
+      "texto": "(REFORMADO, P.O. 18 DE MAYO DE 2001)"
+    },
+    {
+      "id": "059.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59 › párrafo 6",
+      "texto": "Nunca podrán ser electos para el período inmediato:"
+    },
+    {
+      "id": "059.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59 › inciso a)",
+      "texto": "a). El ciudadano designado por el Congreso o por la Comisión Permanente para concluir el período en caso de falta absoluta del Gobernador, cualquiera que sea su denominación; y,"
+    },
+    {
+      "id": "059.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59 › inciso b)",
+      "texto": "b). El ciudadano designado por el Congreso o por la Comisión Permanente, que bajo cualquier denominación, supla las faltas temporales del Gobernador en los dos últimos años del período."
+    }
+  ]
+}

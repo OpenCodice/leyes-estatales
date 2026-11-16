@@ -1,0 +1,54 @@
+{
+  "clave": "032",
+  "etiqueta": "Artículo 32",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "032.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › párrafo 1",
+      "texto": "La asignación de Diputados, por el principio de representación proporcional, se hará de acuerdo con la fórmula electoral que se establezca en la Ley, y con sujeción a las siguientes bases:"
+    },
+    {
+      "id": "032.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Fracción I",
+      "texto": "I.- Tendrá derecho a que le sean asignados Diputados por el principio de representación proporcional, todo aquel partido político que obtenga el tres por ciento o más de la votación total emitida;"
+    },
+    {
+      "id": "032.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Fracción II",
+      "texto": "II.- Se deroga."
+    },
+    {
+      "id": "032.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Fracción III",
+      "texto": "III.- Solo tendrán derecho a Diputados de representación proporcional los partidos políticos que hayan registrado candidatos a Diputados por el principio de mayoría relativa, en el número de distritos que señale la Ley;"
+    },
+    {
+      "id": "032.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › Fracción IV",
+      "texto": "IV.- Se deroga."
+    }
+  ]
+}

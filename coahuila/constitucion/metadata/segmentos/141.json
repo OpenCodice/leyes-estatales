@@ -1,0 +1,45 @@
+{
+  "clave": "141",
+  "etiqueta": "Artículo 141º",
+  "titulo": "TITULO QUINTO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "141.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 21 DE JUNIO DE 2005)"
+    },
+    {
+      "id": "141.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141º › párrafo 2",
+      "texto": "La Justicia se imparte en nombre del pueblo y se administra por el Estado a través de la función jurisdiccional, ejercida por Magistrados y Jueces integrantes del Poder Judicial, independientes, imparciales, responsables y sometidos únicamente al imperio de esta Constitución y la Ley."
+    },
+    {
+      "id": "141.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141º › párrafo 3",
+      "texto": "(ADICIONADO, P.O. 20 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "141.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141º › párrafo 4",
+      "texto": "Es obligatorio para toda autoridad cumplir las sentencias y demás resoluciones de los órganos del Poder Judicial del Estado, así como prestar la colaboración requerida por éstos. La autoridad requerida está obligada a proporcionar las garantías, recursos y elementos necesarios para hacer efectiva la orden judicial."
+    }
+  ]
+}

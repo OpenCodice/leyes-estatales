@@ -1,0 +1,18 @@
+{
+  "clave": "007",
+  "etiqueta": "Artículo 7",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 1",
+      "texto": "Son obligaciones de los transeúntes cumplir con la Ley y respetar a las autoridades legalmente constituidas."
+    }
+  ]
+}

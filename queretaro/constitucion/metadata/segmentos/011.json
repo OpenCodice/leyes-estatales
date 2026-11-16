@@ -1,0 +1,36 @@
+{
+  "clave": "011",
+  "etiqueta": "Artículo 11",
+  "titulo": "Título Segundo",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "011.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › párrafo 1",
+      "texto": "La división política y administrativa del territorio de la Entidad, comprende los siguientes municipios:"
+    },
+    {
+      "id": "011.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › párrafo 2",
+      "texto": "Amealco de Bonfil, Arroyo Seco, Cadereyta de Montes, Colón, Corregidora, El Marqués, Ezequiel Montes, Huimilpan, Jalpan de Serra, Landa de Matamoros, Pedro Escobedo, Peñamiller, Pinal de Amoles, Querétaro, San Joaquín, San Juan del Río, Tequisquiapan y Tolimán."
+    },
+    {
+      "id": "011.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › párrafo 3",
+      "texto": "Los municipios tendrán la denominación, cabecera municipal, límites y extensión que señale la ley."
+    }
+  ]
+}

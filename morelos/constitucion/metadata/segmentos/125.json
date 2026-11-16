@@ -1,0 +1,27 @@
+{
+  "clave": "125",
+  "etiqueta": "Artículo 125",
+  "titulo": "TÍTULO SEXTO BIS",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "125.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › párrafo 1",
+      "texto": "Sólo se reconocerá y obedecerá como autoridad a la que se instituya por la Constitución y Leyes Federales, por esta Constitución y las Leyes que de ellas emanen."
+    },
+    {
+      "id": "125.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › párrafo 2",
+      "texto": "Quien usurpe esa autoridad será consignado a los Tribunales."
+    }
+  ]
+}

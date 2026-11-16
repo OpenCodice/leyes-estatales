@@ -1,0 +1,63 @@
+{
+  "clave": "102",
+  "etiqueta": "Artículo 102",
+  "titulo": "",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "102.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 18 DE MAYO DE 2001)"
+    },
+    {
+      "id": "102.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › párrafo 2",
+      "texto": "Las Leyes Tributarias y Hacendarías del Estado establecerán los impuestos, derechos, productos, aprovechamientos y cualesquiera otra contribución o ingreso que deban recaudarse, considerando la Ley de Ingresos que anualmente expida el Congreso; así como las erogaciones que deba efectuar la Hacienda, tomando en cuenta el Presupuesto de Egresos del Estado."
+    },
+    {
+      "id": "102.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › párrafo 3",
+      "texto": "El año fiscal para la aplicación de la Ley de Ingresos y el ejercicio del presupuesto estatal se contará del primero de enero al treinta y uno de diciembre de cada año."
+    },
+    {
+      "id": "102.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › párrafo 4",
+      "texto": "Si al iniciarse el año fiscal no se hubiere aprobado el presupuesto general correspondiente, continuará vigente el del año inmediato anterior, en tanto se expida aquél."
+    },
+    {
+      "id": "102.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › párrafo 5",
+      "texto": "(ADICIONADO, P.O. 30 DE ABRIL DE 2021)"
+    },
+    {
+      "id": "102.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › párrafo 6",
+      "texto": "En el estado de Tlaxcala quedan prohibidas las condonaciones y las exenciones de impuestos en base a lo dispuesto en el artículo 28 de la Constitución Política de los Estados Unidos Mexicanos, en los términos y condiciones que fijan las leyes."
+    }
+  ]
+}

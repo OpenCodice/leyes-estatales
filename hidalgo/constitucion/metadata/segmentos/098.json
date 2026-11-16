@@ -1,0 +1,63 @@
+{
+  "clave": "098",
+  "etiqueta": "Artículo 98",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPITULO II BIS",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "098.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 1",
+      "texto": "Las magistradas y magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, así como las juezas y jueces del fuero común, otorgarán la protesta de Ley ante el Congreso del Estado."
+    },
+    {
+      "id": "098.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 2",
+      "texto": "Párrafo reformado, P.O. Alcance uno del 12 de marzo de 2025, alcance del 3 de marzo de 2026."
+    },
+    {
+      "id": "098.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 3",
+      "texto": "Derogado."
+    },
+    {
+      "id": "098.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 4",
+      "texto": "Párrafo derogado, P.O. Alcance uno del 12 de marzo de 2025."
+    },
+    {
+      "id": "098.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 5",
+      "texto": "Derogado."
+    },
+    {
+      "id": "098.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 6",
+      "texto": "Párrafo derogado, P.O. Alcance uno del 12 de marzo de 2025."
+    }
+  ]
+}

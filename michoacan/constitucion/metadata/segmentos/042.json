@@ -1,0 +1,72 @@
+{
+  "clave": "042",
+  "etiqueta": "Artículo 42",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "042.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "042.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 2",
+      "texto": "Las leyes o decretos se comunicarán al Ejecutivo firmados por el Presidente y los secretarios, y los acuerdos sólo por éstos. Las leyes o decretos se promulgarán en esta forma: \"El Congreso de Michoacán de Ocampo decreta\":"
+    },
+    {
+      "id": "042.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 3",
+      "texto": "(Texto de la Ley o decreto)."
+    },
+    {
+      "id": "042.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 4",
+      "texto": "[N. DE E. DEL ANÁLISIS SE ADVIERTE QUE ESTE PÁRRAFO QUEDÓ INTEGRADO CON LOS PÁRRAFOS ANTERIORES SEGUNDO Y TERCERO."
+    },
+    {
+      "id": "042.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 5",
+      "texto": "VÉASE LITERALIDAD DEL DECRETO NÚMERO 248, PUBLICADO EN EL P.O. 7 DE MARZO DE 2003, PÁGINA 6.] (REFORMADO, P.O. 7 DE MARZO DE 2003)"
+    },
+    {
+      "id": "042.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 6",
+      "texto": "El Congreso expedirá la Ley Orgánica que regulará su estructura y funcionamiento internos, así como la Ley de Fiscalización Superior del Estado de Michoacán."
+    },
+    {
+      "id": "042.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 7",
+      "texto": "Estas leyes no podrán ser vetadas, ni necesitarán de promulgación del Ejecutivo del Estado para tener vigencia."
+    }
+  ]
+}

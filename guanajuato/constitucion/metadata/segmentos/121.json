@@ -1,0 +1,54 @@
+{
+  "clave": "121",
+  "etiqueta": "Artículo 121",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "121.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "121.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 2",
+      "texto": "Los Municipios administrarán libremente su Hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que el Congreso establezca a su favor, y en todo caso:"
+    },
+    {
+      "id": "121.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › inciso a)",
+      "texto": "a) Percibirán las contribuciones, incluyendo tasas adicionales, que se establezcan sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.\n\nLos Municipios podrán celebrar Convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones;"
+    },
+    {
+      "id": "121.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › inciso b)",
+      "texto": "b) Las participaciones y apoyos federales, que serán cubiertas por la Federación a los Municipios, con arreglo a las bases, montos y plazos que determine el Congreso del Estado;"
+    },
+    {
+      "id": "121.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › inciso c)",
+      "texto": "c) Los ingresos derivados de la prestación de servicios públicos a su cargo.\n\n(REFORMADO, P.O. 20 DE MARZO DE 2001)\n\nLas Leyes no establecerán exenciones o subsidios respecto de las mencionadas contribuciones, a favor de persona o institución alguna. Sólo estarán exentos los bienes de dominio público de la Federación, de los Estados o de los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.\n\n(ADICIONADO, P.O. 20 DE MARZO DE 2001)\n\nLos recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos, o bien, por quien ellos autoricen conforme a la Ley.\n\n(REFORMADA SU DENOMINACIÓN, P.O. 6 DE SEPTIEMBRE DE 2016)"
+    }
+  ]
+}

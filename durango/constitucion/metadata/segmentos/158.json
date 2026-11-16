@@ -1,0 +1,63 @@
+{
+  "clave": "158",
+  "etiqueta": "Artículo 158",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "158.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158 › párrafo 1",
+      "texto": "La hacienda del Estado se integra por:"
+    },
+    {
+      "id": "158.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158 › Fracción I",
+      "texto": "I. Los bienes que sean de su propiedad."
+    },
+    {
+      "id": "158.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158 › Fracción II",
+      "texto": "II. El producto de las contribuciones que le correspondan, las cuales serán decretadas por el Congreso del Estado en cantidad suficiente para cubrir los gastos tanto ordinarios como extraordinarios que demande la administración pública."
+    },
+    {
+      "id": "158.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158 › Fracción III",
+      "texto": "III. Las donaciones, legados, herencias o reintegros que se hagan o que se dejen en su beneficio."
+    },
+    {
+      "id": "158.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158 › Fracción IV",
+      "texto": "IV. Los créditos que tenga a su favor."
+    },
+    {
+      "id": "158.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158 › Fracción V",
+      "texto": "V. Los subsidios, participaciones, aportaciones y fondos federales que le corresponda conforme a las leyes.\n\nLa hacienda pública ejercerá la facultad económico-coactiva para hacer efectivos los ingresos decretados por las leyes."
+    }
+  ]
+}

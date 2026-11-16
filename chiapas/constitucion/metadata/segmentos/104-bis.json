@@ -1,0 +1,54 @@
+{
+  "clave": "104-bis",
+  "etiqueta": "Artículo 104 Bis",
+  "titulo": "Título Noveno",
+  "capitulo": "Capítulo V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "104-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 Bis › párrafo 1",
+      "texto": "(ADICIÓN PUBLICADA MEDIANTE P.O. NUM. 049 DE FECHA 09 DE JULIO DE 2025)"
+    },
+    {
+      "id": "104-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 Bis › párrafo 2",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NUM. 115 DE FECHA 01 DE JULIO DE 2026)"
+    },
+    {
+      "id": "104-bis.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 Bis › párrafo 3",
+      "texto": "La Universidad Autónoma de Ciencias y Artes de Chiapas, está orientada a la formación humanista y científica integral de ciudadanos y ciudadanas, con perspectiva de género, sentido crítico y sensibilidad artística que contribuyan al desarrollo sostenible de sus comunidades, para lo que se constituye como un Organismo Autónomo Descentralizado, de interés público, con personalidad jurídica y patrimonio propio, al servicio de los intereses de la Nación y del Estado de Chiapas, en la construcción de una sociedad de paz."
+    },
+    {
+      "id": "104-bis.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 Bis › párrafo 4",
+      "texto": "(SE DEROGA MEDIANTE P.O. NÚM. 073 DE FECHA 18 DE DICIEMBRE DE 2019)"
+    },
+    {
+      "id": "104-bis.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 Bis › párrafo 5",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NUM. 029 DE FECHA 14 DE MARZO DE 2025)"
+    }
+  ]
+}

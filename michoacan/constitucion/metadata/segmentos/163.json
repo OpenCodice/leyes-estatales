@@ -1,0 +1,27 @@
+{
+  "clave": "163",
+  "etiqueta": "Artículo 163",
+  "titulo": "TITULO NOVENO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "163.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 163 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "163.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 163 › párrafo 2",
+      "texto": "Los Poderes del Estado no podrán reconocer, bajo ningún concepto, a los individuos que se apoderen tanto del Poder Ejecutivo de la Unión como del Estado, por medio de alguna asonada, motín o cuartelazo. Tampoco podrán reconocer la renuncia del Presidente de los Estados Unidos Mexicanos, que se hubiere obtenido por medio de la fuerza o de la coacción."
+    }
+  ]
+}

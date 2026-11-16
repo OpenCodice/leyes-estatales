@@ -1,0 +1,27 @@
+{
+  "clave": "130",
+  "etiqueta": "Artículo 130",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "130.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 130 › párrafo 1",
+      "texto": "Los ayuntamientos serán órganos colegiados deliberantes, integrados por un Presidente o Presidenta Municipal, una sindicatura y hasta quince regidurías designadas, por sufragio popular, directo, libre y secreto. Las elecciones se basarán en el sistema de elección de mayoría relativa, y en el caso de las regidurías, habrá también de representación proporcional, de conformidad con las bases que establezca la Ley. Por cada sindicatura y regiduría propietaria será elegida una o un Suplente."
+    },
+    {
+      "id": "130.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 130 › párrafo 2",
+      "texto": "Todos los Regidores Propietarios serán considerados como representantes populares, con idéntica categoría e igualdad de derechos y obligaciones."
+    }
+  ]
+}

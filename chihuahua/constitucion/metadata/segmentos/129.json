@@ -1,0 +1,45 @@
+{
+  "clave": "129",
+  "etiqueta": "Artículo 129",
+  "titulo": "TITULO XI",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "129.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 129 › párrafo 1",
+      "texto": "En las elecciones de ayuntamientos, juntas municipales y comisarios de policía, sólo podrá votar quien reúna los siguientes requisitos:"
+    },
+    {
+      "id": "129.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 129 › Fracción I",
+      "texto": "I. Ser ciudadano mexicano y chihuahuense;"
+    },
+    {
+      "id": "129.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 129 › Fracción II",
+      "texto": "II. Ser vecino del Estado, y"
+    },
+    {
+      "id": "129.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 129 › Fracción III",
+      "texto": "III. Tener cuando menos dos meses de residencia habitual inmediatamente anteriores a la fecha de la elección en la municipalidad, sección municipal o comisaría de policía de que se trate.\n\n[Artículo reformado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

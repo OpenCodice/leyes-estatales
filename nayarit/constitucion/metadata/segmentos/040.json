@@ -1,0 +1,54 @@
+{
+  "clave": "040",
+  "etiqueta": "Artículo 40",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "040.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 1",
+      "texto": "Durante el receso, el Congreso solo podrá ser convocado a Sesiones Extraordinarias:"
+    },
+    {
+      "id": "040.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 2",
+      "texto": "l. Por la Diputación Permanente."
+    },
+    {
+      "id": "040.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 3",
+      "texto": "(REFORMADA, P.O. 27 DE JULIO DE 2002)"
+    },
+    {
+      "id": "040.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › Fracción II",
+      "texto": "II. Por el Ejecutivo, siempre y cuando la solicitud se presente por medio de la Diputación Permanente. En este caso, el gobernador rendirá informe por conducto del Secretario General de Gobierno, en la sesión de apertura del periodo de sesiones extraordinarias sobre los asuntos que motivaron la convocatoria."
+    },
+    {
+      "id": "040.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › Fracción III",
+      "texto": "III. Por acuerdo de las dos terceras partes del número total de los Diputados, pero por conducto de la Permanente.\n\nEn todo caso, las convocatorias expresarán el asunto o asuntos que deban tratarse, no pudiéndose estudiar ni resolver ningunos otros.\n\nA estas sesiones extraordinarias, precederá una Junta Preparatoria."
+    }
+  ]
+}

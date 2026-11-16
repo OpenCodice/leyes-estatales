@@ -1,0 +1,54 @@
+{
+  "clave": "031",
+  "etiqueta": "Artículo 31",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "031.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › párrafo 1",
+      "texto": "Los ciudadanos del Estado de Guerrero reconocen como sus símbolos de identidad y pertenencia a su comunidad política:"
+    },
+    {
+      "id": "031.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › 1.",
+      "texto": "1. La bandera y el escudo;"
+    },
+    {
+      "id": "031.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › 2.",
+      "texto": "2. El lema del Estado: \"Mi patria es primero\"; y,"
+    },
+    {
+      "id": "031.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › 3.",
+      "texto": "3. El “Himno a Vicente Guerrero”."
+    },
+    {
+      "id": "031.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › párrafo 2",
+      "texto": "Las leyes respectivas reglamentarán las características y el uso de los símbolos y el himno del Estado."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "054",
+  "etiqueta": "Artículo 54",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "054.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › párrafo 1",
+      "texto": "Se considerará aprobado por el Poder Ejecutivo la resolución materia de ley o decreto no devuelta con observaciones al Congreso dentro de los treinta días naturales siguientes a su recepción; vencido este plazo el Ejecutivo dispondrá de diez días naturales para promulgar y publicar la ley o decreto."
+    },
+    {
+      "id": "054.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › párrafo 2",
+      "texto": "(ADICIONADO, P.O. 9 DE JUNIO DE 2023) Transcurrido este segundo plazo, la ley o decreto será considerado promulgado y el Presidente o Presidenta de la Mesa Directiva ordenará dentro de los diez días naturales siguientes su publicación en el Periódico Oficial, Órgano del Gobierno del Estado, sin que se requiera refrendo."
+    },
+    {
+      "id": "054.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › párrafo 3",
+      "texto": "(ADICIONADO, P.O. 9 DE JUNIO DE 2023) Los plazos a que se refiere este artículo no se interrumpirán si el Congreso cierra o suspende sus sesiones, en cuyo caso la devolución deberá hacerse a la Diputación Permanente."
+    }
+  ]
+}

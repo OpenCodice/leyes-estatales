@@ -1,0 +1,108 @@
+{
+  "clave": "141",
+  "etiqueta": "Artículo 141",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "141.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › párrafo 1",
+      "texto": "El Consejo de la Fiscalía General se integrará con cinco consejeros, que serán:"
+    },
+    {
+      "id": "141.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › Fracción I",
+      "texto": "I. El Fiscal General, quien será su Presidente;"
+    },
+    {
+      "id": "141.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › Fracción II",
+      "texto": "II. Un consejero elegido entre los fiscales, por votación libre y directa de todos sus integrantes;"
+    },
+    {
+      "id": "141.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › Fracción III",
+      "texto": "III. Un consejero designado entre los agentes del Ministerio Público de la Fiscalía General;"
+    },
+    {
+      "id": "141.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › Fracción IV",
+      "texto": "IV. Un consejero designado a propuesta de la policía de investigación del delito; y,"
+    },
+    {
+      "id": "141.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › Fracción V",
+      "texto": "V. Un consejero designado a propuesta de las barras, colegios u organizaciones de abogados que tengan reconocimiento oficial."
+    },
+    {
+      "id": "141.V.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 141 › Fracción V › 1.",
+      "texto": "1. Los consejeros serán designados, con excepción del Fiscal General, por un periodo de cuatro años, con posibilidad de ser ratificados por una sola vez;"
+    },
+    {
+      "id": "141.V.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 141 › Fracción V › 2.",
+      "texto": "2. El Consejo de la Fiscalía General tendrá a su cargo la creación, gestión y supervisión de la carrera ministerial, por lo tanto la selección, nombramiento, capacitación, promoción, permanencia, prestaciones, estímulos y responsabilidades de los servidores públicos de la Fiscalía General y de conformidad a los previsto en su ley orgánica."
+    },
+    {
+      "id": "141.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › párrafo 2",
+      "texto": "Los Fiscales especiales y regionales, Ministerios Públicos, Policías, Peritos y demás personal jurídico y administrativo de la Fiscalía General serán nombrados en los términos establecidos en la ley orgánica, y en los reglamentos correspondientes;"
+    },
+    {
+      "id": "141.V.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 141 › Fracción V › 3.",
+      "texto": "3. El Consejo de la Fiscalía General contará con el personal jurídico, técnico y administrativo necesario para el adecuado cumplimiento de sus funciones, de conformidad con lo dispuesto en la ley orgánica y su reglamento interior; y,"
+    },
+    {
+      "id": "141.V.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 141 › Fracción V › 4.",
+      "texto": "4. La Ley Orgánica de la Fiscalía General establecerá disposiciones adicionales con relación a la integración, organización, funcionamiento, procedimientos y ámbito competencial del Consejo, así como las correspondientes a la carrera ministerial."
+    }
+  ]
+}

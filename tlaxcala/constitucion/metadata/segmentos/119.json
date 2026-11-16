@@ -1,0 +1,45 @@
+{
+  "clave": "119",
+  "etiqueta": "Artículo 119",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "119.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 3 DE NOVIEMBRE DE 2003)"
+    },
+    {
+      "id": "119.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › párrafo 2",
+      "texto": "Los servidores públicos de los poderes del Estado, de los municipios y de los órganos públicos autónomos, con funciones de dirección y atribuciones de mando, no podrán funcionar como árbitros o arbitradores, ni ejercer la abogacía ni la procuración, sino cuando se trate de sus propios derechos o de su consorte, ascendientes, descendientes o personas que estén bajo su tutela o dependencia económica."
+    },
+    {
+      "id": "119.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 18 DE MAYO DE 2001)"
+    },
+    {
+      "id": "119.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › párrafo 4",
+      "texto": "La infracción de este artículo será causa de responsabilidad."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "041",
+  "etiqueta": "Artículo 41",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "041.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › párrafo 1",
+      "texto": "El Congreso tendrá, durante el año, dos periodos de sesiones ordinarias y dos periodos de sesiones extraordinarias. Los períodos de sesiones ordinarias serán: el primero desde el 01 de septiembre hasta el 15 de diciembre y, el segundo, desde el día 01 de febrero hasta el 30 de abril."
+    },
+    {
+      "id": "041.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › párrafo 2",
+      "texto": "Ambos periodos podrán prorrogarse. Los periodos de sesiones extraordinarias serán: el primero desde la terminación del primer periodo de sesiones ordinarias hasta el 31 de enero y, el segundo, desde la terminación del segundo periodo de sesiones ordinarias hasta el 31 de agosto."
+    }
+  ]
+}

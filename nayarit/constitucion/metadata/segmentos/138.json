@@ -1,0 +1,27 @@
+{
+  "clave": "138",
+  "etiqueta": "Artículo 138",
+  "titulo": "TITULO DECIMO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "138.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138 › párrafo 1",
+      "texto": "En el caso del artículo 76, fracción V de la Constitución General de la República, asumirá el Poder Ejecutivo el Presidente del Congreso o de la Comisión Permanente si aquél estuviere en receso; y a falta de estos funcionarios, el Vice-Presidente, el Primer Secretario o el Segundo por el orden que se indica."
+    },
+    {
+      "id": "138.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138 › párrafo 2",
+      "texto": "Si los miembros legislativos ya dichos, se encontraran impedidos por fuerza de las circunstancias anormales que priven, entonces será Gobernador el Secretario General de Gobierno o el Presidente del Tribunal Superior de Justicia, en el mismo orden que se menciona. Quien fuere Gobernador en las circunstancias citadas, convocará a nuevas elecciones exactamente a los treinta días de estar ejercitando al interinato, ajustándose en todo a la Constitución local y a la Ley Electoral."
+    }
+  ]
+}

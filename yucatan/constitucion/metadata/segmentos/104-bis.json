@@ -1,0 +1,34 @@
+{
+  "clave": "104-bis",
+  "etiqueta": "Artículo 104 Bis",
+  "titulo": "TITULO UNDÉCIMO",
+  "capitulo": "CAPÍTULO ÚNICO",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo adicionado DO 28-07-2026",
+      "fechas": [
+        "2026-07-28"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "104-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 Bis › párrafo 1",
+      "texto": "Ningún servidor público de los poderes públicos, de los organismos autónomos y de los gobiernos municipales podrá percibir ingresos mayores a los de la persona titular del Poder Ejecutivo Federal en términos de lo previsto en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "104-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 Bis › párrafo 2",
+      "texto": "Se prohíbe que las y los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán, las y los magistrados del Tribunal Electoral del Estado de Yucatán y cualquiera otro funcionario público pueda adquirir o contratar, con recursos públicos, seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo, en términos de lo previsto en el artículo 134 de la Constitución Política de los Estados Unidos Mexicanos."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "103",
+  "etiqueta": "Artículo 103",
+  "titulo": "",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "103.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 103 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 4 DE FEBRERO DE 1982)"
+    },
+    {
+      "id": "103.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 103 › párrafo 2",
+      "texto": "La Hacienda Pública ejercerá la facultad económico-coactiva para hacer efectivos los ingresos decretados por las Leyes."
+    }
+  ]
+}

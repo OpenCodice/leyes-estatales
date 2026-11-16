@@ -1,0 +1,72 @@
+{
+  "clave": "109",
+  "etiqueta": "Artículo 109",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "109.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "109.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 › párrafo 2",
+      "texto": "En todos los Municipios, los Ayuntamientos serán electos por votación popular directa, de acuerdo con las normas que establezca la Ley de la materia, de conformidad con las siguientes Bases:"
+    },
+    {
+      "id": "109.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 › Fracción I",
+      "texto": "I. El Presidente Municipal y los Síndicos de los Ayuntamientos serán electos conforme al Principio de Mayoría Relativa; y,\n\n(REFORMADA, P.O. 27 DE JUNIO DE 2014)"
+    },
+    {
+      "id": "109.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 › Fracción II",
+      "texto": "II. Los regidores serán electos por el principio de representación proporcional, y el procedimiento para su asignación es el siguiente:"
+    },
+    {
+      "id": "109.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 109 › Fracción II › inciso a)",
+      "texto": "a) Sólo a los partidos políticos y planilla de candidatos independientes que, en la elección municipal correspondiente, hubieren obtenido el tres por ciento o más del total de la votación válida emitida en la municipalidad, se les asignarán regidores de representación proporcional;"
+    },
+    {
+      "id": "109.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 109 › Fracción II › inciso b)",
+      "texto": "b) Se dividirán los votos válidos obtenidos por todos los partidos políticos y planilla de candidatos independientes contendientes en el municipio, entre las regidurías que integren el ayuntamiento, a fin de obtener el cociente electoral; verificada esta operación, se asignarán a cada partido político o planilla de candidatos independientes en forma decreciente de acuerdo a su lista, tantas regidurías como número de veces contenga su votación el cociente obtenido; y"
+    },
+    {
+      "id": "109.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 109 › Fracción II › inciso c)",
+      "texto": "c) Si después de la aplicación del cociente mencionado en el inciso anterior, quedan regidurías por asignar, estas se distribuirán por el sistema de resto mayor, siguiendo el orden decreciente de los restos de votos no utilizados por cada uno de los partidos políticos y planilla de candidatos independientes.\n\n(REFORMADA, P.O. 17 DE FEBRERO DE 1984)"
+    }
+  ]
+}

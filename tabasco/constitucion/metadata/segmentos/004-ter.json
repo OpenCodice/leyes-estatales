@@ -1,0 +1,36 @@
+{
+  "clave": "004-ter",
+  "etiqueta": "Artículo 4 Ter",
+  "titulo": "",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "004-ter.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 Ter › párrafo 1",
+      "texto": "DEROGADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "004-ter.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 Ter › párrafo 2",
+      "texto": "ADICIONADO P.O. 7310 SPTO. C 26-SEP-2012"
+    },
+    {
+      "id": "004-ter.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 Ter › párrafo 3",
+      "texto": "Se deroga."
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "clave": "022",
+  "etiqueta": "Artículo 22",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "022.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › párrafo 1",
+      "texto": "Toda persona que sea ciudadana en el Estado tienen derecho a:"
+    },
+    {
+      "id": "022.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › párrafo 2",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NUM. 110 DE FECHA 24 DE JUNIO DE 2020)"
+    },
+    {
+      "id": "022.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › párrafo 3",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NUM. 029 DE FECHA 14 DE MARZO DE 2025)"
+    },
+    {
+      "id": "022.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción I",
+      "texto": "I. Poder ser votada en condiciones de paridad para todos los cargos de elección popular, teniendo las calidades que establezca la ley.\n\nEl derecho de solicitar el registro de candidatos y candidatas ante la autoridad electoral, para el caso de gubernatura, diputaciones locales y miembros de Ayuntamientos, corresponde a los partidos políticos, en los términos que determine la legislación."
+    },
+    {
+      "id": "022.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción II",
+      "texto": "II. Votar en las elecciones correspondientes e intervenir en todos los procesos de participación ciudadana, de acuerdo a la legislación de la materia. Quienes residan en el extranjero podrán votar de acuerdo a lo que especifique la ley."
+    },
+    {
+      "id": "022.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción III",
+      "texto": "III. A ser preferidas, cuando exista igualdad de condiciones, frente a quienes no lo sean para desempeñar cualquier cargo o comisión siempre que cumplan con los requisitos establecidos en la normatividad correspondiente."
+    },
+    {
+      "id": "022.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción IV",
+      "texto": "IV. Tomar parte en los asuntos políticos del estado mediante la formulación de peticiones y la asociación libre y pacífica."
+    },
+    {
+      "id": "022.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción V",
+      "texto": "V. Exigir que los actos de los poderes públicos del Estado sean transparentes y públicos.\n\n(REFORMA PUBLICADA MEDIANTE P.O. NUM. 029 DE FECHA 14 DE MARZO DE 2025)"
+    },
+    {
+      "id": "022.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción VI",
+      "texto": "VI. Solicitar el registro de candidaturas independientes conforme a los requisitos, condiciones y términos que señale la ley, con excepción de las candidaturas para ser Jueza, Juez, Magistrada, Magistrado del Tribunal Superior de Justicia; y Magistrada y Magistrado del Tribunal de Disciplina Judicial."
+    },
+    {
+      "id": "022.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción VII",
+      "texto": "VII. Participar en las consultas relativas al presupuesto participativo de su municipio o del Gobierno del Estado, conforme a las reglas establecidas en la ley de la materia.\n\nEl presupuesto participativo es un instrumento de participación ciudadana, por el cual se decide el destino de un porcentaje de los recursos públicos; para ello, el Gobierno del Estado y los Ayuntamientos Municipales destinarán en su presupuesto de egresos, una partida equivalente al menos al quince por ciento del presupuesto dedicado a inversión pública.\n\nLos ayuntamientos podrán convenir entre sí cuando se trate de zonas metropolitanas y con el Poder Ejecutivo Estatal en su caso, la inversión pública conjunta, determinada por los habitantes del o los municipios involucrados, cuya decisión será tomada mediante el instrumento señalado.\n\n(SE ADICIONA MEDIANTE P.O. NUM. 012 DE FECHA 22 DE ENERO DE 2025)"
+    },
+    {
+      "id": "022.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción VIII",
+      "texto": "VIII. Participar y votar en las consultas populares en los términos de la ley que para tal efecto emita el Congreso del Estado, y que tengan trascendencia estatal, regional o municipal, las cuales se constituyen como el principal mecanismo para garantizar la inclusión y participación del pueblo en la toma de decisiones y ejercicio del poder político, con el objetivo de contribuir a la gobernabilidad, el fortalecimiento de la eficacia y eficiencia del Estado y en su legitimidad frente a la ciudadanía."
+    }
+  ]
+}

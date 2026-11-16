@@ -1,0 +1,27 @@
+{
+  "clave": "093",
+  "etiqueta": "Artículo 93º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "093.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE JUNIO DE 1988)"
+    },
+    {
+      "id": "093.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93º › párrafo 2",
+      "texto": "El refrendo actualiza en el Secretario de Gobierno y los demás Secretarios del Ramo, la responsabilidad que pueda resultar del mismo."
+    }
+  ]
+}

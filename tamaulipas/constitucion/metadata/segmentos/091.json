@@ -1,0 +1,450 @@
+{
+  "clave": "091",
+  "etiqueta": "Artículo 91",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "091.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 1",
+      "texto": "Las facultades y obligaciones de la Gobernadora o del Gobernador son las siguientes:"
+    },
+    {
+      "id": "091.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción I",
+      "texto": "I.- En el orden federal, las que determinen la Constitución Política de los Estados Unidos Mexicanos y las Leyes Federales;"
+    },
+    {
+      "id": "091.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción II",
+      "texto": "II.- Cuidar de la seguridad y tranquilidad del Estado según la Constitución y las leyes que al caso resultan aplicables;"
+    },
+    {
+      "id": "091.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción III",
+      "texto": "III.- Impedir los abusos de la fuerza pública contra los ciudadanos y los pueblos, procurando que se haga efectiva la responsabilidad en que aquella incurriere;"
+    },
+    {
+      "id": "091.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción IV",
+      "texto": "IV.- Conforme a la libertad de creencias y el principio histórico de la separación del Estado y las iglesias, ejercer las atribuciones que le confiera la ley reglamentaria de las disposiciones de la Constitución Política de los Estados Unidos Mexicanos en materia de agrupaciones religiosas e iglesias, asociaciones religiosas y culto público;"
+    },
+    {
+      "id": "091.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción V",
+      "texto": "V.- Cumplir y hacer cumplir la Constitución Política del Estado, las leyes y decretos del Congreso, los acuerdos, reglamentos, circulares y demás determinaciones que expidan el Poder Judicial, los Ayuntamientos y los organismos autónomos de los Poderes debiendo promulgar y mandarlos publicar en el órgano institucional, de carácter único, permanente e interés público del Gobierno Constitucional del Estado, para su aplicación y observación debidas; asimismo, proveer en la esfera administrativa cuanto fuere necesario a su exacta observancia, expidiendo los reglamentos y demás disposiciones respectivas;"
+    },
+    {
+      "id": "091.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción VI",
+      "texto": "VI.- Cuidar en los distintos ramos de la Administración que los caudales públicos estén asegurados y se recauden e inviertan con arreglo a las Leyes;"
+    },
+    {
+      "id": "091.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción VII",
+      "texto": "VII.- Presentar al Congreso la iniciativa de Ley de Ingresos del Estado y el proyecto de Presupuesto de Egresos del Estado, en los términos que dispone esta Constitución y las leyes de la materia;"
+    },
+    {
+      "id": "091.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción VIII",
+      "texto": "VIII.- Ejercer la facultad prevista en la fracción XV del Artículo 73 de la Constitución Política de los Estados Unidos Mexicanos;"
+    },
+    {
+      "id": "091.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción IX",
+      "texto": "IX.- Nombrar y remover libremente a los servidores públicos de confianza a que se refiere la ley respectiva y a los demás cuyo nombramiento y remoción no se encomiende a otra autoridad;"
+    },
+    {
+      "id": "091.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción X",
+      "texto": "X.- Participar en el proceso de designación del Fiscal General de Justicia, en términos del artículo 125 de esta Constitución, y turnar a la persona titular de ese organismo público todos los asuntos que deban ventilarse dentro del ámbito de sus atribuciones;"
+    },
+    {
+      "id": "091.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XI",
+      "texto": "XI.- Resolver gubernativamente los asuntos que pongan las Leyes en el ámbito de sus atribuciones;"
+    },
+    {
+      "id": "091.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XII",
+      "texto": "XII.- Iniciar ante el Congreso las Leyes y los Decretos que estime convenientes para el mejoramiento de las funciones del Poder Público del Estado y solicitar a éste órgano que inicie ante el Congreso de la Unión lo que sea de la competencia federal;"
+    },
+    {
+      "id": "091.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XIII",
+      "texto": "XIII.- Proponer a la Diputación Permanente la convocación del Congreso a Sesiones Extraordinarias;"
+    },
+    {
+      "id": "091.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XIV",
+      "texto": "XIV.- Presentar al Congreso del Estado para su estudio y aprobación, la propuesta de designación de las Magistradas o Magistrados del Tribunal de Justicia Administrativa;"
+    },
+    {
+      "id": "091.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XV",
+      "texto": "XV.- Auxiliar a los Tribunales y Juzgados del Estado para que la justicia se administre pronta y cumplidamente, y que se ejecuten las sentencias, prestando a aquellos el apoyo que requieran para el mejor ejercicio de sus funciones. Esta atribución no lo autoriza para intervenir directa o indirectamente en el examen y decisión de los juicios en trámite, ni para disponer en forma alguna de los procesados;"
+    },
+    {
+      "id": "091.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XVI",
+      "texto": "XVI.- Cuidar que la justicia administrativa se aplique de manera pronta, completa e imparcial por el Tribunal de Justicia Administrativa;"
+    },
+    {
+      "id": "091.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XVII",
+      "texto": "XVII.- Celebrar convenios con las y los Gobernadores de los Estados limítrofes para la entrada y paso de sus fuerzas de seguridad por el territorio del Estado y recíprocamente, dando cuenta al Congreso;"
+    },
+    {
+      "id": "091.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XVIII",
+      "texto": "XVIII.- Celebrar, con la aprobación del Congreso del Estado y, posteriormente, del Congreso de la Unión, convenios amistosos con los Estados vecinos en materia de límites;"
+    },
+    {
+      "id": "091.XIX",
+      "tipo": "fraccion",
+      "marca": "XIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XIX",
+      "texto": "XIX.- Convocar a los miembros del Congreso para el desempeño de sus funciones, cuando por alguna causa no hubiere Diputación Permanente;"
+    },
+    {
+      "id": "091.XX",
+      "tipo": "fraccion",
+      "marca": "XX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XX",
+      "texto": "XX.- Ejercer la superior inspección de la Hacienda Pública del Estado y velar por su recaudación, custodia, administración e inversión;"
+    },
+    {
+      "id": "091.XXI",
+      "tipo": "fraccion",
+      "marca": "XXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXI",
+      "texto": "XXI.- Celebrar en los términos de Ley, con el Ejecutivo Federal, las Dependencias y Entidades de la Administración Pública, las Entidades Federativas y los Municipios, los convenios y acuerdos necesarios para el desarrollo económico y social de la Nación, el Estado y los Municipios. Asimismo, podrá inducir y concertar con los particulares acciones destinadas al mismo objeto;"
+    },
+    {
+      "id": "091.XXII",
+      "tipo": "fraccion",
+      "marca": "XXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXII",
+      "texto": "XXII.- Designar uno de las o los integrantes del Pleno del Órgano de Administración Judicial;"
+    },
+    {
+      "id": "091.XXIII",
+      "tipo": "fraccion",
+      "marca": "XXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXIII",
+      "texto": "XXIII.- Visitar durante su período los Municipios del Estado, dictar las providencias que conforme a sus facultades fueren oportunas para su mejor desarrollo y dar cuenta al Congreso, cuando así fuere necesario;"
+    },
+    {
+      "id": "091.XXIV",
+      "tipo": "fraccion",
+      "marca": "XXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXIV",
+      "texto": "XXIV.- Dictar las disposiciones necesarias para combatir los juegos prohibidos;"
+    },
+    {
+      "id": "091.XXV",
+      "tipo": "fraccion",
+      "marca": "XXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXV",
+      "texto": "XXV.- Expedir y revocar los Fíats de Notarios y las patentes a aspirantes al Notariado, así como expedir Títulos Profesionales con arreglo a las Leyes;"
+    },
+    {
+      "id": "091.XXVI",
+      "tipo": "fraccion",
+      "marca": "XXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXVI",
+      "texto": "XXVI.- Conceder indulto de las penas en los términos y con los requisitos que expresa la Ley;"
+    },
+    {
+      "id": "091.XXVII",
+      "tipo": "fraccion",
+      "marca": "XXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXVII",
+      "texto": "XXVII.- Organizar las Dependencias y Entidades de la Administración Pública Estatal, sin alterar los presupuestos, salvo que lo apruebe el Congreso;"
+    },
+    {
+      "id": "091.XXVIII",
+      "tipo": "fraccion",
+      "marca": "XXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXVIII",
+      "texto": "XXVIII.- Sancionar a quienes le falten al respeto o infrinjan los reglamentos gubernativos con arresto o multa, en los términos del Artículo 19 de esta Constitución;"
+    },
+    {
+      "id": "091.XXIX",
+      "tipo": "fraccion",
+      "marca": "XXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXIX",
+      "texto": "XXIX.- Representar al Gobierno del Estado en todos los actos inherentes a su cargo. Esta representación podrá delegarla u otorgarla en favor de terceros en los términos más amplios que, para tal efecto, fijen las leyes;"
+    },
+    {
+      "id": "091.XXX",
+      "tipo": "fraccion",
+      "marca": "XXX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXX",
+      "texto": "XXX.- Concurrir al Congreso cuando lo juzgue conveniente para sostener alguna Iniciativa presentada por el Ejecutivo; o enviar en su representación al Secretario General de Gobierno o a la persona que designe para el mismo objeto, o para informar cuando lo solicite el Congreso, pudiendo rendir tales informes por escrito;"
+    },
+    {
+      "id": "091.XXXI",
+      "tipo": "fraccion",
+      "marca": "XXXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXXI",
+      "texto": "XXXI.- Pedir al Congreso, o a la Diputación Permanente, sí aquel no estuviere reunido, las facultades extraordinarias que sean necesarias para restablecer el orden en el Estado, cuando por causa de invasión o de conmoción interior se hubiere alterado. Del uso que haya hecho de tales facultades dará cuenta detallada al Congreso;"
+    },
+    {
+      "id": "091.XXXII",
+      "tipo": "fraccion",
+      "marca": "XXXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXXII",
+      "texto": "XXXII.- Derogada. (Decreto No. LXII-387, Anexo al P.O. No. 151, del 17 de diciembre de 2014)."
+    },
+    {
+      "id": "091.XXXIII",
+      "tipo": "fraccion",
+      "marca": "XXXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXXIII",
+      "texto": "XXXIII.- Concurrir a la apertura de los períodos ordinarios de sesiones del Congreso, pudiendo informar en ellos acerca de todos o algunos de los ramos de la administración a su cargo, cuando lo estime conveniente o así lo solicite el Congreso, y deberá rendir el informe anual sobre el estado que guarda la Administración Pública Estatal en sesión pública y solemne del Congreso que se verificará durante la primera quincena de marzo de cada año que determine el Congreso;"
+    },
+    {
+      "id": "091.XXXIV",
+      "tipo": "fraccion",
+      "marca": "XXXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXXIV",
+      "texto": "XXXIV.- Fomentar por todos los medios posibles la Instrucción y Educación Públicas y procurar el adelanto y mejoramiento social, favoreciendo toda clase de mejoras que interesen a la colectividad;"
+    },
+    {
+      "id": "091.XXXV",
+      "tipo": "fraccion",
+      "marca": "XXXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXXV",
+      "texto": "XXXV.- Conceder licencias a los servidores públicos o suspenderlos de conformidad con lo expresado en la Ley Reglamentaria relativa;"
+    },
+    {
+      "id": "091.XXXVI",
+      "tipo": "fraccion",
+      "marca": "XXXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXXVI",
+      "texto": "XXXVI.- Tomar en caso de invasión exterior o conmoción interior armada, las medidas extraordinarias que fueren necesarias para salvar el Estado, sujetándolas lo más pronto posible a la aprobación del Congreso o de la Diputación Permanente;"
+    },
+    {
+      "id": "091.XXXVII",
+      "tipo": "fraccion",
+      "marca": "XXXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXXVII",
+      "texto": "XXXVII.- En caso de sublevación o de trastorno interior en el Estado, excitar, de acuerdo con el Congreso o la Diputación Permanente, a los Poderes Federales a que ministren la protección debida, si los elementos de que dispone el Ejecutivo del Estado no fueren bastantes para restablecer el orden;"
+    },
+    {
+      "id": "091.XXXVIII",
+      "tipo": "fraccion",
+      "marca": "XXXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXXVIII",
+      "texto": "XXXVIII.- Recibir la protesta de Ley a los servidores públicos de nombramiento del Ejecutivo, cuando no estuviere determinada otra cosa en la Ley;"
+    },
+    {
+      "id": "091.XXXIX",
+      "tipo": "fraccion",
+      "marca": "XXXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXXIX",
+      "texto": "XXXIX.- Acordar la expropiación por causa de utilidad pública con los requisitos de Ley;"
+    },
+    {
+      "id": "091.XL",
+      "tipo": "fraccion",
+      "marca": "XL",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XL",
+      "texto": "XL.- Excitar a los Ayuntamientos en los casos que a su juicio sea necesario, para que cuiden del mejoramiento de los distintos Ramos de la Administración;"
+    },
+    {
+      "id": "091.XLI",
+      "tipo": "fraccion",
+      "marca": "XLI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XLI",
+      "texto": "XLI.- Conceder pensiones dentro o fuera del Estado a los estudiantes que acrediten que no pueden sostenerse de por sí;"
+    },
+    {
+      "id": "091.XLII",
+      "tipo": "fraccion",
+      "marca": "XLII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XLII",
+      "texto": "XLII.- Dar cuenta al Congreso para que resuelva sobre los acuerdos de los Ayuntamientos que fueren contrarios a la Constitución Política de los Estados Unidos Mexicanos, a la Constitución local o cualquiera otra Ley, o cuando lesionen los intereses municipales;"
+    },
+    {
+      "id": "091.XLIII",
+      "tipo": "fraccion",
+      "marca": "XLIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XLIII",
+      "texto": "XLIII.- Respetar y hacer que se respete la libre emisión del voto popular en las elecciones y la voluntad expresada en los procesos de participación directa de la ciudadanía;"
+    },
+    {
+      "id": "091.XLIV",
+      "tipo": "fraccion",
+      "marca": "XLIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XLIV",
+      "texto": "XLIV.- Conceder con arreglo a las Leyes habilitaciones de edad a los menores para contraer matrimonio;"
+    },
+    {
+      "id": "091.XLV",
+      "tipo": "fraccion",
+      "marca": "XLV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XLV",
+      "texto": "XLV.- Adoptar, en casos graves, las medidas que juzgue necesarias para salvaguardar el orden público o la paz social, o la economía del Estado o la de los Municipios, dando cuenta inmediata al Congreso o en su receso a la Diputación Permanente, para que resuelva en definitiva;"
+    },
+    {
+      "id": "091.XLVI",
+      "tipo": "fraccion",
+      "marca": "XLVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XLVI",
+      "texto": "XLVI.- Celebrar convenios de colaboración con la Federación, las entidades federativas y los municipios del Estado en materia de desarrollo sustentable, con base en las leyes de la materia;"
+    },
+    {
+      "id": "091.XLVII",
+      "tipo": "fraccion",
+      "marca": "XLVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XLVII",
+      "texto": "XLVII.- Solicitar a la Comisión Nacional de los Derechos Humanos que investigue hechos que constituyan violaciones graves a los derechos humanos; y"
+    },
+    {
+      "id": "091.XLVIII",
+      "tipo": "fraccion",
+      "marca": "XLVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XLVIII",
+      "texto": "XLVIII.- Ejercer las demás facultades que le señale la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que emanen de ambas."
+    }
+  ]
+}

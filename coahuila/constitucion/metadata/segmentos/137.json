@@ -1,0 +1,27 @@
+{
+  "clave": "137",
+  "etiqueta": "Artículo 137º",
+  "titulo": "TITULO QUINTO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "137.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE DICIEMBRE DE 2024) (REFORMADO, P.O. 22 DE NOVIEMBRE DE 2019) (REFORMADO, P.O. 14 DE JULIO DE 2017) (REFORMADO, P.O. 25 DE MAYO DE 2007)"
+    },
+    {
+      "id": "137.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137º › párrafo 2",
+      "texto": "El Pleno y las Salas del Tribunal Superior de Justicia del Estado, así como el Tribunal de Disciplina Judicial y los Tribunales Distritales, están facultados para formar jurisprudencia local, en los términos que establezca la Ley."
+    }
+  ]
+}

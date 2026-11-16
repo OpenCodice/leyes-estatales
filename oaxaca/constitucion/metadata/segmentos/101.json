@@ -1,0 +1,117 @@
+{
+  "clave": "101",
+  "etiqueta": "Artículo 101",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "101.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 1",
+      "texto": "Para ser Magistrada o Magistrado del Tribunal Superior de Justicia del Estado, se necesita:"
+    },
+    {
+      "id": "101.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › Fracción I",
+      "texto": "I.- Ser ciudadana o ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos políticos y civiles;"
+    },
+    {
+      "id": "101.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › Fracción II",
+      "texto": "II.- Reunir los requisitos señalados por las fracciones I al IV del párrafo segundo del artículo 97 de la Constitución Federal y los demás que establezca esta Constitución y la Ley Orgánica del Poder Judicial;"
+    },
+    {
+      "id": "101.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › Fracción III",
+      "texto": "III.- Poseer el día de la publicación de la convocatoria señalada en la fracción I del artículo 102 de esta Constitución, título profesional de licenciado en derecho expedido legalmente, un promedio general de calificación de cuando menos ocho puntos o su equivalente y de nueve puntos o su equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado, y práctica profesional de cuando menos cinco años en el ejercicio de la actividad jurídica;"
+    },
+    {
+      "id": "101.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › Fracción IV",
+      "texto": "IV.- Gozar de buena reputación y no haber sido condenado mediante resolución firme por delitos intencionales o que ameriten pena corporal de más de un año de prisión; pero si se trata de robo, fraude falsificación, abuso de confianza y otro que lastime seriamente la buena fama en el concepto público, inhabilitará para el cargo cualquiera que haya sido la pena; así mismo, será requisito el no haber sido condenada o condenado mediante resolución firme por delitos cometidos por razones de género; por violencia familiar; por delitos sexuales y no estar inscrito como persona deudora alimentaria morosa en cualquier registro oficial a menos que acredite estar al corriente del pago, cancele en su totalidad la deuda o bien, tramite el descuento pertinente ante las instancia (sic) que así correspondan, en términos de lo dispuesto en la ley de la materia;"
+    },
+    {
+      "id": "101.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › Fracción V",
+      "texto": "V.- Haber residido en el país durante los dos años anteriores al día de la publicación de la convocatoria señalada en la fracción I del artículo 102 de esta Constitución."
+    },
+    {
+      "id": "101.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › Fracción VI",
+      "texto": "VI.- No haber sido Secretaria o Secretario de Despacho o su equivalente, Fiscal General o Especializado, Senador, diputado federal ni Diputada o Diputado Local, durante el año previo al día de la publicación de la convocatoria señalada en la fracción I del artículo 102 de esta Constitución;\n\nPrimer párrafo de la Fracción VI reformada mediante decreto Número 1263 aprobado el 30 de junio del 2015 y publicado en el Periódico Oficial Extra del 30 de junio del 2015.\n\nSe deroga;\n\n(Párrafo reformado mediante decreto número 690, aprobado por la LXIII Legislatura el 23 de agosto de 2017 y publicado en el Periódico Oficial Extra del 28 de septiembre del 2017) (Párrafo reformado mediante decreto número 796, aprobado por la LXIV Legislatura el 18 de septiembre de 2019 y publicado en el Periódico Oficial número 45 Tercera Sección del 9 de noviembre del 2019) (Párrafo derogado mediante decreto número 613, aprobado por la LXVI Legislatura el 12 de marzo del 2025 y publicado en el Periódico Oficial Extra del 14 de marzo del 2025) No podrán reunirse en el Tribunal dos o más Magistradas o Magistrados que sean parientes entre sí por consanguinidad dentro del cuarto grado o por afinidad dentro del segundo.\n\nDurante el ejercicio de su encargo no podrán ocupar cargo en partidos políticos ni desempeñar otro empleo, cargo o comisión en el servicio público; excepto la docencia o la investigación académica. Sólo podrán ser removidos de conformidad con lo dispuesto en esta Constitución y las leyes en la materia.\n\nLas Magistradas y los Magistrados del Tribunal Superior de Justicia, las Juezas y los Jueces de primera instancia y en materia laboral, las Magistradas y los Magistrados del Tribunal de Disciplina Judicial y las y los integrantes del Pleno del órgano de administración judicial, así como las Magistradas y los Magistrados del Tribunal Electoral, no podrán, en ningún caso:"
+    },
+    {
+      "id": "101.I~2",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › Fracción I",
+      "texto": "I. Durante el ejercicio de su cargo, aceptar ni desempeñar empleo o encargo de la Federación, de entidades federativas o de particulares, salvo los cargos no remunerados en asociaciones científicas, docentes, literarias o de beneficencia;"
+    },
+    {
+      "id": "101.II~2",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › Fracción II",
+      "texto": "II. Dentro de los dos años siguientes a la fecha de la culminación de su encargo:"
+    },
+    {
+      "id": "101.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 101 › Fracción II › inciso a)",
+      "texto": "a) Ocupar los cargos señalados en la fracción VI de este artículo;"
+    },
+    {
+      "id": "101.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 101 › Fracción II › inciso b)",
+      "texto": "b) Actuar como patronos, abogados o representantes en cualquier proceso ante los órganos del Poder Judicial, y"
+    },
+    {
+      "id": "101.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 101 › Fracción II › inciso c)",
+      "texto": "c) Tratándose de Juezas y Jueces de primera instancia, este impedimento aplicará respecto del distrito judicial de su adscripción al momento de dejar el cargo, en los términos que establezca la ley.\n\n.\n\n(Párrafo reformado mediante decreto número 1539, aprobado por la LXIII Legislatura el 31 de julio del 2018 y publicado en el Periódico Oficial Extra del 1 de agosto del 2018) (Párrafo restituido mediante decreto número 633, aprobado por la LXIV Legislatura el 12 de abril del 2019 y publicado en el Periódico Oficial número 18 Cuarta Sección de fecha 4 de mayo del 2019, mediante el cual queda sin efecto el Decreto número 1539, aprobado el 31 de julio del 2018 y publicado en el Periódico Oficial Extra de fecha 1 de agosto del 2018) (Párrafo reformado mediante decreto número 796, aprobado por la LXIV Legislatura el 18 de septiembre de 2019 y publicado en el Periódico Oficial número 45 Tercera Sección del 9 de noviembre del 2019) Los impedimentos de este artículo serán aplicables a los funcionarios judiciales que gocen de licencia. La infracción a lo previsto en el presente párrafo será sancionada con la pérdida del respectivo cargo dentro del Poder Judicial del Estado, así como de las prestaciones y beneficios que en lo sucesivo correspondan por el mismo, independientemente de las demás sanciones que las leyes prevean.\n\nLas propuestas de candidaturas y la elección de los magistrados y Jueces integrantes del Poder Judicial se realizarán conforme a las bases, procedimientos, términos, modalidades y requisitos que señala la Constitución Federal para el Poder Judicial de la Federación y la Ley General de la materia en lo que resulte aplicable, estableciendo mecanismos públicos, abiertos, transparentes, inclusivos, accesibles y paritarios de evaluación y selección que garanticen la participación de personas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes profesionales y académicos en el ejercicio de la actividad jurídica.\n\n(Artículo reformado mediante decreto número 875, aprobado por la LXV Legislatura del Estado el 15 de febrero del 2023 y publicado en el Periódico Oficial Extra de fecha 20 de febrero del 2023) (Artículo reformado mediante decreto número 613, aprobado por la LXVI Legislatura del Estado el 12 de marzo del 2025 y publicado en el Periódico Oficial Extra, de fecha 14 de marzo del 2025)"
+    }
+  ]
+}

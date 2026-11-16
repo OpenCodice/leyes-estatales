@@ -1,0 +1,27 @@
+{
+  "clave": "129",
+  "etiqueta": "Artículo 129",
+  "titulo": "",
+  "capitulo": "CAPÍTULO XX",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "129.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 129 › párrafo 1",
+      "texto": "Ninguna disposición de esta Ley fundamental producirá efecto, cuando contravenga algún precepto de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "129.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 129 › párrafo 2",
+      "texto": "Nota: Se recorrieron los numerales mediante decreto No. 3 de la LX Legislatura, publicado en el P. O. No. 4396, Segunda Sección de fecha 18 de noviembre de 2009."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "139",
+  "etiqueta": "Artículo 139",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "139.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 139 › párrafo 1",
+      "texto": "La educación que imparta directamente el Estado será gratuita en todos sus niveles, y obligatoria hasta el nivel medio superior. Los habitantes de la Entidad tendrán las mismas oportunidades de acceso al Sistema Educativo Estatal."
+    },
+    {
+      "id": "139.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 139 › párrafo 2",
+      "texto": "El Estado priorizará el interés superior de niñas, niños, adolescentes y jóvenes en el acceso, permanencia y participación en los servicios educativos."
+    }
+  ]
+}

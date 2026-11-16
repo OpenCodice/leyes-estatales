@@ -1,0 +1,27 @@
+{
+  "clave": "007-o",
+  "etiqueta": "Artículo 7º O",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007-o.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º O › párrafo 1",
+      "texto": "El Estado tiene la obligación de no interferir de manera arbitraria en la esfera de la libertad que es propia y exclusiva de las personas."
+    },
+    {
+      "id": "007-o.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º O › párrafo 2",
+      "texto": "El Estado solamente podrá interferir de manera proporcional y con prestaciones positivas a favor de las personas cuando sea necesario y útil para garantizar su libertad, igualdad, seguridad jurídica y solidaridad."
+    }
+  ]
+}

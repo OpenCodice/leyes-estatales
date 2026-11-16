@@ -1,0 +1,27 @@
+{
+  "clave": "057",
+  "etiqueta": "Artículo 57",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "057.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › párrafo 1",
+      "texto": "Se instalará el primero de septiembre del año de renovación de la Legislatura, en sesión solemne, debiendo concurrir las dos terceras partes del total de sus integrantes para la rendición de la protesta constitucional del cargo representativo."
+    },
+    {
+      "id": "057.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › párrafo 2",
+      "texto": "Deberán acudir a la sesión de instalación del Congreso los titulares de los Poderes Ejecutivo y Judicial del Estado, en los términos que establezca la Ley Orgánica del Poder Legislativo."
+    }
+  ]
+}

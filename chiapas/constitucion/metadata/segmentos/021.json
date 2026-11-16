@@ -1,0 +1,63 @@
+{
+  "clave": "021",
+  "etiqueta": "Artículo 21",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "021.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 1",
+      "texto": "Las obligaciones de quien tenga la ciudadanía chiapaneca son:"
+    },
+    {
+      "id": "021.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción I",
+      "texto": "I. Inscribirse a los dieciocho años en el Padrón Electoral y votar en las elecciones correspondientes."
+    },
+    {
+      "id": "021.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción II",
+      "texto": "II. Desempeñar los cargos de elección popular en los cuales haya resultado electos o aquellos para los que haya sido designado"
+    },
+    {
+      "id": "021.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción III",
+      "texto": "III. Tomar las armas para defender al Estado mexicano y sus instituciones de acuerdo a lo que establezca la legislación correspondiente."
+    },
+    {
+      "id": "021.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción IV",
+      "texto": "IV. Desempeñar las funciones municipales y electorales que señalen las leyes."
+    },
+    {
+      "id": "021.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción V",
+      "texto": "V. Colaborar con las autoridades en materia de protección civil cuando existan riesgos colectivos que puedan afectar la comunidad en donde habitan."
+    }
+  ]
+}

@@ -1,0 +1,162 @@
+{
+  "clave": "047",
+  "etiqueta": "Artículo 47",
+  "titulo": "Título Quinto",
+  "capitulo": "Capítulo III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "047.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › párrafo 1",
+      "texto": "Durante los recesos del Congreso del Estado, habrá una Comisión Permanente que estará integrada por la Mesa Directiva en funciones."
+    },
+    {
+      "id": "047.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › párrafo 2",
+      "texto": "El día de la clausura del periodo ordinario de sesiones del Congreso del Estado, quien presida la Mesa Directiva declarará instalada la Comisión Permanente, comunicándolo así a quienes corresponda."
+    },
+    {
+      "id": "047.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › párrafo 3",
+      "texto": "La Comisión Permanente, además de las atribuciones que expresamente le confiere esta Constitución, tendrá las siguientes:"
+    },
+    {
+      "id": "047.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › Fracción I",
+      "texto": "I. Convocar al Congreso del Estado a sesiones extraordinarias."
+    },
+    {
+      "id": "047.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › Fracción II",
+      "texto": "II. Dictaminar los asuntos que se le presenten en tiempo de sus funciones y los que queden pendientes al clausurarse el periodo ordinario."
+    },
+    {
+      "id": "047.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › Fracción III",
+      "texto": "III. Resolver todos los asuntos concernientes a las elecciones de servidores públicos municipales."
+    },
+    {
+      "id": "047.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › Fracción IV",
+      "texto": "IV. Conocer de los asuntos relacionados con la hacienda de los Municipios y revisar y aprobar sus cuentas."
+    },
+    {
+      "id": "047.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › Fracción V",
+      "texto": "V. Resolver todo lo relativo a las licencias y renuncias que presenten ante el Congreso del Estado los munícipes para separarse del ejercicio de sus funciones."
+    },
+    {
+      "id": "047.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › Fracción VI",
+      "texto": "VI. Aprobar o desaprobar todo lo relacionado a la afectación del patrimonio del Estado o de los Municipios."
+    },
+    {
+      "id": "047.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › Fracción VII",
+      "texto": "VII. Autorizar a los Ayuntamientos Municipales, para la celebración de contratos de Prestación de Servicios Públicos y cualquier otro acto jurídico a largo plazo, pudiéndolos otorgar en concesión y/o licencia dichos servicios, con la participación del sector privado."
+    },
+    {
+      "id": "047.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › Fracción VIII",
+      "texto": "VIII. Conocer y resolver sobre las solicitudes de licencia que les sean presentados por los legisladores.\n\n(REFORMA PUBLICADA MEDIANTE P.O. NUM. 029 DE FECHA 14 DE MARZO DE 2025)"
+    },
+    {
+      "id": "047.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › Fracción IX",
+      "texto": "IX. Ejercer las atribuciones a que se refiere la fracción XII del artículo 45 de esta Constitución, en relación a la elección de Juezas, Jueces, Magistradas y Magistrados del Tribunal Superior de Justicia y Magistradas y Magistrados del Tribunal de Disciplina del Poder Judicial."
+    },
+    {
+      "id": "047.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › Fracción X",
+      "texto": "X. Nombrar Gobernador interino o provisional en los supuestos a que se refiere esta Constitución y recibir su protesta."
+    },
+    {
+      "id": "047.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › Fracción XI",
+      "texto": "XI. Conceder licencia por más de treinta días al Titular del Ejecutivo del Estado."
+    },
+    {
+      "id": "047.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › Fracción XII",
+      "texto": "XII. Recibir, en su caso, la protesta de Gobernador interino o provisional."
+    },
+    {
+      "id": "047.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › Fracción XIII",
+      "texto": "XIII. Revisar y aprobar los avances financieros de la Cuenta Pública que envíe el Ejecutivo del Estado; y las demás que le asigne la presente Constitución."
+    },
+    {
+      "id": "047.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › Fracción XIV",
+      "texto": "XIV. Recibir el informe anual que rinda quien presida la Comisión Estatal de los Derechos Humanos.\n\nLos Asuntos cuya resolución corresponda al Pleno del Congreso del Estado que durante el receso se presenten a la Comisión Permanente, se turnarán a la Comisión que corresponda."
+    }
+  ]
+}

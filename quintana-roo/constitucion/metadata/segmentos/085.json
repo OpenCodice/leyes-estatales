@@ -1,0 +1,45 @@
+{
+  "clave": "085",
+  "etiqueta": "Artículo 85",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "085.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › párrafo 1",
+      "texto": "En las ausencias o faltas temporales de la Gobernadora o el Gobernador del Estado se observarán las siguientes disposiciones:"
+    },
+    {
+      "id": "085.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › Fracción I",
+      "texto": "I.- Las ausencias hasta por 30 días, serán suplidas por la persona Titular de la Secretaría de Gobierno."
+    },
+    {
+      "id": "085.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › Fracción II",
+      "texto": "II.- Si la ausencia excede de 30 días y no pasa de 90, la Gobernadora o el Gobernador dará aviso a la Legislatura o a la Comisión Permanente, en su caso, quedando encargada del Despacho la persona Titular de la Secretaría de Gobierno, y"
+    },
+    {
+      "id": "085.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › Fracción III",
+      "texto": "III. Si la falta temporal excede de 90 días la Legislatura o la Comisión Permanente, en su caso, designará a una Gobernadora o Gobernador interino o provisional, para que le supla durante el tiempo de su ausencia.\n\nArtículo reformado POE 19-03-2025"
+    }
+  ]
+}

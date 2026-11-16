@@ -1,0 +1,36 @@
+{
+  "clave": "007-l",
+  "etiqueta": "Artículo 7º L",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007-l.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º L › párrafo 1",
+      "texto": "Los derechos humanos que se reconocen en el ámbito local no se perderán ni dejarán de ser vinculantes para las autoridades del Estado por estar fuera del territorio coahuilense."
+    },
+    {
+      "id": "007-l.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º L › párrafo 2",
+      "texto": "El estado de la dignidad de las personas y sus derechos que establece esta Constitución, las Cartas de Derechos y sus Protocolos Adicionales tendrán validez en las otras entidades federativas, de acuerdo a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos para los efectos del estado civil de las personas."
+    },
+    {
+      "id": "007-l.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º L › párrafo 3",
+      "texto": "Las violaciones graves a los derechos humanos que hayan sido cometidas en otra entidad federativa o en el extranjero en perjuicio de la ciudadanía coahuilense, podrán ser objeto de tutela en el ámbito local conforme al derecho internacional obligatorio para el Estado Mexicano. Esta tutela local de los derechos de las personas se activará mediante la prueba de conexión relevante con la soberanía local o con los elementos del Estado para proteger sus derechos humanos en el régimen interno en los términos que establezca la ley."
+    }
+  ]
+}

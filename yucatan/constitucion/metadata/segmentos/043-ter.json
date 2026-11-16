@@ -1,0 +1,106 @@
+{
+  "clave": "043-ter",
+  "etiqueta": "Artículo 43 Ter",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo adicionado DO 04-07-2025",
+      "fechas": [
+        "2025-07-04"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "043-ter.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 Ter › párrafo 1",
+      "texto": "Para ser titular de la Auditoría Superior del Estado se requiere cumplir, además de los requisitos previstos en la ley, los siguientes:"
+    },
+    {
+      "id": "043-ter.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 Ter › Fracción I",
+      "texto": "I.- Ser persona ciudadana mexicana y estar en pleno goce y ejercicio de sus derechos civiles y políticos;"
+    },
+    {
+      "id": "043-ter.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 Ter › Fracción II",
+      "texto": "II.- Tener cuando menos treinta años cumplidos el día de su designación;"
+    },
+    {
+      "id": "043-ter.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 Ter › Fracción III",
+      "texto": "III.- Contar, al día de su designación, con título y cédula profesional;"
+    },
+    {
+      "id": "043-ter.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 Ter › Fracción IV",
+      "texto": "IV.- Acreditar, al menos, cinco años de experiencia en materia de control, auditoría financiera y de responsabilidades de los servidores públicos;"
+    },
+    {
+      "id": "043-ter.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 Ter › Fracción V",
+      "texto": "V.- Gozar de buena reputación;"
+    },
+    {
+      "id": "043-ter.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 Ter › Fracción VI",
+      "texto": "VI.- No estar cumpliendo sentencia firme emitida por una autoridad judicial competente, que imponga pena privativa de la libertad, por la comisión de un delito intencional o actos de corrupción, que amerite la inhabilitación para ocupar cargos públicos;"
+    },
+    {
+      "id": "043-ter.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 Ter › Fracción VII",
+      "texto": "VII.- No ser titular del Poder Ejecutivo del Estado, de alguna de las dependencias o entidades de la Administración Pública del Estado de Yucatán, de un organismo autónomo, Senador, Diputado Federal, Diputado Local o Presidente Municipal, a menos que se separe del cargo un año antes de la designación;"
+    },
+    {
+      "id": "043-ter.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 Ter › Fracción VIII",
+      "texto": "VIII.- No tener antecedentes penales por violencia familiar, delitos contra la intimidad personal, contra la imagen personal, violencia laboral contra las mujeres, violencia obstétrica, violencia por parentesco, violencia institucional, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio, y"
+    },
+    {
+      "id": "043-ter.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 Ter › Fracción IX",
+      "texto": "IX.- No ser deudor alimentario moroso.\n\nDurante el ejercicio de su encargo, la persona titular de la Auditoría Superior del Estado no podrá formar parte de ningún partido político, ni desempeñar otro empleo, cargo o comisión, salvo los no remunerados en asociaciones científicas, docentes, artísticas o de beneficencia."
+    }
+  ]
+}

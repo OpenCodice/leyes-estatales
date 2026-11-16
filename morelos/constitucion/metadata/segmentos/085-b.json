@@ -1,0 +1,36 @@
+{
+  "clave": "085-b",
+  "etiqueta": "Artículo 85 B",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "085-b.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 B › párrafo 1",
+      "texto": "En el caso de conurbación en la que participe el Estado de Morelos con una o más entidades federativas, la Federación, y los Municipios circunvecinos, en el ámbito de sus competencias, planearán y regularán de manera conjunta y coordinada el desarrollo de los centros urbanos, con apego en la Ley federal de la materia y en la declaratoria correspondiente, emitida por el Ejecutivo Federal."
+    },
+    {
+      "id": "085-b.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 B › párrafo 2",
+      "texto": "El fenómeno de conurbación interestatal se presenta cuando dos o más centros urbanos situados en territorios municipales de dos o más entidades federativas, formen o tiendan a formar una continuidad demográfica."
+    },
+    {
+      "id": "085-b.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 B › párrafo 3",
+      "texto": "El fenómeno de conurbación intermunicipal, se presenta cuando dos o más centros urbanos formen o tiendan a formar una unidad demográfica, económica y social entre dos o más Municipios del Estado."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "049",
+  "etiqueta": "Artículo 49",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "049.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 1",
+      "texto": "Los Diputados Suplentes substituirán a los Propietarios en todas sus faltas temporales y absolutas."
+    },
+    {
+      "id": "049.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 2",
+      "texto": "Los Diputados suplentes de representación proporcional suplirán a sus propietarios en todas sus faltas temporales y absolutas y, en el caso de que no se presenten ni propietario ni suplente, se llamará a aquellos candidatos del mismo partido que sigan en el orden de prelación en la lista respectiva, después de habérseles asignado los diputados que les hubieren correspondido."
+    }
+  ]
+}

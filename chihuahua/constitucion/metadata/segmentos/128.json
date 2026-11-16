@@ -1,0 +1,27 @@
+{
+  "clave": "128",
+  "etiqueta": "Artículo 128",
+  "titulo": "TITULO XI",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "128.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 128 › párrafo 1",
+      "texto": "Se deroga."
+    },
+    {
+      "id": "128.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 128 › párrafo 2",
+      "texto": "[Artículo derogado mediante Decreto No. LXVIII/RFCNT/0557/2026 VIII P.E. publicado en el P.O.E. No. 51 EE del 30 de junio de 2026]"
+    }
+  ]
+}

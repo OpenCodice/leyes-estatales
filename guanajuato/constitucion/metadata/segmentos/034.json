@@ -1,0 +1,81 @@
+{
+  "clave": "034",
+  "etiqueta": "Artículo 34",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "034.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "034.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › párrafo 2",
+      "texto": "Para la erección de un nuevo Municipio, serán necesarios los requisitos siguientes:"
+    },
+    {
+      "id": "034.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › Fracción I",
+      "texto": "I. Que la superficie territorial en que se pretenda constituir no sea menor de ciento cincuenta kilómetros cuadrados;"
+    },
+    {
+      "id": "034.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › Fracción II",
+      "texto": "II. Que la población que habite en esa superficie sea mayor de setenta mil habitantes;\n\n(REFORMADA, P.O. 19 DE ABRIL DE 2002)"
+    },
+    {
+      "id": "034.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › Fracción III",
+      "texto": "III. Que lo soliciten los ciudadanos del Municipio afectado, como resultado de un plebiscito que se convoque en los términos de la Ley correspondiente;"
+    },
+    {
+      "id": "034.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › Fracción IV",
+      "texto": "IV. Que el poblado que se elija como Cabecera Municipal tenga una población que no sea inferior a veinte mil habitantes;"
+    },
+    {
+      "id": "034.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › Fracción V",
+      "texto": "V. Que dicho poblado cuente con los servicios públicos municipales indispensables para su población; y,"
+    },
+    {
+      "id": "034.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › Fracción VI",
+      "texto": "VI. Que de los estudios económicos y fiscales que se practiquen, se demuestre que el probable ingreso fiscal será suficiente para atender los gastos de la Administración Municipal."
+    }
+  ]
+}

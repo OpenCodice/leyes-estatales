@@ -1,0 +1,90 @@
+{
+  "clave": "060",
+  "etiqueta": "Artículo 60",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "060.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › párrafo 1",
+      "texto": "Durante los recesos de la Cámara, funcionará la Diputación Permanente con las facultades que le concede la fracción I del artículo 40 de esta Constitución y las siguientes:"
+    },
+    {
+      "id": "060.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción I",
+      "texto": "I. Dictaminar sobre todos los asuntos pendientes al tiempo de receso y proveer en los nuevos lo que fuere indispensable para dar cuenta de unos y otros de la Legislatura.\n\n(REFORMADA, P.O. 18 DE JUNIO DE 2021)"
+    },
+    {
+      "id": "060.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción II",
+      "texto": "II. Convocar a periodo extraordinario de sesiones para la designación del Gobernador interino o sustituto, según corresponda.\n\n(REFORMADA, P.O. 21 DE AGOSTO DE 2026)"
+    },
+    {
+      "id": "060.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción III",
+      "texto": "III. En su caso, designar y tomar la protesta de la persona titular de la Fiscalía General y de la persona titular de la Secretaría de Seguridad y Protección Ciudadana que haga el Gobernador o Gobernadora conforme a esta Constitución y a las leyes aplicables.\n\n(REFORMADO, P.O. 21 DE AGOSTO DE 2026) Asimismo, conceder licencias con goce de sueldo o sin él, al propio Gobernador o Gobernadora, a las Magistradas y Magistrados, Juezas y Jueces y miembros del Tribunal de Disciplina Judicial del Poder Judicial del Estado, a las Diputadas y Diputados y a los empleados dependientes de la Legislatura.\n\n(ADICIONADO, P.O. 21 DE AGOSTO DE 2026) En el caso de las Magistradas y Magistrados, Juezas y Jueces, y miembros del Tribunal de Disciplina Judicial del Poder Judicial del Estado, designar y tomar la protesta correspondiente en los términos del artículo 87 de esta Constitución.\n\n(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)"
+    },
+    {
+      "id": "060.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción IV",
+      "texto": "IV. Nombrar provisionalmente y remover a los servidores públicos de la Cámara de Diputados y de la Auditoría Superior del Estado, en los términos que señalen las leyes y los reglamentos respectivos."
+    },
+    {
+      "id": "060.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción V",
+      "texto": "V. Admitir las renuncias de los funcionarios y empleados nombrados por sí o por el Congreso.\n\n(REFORMADA, [N. E. ANTES DEROGADA], P.O. 16 DE DICIEMBRE DE 2010)"
+    },
+    {
+      "id": "060.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción VI",
+      "texto": "VI. Dictar acuerdos para modificar la conformación de la Comisión de Gobierno Legislativo, las comisiones ordinarias y especiales en los términos de la ley de la materia."
+    },
+    {
+      "id": "060.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción VII",
+      "texto": "VII. Conceder amnistía, de acuerdo con la fracción XX del Artículo 47 de esta misma Constitución."
+    },
+    {
+      "id": "060.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción VIII",
+      "texto": "VIII. Verificar, de acuerdo con el Ejecutivo, el cambio de residencia temporal de los Poderes del Estado en los casos de suma urgencia."
+    }
+  ]
+}

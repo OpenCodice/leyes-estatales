@@ -1,0 +1,27 @@
+{
+  "clave": "036",
+  "etiqueta": "Artículo 36",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "036.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › párrafo 1",
+      "texto": "Los Diputados son inmunes por las opiniones que manifiesten en el desempeño de su cargo y no podrán ser reconvenidos por ellas en ningún tiempo, ni por ninguna autoridad."
+    },
+    {
+      "id": "036.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › párrafo 2",
+      "texto": "El Presidente del Congreso velará por el respeto debido al fuero constitucional de sus miembros, así como por la inviolabilidad del Recinto Parlamentario."
+    }
+  ]
+}

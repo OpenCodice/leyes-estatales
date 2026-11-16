@@ -1,0 +1,27 @@
+{
+  "clave": "162",
+  "etiqueta": "Artículo 162",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "162.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 162 › párrafo 1",
+      "texto": "La responsabilidad del Estado y de los municipios por los daños que, con motivo de su actividad administrativa irregular, causen en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a los lineamientos establecidos en la ley."
+    },
+    {
+      "id": "162.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 162 › párrafo 2",
+      "texto": "Los servidores públicos están obligados a pagar los daños y perjuicios que causen por su actuación negligente o dolosa en el desempeño de sus funciones. Las entidades públicas a las que pertenezcan serán responsables solidarios."
+    }
+  ]
+}

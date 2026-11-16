@@ -1,0 +1,27 @@
+{
+  "clave": "003",
+  "etiqueta": "Artículo 3",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "003.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 1",
+      "texto": "El Estado de Quintana Roo se reserva el ejercicio soberano de todas las facultades que no están expresamente concedidas a la federación o a los municipios."
+    },
+    {
+      "id": "003.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 2",
+      "texto": "Artículo reformado POE 15-02-2001, 19-03-2025"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "114",
+  "etiqueta": "Artículo 114º",
+  "titulo": "TÍTULO DÉCIMO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "114.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114º › párrafo 1",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "114.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114º › párrafo 2",
+      "texto": "La persona titular de la Secretaría competente en materia de finanzas del Estado y las demás personas empleadas que manejen fondos públicos otorgarán fianza en la forma que la ley determine."
+    }
+  ]
+}

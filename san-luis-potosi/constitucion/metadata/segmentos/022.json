@@ -1,0 +1,45 @@
+{
+  "clave": "022",
+  "etiqueta": "Artículo 22",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "022.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › párrafo 1",
+      "texto": "Son potosinos por vecindad los mexicanos que se avecinen en el territorio del Estado y tengan una residencia efectiva de cuando menos dos años."
+    },
+    {
+      "id": "022.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › párrafo 2",
+      "texto": "Se entenderá por residencia efectiva el hecho de tener dentro del territorio del Estado o municipio que corresponda, un domicilio fijo en que se habite permanentemente."
+    },
+    {
+      "id": "022.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › párrafo 3",
+      "texto": "La residencia efectiva y la calidad de potosino por vecindad no se pierden por ausentarse del Estado o del municipio correspondiente, siempre que en ellos se conserve el domicilio fijo y sea con motivo del desempeño de un cargo público o de elección popular, de comisiones oficiales o por razones de trabajo o estudios, a condición de que no tengan carácter permanente y de que se mantengan los vínculos y relaciones en el Estado o municipio correspondiente y no se adquiera otra vecindad o residencia."
+    },
+    {
+      "id": "022.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › párrafo 4",
+      "texto": "La calidad de potosino por vecindad se pierde por manifestación expresa de voluntad de adquirir otra o por ausentarse del estado por más de dos años, salvo lo previsto en el párrafo anterior."
+    }
+  ]
+}

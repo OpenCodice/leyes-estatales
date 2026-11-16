@@ -1,0 +1,36 @@
+{
+  "clave": "112",
+  "etiqueta": "Artículo 112",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "112.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 18 DE MAYO DE 2001)"
+    },
+    {
+      "id": "112.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › párrafo 2",
+      "texto": "Los servidores públicos están obligados a pagar los daños y perjuicios que causen por su actuación negligente o dolosa en el desempeño de sus funciones."
+    },
+    {
+      "id": "112.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › párrafo 3",
+      "texto": "Las entidades públicas a las que pertenezcan los servidores a que se refiere el Artículo 107 de esta Constitución, serán responsables de los daños y perjuicios que causen aquéllos, en los términos que la Ley prevenga."
+    }
+  ]
+}

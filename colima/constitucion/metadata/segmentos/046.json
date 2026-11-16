@@ -1,0 +1,27 @@
+{
+  "clave": "046",
+  "etiqueta": "Artículo 46º",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "046.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46º › párrafo 1",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "046.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46º › párrafo 2",
+      "texto": "Cuando presenten una iniciativa, los ayuntamientos podrán designar una persona oradora para que asista, sin voto, a los debates, a quien se le hará saber el día de la discusión siempre que señale domicilio en la población donde residan los supremos poderes del Estado."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "035",
+  "etiqueta": "Artículo 35",
+  "titulo": "",
+  "capitulo": "CAPÍTULO XI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "035.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35 › párrafo 1",
+      "texto": "Los ciudadanos comprendidos en las fracciones de la III a la VII del artículo anterior podrán ser electos siempre que se separen de sus cargos cuando menos noventa días antes de la elección."
+    },
+    {
+      "id": "035.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35 › párrafo 2",
+      "texto": "Nota: Se reformó mediante decreto No. 200 de la LV Legislatura, publicado en el P. O. del Gobierno del Estado No. 1296 de fecha 30 de noviembre de 1996."
+    }
+  ]
+}

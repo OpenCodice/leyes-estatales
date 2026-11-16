@@ -1,0 +1,27 @@
+{
+  "clave": "101-bis",
+  "etiqueta": "Artículo 101 Bis",
+  "titulo": "",
+  "capitulo": "CAPÍTULO XVII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "101-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 Bis › párrafo 1",
+      "texto": "El Estado y los Municipios incurrirán en responsabilidad objetiva y directa cuando, con motivo de su actividad administrativa irregular, causen daño o lesión a los particulares en sus bienes o derechos, debiendo indemnizarlos en forma proporcional y equitativa, conforme a las bases, límites y procedimientos que establezca la ley."
+    },
+    {
+      "id": "101-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 Bis › párrafo 2",
+      "texto": "Nota: Se adicionó mediante decreto No. 282 de la LXI Legislatura, publicado en el P.O. No. 0028 de fecha 14 de septiembre de 2015."
+    }
+  ]
+}

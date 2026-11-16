@@ -1,0 +1,27 @@
+{
+  "clave": "170",
+  "etiqueta": "Artículo 170º",
+  "titulo": "TITULO OCTAVO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "170.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 170º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 01 DE SEPTIEMBRE DE 2026) (REFORMADO, P.O. 13 DE ENERO DE 1989)"
+    },
+    {
+      "id": "170.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 170º › párrafo 2",
+      "texto": "Toda persona tiene derecho a un trabajo digno y socialmente útil. El Estado, promoverá la creación de empleos y, en el ámbito de sus atribuciones, vigilará por la estricta aplicación y observancia de las normas de trabajo. Asimismo, el Estado impulsará la igualdad sustantiva en el acceso, permanencia y remuneración laboral y, para tal efecto, adoptará medidas para prevenir y erradicar cualquier forma de discriminación laboral. Esas medidas incluirán, entre otras, la eliminación de las brechas salariales, con énfasis en la brecha salarial de género, así como la promoción de condiciones de igualdad en los procesos de contratación y ascenso."
+    }
+  ]
+}

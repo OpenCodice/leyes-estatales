@@ -1,0 +1,27 @@
+{
+  "clave": "043",
+  "etiqueta": "Artículo 43",
+  "titulo": "Título Quinto",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "043.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 1",
+      "texto": "Los Diputados en funciones no podrán durante el periodo de su encargo, desempeñar ninguna otra comisión o empleo por los cuales disfruten sueldo, salvo los de docencia en instituciones de educación superior y los honoríficos en asociaciones científicas, artísticas o de beneficencia."
+    },
+    {
+      "id": "043.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 2",
+      "texto": "La infracción de esta disposición será sancionada con la pérdida del cargo de Diputado."
+    }
+  ]
+}

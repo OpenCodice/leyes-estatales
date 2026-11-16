@@ -1,0 +1,27 @@
+{
+  "clave": "198",
+  "etiqueta": "Artículo 198",
+  "titulo": "TÍTULO DÉCIMO TERCERO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "198.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 198 › párrafo 1",
+      "texto": "Los servidores públicos que incurran en responsabilidad civil serán sancionados de conformidad con lo que establezcan las leyes."
+    },
+    {
+      "id": "198.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 198 › párrafo 2",
+      "texto": "No se requerirá declaración de procedencia para su interposición."
+    }
+  ]
+}

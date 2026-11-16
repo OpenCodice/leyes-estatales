@@ -1,0 +1,27 @@
+{
+  "clave": "053-bis",
+  "etiqueta": "Artículo 53 Bis",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "053-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 Bis › párrafo 1",
+      "texto": "Derogado."
+    },
+    {
+      "id": "053-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 Bis › párrafo 2",
+      "texto": "Artículo adicionado POE 04-08-1978. Reformado POE 29-07-1983. Derogado 20-09-1995"
+    }
+  ]
+}

@@ -1,0 +1,153 @@
+{
+  "clave": "083",
+  "etiqueta": "Artículo 83",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "083.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 23 DE MAYO DE 2006)"
+    },
+    {
+      "id": "083.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › párrafo 2",
+      "texto": "Corresponde al Supremo Tribunal de Justicia del Estado:"
+    },
+    {
+      "id": "083.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › Fracción I",
+      "texto": "I. Conocer en Pleno:"
+    },
+    {
+      "id": "083.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 83 › Fracción I › inciso a)",
+      "texto": "a).- De las cuestiones de competencia y de la acumulación entre los jueces de cuantía menor de diversos distritos judiciales, entre los jueces de primera instancia del Estado y entre éstos y los jueces de cuantía menor de otros distritos;\n\n(REFORMADO, P.O. 2 DE DICIEMBRE DE 2021)"
+    },
+    {
+      "id": "083.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 83 › Fracción I › inciso b)",
+      "texto": "b).- De los negocios civiles, penales comunes y laborales, como tribunal de revisión;"
+    },
+    {
+      "id": "083.I.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 83 › Fracción I › inciso c)",
+      "texto": "c).- De las recusaciones y excusas de los magistrados y secretarios del Tribunal, en los negocios de la competencia del mismo;"
+    },
+    {
+      "id": "083.I.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 83 › Fracción I › inciso d)",
+      "texto": "d).- Del recurso de queja, en los términos que dispongan las leyes;"
+    },
+    {
+      "id": "083.I.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 83 › Fracción I › inciso e)",
+      "texto": "e) De la expedición y modificación de su reglamento interior;\n\n(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)"
+    },
+    {
+      "id": "083.I.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 83 › Fracción I › inciso f)",
+      "texto": "f) La designación a los integrantes del Órgano de Administración Judicial que le competen;\n\n(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)"
+    },
+    {
+      "id": "083.I.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 83 › Fracción I › inciso g)",
+      "texto": "g) De la autorización a las juezas y jueces del Estado a sostener competencias con los jueces de otros Estados, de la Federación y de la Ciudad de México;\n\n(REFORMADO [N. DE E. ADICIONADO], P.O. 13 DE NOVIEMBRE DE 2024)"
+    },
+    {
+      "id": "083.I.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 83 › Fracción I › inciso h)",
+      "texto": "h) La designación de los integrantes del Comité de Evaluación, a que hace referencia el artículo 69 de esta Constitución; y, (ADICIONADA [N. DE E. REUBICADA], P.O. 13 DE NOVIEMBRE DE 2024)"
+    },
+    {
+      "id": "083.I.i",
+      "tipo": "inciso",
+      "marca": "i",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 83 › Fracción I › inciso i)",
+      "texto": "i) Las demás que le asigne esta Constitución y la Ley Orgánica respectiva.\n\n(REFORMADO [N. DE E. ESTE PÁRRAFO], P.O. 13 DE NOVIEMBRE DE 2024)"
+    },
+    {
+      "id": "083.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › Fracción II",
+      "texto": "II. Conocer en Salas regionales colegiadas y unitarias:\n\n(REFORMADO, P.O. 2 DE DICIEMBRE DE 2021)"
+    },
+    {
+      "id": "083.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 83 › Fracción II › inciso a)",
+      "texto": "a) De los negocios civiles, penales, laborales y de jurisdicción concurrente como tribunal de apelación y casación;\n\n(REFORMADO, P.O. 2 DE DICIEMBRE DE 2021)"
+    },
+    {
+      "id": "083.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 83 › Fracción II › inciso b)",
+      "texto": "b) De los recursos de queja en negocios civiles, penales y laborales; y,"
+    },
+    {
+      "id": "083.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 83 › Fracción II › inciso c)",
+      "texto": "c) Las demás que le asigne esta Constitución y la Ley Orgánica respectiva."
+    }
+  ]
+}

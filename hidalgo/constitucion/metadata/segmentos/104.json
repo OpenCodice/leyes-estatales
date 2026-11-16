@@ -1,0 +1,27 @@
+{
+  "clave": "104",
+  "etiqueta": "Artículo 104",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPITULO II BIS",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "104.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 › párrafo 1",
+      "texto": "Los bienes del dominio público del Estado son inalienables, imprescriptibles e inembargables."
+    },
+    {
+      "id": "104.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 › párrafo 2",
+      "texto": "Para su disposición por el Gobierno del Estado, se requiere su previa desincorporación del dominio público, la que podrá ser decretada por los Poderes Ejecutivo y Legislativo del Estado."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "152",
+  "etiqueta": "Artículo 152",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "152.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 152 › párrafo 1",
+      "texto": "Además de los requisitos generales establecidos en el artículo 111 de esta Constitución, para ser Auditor se deberá:"
+    },
+    {
+      "id": "152.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 152 › Fracción I",
+      "texto": "I. Contar con experiencia de al menos cinco años en materia de control, auditoría financiera y de responsabilidades; y,"
+    },
+    {
+      "id": "152.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 152 › Fracción II",
+      "texto": "II. Poseer al día de su designación, título y cédula profesional en Contaduría Pública, Economía, Derecho, Administración u otra área afín a la gestión y control de recursos públicos, expedidos por autoridad o institución legalmente facultada para ello."
+    }
+  ]
+}

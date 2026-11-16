@@ -1,0 +1,27 @@
+{
+  "clave": "145",
+  "etiqueta": "Artículo 145",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "145.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 145 › párrafo 1",
+      "texto": "El Estado contará con un Consejo General de Salud, cuyas atribuciones fundamentales serán asesorar al Ejecutivo en materia de salud y establecer las políticas en este renglón."
+    },
+    {
+      "id": "145.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 145 › párrafo 2",
+      "texto": "La conformación y funcionamiento del Consejo General de Salud estará regulado por la Ley."
+    }
+  ]
+}

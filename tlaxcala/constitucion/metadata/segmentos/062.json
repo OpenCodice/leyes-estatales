@@ -1,0 +1,27 @@
+{
+  "clave": "062",
+  "etiqueta": "Artículo 62",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "062.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 18 DE MAYO DE 2001)"
+    },
+    {
+      "id": "062.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › párrafo 2",
+      "texto": "Para poder separarse del territorio del Estado por más de quince días, el Gobernador deberá solicitar la autorización del Congreso, o en su caso, de la Comisión Permanente."
+    }
+  ]
+}

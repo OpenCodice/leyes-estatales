@@ -1,0 +1,99 @@
+{
+  "clave": "137",
+  "etiqueta": "Artículo 137",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "137.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › párrafo 1",
+      "texto": "Los Municipios, dentro de sus respectivas jurisdicciones, tendrán a su cargo las funciones y servicios públicos siguientes:"
+    },
+    {
+      "id": "137.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › inciso a)",
+      "texto": "a) Agua Potable, drenaje, alcantarillado, tratamiento y disposición de aguas residuales."
+    },
+    {
+      "id": "137.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › inciso b)",
+      "texto": "b) Alumbrado Público."
+    },
+    {
+      "id": "137.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › inciso c)",
+      "texto": "c) Limpia, recolección, traslado, tratamiento y disposición final de residuos."
+    },
+    {
+      "id": "137.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › inciso d)",
+      "texto": "d) Mercados y centrales de abasto."
+    },
+    {
+      "id": "137.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › inciso e)",
+      "texto": "e) Panteones."
+    },
+    {
+      "id": "137.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › inciso f)",
+      "texto": "f) Rastros."
+    },
+    {
+      "id": "137.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › inciso g)",
+      "texto": "g) Calles, Parques y Jardines y su equipamiento."
+    },
+    {
+      "id": "137.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › inciso h)",
+      "texto": "h) Seguridad Pública, en los términos del artículo 21 de la Constitución Federal, policía Preventiva Municipal y Tránsito."
+    },
+    {
+      "id": "137.i",
+      "tipo": "inciso",
+      "marca": "i",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › inciso i)",
+      "texto": "i) Los demás que el Congreso del Estado determine, según las condiciones territoriales y socioeconómicas de cada Municipio, así como su capacidad administrativa, técnica y financiera.\n\nSin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios a su cargo, los Municipios observarán lo dispuesto por las Leyes Federales y Estatales."
+    }
+  ]
+}

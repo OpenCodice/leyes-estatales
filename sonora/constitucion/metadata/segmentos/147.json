@@ -1,0 +1,27 @@
+{
+  "clave": "147",
+  "etiqueta": "Artículo 147",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "147.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 147 › párrafo 1",
+      "texto": "Las normas sobre responsabilidades administrativas de los servidores públicos del Estado y de los Municipios, determinarán con claridad las conductas que lesionen la legalidad, honradez, lealtad, imparcialidad y eficiencia en el servicio, así como los procedimientos, las sanciones y las autoridades que deban aplicarlas."
+    },
+    {
+      "id": "147.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 147 › párrafo 2",
+      "texto": "También señalará los casos de prescripción de la responsabilidad administrativa, tomando en cuenta la naturaleza y consecuencia de los actos u omisiones de que se trate. Cuando el hecho fuese grave, la prescripción no será inferior a tres años."
+    }
+  ]
+}

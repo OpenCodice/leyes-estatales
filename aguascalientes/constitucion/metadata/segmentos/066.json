@@ -1,0 +1,279 @@
+{
+  "clave": "066",
+  "etiqueta": "Artículo 66º",
+  "titulo": "",
+  "capitulo": "CAPITULO DECIMOSEXTO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "066.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › párrafo 1",
+      "texto": "El Municipio es la institución jurídica política y social de carácter público, con autoridades propias funciones específicas y con libre administración de su hacienda con personalidad jurídica y patrimonio propios, cuya finalidad consiste en organizar a una comunidad en la gestión de sus intereses, proteger y fomentar los valores de la convivencia local y prestar los servicios básicos que ésta requiera."
+    },
+    {
+      "id": "066.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › párrafo 2",
+      "texto": "Asimismo tiene la potestad para normar directa y libremente las materias de su competencia."
+    },
+    {
+      "id": "066.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › párrafo 3",
+      "texto": "El Municipio es libre en su régimen interior, será gobernado por un Ayuntamiento de elección popular directa y no habrá ninguna autoridad intermedia entre éste y el Gobierno del Estado."
+    },
+    {
+      "id": "066.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › párrafo 4",
+      "texto": "(REFORMADO, P.O. 2 DE JULIO DE 2026)"
+    },
+    {
+      "id": "066.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › párrafo 5",
+      "texto": "Los Ayuntamientos se integrarán por una persona titular de la Presidencia Municipal, una Sindicatura y hasta quince regidurías, electas conforme a los principios de mayoría relativa y de representación proporcional, de conformidad con los parámetros previstos en la Constitución Política de los Estados Unidos Mexicanos y en los términos que establezca la ley. La integración de los Ayuntamientos deberá observar los principios de paridad de género, igualdad sustantiva y representación democrática efectiva."
+    },
+    {
+      "id": "066.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › párrafo 6",
+      "texto": "El Presidente Municipal presidirá el Ayuntamiento y representará a éste y al Municipio política y administrativamente."
+    },
+    {
+      "id": "066.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › párrafo 7",
+      "texto": "Los Regidores de mayoría relativa y los de representación proporcional tendrán la misma categoría e iguales derechos y obligaciones."
+    },
+    {
+      "id": "066.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › párrafo 8",
+      "texto": "(REFORMADO, P.O. 17 DE NOVIEMBRE DE 2008)"
+    },
+    {
+      "id": "066.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › párrafo 9",
+      "texto": "Cada Municipio será gobernado por un Ayuntamiento integrado por representantes electos por los principios de mayoría relativa y de representación proporcional, de la siguiente manera:"
+    },
+    {
+      "id": "066.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › Fracción I",
+      "texto": "I. Se elegirán bajo el principio de mayoría relativa:"
+    },
+    {
+      "id": "066.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 66º › Fracción I › inciso a)",
+      "texto": "a) Un Presidente Municipal;\n\n(REFORMADO, P.O. 3 DE JULIO DE 2026)"
+    },
+    {
+      "id": "066.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 66º › Fracción I › inciso b)",
+      "texto": "b) Ocho regidores y un síndico para el Municipio de Aguascalientes;"
+    },
+    {
+      "id": "066.I.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 66º › Fracción I › inciso c)",
+      "texto": "c) Cuatro regidores y un Síndico para los municipios que tengan más de treinta mil habitantes, un año antes del día de la elección; y"
+    },
+    {
+      "id": "066.I.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 66º › Fracción I › inciso d)",
+      "texto": "d) Tres regidores y un síndico para cada uno de los demás municipios."
+    },
+    {
+      "id": "066.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › Fracción II",
+      "texto": "II. Se elegirán por el principio de representación proporcional:"
+    },
+    {
+      "id": "066.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 66º › Fracción II › inciso a)",
+      "texto": "a) Siete regidores para el Municipio de Aguascalientes;"
+    },
+    {
+      "id": "066.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 66º › Fracción II › inciso b)",
+      "texto": "b) Cuatro regidores para los municipios que tengan más de treinta mil habitantes, un año antes del día de la elección; y"
+    },
+    {
+      "id": "066.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 66º › Fracción II › inciso c)",
+      "texto": "c) Tres regidores para cada uno de los demás municipios.\n\n(REFORMADO, P.O. 2 DE JULIO DE 2026)\n\nLos Ayuntamientos se renovarán en su totalidad cada tres años, e iniciarán sus funciones el quince de octubre del año de la elección. Se elegirá un suplente por el Presidente Municipal y por cada Regidor y Síndico para que cubra las faltas temporales o absolutas del propietario correspondiente, las cuales serán cubiertas conforme a lo dispuesto por la Ley que en materia municipal emita el Congreso del Estado.\n\nEl Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender Ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que la Ley prevenga, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan.\n\nEn caso de declararse desaparecido un Ayuntamiento o por renuncia o falta absoluta de la mayoría de sus miembros, si conforme a la Ley no procede que entren en funciones los suplentes ni que se celebren nuevas elecciones, la Legislatura del Estado designará, entre los vecinos, a los consejos municipales que concluirán los períodos respectivos; estos concejos estarán integrados por el número de miembros que determine la Ley, quienes deberán cumplir los requisitos de elegibilidad establecidos para los Regidores.\n\nPara ser Presidente Municipal, Regidor o Síndico de un Ayuntamiento se requiere:\n\n(REFORMADA, P.O. 10 DE JUNIO DE 2024)"
+    },
+    {
+      "id": "066.I~2",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › Fracción I",
+      "texto": "I.- Ser ciudadano mexicano, en goce y ejercicio de sus derechos;\n\n(REFORMADA, P.O. 5 DE JUNIO DE 2023)"
+    },
+    {
+      "id": "066.II~2",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › Fracción II",
+      "texto": "II.- Tener 18 años cumplidos el día de la elección;\n\n(REFORMADA, P.O. 5 DE JUNIO DE 2023)"
+    },
+    {
+      "id": "066.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › Fracción III",
+      "texto": "III.- Ser originario del Municipio o tener una residencia en él no menor de dos años, inmediatamente anteriores al día de la elección;\n\n(ADICIONADA, P.O. 5 DE JUNIO DE 2023)"
+    },
+    {
+      "id": "066.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › Fracción IV",
+      "texto": "IV.- No ser deudora o deudor alimentario moroso, salvo que acredite estar al corriente del pago o salde esa deuda; y\n\n(ADICIONADA, P.O. 5 DE JUNIO DE 2023)"
+    },
+    {
+      "id": "066.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › Fracción V",
+      "texto": "V.- No haber sido condenado mediante sentencia ejecutoria por delito doloso de acoso, abuso sexual violencia de género y/o violencia familiar, por delitos de hechos de corrupción o de los previstos como tipos penales protectores de la administración pública, por el delito o infracción a la normatividad electoral consistente en violencia política contra las mujeres en razón de género o por sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado de Aguascalientes, salvo que exista cabal cumplimiento de las penas y/o sanciones establecidas en la sentencia.\n\n(REFORMADO, P.O. 18 DE DICIEMBRE DE 2024)\n\nNo pueden ser electos persona Titular de la Presidencia Municipal, persona Regidora o Síndica:\n\n(REFORMADA, P.O. 28 DE JULIO DE 2014)"
+    },
+    {
+      "id": "066.I~3",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › Fracción I",
+      "texto": "I. Las personas que desempeñen cargos públicos de elección popular, sean de la Federación o del Estado;\n\n(REFORMADA, P.O. 14 DE ABRIL DE 2025)"
+    },
+    {
+      "id": "066.II~3",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › Fracción II",
+      "texto": "II. Las personas Magistradas, tanto del Supremo Tribunal de Justicia, como del Tribunal de Justicia Administrativa, del Tribunal de Disciplina Judicial de Aguascalientes, del Tribunal Electoral y las personas Juzgadoras; personas Titulares de una Secretaría de los diversos ramos del Poder Ejecutivo y de los Ayuntamientos del Estado; la persona titular de la Fiscalía General del Estado; las personas Consejeras Electorales del Consejo General del Instituto Estatal Electoral, a la persona Titular de la Presidencia de la Comisión Estatal de Derechos Humanos de Aguascalientes y las personas delegadas de las dependencias federales en el Estado;\n\n(REFORMADA, P.O. 2 DE JULIO DE 2026)"
+    },
+    {
+      "id": "066.III~2",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › Fracción III",
+      "texto": "III. Los individuos que hayan sido condenados por delito intencional a sufrir pena privativa de la libertad o que tengan una sentencia que haya causado estado por Faltas Administrativas Graves en términos de la Ley de Responsabilidades Administrativas del Estado;\n\n(REFORMADA, P.O. 2 DE JULIO DE 2026)"
+    },
+    {
+      "id": "066.IV~2",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › Fracción IV",
+      "texto": "IV. Los que pertenezcan al estado eclesiástico o sean ministros de cualquier culto;\n\n(ADICIONADA, P.O. 2 DE JULIO DE 2026)"
+    },
+    {
+      "id": "066.V~2",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › Fracción V",
+      "texto": "V. Las personas que tengan o hayan tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio, concubinato, unión de hecho, o parentesco por consanguinidad o civil en línea recta sin limitación de grado, en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula;\n\n(ADICIONADA, P.O. 2 DE JULIO DE 2026)"
+    },
+    {
+      "id": "066.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › Fracción VI",
+      "texto": "VI. Las personas que hayan ejercido el cargo de Presidenta o Presidente Municipal, Regidora o Regidor, o Síndica o Síndico, con el carácter de propietarias o suplentes, en el periodo inmediato anterior; y\n\n(ADICIONADA, P.O. 2 DE JULIO DE 2026)"
+    },
+    {
+      "id": "066.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66º › Fracción VII",
+      "texto": "VII. Las personas que hayan sido registradas como suplentes podrán ser electas para el periodo inmediato posterior con el carácter de propietarias, siempre que no hubieren ejercido el cargo.\n\n(ADICIONADO, P.O. 28 DE JULIO DE 2014)\n\nLos ciudadanos comprendidos en las Fracciones I y II del párrafo anterior, podrán ser electos Presidente Municipal, Regidor o Síndico, si se separan de sus cargos o empleos noventa días antes de la elección, salvo que esta Constitución establezca otro termino.\n\n(ADICIONADO, P.O. 2 DE JULIO DE 2026)\n\nLas disposiciones previstas en este artículo se ejercerán respetando en todo momento la autonomía municipal, en términos de la Constitución Política de los Estados Unidos Mexicanos.\n\n(ADICIONADO, P.O. 2 DE JULIO DE 2026)\n\nLos recursos públicos que se generen con motivo de los ajustes en la integración de los Ayuntamientos deberán destinarse prioritariamente al fortalecimiento de los servicios públicos municipales, infraestructura y acciones de bienestar social."
+    }
+  ]
+}

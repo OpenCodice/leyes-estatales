@@ -1,0 +1,54 @@
+{
+  "clave": "110",
+  "etiqueta": "Artículo 110",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "110.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › párrafo 1",
+      "texto": "Las y los Magistrados del Poder Judicial y del Tribunal de Disciplina Judicial y del Pleno del Órgano de Administración Judicial, serán inamovibles durante el periodo de su encargo, el cual cesará únicamente en los términos del Título XI de esta Constitución. Son causas de retiro forzoso:"
+    },
+    {
+      "id": "110.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › Fracción I",
+      "texto": "I.- Haber cumplido 75 años de edad;"
+    },
+    {
+      "id": "110.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › Fracción II",
+      "texto": "II.- Jubilarse en los términos legales;"
+    },
+    {
+      "id": "110.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › Fracción III",
+      "texto": "III.- Padecer incapacidad física o mental que los imposibilite para el desempeño de su función; y,"
+    },
+    {
+      "id": "110.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › Fracción IV",
+      "texto": "IV.- Renunciar a su cargo por causas de fuerza mayor, en cuyo caso la renuncia será aprobada por mayoría de los miembros presentes del Congreso o, en sus recesos, de la Diputación Permanente.\n\nLas y los Magistrados del Poder Judicial y del Tribunal de Disciplina Judicial y del Pleno del Órgano de Administración Judicial, así como las Juezas y los Jueces, sólo podrán ser removidos de su encargo por el Congreso del Estado, en los términos dispuestos por esta Constitución."
+    }
+  ]
+}

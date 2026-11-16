@@ -1,0 +1,27 @@
+{
+  "clave": "025",
+  "etiqueta": "Artículo 25",
+  "titulo": "",
+  "capitulo": "CAPÍTULO VIII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "025.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 1",
+      "texto": "El Estado adopta para su régimen interior, la forma de gobierno republicano, representativo, democrático y laico como lo previene el pacto federal."
+    },
+    {
+      "id": "025.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 2",
+      "texto": "Nota: Se reformó mediante decreto No. 184 de la LXI Legislatura, publicado en el P. O. No. 5621, Segunda Sección de fecha 1 de diciembre de 2014."
+    }
+  ]
+}

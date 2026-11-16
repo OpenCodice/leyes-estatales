@@ -1,0 +1,27 @@
+{
+  "clave": "167",
+  "etiqueta": "Artículo 167",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "167.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 167 › párrafo 1",
+      "texto": "Las percepciones de los defensores públicos y asesores jurídicos no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público."
+    },
+    {
+      "id": "167.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 167 › párrafo 2",
+      "texto": "La ley y su reglamento interior establecerán disposiciones adicionales con relación a la integración, organización, funcionamiento, procedimientos y ámbito competencial del Instituto de la Defensoría Pública del Estado de Guerrero."
+    }
+  ]
+}

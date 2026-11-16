@@ -1,0 +1,18 @@
+{
+  "clave": "050",
+  "etiqueta": "Artículo 50",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "050.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 1",
+      "texto": "Todo Proyecto de Ley, como los asuntos en que deba recaer resolución del Congreso, se sujetarán a los procedimientos, formalidades y trámites legislativos que establezca la Ley Orgánica y el Reglamento para el Gobierno Interior del Congreso."
+    }
+  ]
+}

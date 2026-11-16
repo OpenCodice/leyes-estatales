@@ -1,0 +1,27 @@
+{
+  "clave": "181",
+  "etiqueta": "Artículo 181º",
+  "titulo": "TITULO OCTAVO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "181.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 181º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "181.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 181º › párrafo 2",
+      "texto": "Ningún individuo podrá desempeñar a la vez, dos cargos de elección popular; pero el electo puede elegir, entre ambos, el que quiera desempeñar."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "143-bis",
+  "etiqueta": "Artículo 143 Bis",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "143-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 143 Bis › párrafo 1",
+      "texto": "La Universidad Autónoma de Tamaulipas es un órgano autónomo reconocido por esta Constitución, se considera la máxima institución de educación superior y de posgrado del Estado, la cual realizará sus fines de educar, investigar y difundir la cultura de acuerdo a los principios constitucionales en materia de educación, respetando la libertad de cátedra e investigación, así como de libre examen y discusión de las ideas. Gozará de independencia para gobernarse, expedir su normatividad interna y nombrar a sus autoridades, personal docente, administrativo y contralor."
+    },
+    {
+      "id": "143-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 143 Bis › párrafo 2",
+      "texto": "Se le asignará una partida del Presupuesto de Egresos del Estado para su funcionamiento. Los recursos estatales que le sean otorgados, serán fiscalizados por la Auditoría Superior del Estado, sin perjuicio de que los recursos públicos federales que reciba sean fiscalizados por las instancias competentes de la Federación, de conformidad con la legislación aplicable."
+    }
+  ]
+}

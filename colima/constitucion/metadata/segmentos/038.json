@@ -1,0 +1,90 @@
+{
+  "clave": "038",
+  "etiqueta": "Artículo 38º",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "038.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38º › párrafo 1",
+      "texto": "Son atribuciones de la Comisión Permanente:"
+    },
+    {
+      "id": "038.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38º › Fracción I",
+      "texto": "I. Vigilar la observancia de la Constitución Federal, la particular del Estado y demás leyes, dando cuenta al Congreso de las infracciones que note;"
+    },
+    {
+      "id": "038.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38º › Fracción II",
+      "texto": "II. Recibir la documentación que le remita el Tribunal Electoral del Estado, y convocar al Congreso a sesión extraordinaria, para el efecto de expedir el bando solemne a que se refiere el artículo 34, fracción VI, de esta Constitución;"
+    },
+    {
+      "id": "038.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38º › Fracción III",
+      "texto": "III. Convocar al Congreso a sesión o periodo extraordinarios cuando lo crea necesario o lo pida el Ejecutivo;"
+    },
+    {
+      "id": "038.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38º › Fracción IV",
+      "texto": "IV. Instalar la junta previa de la nueva Legislatura;"
+    },
+    {
+      "id": "038.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38º › Fracción V",
+      "texto": "V. Recibir las iniciativas de ley y proposiciones dirigidas al Congreso, y turnarlas a las comisiones correspondientes, a fin de que éstas las dictaminen;"
+    },
+    {
+      "id": "038.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38º › Fracción VI",
+      "texto": "VI. Ejercer en su caso y en forma provisional las facultades a que se refieren las fracciones XXVI y XXVII del artículo 34 de esta Constitución;"
+    },
+    {
+      "id": "038.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38º › Fracción VII",
+      "texto": "VII. Fijar días extraordinarios para que se verifiquen las elecciones de ayuntamientos foráneos, cuando por cualquier motivo no se hayan celebrado en los que señala la ley electoral respectiva; y"
+    },
+    {
+      "id": "038.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38º › Fracción VIII",
+      "texto": "VIII. Acordar el llamamiento de los suplentes en caso de muerte, separación o impedimento que no sea transitorio, de los diputados que hayan de funcionar en las sesiones próximas."
+    }
+  ]
+}

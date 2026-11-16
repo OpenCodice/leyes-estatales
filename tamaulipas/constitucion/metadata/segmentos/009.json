@@ -1,0 +1,72 @@
+{
+  "clave": "009",
+  "etiqueta": "Artículo 9",
+  "titulo": "",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "009.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › párrafo 1",
+      "texto": "Los derechos de ciudadanos tamaulipecos se suspenden:"
+    },
+    {
+      "id": "009.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Fracción I",
+      "texto": "I.- Por incapacidad declarada legalmente;"
+    },
+    {
+      "id": "009.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Fracción II",
+      "texto": "II.- Por estar procesado. La suspensión produce efectos desde el momento en que se notifique el auto de vinculación a proceso o desde que se declare que ha lugar para la formación de causa, tratándose de funcionarios que gocen de fuero constitucional;"
+    },
+    {
+      "id": "009.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Fracción III",
+      "texto": "III.- Por falta de cumplimiento sin causa justificada, de las obligaciones impuestas por el Artículo anterior.\n\nEsta suspensión durará un año y se impondrá sin perjuicio de las otras penas que para la misma falta señale la Ley;"
+    },
+    {
+      "id": "009.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Fracción IV",
+      "texto": "IV.- Por sentencia judicial;"
+    },
+    {
+      "id": "009.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Fracción V",
+      "texto": "V.- Se deroga (Decreto No. LXIII-393, P.O. No. 44, del 11 de abril de 2018)."
+    },
+    {
+      "id": "009.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Fracción VI",
+      "texto": "VI.- En los casos de suspensión de la ciudadanía mexicana."
+    }
+  ]
+}

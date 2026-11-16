@@ -1,0 +1,27 @@
+{
+  "clave": "099",
+  "etiqueta": "Artículo 99º",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "099.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99º › párrafo 1",
+      "texto": "(REFORMADO, DECRETO 508, P.O. NÚM. 77, 09 DE OCTUBRE DE 2021)"
+    },
+    {
+      "id": "099.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99º › párrafo 2",
+      "texto": "Además de impartir educación básica, el Estado promoverá y atenderá todos los tipos y modalidades educativos, incluyendo la educación inicial, especial y superior necesaria para el desarrollo del Estado y la Nación. Asimismo, apoyará la investigación e innovación científica, humanística y tecnológica, y garantizará el acceso abierto a la información que derive de ella, además alentará el fortalecimiento y difusión de nuestra cultura."
+    }
+  ]
+}

@@ -1,0 +1,193 @@
+{
+  "clave": "046",
+  "etiqueta": "Artículo 46",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "046.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › párrafo 1",
+      "texto": "Para ser Gobernadora o Gobernador del Estado se requiere, además de lo dispuesto en la fracción I del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos:",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DO 13-03-2020",
+          "fechas": [
+            "2020-03-13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "046.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción I",
+      "texto": "I.- Ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadano yucateco en el ejercicio de sus derechos."
+    },
+    {
+      "id": "046.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción II",
+      "texto": "II.- Haber nacido en el Estado y con vecindad no menor de un año inmediatamente anterior al día de la elección. La vecindad no se pierde por desempeñar el cargo de Diputado Federal o Senador.\n\n Nota.- Esta Ley fue abrogada por el Código Electoral del Estado de Yucatán, contenida en el Decreto No. 58, publicado en el Diario Oficial del Gobierno del Estado de fecha 16 de diciembre de 1994."
+    },
+    {
+      "id": "046.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción III",
+      "texto": "III.- En caso de no haber nacido en el Estado, tener residencia efectiva en él no menor de 5 años inmediatamente anteriores al día de la elección."
+    },
+    {
+      "id": "046.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción IV",
+      "texto": "IV.- Tener treinta años cumplidos el día de la elección."
+    },
+    {
+      "id": "046.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción V",
+      "texto": "V.- No ser ministro de culto religioso alguno, salvo que se haya separado definitivamente 5 años antes del día de la elección."
+    },
+    {
+      "id": "046.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción VI",
+      "texto": "VI.- No estar en servicio activo, en caso de pertenecer al Ejército o Guardia Nacional, noventa días antes de la elección."
+    },
+    {
+      "id": "046.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción VII",
+      "texto": "VII.- No ser titular o encargado del despacho de alguna de las dependencias a que se refiere la Ley Orgánica de la Administración Pública del Estado, a menos que se separe de su puesto 90 días antes de la fecha de la elección;"
+    },
+    {
+      "id": "046.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción VIII",
+      "texto": "VIII.- No estar comprendido en alguna de las causas de incapacidad establecidas en el artículo 53;"
+    },
+    {
+      "id": "046.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción IX",
+      "texto": "IX.- No haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad; o por actos de corrupción que ameriten la inhabilitación para ocupar cargos públicos.",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DO 13-03-2020",
+          "fechas": [
+            "2020-03-13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "046.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción X",
+      "texto": "X.- No ser Magistrado del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal de Justicia Administrativa o del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, integrante del Órgano de Administración Judicial, Diputado local, Regidor o Síndico, a menos que se separe de su cargo ciento veinte días antes de la fecha de la elección;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DO 04-07-2025",
+          "fechas": [
+            "2025-07-04"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "046.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción XI",
+      "texto": "XI.- No ser Magistrado o Secretario del Tribunal Electoral del Estado de Yucatán, Consejero, Secretario Ejecutivo o sus equivalentes, de los órganos electorales locales o nacionales, a menos que se separen de sus funciones 3 años antes de la fecha de la elección;"
+    },
+    {
+      "id": "046.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción XII",
+      "texto": "XII.- No ser deudor alimentario moroso;",
+      "reformas": [
+        {
+          "nota": "Fracción derogada D.O. 24-04-2006/ reformada DO 12-08-2022",
+          "fechas": [
+            "2006-04-24",
+            "2022-08-12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "046.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción XIII",
+      "texto": "XIII.- No tener antecedentes penales por violencia familiar, delitos contra la intimidad personal, contra la imagen personal, violencia laboral contra las mujeres, violencia obstétrica, violencia por parentesco, violencia institucional, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio, y",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada DO 12-08-2022",
+          "fechas": [
+            "2022-08-12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "046.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción XIV",
+      "texto": "XIV.- Estar inscrito en el Registro Federal de Electores y contar con Credencial para Votar vigente.",
+      "reformas": [
+        {
+          "nota": "Fracción recorrida DO 12-08-2022",
+          "fechas": [
+            "2022-08-12"
+          ]
+        }
+      ]
+    }
+  ]
+}

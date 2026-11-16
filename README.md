@@ -3,6 +3,8 @@
 Texto vigente de leyes de las entidades federativas, un archivo por artículo,
 versionado en git para dejar un **rastro auditable de las reformas**.
 
+Hoy: las constituciones de 29 de las 32 entidades.
+
 > Repo de **datos**. La lógica que genera estos archivos vive en
 > [`constitucion-extractor`](https://github.com/OpenCodice/constitucion-extractor)
 > (un *perfil de fuente* por documento). Aquí no hay código: cada commit
@@ -40,23 +42,50 @@ ensucia el historial del texto.
 
 ## Estados presentes
 
-| Estado | Ley | Artículos | Perfil | Fuente oficial |
-|--------|-----|-----------|--------|----------------|
-| Jalisco | Constitución | 122 | `jalisco` | [Biblioteca Virtual — Congreso del Estado de Jalisco](https://congresoweb.congresojal.gob.mx/bibliotecavirtual/busquedasleyes/Listado%272.cfm) |
-| Ciudad de México | Constitución | 71 | `cdmx` | [Congreso de la Ciudad de México](https://www.congresocdmx.gob.mx/archivos/legislativas/constitucion_politica_de_la_ciudad_de_mexico.pdf) |
+<!-- ESTADOS:INICIO -->
+| Estado | Carpeta | Publicada por |
+|---|---|---|
+| Aguascalientes | [`aguascalientes/constitucion/`](aguascalientes/constitucion/) | Periódico Oficial del Estado de Aguascalientes — Congreso del Estado de Aguascalientes |
+| Baja California | [`baja-california/constitucion/`](baja-california/constitucion/) | H. Congreso del Estado de Baja California |
+| Campeche | [`campeche/constitucion/`](campeche/constitucion/) | Congreso del Estado de Campeche (Compendio Jurídico, legislacion.congresocam.gob.mx) |
+| Ciudad de México | [`cdmx/constitucion/`](cdmx/constitucion/) | Gaceta Oficial de la Ciudad de México — Congreso de la Ciudad de México |
+| Chiapas | [`chiapas/constitucion/`](chiapas/constitucion/) | H. Congreso del Estado de Chiapas (Legislación vigente) |
+| Chihuahua | [`chihuahua/constitucion/`](chihuahua/constitucion/) | H. Congreso del Estado de Chihuahua (Biblioteca Legislativa) |
+| Coahuila | [`coahuila/constitucion/`](coahuila/constitucion/) | Periódico Oficial del Estado de Coahuila de Zaragoza — Congreso del Estado de Coahuila de Zaragoza |
+| Colima | [`colima/constitucion/`](colima/constitucion/) | Periódico Oficial "El Estado de Colima" — Dirección de Proceso Legislativo del H. Congreso del Estado de Colima |
+| Durango | [`durango/constitucion/`](durango/constitucion/) | Periódico Oficial del Gobierno del Estado de Durango — H. Congreso del Estado de Durango |
+| Guanajuato | [`guanajuato/constitucion/`](guanajuato/constitucion/) | Periódico Oficial del Gobierno del Estado de Guanajuato — H. Congreso del Estado de Guanajuato |
+| Guerrero | [`guerrero/constitucion/`](guerrero/constitucion/) | Periódico Oficial del Gobierno del Estado de Guerrero — H. Congreso del Estado de Guerrero |
+| Hidalgo | [`hidalgo/constitucion/`](hidalgo/constitucion/) | Periódico Oficial del Estado de Hidalgo — Congreso del Estado de Hidalgo (Instituto de Estudios Legislativos) |
+| Jalisco | [`jalisco/constitucion/`](jalisco/constitucion/) | Periódico Oficial del Estado de Jalisco — Congreso del Estado de Jalisco |
+| Michoacán | [`michoacan/constitucion/`](michoacan/constitucion/) | Periódico Oficial del Gobierno del Estado de Michoacán — H. Congreso del Estado de Michoacán de Ocampo |
+| Morelos | [`morelos/constitucion/`](morelos/constitucion/) | Periódico Oficial «Tierra y Libertad» — Consejería Jurídica del Poder Ejecutivo del Estado de Morelos |
+| Nayarit | [`nayarit/constitucion/`](nayarit/constitucion/) | Periódico Oficial del Estado de Nayarit — Congreso del Estado de Nayarit |
+| Nuevo León | [`nuevo-leon/constitucion/`](nuevo-leon/constitucion/) | Periódico Oficial del Estado de Nuevo León — H. Congreso del Estado de Nuevo León |
+| Oaxaca | [`oaxaca/constitucion/`](oaxaca/constitucion/) | Periódico Oficial del Estado de Oaxaca — H. Congreso del Estado Libre y Soberano de Oaxaca |
+| Puebla | [`puebla/constitucion/`](puebla/constitucion/) | Periódico Oficial del Estado de Puebla — Orden Jurídico Poblano, Secretaría de Gobernación |
+| Querétaro | [`queretaro/constitucion/`](queretaro/constitucion/) | Periódico Oficial «La Sombra de Arteaga» — Poder Legislativo del Estado de Querétaro |
+| Quintana Roo | [`quintana-roo/constitucion/`](quintana-roo/constitucion/) | Periódico Oficial del Estado de Quintana Roo — Congreso del Estado de Quintana Roo |
+| San Luis Potosí | [`san-luis-potosi/constitucion/`](san-luis-potosi/constitucion/) | Periódico Oficial del Estado de San Luis Potosí — Congreso del Estado de San Luis Potosí (Instituto de Investigación y Evaluación Legislativa) |
+| Sinaloa | [`sinaloa/constitucion/`](sinaloa/constitucion/) | Periódico Oficial «El Estado de Sinaloa» — H. Congreso del Estado de Sinaloa |
+| Sonora | [`sonora/constitucion/`](sonora/constitucion/) | Boletín Oficial del Gobierno del Estado de Sonora — H. Congreso del Estado de Sonora |
+| Tabasco | [`tabasco/constitucion/`](tabasco/constitucion/) | Periódico Oficial del Estado de Tabasco — H. Congreso del Estado de Tabasco |
+| Tamaulipas | [`tamaulipas/constitucion/`](tamaulipas/constitucion/) | Periódico Oficial del Estado de Tamaulipas — H. Congreso del Estado de Tamaulipas |
+| Tlaxcala | [`tlaxcala/constitucion/`](tlaxcala/constitucion/) | Periódico Oficial del Gobierno del Estado de Tlaxcala — Congreso del Estado de Tlaxcala |
+| Yucatán | [`yucatan/constitucion/`](yucatan/constitucion/) | H. Congreso del Estado de Yucatán (Secretaría General del Poder Legislativo, Unidad de Servicios Técnico-Legislativos) |
+| Zacatecas | [`zacatecas/constitucion/`](zacatecas/constitucion/) | Poder Legislativo del Estado de Zacatecas (Congreso del Estado, LXV Legislatura) |
 
-### Vínculos en uso (resueltos automáticamente)
+Faltan 3: Baja California Sur, Estado de México, Veracruz. Por qué, en [constitucion.app/leyes](https://constitucion.app/leyes#estados).
+<!-- ESTADOS:FIN -->
 
-El watcher no usa URLs fijas: las resuelve [`scripts/resolver_pdf.py`](https://github.com/OpenCodice/constitucion-extractor/blob/main/scripts/resolver_pdf.py)
-del extractor, porque los congresos estatales no exponen una URL estable.
-
-| Estado | Cómo se resuelve | Vínculo |
-|--------|------------------|---------|
-| Jalisco | **índice** (auto) — el PDF lleva la fecha embebida (`…-DDMMYY.pdf`) y rota en cada reforma; se lee el "Listado Completo" y se toma el más reciente | [Listado Completo](https://congresoweb.congresojal.gob.mx/bibliotecavirtual/busquedasleyes/Listado%272.cfm) |
-| CDMX | **directo** (auto) — URL de nombre estable | [constitucion_politica_de_la_ciudad_de_mexico.pdf](https://www.congresocdmx.gob.mx/archivos/legislativas/constitucion_politica_de_la_ciudad_de_mexico.pdf) |
-
-> Mantén esta tabla al día: si un estado cambia su sitio, se ajusta el registro
-> `RESOLVERS` en `resolver_pdf.py` y se actualiza el vínculo de arriba.
+La tabla la regenera `scripts/gen_readme.py` al dar de alta un estado. Cada
+semana, la vigilancia resuelve la URL vigente del PDF de cada estado con
+[`scripts/resolver_pdf.py`](https://github.com/OpenCodice/constitucion-extractor/blob/main/scripts/resolver_pdf.py)
+del extractor, porque los congresos estatales no exponen una URL estable; el
+cómo de cada estado está en su módulo de
+[`extractor/estados/`](https://github.com/OpenCodice/constitucion-extractor/tree/main/extractor/estados).
+La situación de las 32 (incluidas las que faltan y por qué) está en
+[`estados.json`](https://github.com/OpenCodice/constitucion-extractor/blob/main/estados.json).
 
 ## Regenerar
 
@@ -71,8 +100,7 @@ python -m extractor validar --out ../leyes-estatales/jalisco/constitucion --perf
 
 ## Automatización (GitHub Actions)
 
-Los workflows en `.github/workflows/` iteran los estados presentes (matriz/loop
-`estado:perfil:directorio`):
+Los workflows en `.github/workflows/` corren un job por estado:
 
 | Workflow | Disparo | Qué hace |
 |----------|---------|----------|
@@ -86,7 +114,7 @@ extracción quedó verificada contra el PDF. El título del commit distingue una
 el resolver falla, ese job avisa en rojo y puedes relanzarlo a mano con los
 inputs `estado` + `pdf_url`.
 
-### Secrets requeridos (en este repo)
+### Secrets requeridos (de la organización)
 
 | Secret | Para qué | Workflows |
 |--------|----------|-----------|

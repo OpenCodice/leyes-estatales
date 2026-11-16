@@ -1,0 +1,27 @@
+{
+  "clave": "014",
+  "etiqueta": "Artículo 14",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "014.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › párrafo 1",
+      "texto": "El Territorio del Estado de Yucatán tiene la extensión y los límites que demarca la Constitución Federal; lo constituye la parte norte de la Península de Yucatán, que queda limitada por una línea divisoria que, partiendo del vértice noreste sigue el arco del meridiano 87 grados, 32 minutos (longitud oeste de Greenwich), hasta su intersección con el paralelo 21 grados; y de allí continúa hasta encontrar el paralelo que pasa por la torre sur de la Iglesia de Chemax, 20 kilómetros al oriente de este punto; llegando después al vértice del ángulo formado por las líneas que dividen los Estados de Yucatán y Campeche, cerca de Put, que tiene las siguientes coordenadas geográficas: 19 grados, 18 minutos, 27 segundos, latitud norte, y 89 grados, 8 minutos, 52 segundos longitud oeste; de este punto hasta el Golfo de México, tiene los límites fijados en el convenio celebrado entre los estados de Campeche y Yucatán con fecha 3 de mayo de 1858; y de este punto hacia el este, por la costa, hasta el punto de partida."
+    },
+    {
+      "id": "014.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › párrafo 2",
+      "texto": "Asimismo comprende la Isla de Pérez (LOS ALACRANES), y los islotes, cayos y arrecifes adyacentes a su litoral."
+    }
+  ]
+}

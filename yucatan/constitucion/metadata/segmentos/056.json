@@ -1,0 +1,89 @@
+{
+  "clave": "056",
+  "etiqueta": "Artículo 56",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "056.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › párrafo 1",
+      "texto": "El Gobernador no puede:"
+    },
+    {
+      "id": "056.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción I",
+      "texto": "I.- Renunciar a su cargo sin causa justificada, ni ausentarse del territorio del Estado o separarse del ejercicio de sus funciones por hasta noventa días naturales sin dar aviso o por más de noventa días naturales sin pedir licencia al Congreso, en los términos que establece esta Constitución;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada D.O. 21-04-2023",
+          "fechas": [
+            "2023-04-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "056.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción II",
+      "texto": "II.- Imponer contribuciones;"
+    },
+    {
+      "id": "056.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción III",
+      "texto": "III.- Impedir ni retardar la instalación del Congreso;"
+    },
+    {
+      "id": "056.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción IV",
+      "texto": "IV.- Impedir ni retardar las elecciones populares, ni intervenir en ellas para que recaigan en determinada persona, ya sea por sí o por medio de otras autoridades o agentes, siendo esto motivo de responsabilidad y nulidad de la elección;\n\nIV Bis.- Impedir o intervenir en los procesos de plebiscito o referéndum, con el objeto de influir en el resultado de los mismos."
+    },
+    {
+      "id": "056.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción V",
+      "texto": "V.- Mezclarse en las causas pendientes, ni disponer durante el juicio de las personas de los reos;"
+    },
+    {
+      "id": "056.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción VI",
+      "texto": "VI.- Remitir deudas, mandando hacer cortes de cuenta respecto de los deudores del Estado, para dejar insolutos los créditos de la Hacienda Pública; y"
+    },
+    {
+      "id": "056.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción VII",
+      "texto": "VII.- Permitir o tolerar que se establezcan en el Estado casas de juegos ilícitos o espectáculos inmorales."
+    }
+  ]
+}

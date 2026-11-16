@@ -1,0 +1,36 @@
+{
+  "clave": "052",
+  "etiqueta": "Artículo 52",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "052.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › párrafo 1",
+      "texto": "Toda resolución del Congreso tendrá el carácter de Ley, Decreto o Acuerdo."
+    },
+    {
+      "id": "052.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › párrafo 2",
+      "texto": "Será materia de Ley toda resolución que afecte a las personas en general; de Decreto, la que otorgue derechos o imponga obligaciones a personas determinadas, y de Acuerdo, en los demás casos."
+    },
+    {
+      "id": "052.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › párrafo 3",
+      "texto": "Las leyes y decretos se comunicarán al Ejecutivo firmados por el Presidente y Secretarios de la Legislatura. Los acuerdos se comunicarán por los Secretarios del Congreso."
+    }
+  ]
+}

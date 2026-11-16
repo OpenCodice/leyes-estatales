@@ -1,0 +1,27 @@
+{
+  "clave": "056",
+  "etiqueta": "Artículo 56",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "056.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › párrafo 1",
+      "texto": "Aprobado por el Congreso un Proyecto de Ley o de Decreto pasará al Ejecutivo para su sanción y publicación inmediata, si éste no tuviere observaciones qué hacerle."
+    },
+    {
+      "id": "056.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › párrafo 2",
+      "texto": "Los Acuerdos de la Cámara se comunicarán al propio Ejecutivo para los efectos correspondientes."
+    }
+  ]
+}

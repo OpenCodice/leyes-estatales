@@ -1,0 +1,27 @@
+{
+  "clave": "158",
+  "etiqueta": "Artículo 158",
+  "titulo": "TÍTULO DÉCIMO SEGUNDO",
+  "capitulo": "CAPITULO II BIS",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "158.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158 › párrafo 1",
+      "texto": "Esta Constitución puede ser adicionada o reformada. Para que las adiciones o reformas lleguen a ser parte de la misma, se sujetaran a los trámites establecidos para la expedición de leyes señalados por esta Constitución y requieren de la aprobación cuando menos, de los dos tercios de número total de Diputados."
+    },
+    {
+      "id": "158.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 158 › párrafo 2",
+      "texto": "Aprobada la iniciativa en la Cámara de Diputados deberá someterse a la sanción de los ayuntamientos y se tendrá por aprobada definitivamente, cuando así lo expresen la mayoría de ellos."
+    }
+  ]
+}

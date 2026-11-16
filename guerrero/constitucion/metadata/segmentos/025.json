@@ -1,0 +1,63 @@
+{
+  "clave": "025",
+  "etiqueta": "Artículo 25",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "025.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 1",
+      "texto": "La extensión y límites del Estado de Guerrero se encuentran reconocidos por los Estados circunvecinos en la siguiente forma:"
+    },
+    {
+      "id": "025.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción I",
+      "texto": "I. Con el Estado de Michoacán: por dos decretos; uno de la Federación, publicado en el Diario Oficial del 14 de diciembre de 1906, y otro del Estado (número 18) del 20 de noviembre de 1907, que confirma y ratifica el anterior;"
+    },
+    {
+      "id": "025.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción II",
+      "texto": "II. Con el Estado de México: por Decreto del 15 de mayo de 1849 expedido por el Congreso General (hoy Congreso de la Unión), que procedió al decreto de erección del Estado;"
+    },
+    {
+      "id": "025.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción III",
+      "texto": "III. Con el Estado de Morelos: por el convenio celebrado entre ambas entidades el 8 de octubre de 1946;"
+    },
+    {
+      "id": "025.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción IV",
+      "texto": "IV. Con el Estado de Puebla: por los límites estipulados en el mapa oficial levantado en 1845 por órdenes del Ejecutivo Federal; y,"
+    },
+    {
+      "id": "025.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción V",
+      "texto": "V. Con el Estado de Oaxaca: por laudo pronunciado por particular el 28 de abril de 1890, que acepta el dictamen de las comisiones de límites de ambos Estados, con base en el cual se expidió el decreto de la Legislatura del Estado, del 27 de noviembre de 1890, y ratificado por el convenio de límites celebrado el 9 de febrero de 1988."
+    }
+  ]
+}

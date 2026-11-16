@@ -1,0 +1,126 @@
+{
+  "clave": "085",
+  "etiqueta": "Artículo 85",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "085.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › párrafo 1",
+      "texto": "A través del proceso de plebiscito, el Titular del Ejecutivo y el Congreso del Estado podrán consultar a los ciudadanos para que expresen su aprobación o rechazo previo a actos o decisiones del Gobernador del Estado que sean trascendentales para el orden público o el interés social de la Entidad, de acuerdo a lo establecido en la ley aplicable y a los términos siguientes:"
+    },
+    {
+      "id": "085.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › Fracción I",
+      "texto": "I.- No podrán someterse a plebiscito los actos o decisiones del Gobernador del Estado relativos a:"
+    },
+    {
+      "id": "085.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 85 › Fracción I › inciso a)",
+      "texto": "a) Materias de carácter tributario o fiscal, así como de egresos de la Entidad;"
+    },
+    {
+      "id": "085.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 85 › Fracción I › inciso b)",
+      "texto": "b) Régimen interno de los órganos de la administración pública del Estado;"
+    },
+    {
+      "id": "085.I.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 85 › Fracción I › inciso c)",
+      "texto": "c) Actos cuya realización sea obligatoria en términos de las leyes aplicables; y"
+    },
+    {
+      "id": "085.I.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 85 › Fracción I › inciso d)",
+      "texto": "d) Los demás que determinen las leyes."
+    },
+    {
+      "id": "085.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › Fracción II",
+      "texto": "II.- El titular del Poder Ejecutivo y el Congreso del Estado podrán solicitar al Instituto Electoral del Estado dé inicio al proceso de plebiscito, mediante convocatoria que se expida cuando menos noventa días antes de la fecha de realización del mismo. La convocatoria se publicará en el Periódico Oficial del Estado y en los diarios de mayor circulación en la Entidad, y deberá contener:"
+    },
+    {
+      "id": "085.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 85 › Fracción II › inciso a)",
+      "texto": "a) La explicación clara y precisa de los efectos de la aprobación o rechazo del acto o decisión sometido a plebiscito;"
+    },
+    {
+      "id": "085.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 85 › Fracción II › inciso b)",
+      "texto": "b) La fecha en que habrá de verificarse el plebiscito; y"
+    },
+    {
+      "id": "085.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 85 › Fracción II › inciso c)",
+      "texto": "c) La pregunta o preguntas conforme a las cuales los ciudadanos expresarán su aprobación o rechazo."
+    },
+    {
+      "id": "085.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › Fracción III",
+      "texto": "III.- Los resultados del plebiscito serán vinculatorios para el Gobernador del Estado cuando una de las opciones o la totalidad de ellas obtenga una votación válidamente emitida de más del cincuenta por ciento y participen en el proceso respectivo cuando menos el cuarenta por ciento de los ciudadanos poblanos inscritos en el Registro Federal de Electores, debidamente identificados;"
+    },
+    {
+      "id": "085.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › Fracción IV",
+      "texto": "IV.- En el año en que se verifique elección de representantes populares y durante los noventa días posteriores a la conclusión del proceso electoral, no podrá realizarse plebiscito alguno. Asimismo, no podrán desarrollarse dos plebiscitos en el mismo año; y"
+    },
+    {
+      "id": "085.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › Fracción V",
+      "texto": "V.- El Instituto Electoral del Estado organizará el proceso de plebiscito y hará la declaratoria de sus efectos, remitiéndola al Ejecutivo del Estado para su publicación en el Periódico Oficial del Estado, de conformidad con lo que disponga la ley aplicable."
+    }
+  ]
+}

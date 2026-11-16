@@ -1,0 +1,81 @@
+{
+  "clave": "018",
+  "etiqueta": "Artículo 18",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "018.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › párrafo 1",
+      "texto": "Son habitantes del Estado quienes residan de manera permanente o temporal dentro de su territorio, sea cual sea su nacionalidad o estado migratorio; sus obligaciones son:"
+    },
+    {
+      "id": "018.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción I",
+      "texto": "I. Respetar y hacer respetar los derechos de las personas reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en esta Constitución."
+    },
+    {
+      "id": "018.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción II",
+      "texto": "II. Conocer y cumplir la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes secundarias que ellas se fundamentan."
+    },
+    {
+      "id": "018.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción III",
+      "texto": "III. Reconocer como un valor la diversidad cultural en el estado como un valor y no ejercer actos de violencia o discriminación; respetar los valores cívicos y culturales del pueblo chiapaneco para coadyuvar a su superación y la paz social en el estado."
+    },
+    {
+      "id": "018.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción IV",
+      "texto": "IV. Contribuir al gasto público del Estado y de los municipios, de manera proporcional y equitativa conforme lo dispongan las leyes."
+    },
+    {
+      "id": "018.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción V",
+      "texto": "V. No cometer actos que atenten contra el medio ambiente y participar en las actividades para su preservación y manejo responsable. La ley establecerá la responsabilidad por daño al medio ambiente"
+    },
+    {
+      "id": "018.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción VI",
+      "texto": "VI. Hacer que sus hijas, hijos o pupilos, concurran a las escuelas a recibir educación preescolar, primaria, secundaria y media superior.\n\n(ADICIÓN PUBLICADA MEDIANTE P.O. NUM. 110 DE FECHA 24 DE JUNIO DE 2020)"
+    },
+    {
+      "id": "018.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción VII",
+      "texto": "VII. Tratándose de los pueblos y comunidades indígenas, cumplir con las obligaciones, contribuciones y los cargos que la comunidad les señale conforme a los sistemas normativos internos, en estricto respeto a las garantías que establecen las constituciones federal y local."
+    }
+  ]
+}

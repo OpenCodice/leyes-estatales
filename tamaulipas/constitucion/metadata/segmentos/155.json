@@ -1,0 +1,45 @@
+{
+  "clave": "155",
+  "etiqueta": "Artículo 155",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "155.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 155 › párrafo 1",
+      "texto": "El procedimiento de juicio político sólo podrá iniciarse durante el período en el que el Servidor Público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento."
+    },
+    {
+      "id": "155.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 155 › párrafo 2",
+      "texto": "La responsabilidad por delitos cometidos durante el tiempo del encargo por cualquier servidor público, será exigible de acuerdo con los plazos de prescripción consignados en la Ley Penal, que nunca serán inferiores a tres años. Los plazos de prescripción se interrumpen en tanto el servidor público desempeñe algunos de los encargos que hace referencia el Artículo 152."
+    },
+    {
+      "id": "155.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 155 › párrafo 3",
+      "texto": "La Ley señalará los plazos de prescripción de la responsabilidad administrativa tomando en cuenta la naturaleza y consecuencia de los actos y omisiones a que hace referencia la fracción III del Artículo 150."
+    },
+    {
+      "id": "155.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 155 › párrafo 4",
+      "texto": "Cuando dichos actos u omisiones fuesen graves los plazos de prescripción no serán inferiores a siete años."
+    }
+  ]
+}

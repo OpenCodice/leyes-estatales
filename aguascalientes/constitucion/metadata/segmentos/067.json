@@ -1,0 +1,27 @@
+{
+  "clave": "067",
+  "etiqueta": "Artículo 67º",
+  "titulo": "",
+  "capitulo": "CAPITULO DECIMOSEXTO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "067.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 28 DE JULIO DE 2014)"
+    },
+    {
+      "id": "067.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67º › párrafo 2",
+      "texto": "Los Municipios gozan de personalidad jurídica para todos los efectos legales. En asuntos jurisdiccionales, serán representados por los Síndicos o por aquellos que se designen de conformidad con lo que establezca la Ley que en materia municipal emita el Congreso del Estado."
+    }
+  ]
+}

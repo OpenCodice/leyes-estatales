@@ -1,0 +1,45 @@
+{
+  "clave": "054",
+  "etiqueta": "Artículo 54",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "054.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › párrafo 1",
+      "texto": "Son duranguenses:"
+    },
+    {
+      "id": "054.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › Fracción I",
+      "texto": "I. Las personas nacidas en el Estado de Durango."
+    },
+    {
+      "id": "054.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › Fracción II",
+      "texto": "II. Las o los mexicanas o mexicanos que tengan una residencia mínima de cinco años en el Estado."
+    },
+    {
+      "id": "054.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › Fracción III",
+      "texto": "III. Las o los mexicanas o mexicanos hijos de padre o madre duranguense, nacidos en otra entidad federativa o en el extranjero.\n\nREFORMADO POR DEC. 585 P.O. 11 EXT. DE 24 DE MAYO 2022."
+    }
+  ]
+}

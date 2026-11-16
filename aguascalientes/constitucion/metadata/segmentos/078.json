@@ -1,0 +1,27 @@
+{
+  "clave": "078",
+  "etiqueta": "Artículo 78º",
+  "titulo": "",
+  "capitulo": "CAPITULO DECIMOSEPTIMO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "078.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 29 DE ENERO DE 1984)"
+    },
+    {
+      "id": "078.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78º › párrafo 2",
+      "texto": "La declaración de haber lugar a formación de causa se requiere, en cuanto a los servidores públicos de elección popular, desde la fecha en que sean electos, y respecto a los demás, desde que entren en ejercicio de sus cargos, aún por delitos cometidos con anterioridad."
+    }
+  ]
+}

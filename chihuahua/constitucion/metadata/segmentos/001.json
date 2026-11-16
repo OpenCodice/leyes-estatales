@@ -1,0 +1,45 @@
+{
+  "clave": "001",
+  "etiqueta": "Artículo 1",
+  "titulo": "TITULO I",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "001.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 1",
+      "texto": "El Estado de Chihuahua es parte integrante de los Estados Unidos Mexicanos y posee una composición pluricultural, pluriétnica y multilingüistica."
+    },
+    {
+      "id": "001.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 2",
+      "texto": "La identidad plural de la sociedad chihuahuense será reflejada en una imagen institucional única para los poderes públicos del Estado y de los municipios, sin perjuicio de las identidades regionales de los gobiernos municipales. La ley regulará las características de los símbolos del Estado y definirá las reglas de las imágenes institucionales de los ayuntamientos, en todo caso, el escudo y lema del Estado estarán integrados a las imágenes de los municipios."
+    },
+    {
+      "id": "001.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 3",
+      "texto": "[Artículo adicionado con un segundo párrafo mediante Decreto No. 562-14 V P.E. publicado en el P.O.E. No. 9 del 31 de enero de 2015]"
+    },
+    {
+      "id": "001.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 4",
+      "texto": "[Artículo reformado mediante Decreto No. 791-2012 II P.O. publicado en el P.O.E. No. 64 del 11 de agosto de 2012]"
+    }
+  ]
+}

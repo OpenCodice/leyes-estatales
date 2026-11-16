@@ -2,8 +2,9 @@
 
 Texto vigente de las constituciones estatales de México, un archivo por
 artículo, versionado para que el historial de git sea el registro de sus
-reformas. Hoy: Jalisco y Ciudad de México. Es un repo de datos: aquí no hay
-código.
+reformas. Hoy: 29 de las 32 entidades; las que faltan, y por qué, están en
+`estados.json` del extractor. Es un repo de datos: el único código es
+`scripts/gen_readme.py`.
 
 **No edites a mano nada de `{estado}/constitucion/articulos/` ni de su
 `metadata/`.** Todo se genera con
@@ -50,5 +51,7 @@ la vigilancia toma los estados del resolver y `revisar-pr` valida cada carpeta
 
 ## Lo único que se edita aquí
 
-Los workflows de `.github/workflows/` y la documentación. Trabaja en `main`,
+Los workflows de `.github/workflows/`, `scripts/gen_readme.py` y la
+documentación (el README fuera de su bloque generado, que se regenera al dar de
+alta un estado). Trabaja en `main`,
 con `git pull --ff-only` antes.

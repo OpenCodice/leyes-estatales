@@ -1,0 +1,54 @@
+{
+  "clave": "016",
+  "etiqueta": "Artículo 16",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "016.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › párrafo 1",
+      "texto": "Pierde la ciudadanía morelense:"
+    },
+    {
+      "id": "016.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Fracción I",
+      "texto": "I.- Quien ha perdido la de mexicano;"
+    },
+    {
+      "id": "016.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Fracción II",
+      "texto": "II.- Quien por sentencia ejecutoria haya sido condenado a inhabilitación para obtener empleos o cargos públicos, aunque dicha inhabilitación comprenda determinado ramo de la administración;"
+    },
+    {
+      "id": "016.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Fracción III",
+      "texto": "III.- Quien solicitare y obtuviere carta de ciudadanía en otro Estado, y"
+    },
+    {
+      "id": "016.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Fracción IV",
+      "texto": "IV.- Derogada."
+    }
+  ]
+}

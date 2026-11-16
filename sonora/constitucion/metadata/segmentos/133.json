@@ -1,0 +1,45 @@
+{
+  "clave": "133",
+  "etiqueta": "Artículo 133",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "133.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › párrafo 1",
+      "texto": "Los Presidentes y Presidentas Municipales, Regidores y Regidoras, y personas síndicas de los ayuntamientos durarán en sus cargos tres años. No podrán ser electas para el mismo cargo en el periodo inmediato posterior al ejercicio de su mandato. Tomarán posesión el día 16 de septiembre del año de su elección."
+    },
+    {
+      "id": "133.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › párrafo 2",
+      "texto": "Los cargos del Presidente Municipal, Síndico y Regidor serán obligatorios y remunerados."
+    },
+    {
+      "id": "133.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › párrafo 3",
+      "texto": "Solamente serán renunciables por causa justificada que califique el Ayuntamiento y apruebe el Congreso."
+    },
+    {
+      "id": "133.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › párrafo 4",
+      "texto": "Si alguno de los miembros de un Ayuntamiento dejare de desempeñar su cargo, será substituido por su suplente, o se procederá según lo disponga esta Constitución y la Ley."
+    }
+  ]
+}

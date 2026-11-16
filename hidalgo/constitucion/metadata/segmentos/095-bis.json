@@ -1,0 +1,36 @@
+{
+  "clave": "095-bis",
+  "etiqueta": "Artículo 95 Bis",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPITULO II BIS",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "095-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 Bis › párrafo 1",
+      "texto": "Derogado."
+    },
+    {
+      "id": "095-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 Bis › párrafo 2",
+      "texto": "Artículo adicionado, P.O. Alcance uno del 12 de marzo de 2025."
+    },
+    {
+      "id": "095-bis.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 Bis › párrafo 3",
+      "texto": "Artículo derogado, P.O. Alcance del 3 de marzo de 2026."
+    }
+  ]
+}

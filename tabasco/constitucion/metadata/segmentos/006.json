@@ -1,0 +1,81 @@
+{
+  "clave": "006",
+  "etiqueta": "Artículo 6",
+  "titulo": "",
+  "capitulo": "CAPITULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "006.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › párrafo 1",
+      "texto": "REFORMADO P.O. 8469 SPTO. F 4-NOV-2023"
+    },
+    {
+      "id": "006.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 02 DE ABRIL DE 1975)"
+    },
+    {
+      "id": "006.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › párrafo 3",
+      "texto": "Son obligaciones de la ciudadanía tabasqueña:"
+    },
+    {
+      "id": "006.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción I",
+      "texto": "I.- Inscribirse en los padrones electorales y en el catastro de la municipalidad, en la forma que determinen las leyes;\n\nREFORMADO P.O. 8581 SPTO. H 30-NOV-2024\n\nREFORMADA P.O. 1064\n\nREFORMADA EM EL EXTRAORDINARIO NO. 84 13-SEP-2013\n\n(REFORMADA, P.O. 27 DE NOVIEMBRE DE 2002)"
+    },
+    {
+      "id": "006.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción II",
+      "texto": "II. Votar en las elecciones populares, así como en las consultas populares y participar en los procesos de revocación de mandato, en los términos que señale la ley;"
+    },
+    {
+      "id": "006.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción III",
+      "texto": "III.- Desempeñar los cargos de elección del Estado, que en ningún caso serán gratuitos;"
+    },
+    {
+      "id": "006.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción IV",
+      "texto": "IV.- Desempeñar los cargos que les impongan las funciones electorales y las de jurado en el municipio en que residan; y"
+    },
+    {
+      "id": "006.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción V",
+      "texto": "V.- Las demás que las leyes señalen."
+    }
+  ]
+}

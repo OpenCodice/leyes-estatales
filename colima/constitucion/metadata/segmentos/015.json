@@ -1,0 +1,36 @@
+{
+  "clave": "015",
+  "etiqueta": "Artículo 15º",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "015.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15º › párrafo 1",
+      "texto": "El territorio del Estado tendrá los límites que fijen la Constitución Federal y las leyes."
+    },
+    {
+      "id": "015.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15º › párrafo 2",
+      "texto": "Los municipios constituyen la base de la división política y administrativa del territorio de la Entidad, de acuerdo con el artículo 115 de la Constitución Federal."
+    },
+    {
+      "id": "015.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15º › párrafo 3",
+      "texto": "La Ciudad de Colima es la capital del Estado y residencia oficial de los Poderes de éste."
+    }
+  ]
+}

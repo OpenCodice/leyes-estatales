@@ -1,0 +1,27 @@
+{
+  "clave": "010",
+  "etiqueta": "Artículo 10",
+  "titulo": "TÍTULO PRIMERO DE LOS DERECHOS HUMANOS",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "010.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 1",
+      "texto": "Se reconoce el derecho de reunión pacífica, su ejercicio no necesitará autorización previa, solamente los ciudadanos mexicanos podrán hacerlo para intervenir en los asuntos políticos del Estado."
+    },
+    {
+      "id": "010.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 2",
+      "texto": "El ejercicio de este derecho sólo puede estar sujeto a las restricciones previstas por la ley, que sean necesarias para salvaguardar la seguridad, el orden público o para proteger la salud, la moral pública y los derechos y libertades de los demás."
+    }
+  ]
+}

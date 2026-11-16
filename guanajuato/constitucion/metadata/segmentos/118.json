@@ -1,0 +1,45 @@
+{
+  "clave": "118",
+  "etiqueta": "Artículo 118",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "118.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "118.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › párrafo 2",
+      "texto": "Los bienes que conforman el Patrimonio Municipal, son:"
+    },
+    {
+      "id": "118.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › Fracción I",
+      "texto": "I. De dominio público; y,"
+    },
+    {
+      "id": "118.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › Fracción II",
+      "texto": "II. De dominio privado."
+    }
+  ]
+}

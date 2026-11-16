@@ -1,0 +1,45 @@
+{
+  "clave": "078",
+  "etiqueta": "Artículo 78",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "078.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)"
+    },
+    {
+      "id": "078.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › párrafo 2",
+      "texto": "Es causa de retiro forzoso para las magistradas y magistrados, y para juezas y jueces, cuando:"
+    },
+    {
+      "id": "078.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción I",
+      "texto": "I. Cumplan setenta años de edad; o,"
+    },
+    {
+      "id": "078.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción II",
+      "texto": "II. Padezcan incapacidad física o mental permanente para el desempeño de su encargo."
+    }
+  ]
+}

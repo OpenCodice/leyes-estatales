@@ -1,0 +1,27 @@
+{
+  "clave": "163",
+  "etiqueta": "Artículo 163",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "CAPITULO VIII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "163.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 163 › párrafo 1",
+      "texto": "Derogado."
+    },
+    {
+      "id": "163.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 163 › párrafo 2",
+      "texto": "Fe de erratas 13-01-1975. Artículo renumerado (antes 173) POE 24-10-2003. Reformado POE 24-10-2003. Derogado POE 22-09-2017"
+    }
+  ]
+}

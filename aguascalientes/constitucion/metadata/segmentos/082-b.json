@@ -1,0 +1,189 @@
+{
+  "clave": "082-b",
+  "etiqueta": "Artículo 82º B",
+  "titulo": "",
+  "capitulo": "CAPITULO DECIMOSEPTIMO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "082-b.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82º B › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 5 DE SEPTIEMBRE DE 2016)"
+    },
+    {
+      "id": "082-b.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82º B › párrafo 2",
+      "texto": "El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades de los tres Poderes, las dependencias, entidades y organismos constitucionales autónomos del Estado y sus Municipios, competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:"
+    },
+    {
+      "id": "082-b.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82º B › Fracción I",
+      "texto": "I.- La ley creará un Comité Coordinador del Sistema Estatal Anticorrupción, que estará integrado por los titulares de los organismos siguientes:"
+    },
+    {
+      "id": "082-b.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 82º B › Fracción I › inciso a)",
+      "texto": "a) Un representante del Comité de Participación Ciudadana del propio Sistema, quien lo presidirá;"
+    },
+    {
+      "id": "082-b.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 82º B › Fracción I › inciso b)",
+      "texto": "b) El titular del Órgano Superior de Fiscalización del Estado;"
+    },
+    {
+      "id": "082-b.I.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 82º B › Fracción I › inciso c)",
+      "texto": "c) El titular de la Fiscalía Estatal Especializada en Combate a la Corrupción;"
+    },
+    {
+      "id": "082-b.I.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 82º B › Fracción I › inciso d)",
+      "texto": "d) El titular de la secretaría del Ejecutivo del Estado, responsable del control interno;\n\n(REFORMADO, P.O. 14 DE ABRIL DE 2025)"
+    },
+    {
+      "id": "082-b.I.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 82º B › Fracción I › inciso e)",
+      "texto": "e) La persona titular de la Presidencia del Tribunal de Justicia Administrativa, y\n\n(REFORMADO, P.O. 14 DE ABRIL DE 2025)"
+    },
+    {
+      "id": "082-b.I.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 82º B › Fracción I › inciso f)",
+      "texto": "f) Una persona representante del Tribunal de Disciplina Judicial de Aguascalientes."
+    },
+    {
+      "id": "082-b.I.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 82º B › Fracción I › inciso g)",
+      "texto": "g) (DEROGADO, P.O. 14 DE ABRIL DE 2025)"
+    },
+    {
+      "id": "082-b.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82º B › Fracción II",
+      "texto": "II.- Corresponderá al Comité Coordinador del Sistema Estatal Anticorrupción, en los términos que determine la Ley:"
+    },
+    {
+      "id": "082-b.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 82º B › Fracción II › inciso a)",
+      "texto": "a) El establecimiento y adopción de mecanismos de coordinación con el Sistema Nacional Anticorrupción;"
+    },
+    {
+      "id": "082-b.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 82º B › Fracción II › inciso b)",
+      "texto": "b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;"
+    },
+    {
+      "id": "082-b.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 82º B › Fracción II › inciso c)",
+      "texto": "c) La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes del Estado y los municipios;"
+    },
+    {
+      "id": "082-b.II.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 82º B › Fracción II › inciso d)",
+      "texto": "d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades del Estado y sus municipios en materia de fiscalización y control de los recursos públicos;"
+    },
+    {
+      "id": "082-b.II.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 82º B › Fracción II › inciso e)",
+      "texto": "e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia en el que se dé cuenta de las acciones anticorrupción, los riesgos identificados, los costos potenciales generados y los resultados de sus recomendaciones. Para este efecto deberán seguir las metodologías que emita el Sistema Nacional Anticorrupción; este informe será público y deberá remitirse al Sistema Nacional de referencia.\n\nDerivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité Coordinador del Sistema Estatal Anticorrupción sobre la atención que brinden a las mismas; y"
+    },
+    {
+      "id": "082-b.II.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 82º B › Fracción II › inciso f)",
+      "texto": "f) Tendrán acceso a la información pública necesaria, adecuada y oportuna para el mejor desempeño de sus funciones."
+    },
+    {
+      "id": "082-b.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82º B › Fracción III",
+      "texto": "III.- La ley creará el Comité de Participación Ciudadana del Sistema Estatal Anticorrupción, el cual se integrará por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la misma ley;"
+    },
+    {
+      "id": "082-b.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82º B › Fracción IV",
+      "texto": "IV.- Se creará una Fiscalía Especializada en Combate a la Corrupción, dependiente de la Fiscalía General del Estado, la cual será competente para investigar y perseguir las conductas consideradas como hechos de corrupción que sancione la normatividad local, cuando no sea competencia de la Federación.\n\nLa comisión de delitos por parte de cualquier servidor público o particulares que incurran en hechos de corrupción, será sancionada en los términos de la legislación penal aplicable."
+    },
+    {
+      "id": "082-b.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82º B › Fracción V",
+      "texto": "V.- El Órgano Superior de Fiscalización o los órganos de control interno respectivos, cuando detecten alguna irregularidad provocada por hechos de corrupción de acuerdo a la normatividad, deberá presentar la denuncia correspondiente ante la Fiscalía Especializada en Combate a la Corrupción.\n\n[N. DE E. REUBICADO -ANTES CAPÍTULO DÉCIMOSEPTIMO-, P.O. 8 DE NOVIEMBRE DE 2016]"
+    }
+  ]
+}

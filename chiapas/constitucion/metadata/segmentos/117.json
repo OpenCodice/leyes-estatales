@@ -1,0 +1,36 @@
+{
+  "clave": "117",
+  "etiqueta": "Artículo 117",
+  "titulo": "Título Décimo Primero",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "117.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › párrafo 1",
+      "texto": "Los empleos o cargos públicos del Estado durarán el tiempo establecido en esta Constitución o en la Ley. Para desempeñar más de un empleo del Estado y del Municipio, o de éstos y de la Federación, se requerirá autorización previa del Congreso del Estado y, en su caso, de la Comisión Permanente, y sólo podrá concederse por razones de interés público."
+    },
+    {
+      "id": "117.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › párrafo 2",
+      "texto": "Las limitaciones a que se refiere este artículo no incluyen a los empleos en el ramo de la docencia, los que se sujetarán a lo dispuesto por la Ley de la materia."
+    },
+    {
+      "id": "117.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › párrafo 3",
+      "texto": "Todas las personas que se desempeñen en el Servicio Público del estado y sus municipios, al tomar posesión de sus cargos deberán hacer protesta formal de respetar y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, esta Constitución del Estado Libre y Soberano de Chiapas y las leyes que de ellas emanen."
+    }
+  ]
+}

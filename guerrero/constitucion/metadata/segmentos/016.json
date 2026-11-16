@@ -1,0 +1,81 @@
+{
+  "clave": "016",
+  "etiqueta": "Artículo 16",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "016.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › párrafo 1",
+      "texto": "Son vecinos del Estado de Guerrero:"
+    },
+    {
+      "id": "016.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Fracción I",
+      "texto": "I. Las personas que tengan domicilio en el Estado, con una residencia mínima de seis meses; y,"
+    },
+    {
+      "id": "016.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Fracción II",
+      "texto": "II. Quienes aún sin contar con la residencia mínima manifiesten ante la autoridad el deseo de adquirir la vecindad."
+    },
+    {
+      "id": "016.II.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 16 › Fracción II › 1.",
+      "texto": "1. La vecindad se pierde por:"
+    },
+    {
+      "id": "016.I~2",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Fracción I",
+      "texto": "I. Ausencia declarada judicialmente;"
+    },
+    {
+      "id": "016.II~2",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Fracción II",
+      "texto": "II. Manifestación expresa de residir fuera del territorio del Estado; y,"
+    },
+    {
+      "id": "016.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Fracción III",
+      "texto": "III. Dejar de residir en el Estado durante seis meses."
+    },
+    {
+      "id": "016.III.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 16 › Fracción III › 2.",
+      "texto": "2. La vecindad no se pierde por ausencia en el desempeño de algún cargo de elección popular, por nombramiento, realización de estudios o por comisión oficial."
+    }
+  ]
+}

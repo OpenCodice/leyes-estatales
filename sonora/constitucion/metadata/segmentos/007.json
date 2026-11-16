@@ -1,0 +1,18 @@
+{
+  "clave": "007",
+  "etiqueta": "Artículo 7",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 1",
+      "texto": "Las islas pertenecientes al Estado dependerán directamente del Ejecutivo mientras no haya en ellas poblaciones debidamente organizadas. Cuando haya en ellas poblaciones organizadas, el Congreso proveerá lo que corresponda a la condición de dichas poblaciones."
+    }
+  ]
+}

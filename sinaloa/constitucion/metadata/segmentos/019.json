@@ -1,0 +1,27 @@
+{
+  "clave": "019",
+  "etiqueta": "Artículo 19",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "019.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › párrafo 1",
+      "texto": "El Supremo Gobierno del Estado, se divide para su ejercicio, en tres Poderes:"
+    },
+    {
+      "id": "019.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › párrafo 2",
+      "texto": "Legislativo, Ejecutivo y Judicial."
+    }
+  ]
+}

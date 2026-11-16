@@ -1,0 +1,36 @@
+{
+  "clave": "065",
+  "etiqueta": "Artículo 65",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "065.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › párrafo 1",
+      "texto": "(DEROGADO TERCER PÁRRAFO, P.O. 31 DE DICIEMBRE DE 2004)"
+    },
+    {
+      "id": "065.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)"
+    },
+    {
+      "id": "065.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › párrafo 3",
+      "texto": "La promulgación y la orden de publicación de las leyes se harán constar mediante la firma de la persona Titular del Ejecutivo del Estado y del Secretario de Gobierno. Todos los decretos reglamentos; órdenes, acuerdos y circulares de observancia general que contengan disposiciones sobre asuntos administrativos, deberán ser firmados por la Gobernadora o Gobernador, el Secretario de Gobierno y los titulares de las dependencias básicas a que el asunto corresponda; requisito sin el cual no serán obligatorios."
+    }
+  ]
+}

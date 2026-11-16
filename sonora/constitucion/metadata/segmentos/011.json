@@ -1,0 +1,18 @@
+{
+  "clave": "011",
+  "etiqueta": "Artículo 11",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "011.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › párrafo 1",
+      "texto": "Son extranjeros los considerados así por la Constitución General de la República."
+    }
+  ]
+}

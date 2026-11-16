@@ -1,0 +1,45 @@
+{
+  "clave": "071",
+  "etiqueta": "Artículo 71",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "071.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › párrafo 1",
+      "texto": "La facultad de veto del Poder Ejecutivo se sujetará a las siguientes reglas:"
+    },
+    {
+      "id": "071.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción I",
+      "texto": "I. Todo proyecto de ley o de decreto desechada en todo o en parte por la persona titular del Poder Ejecutivo será devuelto con sus observaciones a la Legislatura, quien lo discutirá nuevamente en la parte conducente."
+    },
+    {
+      "id": "071.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción II",
+      "texto": "II. De ser confirmado el proyecto original, por las dos terceras partes de las personas integrantes de la Legislatura, este será ley o decreto y devuelto al Ejecutivo para su publicación, y"
+    },
+    {
+      "id": "071.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción III",
+      "texto": "III. Si la Legislatura aprobase, por la misma mayoría calificada, en parte o todas las observaciones hechas por la persona Titular del Poder Ejecutivo, se le devolverá para los efectos de la fracción anterior.\n\nArtículo reformado POE 19-03-2025"
+    }
+  ]
+}

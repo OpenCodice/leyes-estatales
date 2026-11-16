@@ -1,0 +1,45 @@
+{
+  "clave": "045",
+  "etiqueta": "Artículo 45",
+  "titulo": "",
+  "capitulo": "CAPÍTULO XI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "045.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45 › párrafo 1",
+      "texto": "Las sesiones del Congreso tendrán el carácter de públicas o reservadas, en los casos que determine la Ley Orgánica respectiva."
+    },
+    {
+      "id": "045.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45 › párrafo 2",
+      "texto": "Excepcionalmente, en los casos de epidemias, peligro de invasión, caso fortuito, fuerza mayor, en el país o en el Estado, las sesiones podrán efectuarse de manera no presencial, mediante video conferencia, trabajo a distancia o medios virtuales electrónicos que permitan la comunicación simultánea, con transmisión en tiempo real, estando sólo presentes en el recinto legislativo para la conducción protocolaria de la sesión los integrantes de la Mesa Directiva y, en los periodos extraordinarios, los de la Diputación Permanente."
+    },
+    {
+      "id": "045.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45 › párrafo 3",
+      "texto": "Nota: Se reformó mediante decreto No. 264 de la LIII legislatura, publicado en el P. O. del Gobierno del Estado No. 133 de fecha 1 abril de 1992."
+    },
+    {
+      "id": "045.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45 › párrafo 4",
+      "texto": "Nota: Se adicionó un párrafo segundo mediante decreto No. 215 de la LXIII legislatura, publicado en el P. O. del Gobierno del Estado No. 1383 Cuarta Sección de fecha 16 de marzo de 2021."
+    }
+  ]
+}

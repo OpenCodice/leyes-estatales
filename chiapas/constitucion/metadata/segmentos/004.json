@@ -1,0 +1,99 @@
+{
+  "clave": "004",
+  "etiqueta": "Artículo 4",
+  "titulo": "Título Primero",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "004.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 1",
+      "texto": "El Estado está obligado, a incluir dentro de los planes de educación básica y media superior, la enseñanza teórica y práctica de los Derechos Humanos contenidos en esta Constitución y en la Declaración Universal de los Derechos Humanos de la Organización de las Naciones Unidas."
+    },
+    {
+      "id": "004.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 2",
+      "texto": "Cuando una persona que pertenezca a un pueblo indígena y no hable suficientemente el idioma español, tendrá derecho a que se le asigne un defensor social que hable su misma lengua y conozca su cultura, para que lo patrocine legalmente."
+    },
+    {
+      "id": "004.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 3",
+      "texto": "El Poder Ejecutivo del Estado y los Ayuntamientos, en caso de una resolución vinculatoria de la Corte Interamericana de Derechos Humanos o de instrumentos internacionales vinculantes, de las recomendaciones aceptadas por sus autoridades, o de aquéllas derivadas de procedimientos de amigable composición, que impliquen una reparación del daño, deberán contemplar en la integración de sus presupuestos respectivos, un fondo destinado para el cumplimiento de la reparación del daño de las víctimas de violación de los derechos humanos. En caso de que los recursos no sean utilizados en el ejercicio correspondiente, serán acumulables para el ejercicio inmediato siguiente."
+    },
+    {
+      "id": "004.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 4",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NÚMERO 377, DE FECHA 21 DE NOVIEMBRE DEL 2024, DEC. 018)"
+    },
+    {
+      "id": "004.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 5",
+      "texto": "El Estado reconoce, protege y tutela, el derecho a la vida que todo ser humano tiene."
+    },
+    {
+      "id": "004.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 6",
+      "texto": "Sin perjuicio de las excluyentes de responsabilidad previstas en la legislación Penal del Estado de Chiapas."
+    },
+    {
+      "id": "004.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 7",
+      "texto": "Las autoridades estatales y municipales, en los términos y condiciones que establezcan la Constitución General de la República, la particular del Estado, las leyes que de ellas emanan, los Tratados y Convenios Internacionales ratificados y vigentes en México, garantizarán:"
+    },
+    {
+      "id": "004.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › Fracción I",
+      "texto": "I. El derecho a la identidad a toda persona nacida en Chiapas, para que cuenten con nombre y nacionalidad mexicana.\n\nLa inscripción ante el registro civil de los menores de un año será gratuita.\n\nA nadie se le exigirá comprobar la legal estancia en el país para la inscripción ante el registro civil de sus hijos nacidos en territorio estatal.\n\n(REFORMA PUBLICADA MEDIANTE P.O. NUM. 390 DE FECHA 30 DE AGOSTO DE 2018, DECRETO 275)\n\n(SE DEROGA MEDIANTE P.O. NUM. 020 DE FECHA 14 DE FEBRERO DE 2019)"
+    },
+    {
+      "id": "004.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › Fracción II",
+      "texto": "II. Se Deroga."
+    },
+    {
+      "id": "004.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › Fracción III",
+      "texto": "III. El respeto y protección de los derechos humanos de los migrantes, entre ellos el derecho a la salud, derechos laborales, derecho a la seguridad pública y a la procuración de justicia.\n\nEn el Estado de Chiapas, tratándose de delitos del fuero común, queda prohibida la figura del arraigo dentro de los procedimientos inherentes a la averiguación previa o etapa de investigación."
+    }
+  ]
+}

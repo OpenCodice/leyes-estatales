@@ -1,0 +1,45 @@
+{
+  "clave": "032",
+  "etiqueta": "Artículo 32º",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "032.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32º › párrafo 1",
+      "texto": "(REFORMADO DECRETO 113, P.O. 57, 03 AGOSTO 2019)"
+    },
+    {
+      "id": "032.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32º › párrafo 2",
+      "texto": "Corresponde al Congreso dictar las disposiciones generales que regulen su organización y funcionamiento internos, en las que deberá observar el principio de paridad de género."
+    },
+    {
+      "id": "032.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32º › párrafo 3",
+      "texto": "(ADICIONADO, DECRETO 302, P.O. 29 DE AGOSTO DE 2020)"
+    },
+    {
+      "id": "032.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32º › párrafo 4",
+      "texto": "La Ley Orgánica del Poder Legislativo, sus reformas y adiciones, así como su Reglamento, no podrán ser objeto de veto, ni necesitarán de promulgación del Ejecutivo del Estado para tener vigencia."
+    }
+  ]
+}

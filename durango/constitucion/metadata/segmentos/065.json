@@ -1,0 +1,27 @@
+{
+  "clave": "065",
+  "etiqueta": "Artículo 65",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "065.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › párrafo 1",
+      "texto": "El Estado promoverá la representación paritaria de mujeres y hombres en los cargos de elección popular y de libre designación dentro de la administración pública y los partidos políticos;"
+    },
+    {
+      "id": "065.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › párrafo 2",
+      "texto": "igualmente, promoverá las condiciones para garantizar la participación política de los grupos o sectores sociales en desventaja."
+    }
+  ]
+}

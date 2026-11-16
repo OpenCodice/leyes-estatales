@@ -1,0 +1,36 @@
+{
+  "clave": "024",
+  "etiqueta": "Artículo 24",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "024.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › párrafo 1",
+      "texto": "Son ciudadanos del Estado los varones o mujeres que tengan la calidad de potosinos y reúnan, además, los siguientes requisitos:"
+    },
+    {
+      "id": "024.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › Fracción I",
+      "texto": "I.- Haber cumplido dieciocho años; y"
+    },
+    {
+      "id": "024.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › Fracción II",
+      "texto": "II.- Tener un modo honesto de vivir."
+    }
+  ]
+}

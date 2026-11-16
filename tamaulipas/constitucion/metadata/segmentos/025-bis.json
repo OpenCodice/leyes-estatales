@@ -1,0 +1,27 @@
+{
+  "clave": "025-bis",
+  "etiqueta": "Artículo 25 Bis",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "025-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 Bis › párrafo 1",
+      "texto": "El presupuesto anual del Poder Legislativo no excederá del cero punto setenta por ciento del presupuesto de egresos del Estado."
+    },
+    {
+      "id": "025-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 Bis › párrafo 2",
+      "texto": "El Congreso deberá garantizar los principios de paridad, igualdad sustantiva y perspectiva de género, en su integración y funcionamiento."
+    }
+  ]
+}

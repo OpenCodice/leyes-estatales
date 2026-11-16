@@ -1,0 +1,45 @@
+{
+  "clave": "050",
+  "etiqueta": "Artículo 50",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "050.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 1",
+      "texto": "El Congreso tendrá cada año legislativo tres períodos de Sesiones Ordinarias, en la forma siguiente:"
+    },
+    {
+      "id": "050.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › Fracción I",
+      "texto": "I.- El primero comenzará el día quince de septiembre y terminará el quince de diciembre y se ocupará de estudiar, discutir y votar las iniciativas de Ley, Decreto o Acuerdo que se presenten y resolver los demás asuntos que le correspondan conforme a esta Constitución.\n\nAdemás, se avocará al estudio, la discusión y la aprobación de la Ley de Ingresos del Estado y de cada Municipio, que habrán de entrar en vigor al año siguiente, así como de las zonas catastrales y las tablas de valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones a la propiedad inmobiliaria, las que se elaborarán y enviarán en términos de la legislación secundaria.\n\nEl Ejecutivo del Estado y los Ayuntamientos a través de aquél, remitirán sus propias iniciativas de Ley de Ingresos a más tardar el quince de noviembre del ejercicio previo a su vigencia; a su vez, en la misma fecha, el Ejecutivo en forma exclusiva deberá enviar la iniciativa de Ley de Egresos del Estado. En el caso de los Ayuntamientos, deberán remitir, para su análisis y aprobación, junto con su iniciativa de Ley de Ingresos, las zonas catastrales y las tablas de valores unitarios de suelo y construcción que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.\n\nUna vez que sea aprobada la Ley de Ingresos del Estado, el Congreso examinará, discutirá y aprobará la Ley de Egresos del Estado, que habrá de regir en el ejercicio siguiente, y en su caso, examinará, discutirá y aprobará los presupuestos multianuales que el Ejecutivo proponga establecer en la iniciativa respectiva, destinados a la ejecución de inversiones públicas productivas y otras. Los requisitos y formalidades que el Gobierno del Estado debe observar para asumir obligaciones de pago destinadas a la realización de éstas deben establecerse en la ley secundaria.\n\nSi al iniciar el ejercicio fiscal no han sido aprobadas la Ley de Ingresos del Estado y la Ley de Egresos, o únicamente esta última, o las Leyes de Ingresos de cada Municipio, seguirán vigentes las leyes correspondientes al ejercicio anterior, mismas que serán aplicables provisionalmente, hasta en tanto el Congreso emita las aprobaciones respectivas, sin que para éstas medie receso de éste. El Congreso, hasta en tanto no sea aprobada la Ley de Egresos del Estado, en la legislación secundaria, establecerá las obligaciones del Poder Ejecutivo para garantizar la generalidad, permanencia y continuidad de los servicios públicos, la satisfacción de las necesidades básicas de la población, los derechos de terceros, y evitar generar cargas financieras al Estado."
+    },
+    {
+      "id": "050.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › Fracción II",
+      "texto": "II.- El segundo comenzará el quince de enero y terminará el quince de marzo, en el que se ocupará de estudiar, discutir y votar las iniciativas de Ley, Decreto o Acuerdo que se presenten y resolver los demás asuntos que le correspondan conforme a esta Constitución."
+    },
+    {
+      "id": "050.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › Fracción III",
+      "texto": "III.- El tercero comenzará el día quince de mayo y terminará el quince de julio, en el que conocerá de los asuntos mencionados en la fracción anterior."
+    }
+  ]
+}

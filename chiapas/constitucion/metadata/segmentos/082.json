@@ -1,0 +1,36 @@
+{
+  "clave": "082",
+  "etiqueta": "Artículo 82",
+  "titulo": "Título Octavo",
+  "capitulo": "Capítulo VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "082.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › párrafo 1",
+      "texto": "Los Ayuntamientos estarán investidos de personalidad jurídica y manejarán su patrimonio conforme a la ley, ejercerán sus atribuciones conforme a las siguientes bases:"
+    },
+    {
+      "id": "082.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › párrafo 2",
+      "texto": "Tendrán facultades para aprobar, de acuerdo con la Ley, los Bandos de Policía y Gobierno, los Reglamentos, Circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal."
+    },
+    {
+      "id": "082.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › párrafo 3",
+      "texto": "La ley establecerá las bases generales contenidas en el tercer párrafo de la fracción II del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos."
+    }
+  ]
+}

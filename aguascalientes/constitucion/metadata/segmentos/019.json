@@ -1,0 +1,63 @@
+{
+  "clave": "019",
+  "etiqueta": "Artículo 19º",
+  "titulo": "",
+  "capitulo": "CAPITULO SEXTO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "019.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19º › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 18 DE JUNIO DE 1978)"
+    },
+    {
+      "id": "019.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19º › párrafo 2",
+      "texto": "Para ser Diputado se requiere:"
+    },
+    {
+      "id": "019.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19º › párrafo 3",
+      "texto": "(REFORMADA, P.O. 13 DE AGOSTO DE 1950)"
+    },
+    {
+      "id": "019.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19º › Fracción I",
+      "texto": "I.- Ser ciudadano mexicano, por nacimiento, en ejercicio de sus derechos.\n\n(REFORMADA, P.O. 18 DE JULIO DE 2022)"
+    },
+    {
+      "id": "019.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19º › Fracción II",
+      "texto": "II.- Tener dieciocho años cumplidos el día de la elección;\n\n(REFORMADA, P.O. 24 DE JULIO DE 1994)"
+    },
+    {
+      "id": "019.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19º › Fracción III",
+      "texto": "III.- Haber nacido en el Estado o tener una residencia efectiva en él, no menor de cuatro años inmediatamente anteriores al día de la elección."
+    }
+  ]
+}

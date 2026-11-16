@@ -1,0 +1,369 @@
+{
+  "clave": "071",
+  "etiqueta": "Artículo 71",
+  "titulo": "",
+  "capitulo": "CAPÍTULO XV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "071.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › párrafo 1",
+      "texto": "Son atribuciones de la Gobernadora o el Gobernador:"
+    },
+    {
+      "id": "071.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción I",
+      "texto": "I. Cuidar de la seguridad del Estado y de la de sus habitantes, protegiéndolos en el ejercicio de sus derechos;"
+    },
+    {
+      "id": "071.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción II",
+      "texto": "II. Se deroga;"
+    },
+    {
+      "id": "071.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción III",
+      "texto": "III. Se deroga;"
+    },
+    {
+      "id": "071.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción IV",
+      "texto": "IV. Se deroga;"
+    },
+    {
+      "id": "071.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción V",
+      "texto": "V. Facilitar al Poder Judicial los auxilios que necesite para el ejercicio expedito de sus funciones;"
+    },
+    {
+      "id": "071.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción VI",
+      "texto": "VI. Nombrar y remover libremente a los funcionarios y al personal que formen parte del Poder Ejecutivo, observando el principio de paridad de género;"
+    },
+    {
+      "id": "071.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción VII",
+      "texto": "VII. Exigir el mejor cumplimiento de sus deberes a todas las autoridades administrativas del Estado, aplicando las penas a que se hagan acreedoras, en los términos que prevengan las Leyes o Decretos especiales;"
+    },
+    {
+      "id": "071.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción VIII",
+      "texto": "VIII. Decretar la expropiación por causas de utilidad pública, en la forma que determinen las leyes;"
+    },
+    {
+      "id": "071.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción IX",
+      "texto": "IX. Dirigir como Jefe de la Hacienda Pública la administración de ella; cuidar de que los caudales públicos estén siempre bien asegurados, se recauden e inviertan con arreglo a las leyes, ordenando al efecto la práctica de visitas a las oficinas rentísticas del Estado, para corregir los males e irregularidades que se notaren;"
+    },
+    {
+      "id": "071.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción X",
+      "texto": "X. Publicar en el Periódico Oficial los Balances correspondientes de la Hacienda Pública del Estado, de acuerdo con lo dispuesto en la Ley o Reglamento respectivo;"
+    },
+    {
+      "id": "071.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XI",
+      "texto": "XI. Impedir los abusos de la fuerza pública contra los ciudadanos y los pueblos, haciendo efectiva la responsabilidad en que ella incurriere;"
+    },
+    {
+      "id": "071.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XII",
+      "texto": "XII. Excitar a los Ayuntamientos, Presidentes Municipales y de Sección y Comisarios, cuando lo estime conveniente, para el mejoramiento de los ramos de la Administración Municipal;"
+    },
+    {
+      "id": "071.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XIII",
+      "texto": "XIII. Visitar los municipios del Estado, para conocer sus necesidades, remediar sus males y promover sus mejoras;"
+    },
+    {
+      "id": "071.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XIV",
+      "texto": "XIV. Pedir autorización al Congreso y en su receso a la Diputación Permanente para salir del territorio del Estado por más de 60 días;"
+    },
+    {
+      "id": "071.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XV",
+      "texto": "XV. Por sí o a través del titular de la dependencia de la Administración Pública Estatal o del apoderado que designe al efecto, conforme a la correspondiente ley orgánica, representar al Estado en:"
+    },
+    {
+      "id": "071.XV.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "XV",
+      "ruta": "Artículo 71 › Fracción XV › inciso a)",
+      "texto": "a) Toda clase de actos y negocios jurídicos, ya sean administrativos o judiciales, ante tribunales del fuero común o del fuero federal, celebrando los contratos, convenios y acuerdos que sean necesarios; formulando denuncias, querellas, demandas, contestación de demandas o cualesquiera otro tipo de promociones o solicitudes; y"
+    },
+    {
+      "id": "071.XV.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "XV",
+      "ruta": "Artículo 71 › Fracción XV › inciso b)",
+      "texto": "b) Su participación en empresas industriales, agrícolas y mercantiles con el fin de impulsar la productividad y el desarrollo estatal;"
+    },
+    {
+      "id": "071.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XVI",
+      "texto": "XVI. Realizar actos traslativos de dominio respecto de los bienes que según las leyes pertenezcan al Estado, conforme a la Ley prevista en la fracción XXVIII del Artículo 54 de esta Constitución;"
+    },
+    {
+      "id": "071.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XVII",
+      "texto": "XVII. Otorgar el Fíat para el ejercicio de la función Notarial;"
+    },
+    {
+      "id": "071.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XVIII",
+      "texto": "XVIII. Promulgar, publicar y ejecutar las leyes y decretos que expida el Congreso del Estado, con la única salvedad prevista en la fracción IX del artículo 54 de esta Constitución;"
+    },
+    {
+      "id": "071.XIX",
+      "tipo": "fraccion",
+      "marca": "XIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XIX",
+      "texto": "XIX. Dar órdenes y expedir reglamentos para el mejor cumplimiento de esta Constitución y de las leyes;"
+    },
+    {
+      "id": "071.XX",
+      "tipo": "fraccion",
+      "marca": "XX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XX",
+      "texto": "XX. Pedir al Congreso la prórroga de sus sesiones ordinarias, cuando lo juzgue necesario para el servicio público;"
+    },
+    {
+      "id": "071.XXI",
+      "tipo": "fraccion",
+      "marca": "XXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XXI",
+      "texto": "XXI. Presidir todas las reuniones oficiales a que concurra en el Estado, a excepción de las del Congreso y Tribunal Superior de Justicia;"
+    },
+    {
+      "id": "071.XXII",
+      "tipo": "fraccion",
+      "marca": "XXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XXII",
+      "texto": "XXII. Pedir la protección de los Poderes de la Unión en caso de sublevación o trastorno interior;"
+    },
+    {
+      "id": "071.XXIII",
+      "tipo": "fraccion",
+      "marca": "XXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XXIII",
+      "texto": "XXIII. Las atribuciones en lo referente a Guardia Nacional y fuerza pública que confieren a los Estados de la Federación la Constitución General y las leyes relativas;"
+    },
+    {
+      "id": "071.XXIV",
+      "tipo": "fraccion",
+      "marca": "XXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XXIV",
+      "texto": "XXIV. Otorgar permisos, licencias, concesiones y autorizaciones de acuerdo con las leyes relativas;"
+    },
+    {
+      "id": "071.XXV",
+      "tipo": "fraccion",
+      "marca": "XXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XXV",
+      "texto": "XXV. Formular el Programa Anual de Gobierno, mediante una adecuada planificación y aprovechamiento de los recursos naturales del Estado a fin de promover el desarrollo social, económico, industrial, turístico y agropecuario de la entidad;"
+    },
+    {
+      "id": "071.XXVI",
+      "tipo": "fraccion",
+      "marca": "XXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XXVI",
+      "texto": "XXVI. Fomentar la organización de instituciones de utilidad social para infundir o inculcar la previsión popular;"
+    },
+    {
+      "id": "071.XXVII",
+      "tipo": "fraccion",
+      "marca": "XXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XXVII",
+      "texto": "XXVII. Crear organismos descentralizados o desconcentrados del Estado, tendientes al fomento, desarrollo y explotación de los recursos de la entidad, con un sentido social;"
+    },
+    {
+      "id": "071.XXVIII",
+      "tipo": "fraccion",
+      "marca": "XXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XXVIII",
+      "texto": "XXVIII. Coordinar las inversiones públicas estatal y municipal para los efectos de las tres fracciones anteriores y propiciar su armonización con los programas del Gobierno Federal;"
+    },
+    {
+      "id": "071.XXIX",
+      "tipo": "fraccion",
+      "marca": "XXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XXIX",
+      "texto": "XXIX. Promover la inversión de todos los sectores de acuerdo con el programa de Gobierno, con sentido social que genere empleos y propicie el desarrollo económico;"
+    },
+    {
+      "id": "071.XXX",
+      "tipo": "fraccion",
+      "marca": "XXX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XXX",
+      "texto": "XXX. Conceder, conforme a las leyes, indulto, remisión o conmutación de penas impuestas por los Tribunales del Estado; y"
+    },
+    {
+      "id": "071.XXXI",
+      "tipo": "fraccion",
+      "marca": "XXXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XXXI",
+      "texto": "XXXI. Previa autorización del H. Congreso del Estado, contratar obligaciones o empréstitos, siempre que los recursos correspondientes se destinen a inversiones públicas productivas conforme a las bases que establezca el Congreso del Estado en la ley respectiva."
+    },
+    {
+      "id": "071.XXXII",
+      "tipo": "fraccion",
+      "marca": "XXXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XXXII",
+      "texto": "XXXII. Constituir al Estado, previa autorización del H. Congreso, en garante, avalista, deudor solidario, subsidiario o sustituto en los casos previstos en las leyes respectivas;"
+    },
+    {
+      "id": "071.XXXIII",
+      "tipo": "fraccion",
+      "marca": "XXXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XXXIII",
+      "texto": "XXXIII. Previa autorización del H. Congreso, celebrar contratos de asociación público privada conforme a las bases que establezca el Congreso del Estado en la ley aplicable;"
+    },
+    {
+      "id": "071.XXXIV",
+      "tipo": "fraccion",
+      "marca": "XXXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XXXIV",
+      "texto": "XXXIV. Previa autorización del H. Congreso del Estado, afectar como fuente o garantía de pago, o en cualquier otra forma, los ingresos del Estado o, en su caso, los derechos al cobro derivados de los mismos, respecto del cumplimiento de todo tipo de obligaciones o empréstitos, contratos de asociación público privada o de cualesquier otros actos jurídicos relacionados con los mismos;"
+    },
+    {
+      "id": "071.XXXV",
+      "tipo": "fraccion",
+      "marca": "XXXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XXXV",
+      "texto": "XXXV. Presentar anualmente al H. Congreso del Estado, dentro del plazo previsto en el primer párrafo del Artículo 57 bis de esta Constitución, para su examen, discusión y aprobación, las iniciativas de Ley de Ingresos y de Ley de Presupuesto de Egresos del Estado para el ejercicio fiscal siguiente.\n\nEl Ejecutivo Estatal deberá incluir anualmente, dentro de la iniciativa de Ley de Presupuesto de Egresos del Estado, la o las partidas presupuestales necesarias y suficientes para cubrir el pago de obligaciones a cargo del Estado, las dependencias estatales y las entidades de la administración pública paraestatal, derivadas de empréstitos y de contratos de asociación público privada, las cuales tendrán la calidad de preferentes;"
+    },
+    {
+      "id": "071.XXXVI",
+      "tipo": "fraccion",
+      "marca": "XXXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XXXVI",
+      "texto": "XXXVI. Informar anualmente al H. Congreso del Estado sobre el ejercicio de las partidas correspondientes a los montos y conceptos de endeudamiento autorizado y la situación de la deuda pública estatal, al rendir la cuenta pública, e incluir información detallada sobre los contratos de asociación público privada en vigor y, en su caso, sobre la afectación de ingresos como fuente o garantía de pago, o en cualquier otra forma, en términos de las leyes aplicables;"
+    },
+    {
+      "id": "071.XXXVII",
+      "tipo": "fraccion",
+      "marca": "XXXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › Fracción XXXVII",
+      "texto": "XXXVII. Todas las demás atribuciones y obligaciones que se le confieren por la Constitución Federal, por esta Constitución y por las leyes que de ellas emanen.\n\nNota: Se reformó la fracción XXVI mediante decreto No. 188 de la XLVII Legislatura, publicado en el P. O. del Gobierno del Estado No. 1870, Segunda Sección de fecha 5 de enero de 1974.\n\nNota: Se reformaron las fracciones VI, XV, XXIV, XXV y XXVI y se adicionaron las fracciones XXVII, XXVIII, XXIX, XXX y XXXI mediante decreto No. 145 de la XLIX Legislatura, publicado en el P. O. del Gobierno del Estado No. 2712 de fecha 25 de septiembre de 1979.\n\nNota: Se reformó la fracción XVIII mediante decreto No. 264 de la LIII Legislatura, publicado en el P. O. del Gobierno del Estado No. 133 de fecha 1 abril de 1992.\n\nNota: Se reformaron su primer párrafo y las fracciones XV y XXIV mediante decreto No. 266 de la LV Legislatura, publicado en el P. O. del Gobierno del Estado No. 1368 de fecha 24 de marzo de 1997.\n\nNota: Se reformó la fracción XVI mediante decreto No. 136 de la LIX Legislatura, publicado en el P. O. No. 3981, Segunda Sección de fecha 15 de febrero de 2008.\n\nNota: Fe de erratas publicada en el P. O. No. 3982, Tercera Sección de fecha 18 de febrero de 2008.\n\nNota: Se reformó la fracción XXXI y se adicionaron las fracciones XXXII a XXXVII mediante decreto No. 128 de la LX Legislatura, publicado en el P. O. No. 4770 de fecha 8 de junio de 2011.\n\nNota: Se reformaron las fracciones II y VI mediante decreto No. 251 de la LX Legislatura, publicado en el P. O. No. 5077 de fecha 13 de septiembre de 2012.\n\nNota: Se reformó la fracción III mediante decreto No. 162 de la LXII Legislatura, publicado en el P. O. No. 0466 segunda Sección de fecha 27 de junio de 2017.\n\nNota: Se reformaron las fracciones XXXIII y XXXIV, el párrafo segundo de la fracción XXXV y la fracción XXXVI mediante decreto No. 166 de la LXIII Legislatura, publicado en el P. O. No. 1313 segunda Sección de fecha 1° de diciembre de 2020.\n\nNota: Se reformaron las fracciones II y VI mediante decreto 167 de la LXIII Legislatura, publicado en el P.O. No. 1345 tercera Sección de fecha 18 de enero de 2021.\n\nNota: Se derogaron las fracciones II, III y IV mediante decreto No. 13 de la LXV Legislatura, publicado en el P.O. del Gobierno del Estado No. 2285 Cuarta Sección de fecha 5 de noviembre de 2024."
+    }
+  ]
+}

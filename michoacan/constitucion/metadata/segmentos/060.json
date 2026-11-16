@@ -1,0 +1,252 @@
+{
+  "clave": "060",
+  "etiqueta": "Artículo 60",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "060.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › párrafo 1",
+      "texto": "(REFORMADA SU DENOMINACIÓN, P.O. 8 DE OCTUBRE DE 2025)"
+    },
+    {
+      "id": "060.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › párrafo 2",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 8 DE OCTUBRE DE 2025)"
+    },
+    {
+      "id": "060.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › párrafo 3",
+      "texto": "Las facultades y obligaciones de la Gobernadora o Gobernador son:"
+    },
+    {
+      "id": "060.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › párrafo 4",
+      "texto": "(REFORMADA, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "060.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción I",
+      "texto": "I.- Promulgar y ejecutar las leyes y decretos que expida el Congreso del Estado, y proveer en la esfera administrativa a su exacta observancia;\n\n(REFORMADA, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "060.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción II",
+      "texto": "II.- Poner a la disposición del Poder Judicial los medios necesarios para el ejercicio expedito de sus funciones;\n\n(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2024)"
+    },
+    {
+      "id": "060.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción III",
+      "texto": "III. Designar al integrante del Órgano de Administración del Poder Judicial que le compete;\n\n(ADICIONADA, P.O. 13 DE NOVIEMBRE DE 2024)\n\nIII Bis. Designar a los integrantes del Comité de Evaluación a que hace referencia el artículo 69 de esta Constitución;\n\n(REFORMADA, P.O. 16 DE MARZO DE 1998)"
+    },
+    {
+      "id": "060.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción IV",
+      "texto": "IV.- Fomentar el turismo y promover el desarrollo agrícola, industrial y comercial de Michoacán;\n\n(REFORMADA, P.O. 16 DE MARZO DE 1998)"
+    },
+    {
+      "id": "060.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción V",
+      "texto": "V.- Iniciar ante el Congreso leyes y decretos que tiendan al mejoramiento de la administración pública;\n\n(REFORMADA, P.O. 16 DE MARZO DE 1998)"
+    },
+    {
+      "id": "060.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción VI",
+      "texto": "VI.- Expedir los reglamentos interiores de las oficinas a su cargo;\n\n(REFORMADA, P.O. 16 DE MARZO DE 1998)"
+    },
+    {
+      "id": "060.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción VII",
+      "texto": "VII.- Cuidar de la recaudación y de la inversión de los caudales del Estado, con arreglo a las leyes;\n\n(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)"
+    },
+    {
+      "id": "060.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción VIII",
+      "texto": "VIII.- Presentar cada año al Congreso, a más tardar el treinta de abril, la Cuenta Pública de la Hacienda Estatal correspondiente al ejercicio fiscal próximo anterior, sólo se podrá ampliar el plazo de presentación hasta por treinta días naturales cuando medie solicitud de la persona Titular del Ejecutivo del Estado, suficientemente justificada a juicio del Congreso; y a más tardar el veintiuno de noviembre las iniciativas de Ley de Ingresos y de Presupuesto de Egresos para el año siguiente;\n\n(REFORMADA, P.O. 7 DE MARZO DE 2003)"
+    },
+    {
+      "id": "060.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción IX",
+      "texto": "IX.- Dar informes al Congreso cuando le fueren pedidos, sobre cualquier ramo de la administración pública, por sí o a través de los titulares de las dependencias básicas;\n\n(REFORMADA, P.O. 13 DE AGOSTO DE 2018)"
+    },
+    {
+      "id": "060.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción X",
+      "texto": "X.- Presentar al Congreso del Estado, un informe por escrito, dentro del período comprendido entre el día 15 y 30 de septiembre de cada año, en el que manifieste el estado general que guarde la Administración Pública del Estado y señale con precisión, el ejercicio del presupuesto y su vinculación con el Plan Estatal de Desarrollo, estableciendo en su caso las incidencias por las que éste se hubiese modificado y proponiendo los medios para mejorarla.\n\n(DEROGADO SEGUNDO PÁRRAFO, P.O. 13 DE AGOSTO DE 2018)\n\n(REFORMADA, P.O. 16 DE MARZO DE 1998)"
+    },
+    {
+      "id": "060.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción XI",
+      "texto": "XI.- Instruir a la Guardia Nacional, de acuerdo con los reglamentos que expida el Congreso de la Unión;\n\n(REFORMADA, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "060.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción XII",
+      "texto": "XII.- Supervisar la formación e instrucción de las fuerzas de seguridad pública del Estado y apoyar, en su caso, a los cuerpos de seguridad pública municipal, policía preventiva y tránsito municipales.\n\n(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)\n\nLa policía preventiva municipal, acatará las órdenes que la Gobernadora o Gobernador del Estado le transmita en aquellos casos que éste juzgue como de fuerza mayor o alteración grave del orden público;\n\n(REFORMADA, P.O. 16 DE MARZO DE 1998)"
+    },
+    {
+      "id": "060.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción XIII",
+      "texto": "XIII.- Disponer de las fuerzas de seguridad y de la Guardia Nacional, y ordenar que pase ésta a otros Estados, en los términos que establezca la Constitución Federal;\n\n(REFORMADA, P.O. 20 DE ENERO DE 2020)"
+    },
+    {
+      "id": "060.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción XIV",
+      "texto": "XIV.- Nombrar y remover a los funcionarios y empleados de la administración pública estatal cuyo nombramiento y remoción no estén determinados de otro modo en esta Constitución o en las leyes, observando el principio de paridad de género.\n\n(REFORMADA, P.O. 16 DE MARZO DE 1998)"
+    },
+    {
+      "id": "060.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción XV",
+      "texto": "XV.- Aplicar sanciones por las infracciones de los reglamentos gubernativos y de policía, las que únicamente consistirán en multa o arresto hasta por treinta y seis horas. Pero si el infractor no pagare la multa que se le hubiese impuesto, se permutará ésta por el arresto correspondiente, que no excederá en ningún caso de treinta y seis horas.\n\nSi el infractor fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día.\n\nTratándose de trabajadores no asalariados, la multa no excederá del equivalente a un día de su ingreso;\n\n(REFORMADA, P.O. 13 DE AGOSTO DE 2018)"
+    },
+    {
+      "id": "060.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción XVI",
+      "texto": "XVI.- Presentar terna al Congreso del Estado, para la elección del Fiscal General del Estado;"
+    },
+    {
+      "id": "060.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción XVII",
+      "texto": "XVII.- (DEROGADA, P.O. 13 DE AGOSTO DE 2018) (REFORMADA, P.O. 16 DE MARZO DE 1998)"
+    },
+    {
+      "id": "060.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción XVIII",
+      "texto": "XVIII.- Visitar los municipios del Estado para imponerse de sus necesidades, y proponer al Congreso los medios para remediarlas;\n\n(REFORMADA, P.O. 16 DE MARZO DE 1998)"
+    },
+    {
+      "id": "060.XIX",
+      "tipo": "fraccion",
+      "marca": "XIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción XIX",
+      "texto": "XIX.- Cuidar de la conservación de los ejidos, tierras y aguas comunales, en los términos de la ley;\n\n(REFORMADA, P.O. 8 DE NOVIEMBRE DEL 2000)"
+    },
+    {
+      "id": "060.XX",
+      "tipo": "fraccion",
+      "marca": "XX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción XX",
+      "texto": "XX.- Promover el fraccionamiento de los latifundios y la formación de la pequeña propiedad;\n\n(REFORMADA, P.O. 2 DE DICIEMBRE DE 2021)"
+    },
+    {
+      "id": "060.XXI",
+      "tipo": "fraccion",
+      "marca": "XXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción XXI",
+      "texto": "XXI.- Consultar a los ciudadanos, a través de plebiscito, sobre actos o decisiones, cuando lo considere trascendental para la vida pública y el interés social del Estado, conforme a los procedimientos y formalidades que establezca la Ley de la materia. No podrán someterse a plebiscito, los actos o decisiones relativos a materia tributaria o Fiscal, de Egresos, régimen interno de la Administración Pública del Estado y los demás que determine la Ley;\n\n(REFORMADA [N. DE E. ADICIONADA], P.O. 2 DE DICIEMBRE DE 2021)"
+    },
+    {
+      "id": "060.XXII",
+      "tipo": "fraccion",
+      "marca": "XXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción XXII",
+      "texto": "XXII.- Presentar terna al Congreso del Estado, para la elección del titular del Centro de Conciliación Laboral del Estado de Michoacán de Ocampo; y, (ADICIONADA [N. DE E. REUBICADA], P.O. 2 DE DICIEMBRE DE 2021)"
+    },
+    {
+      "id": "060.XXIII",
+      "tipo": "fraccion",
+      "marca": "XXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción XXIII",
+      "texto": "XXIII.- Todas las demás atribuciones que le confieran la Constitución Federal, la del Estado y las leyes que de ellas emanen."
+    }
+  ]
+}

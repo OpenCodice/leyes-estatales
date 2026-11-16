@@ -1,0 +1,72 @@
+{
+  "clave": "021",
+  "etiqueta": "Artículo 21",
+  "titulo": "Título Segundo",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "021.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 1",
+      "texto": "En las ausencias o faltas del Gobernador del Estado, se observarán las siguientes reglas:"
+    },
+    {
+      "id": "021.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción I",
+      "texto": "I. Podrá ausentarse del Territorio Nacional, con previo aviso sobre su destino, a la Legislatura del Estado; cuando su ausencia exceda los treinta días, le solicitará autorización;"
+    },
+    {
+      "id": "021.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción II",
+      "texto": "II. En las ausencias que excedan los treinta días, la suplencia la hará el Secretario de Gobierno;"
+    },
+    {
+      "id": "021.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción III",
+      "texto": "III. Si la falta temporal excede a los noventa días, la Legislatura designará Gobernador Provisional;"
+    },
+    {
+      "id": "021.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción IV",
+      "texto": "IV. Si la falta es absoluta y ocurre durante los tres primeros años del período constitucional, la Legislatura elegirá Gobernador Interino y se convocará para la elección de Gobernador quien concluirá el período;"
+    },
+    {
+      "id": "021.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción V",
+      "texto": "V. Cuando la falta absoluta ocurriera en los últimos tres años del período respectivo, la Legislatura elegirá Gobernador Sustituto, quien habrá de concluir el período; y"
+    },
+    {
+      "id": "021.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción VI",
+      "texto": "VI. Si al iniciar el período constitucional no se presentara el Gobernador electo o la elección no estuviera hecha o declarada, cesarán las funciones del Gobernador cuyo período haya concluido y se elegirá al Gobernador Interino, procediéndose conforme a la fracción IV de este artículo."
+    }
+  ]
+}

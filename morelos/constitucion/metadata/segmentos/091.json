@@ -1,0 +1,27 @@
+{
+  "clave": "091",
+  "etiqueta": "Artículo 91",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "091.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 1",
+      "texto": "Las personas Titulares de las Magistraturas del Tribunal Superior de Justicia integrarán el pleno del mismo y estará facultado para expedir acuerdos generales tendientes a lograr una adecuada distribución entre las salas de los asuntos de la competencia del propio Tribunal."
+    },
+    {
+      "id": "091.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 2",
+      "texto": "En caso de excusa, recusación y ausencias de hasta treinta días de las personas Titulares de las Magistraturas se estará a lo dispuesto por la Ley."
+    }
+  ]
+}

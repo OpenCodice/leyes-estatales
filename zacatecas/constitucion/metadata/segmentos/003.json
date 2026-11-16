@@ -1,0 +1,36 @@
+{
+  "clave": "003",
+  "etiqueta": "Artículo 3",
+  "titulo": "TÍTULO I",
+  "capitulo": "CAPÍTULO PRIMERO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "003.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 1",
+      "texto": "La Constitución Política de los Estados Unidos Mexicanos, esta Constitución, y las leyes que de ellas emanen, integran el orden jurídico a que están sujetas las personas gobernantes y las personas gobernadas."
+    },
+    {
+      "id": "003.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 2",
+      "texto": "Párrafo reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "003.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 3",
+      "texto": "Todas las personas que ejercen funciones de autoridad sólo deben hacer lo que el orden jurídico les autoriza. Los particulares pueden hacer lo que está permitido por la ley y no está prohibido por ella. Unos y otros están obligados a cumplir lo que las leyes ordenan."
+    }
+  ]
+}

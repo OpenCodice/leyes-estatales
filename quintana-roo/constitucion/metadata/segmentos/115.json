@@ -1,0 +1,36 @@
+{
+  "clave": "115",
+  "etiqueta": "Artículo 115",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "115.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 115 › párrafo 1",
+      "texto": "La hacienda pública del Estado está constituida por:"
+    },
+    {
+      "id": "115.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 115 › Fracción I",
+      "texto": "I.- Los ingresos determinados en su Ley de Ingresos, y demás normas aplicables, y"
+    },
+    {
+      "id": "115.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 115 › Fracción II",
+      "texto": "II.- Los ingresos adquiridos por concepto de subsidios, participaciones, legados, donaciones o cualesquiera otras causas.\n\nArtículo original POE 12-01-1975"
+    }
+  ]
+}

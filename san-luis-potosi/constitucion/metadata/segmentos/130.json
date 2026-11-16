@@ -1,0 +1,27 @@
+{
+  "clave": "130",
+  "etiqueta": "Artículo 130",
+  "titulo": "TÍTULO DECIMOTERCERO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "130.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 130 › párrafo 1",
+      "texto": "El procedimiento de juicio político sólo podrá iniciarse durante el período en que el servidor público desempeñe su cargo y dentro del año siguiente."
+    },
+    {
+      "id": "130.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 130 › párrafo 2",
+      "texto": "Las sanciones correspondientes se aplicarán en un período no mayor de tres meses a partir del inicio del procedimiento."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "clave": "123",
+  "etiqueta": "Artículo 123",
+  "titulo": "TÍTULO DECIMOSEGUNDO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "123.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 1",
+      "texto": "La justicia administrativa se deposita en el Tribunal Estatal de Justicia Administrativa, que conocerá y resolverá las controversias de carácter administrativo y fiscal que se susciten entre la administración pública estatal o municipal y sus organismos descentralizados, estatales y municipales e intermunicipales y los particulares, dotado de plena jurisdicción y autonomía para dictar sus fallos, con competencia en todo el territorio estatal. La ley establecerá su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones."
+    },
+    {
+      "id": "123.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 2",
+      "texto": "El Tribunal Estatal de Justicia Administrativa es el órgano competente para imponer las sanciones a los servidores públicos locales y municipales por las responsabilidades administrativas que la ley determine como graves, y a los particulares que incurran en actos vinculados con faltas administrativas graves, así como fincar a los responsables, el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la hacienda pública Estatal o municipal, o al patrimonio de los entes públicos estatales o municipales."
+    },
+    {
+      "id": "123.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 3",
+      "texto": "(ADICIONADO P.O. EL 19 DICIEMBRE DE 2024) Las personas Magistradas del Tribunal Estatal de Justicia Administrativa deberán reunir los requisitos establecidos en el artículo 92 de esta Constitución, con excepción del voto ciudadano, debiendo además contar con experiencia en materia administrativa y fiscal."
+    },
+    {
+      "id": "123.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 4",
+      "texto": "(ADICIONADO P.O. EL 19 DICIEMBRE DE 2024) Las referidas magistraturas serán designadas discrecionalmente por el Congreso del Estado. Para su elección, el Gobernador propondrá́ al Congreso, al triple de personas respecto del número de cargos por cubrir, dentro de los cuales la Legislatura hará́ la elección respectiva en el término de treinta días, considerando que las personas que cubran los cargos, cuenten con los conocimientos técnicos jurídicos y experiencia necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica. Si vencido ese plazo no se hubiera hecho la elección, el titular del Ejecutivo procederá́ a hacer el nombramiento."
+    },
+    {
+      "id": "123.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 5",
+      "texto": "(ADICIONADO EN EL P.O. EL 19 DICIEMBRE DE 2024) En caso de que el Congreso rechace la propuesta, el Gobernador del Estado presentará una nueva en los términos del párrafo anterior; si esta segunda propuesta fuera rechazada, ocupará el cargo la persona que, dentro de la misma, designe el Gobernador del Estado."
+    },
+    {
+      "id": "123.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 6",
+      "texto": "(ADICIONADO EN EL P.O. EL 19 DICIEMBRE DE 2024) Cuando cese o concluya el ejercicio de una magistratura por cualquier causa, el Ejecutivo presentará al Congreso las respectivas propuestas."
+    },
+    {
+      "id": "123.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 7",
+      "texto": "(ADICIONADO P.O. EL 19 DICIEMBRE 2024) Para la integración de las magistraturas se observará el principio de paridad de género."
+    },
+    {
+      "id": "123.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 8",
+      "texto": "(ADICIONADO P.O. EL19 DICIEMBRE 2024) Las personas Magistradas durarán en su cargo diez años y no podrán ser ratificadas; solo podrán ser removidos de sus cargos por las causas graves que señale la ley, con la misma votación requerida para su nombramiento."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "168",
+  "etiqueta": "Artículo 168",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "168.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 168 › párrafo 1",
+      "texto": "Para el nombramiento de la Defensora o Defensor General, la presidencia del Órgano de Administración Judicial presentará al Pleno de dicho cuerpo colegiado una terna de personas con licenciatura en derecho, de reconocida capacidad, ética y profesionalismo, observando lo siguiente:"
+    },
+    {
+      "id": "168.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 168 › Fracción I",
+      "texto": "I. Una vez verificados los requisitos de elegibilidad de las personas candidatas a Defensora o Defensor General, el Pleno del Órgano de Administración Judicial citará a comparecer a las personas propuestas y procederá a aprobar o rechazar el nombramiento dentro del término improrrogable de diez días hábiles;"
+    },
+    {
+      "id": "168.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 168 › Fracción II",
+      "texto": "II. Será designada Defensora o Defensor General la persona que obtenga el voto aprobatorio de al menos tres personas integrantes del Pleno del Órgano de Administración Judicial, y"
+    },
+    {
+      "id": "168.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 168 › Fracción III",
+      "texto": "III. Si ninguna de las personas propuestas obtiene la votación señalada en la fracción anterior, la terna será rechazada. En este caso, la presidencia del Órgano de Administración Judicial presentará una nueva terna y, de ser rechazada nuevamente, la presidencia hará el nombramiento de manera directa en favor de una persona distinta a las incluidas en las ternas rechazadas.\n\nLa Defensora o Defensor General durará en su encargo cuatro años y podrá ser ratificada por un periodo igual improrrogable.\n\nLas personas visitadoras, defensoras públicas, asesoras jurídicas y demás personal jurídico y administrativo serán nombradas conforme a lo establecido en la Ley Orgánica del Poder Judicial del Estado, el estatuto correspondiente y los reglamentos aplicables."
+    }
+  ]
+}

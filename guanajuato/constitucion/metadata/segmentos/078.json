@@ -1,0 +1,54 @@
+{
+  "clave": "078",
+  "etiqueta": "Artículo 78",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "078.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 30 DE MAYO DE 2023)"
+    },
+    {
+      "id": "078.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › párrafo 2",
+      "texto": "El Gobernador del Estado enviará al Congreso del Estado un informe por escrito en el cual exponga la situación que guarda la Administración Pública del Estado, el primer jueves de marzo, con excepción de los años en los que se realice la renovación de las personas titulares del Poder Ejecutivo federal y del Poder Ejecutivo del Estado, cuando se efectúe un proceso de revocación de mandato o de consulta popular u otro mecanismo de participación ciudadana análogo, de conformidad con los artículos 35 y 41 en la Constitución Política de los Estados Unidos Mexicanos, Base III, Apartado C y esta Constitución, casos en los cuales, lo enviará el 16 de febrero."
+    },
+    {
+      "id": "078.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › párrafo 3",
+      "texto": "Los grupos y representaciones parlamentarias que integren el Congreso del Estado, durante el análisis del informe, fijarán su postura en los términos de la legislación correspondiente."
+    },
+    {
+      "id": "078.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › párrafo 4",
+      "texto": "(REFORMADO, P.O. 14 DE JULIO DE 2017)"
+    },
+    {
+      "id": "078.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › párrafo 5",
+      "texto": "El Congreso del Estado, a efecto de ampliar la información, podrá solicitar la comparecencia de los secretarios de estado, así como de los directores de las entidades paraestatales."
+    }
+  ]
+}

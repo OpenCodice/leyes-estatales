@@ -1,0 +1,36 @@
+{
+  "clave": "019-bis",
+  "etiqueta": "Artículo 19 Bis",
+  "titulo": "",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "019-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 Bis › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 20 DE JUNIO DE 2019)"
+    },
+    {
+      "id": "019-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 Bis › párrafo 2",
+      "texto": "Las niñas, niños y adolescentes gozarán de todos los derechos humanos, las autoridades velarán por el pleno ejercicio de estos y garantizarán su adecuada protección, atendiendo al principio rector del interés superior de la niñez, con especial énfasis en la primera infancia, la que comprende el rango de edad de la o el niño que transcurre desde su nacimiento, su primer año de vida y la transición de estos del período preescolar hacia el período escolar."
+    },
+    {
+      "id": "019-bis.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 Bis › párrafo 3",
+      "texto": "Los ascendientes, tutores y custodios tienen la obligación de preservar y exigir el cumplimiento de los derechos de la niñez; el Estado coadyuvará otorgando facilidades para dar cumplimiento a esos derechos, e implementará medidas especiales que garanticen, a las y los niños en primera infancia, condiciones adecuadas de salud, seguridad, nutrición, higiene, educación, saneamiento ambiental, acceso al agua potable, cuidado y protección para su óptimo desarrollo."
+    }
+  ]
+}

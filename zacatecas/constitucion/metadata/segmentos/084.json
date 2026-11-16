@@ -1,0 +1,36 @@
+{
+  "clave": "084",
+  "etiqueta": "Artículo 84",
+  "titulo": "TÍTULO IV",
+  "capitulo": "CAPÍTULO SEGUNDO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "084.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › párrafo 1",
+      "texto": "La Gobernadora o el Gobernador del Estado se auxiliará de las dependencias y entidades que prevea la Ley Orgánica de la Administración Pública, para el despacho de los asuntos de su competencia."
+    },
+    {
+      "id": "084.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › párrafo 2",
+      "texto": "Párrafo reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "084.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › párrafo 3",
+      "texto": "La ley distribuirá los asuntos del Ejecutivo del Estado, que estarán a cargo de la administración centralizada, al (sic) través de las Secretarías y unidades correspondientes, y de las entidades paraestatales, conforme a las bases de su creación."
+    }
+  ]
+}

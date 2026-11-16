@@ -1,0 +1,25 @@
+{
+  "clave": "036",
+  "etiqueta": "Artículo 36",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DO 21-04-2023",
+      "fechas": [
+        "2023-04-21"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "036.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › párrafo 1",
+      "texto": "Las iniciativas presentadas por las Autoridades a que se refieren las fracciones II a V del artículo anterior, y las que presenten las y los ciudadanos conforme a la ley, pasarán a las Comisiones que correspondan, salvo que se otorgue la respectiva dispensa en los términos de Ley. Las que presenten los Diputados se sujetarán necesariamente a los trámites que dispongan las leyes."
+    }
+  ]
+}

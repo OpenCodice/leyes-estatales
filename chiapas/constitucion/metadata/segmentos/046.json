@@ -1,0 +1,63 @@
+{
+  "clave": "046",
+  "etiqueta": "Artículo 46",
+  "titulo": "Título Quinto",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "046.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › párrafo 1",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NÚMERO 353, DE FECHA 02 DE MARZO DE 2018, DECRETO 170)"
+    },
+    {
+      "id": "046.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › párrafo 2",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P. O. NÚM. 346, 2ª. SECCIÓN, DE FECHA 31 DE ENERO DE 2018)"
+    },
+    {
+      "id": "046.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › párrafo 3",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NUM. 064 DE FECHA 23 DE OCTUBRE DE 2019)"
+    },
+    {
+      "id": "046.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › párrafo 4",
+      "texto": "Entre el 1 y el 15 de diciembre de cada año, el Gobernador del Estado presentará al Congreso del Estado, en sesión solemne, un informe por escrito acerca de la situación que guarden los diversos ramos de la Administración Pública Estatal, pudiendo presentarlo de manera personal. Una vez entregado, quien ocupe la Presidencia del Congreso, declarará recibido dicho informe, que será analizado en sesiones posteriores."
+    },
+    {
+      "id": "046.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › párrafo 5",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NÚMERO 341, DE FECHA 10 DE ABRIL DE 2024, DECRETO 301)"
+    },
+    {
+      "id": "046.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › párrafo 6",
+      "texto": "En el último año de ejercicio constitucional, el Gobernador del Estado podrá presentar el informe del 1 de septiembre al 15 de noviembre, en la fecha que determine, notificando al Congreso del Estado, cuando menos con quince días de anticipación."
+    }
+  ]
+}

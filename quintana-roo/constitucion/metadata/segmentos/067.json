@@ -1,0 +1,36 @@
+{
+  "clave": "067",
+  "etiqueta": "Artículo 67",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "067.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 › párrafo 1",
+      "texto": "El Poder Legislativo del Estado administrará con autonomía su presupuesto, el cual deberá prever la suficiencia presupuestal para permitir su ejercicio eficaz y oportuno."
+    },
+    {
+      "id": "067.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 › párrafo 2",
+      "texto": "El presupuesto anual del Poder Legislativo, no excederá del cero punto setenta por ciento del presupuesto de egresos del Estado. Asimismo, se deberán garantizar los principios de paridad, igualdad sustantiva y perspectiva de género."
+    },
+    {
+      "id": "067.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 › párrafo 3",
+      "texto": "Párrafo reformado POE 13-07-2023, 29-05-2026 Artículo reformado POE 25-06-2016, 06-12-2022"
+    }
+  ]
+}

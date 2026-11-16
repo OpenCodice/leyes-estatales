@@ -1,0 +1,27 @@
+{
+  "clave": "095",
+  "etiqueta": "Artículo 95",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "095.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › párrafo 1",
+      "texto": "La Presidencia del Supremo Tribunal de Justicia del Estado se renovará cada tres años de manera rotatoria, mediante elección que haga el Pleno de entre sus integrantes, atendiendo al principio de paridad de género."
+    },
+    {
+      "id": "095.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › párrafo 2",
+      "texto": "El cargo de Presidente o Presidenta es renunciable y corresponderá́ al Supremo Tribunal de Justicia, constituido en Pleno, calificar la renuncia."
+    }
+  ]
+}

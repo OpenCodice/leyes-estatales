@@ -1,0 +1,27 @@
+{
+  "clave": "068",
+  "etiqueta": "Artículo 68",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "068.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 1",
+      "texto": "En la reforma, derogación o abrogación de leyes y decretos se observarán los mismos trámites que para su formación."
+    },
+    {
+      "id": "068.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 2",
+      "texto": "Las iniciativas que no sean dictaminadas dentro de la correspondiente Legislatura caducarán y deberán ser archivadas."
+    }
+  ]
+}

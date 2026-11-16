@@ -1,0 +1,63 @@
+{
+  "clave": "063",
+  "etiqueta": "Artículo 63",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "063.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "063.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63 › párrafo 2",
+      "texto": "Para ser Secretario de Gobierno se requiere:"
+    },
+    {
+      "id": "063.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63 › Fracción I",
+      "texto": "I.- Ser mexicano y michoacano por nacimiento, o tener residencia efectiva en el Estado, no menor de dos años anteriores a la fecha del nombramiento;"
+    },
+    {
+      "id": "063.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63 › Fracción II",
+      "texto": "II.- Ser ciudadano en pleno ejercicio de sus derechos;"
+    },
+    {
+      "id": "063.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63 › Fracción III",
+      "texto": "III.- Haber cumplido veinticinco años de edad el día de su designación;\n\n(REFORMADA, P.O. 13 DE MARZO DE 1978)"
+    },
+    {
+      "id": "063.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63 › Fracción IV",
+      "texto": "IV.- No haber sido condenado por delito no culposo.\n\n(REFORMADO, P.O. 25 DE JUNIO DE 2013)\n\nLos mismos requisitos serán necesarios para ser Secretario de Finanzas."
+    }
+  ]
+}

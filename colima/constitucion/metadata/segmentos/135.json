@@ -1,0 +1,27 @@
+{
+  "clave": "135",
+  "etiqueta": "Artículo 135º",
+  "titulo": "TÍTULO DÉCIMO TERCERO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "135.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135º › párrafo 1",
+      "texto": "(REFORMADO DECRETO NO. 355, P.O. 71, SUP. 3, 04 NOVIEMBRE 2023)"
+    },
+    {
+      "id": "135.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135º › párrafo 2",
+      "texto": "Se prohíbe ejercer simultáneamente dos o más cargos de elección popular, pero la ciudadana o el ciudadano electo deberá optar por uno u otro de dichos cargos."
+    }
+  ]
+}

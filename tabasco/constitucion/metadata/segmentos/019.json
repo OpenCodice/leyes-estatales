@@ -1,0 +1,45 @@
+{
+  "clave": "019",
+  "etiqueta": "Artículo 19",
+  "titulo": "",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "019.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › párrafo 1",
+      "texto": "REFORMADO P.O. 8469 SPTO. F 4-NOV-2023"
+    },
+    {
+      "id": "019.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › párrafo 2",
+      "texto": "REFORMADO P.O. 1064 EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "019.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 02 DE ABRIL DE 1975)"
+    },
+    {
+      "id": "019.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › párrafo 4",
+      "texto": "Las diputaciones de la Cámara se renovarán en su totalidad cada tres años, iniciando sus funciones el cinco de septiembre siguiente a las elecciones."
+    }
+  ]
+}

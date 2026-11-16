@@ -1,0 +1,63 @@
+{
+  "clave": "013",
+  "etiqueta": "Artículo 13",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "013.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 27 DE MAYO DE 2016)"
+    },
+    {
+      "id": "013.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 2",
+      "texto": "En el Estado operará, en los términos previstos por esta Constitución y por la ley aplicable, un sistema integral de justicia para adolescentes que será aplicable a quienes se atribuya la realización de una conducta, o la comisión o participación en un hecho que la ley señale como delito y tengan entre doce años cumplidos y menos de dieciocho años de edad, en el que se garanticen los derechos humanos que reconocen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y los Tratados Internacionales de los que el Estado mexicano sea parte para toda persona, así como aquellos derechos específicos que por su condición de personas en desarrollo les son reconocidos a los adolescentes."
+    },
+    {
+      "id": "013.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 3",
+      "texto": "La operación del sistema de justicia para adolescentes estará a cargo de instituciones, juzgados y autoridades especializados. En los términos y condiciones que se contengan en la ley, podrán aplicar las medidas de orientación, protección y tratamiento que amerite cada caso, atendiendo a la protección integral y el interés superior del adolescente. Las formas alternativas de justicia deberán observarse en la aplicación de este sistema, siempre que resulte procedente."
+    },
+    {
+      "id": "013.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 4",
+      "texto": "Las personas menores de doce años a quienes se atribuya que han cometido o participado en un hecho que la ley señale como delito, sólo podrán ser sujetos de asistencia social, lo cual estará a cargo de la institución que señale la ley de la materia."
+    },
+    {
+      "id": "013.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 5",
+      "texto": "El proceso en materia de justicia para adolescentes será acusatorio y oral, en el que se observará la garantía del debido proceso legal, así como la independencia de las autoridades que efectúen la remisión y las que impongan las medidas. Éstas deberán ser proporcionales al hecho realizado y tendrán como fin la reinserción y la reintegración social y familiar del adolescente, así como el pleno desarrollo de su persona y capacidades."
+    },
+    {
+      "id": "013.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 6",
+      "texto": "El internamiento se utilizará sólo como medida extrema y por el tiempo más breve que proceda, y podrá aplicarse únicamente a los adolescentes mayores de catorce años de edad, por la comisión o participación en un hecho que la ley señale como delito."
+    }
+  ]
+}

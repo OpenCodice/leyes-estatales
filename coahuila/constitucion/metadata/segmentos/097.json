@@ -1,0 +1,27 @@
+{
+  "clave": "097",
+  "etiqueta": "Artículo 97º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "097.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 97º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "097.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 97º › párrafo 2",
+      "texto": "La Ley de Ingresos, que a iniciativa del Ejecutivo deberá expedir anualmente el Congreso del Estado, contendrá la enumeración de los impuestos y de las demás percepciones que se requieran para cubrir el presupuesto, correspondiente a cada ejercicio fiscal."
+    }
+  ]
+}

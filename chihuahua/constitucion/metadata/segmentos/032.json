@@ -1,0 +1,27 @@
+{
+  "clave": "032",
+  "etiqueta": "Artículo 32",
+  "titulo": "TÍTULO V",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "032.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › párrafo 1",
+      "texto": "Los Supremos Poderes del Estado deben residir en la Capital del mismo, que es la Ciudad de Chihuahua y no podrán trasladarse a otro lugar, ni aún provisionalmente, sino por acuerdo de las dos terceras partes de los diputados presentes."
+    },
+    {
+      "id": "032.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 601-88 publicado en el P.O.E. No. 103 del 24 de diciembre de 1988]"
+    }
+  ]
+}
