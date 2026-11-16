@@ -1,0 +1,27 @@
+{
+  "clave": "153",
+  "etiqueta": "Artículo 153",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "153.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 153 › párrafo 1",
+      "texto": "No se requerirá declaración de procedencia del Congreso cuando alguno de los servidores públicos a que hace referencia el Artículo 152 cometa un delito durante el tiempo que se encuentre separado de su encargo."
+    },
+    {
+      "id": "153.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 153 › párrafo 2",
+      "texto": "Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados del Artículo 152, se procederá de acuerdo con lo dispuesto en dicho precepto."
+    }
+  ]
+}

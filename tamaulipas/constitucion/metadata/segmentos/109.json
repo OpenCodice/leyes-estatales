@@ -1,0 +1,99 @@
+{
+  "clave": "109",
+  "etiqueta": "Artículo 109",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "109.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 › párrafo 1",
+      "texto": "Las Magistradas y los Magistrados del Poder Judicial, las Juezas y Jueces de primera instancia y las y los Jueces menores, serán elegidos de manera libre, directa y secreta por la ciudadanía el día que se realicen las elecciones estatales ordinarias del año que corresponda conforme al siguiente procedimiento:"
+    },
+    {
+      "id": "109.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 › Fracción I",
+      "texto": "I.- El Congreso del Estado publicará la convocatoria para la integración del listado de candidaturas dentro de los treinta días naturales siguientes a la instalación del primer periodo ordinario de sesiones del año anterior al de la elección que corresponda, la cual contendrá las etapas del procedimiento, sus fechas, plazos y los cargos a elegir. El Órgano de Administración Judicial hará del conocimiento del Congreso los cargos sujetos a elección, la especialización por materia, el distrito judicial respectivo y demás información que requiera;"
+    },
+    {
+      "id": "109.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 › Fracción II",
+      "texto": "II.- Los Poderes del Estado postularán el número de candidaturas que corresponda a cada cargo conforme a las fracciones V y VI del presente artículo. Para la evaluación y selección de sus postulaciones, observarán lo siguiente:"
+    },
+    {
+      "id": "109.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 109 › Fracción II › inciso a)",
+      "texto": "a) Los Poderes del Estado establecerán mecanismos públicos, abiertos, transparentes, inclusivos y accesibles que permitan la participación de todas las personas interesadas que acrediten los requisitos establecidos en esta Constitución y en las leyes, presenten un ensayo de tres cuartillas donde justifiquen los motivos de su postulación y remitan cinco cartas de referencia de sus vecinos, colegas o personas que respalden su idoneidad para desempeñar el cargo;"
+    },
+    {
+      "id": "109.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 109 › Fracción II › inciso b)",
+      "texto": "b) Cada Poder integrará un Comité de Evaluación conformado por tres personas reconocidas en la actividad jurídica, que recibirá los expedientes de las personas aspirantes, evaluará el cumplimiento de los requisitos constitucionales y legales e identificará a las personas mejor evaluadas que cuenten con los conocimientos técnicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes académicos y profesionales en el ejercicio de la actividad jurídica; y"
+    },
+    {
+      "id": "109.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 109 › Fracción II › inciso c)",
+      "texto": "c) Los Comités de Evaluación integrarán un listado de las seis personas mejor evaluadas para cada cargo en los casos de Magistradas y Magistrados del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial, y de las cuatro personas mejor evaluadas para cada cargo en los casos de Juezas y Jueces.\n\nPosteriormente, depurarán dicho listado mediante insaculación pública para ajustarlo al número de postulaciones para cada cargo, observando la paridad de género. Ajustados los listados, los Comités los remitirán a la autoridad que represente a cada Poder del Estado para su aprobación y envío al Congreso."
+    },
+    {
+      "id": "109.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 › Fracción III",
+      "texto": "III.- El Congreso del Estado recibirá las postulaciones y remitirá los listados a la autoridad administrativa electoral a más tardar el 12 de febrero del año de la elección que corresponda, a efecto de que organice el proceso electivo.\n\nLas personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes del Estado, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente;"
+    },
+    {
+      "id": "109.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 › Fracción IV",
+      "texto": "IV.- La autoridad administrativa electoral efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres, también declarará la validez de la elección y enviará sus resultados al Tribunal Electoral de Tamaulipas, con el fin de resolver las impugnaciones antes de que el Congreso del Estado instale el primer periodo ordinario de sesiones del año de la elección que corresponda, fecha en que las personas aspirantes electas tomarán protesta de su encargo en los términos del artículo 104, de esta Constitución;"
+    },
+    {
+      "id": "109.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 › Fracción V",
+      "texto": "V.- Para el caso de Magistradas y Magistrados del Poder Judicial y del Tribunal de Disciplina Judicial, la elección se realizará conforme al procedimiento anterior y en los términos que dispongan las leyes. El Poder Ejecutivo postulará hasta tres personas aspirantes; el Poder Legislativo postulará hasta tres personas, mediante mayoría calificada con el voto de las dos terceras partes de sus integrantes presentes, y el Poder Judicial, por conducto del Pleno del Supremo Tribunal de Justicia postulará hasta tres personas por mayoría de seis votos; y"
+    },
+    {
+      "id": "109.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 › Fracción VI",
+      "texto": "VI.- Para el caso de Juezas y Jueces de primera instancia y Juezas y Jueces menores, la elección se realizará por distrito judicial conforme al procedimiento establecido en este artículo y en los términos que dispongan las leyes. Cada uno de los Poderes del Estado postulará hasta dos personas para cada cargo;\n\nel Poder Ejecutivo lo hará por conducto de su titular; el Poder Legislativo postulará hasta dos personas mediante votación de dos terceras partes de sus integrantes presentes, y el Poder Judicial, por conducto del Pleno del Supremo Tribunal de Justicia, postulará hasta dos personas por mayoría de seis votos.\n\nEl Congreso incorporará a los listados que remita a la autoridad administrativa electoral a las personas que se encuentren en funciones en los cargos señalados en las anteriores fracciones V y VI de este artículo al cierre de la convocatoria respectiva, excepto cuando manifiesten la declinación de su candidatura dentro de los treinta días posteriores a su publicación o sean postuladas para un cargo o distrito judicial diverso.\n\nLa asignación de los cargos electos se realizará por materia de especialización entre las candidaturas que obtengan el mayor número de votos.\n\nLa etapa de preparación de la elección correspondiente iniciará con la primera sesión que la autoridad administrativa electoral celebre el segundo domingo del mes de septiembre del año anterior a la elección.\n\nLas personas candidatas tendrán derecho de acceso a radio y televisión de manera igualitaria, conforme a la distribución del tiempo que señale la ley y determine la autoridad electoral. Podrán, además, participar en foros de debate organizados por esta o en aquellos brindados gratuitamente por el sector público, privado o social en condiciones de equidad.\n\nPara todos los cargos de elección dentro del Poder Judicial del Estado estará prohibido el financiamiento público o privado de sus campañas, así como la contratación por sí o por interpósita persona de espacios en radio y televisión o de cualquier otro medio de comunicación para promocionar candidatas y candidatos.\n\nLos partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna.\n\nLa duración de las campañas para los cargos señalados en el presente artículo será de sesenta días y en ningún caso habrá etapa de precampaña. La ley establecerá la forma de las campañas, así como las restricciones y sanciones aplicables a las personas candidatas o servidoras públicas cuyas manifestaciones o propuestas excedan o contravengan los parámetros constitucionales y legales."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "clave": "002",
+  "etiqueta": "Artículo 2",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "002.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 1",
+      "texto": "El territorio del Estado comprende la antigua provincia llamada Nuevo Santander, con las limitaciones que le hizo el Tratado de Guadalupe."
+    }
+  ]
+}

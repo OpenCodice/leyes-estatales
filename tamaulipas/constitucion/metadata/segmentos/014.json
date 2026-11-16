@@ -1,0 +1,36 @@
+{
+  "clave": "014",
+  "etiqueta": "Artículo 14",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "014.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › párrafo 1",
+      "texto": "La vecindad se pierde:"
+    },
+    {
+      "id": "014.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Fracción I",
+      "texto": "I.- Por dejar de residir habitualmente más de seis meses, dentro de su territorio;"
+    },
+    {
+      "id": "014.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › Fracción II",
+      "texto": "II.- Desde el momento de separarse del territorio del Estado, siempre que manifieste que va a cambiarse de residencia o que de cualquier otro modo se pruebe la intención de cambiarla."
+    }
+  ]
+}

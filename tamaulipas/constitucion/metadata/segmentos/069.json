@@ -1,0 +1,36 @@
+{
+  "clave": "069",
+  "etiqueta": "Artículo 69",
+  "titulo": "",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "069.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 1",
+      "texto": "El Congreso del Estado deberá deliberar y votar la Ley de Ingresos y el Presupuesto de Egresos del Estado, a más tardar, el 31 de diciembre del año anterior al que deban regir, disponiéndose la convocatoria a la sesión extraordinaria que deberá celebrarse para cumplir ese objetivo si no se hubieren expedido esos ordenamientos o alguno de ellos antes de clausurar el segundo periodo de sesiones, una vez abierto el receso correspondiente."
+    },
+    {
+      "id": "069.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 2",
+      "texto": "Si la discusión y votación del dictamen de la Ley de Ingresos y del Presupuesto de Egresos o de alguno de ellos, no se realiza para el 31 de diciembre del año anterior al cual deban regir, hasta la aprobación de esos ordenamientos o de alguno de ellos se aplicarán provisionalmente durante los dos primeros meses del año fiscal siguiente las disposiciones previstas en los respectivos ordenamientos vigentes hasta ese día. Si al finalizar ese plazo no se hubieren votado y aprobado, se aplicarán con carácter definitivo los preceptos contenidos en las iniciativas que en su oportunidad hubiere enviado el Ejecutivo. En ambas hipótesis se efectuará la publicación correspondiente en el Periódico Oficial del Estado."
+    },
+    {
+      "id": "069.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 3",
+      "texto": "En tratándose de las iniciativas de Ley de Ingresos de los Ayuntamientos del Estado, el plazo para su aprobación definitiva por parte del Congreso será también el 31 de diciembre del año anterior al ejercicio fiscal de que se trate y si ello no ocurre, en lo conducente se seguirán las reglas previstas los párrafos anteriores. En todo caso, la iniciativa de Ley de Ingresos de los Municipios del Estado deberá incluir la estimación de los ingresos que tendrá por los diferentes conceptos aplicables durante el siguiente ejercicio fiscal."
+    }
+  ]
+}

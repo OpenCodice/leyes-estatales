@@ -1,0 +1,45 @@
+{
+  "clave": "025",
+  "etiqueta": "Artículo 25",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "025.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 1",
+      "texto": "El ejercicio de las funciones propias del Poder Legislativo se encomienda a una asamblea que se denominará \"Congreso del Estado Libre y Soberano de Tamaulipas\". Las Diputadas y los Diputados al Congreso serán electos en su totalidad cada tres años. Por cada Diputada o Diputado propietario se elegirá un suplente."
+    },
+    {
+      "id": "025.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 2",
+      "texto": "En los términos de la Constitución Federal, la ley general aplicable, esta Constitución y la ley estatal aplicable las Diputadas y los Diputados no podrán reelegirse para el periodo inmediato posterior al ejercicio de su mandato. Las personas diputadas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio, pero las personas diputadas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes."
+    },
+    {
+      "id": "025.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 3",
+      "texto": "Se deroga."
+    },
+    {
+      "id": "025.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 4",
+      "texto": "Las legislaturas del Estado se integrarán con Diputadas y Diputados electos según los principios de Mayoría Relativa y de Representación Proporcional, en los términos que señale la Constitución Federal y la ley."
+    }
+  ]
+}

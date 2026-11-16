@@ -1,0 +1,72 @@
+{
+  "clave": "131",
+  "etiqueta": "Artículo 131",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "131.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 131 › párrafo 1",
+      "texto": "Los municipios del Estado estarán investidos de personalidad jurídica y manejarán su patrimonio conforme a la ley y sus ayuntamientos tendrán facultades para aprobar, de acuerdo a las leyes que en materia municipal expida la legislatura, los bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia. En todos los casos deberá de hacerse posible la participación ciudadana y vecinal."
+    },
+    {
+      "id": "131.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 131 › párrafo 2",
+      "texto": "Las leyes reglamentarias establecerán las formas de organización y administración municipal, de conformidad con las bases siguientes:"
+    },
+    {
+      "id": "131.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 131 › Fracción I",
+      "texto": "I.- Las bases generales de la Administración Pública Municipal y del procedimiento administrativo, incluyendo los medios de impugnación y los órganos para dirimir las controversias entre dicha administración y los particulares, con sujeción a los principios de igualdad, publicidad, audiencia y legalidad;"
+    },
+    {
+      "id": "131.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 131 › Fracción II",
+      "texto": "II.- Los casos en que se requiera el acuerdo de las dos terceras partes de los miembros de los ayuntamientos para dictar resoluciones que afecten el patrimonio inmobiliario municipal o para celebrar actos o convenios que comprometan al Municipio por un plazo mayor al periodo del ayuntamiento;"
+    },
+    {
+      "id": "131.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 131 › Fracción III",
+      "texto": "III.- Las normas de aplicación general para celebrar los convenios a que se refieren tanto las fracciones III y IV del artículo 115, como el segundo párrafo de la fracción VII del artículo 116 de la Constitución Federal;"
+    },
+    {
+      "id": "131.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 131 › Fracción IV",
+      "texto": "IV.- El procedimiento y condiciones para que el gobierno estatal asuma una función o servicio municipal cuando, al no existir el convenio correspondiente, la legislatura considere que el Municipio de que se trate esté imposibilitado para ejercerlos o prestarlos; en este caso, será necesaria solicitud previa del ayuntamiento respectivo, aprobada por cuando menos las dos terceras partes de sus integrantes; y"
+    },
+    {
+      "id": "131.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 131 › Fracción V",
+      "texto": "V.- Las disposiciones aplicables en aquellos Municipios que no cuenten con los bandos o reglamentos correspondientes.\n\nLa legislatura emitirá las normas que establezcan los procedimientos mediante los cuales se resolverán los conflictos que se presenten entre los Municipios y el gobierno del Estado, o entre aquellos, con motivo de los actos derivados de las fracciones III y IV anteriores."
+    }
+  ]
+}
