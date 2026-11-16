@@ -1,0 +1,27 @@
+{
+  "clave": "050",
+  "etiqueta": "Artículo 50",
+  "titulo": "TITULO VII",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "050.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 1",
+      "texto": "Para la discusión y votación de todo proyecto de ley o decreto, se requiere la presencia de más de la mitad del número total de diputados que integren la Legislatura."
+    },
+    {
+      "id": "050.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

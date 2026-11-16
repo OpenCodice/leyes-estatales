@@ -1,0 +1,36 @@
+{
+  "clave": "191",
+  "etiqueta": "Artículo 191",
+  "titulo": "TITULO XIV",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "191.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 191 › párrafo 1",
+      "texto": "Todo cargo público es incompatible con cualquier función o empleo federal, de éste o de otro Estado o de los municipios, cuando por ambos se perciba remuneración, exceptuándose las actividades de enseñanza, siempre que no interfieran con el desempeño de su función, salvo lo dispuesto para casos especiales y cuando el Congreso otorgue licencia expresa para ello al interesado."
+    },
+    {
+      "id": "191.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 191 › párrafo 2",
+      "texto": "La ley establecerá los casos en que exista conflicto entre el desempeño de la función pública y el ejercicio profesional."
+    },
+    {
+      "id": "191.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 191 › párrafo 3",
+      "texto": "[Artículo reformado mediante Decreto No. 640-09 II P.O. publicado en el P.O.E. No. 99 del 12 de diciembre de 2009]"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "clave": "043",
+  "etiqueta": "Artículo 43",
+  "titulo": "TITULO VII",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "043.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 1",
+      "texto": "Los diputados suplentes entrarán en funciones:"
+    },
+    {
+      "id": "043.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › Fracción I",
+      "texto": "I. En las faltas absolutas o temporales del propietario."
+    },
+    {
+      "id": "043.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › Fracción II",
+      "texto": "II. Cuando los diputados propietarios después de llamados para la instalación del Congreso, no se presenten dentro de ocho días contados desde que se les notifique el llamamiento."
+    },
+    {
+      "id": "043.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › Fracción III",
+      "texto": "III. Cuando los diputados propietarios hubieren dejado de concurrir sin licencia o sin causa justificada a juicio del Congreso del Estado, a diez sesiones consecutivas de las que deban efectuarse en un período de ellas; debiendo entonces los suplentes funcionar tan sólo por este período y el receso respectivo."
+    },
+    {
+      "id": "043.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › Fracción IV",
+      "texto": "IV. Cuando en cualquier tiempo en que deba funcionar el Congreso, no se encuentren en la capital suficientes diputados propietarios para formar quórum."
+    },
+    {
+      "id": "043.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › Fracción V",
+      "texto": "V. Cuando deban hacerlo en cualquier otro caso, de acuerdo con la Ley Orgánica del Congreso del Estado.\n\nEn los casos de las fracciones II y IV, los suplentes funcionarán tan sólo hasta que se presente el propietario.\n\n[Artículo reformado en la fracción III mediante Decreto No. 796-2012 II P.O. publicado en el P.O.E. No. 70 del 01 de septiembre de 2012]\n\n[Artículo reformado en la fracción V mediante Decreto No. 296-79-3-4 P.E. publicado en el P.O.E. No. 7 del 24 de enero de 1979]"
+    }
+  ]
+}

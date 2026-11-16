@@ -1,0 +1,45 @@
+{
+  "clave": "025",
+  "etiqueta": "Artículo 25",
+  "titulo": "TITULO III",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "025.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 1",
+      "texto": "Los derechos de ciudadano chihuahuense suspensos o perdidos, se recobran:"
+    },
+    {
+      "id": "025.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción I",
+      "texto": "I. Por recobrar la ciudadanía mexicana, en su caso."
+    },
+    {
+      "id": "025.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción II",
+      "texto": "II. Por haber fenecido el término o cesado las causas de suspensión."
+    },
+    {
+      "id": "025.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción III",
+      "texto": "III. Por rehabilitación."
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "clave": "005",
+  "etiqueta": "Artículo 5",
+  "titulo": "TITULO II",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "005.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 1",
+      "texto": "Todo ser humano tiene derecho a la protección jurídica de su vida, desde el momento mismo de la concepción."
+    },
+    {
+      "id": "005.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 2",
+      "texto": "En el Estado de Chihuahua no podrá establecerse la pena de muerte, la confiscación de bienes y cualquier otra pena inusitada y trascendental."
+    },
+    {
+      "id": "005.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 3",
+      "texto": "No se considerará confiscación la aplicación de bienes de una persona cuando esta sea decretada para el pago de multas o impuestos, ni cuando la decrete una autoridad judicial para el pago de responsabilidad civil derivada de la comisión de un delito."
+    },
+    {
+      "id": "005.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 4",
+      "texto": "Tampoco se considerará confiscación el decomiso que ordene la autoridad judicial de los bienes de una persona en caso de enriquecimiento ilícito, la aplicación a favor del Estado de bienes asegurados que causen abandono en los términos de las disposiciones aplicables, ni la de aquellos bienes cuyo dominio se declare extinto en sentencia. En el caso de extinción de dominio, la ley establecerá un procedimiento jurisdiccional autónomo y especial, distinto del de carácter penal, que solamente procederá respecto de los delitos y bienes expresamente determinados por la Constitución Política de los Estados Unidos Mexicanos, en el que se incluyan los medios de defensa necesarios para el particular afectado."
+    },
+    {
+      "id": "005.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 5",
+      "texto": "[Artículo reformado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    },
+    {
+      "id": "005.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 6",
+      "texto": "[Artículo reformado en el segundo párrafo y adicionado con un tercero y un cuarto mediante Decreto No. LXV/RFCNT/0362/2017 VI P.E. publicado en el P.O.E. No. 69 del 30 de agosto de 2017]"
+    }
+  ]
+}

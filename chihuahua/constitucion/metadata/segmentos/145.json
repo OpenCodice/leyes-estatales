@@ -1,0 +1,27 @@
+{
+  "clave": "145",
+  "etiqueta": "Artículo 145",
+  "titulo": "TITULO XII",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "145.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 145 › párrafo 1",
+      "texto": "En todo plantel de educación en el Estado, es obligatoria la lectura y estudio de esta Constitución, la Federal, así como de las leyes electorales que regulan los procesos estatales y nacionales, de conformidad con la ley de la materia, la que sancionará el incumplimiento de este precepto."
+    },
+    {
+      "id": "145.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 145 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

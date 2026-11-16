@@ -1,0 +1,36 @@
+{
+  "clave": "029",
+  "etiqueta": "Artículo 29",
+  "titulo": "TITULO IV",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "029.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29 › párrafo 1",
+      "texto": "Los Poderes Ejecutivo, Legislativo y Judicial, organismos autónomos, y autoridades municipales, en el ejercicio de sus atribuciones, darán la mayor apertura y transparencia a su función, con la colaboración y participación de los ciudadanos en el quehacer gubernamental, en la forma en que lo establezcan las leyes."
+    },
+    {
+      "id": "029.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29 › párrafo 2",
+      "texto": "El Poder Público no es delegable sino en los casos expresados en esta Constitución."
+    },
+    {
+      "id": "029.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 29 › párrafo 3",
+      "texto": "[Artículo adicionado con un primer párrafo recorriéndose el actual mediante Decreto No. 918-2015 II P.O. publicado en el P.O.E. No. 93 del 21 de noviembre de 2015]"
+    }
+  ]
+}

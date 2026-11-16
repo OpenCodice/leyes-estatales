@@ -1,0 +1,27 @@
+{
+  "clave": "040-bis",
+  "etiqueta": "Artículo 40 Bis",
+  "titulo": "TITULO VII",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "040-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 Bis › párrafo 1",
+      "texto": "El Poder Legislativo del Estado actuará como Parlamento Abierto y se regirá por los principios de transparencia de la información, rendición de cuentas, evaluación del desempeño legislativo, participación ciudadana y uso de tecnologías de la información."
+    },
+    {
+      "id": "040-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 Bis › párrafo 2",
+      "texto": "[Artículo adicionado mediante Decreto No. LXVI/RFCNT/0020/2018 I P.O., publicado en el P.O.E. No. 9 del 30 de enero de 2019]"
+    }
+  ]
+}

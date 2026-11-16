@@ -1,0 +1,27 @@
+{
+  "clave": "070",
+  "etiqueta": "Artículo 70",
+  "titulo": "TITULO VII",
+  "capitulo": "CAPITULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "070.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 1",
+      "texto": "El Gobernador podrá, cuando estime conveniente, hacer observaciones a algún proyecto de ley o de decreto, suspender su promulgación y devolverlo con ellas dentro de los treinta días naturales, siguientes a aquel en que lo reciba. Si durante ese lapso se hubiere clausurado el período de sesiones la devolución se hará a la Diputación Permanente."
+    },
+    {
+      "id": "070.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 1013-04 II P.O. publicado en el P.O.E. No. 30 del 10 de abril de 2004]"
+    }
+  ]
+}

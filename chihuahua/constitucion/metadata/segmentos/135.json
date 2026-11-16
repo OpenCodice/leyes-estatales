@@ -1,0 +1,54 @@
+{
+  "clave": "135",
+  "etiqueta": "Artículo 135",
+  "titulo": "TITULO XI",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "135.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › párrafo 1",
+      "texto": "Los Ayuntamientos requerirán de la aprobación de las dos terceras partes de sus integrantes para disponer del patrimonio municipal, en los casos que determine la legislación correspondiente."
+    },
+    {
+      "id": "135.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › párrafo 2",
+      "texto": "La contratación de empréstitos o cualquier otro crédito por parte de los ayuntamientos, se realizará conforme a lo dispuesto por la ley respectiva."
+    },
+    {
+      "id": "135.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › párrafo 3",
+      "texto": "Los actos realizados contra lo dispuesto en este precepto serán nulos de pleno derecho."
+    },
+    {
+      "id": "135.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › párrafo 4",
+      "texto": "[Artículo reformado en el primer párrafo mediante Decreto No. 850-01 II P.O. publicado en el P.O.E. No. 38 del 12 de mayo del 2001]"
+    },
+    {
+      "id": "135.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › párrafo 5",
+      "texto": "[Artículo reformado mediante Decreto No. 403-94, publicado en el P.O.E. No. 79 del 1° de octubre de 1994]"
+    }
+  ]
+}

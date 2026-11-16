@@ -1,0 +1,27 @@
+{
+  "clave": "077",
+  "etiqueta": "Artículo 77",
+  "titulo": "TITULO VII",
+  "capitulo": "CAPITULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "077.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 1",
+      "texto": "En la abrogación, derogación, reforma o adición de cualquier ley o decreto, se observarán los mismos requisitos que para su formación, salvo cuando la derogación sea consecuencia de los resultados de un referéndum, en cuyo caso se dispensarán los trámites respectivos."
+    },
+    {
+      "id": "077.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

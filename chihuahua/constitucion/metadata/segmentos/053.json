@@ -1,0 +1,63 @@
+{
+  "clave": "053",
+  "etiqueta": "Artículo 53",
+  "titulo": "TITULO VII",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "053.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › párrafo 1",
+      "texto": "Señalado el día para la discusión de iniciativas presentadas por el Ejecutivo, por el Tribunal Superior de Justicia, por algún ayuntamiento, por el Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública, o por chihuahuenses en ejercicio del derecho establecido por la fracción V del artículo 68, se les dará aviso con anticipación para que puedan intervenir en la discusión, concediéndoseles el uso de la palabra de igual modo que a los diputados, pero sin derecho a votar, de la siguiente manera:"
+    },
+    {
+      "id": "053.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › Fracción I",
+      "texto": "I. El Ejecutivo por sí o por quien designe, de conformidad con la materia de que se trate."
+    },
+    {
+      "id": "053.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › Fracción II",
+      "texto": "II. El Tribunal Superior de Justicia, por un Magistrado."
+    },
+    {
+      "id": "053.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › Fracción III",
+      "texto": "III. El Ayuntamiento, por un representante del mismo."
+    },
+    {
+      "id": "053.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › Fracción IV",
+      "texto": "IV. El Instituto Chihuahuense para la Transparencia y Acceso a la Información Pública, por el Comisionado Presidente o por quien designe."
+    },
+    {
+      "id": "053.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › Fracción V",
+      "texto": "V. Un representante de los chihuahuenses que hayan presentado la correspondiente iniciativa.\n\n[Artículo reformado mediante Decreto No. 910-2015 II P.O. publicado en el P.O.E. No. 98 del 9 de diciembre de 2015]"
+    }
+  ]
+}

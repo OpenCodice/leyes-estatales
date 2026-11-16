@@ -1,0 +1,27 @@
+{
+  "clave": "182",
+  "etiqueta": "Artículo 182",
+  "titulo": "TITULO XIII",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "182.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 182 › párrafo 1",
+      "texto": "El procedimiento de juicio político sólo podrá iniciarse durante el período en que el servidor público desempeñe su cargo y dentro de un año después. Las sanciones correspondientes se aplicarán en el período no mayor de un año a partir de iniciado el procedimiento."
+    },
+    {
+      "id": "182.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 182 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 794-83 publicado en el P.O.E. No. 105 del 31 de diciembre de 1983]"
+    }
+  ]
+}
