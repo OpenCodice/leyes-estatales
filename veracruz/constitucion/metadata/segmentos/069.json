@@ -1,0 +1,72 @@
+{
+  "clave": "069",
+  "etiqueta": "Artículo 69",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "069.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 1",
+      "texto": "Para ser edil se requiere:"
+    },
+    {
+      "id": "069.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción I",
+      "texto": "I. Ser ciudadano veracruzano en pleno ejercicio de sus derechos, originario del municipio o con residencia efectiva en su territorio no menor de tres años anteriores al día de la elección;"
+    },
+    {
+      "id": "069.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción II",
+      "texto": "II. No pertenecer al estado eclesiástico, ni ser ministro de algún culto religioso, a menos que se separe conforme a lo establecido en la Constitución Federal y la ley de la materia;"
+    },
+    {
+      "id": "069.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción III",
+      "texto": "III. No ser servidor público en ejercicio de autoridad, en los últimos sesenta días anteriores al día de la elección ordinaria, o a partir del quinto día posterior a la publicación de la convocatoria para la elección extraordinaria; y\n\n(REFORMADA, G.O. 18 DE MARZO DE 2003)"
+    },
+    {
+      "id": "069.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción IV",
+      "texto": "IV. Saber leer y escribir y no tener antecedentes penales por la comisión de delitos realizados con dolo, excepto aquellos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción.\n\n(ADICIONADA, G.O. 30 DE JUNIO DE 2025)"
+    },
+    {
+      "id": "069.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción V",
+      "texto": "V. No incurrir en alguno de los impedimentos señalados en el artículo 18 Bis de esta Constitución.\n\n(ADICIONADA, G.O. 2 DE JULIO DE 2026)"
+    },
+    {
+      "id": "069.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción VI",
+      "texto": "VI. En ningún caso podrá participar en la elección para la presidencia municipal, la sindicatura y las regidurías, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula."
+    }
+  ]
+}

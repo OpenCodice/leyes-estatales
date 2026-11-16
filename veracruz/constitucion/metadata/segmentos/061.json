@@ -1,0 +1,27 @@
+{
+  "clave": "061",
+  "etiqueta": "Artículo 61",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "061.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › párrafo 1",
+      "texto": "Los jueces deberán ordenar la ejecución de las sentencias y demás resoluciones que pronuncien y causen estado. Cuando sea necesario el auxilio de la fuerza pública, lo solicitarán directamente, por escrito, a quienes tengan el mando de la misma."
+    },
+    {
+      "id": "061.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › párrafo 2",
+      "texto": "Será causa de responsabilidad para quienes tengan el mando de la fuerza pública, no proporcionar oportunamente el auxilio requerido."
+    }
+  ]
+}

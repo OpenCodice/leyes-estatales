@@ -1,0 +1,36 @@
+{
+  "clave": "068",
+  "etiqueta": "Artículo 68",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "068.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 1",
+      "texto": "(REFORMADO, PRIMER PÁRRAFO; G.O. 15 DE MAYO DE 2026)"
+    },
+    {
+      "id": "068.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 2",
+      "texto": "Cada municipio será gobernado por un Ayuntamiento de elección popular, libre, directa y secreta, integrado por una presidenta o presidente, una síndica o síndico y hasta quince regidurías, de conformidad con los principios de paridad de género en sus vertientes vertical y horizontal, igualdad sustantiva y perspectiva de género, y no habrá autoridad intermedia entre éste y el Gobierno del Estado. Sólo los ayuntamientos, o en su caso, los concejos municipales, podrán ejercer las facultades que esta Constitución les confiere."
+    },
+    {
+      "id": "068.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 3",
+      "texto": "En la elección de los ayuntamientos, el partido político o la candidatura independiente que alcance mayor número de votos obtendrán la presidencia y la sindicatura. Las regidurías serán asignadas a cada partido y a la candidatura independiente, incluyendo a aquel que obtuvo la mayor votación, de acuerdo con el principio de representación proporcional, en los términos que señale la legislación del Estado. Los agentes y subagentes municipales se elegirán de acuerdo con lo establecido por esta Constitución y la Ley Orgánica del Municipio Libre, la que señalará sus atribuciones y responsabilidades."
+    }
+  ]
+}

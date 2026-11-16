@@ -1,0 +1,27 @@
+{
+  "clave": "052",
+  "etiqueta": "Artículo 52",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "052.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › párrafo 1",
+      "texto": "(REFORMADO, G.O. 9 DE ENERO DE 2015)"
+    },
+    {
+      "id": "052.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › párrafo 2",
+      "texto": "El Ministerio Público en el Estado está a cargo de un órgano constitucional autónomo en los términos del artículo 67 fracción I de esta Constitución."
+    }
+  ]
+}

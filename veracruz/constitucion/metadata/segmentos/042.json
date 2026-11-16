@@ -1,0 +1,27 @@
+{
+  "clave": "042",
+  "etiqueta": "Artículo 42",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "042.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 1",
+      "texto": "(REFORMADO, G.O. 4 DE MAYO DE 2026)"
+    },
+    {
+      "id": "042.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 2",
+      "texto": "El Poder Ejecutivo se deposita en una sola persona, denominada: Gobernadora o Gobernador del Estado."
+    }
+  ]
+}

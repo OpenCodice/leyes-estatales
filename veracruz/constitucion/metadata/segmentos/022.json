@@ -1,0 +1,54 @@
+{
+  "clave": "022",
+  "etiqueta": "Artículo 22",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "022.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › párrafo 1",
+      "texto": "Por cada diputado propietario se elegirá a un suplente. En ambos casos se requiere:"
+    },
+    {
+      "id": "022.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › párrafo 2",
+      "texto": "(REFORMADA; G.O. 14 DE OCTUBRE DE 2008)"
+    },
+    {
+      "id": "022.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción I",
+      "texto": "I. Ser ciudadano mexicano por nacimiento, en pleno ejercicio de sus derechos;"
+    },
+    {
+      "id": "022.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción II",
+      "texto": "II. Saber leer y escribir y;\n\n(REFORMADA; G.O. 14 DE OCTUBRE DE 2008)"
+    },
+    {
+      "id": "022.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción III",
+      "texto": "III. Residir en el distrito que corresponda o en la circunscripción del Estado, por lo menos tres años antes del día de la elección."
+    }
+  ]
+}
