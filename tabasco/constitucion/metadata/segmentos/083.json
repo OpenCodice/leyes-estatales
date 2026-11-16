@@ -1,0 +1,54 @@
+{
+  "clave": "083",
+  "etiqueta": "Artículo 83",
+  "titulo": "TITULO NOVENO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "083.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › párrafo 1",
+      "texto": "REFORMADO P.O. 8469 SPTO. F 4-NOV-2023"
+    },
+    {
+      "id": "083.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › párrafo 2",
+      "texto": "REFORMADO P.O. 1064 EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "083.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 27 DE NOVIEMBRE DE 2002)"
+    },
+    {
+      "id": "083.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › párrafo 4",
+      "texto": "La presente Constitución puede ser adicionada o reformada. Para que las adiciones y reformas lleguen a formar parte de la misma se requiere que el Congreso del Estado, por el voto de las dos terceras partes de las diputaciones presentes, acuerde las reformas o adiciones y que éstas sean aprobadas por la mayoría de los Ayuntamientos del Estado, dentro de los veinte días naturales siguientes a la legal recepción del expediente y de la notificación respectiva."
+    },
+    {
+      "id": "083.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › párrafo 5",
+      "texto": "El Congreso o la Comisión Permanente, en su caso, harán el cómputo de los votos de los Ayuntamientos y la declaración de haber sido aprobadas las adiciones o reformas."
+    }
+  ]
+}

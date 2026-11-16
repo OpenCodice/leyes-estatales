@@ -1,0 +1,27 @@
+{
+  "clave": "030",
+  "etiqueta": "Artículo 30",
+  "titulo": "",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "030.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 02 DE ABRIL DE 1975)"
+    },
+    {
+      "id": "030.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 2",
+      "texto": "Si las sesiones extraordinarias se prolongan hasta que deban comenzar las ordinarias, cesarán aquellas y durante éstas se despacharán los asuntos objeto de la convocatoria que hayan quedado pendientes."
+    }
+  ]
+}

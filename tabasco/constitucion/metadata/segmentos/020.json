@@ -1,0 +1,27 @@
+{
+  "clave": "020",
+  "etiqueta": "Artículo 20",
+  "titulo": "",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "020.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 1",
+      "texto": "(DEROGADO P.O. 21 DE DICIEMBRE DE 1996)"
+    },
+    {
+      "id": "020.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 2",
+      "texto": "Se deroga."
+    }
+  ]
+}

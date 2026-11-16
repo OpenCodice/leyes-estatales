@@ -1,0 +1,36 @@
+{
+  "clave": "042",
+  "etiqueta": "Artículo 42",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "042.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 1",
+      "texto": "REFORMADO P.O. 8469 SPTO. F 4-NOV-2023"
+    },
+    {
+      "id": "042.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 02 DE ABRIL DE 1975)"
+    },
+    {
+      "id": "042.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 3",
+      "texto": "Se deposita el Poder Ejecutivo en una persona que se denominará Gobernador o Gobernadora del Estado Libre y Soberano de Tabasco."
+    }
+  ]
+}

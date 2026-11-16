@@ -1,0 +1,45 @@
+{
+  "clave": "061",
+  "etiqueta": "Artículo 61",
+  "titulo": "",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "061.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › párrafo 1",
+      "texto": "DEROGADO P.O. EXTRAORDINARIO NO. 260 16-DIC-2024"
+    },
+    {
+      "id": "061.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › párrafo 2",
+      "texto": "REFORMADO EN SU TOTALIDAD P.O. 7607 SPTO. B 01-AGOSTO-2015"
+    },
+    {
+      "id": "061.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 02 DE ABRIL DE 1975)"
+    },
+    {
+      "id": "061.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › párrafo 4",
+      "texto": "Se deroga."
+    }
+  ]
+}

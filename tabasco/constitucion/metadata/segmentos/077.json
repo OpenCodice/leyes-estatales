@@ -1,0 +1,27 @@
+{
+  "clave": "077",
+  "etiqueta": "Artículo 77",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "077.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 02 DE ABRIL DE 1975)"
+    },
+    {
+      "id": "077.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 2",
+      "texto": "Para los efectos de esta Constitución, la residencia no se pierde por ausencia en el desempeño de cargo de elección popular, de comisiones oficiales del Gobierno del Estado o con motivo del deber de todo mexicano de servir a la Patria y sus Instituciones."
+    }
+  ]
+}
