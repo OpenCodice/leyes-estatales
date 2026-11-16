@@ -1,0 +1,36 @@
+{
+  "clave": "106",
+  "etiqueta": "Artículo 106",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "106.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 106 › párrafo 1",
+      "texto": "El Estado garantizará a la población un servicio gratuito de defensoría pública de calidad en la rama penal y en materia familiar. En los términos que estipulen las disposiciones normativas."
+    },
+    {
+      "id": "106.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 106 › párrafo 2",
+      "texto": "Asimismo asegurará las condiciones para un servicio profesional de carrera para los defensores del Instituto de la Defensoría Pública del Estado de Morelos."
+    },
+    {
+      "id": "106.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 106 › párrafo 3",
+      "texto": "Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público."
+    }
+  ]
+}

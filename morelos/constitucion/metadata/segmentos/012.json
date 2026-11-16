@@ -1,0 +1,18 @@
+{
+  "clave": "012",
+  "etiqueta": "Artículo 12",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "012.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › párrafo 1",
+      "texto": "Los morelenses en igualdad de circunstancias, serán preferidos a quienes no lo sean para toda clase de concesiones, empleos o comisiones públicas del Estado y de los Municipios."
+    }
+  ]
+}

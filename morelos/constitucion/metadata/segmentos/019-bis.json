@@ -1,0 +1,189 @@
+{
+  "clave": "019-bis",
+  "etiqueta": "Artículo 19 Bis",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "019-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 Bis › párrafo 1",
+      "texto": "Esta Constitución reconoce la participación de la sociedad morelense en sus distintas formas de expresión, las cuales deberán llevarse a cabo de forma pacífica y por conducto de los canales y las disposiciones legales que para el efecto se establezcan, y siempre deberán tener como finalidad la consolidación de la democracia participativa para el desarrollo del Estado y de su población, en lo individual y/o colectivo."
+    },
+    {
+      "id": "019-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 Bis › párrafo 2",
+      "texto": "Los Poderes Públicos y todas las autoridades en el ámbito de su competencia, están obligadas a respetar, garantizar y cumplir con los objetivos de los mecanismos de participación ciudadana."
+    },
+    {
+      "id": "019-bis.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 Bis › párrafo 3",
+      "texto": "La participación ciudadana tendrá lugar en la planeación estatal y municipal, en los términos previstos por la Ley. Asimismo, deberán establecer políticas públicas que fortalezcan la cultura participativa."
+    },
+    {
+      "id": "019-bis.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 Bis › párrafo 4",
+      "texto": "Son principios de la participación ciudadana los siguientes: la legalidad, solidaridad, igualdad, equidad, bienestar social, justicia social y soberanía popular."
+    },
+    {
+      "id": "019-bis.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 Bis › párrafo 5",
+      "texto": "Ningún mecanismo de participación ciudadana, tendrá como objetivo atentar o disminuir derechos humanos, las facultades constitucionales de los Poderes del Estado, de los Ayuntamientos o de los Órganos Autónomos."
+    },
+    {
+      "id": "019-bis.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 Bis › párrafo 6",
+      "texto": "Esta Constitución y el Estado, reconocen como mínimo, los siguientes mecanismos de participación ciudadana:"
+    },
+    {
+      "id": "019-bis.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 Bis › Fracción I",
+      "texto": "I. Plebiscito;"
+    },
+    {
+      "id": "019-bis.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 Bis › Fracción II",
+      "texto": "II. Referéndum;"
+    },
+    {
+      "id": "019-bis.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 Bis › Fracción III",
+      "texto": "III. Iniciativa Popular;"
+    },
+    {
+      "id": "019-bis.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 Bis › Fracción IV",
+      "texto": "IV. Consulta Ciudadana;"
+    },
+    {
+      "id": "019-bis.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 Bis › Fracción V",
+      "texto": "V. Colaboración Ciudadana;"
+    },
+    {
+      "id": "019-bis.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 Bis › Fracción VI",
+      "texto": "VI. Rendición de Cuentas;"
+    },
+    {
+      "id": "019-bis.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 Bis › Fracción VII",
+      "texto": "VII. Audiencia Pública;"
+    },
+    {
+      "id": "019-bis.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 Bis › Fracción VIII",
+      "texto": "VIII. Cabildo Abierto;"
+    },
+    {
+      "id": "019-bis.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 Bis › Fracción IX",
+      "texto": "IX. Congreso Abierto;"
+    },
+    {
+      "id": "019-bis.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 Bis › Fracción X",
+      "texto": "X. Asamblea Ciudadana;"
+    },
+    {
+      "id": "019-bis.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 Bis › Fracción XI",
+      "texto": "XI. Presupuesto Participativo"
+    },
+    {
+      "id": "019-bis.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 Bis › Fracción XII",
+      "texto": "XII. Difusión Pública;"
+    },
+    {
+      "id": "019-bis.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 Bis › Fracción XIII",
+      "texto": "XIII. Red de Contraloría"
+    },
+    {
+      "id": "019-bis.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 Bis › Fracción XIV",
+      "texto": "XIV. Gobierno abierto El Congreso del Estado, el Instituto Morelense de Procesos Electorales y Participación Ciudadana y la Secretaría de Despacho del Poder Ejecutivo Estatal responsable del control interno y de transparencia, acceso a la información pública y protección de datos personales en el ámbito de su competencia, vigilarán y llevarán a cabo las acciones necesarias para su cumplimiento.\n\nLos mecanismos de participación ciudadana pueden tener origen popular o provenir de autoridad pública, según sean promovidos o presentados directamente mediante solicitud avalada por firmas ciudadanas o por una autoridad, en los términos de la normativa aplicable."
+    }
+  ]
+}

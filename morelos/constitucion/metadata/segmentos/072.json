@@ -1,0 +1,36 @@
+{
+  "clave": "072",
+  "etiqueta": "Artículo 72",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "072.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72 › párrafo 1",
+      "texto": "Con excepción de los casos expresamente previstos en las leyes, el Gobernador en ningún caso podrá celebrar convenios:"
+    },
+    {
+      "id": "072.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72 › Fracción I",
+      "texto": "I.- Para que a título oneroso o gratuito conceda a los particulares la recaudación o administración de los ingresos;"
+    },
+    {
+      "id": "072.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72 › Fracción II",
+      "texto": "II.- Para comprometer los ingresos respecto de un ejercicio gubernativo posterior.\n\nCuando el interés público demande lo contrario, toca al Congreso del Estado, mediante el voto de las dos terceras partes de sus integrantes, la aprobación previa de los actos jurídicos correspondientes."
+    }
+  ]
+}

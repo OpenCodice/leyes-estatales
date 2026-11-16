@@ -1,0 +1,36 @@
+{
+  "clave": "139",
+  "etiqueta": "Artículo 139",
+  "titulo": "TITULO SEPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "139.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 139 › párrafo 1",
+      "texto": "El Tribunal Superior de Justicia como jurado de sentencia, previa audiencia del acusador, del Fiscal General del Estado y del acusado, su defensor o de ambos, procederá por mayoría absoluta de votos, a dictar la resolución que en derecho proceda. Si el hecho motivo del procedimiento ameritare sanción penal conforme a la ley, el responsable quedará a disposición de la autoridad competente para que se le instruya el proceso respectivo."
+    },
+    {
+      "id": "139.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 139 › párrafo 2",
+      "texto": "Cuando el acusado sea el Fiscal General del Estado ejercerá las funciones de tal el que designe el Ejecutivo o el servidor público que deba suplirlo con arreglo a la Ley."
+    },
+    {
+      "id": "139.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 139 › párrafo 3",
+      "texto": "Tanto la declaración del Congreso como la resolución del Tribunal Superior de Justicia son inatacables."
+    }
+  ]
+}

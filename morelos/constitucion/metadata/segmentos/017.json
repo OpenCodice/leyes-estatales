@@ -1,0 +1,72 @@
+{
+  "clave": "017",
+  "etiqueta": "Artículo 17",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "017.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 1",
+      "texto": "Los derechos y prerrogativas de la ciudadanía morelense se suspenden:"
+    },
+    {
+      "id": "017.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción I",
+      "texto": "I.- Por falta de cumplimiento, sin causa justificada, de cualquiera de las obligaciones que esta Constitución impone al ciudadano morelense. Esta suspensión durará un año sin perjuicio de las otras penas que por el mismo hecho u omisión le señale la Ley;"
+    },
+    {
+      "id": "017.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción II",
+      "texto": "II.- Derogada"
+    },
+    {
+      "id": "017.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción III",
+      "texto": "III.- Derogada"
+    },
+    {
+      "id": "017.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción IV",
+      "texto": "IV.- Por estar prófugo de la justicia, desde que se dicte orden de aprehensión hasta que prescriba la acción penal;"
+    },
+    {
+      "id": "017.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción V",
+      "texto": "V.- Por vagancia, ebriedad o toxicomanía consuetudinarias, declaradas en la forma que prevengan las Leyes;"
+    },
+    {
+      "id": "017.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción VI",
+      "texto": "VI.- Por residir habitualmente fuera del Estado, salvo los casos de desempeño de cargo de elección popular, estudios, o de alguna otra comisión o empleo conferido por la Federación, Estado, o alguno de los Municipios del mismo."
+    }
+  ]
+}

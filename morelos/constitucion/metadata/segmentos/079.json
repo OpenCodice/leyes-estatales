@@ -1,0 +1,27 @@
+{
+  "clave": "079",
+  "etiqueta": "Artículo 79",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "079.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › párrafo 1",
+      "texto": "Los Servidores Públicos a que se refiere el artículo 74 de esta Constitución, no podrán desempeñar ningún otro puesto, cargo o comisión de la Federación, de los Estados o de los Municipios, salvo la docencia y los relacionados a la beneficencia pública, o aquellos que por estar directamente relacionados con las funciones de su encargo, sean autorizados en los términos de lo dispuesto por la Ley, y en este último caso, serán siempre de carácter honorífico."
+    },
+    {
+      "id": "079.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › párrafo 2",
+      "texto": "Los servidores públicos a que alude este precepto, así como aquellos que del mismo Poder Ejecutivo del Estado determine la Ley General de Responsabilidades Administrativas y la normativa estatal de la materia, deberán entregar a la Secretaría de la Contraloría Estatal, las declaraciones patrimoniales, de intereses y fiscal, en su caso, que establece el artículo 133 bis de la presente Constitución."
+    }
+  ]
+}

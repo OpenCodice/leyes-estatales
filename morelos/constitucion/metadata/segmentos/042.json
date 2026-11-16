@@ -1,0 +1,72 @@
+{
+  "clave": "042",
+  "etiqueta": "Artículo 42",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "042.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 1",
+      "texto": "El derecho de iniciar Leyes y decretos corresponde:"
+    },
+    {
+      "id": "042.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › Fracción I",
+      "texto": "I.- Al Gobernador del Estado;"
+    },
+    {
+      "id": "042.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › Fracción II",
+      "texto": "II.- A los Diputados al Congreso del mismo;"
+    },
+    {
+      "id": "042.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › Fracción III",
+      "texto": "III.- Al Tribunal Superior de Justicia, en asuntos relacionados con la organización y funcionamiento de la administración de justicia;"
+    },
+    {
+      "id": "042.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › Fracción IV",
+      "texto": "IV.- A los Ayuntamientos."
+    },
+    {
+      "id": "042.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › Fracción V",
+      "texto": "V.- A los ciudadanos morelenses de conformidad con el artículo 19 bis de esta constitución."
+    },
+    {
+      "id": "042.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › Fracción VI",
+      "texto": "VI.- A la Comisión de Derechos Humanos del Estado de Morelos, en asuntos relacionados con los Derechos Humanos.\n\nEl Gobernador del Estado podrá presentar dos iniciativas preferentes el día de la apertura de cada período ordinario de sesiones o solicitar con este carácter dos que hubiera presentado en períodos anteriores que no tengan dictamen, cada iniciativa debe ser discutida y votada por el Pleno del Congreso en un plazo máximo de 40 días naturales. No tendrán carácter de preferentes las iniciativas de presupuesto, fiscal, electoral y reformas a la Constitución del Estado.\n\nEn las iniciativas que se presenten al Congreso Local, se deberá incluir la estimación del impacto presupuestario que implique su implementación."
+    }
+  ]
+}

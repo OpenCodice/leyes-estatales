@@ -1,0 +1,27 @@
+{
+  "clave": "053",
+  "etiqueta": "Artículo 53",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "053.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › párrafo 1",
+      "texto": "Durante los recesos del Congreso, habrá una diputación permanente integrada por cinco diputados, que serán los cuatro que conformen la mesa directiva del Congreso de ese período, más un diputado designado por el pleno, por lo menos treinta días antes de la clausura del período ordinario correspondiente; se instalará el mismo día de la clausura durará el tiempo de receso aun cuando haya sesiones extraordinarias."
+    },
+    {
+      "id": "053.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › párrafo 2",
+      "texto": "En la misma sesión en la que se designe al quinto diputado que se integrará a la diputación permanente, se designarán a tres diputados suplentes."
+    }
+  ]
+}

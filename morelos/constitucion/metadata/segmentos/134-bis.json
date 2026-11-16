@@ -1,0 +1,27 @@
+{
+  "clave": "134-bis",
+  "etiqueta": "Artículo 134 Bis",
+  "titulo": "TITULO SEPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "134-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 134 Bis › párrafo 1",
+      "texto": "El Comité de Participación Ciudadana del Sistema Estatal Anticorrupción es el órgano ciudadano encargado de la vigilancia de las actuaciones de los servidores públicos de las instancias que integran el Sistema Estatal de Anticorrupción, el cual se conformará por cinco miembros que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y propiciará la participación activa de la sociedad, con la finalidad de fortalecer las acciones encaminadas a la prevención, detección y sanción de actos de corrupción. Asimismo contará con las facultades y atribuciones que se establezcan en la normativa aplicable."
+    },
+    {
+      "id": "134-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 134 Bis › párrafo 2",
+      "texto": "Los integrantes del Comité de Participación Ciudadana del Sistema Estatal Anticorrupción serán designados por la Comisión de Selección mediante un procedimiento análogo al del Sistema Nacional, descrito en la Ley local de la materia; durarán cinco años en su cargo, sin que puedan ser designados por un periodo más."
+    }
+  ]
+}

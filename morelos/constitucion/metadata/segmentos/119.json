@@ -1,0 +1,45 @@
+{
+  "clave": "119",
+  "etiqueta": "Artículo 119",
+  "titulo": "TÍTULO SEXTO BIS",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "119.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › párrafo 1",
+      "texto": "La administración pública se guiará por los siguientes principios:"
+    },
+    {
+      "id": "119.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › Fracción I",
+      "texto": "I.- El derecho de asociación se reconoce para proteger y mejorar las condiciones económicas de obreros, campesinos y empleados, ejerciendo el Estado la defensa contra todos los actos de individuos o de asociaciones que menoscaben ese derecho;"
+    },
+    {
+      "id": "119.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › Fracción II",
+      "texto": "II.- Derogada"
+    },
+    {
+      "id": "119.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › Fracción III",
+      "texto": "III.- Los planes y los programas de la Administración Pública, tendrán su origen en un sistema de planeación democrática del desarrollo estatal que, mediante la consulta popular a los diferentes sectores que integran la sociedad civil, recogerá las auténticas aspiraciones y demandas populares que contribuyan a realizar el proyecto social contenido en esta Constitución. La Ley facultará al Ejecutivo para establecer los procedimientos de participación y consulta popular y los criterios para la formulación, instrumentación, control y evaluación del plan y los programas de desarrollo; así mismo determinará los órganos responsables del proceso de planeación y las bases para que el Gobernador del Estado celebre convenios de coordinación con el Gobierno Federal y otras entidades federativas, e induzca y concierte con los particulares las acciones tendientes a su elaboración y control.\n\nEn el sistema de planeación democrática, el Congreso del Estado tendrá la intervención que señale la Ley.\n\nLas discusiones que, en su caso, se realicen para la formulación de la política pública de participación democrática, deberán realizarse en escenarios presenciales o a través de medios electrónicos cuando sea posible, utilizando las tecnologías de la información y las comunicaciones."
+    }
+  ]
+}

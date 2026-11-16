@@ -1,0 +1,27 @@
+{
+  "clave": "001",
+  "etiqueta": "Artículo 1",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "001.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 1",
+      "texto": "El Estado de Morelos, es Libre, Soberano e Independiente. Con los límites geográficos legalmente reconocidos, es parte integrante de los Estados Unidos Mexicanos, y en consecuencia, adopta para su régimen interior la forma de Gobierno republicano, representativo, democrático, laico y popular; tendrá como base de su organización política y administrativa, el Municipio Libre, siendo su Capital la Ciudad de Cuernavaca."
+    },
+    {
+      "id": "001.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 2",
+      "texto": "Todo Poder Público dimana del pueblo y se instituye para su beneficio."
+    }
+  ]
+}
