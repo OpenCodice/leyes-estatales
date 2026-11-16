@@ -1,0 +1,81 @@
+{
+  "clave": "126",
+  "etiqueta": "Artículo 126.",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "126.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126. › párrafo 1",
+      "texto": "Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de sus funciones que le corresponden, si se trata de Municipios de dos o más Estados, deberán de contar con la aprobación de las Legislaturas de los Estados, para construir corporaciones que tengan por objeto:"
+    },
+    {
+      "id": "126.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126. › Fracción I",
+      "texto": "I.- El estudio de los problemas locales."
+    },
+    {
+      "id": "126.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126. › Fracción II",
+      "texto": "II.- La realización de programas de desarrollo común."
+    },
+    {
+      "id": "126.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126. › Fracción III",
+      "texto": "III.- El establecimiento de cuerpos de asesoramiento técnico."
+    },
+    {
+      "id": "126.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126. › Fracción IV",
+      "texto": "IV.- La capacitación de sus funcionarios y empleados."
+    },
+    {
+      "id": "126.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126. › Fracción V",
+      "texto": "V.- La instrumentación de programas de urbanismo y planeación del crecimiento de sus ciudades."
+    },
+    {
+      "id": "126.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126. › Fracción VI",
+      "texto": "VI.- La realización y construcción de obras, y la prestación de servicios públicos o el mejor ejercicio de las funciones que le corresponden; y"
+    },
+    {
+      "id": "126.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126. › Fracción VII",
+      "texto": "VII.- Las demás que tiendan a promover el bienestar y progreso de sus respectivas comunidades."
+    }
+  ]
+}

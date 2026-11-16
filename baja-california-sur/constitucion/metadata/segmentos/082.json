@@ -1,0 +1,54 @@
+{
+  "clave": "082",
+  "etiqueta": "Artículo 82.",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "082.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82. › párrafo 1",
+      "texto": "Para ser Secretario de Despacho se requiere:"
+    },
+    {
+      "id": "082.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82. › Fracción I",
+      "texto": "I.- Ser ciudadano mexicano, en pleno ejercicio de sus derechos políticos y civiles;"
+    },
+    {
+      "id": "082.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82. › Fracción II",
+      "texto": "II.- Tener 25 años de edad como mínimo."
+    },
+    {
+      "id": "082.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82. › Fracción III",
+      "texto": "III.- Tener un modo honesto de vivir; y"
+    },
+    {
+      "id": "082.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82. › Fracción IV",
+      "texto": "IV.- No haber sido condenado por delitos del fuero común, intencionales u oficiales."
+    }
+  ]
+}

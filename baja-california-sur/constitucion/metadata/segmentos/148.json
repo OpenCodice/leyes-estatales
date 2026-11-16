@@ -1,0 +1,369 @@
+{
+  "clave": "148",
+  "etiqueta": "Artículo 148.",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "CAPITULO VIII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "148.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › párrafo 1",
+      "texto": "Son facultades y obligaciones de los Ayuntamientos:"
+    },
+    {
+      "id": "148.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción I",
+      "texto": "I.- Cumplir y hacer cumplir las Leyes, Decretos y disposiciones Federales, Estatales y Municipales."
+    },
+    {
+      "id": "148.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción II",
+      "texto": "II.- Aprobar y expedir en el ámbito de su competencia los Bandos de Policía y Buen Gobierno; los Reglamentos, Circulares y Disposiciones Administrativas de Observancia General dentro de sus respectivas jurisdicciones, que organicen la Administración Pública Municipal, regulen las materias, procedimientos, funciones y Servicios Públicos de su competencia que procuren la participación ciudadana y vecinal."
+    },
+    {
+      "id": "148.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción III",
+      "texto": "III.- Conceder licencia a sus miembros hasta por treinta días y llamar a quienes deban suplirlos."
+    },
+    {
+      "id": "148.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción IV",
+      "texto": "IV.- Designar al Regidor que deba sustituir al Presidente Municipal en caso de falta absoluta de éste y su suplente, y llamar a los suplentes del Síndico o Regidores en los casos de falta absoluta de éstos."
+    },
+    {
+      "id": "148.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción V",
+      "texto": "V.- Mantener los servicios de Seguridad Pública, Policía Preventiva y de Transitó Municipales de acuerdo con la Ley en la materia."
+    },
+    {
+      "id": "148.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción VI",
+      "texto": "VI.- Establecer en el Territorio del Municipio, las Delegaciones y Subdelegaciones que sean necesarias."
+    },
+    {
+      "id": "148.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción VII",
+      "texto": "VII.- Formular, aprobar y administrar la zonificación y planes de desarrollo urbano municipal, así como de los Asentamientos Humanos, debiendo establecer la prohibición de usos de suelo y uso de edificación para que no se pueda establecer ni funcionar ninguna casa, o lugar abierto o cerrado, en que se practiquen juegos con apuestas ni sorteos, de ninguna clase y similares; en el ámbito de su competencia; proteger, preservar y restaurar el equilibrio ecológico conforme a lo dispuesto en la Fracción XXIX-G del Artículo 73 de la Constitución General de la República, así como su regularización de la tenencia de la tierra en el ámbito de su competencia.\n\nAsimismo, otorgar licencias y permisos para construcciones. No estarán permitidos en el Estado los permisos o licencias de construcción para establecerse ni funcionar ninguna casa o lugar abierto o cerrado en que se practiquen juegos con apuestas ni sorteos de ninguna clase y similares.\n\nVII Bis.- Incorporar a los planes y programas de desarrollo urbano como uso de suelo de conservación, los decretos de Áreas Naturales Protegidas y de Zonas de Salvaguarda Territoriales para la Prevención de la Contaminación, emitidas por el Gobernador del Estado.\n\nNo se otorgarán los permisos para construcciones, cualquiera que sea su tipo, que tengan como propósito el manejo, la acumulación o resguardo de materiales peligrosos, conforme a la Ley en materia de Equilibrio Ecológico y Protección del Ambiente vigente en la Entidad."
+    },
+    {
+      "id": "148.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción VIII",
+      "texto": "VIII.- Proceder conforme a la Ley sobre monumentos y zonas arqueológicas, artísticas e históricas, con auxilio del Instituto correspondiente, para ordenar la suspensión provisional de las obras de restauración y conservación de bienes declarados monumentos, y que se ejecuten sin la autorización o permiso correspondiente."
+    },
+    {
+      "id": "148.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción IX",
+      "texto": "IX.- Promover el mejoramiento de las funciones y Servicios Públicos, y el acrecentamiento del patrimonio Municipal.\n\nLas funciones y servicios públicos que el Municipio tendrá a su cargo serán los siguientes:"
+    },
+    {
+      "id": "148.IX.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "IX",
+      "ruta": "Artículo 148. › Fracción IX › inciso a)",
+      "texto": "a) Agua potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales."
+    },
+    {
+      "id": "148.IX.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "IX",
+      "ruta": "Artículo 148. › Fracción IX › inciso b)",
+      "texto": "b) Alumbrado público;"
+    },
+    {
+      "id": "148.IX.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "IX",
+      "ruta": "Artículo 148. › Fracción IX › inciso c)",
+      "texto": "c) Seguridad Pública en los términos del Artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, Policía preventiva y de Tránsito Municipales de acuerdo con la Ley en la materia;"
+    },
+    {
+      "id": "148.IX.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "IX",
+      "ruta": "Artículo 148. › Fracción IX › inciso d)",
+      "texto": "d) Limpia, recolección, traslado, tratamiento y disposición final de residuos;"
+    },
+    {
+      "id": "148.IX.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "IX",
+      "ruta": "Artículo 148. › Fracción IX › inciso e)",
+      "texto": "e) Mercados Públicos y Centrales de Abastos;"
+    },
+    {
+      "id": "148.IX.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "IX",
+      "ruta": "Artículo 148. › Fracción IX › inciso f)",
+      "texto": "f) Panteones;"
+    },
+    {
+      "id": "148.IX.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "IX",
+      "ruta": "Artículo 148. › Fracción IX › inciso g)",
+      "texto": "g) Rastros;"
+    },
+    {
+      "id": "148.IX.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "",
+      "fraccion": "IX",
+      "ruta": "Artículo 148. › Fracción IX › inciso h)",
+      "texto": "h) Calles, parques, jardines y su equipamiento;"
+    },
+    {
+      "id": "148.IX.i",
+      "tipo": "inciso",
+      "marca": "i",
+      "apartado": "",
+      "fraccion": "IX",
+      "ruta": "Artículo 148. › Fracción IX › inciso i)",
+      "texto": "i) Los demás que el Congreso del Estado determine, según las condiciones territoriales y socioeconómicas de los Municipios, así como de su capacidad administrativa y financiera."
+    },
+    {
+      "id": "148.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción X",
+      "texto": "X.- Presentar ante el Congreso del Estado para su aprobación en su caso, durante los primeros quince días del mes de noviembre de cada año, sus iniciativas de Leyes de Ingresos, que regirán durante el año siguiente."
+    },
+    {
+      "id": "148.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción XI",
+      "texto": "XI.- Formular, aprobar, y publicar anualmente conforme a la Ley su Presupuesto de Egresos conforme a sus ingresos, debiendo preverse las partidas necesarias para cumplir con sus obligaciones, incluyendo las derivadas de la celebración de los Contratos de Servicios de Largo Plazo."
+    },
+    {
+      "id": "148.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción XII",
+      "texto": "XII.- Rendir al Congreso del Estado, a más tardar el 30 de abril, la cuenta del gasto público del año anterior."
+    },
+    {
+      "id": "148.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción XIII",
+      "texto": "XIII.- Promover el desenvolvimiento social, cultural, artístico, deportivo, científico y tecnológico de la comunidad."
+    },
+    {
+      "id": "148.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción XIV",
+      "texto": "XIV.- Acordar lo conveniente para la formación del censo y estadística del Municipio, con sujeción a la Ley."
+    },
+    {
+      "id": "148.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción XV",
+      "texto": "XV.- Decretar las obras de utilidad pública u ornato del Municipio."
+    },
+    {
+      "id": "148.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción XVI",
+      "texto": "XVI.- Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En este caso y tratándose de la Asociación de Municipios de dos o más Estados deberán contar con la aprobación de las Legislaturas de los Estados respectivos. Así mismo cuando a juicio del Ayuntamiento respectivo sea necesario, podrán celebrar convenios con el Estado para que este, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien ejerzan coordinadamente por el Estado y por el propio Municipio."
+    },
+    {
+      "id": "148.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción XVII",
+      "texto": "XVII.- Con la aprobación de las dos terceras partes de sus integrantes, solicitar al Congreso del Estado, su aprobación para celebrar convenio para que el Gobierno del Estado, asuma una función o servicio público municipal por el tiempo que se requiera, y en su caso establecer una prórroga."
+    },
+    {
+      "id": "148.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción XVIII",
+      "texto": "XVIII.- Derogada."
+    },
+    {
+      "id": "148.XIX",
+      "tipo": "fraccion",
+      "marca": "XIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción XIX",
+      "texto": "XIX.- Celebrar Convenios para que Instituciones Federales o Estatales presten los servicios de seguridad social a sus trabajadores."
+    },
+    {
+      "id": "148.XX",
+      "tipo": "fraccion",
+      "marca": "XX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción XX",
+      "texto": "XX.- Formular y promover la ejecución de la política municipal ecológica, cuidando que guarde congruencia con la estatal y federal. Con la finalidad de preservar y restaurar el equilibrio ecológico en áreas o zonas de jurisdicción municipal."
+    },
+    {
+      "id": "148.XXI",
+      "tipo": "fraccion",
+      "marca": "XXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción XXI",
+      "texto": "XXI.- Publicar cada tres meses en el Boletín Oficial del Gobierno del Estado de Baja California Sur y en el periódico local de mayor circulación, los ingresos propios, federales y estatales obtenidos, así como su egreso por rubros."
+    },
+    {
+      "id": "148.XXII",
+      "tipo": "fraccion",
+      "marca": "XXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción XXII",
+      "texto": "XXII.- Participar en la formulación de los planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia;"
+    },
+    {
+      "id": "148.XXIII",
+      "tipo": "fraccion",
+      "marca": "XXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción XXIII",
+      "texto": "XXIII.- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial;"
+    },
+    {
+      "id": "148.XXIV",
+      "tipo": "fraccion",
+      "marca": "XXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción XXIV",
+      "texto": "XXIV.- Celebrar convenios para la administración y custodia de las zonas federales;"
+    },
+    {
+      "id": "148.XXV",
+      "tipo": "fraccion",
+      "marca": "XXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción XXV",
+      "texto": "XXV.- Aprobar con el voto de las dos terceras partes de sus integrantes la afectación del patrimonio inmobiliario municipal; así como la celebración de actos o convenios que comprometan al Ayuntamiento por un plazo mayor al periodo de su administración; y"
+    },
+    {
+      "id": "148.XXVI",
+      "tipo": "fraccion",
+      "marca": "XXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción XXVI",
+      "texto": "XXVI.- Podrá participar en la elaboración de la iniciativa de Ley de Coordinación Fiscal para el Estado y Municipios, que el Gobernador proponga al Congreso del Estado.\n\nIgualmente, podrá celebrar convenios con el Gobierno del Estado, en materia de coordinación fiscal.\n\nAsimismo, podrá concurrir a la creación del Comité de Contribuyentes a que se refiere el Código Fiscal del Estado de Baja California Sur, en términos del propio ordenamiento, y formar parte de dicho Comité nombrando para tal efecto un representante.\n\nDe igual manera, los Ayuntamiento podrán concurrir con el Gobernador del Estado a la creación de un organismo que tenga la finalidad de revisar permanentemente los aspectos que atañen a la recaudación y distribución de las diversas contribuciones que en vía de ingresos conforman las Haciendas Públicas Municipales, y con la finalidad de crear un grupo de asesoría, capacitación y planeación hacendaria, en el ámbito de coordinación fiscal que determine la Ley de la materia.\n\nPara los efectos señalados, las autoridades fiscales Municipales, como integrantes del organismo a que se refiere el párrafo anterior, se reunirán trimestralmente con las autoridades fiscales del Gobierno del Estado."
+    },
+    {
+      "id": "148.XXVII",
+      "tipo": "fraccion",
+      "marca": "XXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción XXVII",
+      "texto": "XXVII.- Contratar obligaciones y empréstitos a nombre del Municipio, con la aprobación previa del Congreso del Estado, siempre que se destinen a inversiones públicas productivas y a su refinanciamiento o reestructura, mismas que deberán realizarse bajo las mejores condiciones del mercado, inclusive los que contraigan organismos descentralizados, empresas públicas y fideicomisos, así como otorgar garantías respecto al endeudamiento de estos entes. Lo anterior, conforme a la ley de la materia, en el marco de lo previsto en la Constitución Política de los Estados Unidos Mexicanos, y por los conceptos y hasta por los montos que el Congreso del Estado apruebe.\n\nSin perjuicio de lo anterior, los Ayuntamientos podrán contratar obligaciones para cubrir necesidades de corto plazo, sin rebasar los límites máximos y condiciones establecidos en la Ley de Disciplina Financiera de las Entidades Federativas y los Municipios. Las obligaciones a corto plazo, deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente y no podrán contratarse nuevas obligaciones durante esos últimos tres meses.\n\nLos Ayuntamientos informarán al Congreso del Estado del ejercicio de las facultades referidas en el párrafo anterior al rendir la cuenta pública. En ningún caso podrán destinar empréstitos para cubrir gasto corriente.\n\nAsimismo, los Municipios directa o indirectamente e individual o conjuntamente con otros Municipios del Estado, podrán llegar a cabo emisiones de valores previa afectación que hagan de sus ingresos, con la aprobación de sus Ayuntamientos y del Congreso del Estado, obteniendo recursos que se destinen a inversiones públicas productivas e incluyendo en sus presupuestos de egresos, las partidas correspondientes para el cumplimiento de sus obligaciones.\n\nIgualmente, con autorización de sus Ayuntamientos y del Congreso del Estado, y sujeto a lo establecido en la legislación aplicable, los Municipios del Estado, podrán constituir garantías, otorgar avales, obligarse solidariamente, mancomunadamente o subsidiariamente o ser obligados sustitutos de otros Municipios del Estado, de sus organismos descentralizados municipales o intermunicipales, de las empresas de participación municipal y de los fideicomisos públicos municipales."
+    },
+    {
+      "id": "148.XXVIII",
+      "tipo": "fraccion",
+      "marca": "XXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción XXVIII",
+      "texto": "XXVIII.- Celebrar Contratos de Servicios de Largo Plazo, previa autorización del Congreso del Estado."
+    },
+    {
+      "id": "148.XXIX",
+      "tipo": "fraccion",
+      "marca": "XXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción XXIX",
+      "texto": "XXIX.- Promover el desarrollo sustentable de la pesca y la acuacultura y ejercer las atribuciones que en esta materia, las disposiciones legales aplicables, confieran a los Municipios; y"
+    },
+    {
+      "id": "148.XXX",
+      "tipo": "fraccion",
+      "marca": "XXX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148. › Fracción XXX",
+      "texto": "XXX.- Las demás que señale esta Constitución, la General de la República y las leyes que de ellas emanen."
+    }
+  ]
+}

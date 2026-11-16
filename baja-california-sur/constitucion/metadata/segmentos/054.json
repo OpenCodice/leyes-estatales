@@ -1,0 +1,27 @@
+{
+  "clave": "054",
+  "etiqueta": "Artículo 54.",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "054.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54. › párrafo 1",
+      "texto": "Incurrirán en responsabilidad y se harán acreedores a las sanciones que la Ley señale quienes, habiendo sido electo diputadas y diputados, no se presenten, sin causa justificada, a juicio del Congreso del Estado, a desempeñar el cargo dentro del plazo señalado en el Artículo anterior."
+    },
+    {
+      "id": "054.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54. › párrafo 2",
+      "texto": "También incurrirán en responsabilidad, que la misma Ley sancionará, los partidos políticos que, habiendo postulado candidatos en una elección, acuerden que sus miembros que resultaren electos, no se presenten a desempeñar sus funciones."
+    }
+  ]
+}

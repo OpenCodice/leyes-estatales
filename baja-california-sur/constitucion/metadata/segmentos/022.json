@@ -1,0 +1,81 @@
+{
+  "clave": "022",
+  "etiqueta": "Artículo 22.",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "022.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22. › párrafo 1",
+      "texto": "Son obligaciones de los habitantes del Estado."
+    },
+    {
+      "id": "022.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22. › Fracción I",
+      "texto": "I.- Cumplir con los preceptos de esta Constitución, los de las Leyes, reglamentos y disposiciones que de ella emanen y respetar a las autoridades;"
+    },
+    {
+      "id": "022.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22. › Fracción II",
+      "texto": "II.- Contribuir a los gastos públicos del Estado y del Municipio en que residan, en la forma proporcional y equitativa que dispongan las Leyes;"
+    },
+    {
+      "id": "022.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22. › Fracción III",
+      "texto": "III.- Inscribir en el Registro Civil los actos constitutivos o modificativos del estado civil;"
+    },
+    {
+      "id": "022.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22. › Fracción IV",
+      "texto": "IV.- Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas, para obtener la educación preescolar, primaria, secundaria y media superior y reciban la instrucción militar, en los términos que establezca la ley."
+    },
+    {
+      "id": "022.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22. › Fracción V",
+      "texto": "V.- Tener un modo honesto de vivir;"
+    },
+    {
+      "id": "022.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22. › Fracción VI",
+      "texto": "VI.- Dar auxilio a las autoridades en los casos de urgencia; y"
+    },
+    {
+      "id": "022.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22. › Fracción VII",
+      "texto": "VII.- Si son Extranjeros, contribuir para los gastos públicos de la manera que dispongan las Leyes; obedecer y respetar las Instituciones, Leyes y Autoridades del Estado; sujetarse a los fallos y sentencias de los Tribunales; sin poder invocar o intentar otros recursos que los que se conceden a todos los mexicanos."
+    }
+  ]
+}

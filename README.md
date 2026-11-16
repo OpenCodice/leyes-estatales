@@ -3,7 +3,7 @@
 Texto vigente de leyes de las entidades federativas, un archivo por artículo,
 versionado en git para dejar un **rastro auditable de las reformas**.
 
-Hoy: las constituciones de 31 de las 32 entidades.
+Hoy: las constituciones de las 32 entidades.
 
 > Repo de **datos**. La lógica que genera estos archivos vive en
 > [`constitucion-extractor`](https://github.com/OpenCodice/constitucion-extractor)
@@ -20,6 +20,8 @@ Complementa al repo federal
 {estado}/
 └── {ley}/
     ├── fuente/constitucion.pdf   ← PDF oficial (para citar y resaltar)
+    │   (Baja California Sur solo publica Word: ahí van el .doc oficial y el
+    │    PDF que genera LibreOffice en la vigilancia, que es el que se lee)
     ├── articulos/NNN.md          ← capa 1: texto fiel, fuente de verdad
     └── metadata/                 ← capa 3: índice derivado, regenerable
         ├── articulos.json        ·  índice + versión + fuente
@@ -47,6 +49,7 @@ ensucia el historial del texto.
 |---|---|---|
 | Aguascalientes | [`aguascalientes/constitucion/`](aguascalientes/constitucion/) | Periódico Oficial del Estado de Aguascalientes — Congreso del Estado de Aguascalientes |
 | Baja California | [`baja-california/constitucion/`](baja-california/constitucion/) | H. Congreso del Estado de Baja California |
+| Baja California Sur | [`baja-california-sur/constitucion/`](baja-california-sur/constitucion/) | Boletín Oficial del Gobierno del Estado de Baja California Sur — H. Congreso del Estado de Baja California Sur (PDF generado del Word oficial) |
 | Campeche | [`campeche/constitucion/`](campeche/constitucion/) | Congreso del Estado de Campeche (Compendio Jurídico, legislacion.congresocam.gob.mx) |
 | Ciudad de México | [`cdmx/constitucion/`](cdmx/constitucion/) | Gaceta Oficial de la Ciudad de México — Congreso de la Ciudad de México |
 | Chiapas | [`chiapas/constitucion/`](chiapas/constitucion/) | H. Congreso del Estado de Chiapas (Legislación vigente) |
@@ -76,8 +79,6 @@ ensucia el historial del texto.
 | Veracruz | [`veracruz/constitucion/`](veracruz/constitucion/) | Gaceta Oficial del Estado de Veracruz — H. Congreso del Estado de Veracruz |
 | Yucatán | [`yucatan/constitucion/`](yucatan/constitucion/) | H. Congreso del Estado de Yucatán (Secretaría General del Poder Legislativo, Unidad de Servicios Técnico-Legislativos) |
 | Zacatecas | [`zacatecas/constitucion/`](zacatecas/constitucion/) | Poder Legislativo del Estado de Zacatecas (Congreso del Estado, LXV Legislatura) |
-
-Faltan 1: Baja California Sur. Por qué, en [constitucion.app/leyes](https://constitucion.app/leyes#estados).
 <!-- ESTADOS:FIN -->
 
 La tabla la regenera `scripts/gen_readme.py` al dar de alta un estado. Cada

@@ -1,0 +1,36 @@
+{
+  "clave": "072",
+  "etiqueta": "Artículo 72.",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "072.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72. › párrafo 1",
+      "texto": "En caso de falta absoluta del Gobernador del Estado ocurrida en los dos primeros años del periodo respectivo, si el Congreso del Estado estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral, y concurriendo las dos terceras partes del número total de sus miembros, designará por votación secreta y por mayoría absoluta de votos, un Gobernador Interino, expidiendo el propio Congreso del Estado, dentro de los diez días siguientes al de la designación del Gobernador Interino, la convocatoria para la elección del Gobernador que habrá de concluir el período correspondiente. Entre la fecha de la convocatoria y la que se señale para la verificación de las elecciones deberá haber un plazo no menor de seis meses, ni mayor de doce."
+    },
+    {
+      "id": "072.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72. › párrafo 2",
+      "texto": "Si el Congreso del Estado no estuviere en sesiones, la Diputación Permanente nombrará, desde luego, un Gobernador Provisional, y convocará a sesiones extraordinarias al Congreso del Estado para que éste, a su vez, designe al Gobernador Interino y expida la convocatoria a elecciones de Gobernador en los términos del párrafo anterior."
+    },
+    {
+      "id": "072.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72. › párrafo 3",
+      "texto": "Cuando la falta absoluta de Gobernador ocurriese en los cuatro últimos años del período respectivo, si el Congreso del Estado se encontrase en sesiones, designará al Gobernador sustituto que habrá de concluir el periodo. Si el Congreso del Estado no estuviere reunido, la Diputación Permanente nombrará un Gobernador Provisional y convocará al Congreso del Estado a sesiones extraordinarias para que, erigido en Colegio Electoral, haga la elección del Gobernador sustituto."
+    }
+  ]
+}

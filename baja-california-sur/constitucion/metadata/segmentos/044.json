@@ -1,0 +1,45 @@
+{
+  "clave": "044",
+  "etiqueta": "Artículo 44.",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "044.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44. › párrafo 1",
+      "texto": "Para ser Diputada o Diputado al Congreso del Estado se requiere:"
+    },
+    {
+      "id": "044.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44. › Fracción I",
+      "texto": "I.- Ser Sudcaliforniano y ciudadana o ciudadano del Estado en ejercicio de sus derechos;"
+    },
+    {
+      "id": "044.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44. › Fracción II",
+      "texto": "II.- Tener 18 años cumplidos el día de la elección; y"
+    },
+    {
+      "id": "044.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44. › Fracción III",
+      "texto": "III.- Estar en pleno goce de sus derechos y tener residencia efectiva no menor de un año anterior al día de la elección, en el distrito por el que se pretende postular o tres años en el Estado."
+    }
+  ]
+}

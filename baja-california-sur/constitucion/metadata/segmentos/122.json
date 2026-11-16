@@ -1,0 +1,90 @@
+{
+  "clave": "122",
+  "etiqueta": "Artículo 122.",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "122.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122. › párrafo 1",
+      "texto": "Para la creación de Municipios en el Estado, se requerirá la aprobación del Congreso del Estado y la concurrencia de los siguientes elementos:"
+    },
+    {
+      "id": "122.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122. › Fracción I",
+      "texto": "I.- Que sea conveniente para satisfacer las necesidades de sus habitantes."
+    },
+    {
+      "id": "122.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122. › Fracción II",
+      "texto": "II.- Que la superficie del Territorio del Estado en el que se pretenda erigir sea suficiente para cubrir sus necesidades y atender a sus posibilidades y de desarrollo futuro."
+    },
+    {
+      "id": "122.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122. › Fracción III",
+      "texto": "III.- Que compruebe debidamente ante el Congreso, que tienen elementos suficientes para proveer a su existencia política."
+    },
+    {
+      "id": "122.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122. › Fracción IV",
+      "texto": "IV.- Que su población no sea inferior a cinco mil habitantes."
+    },
+    {
+      "id": "122.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122. › Fracción V",
+      "texto": "V.- Que la comunidad en la que se establezca su cabecera cuente con más de tres mil habitantes."
+    },
+    {
+      "id": "122.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122. › Fracción VI",
+      "texto": "VI.- Que la ciudad señalada en la fracción anterior, tenga servicios públicos adecuados para su población."
+    },
+    {
+      "id": "122.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122. › Fracción VII",
+      "texto": "VII.- Que previamente se escuche la opinión de los Ayuntamientos de los Municipios que puedan ser afectados en su territorio por la creación del nuevo, y"
+    },
+    {
+      "id": "122.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122. › Fracción VIII",
+      "texto": "VIII.- Que cuando menos las dos terceras partes de las ciudadanas y ciudadanos del territorio que se pretenda erigir en Municipio, manifiesten su conformidad en plebiscito que al efecto se lleve a cabo.\n\nCuando la solicitud provenga de la ciudadanía, el procedimiento se sujetará a lo dispuesto por la Ley de la materia."
+    }
+  ]
+}

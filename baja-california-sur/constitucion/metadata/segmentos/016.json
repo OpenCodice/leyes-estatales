@@ -1,0 +1,36 @@
+{
+  "clave": "016",
+  "etiqueta": "Artículo 16.",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "016.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16. › párrafo 1",
+      "texto": "Ninguna persona podrá hacerse justicia por sí misma, ni ejercer violencia para reclamar su derecho."
+    },
+    {
+      "id": "016.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16. › párrafo 2",
+      "texto": "Las leyes preverán mecanismos alternativos de solución de controversias. En la materia penal asegurarán su aplicación y la reparación del daño y establecerán los casos en los que se requerirá supervisión judicial."
+    },
+    {
+      "id": "016.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16. › párrafo 3",
+      "texto": "El Estado garantizará la existencia de un servicio de defensoría pública de calidad para la población y asegurarán las condiciones para un servicio profesional de carrera para los defensores. Las percepciones de los defensores no podrán ser inferiores a las que correspondan a los agentes del Ministerio Público."
+    }
+  ]
+}

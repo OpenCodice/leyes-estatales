@@ -1,0 +1,27 @@
+{
+  "clave": "039",
+  "etiqueta": "Artículo 39.",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "039.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39. › párrafo 1",
+      "texto": "El poder público del Estado se considera dividido, para el ejercicio de sus funciones, en Legislativo, Ejecutivo y Judicial."
+    },
+    {
+      "id": "039.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39. › párrafo 2",
+      "texto": "No podrán reunirse dos o más de estos poderes en una sola persona o corporación, ni depositarse el legislativo en un solo individuo."
+    }
+  ]
+}

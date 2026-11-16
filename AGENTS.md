@@ -2,8 +2,8 @@
 
 Texto vigente de las constituciones estatales de México, un archivo por
 artículo, versionado para que el historial de git sea el registro de sus
-reformas. Hoy: 31 de las 32 entidades; las que faltan, y por qué, están en
-`estados.json` del extractor. Es un repo de datos: el único código es
+reformas. Hoy: las 32 entidades; su situación está en `estados.json` del
+extractor. Es un repo de datos: el único código es
 `scripts/gen_readme.py`.
 
 **No edites a mano nada de `{estado}/constitucion/articulos/` ni de su

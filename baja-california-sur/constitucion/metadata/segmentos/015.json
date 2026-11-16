@@ -1,0 +1,81 @@
+{
+  "clave": "015",
+  "etiqueta": "Artículo 15.",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "015.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15. › párrafo 1",
+      "texto": "Nadie puede ser molestado en su persona, familia, domicilio, papeles o posesiones, sino en virtud de mandamiento de la autoridad competente, que funde y motive la causa legal de procedimiento."
+    },
+    {
+      "id": "015.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15. › párrafo 2",
+      "texto": "No podrá librarse orden de aprehensión sino por la autoridad judicial y sin que preceda denuncia o querella de un hecho que la ley señale como delito, sancionado con pena privativa de libertad y obren datos que estimen la existencia de un hecho que la ley señala como delito, así como la probabilidad de que el imputado lo cometió o participó en su comisión. La autoridad que ejecute una orden judicial de aprehensión, deberá poner al imputado a disposición del juez, sin dilación alguna y bajo su más estricta responsabilidad. La contravención será sancionada por la ley penal."
+    },
+    {
+      "id": "015.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15. › párrafo 3",
+      "texto": "Cualquier persona puede detener al indiciado en el momento en que esté cometiendo un delito o inmediatamente después de haberlo cometido, poniéndolo sin demora a disposición de la autoridad más cercana y ésta con la misma prontitud, a la del Ministerio Público. Existirá un registro inmediato de la detención."
+    },
+    {
+      "id": "015.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15. › párrafo 4",
+      "texto": "Sólo en casos urgentes, cuando se trate de delito grave así calificado por la ley y ante el riesgo fundado de que el imputado pueda sustraerse a la acción de la justicia, siempre y cuando no se pueda ocurrir ante la autoridad judicial por razón de la hora, lugar o circunstancia, el Ministerio Público podrá, bajo su responsabilidad, ordenar su detención, fundando y expresando los indicios que motiven su proceder."
+    },
+    {
+      "id": "015.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15. › párrafo 5",
+      "texto": "Ningún indiciado podrá ser retenido por el Ministerio Público por más de cuarenta y ocho horas, plazo en que deberá ordenarse su libertad o ponérsele a disposición de la autoridad judicial; Todo abuso a lo anteriormente dispuesto será sancionado por la ley penal."
+    },
+    {
+      "id": "015.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15. › párrafo 6",
+      "texto": "El Ministerio Público podrá solicitar una orden de cateo a la autoridad judicial, especificando el objeto de la misma. Dicha orden deberá expresar el lugar que ha de inspeccionarse, la persona o personas que hayan de aprehenderse, los objetos que se buscan, a lo que debe limitarse únicamente la diligencia, levantándose al concluirla un acta circunstanciada en presencia de dos testigos propuestos por el ocupante del lugar cateado, o en su ausencia o negativa, por la autoridad que practique la diligencia."
+    },
+    {
+      "id": "015.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15. › párrafo 7",
+      "texto": "Las comunicaciones privadas son inviolables, y la contravención a esta disposición será sancionada por la ley penal, excepto cuando algún particular presente de manera voluntaria una comunicación privada donde haya tenido intervención directa. El juez valorará el alcance de éstas, siempre y cuando contengan información relacionada con la comisión de un delito. El Procurador General de Justicia del Estado podrá solicitar a la autoridad judicial federal la intervención de comunicaciones privadas."
+    },
+    {
+      "id": "015.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15. › párrafo 8",
+      "texto": "El Poder Judicial del Estado contará con jueces de control, quienes resolverán de manera inmediata, y por cualquier medio, las providencias precautorias, medidas cautelares y técnicas de investigación que requieran control judicial, garantizando el derecho de los imputados y de las víctimas u ofendidos. Asimismo, existirán registros fehacientes de comunicación entre jueces, Ministerio Público y demás autoridades competentes, para garantizar el otorgamiento, justificación y permanencia de estas medidas."
+    }
+  ]
+}
