@@ -186,7 +186,10 @@ jobs:
 
       - name: Abrir Pull Request
         id: pr
-        if: steps.url.outputs.skip == 'false' && steps.cambios.outputs.hay_cambios == 'true'
+        # Solo se publica lo verificado. Lo que no pasó las compuertas no se
+        # publica: el texto vigente se queda como está y la siguiente vigilancia
+        # lo vuelve a intentar, con el agente reparando el extractor.
+        if: steps.url.outputs.skip == 'false' && steps.cambios.outputs.hay_cambios == 'true' && steps.veredicto.outputs.ok == 'true'
         uses: peter-evans/create-pull-request@v7
         with:
           # Con un PAT (secret PR_TOKEN) el PR nace atribuido a un usuario real,
