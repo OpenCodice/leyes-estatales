@@ -54,7 +54,9 @@ jobs:
 
   vigilar:
     needs: planear
-    runs-on: ubuntu-latest
+    # Imagen fija: la conversión del Word (estados con formato doc) depende de
+    # la versión de LibreOffice de la imagen.
+    runs-on: ubuntu-24.04
     strategy:
       fail-fast: false
       max-parallel: 8
@@ -119,6 +121,18 @@ jobs:
             # (ver certs/README.md del extractor): la cadena se valida igual.
             cat /etc/ssl/certs/ca-certificates.crt /tmp/extractor/certs/*.pem > /tmp/ca.pem
             curl -sSL --retry 3 -A "Mozilla/5.0" --cacert /tmp/ca.pem -o /tmp/estatal.pdf "$URL"
+          fi
+          if [ "${{ matrix.formato }}" = "doc" ]; then
+            # El estado solo publica Word: se guarda el original y el extractor lee
+            # el PDF que genera LibreOffice. Los dos quedan en fuente/.
+            mv /tmp/estatal.pdf /tmp/estatal.doc
+            head -c 8 /tmp/estatal.doc | od -An -tx1 | grep -q 'd0 cf 11 e0' \
+              || { echo "::error::${{ matrix.estado }}: la URL no devolvió un documento de Word"; exit 1; }
+            sudo apt-get update -qq
+            sudo apt-get install -y -qq --no-install-recommends libreoffice-writer > /dev/null
+            soffice --version
+            soffice --headless --convert-to pdf --outdir /tmp/conv /tmp/estatal.doc
+            mv /tmp/conv/estatal.pdf /tmp/estatal.pdf
           fi
           # Algunos sitios responden 200 con una página HTML cuando el archivo ya no existe.
           head -c 5 /tmp/estatal.pdf | grep -q '%PDF' || { echo "::error::${{ matrix.estado }}: la URL no devolvió un PDF"; exit 1; }
@@ -185,7 +199,11 @@ jobs:
 
       - name: Actualizar el PDF fuente (solo si hubo reforma)
         if: steps.url.outputs.skip == 'false' && steps.cambios.outputs.hay_cambios == 'true'
-        run: cp /tmp/estatal.pdf "$GITHUB_WORKSPACE/${{ matrix.dir }}/fuente/constitucion.pdf"
+        run: |
+          cp /tmp/estatal.pdf "$GITHUB_WORKSPACE/${{ matrix.dir }}/fuente/constitucion.pdf"
+          if [ "${{ matrix.formato }}" = "doc" ]; then
+            cp /tmp/estatal.doc "$GITHUB_WORKSPACE/${{ matrix.dir }}/fuente/constitucion.doc"
+          fi
 
       - name: Generar cuerpo del PR
         if: steps.url.outputs.skip == 'false' && steps.cambios.outputs.hay_cambios == 'true'
