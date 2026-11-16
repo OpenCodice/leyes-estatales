@@ -1,0 +1,27 @@
+{
+  "clave": "046",
+  "etiqueta": "Artículo 46.",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "046.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46. › párrafo 1",
+      "texto": "Las personas Diputadas al Congreso del Estado no podrán ser reelectas para el período inmediato posterior al ejercicio de su mandato."
+    },
+    {
+      "id": "046.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46. › párrafo 2",
+      "texto": "Las personas Diputadas suplentes podrán ser electas para el período inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio; pero las personas Diputadas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes."
+    }
+  ]
+}

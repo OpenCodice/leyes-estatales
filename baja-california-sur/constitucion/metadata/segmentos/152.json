@@ -1,0 +1,54 @@
+{
+  "clave": "152",
+  "etiqueta": "Artículo 152.",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "CAPITULO IX",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "152.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 152. › párrafo 1",
+      "texto": "El Síndico tiene a su cargo la vigilancia de la Hacienda Pública Municipal, y además:"
+    },
+    {
+      "id": "152.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 152. › Fracción I",
+      "texto": "I.- Comparecer ante las autoridades judiciales en los asuntos que revistan interés jurídico para el Ayuntamiento."
+    },
+    {
+      "id": "152.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 152. › Fracción II",
+      "texto": "II.- Tramitar ante las autoridades correspondientes los asuntos relacionados con su competencia."
+    },
+    {
+      "id": "152.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 152. › Fracción III",
+      "texto": "III.- Presidir la comisión de Hacienda Municipal y revisar las cuentas de la Tesorería."
+    },
+    {
+      "id": "152.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 152. › Fracción IV",
+      "texto": "IV.- Las demás que le confieran las Leyes, Reglamentos y Acuerdos del Ayuntamiento."
+    }
+  ]
+}

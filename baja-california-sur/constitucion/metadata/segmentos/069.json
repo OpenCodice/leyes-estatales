@@ -1,0 +1,81 @@
+{
+  "clave": "069",
+  "etiqueta": "Artículo 69.",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "069.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69. › párrafo 1",
+      "texto": "Para ser Gobernador del Estado se requiere:"
+    },
+    {
+      "id": "069.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69. › Fracción I",
+      "texto": "I.- Ser ciudadano mexicano por nacimiento y nativo de él, o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de los comicios."
+    },
+    {
+      "id": "069.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69. › Fracción II",
+      "texto": "II.- Tener 30 años cumplidos al día de la elección."
+    },
+    {
+      "id": "069.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69. › Fracción III",
+      "texto": "III.- Se deroga."
+    },
+    {
+      "id": "069.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69. › Fracción IV",
+      "texto": "IV.- Se deroga."
+    },
+    {
+      "id": "069.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69. › Fracción V",
+      "texto": "V.- Se deroga."
+    },
+    {
+      "id": "069.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69. › Fracción VI",
+      "texto": "VI.- Se deroga."
+    },
+    {
+      "id": "069.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69. › Fracción VII",
+      "texto": "VII.- No estar comprendido en alguna de las prohibiciones establecidas por el Artículo 78 de esta Constitución."
+    }
+  ]
+}

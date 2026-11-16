@@ -1,0 +1,72 @@
+{
+  "clave": "138",
+  "etiqueta": "Artículo 138.",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "CAPITULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "138.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138. › párrafo 1",
+      "texto": "Para ser miembro de un Ayuntamiento se requiere:"
+    },
+    {
+      "id": "138.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138. › Fracción I",
+      "texto": "I.- Ser ciudadana o ciudadano sudcaliforniano en ejercicio de sus derechos políticos."
+    },
+    {
+      "id": "138.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138. › Fracción II",
+      "texto": "II.- Haber residido en el Municipio por un período no menor de un año inmediato anterior al día de la elección."
+    },
+    {
+      "id": "138.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138. › Fracción III",
+      "texto": "III.- Tener 21 años de edad al día de la elección, excepto para ser Síndico o Regidor, en cuyo caso se requerirán 18 años de edad al día de la elección."
+    },
+    {
+      "id": "138.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138. › Fracción IV",
+      "texto": "IV.- Ser persona de reconocida buena conducta."
+    },
+    {
+      "id": "138.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138. › Fracción V",
+      "texto": "V.- Se deroga."
+    },
+    {
+      "id": "138.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138. › Fracción VI",
+      "texto": "VI.- Se deroga."
+    }
+  ]
+}

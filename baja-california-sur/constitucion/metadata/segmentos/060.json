@@ -1,0 +1,63 @@
+{
+  "clave": "060",
+  "etiqueta": "Artículo 60.",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "060.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60. › párrafo 1",
+      "texto": "La facultad de veto del Gobernador del Estado, se sujetará a las siguientes reglas:"
+    },
+    {
+      "id": "060.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60. › Fracción I",
+      "texto": "I.- Deberá expresarse si el veto es parcial o total."
+    },
+    {
+      "id": "060.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60. › Fracción II",
+      "texto": "II.- Una vez devuelto el Proyecto de Ley o Decreto por el Gobernador al Congreso del Estado con las observaciones respectivas, se procederá en términos de Ley a su discusión y votación."
+    },
+    {
+      "id": "060.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60. › Fracción III",
+      "texto": "III.- Si las observaciones son escuchadas al menos por las dos terceras partes de los miembros del Congreso, el Proyecto de Ley o Decreto se remitirá de nueva cuenta al Gobernador del Estado para su promulgación y publicación;"
+    },
+    {
+      "id": "060.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60. › Fracción IV",
+      "texto": "IV.- Si las observaciones con veto parcial son aprobadas al menos por las dos terceras partes de los miembros del Congreso, se incorporaran en el proyecto de Ley o Decreto y se remitirá de nueva cuenta al Gobernador del Estado para su promulgación y publicación; y"
+    },
+    {
+      "id": "060.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60. › Fracción V",
+      "texto": "V.- Si las observaciones con veto total son aprobadas al menos por las dos terceras partes de los miembros del Congreso, el Proyecto de Ley o Decreto quedara sin efecto, debiendo publicarse esta decisión en el Boletín Oficial del Gobierno del Estado."
+    }
+  ]
+}

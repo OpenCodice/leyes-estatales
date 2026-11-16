@@ -1,0 +1,36 @@
+{
+  "clave": "034",
+  "etiqueta": "Artículo 34.",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "034.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34. › párrafo 1",
+      "texto": "El territorio del Estado de Baja California Sur comprende:"
+    },
+    {
+      "id": "034.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34. › Fracción I",
+      "texto": "I.- Por el norte, el paralelo 28; por el oriente, el Golfo de California; por el sur y el poniente, el Océano Pacífico."
+    },
+    {
+      "id": "034.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34. › Fracción II",
+      "texto": "II.- Quedan comprendidas bajo la jurisdicción del Estado las Islas que a continuación se mencionan:\n\nNatividad, San Roque, Asunción, Magdalena, Margarita y Creciente, situadas en el Océano Pacífico; Cerralvo, Santa Catalina o Catalana, San Juan Nepomuceno, Espíritu Santo, San José de Santa Cruz, del Carmen, Coronados, San Marcos y Tortugas, situadas en el Golfo de California y, además, las islas, islotes y cayos adyacentes, localizados entre los paralelos 28° y 22° 30' norte."
+    }
+  ]
+}

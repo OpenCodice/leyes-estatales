@@ -1,0 +1,189 @@
+{
+  "clave": "028",
+  "etiqueta": "Artículo 28.",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "028.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28. › párrafo 1",
+      "texto": "Son derechos de las ciudadanas y ciudadanos sudcalifornianos:"
+    },
+    {
+      "id": "028.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28. › Fracción I",
+      "texto": "I.- Votar en las elecciones populares en los términos que señale la Ley."
+    },
+    {
+      "id": "028.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28. › Fracción II",
+      "texto": "II.- Poder ser votado para todo cargo de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determine la legislación;"
+    },
+    {
+      "id": "028.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28. › Fracción III",
+      "texto": "III.- Asociarse individual y libremente para tomar parte en forma pacífica en los asuntos políticos del Estado."
+    },
+    {
+      "id": "028.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28. › Fracción IV",
+      "texto": "IV.- Ejercer en toda clase de negocios el derecho de petición; y"
+    },
+    {
+      "id": "028.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28. › Fracción V",
+      "texto": "V.- Presentar Iniciativas ante el Congreso del Estado de acuerdo con los requisitos y procedimientos establecidos en la Ley de la materia y en la Ley Orgánica del Poder Legislativo del Estado de Baja California Sur;"
+    },
+    {
+      "id": "028.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28. › Fracción VI",
+      "texto": "VI.- Participar en las consultas ciudadanas plebiscitarias y de referéndum;"
+    },
+    {
+      "id": "028.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28. › Fracción VII",
+      "texto": "VII.- Participar en los procesos de revocación de mandato.\n\nEn lo que se refiere a la revocación de mandato del Gobernador Constitucional del Estado, esta debe entenderse como el instrumento de participación solicitado por la ciudadanía para determinar la conclusión anticipada del desempeño del cargo a partir de la pérdida de confianza, y se llevará a cabo conforme a lo siguiente:"
+    },
+    {
+      "id": "028.VII.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 28. › Fracción VII › inciso a)",
+      "texto": "a) Será convocado por el Instituto Estatal Electoral a petición de los ciudadanos y ciudadanas, en un número equivalente, al menos, al diez por ciento de los inscritos en la lista nominal de electores en la Entidad, siempre y cuando en la solicitud correspondan a por lo menos la mitad más uno de los Municipios del Estado y que representen, como mínimo, el diez por ciento de la lista nominal de electores de cada una de ellos;\n\nEl Instituto Estatal Electoral, dentro de los siguientes treinta días a que se reciba la solicitud, verificará el requisito establecido en el párrafo anterior y emitirá inmediatamente la convocatoria al proceso para la revocación de mandato;"
+    },
+    {
+      "id": "028.VII.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 28. › Fracción VII › inciso b)",
+      "texto": "b) Se podrá solicitar en una sola ocasión y durante los tres meses posteriores a la conclusión del tercer año del periodo constitucional;\n\nLos ciudadanos y ciudadanas podrán recabar firmas para la solicitud de revocación de mandato durante el mes previo a la fecha prevista en el párrafo anterior. El Instituto Estatal Electoral emitirá, a partir de esta fecha, los formatos y medios para la recopilación de firmas, así como los lineamientos para las actividades relacionadas;"
+    },
+    {
+      "id": "028.VII.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 28. › Fracción VII › inciso c)",
+      "texto": "c) Se realizará mediante votación libre, directa y secreta de ciudadanos y ciudadanas inscritos en la lista nominal de la Entidad, el domingo siguiente a los noventa días posteriores a la convocatoria y en fecha no coincidente con las jornadas electorales locales o federales;"
+    },
+    {
+      "id": "028.VII.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 28. › Fracción VII › inciso d)",
+      "texto": "d) Para que el proceso de revocación de mandato sea válido deberá haber una participación de, por lo menos, el cuarenta por ciento de las personas inscritas en la lista nominal de electores de la Entidad. La revocación de mandato sólo procederá por mayoría absoluta;"
+    },
+    {
+      "id": "028.VII.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 28. › Fracción VII › inciso e)",
+      "texto": "e) El Instituto Estatal Electoral tendrá a su cargo, en forma directa, la organización, desarrollo y cómputo de la votación. Emitirá los resultados de los procesos de revocación de mandato del titular del Poder Ejecutivo Estatal, los cuales podrán ser impugnados ante el Tribunal Estatal Electoral, en los términos de lo dispuesto en la fracción V del artículo 36, así como el artículo 36 Bis de la presente Constitución;"
+    },
+    {
+      "id": "028.VII.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 28. › Fracción VII › inciso f)",
+      "texto": "f) El Tribunal Estatal Electoral realizará el cómputo final del proceso de revocación de mandato, una vez resueltas las impugnaciones que se hubieren interpuesto. En su caso, emitirá la declaratoria de revocación y se estará a lo dispuesto en el artículo 72 de esta Constitución, en relación a las faltas absolutas del Gobernador Constitucional del Estado;"
+    },
+    {
+      "id": "028.VII.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 28. › Fracción VII › inciso g)",
+      "texto": "g) Queda prohibido el uso de recursos públicos para la recolección de firmas, así como con fines de promoción y propaganda relacionados con los procesos de revocación de mandato;"
+    },
+    {
+      "id": "028.VII.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 28. › Fracción VII › inciso h)",
+      "texto": "h) El Instituto Estatal Electoral promoverá la participación ciudadana y serán la única instancia a cargo de la difusión de los mismos. La promoción será objetiva, imparcial y con fines informativos;"
+    },
+    {
+      "id": "028.VII.i",
+      "tipo": "inciso",
+      "marca": "i",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 28. › Fracción VII › inciso i)",
+      "texto": "i) Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en la opinión de los ciudadanos y ciudadanas;"
+    },
+    {
+      "id": "028.VII.j",
+      "tipo": "inciso",
+      "marca": "j",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 28. › Fracción VII › inciso j)",
+      "texto": "j) Durante el tiempo que comprende el proceso de revocación de mandato, desde la convocatoria y hasta la conclusión de la jornada, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental de cualquier orden de gobierno, y"
+    },
+    {
+      "id": "028.VII.k",
+      "tipo": "inciso",
+      "marca": "k",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 28. › Fracción VII › inciso k)",
+      "texto": "k) Los poderes públicos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de los tres órdenes de gobierno, sólo podrán difundir las campañas de información relativas a los servicios educativos y de salud o las necesarias para la protección civil."
+    },
+    {
+      "id": "028.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28. › Fracción VIII",
+      "texto": "VIII.- Las demás que le confieran esta Constitución y las Leyes que de ella emanan."
+    }
+  ]
+}

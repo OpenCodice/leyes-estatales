@@ -1,0 +1,45 @@
+{
+  "clave": "103",
+  "etiqueta": "Artículo 103.",
+  "titulo": "TITULO SEPTIMO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "103.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 103. › párrafo 1",
+      "texto": "Son bienes de dominio público:"
+    },
+    {
+      "id": "103.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 103. › Fracción I",
+      "texto": "I.- Los de uso común."
+    },
+    {
+      "id": "103.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 103. › Fracción II",
+      "texto": "II.- Los inmuebles destinados por el Gobierno del Estado a un servicio público; y"
+    },
+    {
+      "id": "103.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 103. › Fracción III",
+      "texto": "III.- Los muebles que normalmente sean insustituibles, tales como los expedientes de las oficinas, archivos, libros raros, piezas históricas o arqueológicas, obras de arte, y otros de igual naturaleza que no sean del dominio de la Federación o de los Municipios.\n\nEstos bienes son inalienables, imprescriptibles e inembargables y no están sujetos, mientras no varíe su situación jurídica, acción reivindicatoria o de posesión definitiva o interina."
+    }
+  ]
+}

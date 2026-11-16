@@ -1,0 +1,45 @@
+{
+  "clave": "032",
+  "etiqueta": "Artículo 32.",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "032.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32. › párrafo 1",
+      "texto": "Las prerrogativas de las ciudadanas y ciudadanos se recobran:"
+    },
+    {
+      "id": "032.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32. › Fracción I",
+      "texto": "I.- Por haber cesado la causa que originó la suspensión."
+    },
+    {
+      "id": "032.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32. › Fracción II",
+      "texto": "II.- Por rehabilitación."
+    },
+    {
+      "id": "032.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32. › Fracción III",
+      "texto": "III.- Por haber transcurrido el término de la suspensión."
+    }
+  ]
+}

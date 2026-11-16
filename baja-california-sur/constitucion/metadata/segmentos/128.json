@@ -1,0 +1,36 @@
+{
+  "clave": "128",
+  "etiqueta": "Artículo 128.",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "128.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 128. › párrafo 1",
+      "texto": "Los bienes que integran el patrimonio Municipal son:"
+    },
+    {
+      "id": "128.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 128. › Fracción I",
+      "texto": "I.- De dominio público; y"
+    },
+    {
+      "id": "128.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 128. › Fracción II",
+      "texto": "II.- De dominio privado."
+    }
+  ]
+}
