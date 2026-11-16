@@ -1,0 +1,36 @@
+{
+  "clave": "030",
+  "etiqueta": "Artículo 30",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "030.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 1",
+      "texto": "En los casos de los artículos 28 y 29 y, en general, siempre que por ausencia injustificada o por faltas absolutas de las Diputadas y Diputados de mayoría no pueda haber quórum, los Ayuntamientos de las cabeceras de los distritos electorales, a petición de las Diputadas y Diputados presentes, nombrarán por mayoría de votos los correspondientes sustitutos, quienes funcionarán mientras se efectúan las nuevas elecciones, si la designación se hiciera dentro de los dos primeros años del período de funciones; más si fuera dentro del último, los sustitutos terminarán el período."
+    },
+    {
+      "id": "030.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 2",
+      "texto": "Las vacantes de las diputadas y diputados que hubieren sido electos según el sistema de representación proporcional se cubrirán con su respectivo suplente, y a falta de ambos se cubrirán con los candidatos postulados por su mismo partido que hubiesen quedado en lugar preferente en la lista regional de la circunscripción plurinominal correspondiente."
+    },
+    {
+      "id": "030.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 3",
+      "texto": "(Ref. Según Decreto No. 425, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 088, de fecha 24 de julio de 2026.)"
+    }
+  ]
+}

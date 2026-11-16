@@ -1,0 +1,45 @@
+{
+  "clave": "098",
+  "etiqueta": "Artículo 98",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "098.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 1",
+      "texto": "Las Magistradas y Magistrados del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial, así como las juezas y jueces, podrán obtener licencia hasta por un mes."
+    },
+    {
+      "id": "098.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 2",
+      "texto": "Las licencias podrán ser concedidas por el Pleno del Supremo Tribunal de Justicia del Estado para el caso de Magistradas y Magistrados del mismo; por el Pleno del Tribunal de Disciplina Judicial para el caso de sus integrantes; y por el Órgano de Administración Judicial para el caso de las Juezas y Jueces."
+    },
+    {
+      "id": "098.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 3",
+      "texto": "Las licencias de Magistradas y Magistrados del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial que excedan de un mes deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los miembros presentes del Congreso del Estado o, en sus recesos, por la Diputación Permanente; mientras que las licencias de Juezas y Jueces podrán concederse sin goce de sueldo por el Órgano de Administración Judicial. Ninguna licencia podrá exceder del término de un año."
+    },
+    {
+      "id": "098.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 4",
+      "texto": "(Ref. Según Decreto No. 86, de fecha 18 de marzo de 2025 y publicado en el P.O. No. 069, primera sección, de fecha 06 de junio de 2025)."
+    }
+  ]
+}
