@@ -2,7 +2,7 @@
   "clave": "104",
   "etiqueta": "Artículo 104",
   "titulo": "TÍTULO NOVENO",
-  "capitulo": "CAPÍTULO VI",
+  "capitulo": "",
   "reformas_articulo": [],
   "bloques": [
     {
@@ -66,7 +66,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 104 › párrafo 7",
-      "texto": "El Ejecutivo del Estado y los Ayuntamientos ejercerán sus atribuciones en materia de desarrollo urbano sustentable procurando la interrelación de las ciudades y el campo;"
+      "texto": "El Ejecutivo del Estado y los Ayuntamientos ejercerán sus atribuciones en materia de desarrollo urbano sustentable procurando la interrelación de las ciudades y el campo; distribuyendo equitativamente los beneficios y cargas del proceso de urbanización y las actividades económicas en el territorio del Estado; y previniendo riesgos y contingencias ambientales y urbanas en los centros de población, en los términos de las leyes aplicables."
     },
     {
       "id": "104.p8",
@@ -75,15 +75,6 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 104 › párrafo 8",
-      "texto": "distribuyendo equitativamente los beneficios y cargas del proceso de urbanización y las actividades económicas en el territorio del Estado; y previniendo riesgos y contingencias ambientales y urbanas en los centros de población, en los términos de las leyes aplicables."
-    },
-    {
-      "id": "104.p9",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "",
-      "fraccion": "",
-      "ruta": "Artículo 104 › párrafo 9",
       "texto": "Artículo Reformado"
     }
   ]
