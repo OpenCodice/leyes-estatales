@@ -1,0 +1,72 @@
+{
+  "clave": "041",
+  "etiqueta": "Artículo 41",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "041.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › párrafo 1",
+      "texto": "Para ser Gobernador del Estado se requiere:"
+    },
+    {
+      "id": "041.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › Fracción I",
+      "texto": "I.- Ser ciudadano mexicano por nacimiento e hijo de madre o padre mexicanos.\n\nAquellos ciudadanos candidatos a Gobernador del Estado cuyo nacimiento haya ocurrido en el extranjero, deberán acreditar su nacionalidad mexicana invariablemente, con certificado que expida en su caso, la Secretaría de Relaciones Exteriores, conforme a la Ley de Nacionalidad vigente a la fecha de la expedición del certificado."
+    },
+    {
+      "id": "041.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › Fracción II",
+      "texto": "II.- Tener treinta años cumplidos el día de la elección;"
+    },
+    {
+      "id": "041.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › Fracción III",
+      "texto": "III.- Tener vecindad en el Estado con residencia efectiva, de por lo menos quince años inmediatos anteriores al día de la elección.\n\nLa vecindad no se interrumpe cuando en el ejercicio de un cargo público, de un cargo de dirección nacional de partido político, por motivo de estudios o por causas ajenas a su voluntad, se tenga que residir fuera del territorio del Estado."
+    },
+    {
+      "id": "041.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › Fracción IV",
+      "texto": "IV.- No ser ministro de cualquier culto religioso, a menos que se separe en los términos que establece la Ley de la Materia."
+    },
+    {
+      "id": "041.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › Fracción V",
+      "texto": "V.- Estar en pleno goce de sus derechos políticos."
+    },
+    {
+      "id": "041.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › Fracción VI",
+      "texto": "VI.- No tener empleo, cargo o comisión en el Gobierno Federal, Estatal o Municipal, en los Organismos descentralizados municipales o estatales, o Instituciones educativas públicas; salvo que se separen en forma provisional, noventa días antes del día de la elección.\n\nArtículo Reformado"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "023",
+  "etiqueta": "Artículo 23",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "023.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › párrafo 1",
+      "texto": "El Congreso solo podrá sesionar con la asistencia de mas de la mitad del número total de sus miembros."
+    },
+    {
+      "id": "023.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › párrafo 2",
+      "texto": "Artículo Reformado"
+    }
+  ]
+}

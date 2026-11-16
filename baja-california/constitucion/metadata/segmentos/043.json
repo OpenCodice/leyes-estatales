@@ -1,0 +1,27 @@
+{
+  "clave": "043",
+  "etiqueta": "Artículo 43",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "043.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 1",
+      "texto": "Los impedimentos para volver a ocupar el cargo de Gobernador son los que consigna el Artículo 116 de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "043.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 2",
+      "texto": "Artículo Reformado"
+    }
+  ]
+}

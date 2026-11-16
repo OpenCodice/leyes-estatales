@@ -1,0 +1,27 @@
+{
+  "clave": "113",
+  "etiqueta": "Artículo 113",
+  "titulo": "TÍTULO DECIMO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "113.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 113 › párrafo 1",
+      "texto": "Esta Constitución no perderá su fuerza y vigor, aún cuando por alguna rebelión o estado grave de emergencia se interrumpa su observancia."
+    },
+    {
+      "id": "113.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 113 › párrafo 2",
+      "texto": "Si se estableciere un gobierno surgido en contravención a los principios que ella contiene, tan pronto como el pueblo recobre su libertad, se restablecerá su observancia y con sujeción a la misma y a las leyes que de ella hayan emanado, serán juzgados aquellos que la hubieren infringido."
+    }
+  ]
+}

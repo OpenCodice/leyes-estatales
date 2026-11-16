@@ -1,0 +1,27 @@
+{
+  "clave": "067",
+  "etiqueta": "Artículo 67",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "067.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 › párrafo 1",
+      "texto": "Las personas juzgadoras, las personas que integren el Consejo de Administración del Poder Judicial del Estado, así como las demás personas servidoras públicas del Poder Judicial, serán responsables de los delitos y faltas en que incurran durante el ejercicio de su cargo."
+    },
+    {
+      "id": "067.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 › párrafo 2",
+      "texto": "Artículo Reformado"
+    }
+  ]
+}

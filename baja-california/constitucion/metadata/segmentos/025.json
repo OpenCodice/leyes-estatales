@@ -1,0 +1,27 @@
+{
+  "clave": "025",
+  "etiqueta": "Artículo 25",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "025.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 1",
+      "texto": "Las sesiones del Congreso serán públicas, a excepción de aquellas que, por la naturaleza de los negocios que van a tratarse, deban ser privadas."
+    },
+    {
+      "id": "025.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 2",
+      "texto": "Artículo Reformado"
+    }
+  ]
+}

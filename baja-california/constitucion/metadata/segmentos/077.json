@@ -1,0 +1,27 @@
+{
+  "clave": "077",
+  "etiqueta": "Artículo 77",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "077.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 1",
+      "texto": "El Ayuntamiento es el órgano colegiado de representación popular, depositario de la competencia y atribuciones que le otorgan al Municipio la Constitución Política de los Estados Unidos Mexicanos y esta Constitución."
+    },
+    {
+      "id": "077.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 2",
+      "texto": "Artículo Reformado"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "105",
+  "etiqueta": "Artículo 105",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "105.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › párrafo 1",
+      "texto": "El Ejecutivo creará el sistema penitenciario del Estado, estableciendo las cárceles de reclusión preventiva, las penitenciarías o colonias penales que fueren necesarias, organizado en unas y otras, sobre la base del respeto de los derechos humanos, un sistema de trabajo, la capacitación para el mismo, la educación, la salud y el deporte como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para el prevé la ley."
+    },
+    {
+      "id": "105.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › párrafo 2",
+      "texto": "El Ejecutivo del Estado podrá celebrar convenios con la Federación para que los reos sentenciados extingan su pena en establecimientos federales de reclusión aun cuando se hallen fuera del Estado."
+    },
+    {
+      "id": "105.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › párrafo 3",
+      "texto": "Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto."
+    },
+    {
+      "id": "105.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › párrafo 4",
+      "texto": "Artículo Reformado"
+    }
+  ]
+}
