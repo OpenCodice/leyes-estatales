@@ -1,0 +1,27 @@
+{
+  "clave": "135",
+  "etiqueta": "Artículo 135",
+  "titulo": "TITULO SÉPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "135.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › párrafo 1",
+      "texto": "Se concede acción popular para denunciar ante la Legislatura los delitos graves del orden común en que incurran las y los servidores públicos a que se refiere el artículo 131 de esta Constitución."
+    },
+    {
+      "id": "135.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › párrafo 2",
+      "texto": "Cualquier persona o autoridad podrá denunciar ante el Tribunal de Disciplina Judicial hechos que pudieran ser objeto de responsabilidad administrativa o penal cometidos por alguna persona servidora pública del Poder Judicial del Estado, incluyendo magistradas o magistrados y juezas o jueces, a efecto de que investigue y, en su caso, sancione la conducta denunciada. El Tribunal de Disciplina Judicial conducirá y sustanciará sus procedimientos de manera pronta, completa, expedita e imparcial, conforme al procedimiento que establezca la ley."
+    }
+  ]
+}

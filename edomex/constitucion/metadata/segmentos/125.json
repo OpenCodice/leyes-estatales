@@ -1,0 +1,45 @@
+{
+  "clave": "125",
+  "etiqueta": "Artículo 125",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "125.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › párrafo 1",
+      "texto": "Los municipios administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que la ley establezca, y en todo caso:"
+    },
+    {
+      "id": "125.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › Fracción I",
+      "texto": "I. Percibirán las contribuciones, incluyendo tasas adicionales sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan como base el cambio del valor de los inmuebles;\n\nLos municipios podrán celebrar convenios con el Estado, para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones;"
+    },
+    {
+      "id": "125.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › Fracción II",
+      "texto": "II. Las participaciones federales que serán cubiertas por la Federación a los municipios, con arreglo a las bases, montos y plazos que anualmente determine la Legislatura;"
+    },
+    {
+      "id": "125.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › Fracción III",
+      "texto": "III. Los ingresos derivados de la prestación de los servicios públicos a su cargo.\n\nLas leyes del Estado no podrán establecer exenciones o subsidios en favor de persona o institución alguna, respecto de las contribuciones anteriormente citadas. Sólo estarán exentos los bienes de dominio público de la Federación, del Estado y los municipios. Los bienes públicos que sean utilizados por organismos auxiliares, fideicomisos públicos o por particulares bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público, causarán las mencionadas contribuciones.\n\nLos ayuntamientos, en el ámbito de su competencia, propondrán a la Legislatura, las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria, en los términos que señalen las leyes de la materia.\n\nLos Ayuntamientos podrán celebrar sesiones extraordinarias de cabildo cuando la Ley de ingresos aprobada por la Legislatura, implique adecuaciones a su Presupuesto de Egresos, asi como por la asignación de las participaciones y aportaciones federales y estatales. Estas sesiones tendrán como único objeto concordar con el Presupuesto de Egresos. La Presidenta o el Presidente Municipal, promulgará y publicará el Presupuesto de Egresos Municipal, a más tardar el día 25 de febrero de cada año debiendo enviarlo al Órgano Superior de Fiscalización en la misma fecha.\n\nEl Presupuesto deberá incluir los tabuladores desglosados de las remuneraciones que perciban las y los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 147 de esta Constitución.\n\nLos recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos, o por quien ellos autoricen, conforme a la ley, bajo los principios de eficiencia, eficacia, economía, transparencia y honradez."
+    }
+  ]
+}

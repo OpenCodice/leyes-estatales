@@ -1,0 +1,27 @@
+{
+  "clave": "123",
+  "etiqueta": "Artículo 123",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "123.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 1",
+      "texto": "Los ayuntamientos, en el ámbito de su competencia, desempeñarán facultades normativas, para el régimen de gobierno y administración del Municipio, así como lo relacionado al Sistema Municipal Anticorrupción y funciones de inspección, concernientes al cumplimiento de las disposiciones de observancia general aplicables."
+    },
+    {
+      "id": "123.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 2",
+      "texto": "En los nombramientos de las personas titulares en la administración pública municipal, los Ayuntamientos deberán garantizar el principio de igualdad y de paridad de género, en la forma y modalidades que la ley determine."
+    }
+  ]
+}

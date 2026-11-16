@@ -1,0 +1,72 @@
+{
+  "clave": "084",
+  "etiqueta": "Artículo 84",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "084.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › párrafo 1",
+      "texto": "Para ser Fiscal General de Justicia se requiere:"
+    },
+    {
+      "id": "084.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › Fracción I",
+      "texto": "I. Ser mexicano por nacimiento y vecino del Estado, mínimo por dos años al día de su designación, en pleno goce de sus derechos;"
+    },
+    {
+      "id": "084.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › Fracción II",
+      "texto": "II. Tener cuando menos 35 años de edad cumplidos al día de su designación;"
+    },
+    {
+      "id": "084.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › Fracción III",
+      "texto": "III. Poseer título de licenciado en derecho expedido por institución educativa legalmente facultada para ello y tener por lo menos diez años de ejercicio profesional;"
+    },
+    {
+      "id": "084.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › Fracción IV",
+      "texto": "IV. No haber sido condenado por sentencia ejecutoria por delitos dolosos que ameriten pena privativa de la libertad;"
+    },
+    {
+      "id": "084.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › Fracción V",
+      "texto": "V. Ser honrado y gozar de buena reputación; y"
+    },
+    {
+      "id": "084.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › Fracción VI",
+      "texto": "VI. Tener experiencia en la investigación y persecución de los delitos, así como en la administración pública.\n\nLa Fiscal General o el Fiscal General podrá ser removido por el Ejecutivo Estatal por las causas graves que establezca la ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes de la Legislatura del Estado dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General será restituido en el ejercicio de sus funciones. Si la Legislatura no se pronuncia al respecto, se entenderá que no existe objeción.\n\nEn los recesos de la Legislatura del Estado, su Diputación Permanente la convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción de la Fiscal General o el Fiscal General.\n\nLas ausencias de la Fiscal General o del Fiscal General serán suplidas en los términos que determine la ley."
+    }
+  ]
+}

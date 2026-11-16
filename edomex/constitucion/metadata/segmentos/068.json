@@ -1,0 +1,108 @@
+{
+  "clave": "068",
+  "etiqueta": "Artículo 68",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "068.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 1",
+      "texto": "Para ser Gobernadora o Gobernador del Estado se requiere:"
+    },
+    {
+      "id": "068.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › Fracción I",
+      "texto": "I. Ser ciudadano mexicano por nacimiento, en pleno goce de sus derechos políticos;"
+    },
+    {
+      "id": "068.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › Fracción II",
+      "texto": "II. Ser mexiquense con residencia efectiva en su territorio no menor a tres años o vecino del mismo, con residencia efectiva en su territorio no menor a cinco años, anteriores al día de la elección.\n\nSe entenderá por residencia efectiva para los efectos de esta Constitución, el hecho de tener domicilio fijo en donde se habite permanentemente;"
+    },
+    {
+      "id": "068.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › Fracción III",
+      "texto": "III. Tener 30 años cumplidos el día de la elección;"
+    },
+    {
+      "id": "068.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › Fracción IV",
+      "texto": "IV. No pertenecer al estado eclesiástico ni ser ministro de algún culto, a menos que se separe formal, material y definitivamente de su ministerio cuando menos cinco años antes del día de la elección;"
+    },
+    {
+      "id": "068.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › Fracción V",
+      "texto": "V. No ser servidor público en ejercicio de autoridad, ni militar en servicio activo o con mando de fuerzas dentro del Estado en los últimos 90 días anteriores al día de la elección ordinaria, o a partir del quinto día de la fecha de la publicación de la convocatoria para la elección extraordinaria; y"
+    },
+    {
+      "id": "068.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › Fracción VI",
+      "texto": "VI. No contar con una o más nacionalidades distintas a la mexicana."
+    },
+    {
+      "id": "068.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › Fracción VII",
+      "texto": "VII. No estar condenada o condenado por sentencia ejecutoriada por el delito de violencia política contra las mujeres en razón de género;"
+    },
+    {
+      "id": "068.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › Fracción VIII",
+      "texto": "VIII. No estar inscrito en el Registro de Deudores Alimentarios Morosos en el Estado, ni en otra entidad federativa;"
+    },
+    {
+      "id": "068.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › Fracción IX",
+      "texto": "IX. No estar condenada o condenado por sentencia ejecutoriada por delitos de violencia familiar, contra la libertad sexual o de violencia de género, y"
+    },
+    {
+      "id": "068.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › Fracción X",
+      "texto": "X. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la gubernatura.\n\nPara efectos de las restricciones previstas en este artículo, la autoridad electoral competente deberá valorar la existencia de los vínculos referidos mediante criterios objetivos, documentales y verificables, garantizando en todo momento los principios de certeza jurídica, legalidad, igualdad y no discriminación."
+    }
+  ]
+}

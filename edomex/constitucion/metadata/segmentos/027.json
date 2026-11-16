@@ -1,0 +1,54 @@
+{
+  "clave": "027",
+  "etiqueta": "Artículo 27",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "027.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 1",
+      "texto": "Son deberes de los vecinos del Estado:"
+    },
+    {
+      "id": "027.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción I",
+      "texto": "I. Inscribirse oportunamente y proporcionar la información que se requiera para la integración de censos, padrones o registros de carácter público con fines estadísticos, catastrales, de reclutamiento para el servicio de las armas, civiles o de otra índole, en la forma y términos que la Constitución Federal, esta Constitución y las leyes establezcan;"
+    },
+    {
+      "id": "027.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción II",
+      "texto": "II. Contribuir para los gastos públicos del Estado y de los municipios donde residan o realicen actividades gravables, de la manera proporcional y equitativa que dispongan las leyes, según lo establecido por la Constitución Federal;"
+    },
+    {
+      "id": "027.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción III",
+      "texto": "III. Hacer que sus hijos o pupilos concurran a las escuelas públicas o privadas, para obtener la educación preescolar, primaria, secundaria y media superior, y reciban la instrucción militar, en los términos que establezca la ley; y"
+    },
+    {
+      "id": "027.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción IV",
+      "texto": "IV. Las demás que esta Constitución y las leyes establezcan."
+    }
+  ]
+}

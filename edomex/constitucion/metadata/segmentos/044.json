@@ -1,0 +1,36 @@
+{
+  "clave": "044",
+  "etiqueta": "Artículo 44",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "044.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 1",
+      "texto": "La Legislatura del Estado se renovará en su totalidad cada tres años, la ley de la materia determinará la fecha de la elección. Las diputaciones no podrán reelegirse para el periodo inmediato posterior al ejercicio de su mandato."
+    },
+    {
+      "id": "044.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 2",
+      "texto": "Las personas diputadas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio, pero las personas diputadas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes."
+    },
+    {
+      "id": "044.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 3",
+      "texto": "La Ley establecerá las medidas para que la elección conserve el carácter de libre y auténtica, garantizando la observancia de los principios consagrados en esta Constitución."
+    }
+  ]
+}

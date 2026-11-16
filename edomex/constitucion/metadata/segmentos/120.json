@@ -1,0 +1,72 @@
+{
+  "clave": "120",
+  "etiqueta": "Artículo 120",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "120.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 120 › párrafo 1",
+      "texto": "No pueden ser miembros propietarios o suplentes de los ayuntamientos:"
+    },
+    {
+      "id": "120.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 120 › Fracción I",
+      "texto": "I. Las diputadas o diputados y senadoras o senadores al Congreso de la Unión que se encuentren en ejercicio de su cargo;"
+    },
+    {
+      "id": "120.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 120 › Fracción II",
+      "texto": "II. Las diputadas o diputados a la Legislatura del Estado que se encuentren en ejercicio de su cargo;"
+    },
+    {
+      "id": "120.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 120 › Fracción III",
+      "texto": "III. Las juezas o jueces, magistradas o magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial o integrantes del órgano de administración judicial del Estado o de la Federación;"
+    },
+    {
+      "id": "120.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 120 › Fracción IV",
+      "texto": "IV. Las y los servidores públicos federales, estatales o municipales en ejercicio de autoridad;"
+    },
+    {
+      "id": "120.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 120 › Fracción V",
+      "texto": "V. Las y los militares y los miembros de las fuerzas de seguridad pública del Estado y los de los municipios que ejerzan mando en el territorio de la elección; y"
+    },
+    {
+      "id": "120.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 120 › Fracción VI",
+      "texto": "VI. Las y los ministros de cualquier culto, a menos que se separen formal, material y definitivamente de su ministerio, cuando menos cinco años antes del día de la elección.\n\nLas y los servidores públicos a que se refieren las fracciones de la I a la V serán exceptuados del impedimento si se separan de sus respectivos cargos por lo menos, veinticuatro horas antes del inicio de las campañas, conforme al calendario electoral vigente."
+    }
+  ]
+}

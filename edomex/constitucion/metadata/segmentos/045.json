@@ -1,0 +1,27 @@
+{
+  "clave": "045",
+  "etiqueta": "Artículo 45",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "045.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45 › párrafo 1",
+      "texto": "Las elecciones de diputadas y diputados por el principio de mayoría relativa serán computadas y declaradas válidas por los órganos electorales en cuyo territorio se haya llevado a cabo el proceso electoral correspondiente, el que otorgará las constancias respectivas a las fórmulas de candidatas y candidatos que hubiesen obtenido mayoría de votos, en los términos de la ley de la materia."
+    },
+    {
+      "id": "045.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45 › párrafo 2",
+      "texto": "El cómputo y la declaración de validez de las elecciones de diputadas y diputados de representación proporcional, así como la asignación de éstos, será hecha por el Instituto Electoral del Estado de México encargado de la organización, desarrollo y vigilancia de las elecciones."
+    }
+  ]
+}

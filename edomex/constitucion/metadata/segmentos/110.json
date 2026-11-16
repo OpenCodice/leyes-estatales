@@ -1,0 +1,27 @@
+{
+  "clave": "110",
+  "etiqueta": "Artículo 110",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "110.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › párrafo 1",
+      "texto": "Las Magistradas y los Magistrados del Tribunal de Disciplina ejercerán su función con independencia e imparcialidad."
+    },
+    {
+      "id": "110.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › párrafo 2",
+      "texto": "Durante su encargo sólo podrán ser removidos en los términos del Título Séptimo de esta Constitución."
+    }
+  ]
+}
