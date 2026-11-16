@@ -1,0 +1,27 @@
+{
+  "clave": "074",
+  "etiqueta": "Artículo 74",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "074.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 1",
+      "texto": "Toda resolución de la Legislatura que tenga carácter de ley o decreto se comunicará al Poder Ejecutivo por la Presidencia y la Secretaría de la misma, observándose la siguiente formalidad: La Legislatura del Estado de Quintana Roo decreta: (texto de la ley o decreto)."
+    },
+    {
+      "id": "074.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 2",
+      "texto": "Artículo reformado POE 19-03-2025"
+    }
+  ]
+}

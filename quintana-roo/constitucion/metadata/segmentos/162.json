@@ -1,0 +1,27 @@
+{
+  "clave": "162",
+  "etiqueta": "Artículo 162",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "CAPITULO VIII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "162.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 162 › párrafo 1",
+      "texto": "Derogado."
+    },
+    {
+      "id": "162.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 162 › párrafo 2",
+      "texto": "Artículo reformado POE 31-03-1983, 24-10-2003. Renumerado (antes 172) POE 24-10-2003. Derogado POE 22-09-2017"
+    }
+  ]
+}

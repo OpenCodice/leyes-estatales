@@ -1,0 +1,27 @@
+{
+  "clave": "079",
+  "etiqueta": "Artículo 79",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "079.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › párrafo 1",
+      "texto": "La elección de la Gobernadora o el Gobernador será universal, libre, secreta, directa, uninominal y por mayoría relativa en todo el territorio del Estado, en los términos que señale la ley."
+    },
+    {
+      "id": "079.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › párrafo 2",
+      "texto": "Artículo reformado POE 28-02-1997, 19-03-2025"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "114",
+  "etiqueta": "Artículo 114",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "114.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 › párrafo 1",
+      "texto": "Los bienes de dominio privado del Estado son los que le pertenecen en propiedad y los que en el futuro ingresen a su patrimonio, por cualesquiera formas de adquisición de la propiedad, no previstos en el artículo precedente."
+    },
+    {
+      "id": "114.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 › párrafo 2",
+      "texto": "Artículo original POE 12-01-1975"
+    }
+  ]
+}

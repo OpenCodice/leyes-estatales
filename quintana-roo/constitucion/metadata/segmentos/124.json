@@ -1,0 +1,27 @@
+{
+  "clave": "124",
+  "etiqueta": "Artículo 124",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "124.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 124 › párrafo 1",
+      "texto": "El Poder Ejecutivo cuidará que la Legislatura conozca de la fianza con la cual las personas empleadas de hacienda caucionen su manejo."
+    },
+    {
+      "id": "124.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 124 › párrafo 2",
+      "texto": "Fe de erratas POE 13-01-1975. Artículo reformado POE 19-03-2025"
+    }
+  ]
+}

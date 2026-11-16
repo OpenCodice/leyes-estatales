@@ -1,0 +1,117 @@
+{
+  "clave": "056",
+  "etiqueta": "Artículo 56",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "056.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › párrafo 1",
+      "texto": "No podrá ser Diputada o Diputado:"
+    },
+    {
+      "id": "056.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › párrafo 2",
+      "texto": "Párrafo reformado POE 19-03-2025"
+    },
+    {
+      "id": "056.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción I",
+      "texto": "I. La persona titular del Poder Ejecutivo del Estado en ejercicio, aun cuando se separe definitivamente de su puesto, cualquiera que sea su calidad, el origen y la forma de designación;\n\nFracción reformada POE 19-03-2025"
+    },
+    {
+      "id": "056.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción II",
+      "texto": "II. Las personas titulares de las Secretarías de Despacho dependientes del Ejecutivo, de la Fiscalía General del Estado, de la Fiscalía Especializada en Combate a la Corrupción, de la Auditoría Superior del Estado, de las Magistraturas del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y del Tribunal de Justicia Administrativa y Anticorrupción del Estado, las personas integrantes del Órgano de Administración Judicial, las personas titulares de los juzgados y las personas servidoras públicas que por la naturaleza de su función, empleo, cargo o comisión, manejen o tengan bajo su resguardo, custodia o disposición recursos públicos de carácter económico o financiero pertenecientes a los Poderes del Estado, organismos constitucionalmente autónomos o a la administración pública en el Estado, a menos que se separe de su cargo noventa días antes de la fecha de la elección.\n\nFracción reformada POE 09-09-2024, 13-01-2025"
+    },
+    {
+      "id": "056.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción III",
+      "texto": "III. Las personas Titulares de las Presidencias Municipales o quienes ocupen cualquier cargo municipal, que, por la naturaleza de su función, empleo o comisión, manejen o tengan bajo su resguardo, custodia o disposición, recursos públicos de carácter económico o financiero, a menos que se separe del mismo noventa días antes de la elección;\n\nFracción reformada POE 19-03-2025"
+    },
+    {
+      "id": "056.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción IV",
+      "texto": "IV. Las personas servidoras públicas federales que realicen sus funciones en el Estado, que, por la naturaleza de su función, empleo, cargo o comisión, manejen o tengan bajo su resguardo, custodia o disposición, recursos públicos de carácter económico o financiero, a menos que se separen de ellas noventa días antes de la fecha de elección;\n\nFracción reformada POE 19-03-2025"
+    },
+    {
+      "id": "056.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción V",
+      "texto": "V. Las y los militares en servicio activo y las personas ciudadanas que tengan mando en los cuerpos de seguridad pública en el distrito electoral respectivo, si no se separan de sus cargos a más tardar noventa días anteriores a la elección;\n\nFracción reformada POE 19-03-2025"
+    },
+    {
+      "id": "056.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción VI",
+      "texto": "VI. Las personas que sean o hayan sido ministras de cualquier culto religioso a menos que se hayan separado de su ministerio cinco años antes de la fecha de la elección;\n\nFracción reformada POE 19-03-2025, 29-05-2026"
+    },
+    {
+      "id": "056.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción VII",
+      "texto": "VII. Las personas Magistradas del Tribunal Electoral de Quintana Roo, las personas Consejeras Electorales, las personas Secretarias y Funcionarias del Instituto Electoral de Quintana Roo, así como sus similares de los Órganos Electorales Federales, a menos que se separen de su cargo tres años antes de la fecha de la elección;\n\nFracción reformada POE 19-03-2025, 29-05-2026"
+    },
+    {
+      "id": "056.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción VIII",
+      "texto": "VIII. Las personas condenadas por sentencia ejecutoriada por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos;\n\nFracción adicionada POE 29-05-2026"
+    },
+    {
+      "id": "056.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción IX",
+      "texto": "IX. Las personas deudoras alimentarias morosas, y Fracción adicionada POE 29-05-2026"
+    },
+    {
+      "id": "056.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción X",
+      "texto": "X. Las personas que tengan o hayan tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la diputación.\n\nFracción adicionada POE 29-05-2026 Artículo reformado POE 06-03-2019"
+    }
+  ]
+}

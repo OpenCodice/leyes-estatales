@@ -1,0 +1,45 @@
+{
+  "clave": "036",
+  "etiqueta": "Artículo 36",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "036.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › párrafo 1",
+      "texto": "Son obligaciones de las personas habitantes del Estado:"
+    },
+    {
+      "id": "036.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › párrafo 2",
+      "texto": "Párrafo reformado POE 19-03-2025"
+    },
+    {
+      "id": "036.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › Fracción I",
+      "texto": "I.- Cumplir con los preceptos de esta Constitución, los de las leyes, reglamentos y disposiciones que de ella emanen, y"
+    },
+    {
+      "id": "036.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › Fracción II",
+      "texto": "II.- Contribuir a los gastos públicos del Estado y del municipio en que residan en la forma proporcional y equitativa dispuesta en las leyes."
+    }
+  ]
+}

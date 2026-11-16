@@ -1,0 +1,45 @@
+{
+  "clave": "113",
+  "etiqueta": "Artículo 113",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "113.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 113 › párrafo 1",
+      "texto": "Son bienes de dominio público."
+    },
+    {
+      "id": "113.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 113 › Fracción I",
+      "texto": "I.- Los de uso común."
+    },
+    {
+      "id": "113.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 113 › Fracción II",
+      "texto": "II.- Los inmuebles destinados por el gobierno del Estado, a un servicio público, y"
+    },
+    {
+      "id": "113.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 113 › Fracción III",
+      "texto": "III.- Los muebles que normalmente sean insustituibles, tales como los expedientes de las oficinas, archivos, libros raros, piezas históricas o arqueológicas, obras de arte y demás que no sean del dominio de la Federación o los municipios.\n\nEstos bienes son inalienables, imprescriptibles e inembargables y no están sujetos, mientras no varíe su situación jurídica, la cual sólo podrá autorizarse mediante Decreto de la Legislatura, a acción reivindicatoria o de posesión definitiva o interina.\n\nPárrafo reformado POE 15-02-2001"
+    }
+  ]
+}

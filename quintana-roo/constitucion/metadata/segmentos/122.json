@@ -1,0 +1,27 @@
+{
+  "clave": "122",
+  "etiqueta": "Artículo 122",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "122.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122 › párrafo 1",
+      "texto": "Las cuentas de los caudales públicos deberán glosarse sin excepción por la Auditoría Superior del Estado."
+    },
+    {
+      "id": "122.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122 › párrafo 2",
+      "texto": "Artículo reformado POE 30-08-2002, 22-02-2010, 03-07-2017"
+    }
+  ]
+}

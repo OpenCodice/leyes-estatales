@@ -1,0 +1,27 @@
+{
+  "clave": "014",
+  "etiqueta": "Artículo 14",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "014.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › párrafo 1",
+      "texto": "El disfrute de la libertad jurídica es prerrogativa de todas las personas habitantes de Quintana Roo. Ni la ley, ni la autoridad, reconocerán efecto alguno al pacto o contrato que lo comprometa o limite. Tampoco en relación a convenios que impliquen renuncia o alteración a las garantías y derechos establecidos en esta Constitución."
+    },
+    {
+      "id": "014.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › párrafo 2",
+      "texto": "Artículo reformado POE 19-03-2025"
+    }
+  ]
+}

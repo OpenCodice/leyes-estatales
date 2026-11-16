@@ -1,0 +1,54 @@
+{
+  "clave": "132",
+  "etiqueta": "Artículo 132",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "132.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › párrafo 1",
+      "texto": "Para el mejor ejercicio de sus funciones y la prestación de los servicios públicos a su cargo, los Municipios podrán dividirse administrativamente en:"
+    },
+    {
+      "id": "132.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Fracción I",
+      "texto": "I.- Cabeceras,"
+    },
+    {
+      "id": "132.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Fracción II",
+      "texto": "II.- Alcaldías,"
+    },
+    {
+      "id": "132.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Fracción III",
+      "texto": "III.- Delegaciones y,"
+    },
+    {
+      "id": "132.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Fracción IV",
+      "texto": "IV. -Subdelegaciones.\n\nLa extensión y límites de las cabeceras, alcaldías, delegaciones y subdelegaciones, así como las atribuciones y las formas de elección o designación y remoción de las personas titulares de los órganos auxiliares del Gobierno Municipal en cada una de ellas, serán determinados por cada Ayuntamiento, en términos de la Ley de la Materia.\n\nPárrafo reformado POE 19-03-2025 Artículo reformado POE 24-10-2003"
+    }
+  ]
+}

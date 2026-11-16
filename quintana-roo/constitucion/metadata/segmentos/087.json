@@ -1,0 +1,27 @@
+{
+  "clave": "087",
+  "etiqueta": "Artículo 87",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "087.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › párrafo 1",
+      "texto": "La persona ciudadana designada para suplir las faltas absolutas o temporales de la Gobernadora o el Gobernador, rendirá la protesta constitucional ante la Legislatura o la Comisión Permanente, en su caso."
+    },
+    {
+      "id": "087.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › párrafo 2",
+      "texto": "Artículo reformado POE 06-03-2019, 19-03-2025"
+    }
+  ]
+}
