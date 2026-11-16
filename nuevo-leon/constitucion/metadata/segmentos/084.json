@@ -1,0 +1,27 @@
+{
+  "clave": "084",
+  "etiqueta": "Artículo 84",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "084.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › párrafo 1",
+      "texto": "El Congreso del Estado podrá ser convocado a períodos extraordinarios de sesiones, en los cuales solo se ocupará del o los asuntos que hayan sido sometidos a su conocimiento, mismos que deberán expresarse en la convocatoria respectiva."
+    },
+    {
+      "id": "084.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › párrafo 2",
+      "texto": "Si el período extraordinario de sesiones se prolonga hasta el tiempo en que deba comenzar el ordinario, cesará aquel y durante este se despacharán preferentemente los asuntos que motivaron la convocatoria y que hayan quedado pendientes."
+    }
+  ]
+}

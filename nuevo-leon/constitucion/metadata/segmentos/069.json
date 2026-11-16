@@ -1,0 +1,54 @@
+{
+  "clave": "069",
+  "etiqueta": "Artículo 69",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "069.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 1",
+      "texto": "El Congreso del Estado se compondrá por veintiséis diputaciones electas por el principio de mayoría relativa, votadas en los distritos electorales uninominales del Estado y por dieciséis diputaciones electas por el principio de representación proporcional."
+    },
+    {
+      "id": "069.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 2",
+      "texto": "Las diputaciones electas bajo el principio de representación proporcional serán asignadas, en primer término, a la lista plurinominal de candidaturas registradas por cada partido político y las posteriores a las candidaturas registradas por el principio de mayoría relativa en los términos que establezca la ley."
+    },
+    {
+      "id": "069.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 3",
+      "texto": "La ley electoral establecerá las bases y las formas del principio de representación proporcional."
+    },
+    {
+      "id": "069.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 4",
+      "texto": "La postulación de candidaturas a diputaciones se realizará en fórmulas de propietario y suplente."
+    },
+    {
+      "id": "069.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 5",
+      "texto": "En la postulación de personas candidatas al Congreso del Estado y en la integración del mismo, se deberá observar el principio de paridad de género."
+    }
+  ]
+}

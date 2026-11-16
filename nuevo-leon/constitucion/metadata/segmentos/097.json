@@ -1,0 +1,54 @@
+{
+  "clave": "097",
+  "etiqueta": "Artículo 97",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "097.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 97 › párrafo 1",
+      "texto": "No puede el Congreso:"
+    },
+    {
+      "id": "097.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 97 › Fracción I",
+      "texto": "I. Establecer más contribuciones que las indispensables para satisfacer las necesidades generales del Estado y los municipios."
+    },
+    {
+      "id": "097.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 97 › Fracción II",
+      "texto": "II. Imponer préstamos forzosos de cualquiera especie o naturaleza, ni facultar al Ejecutivo para que los imponga."
+    },
+    {
+      "id": "097.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 97 › Fracción III",
+      "texto": "III. Conceder ni abrogarse en ningún caso facultades extraordinarias."
+    },
+    {
+      "id": "097.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 97 › Fracción IV",
+      "texto": "IV. Consentir en que funcionen como autoridades las que debiendo ser electas popularmente, según esta Constitución, no tengan tal origen."
+    }
+  ]
+}

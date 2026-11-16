@@ -1,0 +1,36 @@
+{
+  "clave": "132",
+  "etiqueta": "Artículo 132",
+  "titulo": "",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "132.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › párrafo 1",
+      "texto": "Ninguna persona servidora pública ni empleada del Poder Judicial podrá ser abogado de terceros, apoderado en negocios ajenos, asesor, árbitro de derecho o arbitrador ni tener cargo o empleo alguno del Gobierno o de particulares, salvo los cargos en instituciones educativas o en asociaciones científicas, literarias o de beneficencia."
+    },
+    {
+      "id": "132.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › párrafo 2",
+      "texto": "Los impedimentos de este artículo serán aplicables a todos los servidores públicos del Poder Judicial que gocen de licencia, excepto a los Jueces que se desempeñen como consejeros de la Judicatura exclusivamente para ese efecto."
+    },
+    {
+      "id": "132.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › párrafo 3",
+      "texto": "Las personas que hayan ocupado el cargo de Magistrado del Tribunal Superior de Justicia no podrán, dentro de los tres años siguientes a la fecha de terminación de su encargo, actuar como patronas, abogadas o representantes de los particulares en cualquier proceso ante los órganos del Poder Judicial del Estado, salvo que lo hagan ejerciendo algún cargo público y con motivo de su función."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "040",
+  "etiqueta": "Artículo 40",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "040.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 1",
+      "texto": "Todas las personas tienen derecho a acceder a la cultura física, así como a la práctica del deporte a través de gimnasios y parques equipados adecuadamente. Corresponde al Estado su promoción, fomento y estímulo conforme a las leyes en la materia."
+    },
+    {
+      "id": "040.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 2",
+      "texto": "La educación, en sus diferentes, niveles deberá fomentar la práctica del deporte."
+    }
+  ]
+}

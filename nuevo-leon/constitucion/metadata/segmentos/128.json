@@ -1,0 +1,36 @@
+{
+  "clave": "128",
+  "etiqueta": "Artículo 128",
+  "titulo": "",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "128.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 128 › párrafo 1",
+      "texto": "Al Poder Judicial le corresponde la jurisdicción local en las materias siguientes:"
+    },
+    {
+      "id": "128.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 128 › Fracción I",
+      "texto": "I. Control de la constitucionalidad local en los términos que señale la ley correspondiente."
+    },
+    {
+      "id": "128.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 128 › Fracción II",
+      "texto": "II. Civil, familiar, penal, laboral y de personas adolescentes sujetas al Sistema Integral de Justicia Penal para Adolescentes.\n\nTambién garantizará la vigencia de las normas de la Constitución y leyes federales, en las materias en que estas autoricen la jurisdicción concurrente."
+    }
+  ]
+}

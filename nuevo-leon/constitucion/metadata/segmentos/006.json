@@ -1,0 +1,27 @@
+{
+  "clave": "006",
+  "etiqueta": "Artículo 6",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "006.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › párrafo 1",
+      "texto": "En el Estado nadie puede ser juzgado por leyes privativas, ni por tribunales especiales."
+    },
+    {
+      "id": "006.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › párrafo 2",
+      "texto": "Ninguna persona ni corporación pueden tener fuero ni gozar emolumentos que no sean compensación de un servicio público y estén fijados por la ley."
+    }
+  ]
+}

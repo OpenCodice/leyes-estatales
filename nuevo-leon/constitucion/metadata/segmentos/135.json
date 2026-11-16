@@ -1,0 +1,153 @@
+{
+  "clave": "135",
+  "etiqueta": "Artículo 135",
+  "titulo": "",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "135.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › párrafo 1",
+      "texto": "Corresponde al Tribunal Superior de Justicia:"
+    },
+    {
+      "id": "135.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción I",
+      "texto": "I. Resolver en Pleno las controversias de inconstitucionalidad y las acciones de inconstitucionalidad local."
+    },
+    {
+      "id": "135.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción II",
+      "texto": "II. A través de las Salas, conocer en grado de revisión de los negocios civiles, familiares, penales, laborales entre particulares, de adolescentes infractores o de jurisdicción concurrente, que le remitan los jueces."
+    },
+    {
+      "id": "135.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción III",
+      "texto": "III. Elegir en Pleno, cada dos años, al Magistrado que se desempeñará en la Presidencia del Tribunal Superior de Justicia, conforme lo determine la ley."
+    },
+    {
+      "id": "135.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción IV",
+      "texto": "IV. Determinar en Pleno, el número de las Salas, su integración colegiada y unitaria, su especialidad y la adscripción de las Magistraturas."
+    },
+    {
+      "id": "135.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción V",
+      "texto": "V. Conocer en Pleno para resolver, en definitiva, a instancia de parte interesada, de los Magistrados o de los jueces, qué tesis debe prevalecer cuando las Salas del Tribunal sustenten criterios contradictorios al resolver los recursos de su competencia, las cuales serán de observancia obligatoria en las Salas y Juzgados."
+    },
+    {
+      "id": "135.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción VI",
+      "texto": "VI. En Pleno, dirimir los conflictos de competencia que se susciten entre las Salas, y entre los Juzgados, de acuerdo con lo que establezca la ley."
+    },
+    {
+      "id": "135.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción VII",
+      "texto": "VII. En Pleno, expedir y modificar su reglamento interno para el cumplimiento de las facultades de los servidores públicos del Tribunal Superior de Justicia."
+    },
+    {
+      "id": "135.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción VIII",
+      "texto": "VIII. Presentar ante el Congreso del Estado, las iniciativas de leyes que estime pertinentes, relacionadas con la administración de justicia y la organización y funcionamiento del Poder Judicial."
+    },
+    {
+      "id": "135.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción IX",
+      "texto": "IX. Conocer en Pleno, erigido en Jurado de Sentencia, de la responsabilidad de los servidores públicos a que alude el Capítulo III del Título VII de esta Constitución."
+    },
+    {
+      "id": "135.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción X",
+      "texto": "X. Acordar y autorizar las licencias de las Magistraturas."
+    },
+    {
+      "id": "135.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción XI",
+      "texto": "XI. En Pleno, expedir los acuerdos necesarios para el mejor ejercicio de sus funciones."
+    },
+    {
+      "id": "135.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción XII",
+      "texto": "XII. Examinar los informes que mensualmente deberán remitirle los Juzgados, acerca de los negocios pendientes y de los despachados."
+    },
+    {
+      "id": "135.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción XIII",
+      "texto": "XIII. En Pleno, acordar lo necesario para la implementación de dispositivos electrónicos necesarios para la realización de la función jurisdiccional."
+    },
+    {
+      "id": "135.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción XIV",
+      "texto": "XIV. Elegir en Pleno a los jueces que ocuparán el cargo de Consejero de la Judicatura."
+    },
+    {
+      "id": "135.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción XV",
+      "texto": "XV. Las demás facultades que las leyes le otorguen."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "042",
+  "etiqueta": "Artículo 42",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "042.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 1",
+      "texto": "Todas las personas tienen derecho a la educación artística, al acceso a la vida cultural y al disfrute de los bienes y servicios que presta el Estado en la materia, así como al ejercicio de sus derechos culturales."
+    },
+    {
+      "id": "042.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 2",
+      "texto": "El Estado promoverá la cultura regional que caracteriza las raíces históricas, tradicionales, culinarias y artísticas, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa."
+    },
+    {
+      "id": "042.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 3",
+      "texto": "La ley establecerá los mecanismos para el acceso y participación a cualquier manifestación cultural."
+    }
+  ]
+}

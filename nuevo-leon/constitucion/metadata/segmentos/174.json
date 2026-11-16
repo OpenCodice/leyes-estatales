@@ -1,0 +1,27 @@
+{
+  "clave": "174",
+  "etiqueta": "Artículo 174",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "174.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 174 › párrafo 1",
+      "texto": "Los Presidentes Municipales, Regidores y Síndicos de los Ayuntamientos podrán ser electos consecutivamente hasta por un periodo adicional. La postulación solo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que lo hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato."
+    },
+    {
+      "id": "174.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 174 › párrafo 2",
+      "texto": "Los presidentes municipales de los ayuntamientos no podrán ser electos para el periodo inmediato, en municipio diverso al cual se desempeñaron como tales."
+    }
+  ]
+}

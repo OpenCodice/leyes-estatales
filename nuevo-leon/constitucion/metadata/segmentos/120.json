@@ -1,0 +1,36 @@
+{
+  "clave": "120",
+  "etiqueta": "Artículo 120",
+  "titulo": "",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "120.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 120 › párrafo 1",
+      "texto": "El Gobernador no puede ausentarse del Estado por más de cuarenta y cinco días naturales sin autorización del Congreso del Estado o, en su caso, de la Diputación Permanente."
+    },
+    {
+      "id": "120.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 120 › párrafo 2",
+      "texto": "Cuando el Gobernador se ausente del Estado por un término mayor de quince días naturales y menor de cuarenta y cinco, deberá dar aviso al Congreso del Estado o a la Diputación Permanente."
+    },
+    {
+      "id": "120.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 120 › párrafo 3",
+      "texto": "Para salir de la república por más de quince días naturales, el Gobernador necesita autorización del Congreso del Estado o de la Diputación Permanente. Tratándose de viajes oficiales, deberá acompañar a su solicitud la agenda de trabajo, así como presentar a su regreso un informe de los resultados obtenidos en sus gestiones."
+    }
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "clave": "111",
+  "etiqueta": "Artículo 111",
+  "titulo": "",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "111.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 1",
+      "texto": "El Poder Ejecutivo del Estado de Nuevo León se deposita en un ciudadano que se denominará Gobernador del Estado o Titular del Ejecutivo."
+    }
+  ]
+}

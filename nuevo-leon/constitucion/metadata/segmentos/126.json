@@ -1,0 +1,54 @@
+{
+  "clave": "126",
+  "etiqueta": "Artículo 126",
+  "titulo": "",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "126.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126 › párrafo 1",
+      "texto": "No puede el Gobernador:"
+    },
+    {
+      "id": "126.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126 › Fracción I",
+      "texto": "I. Impedir, obstaculizar, retrasar o alterar con pretexto alguno las elecciones populares, ni la reunión y deliberación del Congreso."
+    },
+    {
+      "id": "126.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126 › Fracción II",
+      "texto": "II. Imponer contribución alguna que no esté prevista por ley o decreto."
+    },
+    {
+      "id": "126.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126 › Fracción III",
+      "texto": "III. Hacer observaciones a las leyes constitucionales ni a los actos electorales del Congreso."
+    },
+    {
+      "id": "126.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126 › Fracción IV",
+      "texto": "IV. Mandar inmediata y personalmente, en campaña, a los cuerpos de reserva y demás fuerzas del Estado, sin haber obtenido permiso del Congreso del Estado o de la Diputación Permanente."
+    }
+  ]
+}

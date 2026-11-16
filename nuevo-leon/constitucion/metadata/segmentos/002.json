@@ -1,0 +1,36 @@
+{
+  "clave": "002",
+  "etiqueta": "Artículo 2",
+  "titulo": "",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "002.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 1",
+      "texto": "El Estado de Nuevo León adopta para su gobierno la forma republicana, democrática, representativa, laica y popular, bajo un sistema de división de poderes, pluralismo político y participación social. La democracia como sistema de gobierno se funda en la igualdad de todos los seres humanos, condición esencial para responsabilizar a las personas del cuidado y procuración del bien común."
+    },
+    {
+      "id": "002.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 2",
+      "texto": "El poder público se organizará conforme a las figuras de democracia representativa y participativa, con base en los principios de legalidad, bien común, subsidiariedad, solidaridad, y con respeto a la dignidad de la persona y al derecho a la buena administración."
+    },
+    {
+      "id": "002.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 3",
+      "texto": "Para la construcción del futuro sustentable, el Estado impulsará la sociedad del conocimiento, el emprendimiento público, la educación integral, la investigación científica, la innovación tecnológica y la difusión del saber; así como fomento a la familia y los valores característicos de la población del Estado, tales como son el trabajo, la innovación, la disciplina, el esfuerzo, la solidaridad y la resiliencia."
+    }
+  ]
+}
