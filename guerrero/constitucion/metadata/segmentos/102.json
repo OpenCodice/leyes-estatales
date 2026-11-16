@@ -1,0 +1,36 @@
+{
+  "clave": "102",
+  "etiqueta": "Artículo 102",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "102.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › párrafo 1",
+      "texto": "El Tribunal Superior de Justicia funcionará en Pleno y en Salas, de conformidad con las atribuciones estipuladas en esta Constitución y en la Ley Orgánica del Poder Judicial del Estado."
+    },
+    {
+      "id": "102.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › párrafo 2",
+      "texto": "El Pleno se integrará con las magistradas y magistrados del Tribunal Superior de Justicia."
+    },
+    {
+      "id": "102.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › párrafo 3",
+      "texto": "Las salas serán colegiadas y unitarias. Las colegiadas se integrarán con tres magistradas o magistrados cada una, de las cuales una ocupará la presidencia en términos de la Ley Orgánica del Poder Judicial del Estado."
+    }
+  ]
+}

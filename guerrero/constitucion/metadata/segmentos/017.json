@@ -1,0 +1,54 @@
+{
+  "clave": "017",
+  "etiqueta": "Artículo 17",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "017.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 1",
+      "texto": "Son guerrerenses:"
+    },
+    {
+      "id": "017.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción I",
+      "texto": "I. Quienes hayan nacido en el territorio del Estado;"
+    },
+    {
+      "id": "017.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción II",
+      "texto": "II. Los hijos de padre o madre guerrerense que hayan nacido fuera de la entidad; y, (REFORMADA, P.O. EDICIÓN 50 ALCANCE III, DE FECHA MARTES 24 DE JUNIO DE 2025) (DECRETO 259)"
+    },
+    {
+      "id": "017.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción III",
+      "texto": "III. Las y los mexicanos que tengan residencia permanente en el Estado por más de cinco años, y (ADICIONADA, P.O. EDICIÓN 50 ALCANCE III, DE FECHA MARTES 24 DE JUNIO DE 2025) (DECRETO 259)"
+    },
+    {
+      "id": "017.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción IV",
+      "texto": "IV. Las y los mexicanos con el carácter de vecinos, cuando hayan procreado en el territorio del Estado de Guerrero."
+    }
+  ]
+}

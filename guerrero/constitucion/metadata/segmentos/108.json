@@ -1,0 +1,54 @@
+{
+  "clave": "108",
+  "etiqueta": "Artículo 108",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "108.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › párrafo 1",
+      "texto": "En el funcionamiento, deliberaciones y resoluciones de los Órganos Autónomos se privilegiará la máxima publicidad y transparencia."
+    },
+    {
+      "id": "108.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › párrafo 2",
+      "texto": "(REFORMADO, P.O. EDICIÓN No. 32 ALCANCE IV, MARTES 21 DE ABRIL DE 2026)"
+    },
+    {
+      "id": "108.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › 1.",
+      "texto": "1. Los actos y resoluciones de los órganos autónomos estarán sujetos a control jurisdiccional en los términos dispuestos en la ley, con excepción de los que emanen de la Comisión de los Derechos Humanos, que serán definitivos; y, (REFORMADO, P.O. EDICIÓN No. 32 ALCANCE IV, MARTES 21 DE ABRIL DE 2026)"
+    },
+    {
+      "id": "108.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › 2.",
+      "texto": "2. Las leyes establecerán las bases de colaboración y coordinación entre los órganos autónomos y los poderes del estado de Guerrero, y (ADICIONADO, P.O. EDICIÓN No. 32 ALCANCE IV, MARTES 21 DE ABRIL DE 2026)"
+    },
+    {
+      "id": "108.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › 3.",
+      "texto": "3. Los órganos autónomos son sujetos obligados para efectos de transparencia y cumplimiento de los derechos de acceso a la información pública y protección de datos personales. Sus respectivos órganos internos de control fungirán como autoridades garantes de dichos derechos."
+    }
+  ]
+}

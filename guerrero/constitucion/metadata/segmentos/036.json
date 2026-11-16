@@ -1,0 +1,72 @@
+{
+  "clave": "036",
+  "etiqueta": "Artículo 36",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "036.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › párrafo 1",
+      "texto": "Son derechos de los partidos políticos:"
+    },
+    {
+      "id": "036.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › 1.",
+      "texto": "1. Participar en la preparación, desarrollo y vigilancia de los procesos electorales;"
+    },
+    {
+      "id": "036.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › 2.",
+      "texto": "2. Solicitar el registro de candidatos a cargos de elección popular;"
+    },
+    {
+      "id": "036.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › 3.",
+      "texto": "3. Formar frentes, coaliciones y fusiones;"
+    },
+    {
+      "id": "036.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › 4.",
+      "texto": "4. Gozar de las prerrogativas que les confiere la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y la ley de la materia;"
+    },
+    {
+      "id": "036.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › 5.",
+      "texto": "5. Llevar a cabo sus procesos de selección interna para elegir a sus candidatos a cargos de elección popular; y,"
+    },
+    {
+      "id": "036.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › 6.",
+      "texto": "6. Las demás que establezcan las leyes."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "109",
+  "etiqueta": "Artículo 109",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "109.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 › párrafo 1",
+      "texto": "En cada Órgano Autónomo se implementará un servicio civil de carrera regido por los principios prescritos en el primer párrafo, del artículo 105 de esta Constitución."
+    },
+    {
+      "id": "109.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 109 › párrafo 2",
+      "texto": "En todo momento se reconocerán en el ingreso, permanencia, promoción y remoción del encargo, los servicios prestados a la institución específica con mérito, capacidad, profesionalismo y ética, con independencia de los exámenes respectivos."
+    }
+  ]
+}

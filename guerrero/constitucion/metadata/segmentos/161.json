@@ -1,0 +1,27 @@
+{
+  "clave": "161",
+  "etiqueta": "Artículo 161",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "161.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 161 › párrafo 1",
+      "texto": "El Tribunal de Disciplina Judicial evaluará el desempeño de las magistradas, magistrados, juezas y jueces durante su primer año de ejercicio."
+    },
+    {
+      "id": "161.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 161 › párrafo 2",
+      "texto": "La ley establecerá los métodos, criterios e indicadores aplicables a dicha evaluación."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "clave": "015",
+  "etiqueta": "Artículo 15",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "015.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › párrafo 1",
+      "texto": "Son habitantes del Estado quienes residan de manera permanente o temporal dentro de su territorio, sean mexicanos o extranjeros, sin importar su estado migratorio."
+    },
+    {
+      "id": "015.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › párrafo 2",
+      "texto": "Son obligaciones de los habitantes:"
+    },
+    {
+      "id": "015.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción I",
+      "texto": "I. Respetar y cumplir la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ellas emanen;"
+    },
+    {
+      "id": "015.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción II",
+      "texto": "II. Acrecentar el espíritu de solidaridad humana, evitar todo tipo de violencia y discriminación, respetar los valores cívicos y culturales, y coadyuvar en las tareas de superación del pueblo guerrerense;"
+    },
+    {
+      "id": "015.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción III",
+      "texto": "III. Contribuir para los gastos públicos del Estado y de los municipios de manera proporcional y equitativa;"
+    },
+    {
+      "id": "015.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción IV",
+      "texto": "IV. Contribuir a la realización de los programas de mejoramiento de la comunidad; y,"
+    },
+    {
+      "id": "015.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción V",
+      "texto": "V. Hacer que sus hijos reciban educación."
+    }
+  ]
+}

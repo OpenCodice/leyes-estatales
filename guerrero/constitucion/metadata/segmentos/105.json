@@ -1,0 +1,90 @@
+{
+  "clave": "105",
+  "etiqueta": "Artículo 105",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "105.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › párrafo 1",
+      "texto": "Esta Constitución garantiza la autonomía e independencia de los Órganos Autónomos y sus integrantes, los cuales deberán observar como principios rectores de su actuación los de: certeza, legalidad, imparcialidad, objetividad, eficiencia, racionalidad presupuestaria, profesionalismo, responsabilidad, transparencia, máxima publicidad y rendición de cuentas, así como aquellos principios consustanciales a su específica función, en el marco de las leyes orgánicas y secundarias respectivas."
+    },
+    {
+      "id": "105.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › 1.",
+      "texto": "1. Los Órganos Autónomos tendrán a su cargo el ejercicio de funciones públicas del Estado dirigidas a garantizar:"
+    },
+    {
+      "id": "105.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción I",
+      "texto": "I. La protección de los derechos humanos;\n\n(DEROGADA, P.O. EDICIÓN No. 32 ALCANCE IV, MARTES 21 DE ABRIL DE 2026)"
+    },
+    {
+      "id": "105.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción II",
+      "texto": "II. Derogada"
+    },
+    {
+      "id": "105.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción III",
+      "texto": "III. La organización de las elecciones y demás mecanismos de participación ciudadana;"
+    },
+    {
+      "id": "105.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción IV",
+      "texto": "IV. La protección de los derechos político-electorales, la constitucionalidad y legalidad de los actos y resoluciones en materia electoral;"
+    },
+    {
+      "id": "105.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción V",
+      "texto": "V. La constitucionalidad y legalidad de los actos de la administración pública; y,"
+    },
+    {
+      "id": "105.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › Fracción VI",
+      "texto": "VI. La investigación de los delitos, persecución de los delincuentes, y el derecho a ejercer la acción penal."
+    },
+    {
+      "id": "105.VI.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "VI",
+      "ruta": "Artículo 105 › Fracción VI › 2.",
+      "texto": "2. En el ejercicio de su actividad, los órganos autónomos deberán interpretar los derechos humanos en la forma más beneficiosa para las personas, conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos y los Tratados Internacionales ratificados por el Senado de la República."
+    }
+  ]
+}

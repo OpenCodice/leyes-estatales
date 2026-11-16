@@ -1,0 +1,54 @@
+{
+  "clave": "059",
+  "etiqueta": "Artículo 59",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "059.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59 › párrafo 1",
+      "texto": "El Congreso del Estado ejercerá sus atribuciones en períodos de sesiones ordinarias y extraordinarias."
+    },
+    {
+      "id": "059.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59 › 1.",
+      "texto": "1. En cada año de ejercicio de la Legislatura habrá dos períodos de sesiones ordinarias."
+    },
+    {
+      "id": "059.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59 › párrafo 2",
+      "texto": "El primer período iniciará el primero de septiembre y se clausurará el quince de enero; el segundo iniciará el primero de marzo y culminará el quince de junio;"
+    },
+    {
+      "id": "059.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59 › 2.",
+      "texto": "2. Estos períodos podrán prorrogarse por el tiempo que acuerde el Congreso, cuando así lo requiera la importancia de los asuntos en trámite; y,"
+    },
+    {
+      "id": "059.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59 › 3.",
+      "texto": "3. El Congreso se reunirá en período de sesiones extraordinarias cuando sea convocado por la Comisión Permanente o a solicitud del Gobernador del Estado, con el acuerdo de la Comisión Permanente. Durante este periodo, el Congreso conocerá exclusivamente de los asuntos que los convocantes sometan a su conocimiento, los cuales deberán expresarse en la convocatoria respectiva."
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "clave": "070",
+  "etiqueta": "Artículo 70",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "070.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 1",
+      "texto": "La Comisión Permanente tendrá las siguientes atribuciones:"
+    },
+    {
+      "id": "070.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › Fracción I",
+      "texto": "I. Convocar por sí misma o a petición del Ejecutivo, a período extraordinario de sesiones del Congreso;"
+    },
+    {
+      "id": "070.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › Fracción II",
+      "texto": "II. Recibir las iniciativas que le sean presentadas y turnarlas a las Comisiones que correspondan;"
+    },
+    {
+      "id": "070.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › Fracción III",
+      "texto": "III. Coadyuvar en los trabajos de instalación de la nueva Legislatura;"
+    },
+    {
+      "id": "070.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › Fracción IV",
+      "texto": "IV. Recibir la protesta constitucional de los servidores públicos que deban otorgarla ante el Congreso, durante los recesos de este;"
+    },
+    {
+      "id": "070.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › Fracción V",
+      "texto": "V. Conceder o negar las solicitudes de licencia o renuncia que le sometan los servidores públicos;"
+    },
+    {
+      "id": "070.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › Fracción VI",
+      "texto": "VI. Nombrar provisionalmente a los servidores públicos del Congreso, que conforme a la ley deban ser aprobados por el Pleno;"
+    },
+    {
+      "id": "070.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › Fracción VII",
+      "texto": "VII.-Llamar a los suplentes respectivos en casos de licencia de los Diputados, de ausencia, inhabilitación y, en su caso, suspensión temporal o definitiva;"
+    },
+    {
+      "id": "070.VII~2",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › Fracción VII",
+      "texto": "VII. Dar seguimiento a los dictámenes de los asuntos pendientes para el siguiente período de sesiones; y,"
+    },
+    {
+      "id": "070.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › Fracción VIII",
+      "texto": "VIII. Las demás que le señale esta Constitución."
+    }
+  ]
+}
