@@ -1,0 +1,45 @@
+{
+  "clave": "069",
+  "etiqueta": "Artículo 69",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "069.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 1",
+      "texto": "El período constitucional del Gobernador del Estado comenzará el 16 de septiembre del año de su renovación."
+    },
+    {
+      "id": "069.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 2",
+      "texto": "Nunca podrán ser electos para el período inmediato:"
+    },
+    {
+      "id": "069.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › inciso a)",
+      "texto": "a) El Gobernador sustituto o el designado para concluir el período en caso de falta absoluta del electo popularmente."
+    },
+    {
+      "id": "069.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › inciso b)",
+      "texto": "b) El Gobernador interino, el provisional, o el ciudadano que bajo cualquier denominación supla las faltas temporales del Gobernador, siempre que desempeñe el cargo los dos últimos años del período."
+    }
+  ]
+}

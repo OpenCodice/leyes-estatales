@@ -1,0 +1,36 @@
+{
+  "clave": "122",
+  "etiqueta": "Artículo 122",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "122.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122 › párrafo 1",
+      "texto": "Los ayuntamientos de los municipios tienen las atribuciones que establecen la Constitución Federal, esta Constitución, y demás disposiciones legales aplicables."
+    },
+    {
+      "id": "122.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122 › párrafo 2",
+      "texto": "Los municipios tendrán a su cargo las funciones y servicios públicos que señala la fracción III del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "122.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122 › párrafo 3",
+      "texto": "Los municipios ejercerán las facultades señaladas en la Constitución General de la República, de manera coordinada con el Gobierno del Estado, de acuerdo con los planes y programas federales, estatales, regionales y metropolitanos a que se refiere el artículo 139 de este ordenamiento."
+    }
+  ]
+}

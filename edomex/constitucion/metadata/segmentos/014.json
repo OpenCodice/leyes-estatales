@@ -1,0 +1,36 @@
+{
+  "clave": "014",
+  "etiqueta": "Artículo 14",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "014.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › párrafo 1",
+      "texto": "El Gobernador o Gobernadora del Estado podrá someter a referéndum total o parcial las reformas y adiciones a la presente Constitución y las leyes que expida la Legislatura, excepto las de carácter tributario o fiscal."
+    },
+    {
+      "id": "014.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › párrafo 2",
+      "texto": "Las ciudadanas y los ciudadanos de la Entidad podrán solicitar al Gobernador o Gobernadora que sean sometidas a referéndum total o parcial esos ordenamientos, siempre y cuando lo hagan al menos el 20 por ciento de los inscritos en las listas nominales de electores, debidamente identificados y dentro de los 30 días naturales siguientes a su publicación en el diario oficial del Estado."
+    },
+    {
+      "id": "014.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 14 › párrafo 3",
+      "texto": "La ley de la materia determinará las normas, términos y procedimiento a que se sujetarán el referéndum constitucional y el legislativo."
+    }
+  ]
+}

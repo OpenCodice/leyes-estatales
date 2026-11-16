@@ -1,0 +1,27 @@
+{
+  "clave": "085",
+  "etiqueta": "Artículo 85",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "085.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › párrafo 1",
+      "texto": "La ley determinará los requisitos necesarios para ser agente del Ministerio Público y agente de la Policía de Investigación."
+    },
+    {
+      "id": "085.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › párrafo 2",
+      "texto": "No podrán desempeñar estos cargos quienes hayan sido destituidos en el desempeño de iguales o similares empleos en ésta o en cualquiera otra entidad federativa o en la administración pública federal."
+    }
+  ]
+}

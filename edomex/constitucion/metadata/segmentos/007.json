@@ -1,0 +1,27 @@
+{
+  "clave": "007",
+  "etiqueta": "Artículo 7",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 1",
+      "texto": "Las leyes del Estado no podrán establecer sanciones que priven de la vida a las personas, confisquen sus bienes, ni penas crueles, inhumanas o degradantes."
+    },
+    {
+      "id": "007.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 2",
+      "texto": "No se considerará confiscación la aplicación, el decomiso o la extinción del dominio de bienes que se haga de conformidad con el artículo 22 de la Constitución Política de los Estados Unidos Mexicanos."
+    }
+  ]
+}

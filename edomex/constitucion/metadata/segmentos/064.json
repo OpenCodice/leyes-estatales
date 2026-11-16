@@ -1,0 +1,90 @@
+{
+  "clave": "064",
+  "etiqueta": "Artículo 64",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "064.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › párrafo 1",
+      "texto": "Son facultades y obligaciones de la Diputación Permanente:"
+    },
+    {
+      "id": "064.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › Fracción I",
+      "texto": "I. Convocar por propia iniciativa o a solicitud del Ejecutivo a períodos extraordinarios de sesiones.\n\nCuando pasados tres días de haber recibido la convocatoria el Gobernador no hubiera ordenado la publicación respectiva, el Presidente de la Diputación Permanente hará dicha publicación;"
+    },
+    {
+      "id": "064.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › Fracción II",
+      "texto": "II. Llamar a los suplentes respectivos en caso de inhabilidad o fallecimiento de los propietarios, y si aquéllos también estuvieren imposibilitados, expedir los decretos respectivos para que se proceda a nueva elección;"
+    },
+    {
+      "id": "064.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › Fracción III",
+      "texto": "III. Recibir la protesta de los servidores públicos que deban rendirla ante la Legislatura cuando ésta se encuentre en receso;"
+    },
+    {
+      "id": "064.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › Fracción IV",
+      "texto": "IV. Resolver sobre las renuncias, licencias o permisos que competan a la Legislatura;"
+    },
+    {
+      "id": "064.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › Fracción V",
+      "texto": "V. Recibir el aviso del Ejecutivo del Estado y de los presidentes municipales, cuando salgan al extranjero en misiones oficiales."
+    },
+    {
+      "id": "064.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › Fracción VI",
+      "texto": "VI. Dictaminar sobre todos los asuntos que queden pendientes de resolución en los recesos, a fin de que continúen sus trámites al abrirse los períodos de sesiones; y"
+    },
+    {
+      "id": "064.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › Fracción VII",
+      "texto": "VII. Cumplir con las obligaciones que le impongan la Legislatura y otras disposiciones legales."
+    },
+    {
+      "id": "064.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › Fracción VIII",
+      "texto": "VIII. Conceder o negar solicitudes de licencia a la persona titular del Poder Ejecutivo, a Diputadas o Diputados, Magistradas y Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial y del Tribunal de Justicia Administrativa, así como de integrantes del Órgano de Administración Judicial en los términos que establezca esta Constitución y las leyes aplicables;"
+    }
+  ]
+}

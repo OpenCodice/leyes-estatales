@@ -1,0 +1,36 @@
+{
+  "clave": "088",
+  "etiqueta": "Artículo 88",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "088.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88 › párrafo 1",
+      "texto": "El ejercicio del Poder Judicial del Estado se deposita en:"
+    },
+    {
+      "id": "088.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88 › inciso a)",
+      "texto": "a) Un órgano colegiado denominado Tribunal Superior de Justicia, el cual funcionará en Pleno, Sala Constitucional, Sala de Asuntos Indígenas, Salas Colegiadas, Salas Unitarias y Tribunales de Alzada;"
+    },
+    {
+      "id": "088.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88 › inciso b)",
+      "texto": "b) En tribunales y juzgados de primera instancia, juzgados de cuantía menor, juzgados especializados en órdenes y medidas de protección, y tribunales laborales, organizados de acuerdo a su competencia establecida en las leyes secundarias. Los órganos jurisdiccionales aplicarán las leyes federales, tratándose de jurisdicción concurrente.\n\nEl Poder Judicial contará con un Tribunal de Disciplina Judicial y un Órgano de Administración Judicial.\n\nEl Poder Judicial contará con juezas y jueces de control, tribunales de enjuiciamiento y juezas y jueces de ejecución que tendrán las atribuciones que la Constitución Política de los Estados Unidos Mexicanos, el Código Nacional de Procedimientos Penales, esta Constitución y las demás leyes aplicables le confieran.\n\nLas juezas, jueces, magistradas y magistrados del Estado de México, en el ámbito de su competencia, al emitir sus resoluciones observarán en lo concerniente el respeto a los derechos fundamentales, a las libertades, derechos y garantías reconocidas por la Constitución Federal, esta Constitución, los Tratados Internaciones de los que el Estado Mexicano sea parte, las leyes y reglamentos que el Estado establecen.\n\nLas leyes determinarán los procedimientos que habrán de seguirse para sustanciar los juicios y todos los actos en que intervenga el Poder Judicial.\n\nLas Magistradas y Magistrados del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, así como las Juezas y Jueces del Poder Judicial del Estado serán electos por sufragio directo y secreto de la ciudadanía el día en que se realicen las elecciones estatales ordinarias del año que corresponda.\n\nEn el ámbito del Poder Judicial del Estado, no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la ley.\n\nLa ley establecerá las bases para la selección, formación y actualización de funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo e independencia.\n\nEl Presupuesto de Egresos del Poder Judicial que se apruebe para el ejercicio fiscal anual, no podrá ser menor al porcentaje que represente de los ingresos ordinarios del Estado, correspondiente al año inmediato anterior.\n\nEn ningún caso, el Presupuesto Anual de Egresos que se apruebe para el Poder Judicial del Estado, podrá ser inferior al 2.0% de los ingresos ordinarios del Estado, para el año fiscal de que se trate. De conformidad con las necesidades del servicio, dicho porcentaje se incrementará anualmente.\n\nLas y los integrantes de los tribunales laborales serán electos atendiendo a lo dispuesto en esta Constitución debiendo contar con capacidad y experiencia en materia laboral. Sus sentencias y resoluciones deberán observar los principios de legalidad, imparcialidad, transparencia, autonomía, independencia, máxima publicidad, universalidad, interdependencia y progresividad de los derechos humanos.\n\nAntes de acudir a los tribunales laborales, las y los trabajadores y patrones deberán asistir al Centro de Conciliación Laboral, el cual contará con personalidad jurídica y patrimonio propios, plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión rigiéndose por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad."
+    }
+  ]
+}

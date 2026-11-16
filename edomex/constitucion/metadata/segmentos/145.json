@@ -1,0 +1,27 @@
+{
+  "clave": "145",
+  "etiqueta": "Artículo 145",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "145.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 145 › párrafo 1",
+      "texto": "Nunca podrán reunirse en un solo individuo dos empleos o cargos públicos del Estado o de los municipios por los que se disfrute un sueldo. Tratándose de docencia ésta podrá prestarse siempre que sea compatible con las funciones y actividades de los servidores públicos."
+    },
+    {
+      "id": "145.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 145 › párrafo 2",
+      "texto": "Ningún individuo podrá desempeñar dos cargos de elección popular, pero el electo podrá optar de entre ambos el que quiera desempeñar."
+    }
+  ]
+}

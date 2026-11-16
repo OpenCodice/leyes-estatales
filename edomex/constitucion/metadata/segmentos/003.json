@@ -1,0 +1,27 @@
+{
+  "clave": "003",
+  "etiqueta": "Artículo 3",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "003.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 1",
+      "texto": "El Estado de México adopta la forma de gobierno republicana, representativa, democrática, laica y popular."
+    },
+    {
+      "id": "003.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 2",
+      "texto": "El ejercicio de la autoridad se sujetará a esta Constitución, a las leyes y a los ordenamientos que de una y otras emanen."
+    }
+  ]
+}

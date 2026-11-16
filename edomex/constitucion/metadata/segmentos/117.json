@@ -1,0 +1,27 @@
+{
+  "clave": "117",
+  "etiqueta": "Artículo 117",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "117.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › párrafo 1",
+      "texto": "Los ayuntamientos se integrarán con una jefa o jefe de asamblea que se denominará Presidenta o Presidente Municipal, respectivamente, una sindicatura y hasta quince regidurías, cuyo número se determinará en razón directa de la población del municipio que representen, como lo disponga la Ley Orgánica respectiva, de conformidad con los principios de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso e integración del poder público municipal."
+    },
+    {
+      "id": "117.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › párrafo 2",
+      "texto": "Los ayuntamientos de los municipios podrán tener las regidurías electas según el principio de representación proporcional de acuerdo con los requisitos y reglas de asignación que establezca la ley de la materia, respetando los principios referidos en el párrafo anterior."
+    }
+  ]
+}

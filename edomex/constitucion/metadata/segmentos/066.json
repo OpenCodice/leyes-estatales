@@ -1,0 +1,27 @@
+{
+  "clave": "066",
+  "etiqueta": "Artículo 66",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "066.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › párrafo 1",
+      "texto": "La elección de Gobernador o Gobernadora del Estado de México será mediante sufragio universal, libre, secreto y directo."
+    },
+    {
+      "id": "066.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › párrafo 2",
+      "texto": "Se preservará el principio de paridad de género y la alternancia en la postulación que realicen los partidos políticos."
+    }
+  ]
+}

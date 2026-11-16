@@ -1,0 +1,27 @@
+{
+  "clave": "050",
+  "etiqueta": "Artículo 50",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "050.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 1",
+      "texto": "Las sesiones serán conducidas por una directiva, cuyos integrantes velarán por el cumplimiento de las normas contenidas en la Ley Orgánica correspondiente sobre el debate y votación de los asuntos."
+    },
+    {
+      "id": "050.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 2",
+      "texto": "En la segunda sesión del primer período ordinario del ejercicio de la Legislatura y para todo el período constitucional, se integrará un órgano denominado Junta de Coordinación Política, cuya integración y funciones serán determinadas por la Ley Orgánica del Poder Legislativo y demás ordenamientos jurídicos aplicables."
+    }
+  ]
+}

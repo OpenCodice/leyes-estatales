@@ -1,0 +1,27 @@
+{
+  "clave": "053",
+  "etiqueta": "Artículo 53",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "053.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › párrafo 1",
+      "texto": "La discusión y aprobación de las resoluciones de la Legislatura se hará con estricta sujeción a su Ley Orgánica. Las iniciativas del Ejecutivo y del Tribunal Superior de Justicia serán turnadas desde luego a las comisiones respectivas con arreglo a ese ordenamiento."
+    },
+    {
+      "id": "053.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › párrafo 2",
+      "texto": "En la discusión de los proyectos de ley de ingresos municipales, como en toda iniciativa de ley, el Ejecutivo tendrá la intervención que le asigna la presente Constitución."
+    }
+  ]
+}
