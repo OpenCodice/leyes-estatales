@@ -1,0 +1,36 @@
+{
+  "clave": "012",
+  "etiqueta": "Artículo 12",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "012.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › párrafo 1",
+      "texto": "Son vecinos los domiciliados en el territorio del Estado, con una residencia mínima de un año."
+    },
+    {
+      "id": "012.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › párrafo 2",
+      "texto": "Es obligación de los vecinos inscribirse en el padrón y catastro de la municipalidad donde residan, lo que deberán hacer los recién avecindados en el preciso término de tres meses después de su llegada, así como pagar las contribuciones decretadas por la Federación y el Estado, y contribuir para los gastos del municipio."
+    },
+    {
+      "id": "012.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › párrafo 3",
+      "texto": "No se permite la inscripción de vecindad en el municipio al que resida habitualmente en otro."
+    }
+  ]
+}

@@ -1,0 +1,549 @@
+{
+  "clave": "005",
+  "etiqueta": "Artículo 5",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "005.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 1",
+      "texto": "(REFORMADO, G.O. 11 DE JUNIO DE 2025)"
+    },
+    {
+      "id": "005.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 2",
+      "texto": "El Estado de Veracruz de Ignacio de la Llave forma parte de la Nación Mexicana, con asiento en la grandeza de sus pueblos indígenas u originarios y los afromexicanos, y culturas que viven y habitan en su territorio."
+    },
+    {
+      "id": "005.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 3",
+      "texto": "El Estado tiene una composición pluricultural y multiétnica sustentada originalmente en sus pueblos indígenas u originarios, en su calidad de colectividades con una continuidad histórica de las sociedades precoloniales establecidas en su territorio; y que conservan, desarrollan y transmiten sus instituciones sociales, normativas, económicas, culturales y políticas, o parte de ellas."
+    },
+    {
+      "id": "005.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 4",
+      "texto": "La conciencia de la identidad indígena o afromexicana deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas u originarios y afromexicanos."
+    },
+    {
+      "id": "005.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 5",
+      "texto": "Son comunidades integrantes de pueblos indígenas u originarios y afromexicanos, aquellas que forman una unidad social, económica y cultural, asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus sistemas normativos."
+    },
+    {
+      "id": "005.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 6",
+      "texto": "El derecho de los pueblos indígenas u originarios, así como de los afromexicanos, a la libre determinación se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional. Para el reconocimiento de esos pueblos y comunidades, se deben tomar en cuenta, además de los principios generales establecidos en los párrafos anteriores de este artículo, criterios etnolingüísticos, de asentamiento físico y de autoadscripción."
+    },
+    {
+      "id": "005.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › párrafo 7",
+      "texto": "Se reconoce a los pueblos y comunidades indígenas u originarios y afromexicanos como sujetos de derecho público, con personalidad jurídica y patrimonio propio."
+    },
+    {
+      "id": "005.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado A",
+      "texto": "A. Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas u originarios y afromexicanos a la libre determinación y, en consecuencia, a la autonomía para:"
+    },
+    {
+      "id": "005.A.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado A › Fracción I",
+      "texto": "I. Decidir, conforme a sus sistemas normativos y de acuerdo con la Constitución Federal y esta Constitución, sus formas internas de gobierno, de convivencia y de organización social, económica, política y cultural."
+    },
+    {
+      "id": "005.A.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado A › Fracción II",
+      "texto": "II. Aplicar y desarrollar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales de la Constitución Federal y esta Constitución, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres, con sujeción a las leyes que de ambos ordenamientos deriven y que establezcan los casos y procedimientos de validación por los jueces o tribunales correspondientes.\n\nLa jurisdicción indígena o afromexicana se ejercerá por las autoridades comunitarias de acuerdo con los sistemas normativos de los pueblos y comunidades indígenas u originarios y afromexicanos, dentro del marco del orden jurídico vigente, en los términos de la Constitución Federal, esta Constitución y leyes aplicables que de una u otra deriven."
+    },
+    {
+      "id": "005.A.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado A › Fracción III",
+      "texto": "III. Elegir, de acuerdo con sus sistemas normativos, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas y afromexicanos disfrutarán y ejercerán su derecho de votar y ser votados en condiciones de igualdad; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados, en un marco que respete el pacto federal y la soberanía del Estado de Veracruz de Ignacio de la Llave.\n\nEn ningún caso, sus sistemas normativos limitarán los derechos políticoelectorales de los y las ciudadanas en la elección de sus autoridades municipales."
+    },
+    {
+      "id": "005.A.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado A › Fracción IV",
+      "texto": "IV. Preservar, proteger y desarrollar su patrimonio cultural, material e inmaterial, que comprende todos los elementos que constituyen su cultura e identidad. Se reconoce la propiedad intelectual colectiva respecto de dicho patrimonio, en los términos que dispongan las leyes."
+    },
+    {
+      "id": "005.A.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado A › Fracción V",
+      "texto": "V. Promover el uso, desarrollo, preservación, estudio y difusión de las lenguas indígenas como un elemento constitutivo de la diversidad cultural del Estado y de la Nación, así como una política lingüística multilingüe que permita su uso en los espacios públicos y en los privados que correspondan."
+    },
+    {
+      "id": "005.A.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado A › Fracción VI",
+      "texto": "VI. Participar, en términos del artículo 3° de la Constitución Federal y 10 de la Constitución del Estado, en la construcción de los modelos educativos para reconocer la composición pluricultural de la Nación y de Veracruz de Ignacio de la Llave con base en sus culturas, lenguas y métodos de enseñanza y aprendizaje."
+    },
+    {
+      "id": "005.A.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado A › Fracción VII",
+      "texto": "VII. Desarrollar, practicar, fortalecer y promover la medicina tradicional, así como la partería para la atención del embarazo, parto y puerperio. Se reconoce a las personas que las ejercen, incluidos sus saberes y prácticas de salud."
+    },
+    {
+      "id": "005.A.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado A › Fracción VIII",
+      "texto": "VIII. Conservar y mejorar el hábitat, y preservar la bioculturalidad y la integridad de sus tierras, incluidos sus lugares sagrados declarados por la autoridad competente, de conformidad con las disposiciones jurídicas aplicables en la materia."
+    },
+    {
+      "id": "005.A.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado A › Fracción IX",
+      "texto": "IX. Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en la Constitución Federal y en las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de la comunidad, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquellos que corresponden a las áreas estratégicas que prevé la propia Constitución Federal. Para estos efectos, las comunidades podrán asociarse en términos de ley."
+    },
+    {
+      "id": "005.A.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado A › Fracción X",
+      "texto": "X. Elegir, en los municipios con población indígena y afromexicana, representantes en los ayuntamientos, de acuerdo con los principios de paridad de género y pluriculturalidad conforme a las normas aplicables. Esta Constitución y demás leyes que deriven de esta, reconocerán y regularán estos derechos, con el propósito de fortalecer su participación y representación política."
+    },
+    {
+      "id": "005.A.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado A › Fracción XI",
+      "texto": "XI. Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus sistemas normativos y especificidades culturales, con respeto a los preceptos que establece la Constitución Federal y esta Constitución.\n\nLas personas indígenas tienen, en todo tiempo, el derecho a ser asistidas y asesoradas por personas intérpretes, traductoras, defensoras y peritas especializadas en derechos indígenas, pluralismo jurídico, perspectiva de género, y diversidad cultural y lingüística."
+    },
+    {
+      "id": "005.A.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado A › Fracción XII",
+      "texto": "XII. Ejercer su derecho al desarrollo integral con base en sus formas de organización económica, social y cultural, con respeto a la integridad del medio ambiente y recursos naturales, en términos de las disposiciones jurídicas aplicables."
+    },
+    {
+      "id": "005.A.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado A › Fracción XIII",
+      "texto": "XIII. Ser consultados sobre las medidas legislativas o administrativas que se pretendan adoptar, cuando estas puedan causar afectaciones o impactos significativos en su vida o entorno, con la finalidad de obtener su consentimiento o, en su caso, llegar a un acuerdo sobre tales medidas.\n\nLas consultas indígenas y afromexicanas se realizarán de conformidad con principios y normas que garanticen el respeto y el ejercicio efectivo de los derechos sustantivos de los pueblos indígenas u originarios y los afromexicanos reconocidos por la Constitución Federal y esta Constitución.\n\nCuando la medida administrativa que se pretenda adoptar beneficie a un particular, el costo de la consulta debe ser cubierto por éste.\n\nLa persona física o moral que obtenga un lucro por las medidas administrativas objeto de consulta debe otorgar a los pueblos y comunidades indígenas u originarios y afromexicanos un beneficio justo y equitativo, en los términos que establezcan las leyes aplicables.\n\nLos pueblos y comunidades indígenas u originarios y afromexicanos son los únicos legitimados para impugnar, por las vías jurisdiccionales establecidas, el incumplimiento del derecho reconocido en esta fracción, conforme a la ley de la materia que regule los términos, condiciones y procedimientos para llevar a cabo la impugnación."
+    },
+    {
+      "id": "005.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado B",
+      "texto": "B. El Estado y los Municipios de la Entidad deberán establecer las instituciones y determinar las políticas públicas que garanticen el ejercicio efectivo de los derechos de los pueblos indígenas u originarios y afromexicanos, y su desarrollo integral, intercultural y sostenible, las cuales deben ser diseñadas y operadas conjuntamente con ellos."
+    },
+    {
+      "id": "005.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado B › párrafo 8",
+      "texto": "Para tal efecto, las autoridades estatales y municipales tienen la obligación de:"
+    },
+    {
+      "id": "005.B.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado B › Fracción I",
+      "texto": "I. Impulsar el desarrollo comunitario y regional de los pueblos y comunidades indígenas originarios y afromexicanos, para mejorar sus condiciones de vida y bienestar común, mediante planes de desarrollo que fortalezcan sus economías y fomenten la agroecología, los cultivos tradicionales, en especial el sistema milpa, las semillas nativas, los recursos agroalimentarios y el óptimo uso de la tierra, libres del uso de sustancias peligrosas y productos químicos tóxicos.\n\nLo anterior, de conformidad con las leyes aplicables que establezcan los mecanismos que faciliten la organización y desarrollo de las economías de los pueblos y comunidades indígenas u originarios y afromexicanos, y reconozcan el trabajo comunitario como parte de su organización social y cultural."
+    },
+    {
+      "id": "005.B.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado B › Fracción II",
+      "texto": "II. Determinar, mediante normas y criterios compensatorios, equitativos, justos y proporcionales, asignaciones presupuestales para los pueblos y comunidades indígenas u originarios y afromexicanos, que serán administradas directamente por éstos."
+    },
+    {
+      "id": "005.B.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado B › Fracción III",
+      "texto": "III. Adoptar las medidas necesarias para reconocer y proteger el patrimonio cultural, la propiedad intelectual colectiva, los conocimientos y las expresiones culturales tradicionales de los pueblos y comunidades indígenas u originarios y afromexicanos, en los términos que establezca la ley."
+    },
+    {
+      "id": "005.B.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado B › Fracción IV",
+      "texto": "IV. Garantizar y fortalecer la educación indígena intercultural y plurilingüe, mediante:"
+    },
+    {
+      "id": "005.B.IV.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "B",
+      "fraccion": "IV",
+      "ruta": "Artículo 5 › Apartado B › Fracción IV › inciso a)",
+      "texto": "a) La alfabetización y la educación en todos los niveles, gratuita, laica, integral y con pertinencia cultural y lingüística;"
+    },
+    {
+      "id": "005.B.IV.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "B",
+      "fraccion": "IV",
+      "ruta": "Artículo 5 › Apartado B › Fracción IV › inciso b)",
+      "texto": "b) La formación de profesionales indígenas y la implementación de la educación comunitaria;"
+    },
+    {
+      "id": "005.B.IV.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "B",
+      "fraccion": "IV",
+      "ruta": "Artículo 5 › Apartado B › Fracción IV › inciso c)",
+      "texto": "c) El establecimiento de un sistema de becas para las personas indígenas que cursen cualquier nivel educativo;"
+    },
+    {
+      "id": "005.B.IV.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "B",
+      "fraccion": "IV",
+      "ruta": "Artículo 5 › Apartado B › Fracción IV › inciso d)",
+      "texto": "d) La promoción de programas educativos bilingües, en concordancia con los métodos de enseñanza y aprendizaje de los pueblos y comunidades indígenas u originarios; y"
+    },
+    {
+      "id": "005.B.IV.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "B",
+      "fraccion": "IV",
+      "ruta": "Artículo 5 › Apartado B › Fracción IV › inciso e)",
+      "texto": "e) La definición y desarrollo de programas educativos que reconozcan e impulsen la herencia cultural de los pueblos y comunidades indígenas u originarios, su importancia para la Nación y para Veracruz de Ignacio de la Llave; así como la promoción de una relación intercultural, de no discriminación y libre de racismo."
+    },
+    {
+      "id": "005.B.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado B › Fracción V",
+      "texto": "V. Asegurar el acceso efectivo a los servicios de salud mediante la participación en la ampliación de la cobertura del sistema nacional con perspectiva intercultural, así como reconocer las prácticas de la medicina tradicional."
+    },
+    {
+      "id": "005.B.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado B › Fracción VI",
+      "texto": "VI. Garantizar el derecho a la alimentación nutritiva, suficiente y de calidad con pertinencia cultural, en especial para la población infantil."
+    },
+    {
+      "id": "005.B.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado B › Fracción VII",
+      "texto": "VII. Mejorar las condiciones de vida de los pueblos y comunidades indígenas u originarios afromexicanos, y de sus espacios para la convivencia y recreación, mediante acciones que garanticen el acceso al financiamiento para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos, en armonía con su entorno natural y cultural, sus conocimientos y tecnologías tradicionales."
+    },
+    {
+      "id": "005.B.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado B › Fracción VIII",
+      "texto": "VIII. Garantizar la participación efectiva de las mujeres indígenas y afromexicanas, en condiciones de igualdad, en los procesos de desarrollo integral de sus pueblos y comunidades;\n\nsu acceso a la educación, así como a la propiedad y posesión de la tierra; su participación en la toma de decisiones de carácter público, y la promoción y respeto de sus derechos humanos."
+    },
+    {
+      "id": "005.B.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado B › Fracción IX",
+      "texto": "IX. Garantizar y extender la red de comunicaciones que permita la articulación de los pueblos y comunidades indígenas u originarios y afromexicanos, mediante la construcción y ampliación de vías de comunicación, caminos artesanales, radiodifusión, telecomunicación e Internet de banda ancha, con apego a las disposiciones federales y estatales aplicables."
+    },
+    {
+      "id": "005.B.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado B › Fracción X",
+      "texto": "X. Establecer y garantizar las condiciones para que los pueblos y comunidades indígenas u originarios y afromexicanos puedan adquirir, operar, promover, desarrollar y administrar sus medios de comunicación, telecomunicaciones y nuevas tecnologías de la información, garantizando espacios óptimos del espectro radioeléctrico y de las redes e infraestructura, haciendo uso de sus lenguas y otros elementos culturales, con apego a las disposiciones federales y estatales aplicables."
+    },
+    {
+      "id": "005.B.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado B › Fracción XI",
+      "texto": "XI. Adoptar medidas para que los pueblos y comunidades indígenas u originarios y los afromexicanos accedan a los medios de comunicación e información en condiciones de dignidad, equidad e interculturalidad, sin discriminación alguna para que reflejen la diversidad cultural indígena y afromexicana, con apego a las disposiciones federales y estatales aplicables."
+    },
+    {
+      "id": "005.B.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado B › Fracción XII",
+      "texto": "XII. Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas u originarios y afromexicanos mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la creación de empleos, la incorporación de tecnologías y sus sistemas tradicionales de producción, para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización."
+    },
+    {
+      "id": "005.B.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado B › Fracción XIII",
+      "texto": "XIII. Establecer políticas públicas para proteger a las comunidades y personas indígenas afromexicanas migrantes, tanto en el territorio estatal como en el de los municipios, en especial, mediante acciones destinadas a:"
+    },
+    {
+      "id": "005.B.XIII.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "B",
+      "fraccion": "XIII",
+      "ruta": "Artículo 5 › Apartado B › Fracción XIII › inciso a)",
+      "texto": "a) Reconocer las formas organizativas de las comunidades indígenas y afromexicanas residentes y de las personas indígenas y afromexicanas migrantes, en sus contextos de destino en el territorio del Estado y de sus municipios;"
+    },
+    {
+      "id": "005.B.XIII.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "B",
+      "fraccion": "XIII",
+      "ruta": "Artículo 5 › Apartado B › Fracción XIII › inciso b)",
+      "texto": "b) Garantizar los derechos laborales de las personas jornaleras agrícolas, trabajadoras del hogar y con discapacidad;"
+    },
+    {
+      "id": "005.B.XIII.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "B",
+      "fraccion": "XIII",
+      "ruta": "Artículo 5 › Apartado B › Fracción XIII › inciso c)",
+      "texto": "c) Mejorar las condiciones de salud de las mujeres, así como apoyar con programas especiales de educación y nutrición a niñas, niños, adolescentes y jóvenes de familias migrantes;"
+    },
+    {
+      "id": "005.B.XIII.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "B",
+      "fraccion": "XIII",
+      "ruta": "Artículo 5 › Apartado B › Fracción XIII › inciso d)",
+      "texto": "d) Velar permanentemente por el respeto de sus derechos humanos; y"
+    },
+    {
+      "id": "005.B.XIII.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "B",
+      "fraccion": "XIII",
+      "ruta": "Artículo 5 › Apartado B › Fracción XIII › inciso e)",
+      "texto": "e) Promover, con pleno respeto a su identidad, la difusión de sus culturas y la inclusión social en los lugares de destino que propicien acciones de fortalecimiento del vínculo familiar y comunitario.\n\nLo anterior, de conformidad con las leyes que establezcan los mecanismos para que las personas indígenas y afromexicanas residentes y las migrantes puedan mantener la ciudadanía mexicana y el vínculo con sus comunidades de origen."
+    },
+    {
+      "id": "005.B.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado B › Fracción XIV",
+      "texto": "XIV. Consultar a los pueblos indígenas u originarios y a los afromexicanos en la elaboración del Plan Veracruzano de Desarrollo y de los Municipios y, en su caso, incorporar las recomendaciones y propuestas que realicen."
+    },
+    {
+      "id": "005.B.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado B › Fracción XV",
+      "texto": "XV. Celebrar consultas y cooperar de buena fe con los pueblos y comunidades indígenas u originarios y afromexicanos, por medio de sus instituciones representativas, antes de adoptar y aplicar medidas legislativas o administrativas que puedan causar afectaciones o impactos significativos en su vida o entorno, en los términos de la fracción XIII del Apartado A del presente artículo.\n\nEl Congreso del Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, deberán establecer las partidas específicas en los presupuestos de egresos que aprueben, así como las formas y procedimientos para que los pueblos y comunidades indígenas u originarios y afromexicanos las administren y ejerzan conforme a las leyes de la materia.\n\nSin perjuicio de los derechos aquí establecidos a favor de los indígenas y afromexicanos, sus comunidades y pueblos, toda comunidad equiparable a aquéllos tendrá, en lo conducente, los mismos derechos, en los términos que dispongan las leyes aplicables."
+    },
+    {
+      "id": "005.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado C",
+      "texto": "C. Esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, como parte de la composición pluricultural de la Nación y de Veracruz de Ignacio de la Llave. Tendrán, en lo conducente, los derechos señalados en los apartados anteriores de este artículo, a fin de garantizar su desarrollo e inclusión social, en los términos que establezcan la Constitución Federal y esta Constitución, así como su libre determinación que se ejercerá en un marco constitucional de autonomía que asegure la unidad nacional."
+    },
+    {
+      "id": "005.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado C › párrafo 9",
+      "texto": "Los pueblos y comunidades afromexicanas se integran por descendientes de personas originarias de poblaciones del continente africano trasladadas y asentadas en el territorio nacional desde la época colonial, con formas propias de organización social, económica, política y cultural, o parte de ellas, y afirman su existencia como colectividades culturalmente diferenciadas."
+    },
+    {
+      "id": "005.p10",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado C › párrafo 10",
+      "texto": "Los pueblos y comunidades afromexicanas, como sujetos de derecho público, con personalidad jurídica y patrimonio propio, tienen además derecho a:"
+    },
+    {
+      "id": "005.C.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado C › Fracción I",
+      "texto": "I. La protección de su identidad cultural, modos de vida, expresiones espirituales y de todos los elementos que integran su patrimonio cultural, material e inmaterial y su propiedad intelectual colectiva, en los términos que establezca la ley;"
+    },
+    {
+      "id": "005.C.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado C › Fracción II",
+      "texto": "II. La promoción, reconocimiento y protección de sus conocimientos, aportes y contribuciones en la historia nacional y estatal y a la diversidad cultural de la Nación y de Veracruz de Ignacio de la Llave, debiendo quedar insertas en las modalidades y niveles del Sistema Educativo Nacional y del Sistema Educativo Estatal, en los términos que señalen las leyes aplicables, y"
+    },
+    {
+      "id": "005.C.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado C › Fracción III",
+      "texto": "III. Ser incluidas en la producción y registros de datos, información, estadísticas, censos y encuestas oficiales, para lo cual las instituciones competentes establecerán los procedimientos, métodos y criterios para inscribir su identidad y autoadscripción."
+    },
+    {
+      "id": "005.D",
+      "tipo": "apartado",
+      "marca": "D",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado D",
+      "texto": "D. Esta Constitución reconoce y el Estado garantiza el derecho de las mujeres indígenas y afromexicanas a participar de manera efectiva y en condiciones de igualdad sustantiva en los procesos de desarrollo integral de sus pueblos y comunidades; en la toma de decisiones de carácter público; en la promoción y respeto de sus derechos de acceso a la educación, a la salud, a la propiedad y a la posesión de la tierra y demás derechos humanos."
+    },
+    {
+      "id": "005.p11",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado D › párrafo 11",
+      "texto": "Se reconoce y garantiza el derecho de la niñez, adolescencia y juventud indígena y afromexicana a una atención adecuada, en sus propias lenguas, para hacer efectivo el conocimiento y ejercicio pleno de sus derechos de acceso a la educación, a la salud, a la tecnología, al arte, la cultura, el deporte y la capacitación para el trabajo, entre otros."
+    },
+    {
+      "id": "005.p12",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado D › párrafo 12",
+      "texto": "Asimismo, para garantizar una vida libre de exclusión, discriminación y violencia, en especial de la violencia sexual y de género, y para establecer políticas dirigidas a prevenir y atender las adicciones, con visión de respeto a sus identidades culturales."
+    },
+    {
+      "id": "005.p13",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado D › párrafo 13",
+      "texto": "El Estado y los Municipios adoptarán las medidas necesarias para hacer efectivos los derechos reconocidos en la Constitución Federal y esta Constitución, con el propósito de eliminar la discriminación, racismo, exclusión e invisibilidad de las que sean objeto los pueblos y comunidades indígenas u originarios y afromexicanos."
+    },
+    {
+      "id": "005.p14",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado D › párrafo 14",
+      "texto": "Lo anterior, de conformidad con la ley general que establezca las normas y mecanismos que aseguren el respeto y la implementación de los derechos de los pueblos y comunidades indígenas u originarias y afromexicanas reconocidos en la Constitución Federal y esta Constitución."
+    },
+    {
+      "id": "005.p15",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 5 › Apartado D › párrafo 15",
+      "texto": "Las leyes del Estado y todos los demás ordenamientos de cualquier jerarquía normativa, que se expidan en el orden estatal y municipal, prevendrán las bases y mecanismos para asegurar la efectiva observancia de todo lo dispuesto en el presente artículo, en los respectivos ámbitos de competencia de las autoridades estatales y municipales, y de conformidad con lo dispuesto por la Constitución Federal, esta Constitución y las leyes aplicables que de una y otra deriven."
+    }
+  ]
+}

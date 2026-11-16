@@ -1,0 +1,36 @@
+{
+  "clave": "081",
+  "etiqueta": "Artículo 81",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "081.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 1",
+      "texto": "(REFORMADO, G.O. 4 DE MAYO DE 2026)"
+    },
+    {
+      "id": "081.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 2",
+      "texto": "Cuando por circunstancias imprevistas no pueda instalarse el Congreso o, la persona titular del Poder Ejecutivo no pueda tomar posesión de su cargo el día fijado por esta Constitución, el Congreso que esté funcionando o la Diputación Permanente, señalará el nuevo día en que deban verificarse dichos actos."
+    },
+    {
+      "id": "081.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 3",
+      "texto": "Si el día que la persona titular del Poder Ejecutivo deba iniciar el ejercicio de sus funciones el Congreso del Estado no estuviere instalado, aquél rendirá protesta de inmediato ante el Presidente del Tribunal Superior de Justicia del Estado."
+    }
+  ]
+}

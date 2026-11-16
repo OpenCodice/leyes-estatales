@@ -1,0 +1,90 @@
+{
+  "clave": "034",
+  "etiqueta": "Artículo 34",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "034.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › párrafo 1",
+      "texto": "El derecho de iniciar leyes o decretos compete:"
+    },
+    {
+      "id": "034.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › Fracción I",
+      "texto": "I. A los diputados del Congreso del Estado;"
+    },
+    {
+      "id": "034.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › Fracción II",
+      "texto": "II. A los diputados y senadores al Congreso de la Unión que se encuentren en funciones, y hayan sido electos en el Estado;\n\n(REFORMADA, G.O. 4 DE MAYO DE 2026)"
+    },
+    {
+      "id": "034.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › Fracción III",
+      "texto": "III. A la persona titular del Poder Ejecutivo;"
+    },
+    {
+      "id": "034.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › Fracción IV",
+      "texto": "IV. Al Tribunal Superior de Justicia, en todo lo relacionado con la organización y funcionamiento de la impartición y la administración de justicia;"
+    },
+    {
+      "id": "034.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › Fracción V",
+      "texto": "V. A los ayuntamientos o concejos municipales, en lo relativo a sus localidades y sobre los ramos que administren;"
+    },
+    {
+      "id": "034.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › Fracción VI",
+      "texto": "VI. A los organismos autónomos de Estado, en lo relativo a la materia de su competencia; y\n\n(ADICIONADA, G.O. 6 DE SEPTIEMBRE DE 2018)"
+    },
+    {
+      "id": "034.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › Fracción VII",
+      "texto": "VII. A la Universidad Veracruzana, en todo lo relacionado a su autonomía, organización y funcionamiento; y"
+    },
+    {
+      "id": "034.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › Fracción VIII",
+      "texto": "VIII.A los ciudadanos del Estado, en un número equivalente, por lo menos, al cero punto trece por ciento de la lista nominal de electores, mediante iniciativa ciudadana, en los términos que señale la ley."
+    }
+  ]
+}

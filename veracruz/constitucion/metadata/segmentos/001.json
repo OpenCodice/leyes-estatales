@@ -1,0 +1,27 @@
+{
+  "clave": "001",
+  "etiqueta": "Artículo 1",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "001.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 1",
+      "texto": "(REFORMADO, G.O. 18 DE MARZO DE 2003)"
+    },
+    {
+      "id": "001.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 2",
+      "texto": "El Estado de Veracruz de Ignacio de la Llave es parte integrante de la Federación Mexicana, libre y autónomo en su administración y gobierno interiores."
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "clave": "018-bis",
+  "etiqueta": "Artículo 18 Bis",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "018-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 Bis › párrafo 1",
+      "texto": "(ADICIONADO, G.O. 30 DE JUNIO DE 2025)"
+    },
+    {
+      "id": "018-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 Bis › párrafo 2",
+      "texto": "Para ocupar cualquier cargo, empleo o comisión en el servicio público, ya sea por elección o por designación, además de los requisitos específicos que esta Constitución o las leyes señalen para cada caso, será indispensable no incurrir en los siguientes impedimentos, condición que deberá acreditarse al momento del registro de la candidatura o de la propuesta para la designación, según corresponda:"
+    },
+    {
+      "id": "018-bis.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 Bis › Fracción I",
+      "texto": "I. Estar inscrita o inscrito en el Registro Nacional de Obligaciones Alimentarias, salvo que se acredite fehacientemente estar al corriente del pago de la obligación alimentaria, se cancele en su totalidad la deuda, o bien, se tramite y obtenga el descuento correspondiente;"
+    },
+    {
+      "id": "018-bis.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 Bis › Fracción II",
+      "texto": "II. Encontrarse inscrito en el Registro Nacional o Estatal de Personas Sancionadas en Materia de Violencia Política contra las Mujeres en Razón de Género; y"
+    },
+    {
+      "id": "018-bis.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 Bis › Fracción III",
+      "texto": "III. Contar con sentencia firme por la comisión dolosa de alguno de los delitos siguientes:"
+    },
+    {
+      "id": "018-bis.III.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 18 Bis › Fracción III › inciso a)",
+      "texto": "a) Contra la vida y la integridad corporal, en su modalidad de feminicidio;"
+    },
+    {
+      "id": "018-bis.III.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 18 Bis › Fracción III › inciso b)",
+      "texto": "b) Contra la libertad y la seguridad sexual, en sus modalidades de violencia sexual, abuso sexual o violación;"
+    },
+    {
+      "id": "018-bis.III.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 18 Bis › Fracción III › inciso c)",
+      "texto": "c) Contra el normal desarrollo psicosexual, en sus modalidades de pederastia o turismo sexual;"
+    },
+    {
+      "id": "018-bis.III.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 18 Bis › Fracción III › inciso d)",
+      "texto": "d) Contra la familia, en su modalidad de violencia familiar, violencia vicaria o violencia equiparada a la familiar;"
+    },
+    {
+      "id": "018-bis.III.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 18 Bis › Fracción III › inciso e)",
+      "texto": "e) Violencia política contra las mujeres en razón de género; o"
+    },
+    {
+      "id": "018-bis.III.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 18 Bis › Fracción III › inciso f)",
+      "texto": "f) Contra la intimidad personal.\n\nEl impedimento al que se refiere esta fracción subsistirá por un periodo igual al de la pena de prisión impuesta en la sentencia correspondiente, el cual comenzará a computarse a partir del día siguiente a aquel en que se haya compurgado la pena."
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "clave": "023",
+  "etiqueta": "Artículo 23",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "023.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › párrafo 1",
+      "texto": "No podrán ser diputados:"
+    },
+    {
+      "id": "023.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › párrafo 2",
+      "texto": "(REFROMADA, G.O. 4 DE MAYO DE 2026)"
+    },
+    {
+      "id": "023.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › Fracción I",
+      "texto": "I. La persona titular del Poder Ejecutivo;"
+    },
+    {
+      "id": "023.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › Fracción II",
+      "texto": "II. Los servidores públicos del Estado o de la Federación, en ejercicio de autoridad;"
+    },
+    {
+      "id": "023.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › Fracción III",
+      "texto": "III. Los ediles, los integrantes de los concejos municipales o quienes ocupen cualquier cargo en éstos, en los distritos en que ejerzan autoridad;"
+    },
+    {
+      "id": "023.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › Fracción IV",
+      "texto": "IV. Los militares en servicio activo o con mando de fuerzas;"
+    },
+    {
+      "id": "023.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › Fracción V",
+      "texto": "V. Quienes pertenezcan al estado eclesiástico o sean ministros de algún culto religioso, a menos que se separen de su ministerio conforme a lo establecido en la Constitución Federal y la ley de la materia; y"
+    },
+    {
+      "id": "023.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › Fracción VI",
+      "texto": "VI. Quienes tengan antecedentes penales por la comisión de delitos realizados con dolo, exceptuando aquellos en los que se hayan concedido los beneficios de conmutación o suspensión condicional de la sanción.\n\n(ADICIONADA, G.O. 30 DE JUNIO DE 2025)"
+    },
+    {
+      "id": "023.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › Fracción VII",
+      "texto": "VII. Quienes incurran en alguno de los impedimentos señalados en el artículo 18 Bis de esta Constitución.\n\n(ADICIONADO, G.O. 2 DE JULIO DE 2026)"
+    },
+    {
+      "id": "023.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › Fracción VIII",
+      "texto": "VIII. Quienes tengan o hayan tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta si limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esta ejerciendo la titularidad de alguna diputación del Congreso del Estado.\n\nLa prohibición para los servidores públicos mencionados en las fracciones II, III y IV, no surtirá efectos si se separan de sus cargos noventa días naturales anteriores al día de la elección."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "083",
+  "etiqueta": "Artículo 83",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "083.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › párrafo 1",
+      "texto": "En caso de declaratoria de desaparición de Poderes por el Senado de la República, si este no designare a quien asumirá el Poder Ejecutivo con el carácter de provisional, lo hará alguno de los individuos que fungieron como servidores públicos en los Poderes inmediato anteriores a los que se declaran desaparecidos, en el orden siguiente:"
+    },
+    {
+      "id": "083.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › Fracción I",
+      "texto": "I. El último Presidente del Congreso;"
+    },
+    {
+      "id": "083.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › Fracción II",
+      "texto": "II. El Presidente de la última Diputación Permanente;"
+    },
+    {
+      "id": "083.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › Fracción III",
+      "texto": "III. El último Presidente del Tribunal Superior de Justicia."
+    }
+  ]
+}
