@@ -1,0 +1,189 @@
+{
+  "clave": "030",
+  "etiqueta": "Artículo 30",
+  "titulo": "Título Segundo",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "030.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 1",
+      "texto": "La administración del Poder Judicial del Estado estará a cargo de un Órgano de Administración Judicial, mientras que la disciplina de su personal estará a cargo del Tribunal de Disciplina Judicial."
+    },
+    {
+      "id": "030.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 2",
+      "texto": "El Tribunal de Disciplina Judicial y el Órgano de Administración Judicial gozarán de independencia técnica, de gestión y para emitir sus resoluciones, conforme a las bases establecidas en la Constitución Política de los Estados Unidos Mexicanos para el Poder Judicial de la Federación, así como en esta Constitución y las leyes secundarias."
+    },
+    {
+      "id": "030.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 3",
+      "texto": "El Tribunal de Disciplina Judicial se integrará por cinco Magistraturas electas por la ciudadanía a nivel estatal, conforme al procedimiento establecido en la Constitución Política de los Estados Unidos Mexicanos y la Ley aplicable. Sus integrantes serán electos para un periodo de seis años y no podrán ser electos para un nuevo periodo."
+    },
+    {
+      "id": "030.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 4",
+      "texto": "El Pleno del Órgano de Administración Judicial se integrará por cinco personas que durarán en su encargo seis años, improrrogables, de las cuales una será designada por la persona titular del Poder Ejecutivo; dos por la Legislatura del Estado, mediante votación calificada de dos terceras partes de sus integrantes; dos por el Pleno del Tribunal Superior de Justicia, por mayoría calificada de dos terceras partes de sus integrantes."
+    },
+    {
+      "id": "030.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 5",
+      "texto": "En el ámbito del Poder Judicial del Estado de Querétaro, no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la Ley."
+    },
+    {
+      "id": "030.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 6",
+      "texto": "La independencia de las Magistradas y los Magistrados y las Juezas y los Jueces en el ejercicio de sus funciones estará garantizada en los términos de lo dispuesto en esta Constitución y de la Ley Orgánica del Poder Judicial del Estado de Querétaro."
+    },
+    {
+      "id": "030.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 7",
+      "texto": "Las Magistradas y los Magistrados, incluyendo a las y los del Tribunal de Disciplina Judicial, y las Juezas y los Jueces percibirán una remuneración adecuada e irrenunciable, la cual no podrá ser mayor a la establecida para la persona titular de la Presidencia de la República y la Gubernatura del Estado de Querétaro en el presupuesto correspondiente y no será disminuida durante su encargo."
+    },
+    {
+      "id": "030.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 8",
+      "texto": "Las Magistradas y los Magistrados, incluyendo a las y los del Tribunal de Disciplina Judicial, así como las Juezas y los Jueces, serán electos mediante votación estatal. Las personas juzgadoras entrarán a ejercer su cargo el día primero de octubre del año de su elección, en las adscripciones por distrito judicial o materia conforme al procedimiento que establezca la Ley Orgánica del Poder Judicial del Estado de Querétaro."
+    },
+    {
+      "id": "030.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 9",
+      "texto": "Para los cargos de elección dentro del Poder Judicial del Estado, los partidos políticos y las personas servidoras públicas no podrán realizar actos de proselitismo ni posicionarse a favor o en contra de candidatura alguna."
+    },
+    {
+      "id": "030.p10",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 10",
+      "texto": "De conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos y esta Constitución, la Ley Orgánica del Poder Judicial del Estado de Querétaro o, en su caso, las leyes locales en materia electoral:"
+    },
+    {
+      "id": "030.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción I",
+      "texto": "I. Garantizarán la independencia de las Magistradas y los Magistrados y las Juezas y los Jueces en el ejercicio de sus funciones;"
+    },
+    {
+      "id": "030.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción II",
+      "texto": "II. Establecerán las condiciones para la elección de las Magistradas y los Magistrados y Juezas y Jueces, por voto directo y secreto de la ciudadanía;"
+    },
+    {
+      "id": "030.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción III",
+      "texto": "III. Para la realización de las propuestas de candidaturas y la elección de las Magistradas y los Magistrados, incluyendo las y los del Tribunal de Disciplina Judicial, y las Juezas y los Jueces integrantes del Poder Judicial del Estado, establecerán mecanismos públicos, abiertos, transparentes, inclusivos, accesibles y paritarios de evaluación y selección que garanticen la participación de personas que cuenten con los conocimientos jurídicos necesarios para el desempeño del cargo y se hayan distinguido por su honestidad, buena fama pública, competencia y antecedentes profesionales y académicos en el ejercicio de la actividad jurídica;"
+    },
+    {
+      "id": "030.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción IV",
+      "texto": "IV. Regularán las facultades, estructura y funcionamiento del Tribunal de Disciplina Judicial, el cual contará con independencia técnica, de gestión y para emitir sus resoluciones, conforme a las bases establecidas en la Constitución Política de los Estados Unidos Mexicanos para el Poder Judicial de la Federación, así como en esta Constitución;"
+    },
+    {
+      "id": "030.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción V",
+      "texto": "V. Regularán las facultades, estructura y funcionamiento del Órgano de Administración Judicial, el cual contará con independencia técnica, de gestión y para emitir sus resoluciones, conforme a las bases establecidas en la Constitución Política de los Estados Unidos Mexicanos para el Poder Judicial de la Federación, así como en esta Constitución;"
+    },
+    {
+      "id": "030.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción VI",
+      "texto": "VI. Regularán y desarrollarán las facultades, estructura y funcionamiento de la Escuela de Formación Judicial del Estado, que será un órgano auxiliar del Órgano de Administración Judicial y que, entre otras, tendrá la facultad de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización de todas las personas aspirantes e integrantes del Poder Judicial del Estado, así como de las personas auxiliares del sistema de justicia;"
+    },
+    {
+      "id": "030.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción VII",
+      "texto": "VII. Establecerán las condiciones del ingreso, formación y permanencia de quienes sirvan al Poder Judicial del Estado, en funciones jurisdiccionales;"
+    },
+    {
+      "id": "030.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción VIII",
+      "texto": "VIII. Establecerán las bases para la formación, evaluación, certificación y actualización de funcionarias y funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género;"
+    },
+    {
+      "id": "030.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción IX",
+      "texto": "IX. Regularán las ausencias, licencias, renuncias y sustitución de las Magistradas, los Magistrados, las Juezas y los Jueces del Estado; y"
+    },
+    {
+      "id": "030.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › Fracción X",
+      "texto": "X. Regularán los impedimentos para las Magistradas, los Magistrados, las Juezas y los Jueces del Estado."
+    }
+  ]
+}

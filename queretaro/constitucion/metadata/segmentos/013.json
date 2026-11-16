@@ -1,0 +1,45 @@
+{
+  "clave": "013",
+  "etiqueta": "Artículo 13",
+  "titulo": "Título Segundo",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "013.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 1",
+      "texto": "El Poder Público del Estado se divide para su ejercicio en las funciones:"
+    },
+    {
+      "id": "013.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 2",
+      "texto": "Legislativa, Ejecutiva y Judicial."
+    },
+    {
+      "id": "013.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 3",
+      "texto": "No podrá ejercerse más de una de estas funciones por una persona o grupo de personas, ni depositarse la legislativa o la Judicial en un solo individuo."
+    },
+    {
+      "id": "013.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 4",
+      "texto": "Los Poderes reconocidos por esta Constitución, en su conjunto, conforman al Gobierno del Estado, el Poder Legislativo se regirá bajo los principios de Parlamento Abierto en los términos de la legislación respectiva vigente. (Ref. P. O. No. 76, 18-X-19)"
+    }
+  ]
+}

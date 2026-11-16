@@ -1,0 +1,45 @@
+{
+  "clave": "030-ter",
+  "etiqueta": "Artículo 30 Ter",
+  "titulo": "Título Segundo",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "030-ter.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 Ter › párrafo 1",
+      "texto": "El titular de la Fiscalía Especializada en el Combate a la Corrupción, será designado por las dos terceras partes de los miembros presentes de la Legislatura del Estado y deberá cubrir los mismos requisitos descritos en el párrafo cuarto, del artículo 30 bis, de la presente Constitución. Durará en su encargo nueve años y únicamente podrá ser removido por las causas graves que establezca la Ley, mediante la misma votación requerida para su designación."
+    },
+    {
+      "id": "030-ter.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 Ter › párrafo 2",
+      "texto": "(Adición P. O. No. 71, 21-XII-16)"
+    },
+    {
+      "id": "030-ter.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 Ter › párrafo 3",
+      "texto": "El titular de la Fiscalía Especializada en el Combate a la Corrupción presentará un informe anual ante la Legislatura del Estado. (Adición P. O. No. 71, 21-XII-16)"
+    },
+    {
+      "id": "030-ter.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 Ter › párrafo 4",
+      "texto": "La designación del titular de la Fiscalía Especializada en el Combate a la Corrupción debe sujetarse al procedimiento previsto para el titular de la Fiscalía General del Estado, contemplado en las fracciones I, II y III, del quinto párrafo, del artículo 30 bis de la Constitución Política del Estado Libre y Soberano de Querétaro (Adición P. O. No. 89, 13-IX-24, ver artículos transitorios)"
+    }
+  ]
+}
