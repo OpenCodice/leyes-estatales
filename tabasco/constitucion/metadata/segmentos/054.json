@@ -1,0 +1,36 @@
+{
+  "clave": "054",
+  "etiqueta": "Artículo 54",
+  "titulo": "",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "054.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › párrafo 1",
+      "texto": "REFORMADO P.O. 8469 SPTO. F 4-NOV-2023"
+    },
+    {
+      "id": "054.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 02 DE ABRIL DE 1975)"
+    },
+    {
+      "id": "054.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › párrafo 3",
+      "texto": "Las personas titulares de las Dependencias son responsables por el despacho de los asuntos de su competencia que autoricen actos contrarios a lo previsto en la Constitución Política de los Estados Unidos Mexicanos, leyes federales o de esta Constitución."
+    }
+  ]
+}

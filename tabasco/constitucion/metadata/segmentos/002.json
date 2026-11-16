@@ -1,0 +1,549 @@
+{
+  "clave": "002",
+  "etiqueta": "Artículo 2",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "002.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 1",
+      "texto": "REFORMADO P.O. 8469 SPTO. F 4-NOV-2023"
+    },
+    {
+      "id": "002.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 2",
+      "texto": "REFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 3",
+      "texto": "(REFORMADO, 11-NOV.-03)"
+    },
+    {
+      "id": "002.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 4",
+      "texto": "El Estado de Tabasco se constituye como un Estado Social y Democrático de Derecho que promueve la igualdad de oportunidades. El respeto a la dignidad de las personas, a sus derechos y libertades, es el fundamento del orden y la paz social."
+    },
+    {
+      "id": "002.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 5",
+      "texto": "REFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 6",
+      "texto": "En su territorio, todas las personas gozarán de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en los Tratados Internacionales de los que el Estado Mexicano sea parte y esta Constitución."
+    },
+    {
+      "id": "002.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 7",
+      "texto": "REFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 8",
+      "texto": "Las normas jurídicas relativas a estos derechos se interpretarán de conformidad con los ordenamientos antes invocados, favoreciendo en todo tiempo a las personas la protección más amplia."
+    },
+    {
+      "id": "002.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 9",
+      "texto": "REFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.p10",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 10",
+      "texto": "Todas las autoridades, en el ámbito de sus competencias, tienen la obligación de promover, respetar, proteger y garantizar los derechos humanos de conformidad con los principios de universalidad, interdependencia, indivisibilidad y progresividad. En consecuencia, el Estado deberá prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos en los términos que establezca la ley."
+    },
+    {
+      "id": "002.p11",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 11",
+      "texto": "REFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.p12",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 12",
+      "texto": "En el Estado de Tabasco:"
+    },
+    {
+      "id": "002.p13",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 13",
+      "texto": "REFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción I",
+      "texto": "I. Los derechos fundamentales reconocidos en esta Constitución sólo pueden ser restringidos con fundamento en una ley del Congreso del Estado. Esta respetará el contenido esencial de los derechos humanos;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción II",
+      "texto": "II. Toda persona tiene derecho a que se respete su vida;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción III",
+      "texto": "III. Toda persona tiene derecho a que se respete su integridad física, psíquica y moral;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción IV",
+      "texto": "IV. Toda persona tiene derecho a la libertad y a la seguridad;\n\nADICIONADO P.O. 8656 SPTO. N 20-AGOSTO-2025\n\nIV BIS. Toda persona tiene derecho a una vida libre de violencias, el Estado tiene deberes reforzados de protección con las mujeres, niñas, niños y adolescentes. La ley establecerá las bases y modalidades para garantizar el ejercicio de este derecho;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción V",
+      "texto": "V. Nadie puede ser sometido a esclavitud o servidumbre, y tanto éstas, como la trata de personas, están prohibidas en todas sus formas;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción VI",
+      "texto": "VI. Toda persona tiene derecho a usar y disfrutar de sus bienes. La ley puede subordinar tal uso y disfrute al interés social. Ninguna persona puede ser privada de sus bienes, excepto mediante el pago de indemnización justa, por razones de utilidad pública o de interés social y en los casos y según las formas establecidas por la ley;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción VII",
+      "texto": "VII. Toda persona que se halle en el territorio del Estado de Tabasco tiene derecho a circular por el mismo y a residir en él con sujeción a las disposiciones legales;\n\nREFORMADO P.O. EXTRAORDINARIO 304 9-DIC-2025\n\nREFORMADO P.O. 8656 SPTO. N 20-AGOSTO-2025\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción VIII",
+      "texto": "VIII. Todas las personas son iguales ante la ley. En consecuencia, tienen derecho sin discriminación a igual protección o beneficio de la ley. Queda prohibida en el Estado toda forma de discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la lengua o idioma, religión, costumbre, opiniones, preferencias, condición social, salud, estado civil o cualquier otra que atente contra la dignidad humana y tenga por objeto anular o menoscabar los derechos y las libertades de las personas. El Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción IX",
+      "texto": "IX. Toda persona tiene derecho a ser oída, con las debidas garantías y dentro de un plazo razonable, por un juez o tribunal competente, independiente e imparcial, establecido con anterioridad por la ley, en la sustanciación de cualquier acusación penal formulada contra ella, o para la determinación de sus derechos y obligaciones de orden civil, laboral, fiscal, administrativo o de cualquier otro carácter;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción X",
+      "texto": "X. A nadie podrá imponerse pena o medida de seguridad, o ser condenado por acciones u omisiones que en el momento de cometerse no fueran delitos según el derecho vigente. Tampoco se puede imponer pena más grave que la aplicable en el momento de la comisión del delito. Si con posterioridad a la comisión del delito la ley dispone la imposición de una pena más leve o cuando la ley suprima un tipo penal, el sentenciado se beneficiará de ello;\n\nREFORMADO P.O. 8469 SPTO. F 4-NOV-2023\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XI",
+      "texto": "XI. Toda persona relacionada con la comisión de un delito tendrá el derecho a que se presuma su inocencia mientras no se declare su responsabilidad mediante sentencia emitida por el juez de la causa;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XII",
+      "texto": "XII. Son derechos de las víctimas u ofendidos el que se les haga justicia; al que se les repare el daño; y a recibir el apoyo necesario del Estado para el restablecimiento de su salud física y psíquica, así como de su situación laboral, en la forma en que determinen las leyes;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XIII",
+      "texto": "XIII. Toda persona tiene derecho a ser indemnizada conforme a la ley en caso de haber sido condenada en sentencia firme por error judicial;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XIV",
+      "texto": "XIV. Toda persona tiene derecho a la protección de su vida privada, su familia, su domicilio, su correspondencia, su honra, su reputación y su dignidad;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XV",
+      "texto": "XV. Toda persona tiene derecho a la libertad de conciencia y de religión;\n\nREFORMADO P.O. 8469 SPTO. F 4-NOV-2023\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XVI",
+      "texto": "XVI. Toda persona tiene derecho a la libertad de pensamiento y de expresión. Este derecho comprende la libertad de buscar, recibir y difundir informaciones e ideas de toda índole. La manifestación de las ideas no será objeto de inquisición judicial o administrativa, sino en el caso de que ataque a la moral, los derechos de terceras personas, provoque algún delito, o perturbe el orden público;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XVII",
+      "texto": "XVII. El estado y los municipios garantizarán el derecho de acceso libre y gratuito a internet; a tal efecto, en los términos de la ley, establecerán los mecanismos y políticas públicas necesarias para asegurar progresivamente la efectividad de este derecho;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XVIII",
+      "texto": "XVIII. Toda persona afectada por informaciones inexactas o agravantes emitidas en su perjuicio a través de medios de difusión tiene derecho a efectuar por el mismo órgano de difusión su rectificación o respuesta en las condiciones que establezca la ley;\n\nREFORMADO P.O. 8469 SPTO. F 4-NOV-2023\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XIX",
+      "tipo": "fraccion",
+      "marca": "XIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XIX",
+      "texto": "XIX. Se reconoce el derecho de reunión pacífica y sin armas. El ejercicio de tal derecho sólo puede estar sujeto a las restricciones previstas por la ley, que sean necesarias en una sociedad democrática, en interés de la seguridad, orden, salud o moral públicos, o los derechos y libertades de las demás personas;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XX",
+      "tipo": "fraccion",
+      "marca": "XX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XX",
+      "texto": "XX. Todas las personas tienen derecho a asociarse libremente con fines ideológicos, religiosos, políticos, económicos, laborales, sociales, culturales, deportivos, o de cualquier otra índole, siendo lícito.\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XXI",
+      "tipo": "fraccion",
+      "marca": "XXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XXI",
+      "texto": "XXI. Se reconoce el derecho de las personas a contraer matrimonio y fundar una familia;\n\nREFORMADO P.O. 8469 SPTO. F 4-NOV-2023\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XXII",
+      "tipo": "fraccion",
+      "marca": "XXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XXII",
+      "texto": "XXII. Toda persona tiene derecho a decidir de manera libre, responsable e informada sobre el número y el espaciamiento de sus hijos e hijas. Su cuidado y crianza es un derecho de los padres y madres, y una obligación que a ellos les incumbe;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XXIII",
+      "tipo": "fraccion",
+      "marca": "XXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XXIII",
+      "texto": "XXIII. El Estado garantizará el respeto, la protección, acceso y libre ejercicio del derecho a la salud reproductiva de las personas que residen en Tabasco;\n\nREFORMADO P.O. 8469 SPTO. F 4-NOV-2023\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XXIV",
+      "tipo": "fraccion",
+      "marca": "XXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XXIV",
+      "texto": "XXIV. Toda persona tiene derecho a un nombre propio y a los apellidos de su padre y madre o al de uno de ellos;\n\nREFORMADO P.O. 8469 SPTO. F 4-NOV-2023\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XXV",
+      "tipo": "fraccion",
+      "marca": "XXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XXV",
+      "texto": "XXV. Todo niño, niña o adolescente, sin discriminación, tiene derecho a las medidas de protección que requiere por parte de su familia, de la sociedad y del Estado;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XXVI",
+      "tipo": "fraccion",
+      "marca": "XXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XXVI",
+      "texto": "XXVI. Los hombres y las mujeres deben tener formal y materialmente derechos iguales. Las leyes deberán garantizar la igualdad en el derecho vigente y procurar su implantación en la costumbre social, particularmente en la familia, en la educación y en el lugar de trabajo;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XXVII",
+      "tipo": "fraccion",
+      "marca": "XXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XXVII",
+      "texto": "XXVII. Las leyes y políticas públicas deben procurar la eliminación de las desigualdades sociales que afectan a las personas con discapacidad;\n\nREFORMADO P.O. 8008 SPTO. F 5-JUNIO-2019\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XXVIII",
+      "tipo": "fraccion",
+      "marca": "XXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XXVIII",
+      "texto": "XXVIII. Toda persona tiene derecho a un procedimiento judicial ante los jueces o tribunales locales competentes para proteger los derechos y libertades que la Constitución y las leyes del estado le reconocen.\n\nLas autoridades deberán privilegiar la solución del conflicto sobre los formalismos procedimentales, siempre que no se afecte la igualdad entre las partes, el debido proceso u otros derechos en los juicios o procedimientos seguidos en forma de juicio;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XXIX",
+      "tipo": "fraccion",
+      "marca": "XXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XXIX",
+      "texto": "XXIX. Los poderes públicos del Estado procurarán que los derechos humanos se respeten en las relaciones entre particulares;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XXX",
+      "tipo": "fraccion",
+      "marca": "XXX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XXX",
+      "texto": "XXX. Toda persona tiene derecho a la protección de la salud física y mental. La Ley definirá las bases y modalidades para el acceso a los servicios de salud del Estado y establecerá la concurrencia con los municipios en materia de salubridad local;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XXXI",
+      "tipo": "fraccion",
+      "marca": "XXXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XXXI",
+      "texto": "XXXI. Toda persona tiene derecho a la cultura física y a la práctica del deporte. Corresponde al estado y a los municipios su promoción, fomento y estímulo;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XXXII",
+      "tipo": "fraccion",
+      "marca": "XXXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XXXII",
+      "texto": "XXXII. Toda persona tiene derecho a recibir educación obligatoria, laica y gratuita por parte del Estado y los municipios de Tabasco, la que estará orientada hacia el pleno desarrollo de la personalidad humana y del sentido de su dignidad, y el respeto a los derechos humanos y las libertades fundamentales;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XXXIII",
+      "tipo": "fraccion",
+      "marca": "XXXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XXXIII",
+      "texto": "XXXIII. Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que prestan el Estado y los municipios en la materia, así como al ejercicio de sus derechos culturales.El Estado deberá asegurar el pleno ejercicio de este derecho mediante la conservación, el desarrollo y la difusión de la ciencia y la cultura;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XXXIV",
+      "tipo": "fraccion",
+      "marca": "XXXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XXXIV",
+      "texto": "XXXIV. Toda persona tiene derecho al trabajo digno y socialmente útil; al efecto, se promoverán la creación de empleos y la organización social para el trabajo, conforme a la ley;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XXXV",
+      "tipo": "fraccion",
+      "marca": "XXXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XXXV",
+      "texto": "XXXV. Toda persona y su familia tienen derecho a disfrutar de vivienda adecuada, digna y decorosa;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XXXVI",
+      "tipo": "fraccion",
+      "marca": "XXXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XXXVI",
+      "texto": "XXXVI. Toda persona tiene derecho a la alimentación nutritiva, suficiente y de calidad. El Estado adoptará medidas para mejorar los métodos, conservación y distribución de alimentos mediante la plena utilización de conocimiento técnico y científico;\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XXXVII",
+      "tipo": "fraccion",
+      "marca": "XXXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XXXVII",
+      "texto": "XXXVII. Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible;\n\nREFORMADO P.O. EXTRAORDINARIO 305 9-DIC-2025\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XXXVIII",
+      "tipo": "fraccion",
+      "marca": "XXXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XXXVIII",
+      "texto": "XXXVIII. Cualquier persona en situación de necesidad que no tenga la capacidad de valerse por sí mismo tendrá derecho al cuidado digno, a la asistencia del Estado, y a la provisión de los medios indispensables para una vida digna;\n\nREFORMADO P.O. 8469 SPTO. F 4-NOV-2023\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XXXIX",
+      "tipo": "fraccion",
+      "marca": "XXXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XXXIX",
+      "texto": "XXXIX. Toda persona tiene derecho a un ambiente saludable y equilibrado en el Estado de Tabasco. Las autoridades instrumentarán y aplicarán, en el ámbito de su competencia, planes, programas y acciones destinadas a: la preservación, aprovechamiento racional, protección y resarcimiento de los recursos naturales, de la flora y la fauna existente en su territorio; prevenir, evitar y castigar toda forma de contaminación ambiental; y promover el uso de energías alternativas. El estado y los municipios realizarán asimismo acciones de prevención y control de cambio climático. La ciudadanía tiene la obligación y el derecho de contribuir, participar y exigir la preservación, restauración y el equilibrio ecológico, disponiendo libremente de la acción popular para denunciar cualquier daño o deterioro ambiental ante el Estado o los Ayuntamientos;\n\nREFORMADO P.O. 8656 SPTO. N 20-AGOSTO-2025\n\nREFORMADO P.O. 8469 SPTO. F 4-NOV-2023\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XL",
+      "tipo": "fraccion",
+      "marca": "XL",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XL",
+      "texto": "XL. El Estado promoverá, mediante leyes y políticas públicas que la práctica social y el desempeño de las personas dedicadas al servicio público se apeguen a códigos de conducta y valores éticos que combatan la corrupción; además de la expedición de leyes que la castiguen severamente, con el fin de que toda persona pueda aspirar a una vida libre de corrupción;\n\nREFORMADO P.O. 8656 SPTO. N 20-AGOSTO-2025\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.XLI",
+      "tipo": "fraccion",
+      "marca": "XLI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XLI",
+      "texto": "XLI. Toda persona tiene derecho a la seguridad social; y\n\nADICIONADO P.O. 8656 SPTO. N 20-AGOSTO-2025"
+    },
+    {
+      "id": "002.XLII",
+      "tipo": "fraccion",
+      "marca": "XLII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción XLII",
+      "texto": "XLII. La ley protegerá la organización y el desarrollo de las familias.\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013\n\nLos derechos que establece esta Constitución, serán entendidos como enunciativos y no limitativos de otros derechos contemplados en la Constitución Política de los Estados Unidos Mexicanos, las leyes del Congreso de la Unión que emanen de ella y todos los tratados que estén de acuerdo con la misma, celebrados y ratificados por el estado mexicano.\n\nREFORMADO P.O. 8469 SPTO. F 4-NOV-2023\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013\n\nEl Estado de Tabasco, en el marco de distribución de competencias establecido en el artículo 124 de la Constitución Política de los Estados Unidos Mexicanos, y con fundamento en los artículos 1 y 133 de la misma, se obliga a respetar y hacer respetar a las personas migrantes y, en general, a las extranjeras que estén sometidas a su jurisdicción, todos sus derechos humanos y a tomar las medidas necesarias para proteger, con carácter preferente, los siguientes:\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013"
+    },
+    {
+      "id": "002.I~2",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción I",
+      "texto": "I. Derecho a la vida, a la libertad y a la seguridad de su persona;"
+    },
+    {
+      "id": "002.II~2",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción II",
+      "texto": "II. Derecho a la igualdad y a la no discriminación;"
+    },
+    {
+      "id": "002.III~2",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción III",
+      "texto": "III. Derecho a la vida familiar;\n\nREFORMADO P.O. 8469 SPTO. F 4-NOV-2023"
+    },
+    {
+      "id": "002.IV~2",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción IV",
+      "texto": "IV. Derecho a la protección integral a los niños, niñas y adolescentes extranjeros no acompañados; y"
+    },
+    {
+      "id": "002.V~2",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › Fracción V",
+      "texto": "V. Derecho de acceso a la justicia y al debido proceso.\n\nREFORMADO P.O. 8469 SPTO. F 4-NOV-2023\n\nREFORMADO P.O. EXTRAORDINARIO NO. 84 13-SEP-2013\n\nAsimismo, el Estado garantizará la libertad de circulación y de establecimiento que asiste a la población trabajadora migrante dentro del territorio estatal."
+    }
+  ]
+}
