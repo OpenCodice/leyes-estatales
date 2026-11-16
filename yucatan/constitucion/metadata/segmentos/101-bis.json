@@ -1,0 +1,124 @@
+{
+  "clave": "101-bis",
+  "etiqueta": "Artículo 101 Bis",
+  "titulo": "TÍTULO DÉCIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "101-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 Bis › párrafo 1",
+      "texto": "El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades del orden estatal y municipal competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Así mismo, participará, colaborará y asistirá en sus funciones al Sistema Nacional Anticorrupción, en los términos previstos por la ley."
+    },
+    {
+      "id": "101-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 Bis › párrafo 2",
+      "texto": "El Sistema Estatal Anticorrupción tendrá como objeto realizar acciones y políticas públicas en la prevención, identificación y sanción de acuerdo a las leyes en la materia, a fin de disuadir y erradicar prácticas de corrupción en el sector público y privado.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado DO 13-03-2020",
+          "fechas": [
+            "2020-03-13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "101-bis.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 Bis › párrafo 3",
+      "texto": "Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:"
+    },
+    {
+      "id": "101-bis.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 Bis › Fracción I",
+      "texto": "I.- - El sistema contará con un comité coordinador que estará integrado por los titulares de la Auditoría Superior del Estado; de la Fiscalía Especializada en Combate a la Corrupción; de la secretaría del Ejecutivo estatal responsable del control interno; por el presidente del Tribunal de Justicia Administrativa del Estado de Yucatán; un representante del Tribunal de Disciplina del Poder Judicial; así como por un representante del comité de participación ciudadana.",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DO 14-11-2019, 04-07-2025, 21-07-2025",
+          "fechas": [
+            "2019-11-14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "101-bis.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 Bis › Fracción II",
+      "texto": "II.- El comité de participación ciudadana deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley."
+    },
+    {
+      "id": "101-bis.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 Bis › Fracción III",
+      "texto": "III.- Corresponderá al comité coordinador del sistema, en los términos que determine la ley:"
+    },
+    {
+      "id": "101-bis.III.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 101 Bis › Fracción III › inciso a)",
+      "texto": "a) El establecimiento de mecanismos de coordinación entre el estado, los municipios y entre estos con la federación."
+    },
+    {
+      "id": "101-bis.III.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 101 Bis › Fracción III › inciso b)",
+      "texto": "b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan."
+    },
+    {
+      "id": "101-bis.III.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 101 Bis › Fracción III › inciso c)",
+      "texto": "c) La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes del estado y sus municipios."
+    },
+    {
+      "id": "101-bis.III.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 101 Bis › Fracción III › inciso d)",
+      "texto": "d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades del estado y sus municipios en materia de fiscalización y control de los recursos públicos."
+    },
+    {
+      "id": "101-bis.III.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 101 Bis › Fracción III › inciso e)",
+      "texto": "e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.\n\nDerivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al comité sobre la atención que brinden a estas, en los términos previstos en la ley."
+    }
+  ]
+}

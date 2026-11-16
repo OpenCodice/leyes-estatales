@@ -1,0 +1,52 @@
+{
+  "clave": "075-ter",
+  "etiqueta": "Artículo 75 Ter",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "075-ter.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 Ter › párrafo 1",
+      "texto": "El Tribunal Electoral del Estado de Yucatán es un organismo público, autónomo e independiente en sus decisiones, máxima autoridad jurisdiccional en la materia y órgano especializado, competente para conocer y resolver los procedimientos, juicios e impugnaciones que se presenten contra actos y omisiones en materia electoral, cuyas funciones deben cumplirse bajo los principios de certeza, imparcialidad, independencia, objetividad, legalidad, máxima publicidad y probidad; para su adecuado funcionamiento, contará con el personal jurídico y administrativo necesario."
+    },
+    {
+      "id": "075-ter.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 Ter › párrafo 2",
+      "texto": "El Tribunal Electoral del Estado de Yucatán funcionará en Pleno, se integrará por tres magistradas y magistrados quienes serán electos en forma escalonada por las dos terceras partes de los miembros presentes de la Cámara de Senadores, durarán en su cargo siete años. No podrá haber más de dos magistrados del mismo género.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DO 22-04-2019, 14-11-2019",
+          "fechas": [
+            "2019-04-22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "075-ter.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 Ter › párrafo 3",
+      "texto": "La Magistrada Presidenta o el Magistrado Presidente será designado de entre sus integrantes, por la votación mayoritaria de las y los magistrados electorales, de conformidad con el procedimiento que establezca la ley respectiva.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DO 22-04-2019",
+          "fechas": [
+            "2019-04-22"
+          ]
+        }
+      ]
+    }
+  ]
+}

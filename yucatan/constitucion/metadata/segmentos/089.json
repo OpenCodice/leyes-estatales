@@ -1,0 +1,43 @@
+{
+  "clave": "089",
+  "etiqueta": "Artículo 89",
+  "titulo": "TITULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "089.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › párrafo 1",
+      "texto": "La propiedad es una institución social que el Estado adopta como medio para la satisfacción de las necesidades individuales o familiares, incluyendo, entre otros, el derecho de contar con una vivienda adecuada; aquella es inalienable e inembargable cuando se constituya como patrimonio de familia, en términos de la legislación aplicable.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado D.O. 01-04-2024",
+          "fechas": [
+            "2024-04-01"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "089.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › párrafo 2",
+      "texto": "El Estado dictará leyes que organicen el patrimonio familiar.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado D.O. 11-04-2007",
+          "fechas": [
+            "2007-04-11"
+          ]
+        }
+      ]
+    }
+  ]
+}

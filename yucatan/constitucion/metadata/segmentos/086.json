@@ -1,0 +1,96 @@
+{
+  "clave": "086",
+  "etiqueta": "Artículo 86",
+  "titulo": "TITULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "086.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › párrafo 1",
+      "texto": "El Estado, en su función ordenadora de la convivencia humana, ejercerá la acción que le compete, en la medida necesaria para asegurar la solidaridad de los elementos asociados y garantizar a éstos una equitativa participación en el bienestar que nace de la convivencia misma. Asimismo, se institucionaliza la perspectiva de género, como principio rector en la legislación, políticas y en general en el quehacer del Estado.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado D.O. 09-12-2020",
+          "fechas": [
+            "2020-12-09"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "086.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › párrafo 2",
+      "texto": "La Seguridad Pública en Yucatán es una función a cargo del Estado y de los Municipios, en coordinación con la Federación, y tiene por objeto la prevención, la investigación y persecución de los delitos, así como la sanción de las infracciones administrativas, en el ámbito de sus respectivas competencias. La actuación de las instituciones estatal y municipales de Seguridad Pública se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos, reconocidos en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en los Tratados Internacionales en la materia ratificados por el Estado Mexicano y publicados en el Diario Oficial de la Federación."
+    },
+    {
+      "id": "086.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › párrafo 3",
+      "texto": "Las Instituciones de Seguridad Pública, estatal y municipales, serán de carácter civil, disciplinado y profesional, y deberán coordinarse entre sí y con la Federación para cumplir los objetivos de la función a su cargo. El presupuesto estatal asignado a la dependencia del Poder Ejecutivo del estado encargada de la seguridad pública no podrá ser disminuido respecto al del año anterior, aumentará anualmente, al menos, conforme al resultado de la inflación general anual registrada para el mes de diciembre del año anterior publicado por el Instituto Nacional de Estadística y Geografía en la primera quincena del mes de enero del año de su elaboración, sin exceder del 10% del presupuesto total asignado a la dependencia el año anterior, y una vez asignado no podrá ser redirigido o redistribuido a otra dependencia o entidad. El Sistema Estatal de Seguridad Pública tendrá por objeto planear, normar y coordinar las actividades que se realizan en el Estado en materia de Seguridad Pública y estará conformado en los términos que señale la ley.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado D.O. 21-04-2023",
+          "fechas": [
+            "2023-04-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "086.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › párrafo 4",
+      "texto": "El Estado, por medio de sus Poderes Públicos, garantizará el respeto al derecho humano de toda persona de gozar de un ambiente ecológicamente equilibrado y la protección de los ecosistemas que conforman el patrimonio natural de Yucatán, basado en los siguientes criterios:",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado D.O. 01-04-2024",
+          "fechas": [
+            "2024-04-01"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "086.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › Fracción I",
+      "texto": "I.- Las personas en el Estado tienen derecho a vivir en un ambiente saludable que les permita una vida digna, y a hacer uso racional de los recursos naturales con que cuenta la Entidad, para alcanzar el desarrollo sostenido, en los términos que señale la Ley de la materia;"
+    },
+    {
+      "id": "086.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › Fracción II",
+      "texto": "II.- A ninguna persona se le puede obligar a llevar a cabo actividades que ocasionen o puedan ocasionar deterioro al ambiente, en los términos que señale la Ley de la materia; y"
+    },
+    {
+      "id": "086.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › Fracción III",
+      "texto": "III.- Las personas en el Estado tienen derecho a conocer y tener acceso a la información actualizada acerca del estado del ambiente y de los recursos naturales de la Entidad, así como a participar en las actividades destinadas a su conservación y mejoramiento.\n\nEl Gobierno del Estado y los municipios serán responsables de la administración y gestión del suelo a fin de que se garantice la distribución equitativa de las cargas y los beneficios del desarrollo urbano."
+    }
+  ]
+}

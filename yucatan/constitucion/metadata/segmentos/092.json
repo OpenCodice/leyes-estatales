@@ -1,0 +1,27 @@
+{
+  "clave": "092",
+  "etiqueta": "Artículo 92",
+  "titulo": "TITULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "092.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › párrafo 1",
+      "texto": "Para el desarrollo y consolidación de la solidaridad como condición básica de la convivencia, es necesario fomentar en los elementos sociales, la simpatía, como aptitud de sentir reflejantemente el bien o el mal ajenos."
+    },
+    {
+      "id": "092.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › párrafo 2",
+      "texto": "Consecuentemente, el Estado impedirá todo espectáculo, comercio o actividad que pueda inspirar sentimientos inhumanos o crueles, o de odio y antipatía entre los conviventes, o de rebajamiento o degradación de la personalidad humana."
+    }
+  ]
+}

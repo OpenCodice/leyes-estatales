@@ -1,0 +1,194 @@
+{
+  "clave": "069",
+  "etiqueta": "Artículo 69",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "069.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 1",
+      "texto": "Corresponde al Pleno del Tribunal Superior de Justicia:"
+    },
+    {
+      "id": "069.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción I",
+      "texto": "I.- Hacer uso del derecho de iniciar leyes que le confiere esta Constitución;"
+    },
+    {
+      "id": "069.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción II",
+      "texto": "II.- Revisar las decisiones del Órgano de Administración del Poder Judicial respecto de la creación de Departamentos Judiciales y juzgados, modificar su competencia y jurisdicción territorial, en términos de la ley;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada D.O. 05-03-2025",
+          "fechas": [
+            "2025-03-05"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "069.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción III",
+      "texto": "III.- Resolver las contradicciones entre los criterios que emitan sus Salas, las cuales tendrán carácter obligatorio en los términos que señale la ley;"
+    },
+    {
+      "id": "069.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción IV",
+      "texto": "IV.- Expedir el Reglamento Interior, Acuerdos Generales y demás normas administrativas que sean necesarias para el cumplimiento de sus fines;"
+    },
+    {
+      "id": "069.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción V",
+      "texto": "V.- Remitir a los poderes, Legislativo y Ejecutivo, del Estado los informes sobre administración de justicia que le soliciten, en los términos de la ley;"
+    },
+    {
+      "id": "069.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción VI",
+      "texto": "VI.- Formular, en conjunto con el órgano de administración del Poder Judicial, el proyecto anual de Presupuesto de Egresos del Tribunal Superior de Justicia, y remitirlo al Poder Ejecutivo para su inclusión en el Proyecto de Presupuesto de Egresos del Gobierno del Estado.",
+      "reformas": [
+        {
+          "nota": "Fracción reformada D.O. 05-03-2025",
+          "fechas": [
+            "2025-03-05"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "069.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción VII",
+      "texto": "VII.- Presentar la cuenta pública, con la documentación respectiva y en los términos establecidos en la Ley de la materia;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DO 01-04-2024",
+          "fechas": [
+            "2024-04-01"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "069.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción VIII",
+      "texto": "VIII. Proponer a las personas para ocupar los cargos en términos del artículo 66 de esta Constitución.",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada DO 01-04-2024/ reformada D.O. 05-03-2025",
+          "fechas": [
+            "2024-04-01",
+            "2025-03-05"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "069.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción IX",
+      "texto": "IX. Se deroga",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada DO 01-04-2024/ derogada D.O. 05-03-2025",
+          "fechas": [
+            "2024-04-01",
+            "2025-03-05"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "069.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción X",
+      "texto": "X. Se deroga",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada DO 01-04-2024/ derogada D.O. 05-03-2025",
+          "fechas": [
+            "2024-04-01",
+            "2025-03-05"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "069.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción XI",
+      "texto": "XI.- Se deroga",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada DO 01-04-2024/ derogada D.O. 05-03-2025",
+          "fechas": [
+            "2024-04-01",
+            "2025-03-05"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "069.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción XII",
+      "texto": "XII.- Las demás que le confieran esta Constitución y otras leyes.",
+      "reformas": [
+        {
+          "nota": "Fracción recorrida (antes VIII) DO 01-04-2024",
+          "fechas": [
+            "2024-04-01"
+          ]
+        }
+      ]
+    }
+  ]
+}

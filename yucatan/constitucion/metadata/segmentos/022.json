@@ -1,0 +1,173 @@
+{
+  "clave": "022",
+  "etiqueta": "Artículo 22",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "022.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › párrafo 1",
+      "texto": "Para ser diputada o diputado, se requiere:",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DO 13-03-2020",
+          "fechas": [
+            "2020-03-13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "022.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción I",
+      "texto": "I.- Ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadano yucateco en el ejercicio de sus derechos;"
+    },
+    {
+      "id": "022.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción II",
+      "texto": "II.- Tener dieciocho años cumplidos el día de la elección;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DO 15-06-2023",
+          "fechas": [
+            "2023-06-15"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "022.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción III",
+      "texto": "III.- No ser Gobernador del Estado; Magistrado del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial, del Tribunal de Justicia Administrativa del Estado de Yucatán o del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios; integrante del Órgano de Administración Judicial; regidor o síndico, durante el año calendario de la elección, a menos que se separe de sus funciones 90 días antes de la elección;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DO 04-07-2025",
+          "fechas": [
+            "2025-07-04"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "022.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción IV",
+      "texto": "IV.- No estar en servicio activo en el Ejército Nacional, ni tener el mando de corporación policíaca, cuando menos durante los 90 días anteriores a la fecha de la elección;"
+    },
+    {
+      "id": "022.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción V",
+      "texto": "V.- No haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad; o por actos de corrupción que ameriten la inhabilitación para ocupar cargos públicos.",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DO 13-03-2020",
+          "fechas": [
+            "2020-03-13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "022.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción VI",
+      "texto": "VI.- Residir en el Estado durante los dos años inmediatos anteriores a la fecha de la elección. La vecindad no se pierde ni se interrumpe por ausencias durante el desempeño de cargos públicos federales o de elección popular, ni por la ejecución o cumplimiento, fuera de la entidad, de comisiones oficiales otorgadas por el Gobierno del Estado o por alguno de los organismos e instituciones de los que forme parte el propio Gobierno;"
+    },
+    {
+      "id": "022.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción VII",
+      "texto": "VII.- No ser ministro de culto religioso alguno, salvo que se haya separado definitivamente 5 años antes del día de la elección;"
+    },
+    {
+      "id": "022.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción VIII",
+      "texto": "VIII.- No ser Magistrado o Secretario del Tribunal Electoral del Estado de Yucatán, Consejero, Secretario Ejecutivo o sus equivalentes, de los organismos electorales locales o federales, a menos que se separen de sus funciones 3 años antes de la fecha de la elección;"
+    },
+    {
+      "id": "022.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción IX",
+      "texto": "IX.- No ser deudor alimentario moroso;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DO 12-08-2022",
+          "fechas": [
+            "2022-08-12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "022.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción X",
+      "texto": "X.- No tener antecedentes penales por violencia familiar, delitos contra la intimidad personal, contra la imagen personal, violencia laboral contra las mujeres, violencia obstétrica, violencia por parentesco, violencia institucional, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio, y",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada DO 12-08-2022",
+          "fechas": [
+            "2022-08-12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "022.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción XI",
+      "texto": "XI.- Estar inscrito en Registro Federal de Electores y contar con Credencial para Votar vigente.",
+      "reformas": [
+        {
+          "nota": "Fracción recorrida DO 12-08-2022",
+          "fechas": [
+            "2022-08-12"
+          ]
+        }
+      ]
+    }
+  ]
+}

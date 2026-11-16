@@ -1,0 +1,70 @@
+{
+  "clave": "094",
+  "etiqueta": "Artículo 94",
+  "titulo": "TITULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "094.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 › párrafo 1",
+      "texto": "La familia es una institución social permanente a la que se reconoce como el fundamento primordial de la sociedad sobre la cual evoluciona el Estado."
+    },
+    {
+      "id": "094.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 › párrafo 2",
+      "texto": "Es una institución integrada por dos o más personas unidas o emparentadas entre sí, por afinidad, por consanguinidad o por adopción, que como comunidad afectiva y de convivencia, potencía el libre desarrollo de todos sus miembros."
+    },
+    {
+      "id": "094.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 › párrafo 3",
+      "texto": "El matrimonio es una institución por medio del cual se establece la unión jurídica, libre y voluntaria de dos personas, con igualdad de derechos, deberes y obligaciones, para realizar la comunidad de vida, en donde ambos se procuran respeto y ayuda mutua. El Estado reconoce que es de vital interés para la sociedad que en la unión de dos personas, se establezcan límites en cuanto a la edad y salud física y psíquica.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado D.O. 06-09-2021",
+          "fechas": [
+            "2021-09-06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "094.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 › párrafo 4",
+      "texto": "El concubinato es la unión de dos personas, quienes libres de matrimonio, viven como cónyuges pueden generar una familia, en los términos que fije la ley.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado D.O. 06-09-2021",
+          "fechas": [
+            "2021-09-06"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "094.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 › párrafo 5",
+      "texto": "El Estado y la ley protegerán la organización y el desarrollo de la familia, así como el respeto a su dignidad e intimidad. Asimismo, regularán el matrimonio, las causas de separación, disolución y sus efectos; así como las condiciones para la constitución del concubinato."
+    }
+  ]
+}

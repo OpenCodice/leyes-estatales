@@ -1,0 +1,44 @@
+{
+  "clave": "076",
+  "etiqueta": "Artículo 76",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "076.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76 › párrafo 1",
+      "texto": "El Estado tiene como base de su división territorial y organización política y administrativa, al Municipio. Este será gobernado por un Ayuntamiento electo mediante el voto popular libre, directo y secreto; integrado por una Presidenta o Presidente Municipal, una Sindicatura y con hasta 15 Regidurías, de conformidad con lo que establezca la ley de la materia, observando el principio de paridad de género vertical y horizontal, perspectiva de género e igualdad sustantiva en el acceso, integración y ejercicio del poder público municipal. Entre éste y el Gobierno del Estado, no habrá autoridades intermedias.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DO 22-04-2019, 14-11-2019. 28-07-2026",
+          "fechas": [
+            "2019-04-22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "076.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76 › párrafo 2",
+      "texto": "El Ayuntamiento tendrá como fin principal, atender las necesidades sociales de sus habitantes dentro de su ámbito jurisdiccional, procurando el desarrollo integral y sustentable del municipio."
+    },
+    {
+      "id": "076.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76 › párrafo 3",
+      "texto": "Se adoptará el principio de representación proporcional, como mecanismo complementario del sistema de mayoría relativa, para la elección de los integrantes de los ayuntamientos. La ley reglamentaria determinará el porcentaje de votación que deberán obtener los partidos políticos y la forma para la asignación de las regidurías de representación proporcional."
+    }
+  ]
+}

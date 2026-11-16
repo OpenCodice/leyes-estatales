@@ -1,0 +1,52 @@
+{
+  "clave": "088",
+  "etiqueta": "Artículo 88",
+  "titulo": "TITULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "088.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88 › párrafo 1",
+      "texto": "El trabajo es un derecho que la sociedad otorga al individuo y un deber del individuo para con la sociedad. En consecuencia, el Estado procurará resolver el problema de la desocupación y reprimirá con sanciones la vagancia y la mendicidad."
+    },
+    {
+      "id": "088.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88 › párrafo 2",
+      "texto": "La resolución de las diferencias o los conflictos que se presenten entre las personas trabajadoras y las personas empleadoras antes de acudir a los Tribunales Laborales del Poder Judicial del Estado, éstas deberán asistir al Centro de Conciliación Laboral del Estado de Yucatán, de conformidad con el artículo 123, apartado A, fracción XX, párrafo segundo, de la Constitución Política de los Estados Unidos Mexicanos.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado D.O. 31-12-2021",
+          "fechas": [
+            "2021-12-31"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "088.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88 › párrafo 3",
+      "texto": "El Centro de Conciliación Laboral del Estado de Yucatán tendrá personalidad jurídica y patrimonio propios, y contará con plena autonomía técnica, operativa, presupuestaria, de decisión y de gestión. En el ejercicio de sus atribuciones, se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. La Ley que lo regule establecerá su integración, organización y funcionamiento, así como las reglas para que los convenios laborales adquieran condición de cosa juzgada y para que estos sean ejecutados.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado D.O. 31-12-2021",
+          "fechas": [
+            "2021-12-31"
+          ]
+        }
+      ]
+    }
+  ]
+}

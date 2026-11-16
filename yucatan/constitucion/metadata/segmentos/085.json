@@ -1,0 +1,61 @@
+{
+  "clave": "085",
+  "etiqueta": "Artículo 85",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "085.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › párrafo 1",
+      "texto": "Los municipios del Estado, previo acuerdo entre los ayuntamientos, podrán coordinarse y asociarse entre sí, para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan."
+    },
+    {
+      "id": "085.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › párrafo 2",
+      "texto": "Podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos servicios públicos o funciones, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio."
+    },
+    {
+      "id": "085.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › párrafo 3",
+      "texto": "La ley en la materia establecerá los mecanismos de coordinación para la creación de instancias metropolitanas y de desarrollo regional, así como de colaboración para garantizar la asociatividad intermunicipal.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado D.O. 01-04-2024",
+          "fechas": [
+            "2024-04-01"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "085.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › párrafo 4",
+      "texto": "Tratándose de asociación con municipios de otras entidades federativas, deberán contar con la aprobación del Congreso.",
+      "reformas": [
+        {
+          "nota": "Párrafo recorrido D.O. 01-04-2024",
+          "fechas": [
+            "2024-04-01"
+          ]
+        }
+      ]
+    }
+  ]
+}

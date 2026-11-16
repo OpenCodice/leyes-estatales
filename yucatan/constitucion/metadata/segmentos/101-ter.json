@@ -1,0 +1,25 @@
+{
+  "clave": "101-ter",
+  "etiqueta": "Artículo 101 Ter",
+  "titulo": "TÍTULO DÉCIMO",
+  "capitulo": "",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo adicionado DO 06-06-2023",
+      "fechas": [
+        "2023-06-06"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "101-ter.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 Ter › párrafo 1",
+      "texto": "La responsabilidad del Estado y de los municipios por los daños que, con motivo de su actividad administrativa irregular, causen en los bienes o derechos de los particulares, será objetiva y directa. Los particulares tendrán derecho a una indemnización conforme a las bases, límites y procedimientos que establezcan las leyes."
+    }
+  ]
+}

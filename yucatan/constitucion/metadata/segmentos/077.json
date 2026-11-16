@@ -1,0 +1,468 @@
+{
+  "clave": "077",
+  "etiqueta": "Artículo 77",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "077.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 1",
+      "texto": "Los municipios se organizarán administrativa y políticamente, conforme a las bases siguientes:"
+    },
+    {
+      "id": "077.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 2",
+      "texto": "Primera.- Los ayuntamientos entrarán en funciones, el primero de septiembre inmediato al día de la elección, previa rendición del Compromiso Constitucional que se llevará a cabo mediante Sesión Solemne el día 31 de agosto del mismo año, y durarán en el cargo tres años.",
+      "reformas": [
+        {
+          "nota": "Base reformada DO 30-12-2022",
+          "fechas": [
+            "2022-12-30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "077.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 3",
+      "texto": "Segunda.- La Presidenta o Presidente Municipal, las regidoras, los regidores y el síndico, podrán ser reelectos para un período constitucional adicional. La postulación sólo podrá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. La reelección se efectuará conforme a lo que disponga la Ley.",
+      "reformas": [
+        {
+          "nota": "Base reformada DO 22-04-2019",
+          "fechas": [
+            "2019-04-22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "077.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 4",
+      "texto": "Los partidos políticos que postulen candidaturas comunes o en coalición electoral a los ayuntamientos en los municipios podrán optar por conformar un gobierno de coalición.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado D.O. 28-06-2023",
+          "fechas": [
+            "2023-06-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "077.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 5",
+      "texto": "El gobierno de coalición se regulará por un convenio y el programa de gobierno que será aprobado por las dirigencias partidistas, los cuales serán remitidos al Congreso del Estado, conforme con lo previsto en la Ley.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado D.O. 28-06-2023",
+          "fechas": [
+            "2023-06-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "077.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 6",
+      "texto": "El convenio a que se refiere el párrafo anterior, establecerá las bases para su conformación, causas de su disolución del gobierno coalición y programa de gobierno, conforme las bases siguientes:",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado D.O. 28-06-2023",
+          "fechas": [
+            "2023-06-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "077.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción I",
+      "texto": "I. Los objetivos comunes en el gobierno de coalición deberán quedar plasmados en la plataforma electoral.",
+      "reformas": [
+        {
+          "nota": "Inciso adicionado D.O. 28-06-2023",
+          "fechas": [
+            "2023-06-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "077.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción II",
+      "texto": "II. Los cargos públicos objeto del gobierno de coalición a los cuales tendrán acceso los partidos políticos.",
+      "reformas": [
+        {
+          "nota": "Inciso adicionado D.O. 28-06-2023",
+          "fechas": [
+            "2023-06-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "077.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción III",
+      "texto": "III. La proporción de cargos públicos a la que podrán tener acceso los partidos políticos que suscriban el convenio de gobierno de coalición.",
+      "reformas": [
+        {
+          "nota": "Inciso adicionado D.O. 28-06-2023",
+          "fechas": [
+            "2023-06-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "077.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción IV",
+      "texto": "IV. El porcentaje de votación que cada partido político aporte a la candidatura común o en coalición electoral se deberá impactar en el acceso proporcional de cargos públicos objeto del convenio de gobierno de coalición.",
+      "reformas": [
+        {
+          "nota": "Inciso adicionado D.O. 28-06-2023",
+          "fechas": [
+            "2023-06-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "077.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción V",
+      "texto": "V. El mecanismo político de cumplimiento de los términos del convenio de gobierno de coalición; y en su caso, las sanciones por su incumplimiento.",
+      "reformas": [
+        {
+          "nota": "Inciso adicionado D.O. 28-06-2023",
+          "fechas": [
+            "2023-06-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "077.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 7",
+      "texto": "Los ayuntamientos deberán ratificar los nombramientos que la presidencia municipal haga de las personas titulares de las dependencias del Ayuntamiento en apego al convenio de gobierno de coalición, con excepción del titular de Seguridad Pública.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado D.O. 28-06-2023",
+          "fechas": [
+            "2023-06-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "077.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 8",
+      "texto": "Tercera.- La o el primer integrante de la lista de personas candidatas electas por el principio de mayoría relativa, tendrá el carácter de Presidenta o Presidente Municipal, el cual será el órgano ejecutivo y político del Ayuntamiento y el segundo, tendrá el carácter de Síndica o Síndico. Todas las regidoras y regidores desempeñarán las funciones que la ley respectiva les señale.",
+      "reformas": [
+        {
+          "nota": "Base reformada DO 22-04-2019, 28-07-2026",
+          "fechas": [
+            "2019-04-22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "077.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 9",
+      "texto": "Cuarta.- Los ayuntamientos estarán investidos de personalidad jurídica y administrarán libremente su hacienda, conforme lo disponga la ley respectiva."
+    },
+    {
+      "id": "077.p10",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 10",
+      "texto": "Quinta.- El Ayuntamiento, es el órgano de gobierno por excelencia en el municipio y creará las dependencias y entidades necesarias de la administración pública municipal, para el cumplimiento de sus atribuciones."
+    },
+    {
+      "id": "077.p11",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 11",
+      "texto": "La administración pública municipal será encabezada por la Presidenta o Presidente Municipal, y se regirá por los principios de imparcialidad, profesionalismo, eficiencia y permanencia; y será centralizada o descentralizada.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DO 22-04-2019",
+          "fechas": [
+            "2019-04-22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "077.p12",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 12",
+      "texto": "Sexta.- Las Presidentas y Presidentes Municipales, en el mes de agosto de cada año, rendirán ante el Ayuntamiento un informe anual cuyo objeto será dar a conocer a la ciudadanía el estado que guarda la administración pública municipal, el cual será realizado en forma pública, austera, pormenorizada y publicado en la gaceta municipal. Dicho informe deberá contener la información relativa a la cuenta pública del periodo de gestión que se informa. Su incumplimiento será causa de responsabilidad."
+    },
+    {
+      "id": "077.p13",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 13",
+      "texto": "Para los efectos del párrafo anterior, los integrantes del cabildo deberán llevar a cabo dicha sesión con carácter de solemne en el edificio que ocupe la sede del ayuntamiento, de manera presencial o mediante el uso de las tecnologías de la información y la comunicación en los términos que la ley señale."
+    },
+    {
+      "id": "077.p14",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 14",
+      "texto": "El informe de actividades al que se refiere el presente artículo deberá de ser enviado al Congreso del Estado, para los efectos legales correspondientes.",
+      "reformas": [
+        {
+          "nota": "Base reformada DO 22-04-2019/ 31-12-2021",
+          "fechas": [
+            "2019-04-22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "077.p15",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 15",
+      "texto": "Séptima.- Las Presidentas y Presidentes Municipales tendrán la obligación al concluir su encargo de llevar a cabo el proceso de entrega recepción, al Ayuntamiento entrante, conforme a la ley respectiva. El incumplimiento de esta obligación será causa de responsabilidad.",
+      "reformas": [
+        {
+          "nota": "Base reformada DO 22-04-2019",
+          "fechas": [
+            "2019-04-22"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "077.p16",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 16",
+      "texto": "Octava.- Las leyes correspondientes, determinarán el número de regidurías de mayoría relativa y de representación proporcional, de acuerdo con el número de habitantes de cada municipio, sin poder exceder del límite máximo de regidurías señalado en el artículo 76 de esta Constitución.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DO 28-07-2026",
+          "fechas": [
+            "2026-07-28"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "077.p17",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 17",
+      "texto": "Por cada Regidor propietario se elegirá a un suplente. Todos los regidores tendrán los mismos derechos y obligaciones. Si alguno de éstos dejare de desempeñar su cargo, será sustituido por su suplente. De no ser esto posible, lo será de entre los suplentes provenientes del mismo partido político."
+    },
+    {
+      "id": "077.p18",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 18",
+      "texto": "Novena.- La Hacienda Pública Municipal se regirá por los principios de autonomía administrativa, libre ejercicio, transparencia y legalidad; y se formará con los rendimientos de los bienes que le pertenezcan; así como, con las contribuciones y otros ingresos que la legislatura, establezca a su favor."
+    },
+    {
+      "id": "077.p19",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 19",
+      "texto": "Décima.- Los ayuntamientos contarán con sus órganos de control interno.",
+      "reformas": [
+        {
+          "nota": "Base reformada D.O. 18-11-2021",
+          "fechas": [
+            "2021-11-18"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "077.p20",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 20",
+      "texto": "Décima Primera.- Para examinar los asuntos por ramo, presentar propuestas de solución, y vigilar la ejecución de las disposiciones y acuerdos del Ayuntamiento, se establecerán Comisiones Permanentes y Especiales, que serán electas en la primera sesión ordinaria que celebren los Ayuntamientos. Las Comisiones podrán integrarse de uno o más regidores."
+    },
+    {
+      "id": "077.p21",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 21",
+      "texto": "La finalidad, el número, las atribuciones y las obligaciones de las Comisiones serán de acuerdo a las leyes y reglamentos respectivos."
+    },
+    {
+      "id": "077.p22",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 22",
+      "texto": "Décima Segunda.- Los municipios podrán celebrar convenios de coordinación, para el correcto ejercicio de sus funciones."
+    },
+    {
+      "id": "077.p23",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 23",
+      "texto": "Décima Tercera.- El Gobierno Municipal planeará su desarrollo integral, de manera democrática y a largo plazo. Los programas operativos respectivos, deberán ser acordes con dichos conceptos."
+    },
+    {
+      "id": "077.p24",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 24",
+      "texto": "Décima Cuarta.- La prestación de los servicios municipales y la construcción de la obra pública, se regirán por los principios de máximo beneficio colectivo, transparencia, eficiencia, y participación ciudadana, de conformidad con esta Constitución y las leyes respectivas."
+    },
+    {
+      "id": "077.p25",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 25",
+      "texto": "Décima Quinta.- Las funciones de calificación por infracciones a los ordenamientos administrativos municipales y de mediación para dirimir conflictos vecinales, serán ejercidas por los ayuntamientos. La Ley Reglamentaria establecerá la forma en que será designada la autoridad competente, sus requisitos de elegibilidad, facultades, duración y las demás para su buen funcionamiento."
+    },
+    {
+      "id": "077.p26",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 26",
+      "texto": "Décima Sexta.- En las comisarías que conforman los municipios del Estado habrá autoridades auxiliares del Ayuntamiento, las que serán electas mediante el voto universal, libre, secreto y directo de los ciudadanos residentes en la localidad, dentro de los primeros noventa días siguientes a la toma de posesión del Ayuntamiento, conforme a los lineamientos establecidos por la ley del ramo."
+    },
+    {
+      "id": "077.p27",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 27",
+      "texto": "Décima Séptima.- La Ley establecerá un sistema de medios de impugnación y resolución de controversias entre la autoridad y los particulares, en materia de lo contencioso administrativo municipal."
+    },
+    {
+      "id": "077.p28",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 28",
+      "texto": "Décima Octava.- Las relaciones de trabajo entre los municipios y sus trabajadores, se regirán por las leyes respectivas basadas en lo dispuesto en el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y sus disposiciones reglamentarias."
+    },
+    {
+      "id": "077.p29",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 29",
+      "texto": "Décima Novena.- Los ayuntamientos implementarán la figura de Cabildo Abierto con el objetivo de informar y permitir a la ciudadanía su intervención con derecho a voz pero sin voto en las acciones gubernamentales de interés general para la comunidad y que sean de la competencia municipal."
+    },
+    {
+      "id": "077.p30",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 30",
+      "texto": "Los ayuntamientos decidirán, a través de disposiciones reglamentarias, las formas y procedimientos que regulen la figura a la que se refiere el párrafo anterior.",
+      "reformas": [
+        {
+          "nota": "Base adicionada D.O. 18-11-2021",
+          "fechas": [
+            "2021-11-18"
+          ]
+        }
+      ]
+    }
+  ]
+}
