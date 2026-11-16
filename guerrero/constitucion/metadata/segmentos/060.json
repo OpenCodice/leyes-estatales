@@ -1,0 +1,36 @@
+{
+  "clave": "060",
+  "etiqueta": "Artículo 60",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "060.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › párrafo 1",
+      "texto": "Las sesiones serán ordinarias y extraordinarias."
+    },
+    {
+      "id": "060.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › párrafo 2",
+      "texto": "Serán públicas, pero cuando se traten asuntos que exijan reserva las sesiones serán privadas."
+    },
+    {
+      "id": "060.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › párrafo 3",
+      "texto": "La Ley Orgánica y su reglamento señalarán las formalidades para la apertura, clausura y desarrollo de los períodos de sesiones."
+    }
+  ]
+}

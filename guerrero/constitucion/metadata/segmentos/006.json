@@ -1,0 +1,225 @@
+{
+  "clave": "006",
+  "etiqueta": "Artículo 6",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "006.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › párrafo 1",
+      "texto": "El Estado de Guerrero atenderá de manera programática y planificada los derechos económicos, sociales, culturales y ambientales para hacer realidad el progreso y el bienestar de sus habitantes; al efecto, expedirá las leyes, programas de gobierno y políticas públicas que requieran, y realizará las acciones necesarias para garantizar el ejercicio de esos derechos;"
+    },
+    {
+      "id": "006.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › 1.",
+      "texto": "1. El Estado de Guerrero reconoce, enunciativamente, como derechos económicos, sociales, culturales y ambientales:"
+    },
+    {
+      "id": "006.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción I",
+      "texto": "I. El derecho al trabajo, para promover el máximo de prosperidad y bienestar común de la sociedad. El Estado de Guerrero garantizará la igualdad y equidad de hombres y mujeres en el goce y ejercicio de este derecho;"
+    },
+    {
+      "id": "006.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción II",
+      "texto": "II. Derecho a la educación y al acceso a la formación profesional integral, de calidad, permanente y en condiciones de igualdad y de oportunidades. Este derecho incluye recibir gratuitamente la enseñanza obligatoria en los términos que establece el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y atendiendo a la diversidad étnica, capacidades diferentes y diversidad sociológica de la entidad, en consecuencia, el Estado implementará los tipos y modalidades de educación necesarios. Se garantiza el derecho de los padres a asegurar la enseñanza de sus hijos;"
+    },
+    {
+      "id": "006.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción III",
+      "texto": "III. El derecho de toda familia a una vivienda digna, en los términos de las leyes respectivas;"
+    },
+    {
+      "id": "006.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción IV",
+      "texto": "IV. El derecho a la salud integral;"
+    },
+    {
+      "id": "006.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción V",
+      "texto": "V. El derecho a la alimentación;\n\n(REFORMADA, P.O. EDICIÓN 51 ALCANCE I, VIERNES 27 DE JUNIO DE 2025) DECRETO 829"
+    },
+    {
+      "id": "006.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción VI",
+      "texto": "VI. El derecho Humano al agua. Toda persona tiene derecho a disfrutar del agua para consumo personal y doméstico, en forma suficiente y saludable, con base en lo estipulado en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales suscritos por el Estado Mexicano. El Estado de acuerdo a su capacidad presupuestal garantizará el acceso, disposición y saneamiento del agua y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, de acuerdo a la participación que se establezca con la federación, el estado, los municipios de la entidad; así como la participación de la ciudadanía en esquemas comunitarios para la consecución de dichos fines; bajo los principios de solidaridad, complementariedad, reciprocidad, equidad, diversidad, racionalidad, autogestión y sustentabilidad. El servicio público de agua estará a cargo del municipio y en los términos de la ley aplicable y no será sujeto de privatización. La gestión del agua será pública y sin fines de lucro."
+    },
+    {
+      "id": "006.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción VII",
+      "texto": "VII. El derecho a un medio ambiente sano para su desarrollo y bienestar. La ley definirá las bases, apoyos y modalidades para enfrentar los efectos adversos del cambio climático, estableciendo las medidas necesarias, así como la participación de la federación con el Estado y sus municipios, los diferentes sectores sociales para la consecución de dichos fines.\n\nEl Estado deberá garantizar la protección, conservación y restauración de los bienes ambientales. La reparación del daño ambiental corresponderá a quien lo cause y, subsidiariamente, al Estado. La Ley determinará la procedencia de la responsabilidad penal y administrativa;\n\n(ADICIONADO TERCER PÁRRAFO, P.O. EDICIÓN 42 ALCANCE IV, 27 DE MAYO DE 2025) El bienestar animal forma parte del derecho protegido en esta fracción. Esta Constitución y las leyes que de ella emanen, reconocen a los animales como seres sintientes. El Estado y los Municipios deberán garantizar la protección, cuidado, respeto y trato digno de los animales. En el ámbito de sus competencias, deberán promover la cultura del cuidado animal y la tutela responsable, así como realizar acciones para la atención de animales abandonados y atención de denuncias de maltrato animal."
+    },
+    {
+      "id": "006.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción VIII",
+      "texto": "VIII. El derecho de los grupos vulnerables de acceder a condiciones de bienestar y hacer posible su inclusión social. El Estado considerará, presupuestalmente, las partidas necesarias para:"
+    },
+    {
+      "id": "006.VIII.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 6 › Fracción VIII › inciso a)",
+      "texto": "a) Apoyar a los adultos mayores a recibir protección permanente, para que tengan una vida en condiciones dignas y decorosas;"
+    },
+    {
+      "id": "006.VIII.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 6 › Fracción VIII › inciso b)",
+      "texto": "b) A las personas con discapacidades, a recibir atención especial que permita su habilitación, rehabilitación e integración social, y facilitar su pleno desarrollo individual;"
+    },
+    {
+      "id": "006.VIII.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 6 › Fracción VIII › inciso c)",
+      "texto": "c) A toda persona que habite o transite en el Estado, sin importar su procedencia o condición migratoria, a ser tratada humanamente y con respeto a la dignidad inherente al ser humano. El Estado atenderá preventivamente y en coordinación con los municipios los eventuales desplazamientos internos por cualesquiera de las causas que determine la ley correspondiente;\n\n(REFORMADO, P.O. EDICIÓN 43 ALCANCE III, DE FECHA VIERNES 30 DE MAYO DE 2025)"
+    },
+    {
+      "id": "006.VIII.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 6 › Fracción VIII › inciso d)",
+      "texto": "d).- De los niños y las niñas a la satisfacción de sus necesidades de alimentación, salud, sano esparcimiento para su desarrollo integral, y a recibir apoyos complementarios para su educación y a la decisión sobre su persona para su desarrollo integral, con visión del interés superior del menor sobre cualquier uso y costumbre;\n\n(REFORMADA, P.O. EDICIÓN 43 ALCANCE IV, FECHA VIERNES 30 DE MAYO DE 2025)"
+    },
+    {
+      "id": "006.VIII.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 6 › Fracción VIII › inciso e)",
+      "texto": "e).- Que las mujeres embarazadas no sean discriminadas, se garantice su acceso a los servicios de salud materna desde el inicio del embarazo, el parto, el puerperio, y a disponer de las facilidades necesarias para su adecuada recuperación; y,"
+    },
+    {
+      "id": "006.VIII.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "VIII",
+      "ruta": "Artículo 6 › Fracción VIII › inciso f)",
+      "texto": "f).-De las víctimas de violencia familiar y sexual, maltrato infantil y personas privadas de su libertad, y a cualesquier nueva forma de esclavitud.\n\n(REFORMADA, P.O. EDICIÓN 43 ALCANCE V, DE FECHA VIERNES 30 DE MAYO DE 2025)"
+    },
+    {
+      "id": "006.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción IX",
+      "texto": "IX. El derecho de toda persona a la recreación social y deportiva, que permita el sano esparcimiento como medida para auspiciar la integración y la convivencia colectiva.\n\n(ADICIONADA, P.O. EDICIÓN 43 ALCANCE V, DE FECHA VIERNES 30 DE MAYO DE 2025) IX Bis.- El derecho a la cultura. El Estado de Guerrero garantiza su respeto, promoción y difusión, así como la protección en el acceso a su goce y ejercicio pleno.\n\nSe entiende como derecho a la cultura, el derecho humano de todas las personas a tomar parte libremente en la vida cultural de la comunidad, a gozar de las artes y a participar en el progreso científico y en el beneficio que de él resulten.\n\nLas manifestaciones culturales individuales o colectivas, a las que se refiere el párrafo anterior, son los elementos materiales e inmateriales pretéritos y actuales, reconocidas como identitarias, inherentes a la historia, arte, tradiciones, prácticas y conocimientos que integran la historia del estado de Guerrero.\n\nToda persona tendrá derecho a conocer, de conformidad a lo que señalen las leyes de la materia, el patrimonio cultural de los bienes y servicios que se encuentran en el territorio guerrerense. El estado de Guerrero garantiza el reconocimiento de la identidad y dignidad de las personas, la libre determinación, autonomía y a la igualdad sustantiva en el acceso a los derechos culturales, procurando que las políticas culturales se den con base a los ejes transversales de perspectiva de género, intergeneracional, e intersección cultural.\n\nLas autoridades culturales promoverán la formación profesional en materia de arte y cultura para contribuir al pleno y libre desarrollo de los derechos culturales.\n\n(REFORMADA, P.O. EDICIÓN No. 32 ALCANCE IV, MARTES 21 DE ABRIL DE 2026)"
+    },
+    {
+      "id": "006.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción X",
+      "texto": "X.- El derecho de toda persona a acceder, de forma libre y sin discriminación, a las tecnologías de la información y comunicación, así como a los servicios de radiodifusión y telecomunicaciones, incluido el de banda ancha e Internet;\n\n(ADICIONADA, P.O. EDICIÓN 43 ALCANCE VII, FECHA VIERNES 30 DE MAYO DE 2025)"
+    },
+    {
+      "id": "006.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción XI",
+      "texto": "XI.- El derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad."
+    },
+    {
+      "id": "006.XI.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "XI",
+      "ruta": "Artículo 6 › Fracción XI › 2.",
+      "texto": "2. El Estado deberá remover los obstáculos que impidan o dificulten el ejercicio de los derechos contenidos en esta sección; y, mediante políticas públicas, hacer realidad el progreso y el bienestar social de sus habitantes, y garantizar su acceso efectivo en los términos del artículo 6.1 de esta Constitución."
+    },
+    {
+      "id": "006.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › párrafo 2",
+      "texto": "(ADICIONADO, P.O. 92 ALCANCE III, DE FECHA 17 DE NOVIEMBRE DE 2017)"
+    },
+    {
+      "id": "006.XI.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "XI",
+      "ruta": "Artículo 6 › Fracción XI › 3.",
+      "texto": "3.- La política pública de mejora regulatoria del estado es obligatoria para todas las autoridades públicas estatales y municipales en sus respectivos ámbitos de competencia."
+    },
+    {
+      "id": "006.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › párrafo 3",
+      "texto": "El Congreso del Estado mediante una ley creará el Sistema Estatal de Mejora Regulatoria, así como los instrumentos necesarios para que las leyes emitidas por dicho Congreso y las normas de carácter general que emita cualquier autoridad, entidad, órgano u organismo gubernamental, así como órganos autónomos del ámbito estatal y municipal garanticen beneficios superiores a sus costos y el máximo bienestar para la sociedad."
+    },
+    {
+      "id": "006.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › párrafo 4",
+      "texto": "La ley establecerá la creación de un catálogo estatal que incluya todos los trámites y servicios estatales y municipales con el objetivo de generar seguridad jurídica y facilitar su cumplimiento mediante el uso de las tecnologías de la información. La inscripción en el catálogo y su actualización será obligatoria en los términos que establezca la ley."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "186",
+  "etiqueta": "Artículo 186",
+  "titulo": "TÍTULO DÉCIMO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "186.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 186 › párrafo 1",
+      "texto": "Todas las obligaciones de carácter económico que correspondan al Estado o a los Municipios y que se deriven de esta Constitución, deben entenderse limitadas por las respectivas capacidades presupuestarias."
+    },
+    {
+      "id": "186.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 186 › 1.",
+      "texto": "1. Todos los bienes que integran la hacienda estatal o municipal, son inembargables e imprescriptibles y solamente los presupuestos correspondientes, responderán de las obligaciones relativas, conforme a las leyes; y,"
+    },
+    {
+      "id": "186.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 186 › 2.",
+      "texto": "2. El Estado de Guerrero y sus municipios harán valer las controversias constitucionales, acciones de inconstitucionalidad y demás acciones que procedan, tendentes a hacer cumplir el pacto federal y con la finalidad que cuenten con los recursos presupuestarios necesarios para enfrentar sus obligaciones públicas."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "146",
+  "etiqueta": "Artículo 146",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "146.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 146 › párrafo 1",
+      "texto": "(REFORMADO, P.O. EDICIÓN 68 ALCANCE II, DE FECHA MARTES 26 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "146.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 146 › párrafo 2",
+      "texto": "Cada Órgano con Autonomía Técnica tendrá una persona titular, designada por el plazo establecido en esta Constitución, a quien corresponderá la representación legal e institucional del mismo órgano, su administración y gobierno interior."
+    },
+    {
+      "id": "146.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 146 › párrafo 3",
+      "texto": "La designación de las personas titulares, así como las modalidades, responsabilidades, derechos y obligaciones que les correspondan, se regularán conforme a lo establecido en esta Constitución y las leyes aplicables."
+    },
+    {
+      "id": "146.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 146 › párrafo 4",
+      "texto": "Las personas titulares de los Órganos con Autonomía Técnica deberán rendir un informe anual de actividades ante el Poder al que estén adscritos orgánicamente y comparecer, cuando sea el caso, ante estos o ante el Congreso del Estado previa solicitud fundada y motivada, en los términos dispuestos en la ley."
+    }
+  ]
+}

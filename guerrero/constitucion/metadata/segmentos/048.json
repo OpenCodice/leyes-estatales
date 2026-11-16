@@ -1,0 +1,72 @@
+{
+  "clave": "048",
+  "etiqueta": "Artículo 48",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "048.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › párrafo 1",
+      "texto": "(REFORMADO, P.O. EDICIÓN 51 ALCANCE I, VIERNES 27 DE JUNIO DE 2025) DECRETO 828"
+    },
+    {
+      "id": "048.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › párrafo 2",
+      "texto": "La asignación de las Diputadas y los Diputados por el principio de representación proporcional se sujetará a lo siguiente:"
+    },
+    {
+      "id": "048.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › Fracción I",
+      "texto": "I. Tendrán derecho a participar en la asignación los partidos políticos o coaliciones que registren candidaturas de mayoría relativa en al menos 15 distritos electorales del Estado y obtengan por lo menos el tres por ciento del total de la votación válida emitida;"
+    },
+    {
+      "id": "048.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › Fracción II",
+      "texto": "II. La asignación seguirá el orden establecido en las listas registradas por los partidos políticos;"
+    },
+    {
+      "id": "048.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › Fracción III",
+      "texto": "III. Ningún partido político podrá contar con más de veintiocho Diputadas o Diputados por ambos principios de representación; y,"
+    },
+    {
+      "id": "048.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › Fracción IV",
+      "texto": "IV.-El porcentaje máximo de sobrerrepresentación entre el número de Diputadas o Diputados y la votación estatal obtenida por cada partido político, será de ocho puntos porcentuales, con excepción de los casos en que los triunfos de mayoría relativa superen ese porcentaje."
+    },
+    {
+      "id": "048.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › Fracción V",
+      "texto": "V.- En la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación emitida menos ocho puntos porcentuales.\n\nEn todo caso, la fórmula establecerá las reglas para la deducción del número de diputados de representación proporcional que sean necesarios para asignar diputados a los partidos políticos que se encuentren en ese supuesto, de mayor o menor subrepresentación. Esta fórmula se aplicará una vez que le sea asignada una Diputada o un Diputado por la vía de representación proporcional a los partidos políticos que hayan obtenido el porcentaje de votación mínima para conservar el registro de conformidad a la normatividad electoral."
+    }
+  ]
+}

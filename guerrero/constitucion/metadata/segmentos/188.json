@@ -1,0 +1,63 @@
+{
+  "clave": "188",
+  "etiqueta": "Artículo 188",
+  "titulo": "TÍTULO DÉCIMO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "188.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 188 › párrafo 1",
+      "texto": "La educación que imparta el Estado se sujetará a lo dispuesto en el artículo 3° de la Constitución Política de los Estados Unidos Mexicanos y a las bases siguientes:"
+    },
+    {
+      "id": "188.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 188 › Fracción I",
+      "texto": "I. Será gratuita;"
+    },
+    {
+      "id": "188.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 188 › Fracción II",
+      "texto": "II. De calidad con base en el mejoramiento constante y el máximo logro académico de los educandos, con pleno reconocimiento al principio supremo de protección a la niñez;"
+    },
+    {
+      "id": "188.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 188 › Fracción III",
+      "texto": "III. Será progresista, con contenido nacional y regional, inspirada en principios democráticos; fomentará la igualdad entre las personas y el desarrollo armónico de las facultades del ser humano; impulsará el civismo, la identidad nacional y estatal, y el aprovechamiento sustentable de los recursos naturales; alentará el fortalecimiento y la difusión de la cultura, y promoverá el respeto a los derechos humanos, al medio ambiente y los valores de la convivencia pacífica, la tolerancia, el pluralismo y la diversidad;"
+    },
+    {
+      "id": "188.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 188 › Fracción IV",
+      "texto": "IV. Será laica, combatirá la ignorancia, el fanatismo y los prejuicios, preparando desde la infancia para asumir una vida responsable, basada en la comprensión, la armonía, la legalidad, la equidad de género y la cooperación entre todos los pueblos;"
+    },
+    {
+      "id": "188.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 188 › Fracción V",
+      "texto": "V. La educación indígena y afromexicana será objeto de atención especial por parte del Estado. Esta Constitución y las leyes garantizarán la educación bilingüe e intercultural a través de mecanismos que permitan el fomento, la subsistencia, el enriquecimiento, la defensa y el orgullo de la cultura indígena y afromexicana, así como el respeto por otras culturas.\n\nEl Estado apoyará la investigación científica y tecnológica como sustento de la actividad de las instituciones de educación superior y de posgrado, para el mejoramiento social y económico de la entidad."
+    }
+  ]
+}

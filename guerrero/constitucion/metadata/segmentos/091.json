@@ -1,0 +1,468 @@
+{
+  "clave": "091",
+  "etiqueta": "Artículo 91",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "091.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. EDICIÓN 51 ALCANCE I, VIERNES 27 DE JUNIO DE 2025) DECRETO 828"
+    },
+    {
+      "id": "091.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 2",
+      "texto": "La Gobernadora o Gobernador tiene las siguientes atribuciones:"
+    },
+    {
+      "id": "091.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción I",
+      "texto": "I. Cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, las leyes federales, los tratados internacionales, esta Constitución y las leyes que de ellas emanen;"
+    },
+    {
+      "id": "091.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción II",
+      "texto": "II. Ordenar la promulgación y publicación de las leyes y decretos que expida el Congreso del Estado en los plazos dispuestos en la ley, y la publicación de los bandos y reglamentos que acuerden los Ayuntamientos, cuando no cuenten con sus propios órganos de difusión oficial;"
+    },
+    {
+      "id": "091.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción III",
+      "texto": "III. Ejercer el derecho de iniciativa, ordinaria o preferente, ante el Congreso del Estado;"
+    },
+    {
+      "id": "091.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción IV",
+      "texto": "IV. Fijar su posición ante el Congreso, por sí o a través de los secretarios de despacho, cuando se discuta una ley o se estudie un asunto concerniente a su respectivo ámbito de atribuciones, cuando así lo considere conveniente;"
+    },
+    {
+      "id": "091.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción V",
+      "texto": "V. Enviar al Congreso la iniciativa de la Ley Orgánica de la Administración Pública del Estado;"
+    },
+    {
+      "id": "091.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción VI",
+      "texto": "VI. Expedir los reglamentos necesarios para el desarrollo, la eficacia y cumplimiento de las leyes y decretos aprobados por el Congreso del Estado;"
+    },
+    {
+      "id": "091.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción VII",
+      "texto": "VII. Realizar observaciones, dentro del término de diez días hábiles siguientes al de su recepción, a las leyes y decretos aprobados por el Congreso del Estado;\n\n(REFORMADA, P.O. EDICIÓN 51 ALCANCE I, VIERNES 27 DE JUNIO DE 2025) DECRETO 828"
+    },
+    {
+      "id": "091.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción VIII",
+      "texto": "VIII. Presentar al Congreso, en la primera quincena de octubre de cada año, las iniciativas de Ley de Ingresos y del Presupuesto de Egresos para el ejercicio fiscal siguiente.\n\nEn el primer año de ejercicio constitucional de la Gobernadora o Gobernador, ambas iniciativas se presentarán, a más tardar en la segunda quincena de noviembre;"
+    },
+    {
+      "id": "091.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción IX",
+      "texto": "IX. Planear y conducir el desarrollo integral del Estado en el ámbito de su competencia, y establecer los procedimientos de consulta para la formulación, implementación, ejecución, control y evaluación del Plan Estatal de Desarrollo y los programas que de él se deriven;"
+    },
+    {
+      "id": "091.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción X",
+      "texto": "X. Mantener relaciones políticas e institucionales con el gobierno federal y con los gobiernos de las demás entidades federativas;\n\n(REFORMADA P.O. No. 90 ALCANCE II DE FECHA MARTES 08 DE NOVIEMBRE DE 2016)"
+    },
+    {
+      "id": "091.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XI",
+      "texto": "XI. Recurrir al endeudamiento y contratar empréstitos para inversiones públicas productivas, en los términos y condiciones que establecen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las Leyes de la materia;\n\n(REFORMADA P.O. No. 68 ALCANCE III, DE FECHA VIERNES 24 DE AGOSTO DE 2018) DECRETO 757"
+    },
+    {
+      "id": "091.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XII",
+      "texto": "XII. Enajenar, donar o permutar bienes inmuebles de propiedad estatal, previa autorización del Congreso del Estado que habrá de votar con dos terceras partes del total de sus integrantes;"
+    },
+    {
+      "id": "091.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XIII",
+      "texto": "XIII. Proveer a la eficaz satisfacción de los servicios públicos del Estado, de conformidad con los presupuestos aprobados, y gestionar aquellos que puedan proporcionar otras entidades públicas o privadas;"
+    },
+    {
+      "id": "091.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XIV",
+      "texto": "XIV. Rendir ante el Pleno del Congreso, el informe anual del estado que guarda la administración pública del Estado;"
+    },
+    {
+      "id": "091.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XV",
+      "texto": "XV. Nombrar y remover libremente a los servidores públicos y empleados del Poder Ejecutivo, cuyo nombramiento o causa de remoción no estén regulados en esta Constitución o en las leyes correspondientes;"
+    },
+    {
+      "id": "091.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XVI",
+      "texto": "XVI. Solicitar a la Comisión Permanente la convocatoria a periodo extraordinario de sesiones del Congreso del Estado, mediante escrito fundado y motivado en el que se precisen los asuntos a tratar;"
+    },
+    {
+      "id": "091.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XVII",
+      "texto": "XVII. Vigilar la recaudación, distribución y administración de los recursos públicos, dirigir las finanzas públicas y preservar el patrimonio del Estado, con arreglo a las leyes de la materia;"
+    },
+    {
+      "id": "091.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XVIII",
+      "texto": "XVIII. Establecer las políticas públicas tendientes a preservar el medio ambiente, el equilibrio ecológico, y procurar que los recursos naturales sean utilizados en forma racional para su óptimo aprovechamiento;"
+    },
+    {
+      "id": "091.XIX",
+      "tipo": "fraccion",
+      "marca": "XIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XIX",
+      "texto": "XIX. Garantizar la protección y la seguridad ciudadana, la conservación del orden, la tranquilidad y la seguridad en el Estado, y disponer de las corporaciones policiales estatales y municipales, en aquellos casos de fuerza mayor o alteración grave del orden público;"
+    },
+    {
+      "id": "091.XX",
+      "tipo": "fraccion",
+      "marca": "XX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XX",
+      "texto": "XX. Establecer protocolos de actuación para el uso de la fuerza pública y hacer efectiva la responsabilidad por los excesos en que se haya incurrido;"
+    },
+    {
+      "id": "091.XXI",
+      "tipo": "fraccion",
+      "marca": "XXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXI",
+      "texto": "XXI. Elevar y garantizar la cobertura y calidad de la educación pública, así como la enseñanza bilingüe e intercultural en las zonas predominantemente indígenas;"
+    },
+    {
+      "id": "091.XXII",
+      "tipo": "fraccion",
+      "marca": "XXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXII",
+      "texto": "XXII. Garantizar el ejercicio efectivo de los derechos y libertades de los ciudadanos y procurar el progreso y bienestar social en el Estado;"
+    },
+    {
+      "id": "091.XXIII",
+      "tipo": "fraccion",
+      "marca": "XXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXIII",
+      "texto": "XXIII. Gestionar ante el gobierno federal que las transferencias de recursos otorgadas al Estado sean proporcionales, de conformidad con criterios técnicos, y atender a sus carencias económicas y sociales, a efecto de lograr la equidad en la distribución de las mismas;"
+    },
+    {
+      "id": "091.XXIV",
+      "tipo": "fraccion",
+      "marca": "XXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXIV",
+      "texto": "XXIV. Conceder subsidios a quienes establezcan en el Estado empresas o industrias en beneficio del desarrollo económico;"
+    },
+    {
+      "id": "091.XXV",
+      "tipo": "fraccion",
+      "marca": "XXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXV",
+      "texto": "XXV. Fomentar la creación de industrias y empresas rurales y buscar la participación armónica de los factores de la producción;"
+    },
+    {
+      "id": "091.XXVI",
+      "tipo": "fraccion",
+      "marca": "XXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXVI",
+      "texto": "XXVI. Promover el desarrollo de la actividad turística, mediante el debido aprovechamiento de los atractivos con que cuenta el Estado;\n\nREFORMADA, P.O. No. 56 ALCANCE I, DE FECHA VIERNES 14 DE JULIO DE 2017)"
+    },
+    {
+      "id": "091.XXVII",
+      "tipo": "fraccion",
+      "marca": "XXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXVII",
+      "texto": "XXVII. Remitir al Congreso del Estado, a través de la Auditoría Superior del Estado de Guerrero, la cuenta pública correspondiente al año inmediato anterior, de conformidad con lo establecido en la ley de la materia. La cuenta pública del ejercicio fiscal correspondiente deberá ser presentada al Congreso del Estado a más tardar el 30 de abril del año siguiente."
+    },
+    {
+      "id": "091.XXVIII",
+      "tipo": "fraccion",
+      "marca": "XXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXVIII",
+      "texto": "XXVIII. Solicitar al Instituto Electoral y de Participación Ciudadana del Estado de Guerrero la convocatoria y organización, en su caso, de referendos, plebiscitos, consultas populares y demás instrumentos de participación ciudadana;"
+    },
+    {
+      "id": "091.XXIX",
+      "tipo": "fraccion",
+      "marca": "XXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXIX",
+      "texto": "XXIX. Celebrar convenios y contratos con los gobiernos federal, estatales o municipales, y con sus correspondientes entidades descentralizadas, así como con personas físicas o morales de carácter público o privado;"
+    },
+    {
+      "id": "091.XXX",
+      "tipo": "fraccion",
+      "marca": "XXX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXX",
+      "texto": "XXX. Suscribir convenios sobre los límites del territorio del Estado, previa aprobación de las dos terceras partes del total de los integrantes del Congreso del Estado;"
+    },
+    {
+      "id": "091.XXXI",
+      "tipo": "fraccion",
+      "marca": "XXXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXXI",
+      "texto": "XXXI. Acordar la realización de obras y prestación de servicios de mediano y largo plazo, dirigidos a crear infraestructura pública con la participación del sector privado, previa autorización de las dos terceras partes del total de los integrantes del Congreso del Estado;"
+    },
+    {
+      "id": "091.XXXII",
+      "tipo": "fraccion",
+      "marca": "XXXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXXII",
+      "texto": "XXXII. Convenir con los municipios, para que el Estado se haga cargo de alguna de las funciones relacionadas con la administración de sus contribuciones; para que se responsabilice temporalmente de la ejecución, la operación de obras y la prestación de servicios municipales; o para que los municipios se hagan cargo de alguna o algunas de las funciones, o de la ejecución y operación de obras y la prestación de servicios públicos que correspondan al Estado;"
+    },
+    {
+      "id": "091.XXXIII",
+      "tipo": "fraccion",
+      "marca": "XXXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXXIII",
+      "texto": "XXXIII. Declarar los casos en que proceda la expropiación de bienes y derechos de particulares por causa de utilidad pública, en la forma que establezcan las leyes;"
+    },
+    {
+      "id": "091.XXXIV",
+      "tipo": "fraccion",
+      "marca": "XXXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXXIV",
+      "texto": "XXXIV. Decretar, de acuerdo con la legislación respectiva, las medidas necesarias para ordenar los asentamientos humanos y establecer provisiones, usos, reservas y destino de tierras, aguas y bosques, a efecto de ejecutar obras públicas, así como planear y regular la fundación, conservación, mejoramiento y crecimiento de los centros de población;"
+    },
+    {
+      "id": "091.XXXV",
+      "tipo": "fraccion",
+      "marca": "XXXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXXV",
+      "texto": "XXXV.Expedir títulos y grados profesionales, o delegar esta facultad en las instituciones de enseñanza constituidas con arreglo a las leyes;"
+    },
+    {
+      "id": "091.XXXVI",
+      "tipo": "fraccion",
+      "marca": "XXXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXXVI",
+      "texto": "XXXVI. Crear, dirigir y supervisar el Registro Público de la Propiedad con plena observancia a lo previsto en la ley de la materia;"
+    },
+    {
+      "id": "091.XXXVII",
+      "tipo": "fraccion",
+      "marca": "XXXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXXVII",
+      "texto": "XXXVII. Proporcionar al Poder Judicial y, en general, a los órganos que administran justicia, el auxilio que le soliciten para el adecuado cumplimiento de sus funciones;"
+    },
+    {
+      "id": "091.XXXVIII",
+      "tipo": "fraccion",
+      "marca": "XXXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXXVIII",
+      "texto": "XXXVIII. Procurar que el presupuesto asignado anualmente a la administración de justicia, procuración de justicia, seguridad pública, tránsito, justicia administrativa y reinserción social, sea el suficiente para la debida prestación del servicio;\n\n(REFORMADA, P.O. EDICIÓN 68 ALCANCE II, DE FECHA MARTES 26 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "091.XXXIX",
+      "tipo": "fraccion",
+      "marca": "XXXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XXXIX",
+      "texto": "XXXIX. Nombrar a las magistradas y magistrados del Tribunal de Justicia Administrativa del Estado de Guerrero, en los términos que establece esta Constitución;"
+    },
+    {
+      "id": "091.XL",
+      "tipo": "fraccion",
+      "marca": "XL",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XL",
+      "texto": "XL. Nombrar a sus representantes, ante las Juntas Locales de Conciliación y Arbitraje;"
+    },
+    {
+      "id": "091.XLI",
+      "tipo": "fraccion",
+      "marca": "XLI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XLI",
+      "texto": "XLI. Autorizar, expedir y revocar patentes para el desempeño de la función notarial, con estricto apego a los procedimientos previstos en la Ley del Notariado del Estado, observando en todo las garantías de audiencia, debido proceso y respeto a los derechos humanos;"
+    },
+    {
+      "id": "091.XLII",
+      "tipo": "fraccion",
+      "marca": "XLII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XLII",
+      "texto": "XLII. Avisar al Congreso del Estado por ausencias temporales que no excedan de treinta días, y solicitar licencia en aquellas que superen este periodo;"
+    },
+    {
+      "id": "091.XLIII",
+      "tipo": "fraccion",
+      "marca": "XLIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XLIII",
+      "texto": "XLIII. Conceder o negar licencias con goce de sueldo a los servidores públicos de la administración pública estatal, de conformidad con las leyes respectivas;"
+    },
+    {
+      "id": "091.XLIV",
+      "tipo": "fraccion",
+      "marca": "XLIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XLIV",
+      "texto": "XLIV. Celebrar convenios con la Federación, con los Ayuntamientos y con otros Estados de la República, para la realización de obras, la prestación de servicios públicos o cualquier otro propósito de beneficio colectivo;\n\n(REFORMADA, P.O. EDICIÓN 68 ALCANCE II, DE FECHA MARTES 26 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "091.XLV",
+      "tipo": "fraccion",
+      "marca": "XLV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XLV",
+      "texto": "XLV. Conceder el indulto a los reos sentenciados por los Tribunales del Estado, conforme a la ley; (SIC) (REFORMADA, P.O. EDICIÓN 68 ALCANCE II, DE FECHA MARTES 26 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "091.XLVI",
+      "tipo": "fraccion",
+      "marca": "XLVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XLVI",
+      "texto": "XLVI. Nombrar una persona integrante del Órgano de Administración Judicial;\n\n(ADICIONADA, P.O. EDICIÓN 68 ALCANCE II, DE FECHA MARTES 26 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "091.XLVII",
+      "tipo": "fraccion",
+      "marca": "XLVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XLVII",
+      "texto": "XLVII. Integrar su Comité de Evaluación para el Proceso de Selección de Personas Candidatas a los Cargos de Magistradas, Magistrados, Juezas y Jueces del Poder Judicial del Estado;\n\n(ADICIONADA, P.O. EDICIÓN 68 ALCANCE II, DE FECHA MARTES 26 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "091.XLVIII",
+      "tipo": "fraccion",
+      "marca": "XLVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XLVIII",
+      "texto": "XLVIII. Postular en términos de la Constitución y la ley, a las personas que participen en la elección de quienes integrarán el Poder Judicial del Estado, y (ADICIONADA, P.O. EDICIÓN 68 ALCANCE II, DE FECHA MARTES 26 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "091.XLIX",
+      "tipo": "fraccion",
+      "marca": "XLIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción XLIX",
+      "texto": "XLIX. Las demás que se deriven de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes que de ellas emanen."
+    }
+  ]
+}

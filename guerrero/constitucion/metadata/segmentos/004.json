@@ -1,0 +1,36 @@
+{
+  "clave": "004",
+  "etiqueta": "Artículo 4",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "004.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 1",
+      "texto": "Los derechos humanos tienen eficacia directa y vinculan a todos los poderes públicos."
+    },
+    {
+      "id": "004.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 2",
+      "texto": "Todas las autoridades del Estado, en el ámbito de sus respectivas competencias, tienen la obligación de promover, respetar, proteger, garantizar y defender los derechos humanos, atendiendo a los principios de universalidad, interdependencia, indivisibilidad, progresividad y máxima protección."
+    },
+    {
+      "id": "004.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 3",
+      "texto": "En la interpretación y aplicación de las normas relativas a derechos humanos las autoridades, en el ámbito de sus competencias, atenderán al sentido más favorable para las personas y conforme a lo dispuesto en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y los instrumentos internacionales incorporados al orden jurídico mexicano."
+    }
+  ]
+}

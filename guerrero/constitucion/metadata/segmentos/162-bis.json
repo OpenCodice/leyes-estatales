@@ -1,0 +1,54 @@
+{
+  "clave": "162-bis",
+  "etiqueta": "Artículo 162 Bis",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "162-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 162 Bis › párrafo 1",
+      "texto": "(ADICIONADO, P.O. EDICIÓN 68 ALCANCE II, DE FECHA MARTES 26 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "162-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 162 Bis › párrafo 2",
+      "texto": "El Pleno del Órgano de Administración Judicial se integrará por cinco personas, designadas de la manera siguiente:"
+    },
+    {
+      "id": "162-bis.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 162 Bis › Fracción I",
+      "texto": "I. Una por el Poder Ejecutivo;"
+    },
+    {
+      "id": "162-bis.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 162 Bis › Fracción II",
+      "texto": "II. Una por el Congreso del Estado, mediante votación calificada de dos terceras partes de sus integrantes, y"
+    },
+    {
+      "id": "162-bis.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 162 Bis › Fracción III",
+      "texto": "III. Tres por el Pleno del Tribunal Superior de Justicia, mediante votación calificada de dos terceras partes de sus integrantes.\n\nLas personas integrantes del Pleno durarán en su encargo seis años improrrogables y serán sustituidas de manera escalonada.\n\nLa presidencia del Órgano de Administración Judicial se renovará cada dos años de manera rotatoria, garantizando la paridad de género. La persona titular será electa por el Pleno en la primera sesión de septiembre del año que corresponda y no podrá ser reelecta para el periodo inmediato siguiente.\n\nLa Presidencia del Órgano de Administración Judicial se renovará cada dos años de manera rotatoria, garantizando la paridad de género. La persona titular será electa mediante un procedimiento de insaculación entre sus integrantes, que se celebrará en la primera sesión de septiembre del año que corresponda. La persona electa no podrá ser reelecta para el periodo inmediato siguiente.\n\nLa Ley reglamentaria establecerá las disposiciones aplicables para la implementación de esta rotación progresiva, garantizando equidad y continuidad institucional."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "101",
+  "etiqueta": "Artículo 101",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "101.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 1",
+      "texto": "(REFORMADO, P.O. EDICIÓN 68 ALCANCE II, DE FECHA MARTES 26 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "101.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 2",
+      "texto": "El Tribunal Superior de Justicia se integrará con el número de magistradas y magistrados que establezca la Ley Orgánica del Poder Judicial del Estado, el cual estará en función de las Salas necesarias para una pronta y efectiva impartición de justicia."
+    }
+  ]
+}

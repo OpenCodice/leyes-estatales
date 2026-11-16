@@ -1,0 +1,63 @@
+{
+  "clave": "046",
+  "etiqueta": "Artículo 46",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "046.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. EDICIÓN 68 ALCANCE II, 26 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "046.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › párrafo 2",
+      "texto": "Para ser diputada o diputado al Congreso del Estado se requiere:"
+    },
+    {
+      "id": "046.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción I",
+      "texto": "I. Ser ciudadano guerrerense, en pleno ejercicio de sus derechos civiles y políticos;\n\n(REFORMADA, P.O. EDICIÓN 50 ALCANCE III, MARTES 24 DE JUNIO DE 2025) DECRETO 677"
+    },
+    {
+      "id": "046.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción II",
+      "texto": "II. Tener dieciocho años de edad cumplidos el día de la elección;"
+    },
+    {
+      "id": "046.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción III",
+      "texto": "III. Ser originario del Distrito o Municipio si éste es cabecera de dos o más Distritos, o tener una residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección, con las excepciones que establezcan las leyes de la materia; y,"
+    },
+    {
+      "id": "046.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Fracción IV",
+      "texto": "IV. En caso de ser migrante, acreditar la residencia binacional, en los términos estipulados en la ley.\n\n(REFORMADO ÚLTIMO PÁRRAFO, P.O. EDICIÓN 68 ALCANCE II, DE FECHA MARTES 26 DE AGOSTO DE 2025) No podrán ser electas diputadas o diputados las personas titulares de secretarías, dependencias, entidades u organismos de la administración pública federal, estatal o municipal; las personas representantes populares; magistradas, magistrados, juezas o jueces; titulares o integrantes de órganos autónomos o con autonomía técnica; así como cualquier otra persona servidora pública que maneje recursos públicos o ejecute programas gubernamentales, salvo que se separen definitivamente de su cargo al menos noventa días antes de la jornada electoral."
+    }
+  ]
+}

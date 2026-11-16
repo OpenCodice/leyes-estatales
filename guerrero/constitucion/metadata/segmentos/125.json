@@ -1,0 +1,90 @@
+{
+  "clave": "125",
+  "etiqueta": "Artículo 125",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "125.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › párrafo 1",
+      "texto": "La actuación del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero deberá regirse por los principios de certeza, imparcialidad, independencia, legalidad, máxima publicidad y objetividad."
+    },
+    {
+      "id": "125.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › 1.",
+      "texto": "1. La integración del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero garantizará la concurrencia de los ciudadanos y de los partidos políticos;"
+    },
+    {
+      "id": "125.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › 2.",
+      "texto": "2. El órgano superior de dirección del Instituto Electoral y de Participación Ciudadana del Estado de Guerrero se integrará con siete consejeros electorales, con derecho a voz y voto; el Secretario Ejecutivo y los representantes de los partidos políticos concurrirán a las sesiones sólo con derecho a voz; cada partido político contará con un representante en dicho órgano;"
+    },
+    {
+      "id": "125.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › 3.",
+      "texto": "3. Los consejeros electorales tendrán un período de desempeño de siete años y no podrán ser reelectos; percibirán una remuneración acorde con sus funciones y podrán ser removidos por el Consejo General del Instituto Nacional Electoral, por las causas graves que establezca la ley;"
+    },
+    {
+      "id": "125.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › 4.",
+      "texto": "4. El consejero Presidente y los consejeros electorales serán designados por el Consejo General del Instituto Nacional Electoral, en los términos previstos por la ley y deberán satisfacer los siguientes requisitos:"
+    },
+    {
+      "id": "125.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › inciso a)",
+      "texto": "a) Los consejeros electorales deberán ser originarios del Estado de Guerrero o contar con una residencia efectiva de, por lo menos, cinco años anteriores a su designación;"
+    },
+    {
+      "id": "125.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › inciso b)",
+      "texto": "b) Cumplir con los requisitos y el perfil que acredite su idoneidad para el cargo que establezca la ley;"
+    },
+    {
+      "id": "125.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › inciso c)",
+      "texto": "c) En caso de que ocurra una vacante de consejero electoral, el Consejo General del Instituto Nacional Electoral hará la designación correspondiente atendiendo a lo dispuesto en el artículo 116, fracción IV, inciso c), numeral 2, de la Constitución Política de los Estados Unidos Mexicanos y la ley de la materia, de la siguiente manera:\n\n1° Si la vacante se verifica durante los primeros cuatro años de su encargo, se elegirá un sustituto para concluir el período; y, 2° Si la falta ocurriese dentro de los últimos tres años, se elegirá a un consejero para un nuevo periodo."
+    },
+    {
+      "id": "125.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › 5.",
+      "texto": "5. El Instituto Electoral y de Participación Ciudadana del Estado de Guerrero funcionará mediante un Consejo General, que actuará exclusivamente en Pleno."
+    }
+  ]
+}

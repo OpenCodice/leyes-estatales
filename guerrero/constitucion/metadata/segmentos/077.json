@@ -1,0 +1,36 @@
+{
+  "clave": "077",
+  "etiqueta": "Artículo 77",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "077.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. EDICIÓN 51 ALCANCE I, VIERNES 27 DE JUNIO DE 2025) DECRETO 828"
+    },
+    {
+      "id": "077.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 2",
+      "texto": "La elección de la Gobernadora o Gobernador será mediante sufragio universal, libre, secreto y directo, en los términos que disponga la ley electoral respectiva. La jornada electoral se llevará a cabo el primer domingo de junio del año que corresponda."
+    },
+    {
+      "id": "077.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 3",
+      "texto": "La jornada electoral se llevará a cabo el primer domingo de junio del año que corresponda."
+    }
+  ]
+}

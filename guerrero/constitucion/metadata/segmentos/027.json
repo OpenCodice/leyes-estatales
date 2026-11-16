@@ -1,0 +1,819 @@
+{
+  "clave": "027",
+  "etiqueta": "Artículo 27",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "027.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 1",
+      "texto": "Los municipios integrantes del Estado de Guerrero conservarán la extensión territorial que les reconoce la ley de la materia, y que son:"
+    },
+    {
+      "id": "027.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 1.",
+      "texto": "1. Acapulco de Juárez."
+    },
+    {
+      "id": "027.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 2.",
+      "texto": "2. Acatepec."
+    },
+    {
+      "id": "027.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 3.",
+      "texto": "3. Ahuacuotzingo."
+    },
+    {
+      "id": "027.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 4.",
+      "texto": "4. Ajuchitlán del Progreso."
+    },
+    {
+      "id": "027.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 5.",
+      "texto": "5. Alcozauca de Guerrero."
+    },
+    {
+      "id": "027.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 6.",
+      "texto": "6. Alpoyeca."
+    },
+    {
+      "id": "027.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 7.",
+      "texto": "7. Apaxtla de Castrejón."
+    },
+    {
+      "id": "027.8",
+      "tipo": "numeral",
+      "marca": "8",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 8.",
+      "texto": "8. Arcelia."
+    },
+    {
+      "id": "027.9",
+      "tipo": "numeral",
+      "marca": "9",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 9.",
+      "texto": "9. Atenango del Río."
+    },
+    {
+      "id": "027.10",
+      "tipo": "numeral",
+      "marca": "10",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 10.",
+      "texto": "10. Atlamajalcingo del Monte."
+    },
+    {
+      "id": "027.11",
+      "tipo": "numeral",
+      "marca": "11",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 11.",
+      "texto": "11. Atlixtac."
+    },
+    {
+      "id": "027.12",
+      "tipo": "numeral",
+      "marca": "12",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 12.",
+      "texto": "12. Atoyac de Álvarez."
+    },
+    {
+      "id": "027.13",
+      "tipo": "numeral",
+      "marca": "13",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 13.",
+      "texto": "13. Ayutla de los Libres."
+    },
+    {
+      "id": "027.14",
+      "tipo": "numeral",
+      "marca": "14",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 14.",
+      "texto": "14. Azoyú."
+    },
+    {
+      "id": "027.15",
+      "tipo": "numeral",
+      "marca": "15",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 15.",
+      "texto": "15. Benito Juárez."
+    },
+    {
+      "id": "027.16",
+      "tipo": "numeral",
+      "marca": "16",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 16.",
+      "texto": "16. Buenavista de Cuéllar."
+    },
+    {
+      "id": "027.17",
+      "tipo": "numeral",
+      "marca": "17",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 17.",
+      "texto": "17. Coahuayutla de José María Izazaga."
+    },
+    {
+      "id": "027.18",
+      "tipo": "numeral",
+      "marca": "18",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 18.",
+      "texto": "18. Cochoapa el Grande."
+    },
+    {
+      "id": "027.19",
+      "tipo": "numeral",
+      "marca": "19",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 19.",
+      "texto": "19. Cocula."
+    },
+    {
+      "id": "027.20",
+      "tipo": "numeral",
+      "marca": "20",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 20.",
+      "texto": "20. Copala."
+    },
+    {
+      "id": "027.21",
+      "tipo": "numeral",
+      "marca": "21",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 21.",
+      "texto": "21. Copalillo."
+    },
+    {
+      "id": "027.22",
+      "tipo": "numeral",
+      "marca": "22",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 22.",
+      "texto": "22. Copanatoyac."
+    },
+    {
+      "id": "027.23",
+      "tipo": "numeral",
+      "marca": "23",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 23.",
+      "texto": "23. Coyuca de Benítez."
+    },
+    {
+      "id": "027.24",
+      "tipo": "numeral",
+      "marca": "24",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 24.",
+      "texto": "24. Coyuca de Catalán."
+    },
+    {
+      "id": "027.25",
+      "tipo": "numeral",
+      "marca": "25",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 25.",
+      "texto": "25. Cuajinicuilapa."
+    },
+    {
+      "id": "027.26",
+      "tipo": "numeral",
+      "marca": "26",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 26.",
+      "texto": "26. Cualac."
+    },
+    {
+      "id": "027.27",
+      "tipo": "numeral",
+      "marca": "27",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 27.",
+      "texto": "27. Cuautepec."
+    },
+    {
+      "id": "027.28",
+      "tipo": "numeral",
+      "marca": "28",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 28.",
+      "texto": "28. Cuetzala del Progreso."
+    },
+    {
+      "id": "027.29",
+      "tipo": "numeral",
+      "marca": "29",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 29.",
+      "texto": "29. Cutzamala de Pinzón."
+    },
+    {
+      "id": "027.30",
+      "tipo": "numeral",
+      "marca": "30",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 30.",
+      "texto": "30. Chilapa de Álvarez."
+    },
+    {
+      "id": "027.31",
+      "tipo": "numeral",
+      "marca": "31",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 31.",
+      "texto": "31. Chilpancingo de los Bravo."
+    },
+    {
+      "id": "027.32",
+      "tipo": "numeral",
+      "marca": "32",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 32.",
+      "texto": "32. Eduardo Neri."
+    },
+    {
+      "id": "027.33",
+      "tipo": "numeral",
+      "marca": "33",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 33.",
+      "texto": "33. Florencio Villarreal."
+    },
+    {
+      "id": "027.34",
+      "tipo": "numeral",
+      "marca": "34",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 34.",
+      "texto": "34. General Canuto A. Neri."
+    },
+    {
+      "id": "027.35",
+      "tipo": "numeral",
+      "marca": "35",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 35.",
+      "texto": "35. General Heliodoro Castillo."
+    },
+    {
+      "id": "027.36",
+      "tipo": "numeral",
+      "marca": "36",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 36.",
+      "texto": "36. Huamuxtitlán."
+    },
+    {
+      "id": "027.37",
+      "tipo": "numeral",
+      "marca": "37",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 37.",
+      "texto": "37. Huitzuco de los Figueroa."
+    },
+    {
+      "id": "027.38",
+      "tipo": "numeral",
+      "marca": "38",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 38.",
+      "texto": "38. Iguala de la Independencia."
+    },
+    {
+      "id": "027.39",
+      "tipo": "numeral",
+      "marca": "39",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 39.",
+      "texto": "39. Igualapa."
+    },
+    {
+      "id": "027.40",
+      "tipo": "numeral",
+      "marca": "40",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 40.",
+      "texto": "40. Iliatenco."
+    },
+    {
+      "id": "027.41",
+      "tipo": "numeral",
+      "marca": "41",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 41.",
+      "texto": "41. Ixcateopan de Cuauhtémoc."
+    },
+    {
+      "id": "027.42",
+      "tipo": "numeral",
+      "marca": "42",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 42.",
+      "texto": "42. José Joaquín de Herrera."
+    },
+    {
+      "id": "027.43",
+      "tipo": "numeral",
+      "marca": "43",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 43.",
+      "texto": "43. Juan R. Escudero."
+    },
+    {
+      "id": "027.44",
+      "tipo": "numeral",
+      "marca": "44",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 44.",
+      "texto": "44. Juchitán."
+    },
+    {
+      "id": "027.45",
+      "tipo": "numeral",
+      "marca": "45",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 45.",
+      "texto": "45. La Unión de Isidoro Montes de Oca."
+    },
+    {
+      "id": "027.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 2",
+      "texto": "(ADICIONADO, P.O. EDICIÓN No. 40, DE FECHA VIERNES 20 DE MAYO DE 2022)"
+    },
+    {
+      "id": "027.46",
+      "tipo": "numeral",
+      "marca": "46",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 46.",
+      "texto": "46. Las Vigas."
+    },
+    {
+      "id": "027.47",
+      "tipo": "numeral",
+      "marca": "47",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 47.",
+      "texto": "47. Leonardo Bravo."
+    },
+    {
+      "id": "027.48",
+      "tipo": "numeral",
+      "marca": "48",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 48.",
+      "texto": "48. Malinaltepec."
+    },
+    {
+      "id": "027.49",
+      "tipo": "numeral",
+      "marca": "49",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 49.",
+      "texto": "49. Marquelia."
+    },
+    {
+      "id": "027.50",
+      "tipo": "numeral",
+      "marca": "50",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 50.",
+      "texto": "50. Mártir de Cuilapan."
+    },
+    {
+      "id": "027.51",
+      "tipo": "numeral",
+      "marca": "51",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 51.",
+      "texto": "51. Metlatónoc."
+    },
+    {
+      "id": "027.52",
+      "tipo": "numeral",
+      "marca": "52",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 52.",
+      "texto": "52. Mochitlán."
+    },
+    {
+      "id": "027.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 3",
+      "texto": "(ADICIONADO, P.O. EDICIÓN No. 40, DE FECHA VIERNES 20 DE MAYO DE 2022)"
+    },
+    {
+      "id": "027.53",
+      "tipo": "numeral",
+      "marca": "53",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 53.",
+      "texto": "53. Ñuu Savi."
+    },
+    {
+      "id": "027.54",
+      "tipo": "numeral",
+      "marca": "54",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 54.",
+      "texto": "54. Olinalá."
+    },
+    {
+      "id": "027.55",
+      "tipo": "numeral",
+      "marca": "55",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 55.",
+      "texto": "55. Ometepec."
+    },
+    {
+      "id": "027.56",
+      "tipo": "numeral",
+      "marca": "56",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 56.",
+      "texto": "56. Pedro Ascencio Alquisiras."
+    },
+    {
+      "id": "027.57",
+      "tipo": "numeral",
+      "marca": "57",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 57.",
+      "texto": "57. Petatlán."
+    },
+    {
+      "id": "027.58",
+      "tipo": "numeral",
+      "marca": "58",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 58.",
+      "texto": "58. Pilcaya."
+    },
+    {
+      "id": "027.59",
+      "tipo": "numeral",
+      "marca": "59",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 59.",
+      "texto": "59. Pungarabato."
+    },
+    {
+      "id": "027.60",
+      "tipo": "numeral",
+      "marca": "60",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 60.",
+      "texto": "60. Quechultenango."
+    },
+    {
+      "id": "027.61",
+      "tipo": "numeral",
+      "marca": "61",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 61.",
+      "texto": "61. San Luis Acatlán."
+    },
+    {
+      "id": "027.62",
+      "tipo": "numeral",
+      "marca": "62",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 62.",
+      "texto": "62. San Marcos."
+    },
+    {
+      "id": "027.63",
+      "tipo": "numeral",
+      "marca": "63",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 63.",
+      "texto": "63. San Miguel Totolapan."
+    },
+    {
+      "id": "027.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 4",
+      "texto": "(ADICIONADO, P.O. EDICIÓN No. 40, DE FECHA VIERNES 20 DE MAYO DE 2022)"
+    },
+    {
+      "id": "027.64",
+      "tipo": "numeral",
+      "marca": "64",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 64.",
+      "texto": "64. San Nicolás."
+    },
+    {
+      "id": "027.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 5",
+      "texto": "(ADICIONADO, P.O. EDICIÓN No. 40, DE FECHA VIERNES 20 DE MAYO DE 2022)"
+    },
+    {
+      "id": "027.65",
+      "tipo": "numeral",
+      "marca": "65",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 65.",
+      "texto": "65. Santa Cruz del Rincón."
+    },
+    {
+      "id": "027.66",
+      "tipo": "numeral",
+      "marca": "66",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 66.",
+      "texto": "66. Taxco de Alarcón."
+    },
+    {
+      "id": "027.67",
+      "tipo": "numeral",
+      "marca": "67",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 67.",
+      "texto": "67. Tecoanapa."
+    },
+    {
+      "id": "027.68",
+      "tipo": "numeral",
+      "marca": "68",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 68.",
+      "texto": "68. Tecpan de Galeana."
+    },
+    {
+      "id": "027.69",
+      "tipo": "numeral",
+      "marca": "69",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 69.",
+      "texto": "69. Teloloapan."
+    },
+    {
+      "id": "027.70",
+      "tipo": "numeral",
+      "marca": "70",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 70.",
+      "texto": "70. Tepecoacuilco de Trujano."
+    },
+    {
+      "id": "027.71",
+      "tipo": "numeral",
+      "marca": "71",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 71.",
+      "texto": "71. Tetipac."
+    },
+    {
+      "id": "027.72",
+      "tipo": "numeral",
+      "marca": "72",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 72.",
+      "texto": "72. Tixtla de Guerrero."
+    },
+    {
+      "id": "027.73",
+      "tipo": "numeral",
+      "marca": "73",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 73.",
+      "texto": "73. Tlacoachistlahuaca."
+    },
+    {
+      "id": "027.74",
+      "tipo": "numeral",
+      "marca": "74",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 74.",
+      "texto": "74. Tlacoapa."
+    },
+    {
+      "id": "027.75",
+      "tipo": "numeral",
+      "marca": "75",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 75.",
+      "texto": "75. Tlalchapa."
+    },
+    {
+      "id": "027.76",
+      "tipo": "numeral",
+      "marca": "76",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 76.",
+      "texto": "76. Tlalixtaquilla de Maldonado."
+    },
+    {
+      "id": "027.77",
+      "tipo": "numeral",
+      "marca": "77",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 77.",
+      "texto": "77. Tlapa de Comonfort."
+    },
+    {
+      "id": "027.78",
+      "tipo": "numeral",
+      "marca": "78",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 78.",
+      "texto": "78. Tlapehuala."
+    },
+    {
+      "id": "027.79",
+      "tipo": "numeral",
+      "marca": "79",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 79.",
+      "texto": "79. Xalpatláhuac."
+    },
+    {
+      "id": "027.80",
+      "tipo": "numeral",
+      "marca": "80",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 80.",
+      "texto": "80. Xochihuehuetlán."
+    },
+    {
+      "id": "027.81",
+      "tipo": "numeral",
+      "marca": "81",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 81.",
+      "texto": "81. Xochistlahuaca."
+    },
+    {
+      "id": "027.82",
+      "tipo": "numeral",
+      "marca": "82",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 82.",
+      "texto": "82. Zapotitlán Tablas."
+    },
+    {
+      "id": "027.83",
+      "tipo": "numeral",
+      "marca": "83",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 83.",
+      "texto": "83. Zihuatanejo de Azueta."
+    },
+    {
+      "id": "027.84",
+      "tipo": "numeral",
+      "marca": "84",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 84.",
+      "texto": "84. Zirándaro."
+    },
+    {
+      "id": "027.85",
+      "tipo": "numeral",
+      "marca": "85",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › 85.",
+      "texto": "85. Zitlala."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "164",
+  "etiqueta": "Artículo 164",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "164.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 164 › párrafo 1",
+      "texto": "(REFORMADO, P.O. EDICIÓN 68 ALCANCE II, DE FECHA MARTES 26 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "164.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 164 › párrafo 2",
+      "texto": "El Instituto de la Defensoría Pública del Estado de Guerrero es un órgano con autonomía técnica y de gestión del Poder Judicial del Estado, dependiente del Órgano de Administración Judicial. Tiene por objeto procurar el derecho a una defensa y asesoría integral, ininterrumpida, oportuna y especializada ante los órganos jurisdiccionales de dicho poder. En el ejercicio de su función, deberá observar los principios de gratuidad, probidad, independencia técnica, calidad, confidencialidad, profesionalismo y obligatoriedad."
+    }
+  ]
+}

@@ -1,0 +1,81 @@
+{
+  "clave": "181",
+  "etiqueta": "Artículo 181",
+  "titulo": "TÍTULO DÉCIMO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "181.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 181 › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. EDICIÓN 51 ALCANCE I, 27 DE JUNIO DE 2025) D- 828"
+    },
+    {
+      "id": "181.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 181 › párrafo 2",
+      "texto": "La Hacienda Pública del Estado será administrada por la Gobernadora o Gobernador del Estado de Guerrero, en los términos que señalen las leyes respectivas."
+    },
+    {
+      "id": "181.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 181 › 1.",
+      "texto": "1. Todo servidor público o empleado que maneje fondos públicos del Estado o del municipio deberá otorgar fianza en términos de ley;"
+    },
+    {
+      "id": "181.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 181 › 2.",
+      "texto": "2. Los servidores públicos del Estado y de los municipios tienen la obligación de aplicar los recursos públicos que están bajo su responsabilidad con racionalidad presupuestaria, imparcialidad, eficiencia, eficacia, economía, transparencia, honradez, oportunidad y máxima publicidad, para satisfacer los objetivos a los que estén destinados;"
+    },
+    {
+      "id": "181.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 181 › 3.",
+      "texto": "3. Las finanzas públicas del Estado deberán ceñirse a criterios de racionalidad y de estricta disciplina fiscal, procurando que el nivel de gasto establecido anualmente en el presupuesto de egresos sea igual o inferior a los ingresos previstos para el mismo ejercicio fiscal;"
+    },
+    {
+      "id": "181.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 181 › 4.",
+      "texto": "4. Los contratos administrativos que se celebren se ajustarán a los principios de legalidad, publicidad, igualdad, concurrencia, transparencia y máxima publicidad, en los términos dispuestos en la ley;"
+    },
+    {
+      "id": "181.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 181 › 5.",
+      "texto": "5. Los miembros de la administración pública estatal, serán responsables solidarios de los actos y hechos ilícitos que se cometan en la administración de los fondos estatales a su cargo; y,"
+    },
+    {
+      "id": "181.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 181 › 6.",
+      "texto": "6. La ley determinará la organización y funcionamiento de las oficinas y dependencias de la hacienda pública del Estado."
+    }
+  ]
+}

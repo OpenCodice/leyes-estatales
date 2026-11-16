@@ -1,0 +1,45 @@
+{
+  "clave": "157",
+  "etiqueta": "Artículo 157",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "157.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 157 › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. EDICIÓN 51 ALCANCE I, VIERNES 27 DE JUNIO DE 2025) DECRETO 828"
+    },
+    {
+      "id": "157.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 157 › párrafo 2",
+      "texto": "El Consejo de Políticas Públicas ejercerá su función mediante la planificación, diseño, seguimiento y verificación de resultados de políticas públicas dirigidas al desarrollo social del Estado, a través de la consulta y asesoría a la Gobernadora o Gobernador y a la administración pública estatal y municipal, procurando que la acción del gobierno se dirija al cumplimiento de objetivos y metas verificables en su eficacia y eficiencia."
+    },
+    {
+      "id": "157.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 157 › 1.",
+      "texto": "1. En el ejercicio de su función deberá observar los principios de objetividad, especialización, profesionalismo, ética, transparencia y máxima publicidad; y,"
+    },
+    {
+      "id": "157.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 157 › 2.",
+      "texto": "2. El Consejo coordinará sus actividades, en los términos que disponga la ley, con el Consejo Nacional de Evaluación de la Política de Desarrollo Social."
+    }
+  ]
+}

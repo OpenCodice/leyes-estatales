@@ -1,0 +1,54 @@
+{
+  "clave": "081",
+  "etiqueta": "Artículo 81",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "081.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 1",
+      "texto": "(REFORMADO, P.O. EDICIÓN 51 ALCANCE I, VIERNES 27 DE JUNIO DE 2025) DECRETO 828"
+    },
+    {
+      "id": "081.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 2",
+      "texto": "El mandato de la Gobernadora o Gobernador será de seis años improrrogables"
+    },
+    {
+      "id": "081.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › 1.",
+      "texto": "1. La Gobernadora o Gobernador cuyo origen sea la elección popular no podrá volver a ocupar ese cargo bajo ningún carácter;"
+    },
+    {
+      "id": "081.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › 2.",
+      "texto": "2. La Gobernadora o Gobernador sustituto, o aquel que se designe para concluir el período en caso de falta absoluta no podrá ser electo para el periodo inmediato; y,"
+    },
+    {
+      "id": "081.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › 3.",
+      "texto": "3. La Gobernadora o Gobernador interino, provisional, o el ciudadano que bajo cualquier denominación supla las faltas temporales del Gobernador, no podrá ser electo para el periodo inmediato, siempre que desempeñe el cargo los dos últimos años del período."
+    }
+  ]
+}

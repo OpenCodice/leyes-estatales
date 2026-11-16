@@ -1,0 +1,27 @@
+{
+  "clave": "110",
+  "etiqueta": "Artículo 110",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "110.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › párrafo 1",
+      "texto": "Los Órganos Autónomos tendrán un presidente designado por el periodo que corresponda y en quien recaerá la representación legal e institucional del órgano, su administración y gobierno interior, en términos de su ley orgánica."
+    },
+    {
+      "id": "110.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › párrafo 2",
+      "texto": "Las leyes definirán la forma y las modalidades de su designación, sus responsabilidades, derechos y obligaciones."
+    }
+  ]
+}

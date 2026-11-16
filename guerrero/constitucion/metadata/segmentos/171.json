@@ -1,0 +1,54 @@
+{
+  "clave": "171",
+  "etiqueta": "Artículo 171",
+  "titulo": "TÍTULO DÉCIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "171.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 171 › párrafo 1",
+      "texto": "Los municipios ejercerán sus competencias a través de un órgano representativo de elección popular directa y deliberante denominado Ayuntamiento y, excepcionalmente, por concejos municipales, en los términos dispuestos en la ley;"
+    },
+    {
+      "id": "171.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 171 › 1.",
+      "texto": "1. Los Ayuntamientos ejercerán el gobierno municipal y no habrá autoridad intermedia alguna entre éste y los Poderes del Estado;"
+    },
+    {
+      "id": "171.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 171 › párrafo 2",
+      "texto": "(REFORMADO P.O. EDICIÓN 51 ALCANCE I, VIERNES 27 DE JUNIO DE 2025. DECRETO 678"
+    },
+    {
+      "id": "171.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 171 › 2.",
+      "texto": "2. Los Ayuntamientos se instalarán el 01 de enero del año siguiente al de la elección; y,"
+    },
+    {
+      "id": "171.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 171 › 3.",
+      "texto": "3. La administración pública municipal se conformará y organizará según determine la ley respectiva."
+    }
+  ]
+}

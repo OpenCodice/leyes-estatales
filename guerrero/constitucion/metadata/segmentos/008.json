@@ -1,0 +1,36 @@
+{
+  "clave": "008",
+  "etiqueta": "Artículo 8",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "008.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 1",
+      "texto": "(REFORMADO, P.O. EDICIÓN 13 ALCANCE IV, DE FECHA VIERNES 13 DE FEBRERO DE 2026)"
+    },
+    {
+      "id": "008.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 2",
+      "texto": "El Estado de Guerrero sustenta su identidad multiétnica, plurilingüística y pluricultural en la grandeza de sus pueblos y comunidades indígenas y afromexicanas."
+    },
+    {
+      "id": "008.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 3",
+      "texto": "Se reconocen como pueblos originarios indígenas a los Nahuas o Náhualt, Na Nuu Savi o Mixteco, Me’phaa o Tlapaneco y Nn´anncue Ñonmdaa o Amuzgo."
+    }
+  ]
+}

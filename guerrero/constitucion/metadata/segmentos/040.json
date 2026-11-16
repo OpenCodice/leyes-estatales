@@ -1,0 +1,72 @@
+{
+  "clave": "040",
+  "etiqueta": "Artículo 40",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "040.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 1",
+      "texto": "La duración de las campañas electorales en el Estado será de:"
+    },
+    {
+      "id": "040.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 2",
+      "texto": "(REFORMADA P.O. EDICIÓN 51 ALCANCE I, VIERNES 27 DE JUNIO DE 2025) DECRETO 828"
+    },
+    {
+      "id": "040.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › Fracción I",
+      "texto": "I. Un máximo de noventa días para elegir Gobernadora o Gobernador;\n\n(REFORMADA P.O. EDICIÓN 51 ALCANCE I, VIERNES 27 DE JUNIO DE 2025) DECRETO 828"
+    },
+    {
+      "id": "040.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › Fracción II",
+      "texto": "II. Un máximo de sesenta días para elegir Diputadas o Diputados; y,"
+    },
+    {
+      "id": "040.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › Fracción III",
+      "texto": "III. Un máximo de cuarenta días para elegir ayuntamientos."
+    },
+    {
+      "id": "040.III.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 40 › Fracción III › 1.",
+      "texto": "1. Las precampañas de los partidos políticos para la selección interna de candidatos, en ningún caso podrán durar más de dos terceras partes de las respectivas campañas electorales; y,"
+    },
+    {
+      "id": "040.III.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 40 › Fracción III › 2.",
+      "texto": "2. La ley establecerá las normas a que se sujetarán las campañas y precampañas electorales, así como las sanciones para quienes las infrinjan."
+    }
+  ]
+}

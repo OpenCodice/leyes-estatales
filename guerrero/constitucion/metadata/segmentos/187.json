@@ -1,0 +1,27 @@
+{
+  "clave": "187",
+  "etiqueta": "Artículo 187",
+  "titulo": "TÍTULO DÉCIMO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "187.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 187 › párrafo 1",
+      "texto": "El Estado garantizará y promoverá la educación en todos sus tipos y modalidades, a través de mecanismos de colaboración con la Federación, o bien por conducto de particulares con capacidad reconocida, mediante autorización o incorporación al sistema estatal de educación."
+    },
+    {
+      "id": "187.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 187 › párrafo 2",
+      "texto": "El Estado impartirá de manera obligatoria la educación preescolar, primaria, secundaria y media superior."
+    }
+  ]
+}

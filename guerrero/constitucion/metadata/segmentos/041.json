@@ -1,0 +1,45 @@
+{
+  "clave": "041",
+  "etiqueta": "Artículo 41",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "041.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › párrafo 1",
+      "texto": "Ninguna persona física o moral, a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión, dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de determinadas candidaturas o precandidaturas a puestos de elección popular."
+    },
+    {
+      "id": "041.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › 1.",
+      "texto": "1. La prohibición comprende la contratación en el extranjero o en estados aledaños, de todo tipo de mensajes en los canales de radio y televisión que tengan cobertura en el Estado;"
+    },
+    {
+      "id": "041.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › 2.",
+      "texto": "2. Durante las campañas electorales y hasta la conclusión de la jornada electoral, deberá suspenderse la difusión en los medios de comunicación pública o social de toda propaganda gubernamental de los Poderes federales, estatales y municipales, de los órganos autónomos y con autonomía técnica; y,"
+    },
+    {
+      "id": "041.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › 3.",
+      "texto": "3. Las únicas excepciones a lo dispuesto en el párrafo anterior serán las campañas de información de inminente interés general de los Poderes públicos, las autoridades electorales y los órganos autónomos del Estado, en los términos dispuestos en las leyes."
+    }
+  ]
+}

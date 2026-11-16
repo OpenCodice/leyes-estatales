@@ -1,0 +1,27 @@
+{
+  "clave": "080",
+  "etiqueta": "Artículo 80",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "080.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 1",
+      "texto": "(REFORMADO, P.O. EDICIÓN 51 ALCANCE I, VIERNES 27 DE JUNIO DE 2025) DECRETO 828"
+    },
+    {
+      "id": "080.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 2",
+      "texto": "El cargo de Gobernadora o Gobernador constitucional sólo será renunciable por causa grave calificada por las dos terceras partes del total de los miembros del Congreso del Estado."
+    }
+  ]
+}
