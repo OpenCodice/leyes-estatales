@@ -1,0 +1,27 @@
+{
+  "clave": "148",
+  "etiqueta": "Artículo 148",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "148.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148 › párrafo 1",
+      "texto": "Los procedimientos para la aplicación de las sanciones mencionadas en el presente Título, se desarrollarán autónomamente. No podrán imponerse dos veces por una sola conducta, sanciones de la misma naturaleza."
+    },
+    {
+      "id": "148.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148 › párrafo 2",
+      "texto": "Cualquier ciudadano, bajo su más estricta responsabilidad, y con apoyo en pruebas suficientes, podrá formular denuncias ante el Congreso del Estado o las Autoridades competentes, por cualquiera de las conductas y contra los servidores públicos a que se refiere este Titulo."
+    }
+  ]
+}

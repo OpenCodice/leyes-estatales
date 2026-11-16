@@ -1,0 +1,18 @@
+{
+  "clave": "111",
+  "etiqueta": "Artículo 111",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "111.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 1",
+      "texto": "Para ser Defensor de Oficio se necesitan los mismos requisitos que para ser Agente del Ministerio Público."
+    }
+  ]
+}

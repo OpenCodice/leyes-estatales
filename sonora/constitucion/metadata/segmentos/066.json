@@ -1,0 +1,144 @@
+{
+  "clave": "066",
+  "etiqueta": "Artículo 66",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "066.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › párrafo 1",
+      "texto": "Son facultades de la Diputación Permanente:"
+    },
+    {
+      "id": "066.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › Fracción I",
+      "texto": "I.- Conceder o negar las licencias a que se refiere la fracción XVI del Artículo 64 de esta Constitución."
+    },
+    {
+      "id": "066.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › Fracción II",
+      "texto": "II.- Conceder licencia a los Magistrados del Supremo Tribunal de Justicia y de los Tribunales de Justicia Administrativa."
+    },
+    {
+      "id": "066.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › Fracción III",
+      "texto": "III.- Vigilar la exacta observancia de la Constitución General, la particular del Estado y las leyes que de éstas emanen, dando cuenta al Congreso de las infracciones que advierta."
+    },
+    {
+      "id": "066.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › Fracción IV",
+      "texto": "IV.- Circular la convocatoria a sesiones extraordinarias por medio del Presidente, si después del tercer día de comunicada al Ejecutivo éste no lo hubiese hecho."
+    },
+    {
+      "id": "066.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › Fracción V",
+      "texto": "V.- Constituirse en Colegio Electoral y nombrar en los términos de Ley al ciudadano que deba substituir al Gobernador en sus faltas temporales o absolutas, mientras se reúne el Congreso para que ratifique dicho nombramiento o haga nueva designación."
+    },
+    {
+      "id": "066.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › Fracción VI",
+      "texto": "VI.- Recibir durante sus funciones las protestas que deban otorgarse ante el Congreso."
+    },
+    {
+      "id": "066.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › Fracción VII",
+      "texto": "VII.- Convocar al Congreso a sesiones extraordinarias para que provea el nombramiento respectivo cuando se trate de cubrir las ausencias del Gobernador.\n\nVII BIS.- Convocar al Congreso a sesiones extraordinarias en cualquiera de los siguientes casos:"
+    },
+    {
+      "id": "066.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › Apartado A",
+      "texto": "A).- Inmediatamente después de que la Diputación Permanente reciba uno o más dictámenes aprobados por las comisiones dictaminadoras que impliquen la creación, modificación, derogación o abrogación de una ley;"
+    },
+    {
+      "id": "066.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › Apartado B",
+      "texto": "B).- En todos aquellos casos de la competencia del Congreso que a juicio de la Diputación Permanente sean de gravedad o urgencia;"
+    },
+    {
+      "id": "066.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › Apartado C",
+      "texto": "C).- Cuando se trate de faltas u omisiones cometidas por servidores públicos en la hipótesis de la fracción I del artículo 144 de esta Constitución; y D).- Cuando se trate de la comisión de los delitos de servidores públicos que se previenen por el primer párrafo del artículo 146 de esta Constitución."
+    },
+    {
+      "id": "066.C.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 66 › Apartado C › Fracción VIII",
+      "texto": "VIII.- Dictaminar únicamente los asuntos cuya resolución definitiva sea de su exclusiva competencia."
+    },
+    {
+      "id": "066.C.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 66 › Apartado C › Fracción IX",
+      "texto": "IX.- Conceder permiso provisional al Gobernador del Estado a fin de que pueda asumir el mando inmediato y personalmente, en campaña, de la Guardia Nacional y demás fuerzas del Estado. Este permiso quedará sujeto a la aprobación del Congreso."
+    },
+    {
+      "id": "066.C.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 66 › Apartado C › Fracción X",
+      "texto": "X.- Convocar al Congreso a sesiones extraordinarias cuando el Ejecutivo lo solicite."
+    },
+    {
+      "id": "066.C.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 66 › Apartado C › Fracción XI",
+      "texto": "XI.- Las demás que expresamente le confiere esta Constitución."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "112",
+  "etiqueta": "Artículo 112",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "112.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › párrafo 1",
+      "texto": "El Poder Judicial del Estado se depositará, para su ejercicio, en un Supremo Tribunal de Justicia, en Tribunales Regionales de Circuito, tribunales laborales y en Juzgados."
+    },
+    {
+      "id": "112.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › párrafo 2",
+      "texto": "Existirá, además, un Tribunal de Disciplina Judicial el cual estará a cargo de la observancia del personal del Poder Judicial del Estado y un Órgano de Administración del Poder Judicial del Estado de Sonora, como un órgano permanente de la administración de justicia, en los términos que establezca la Constitución y las leyes que de ella emanen."
+    },
+    {
+      "id": "112.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › párrafo 3",
+      "texto": "Las resoluciones judiciales deberán emitirse de manera pronta, completa e imparcial, debiéndose garantizar su ejecución a través de los procedimientos idóneos que consignen las leyes aplicables y los plazos que establezca la Constitución Federal y las leyes aplicables."
+    },
+    {
+      "id": "112.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › párrafo 4",
+      "texto": "El servicio judicial será gratuito; en consecuencia, quedan prohibidas las costas judiciales."
+    }
+  ]
+}

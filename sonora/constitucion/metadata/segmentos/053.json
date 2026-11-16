@@ -1,0 +1,63 @@
+{
+  "clave": "053",
+  "etiqueta": "Artículo 53",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "053.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › párrafo 1",
+      "texto": "El derecho de iniciar leyes compete:"
+    },
+    {
+      "id": "053.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › Fracción I",
+      "texto": "I. Al Ejecutivo del Estado."
+    },
+    {
+      "id": "053.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › Fracción II",
+      "texto": "II. Al Supremo Tribunal de Justicia."
+    },
+    {
+      "id": "053.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › Fracción III",
+      "texto": "III. A los Diputados al Congreso de Sonora."
+    },
+    {
+      "id": "053.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › Fracción IV",
+      "texto": "IV. A los Ayuntamientos del Estado."
+    },
+    {
+      "id": "053.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › Fracción V",
+      "texto": "V. A los ciudadanos que representen el 1% del total inscrito en el Padrón Estatal Electoral, conforme a los términos que establezca la Ley.\n\nEl día de la apertura de cada periodo ordinario de sesiones el Gobernador del Estado podrá presentar hasta cuatro iniciativas para trámite preferente, o señalar con tal carácter hasta cuatro que hubiere presentado en periodos anteriores, cuando estén pendientes de dictamen. Cada iniciativa deberá ser discutida y votada por el Pleno del Congreso del Estado en un plazo máximo de treinta días naturales. Si no fuere así, la iniciativa, en sus términos y sin mayor trámite, será el primer asunto que deberá ser discutido y votado en la siguiente sesión del Pleno.\n\nSerán publicadas en el medio de comunicación oficial del Congreso del Estado cuando menos, con dos días naturales de anticipación, la convocatoria que expida la Diputación Permanente a sesiones extraordinarias así como el proyecto de orden del día de cada sesión ordinaria y las iniciativas que se discutirán. Las dispensas legislativas sólo procederán cuando sean publicadas con la misma antelación a que se refiere este párrafo."
+    }
+  ]
+}

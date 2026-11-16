@@ -1,0 +1,27 @@
+{
+  "clave": "161",
+  "etiqueta": "Artículo 161",
+  "titulo": "TITULO SÉPTIMO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "161.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 161 › párrafo 1",
+      "texto": "Ningún funcionario o empleado en ejercicio podrá ser representante, apoderado, o abogado en negocios ajenos ante los tribunales ni ante las demás autoridades públicas."
+    },
+    {
+      "id": "161.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 161 › párrafo 2",
+      "texto": "La prohibición anterior se entiende impuesta a los Magistrados suplentes cuando estén en ejercicio por un plazo mayor de dos meses."
+    }
+  ]
+}

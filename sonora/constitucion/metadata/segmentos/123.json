@@ -1,0 +1,18 @@
+{
+  "clave": "123",
+  "etiqueta": "Artículo 123",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "123.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 1",
+      "texto": "Los Magistrados del Supremo Tribunal de Justicia, los Magistrados Regionales de Circuito, los Jueces de Primera Instancia, los Jueces Laborales y los Jueces Locales que estén en funciones, exceptuándose los casos que específicamente determine la ley respecto de los suplentes, no pueden ser abogados en causa ajena, apoderados, asesores o árbitros de derecho, ni desempeñar ningún empleo, cargo o comisión de la Federación, del Gobierno del Estado, de otras entidades, de los municipios, o de particulares, salvo los cargos docentes y los honoríficos en asociaciones científicas o artísticas, siempre y cuando estos últimos no interfieran con el horario normal de las labores judiciales."
+    }
+  ]
+}

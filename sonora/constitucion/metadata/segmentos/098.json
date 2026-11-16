@@ -1,0 +1,90 @@
+{
+  "clave": "098",
+  "etiqueta": "Artículo 98",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "098.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 1",
+      "texto": "El Fiscal General durará en su encargo seis años y los Fiscales Especializados durarán en su encargo cuatro años. Tendrán la posibilidad de ser ratificados por las dos terceras partes de los Diputados presentes en la sesión correspondiente del Congreso del Estado por un periodo más."
+    },
+    {
+      "id": "098.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 2",
+      "texto": "El Fiscal y los Fiscales Especializados serán designados por el Congreso del Estado mediante el voto de las dos terceras partes de los Diputados presentes en la sesión correspondiente, a propuesta del titular del Poder Ejecutivo."
+    },
+    {
+      "id": "098.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 3",
+      "texto": "A partir de la ausencia definitiva del Fiscal General o alguno de los Fiscales Especializados, el Titular del Ejecutivo contará con diez días naturales para presentar al Congreso la nueva propuesta."
+    },
+    {
+      "id": "098.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 4",
+      "texto": "El Congreso deberá realizar la designación correspondiente en un plazo improrrogable de treinta días naturales, a partir de que reciba la propuesta del Gobernador. Si finaliza dicho plazo sin que el Congreso haya realizado la designación, se entenderá la aprobación tácita del nombramiento."
+    },
+    {
+      "id": "098.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 5",
+      "texto": "Ante el rechazo de la propuesta enviada por el Titular del Ejecutivo, éste enviará una nueva, la cual requerirá para su aprobación una votación de la mitad más uno de los legisladores presentes."
+    },
+    {
+      "id": "098.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 6",
+      "texto": "El Fiscal General presentará, en lo individual y de forma anual, a los Poderes Legislativo y Ejecutivo del Estado, un informe de actividades. Además, deberá comparecer ante el Congreso cuando se le cite a rendir cuentas o a informar sobre su gestión."
+    },
+    {
+      "id": "098.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 7",
+      "texto": "La ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía General y de las Fiscalías Especializadas, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos."
+    },
+    {
+      "id": "098.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 8",
+      "texto": "El Fiscal General, así como sus agentes, serán responsables de toda falta, omisión o violación a la ley en que incurran con motivo de sus funciones."
+    },
+    {
+      "id": "098.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 9",
+      "texto": "El Fiscal General y los Fiscales Especializados podrán ser removidos por el voto de las dos terceras partes de los Diputados presentes en la sesión correspondiente por las causas graves que establezca la ley."
+    }
+  ]
+}

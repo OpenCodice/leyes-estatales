@@ -1,0 +1,27 @@
+{
+  "clave": "122",
+  "etiqueta": "Artículo 122",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "122.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122 › párrafo 1",
+      "texto": "El Pleno del Supremo Tribunal de Justicia nombrará al Secretario General de Acuerdos del Supremo Tribunal de Justicia y a los demás funcionarios y empleados de su adscripción."
+    },
+    {
+      "id": "122.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122 › párrafo 2",
+      "texto": "Los Magistrados Regionales de Circuito, los Jueces de Primera Instancia y los Jueces Laborales nombrarán a los servidores públicos de los Tribunales Regionales de Circuito, Juzgados de Primera Instancia y Tribunales Laborales, respectivamente, conforme a lo que establezca la ley en relación con la carrera judicial."
+    }
+  ]
+}

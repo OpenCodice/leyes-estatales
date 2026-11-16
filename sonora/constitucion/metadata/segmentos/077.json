@@ -1,0 +1,45 @@
+{
+  "clave": "077",
+  "etiqueta": "Artículo 77",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "077.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 1",
+      "texto": "En las ausencias o faltas temporales del Gobernador del Estado, se observarán las siguientes disposiciones:"
+    },
+    {
+      "id": "077.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción I",
+      "texto": "I.- Podrá ausentarse hasta por treinta días, sin necesidad de dar aviso y sin perder su carácter de Gobernador;"
+    },
+    {
+      "id": "077.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción II",
+      "texto": "II.- Si la ausencia excede de treinta días, pero no de noventa, el Gobernador deberá dar aviso al Congreso o a la Diputación Permanente, en cuyo caso quedará encargado del Despacho el Secretario de Gobierno;"
+    },
+    {
+      "id": "077.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción III",
+      "texto": "III.- Si la ausencia o separación es mayor de noventa días, el Gobernador deberá recabar la licencia o permiso correspondiente del Congreso o de la Diputación Permanente, según el caso, quienes designarán a la persona que asumirá las funciones de Gobernador Interino o Provisional, para que supla durante el tiempo de la ausencia, en términos de las fracciones XVII del Artículo 64 y V del Artículo 66."
+    }
+  ]
+}

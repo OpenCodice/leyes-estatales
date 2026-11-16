@@ -1,0 +1,90 @@
+{
+  "clave": "143-a",
+  "etiqueta": "Artículo 143 A",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "143-a.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 143 A › párrafo 1",
+      "texto": "El Sistema Estatal Anticorrupción es la instancia de coordinación entre las autoridades de todos los órdenes de gobierno competentes en la prevención, detección y sanción de responsabilidades administrativas y hechos de corrupción, así como en la fiscalización y control de recursos públicos. Para el cumplimiento de su objeto se sujetará a las siguientes bases mínimas:"
+    },
+    {
+      "id": "143-a.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 143 A › Fracción I",
+      "texto": "I.- El Sistema contará con un Comité Coordinador que estará integrado por las y los titulares del Instituto Superior de Auditoría y Fiscalización; de la Fiscalía Especializada Anticorrupción; de la Secretaría del Ejecutivo del Estado responsable del control interno; por el presidente del Tribunal de Justicia Administrativa; así como por un representante del Consejo del Poder Judicial del Estado y otro del Comité de Participación Ciudadana;"
+    },
+    {
+      "id": "143-a.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 143 A › Fracción II",
+      "texto": "II.- El Comité de Participación Ciudadana del Sistema deberá integrarse por cinco ciudadanos que se hayan destacado por su contribución a la transparencia, la rendición de cuentas o el combate a la corrupción y serán designados en los términos que establezca la ley; y"
+    },
+    {
+      "id": "143-a.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 143 A › Fracción III",
+      "texto": "III.- Corresponderá al Comité Coordinador del Sistema, en los términos que determine la Ley:"
+    },
+    {
+      "id": "143-a.III.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 143 A › Fracción III › inciso a)",
+      "texto": "a) El establecimiento de mecanismos de coordinación con los sistemas locales;"
+    },
+    {
+      "id": "143-a.III.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 143 A › Fracción III › inciso b)",
+      "texto": "b) El diseño y promoción de políticas integrales en materia de fiscalización y control de recursos públicos, de prevención, control y disuasión de faltas administrativas y hechos de corrupción, en especial sobre las causas que los generan;"
+    },
+    {
+      "id": "143-a.III.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 143 A › Fracción III › inciso c)",
+      "texto": "c) La determinación de los mecanismos de suministro, intercambio, sistematización y actualización de la información que sobre estas materias generen las instituciones competentes de los órdenes de gobierno;"
+    },
+    {
+      "id": "143-a.III.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 143 A › Fracción III › inciso d)",
+      "texto": "d) El establecimiento de bases y principios para la efectiva coordinación de las autoridades de los órdenes de gobierno en materia de fiscalización y control de los recursos públicos;"
+    },
+    {
+      "id": "143-a.III.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 143 A › Fracción III › inciso e)",
+      "texto": "e) La elaboración de un informe anual que contenga los avances y resultados del ejercicio de sus funciones y de la aplicación de políticas y programas en la materia.\n\nDerivado de este informe, podrá emitir recomendaciones no vinculantes a las autoridades, con el objeto de que adopten medidas dirigidas al fortalecimiento institucional para la prevención de faltas administrativas y hechos de corrupción, así como al mejoramiento de su desempeño y del control interno. Las autoridades destinatarias de las recomendaciones informarán al Comité sobre la atención que brinden a las mismas."
+    }
+  ]
+}
