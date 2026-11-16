@@ -1,0 +1,27 @@
+{
+  "clave": "093",
+  "etiqueta": "Artículo 93",
+  "titulo": "Título Noveno",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "093.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › párrafo 1",
+      "texto": "La Fiscalía General del Estado, contará con las Fiscalías de Materia y de Distrito, necesarias para el cumplimiento de los fines del Ministerio Público, cuyos titulares serán nombrados y removidos libremente por el Fiscal General del Estado. La Ley establecerá la organización y funcionamiento de la Fiscalía General del Estado."
+    },
+    {
+      "id": "093.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › párrafo 2",
+      "texto": "El nombramiento y remoción de los Fiscales de Delitos Electorales, y de Combate a la Corrupción, podrán ser objetados por los diputados por el voto de las dos terceras partes de los miembros presentes, en el plazo que señale la ley, si no existiere objeción en ese plazo, se entenderá que no se tiene objeción al respecto."
+    }
+  ]
+}

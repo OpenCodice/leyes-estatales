@@ -1,0 +1,36 @@
+{
+  "clave": "055",
+  "etiqueta": "Artículo 55",
+  "titulo": "Título Sexto",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "055.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 55 › párrafo 1",
+      "texto": "En caso de falta absoluta del Gobernador del Estado, se procederá de la siguiente manera:"
+    },
+    {
+      "id": "055.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 55 › Fracción I",
+      "texto": "I.- Cuando la falta ocurra en los primeros dos años del periodo inmediatamente después de la elección, si el Congreso del Estado estuviere en funciones, inmediatamente se constituirá en Colegio Electoral y, con la concurrencia de cuando menos las dos terceras partes del número total de sus miembros, nombrará en escrutinio secreto y por mayoría calificada de las dos terceras partes de los miembros presentes, un Gobernador Interino; el mismo Congreso expedirá la convocatoria para elecciones en un plazo no mayor de diez días naturales, contados a partir del siguiente al del nombramiento de Gobernador Interino.\n\nSi el Congreso del Estado estuviere en receso, la Comisión Permanente nombrará a la brevedad, por mayoría simple, un Gobernador provisional y convocará en un plazo de diez días naturales a Sesión Extraordinaria a fin de que el Congreso del Estado designe al Gobernador interino y expida la convocatoria para elección de Gobernador."
+    },
+    {
+      "id": "055.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 55 › Fracción II",
+      "texto": "II. Cuando la falta absoluta del Gobernador ocurra en los últimos cuatro años del periodo, si el Congreso del Estado se encontrare en sesiones, se elegirá con la concurrencia de cuando menos las dos terceras partes del número total de sus miembros y por mayoría calificada de dos terceras partes de los presentes, en escrutinio secreto, al Gobernador Sustituto, quien deberá concluir el periodo.\n\n(REFORMA PUBLICADA MEDIANTE P.O. NUM. 390 DE FECHA 30 DE AGOSTO DE 2018, DECRETO 274)\n\nSi el Congreso no estuviere reunido, la Comisión Permanente nombrará por mayoría simple un Gobernador Provisional y convocará, dentro del plazo de siete días naturales al Congreso a Sesión Extraordinaria, para que, erigido en Colegio Electoral, haga la designación del Gobernador Sustituto."
+    }
+  ]
+}

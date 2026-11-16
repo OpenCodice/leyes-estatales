@@ -1,0 +1,45 @@
+{
+  "clave": "069",
+  "etiqueta": "Artículo 69",
+  "titulo": "Título Sexto",
+  "capitulo": "Capítulo IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "069.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 1",
+      "texto": "El Gobernador podrá optar por un gobierno de coalición cuyo programa contará con el apoyo de la mayoría de los miembros del Congreso. La norma en la materia regulará los supuestos en que los porcentajes de votación válida total obtenida hará obligatoria su integración."
+    },
+    {
+      "id": "069.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 2",
+      "texto": "El Gobernador presidirá el gabinete, cuyos integrantes serán sometidos a la ratificación del Congreso. Habrá un vocero del gabinete que informará de manera periódica al congreso acerca del cumplimiento del programa de gobierno."
+    },
+    {
+      "id": "069.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 3",
+      "texto": "La norma en la materia regulará los supuestos y requisitos para su integración, su funcionamiento y la forma en que el Gobernador podrá dar por concluido el Gobierno de Coalición"
+    },
+    {
+      "id": "069.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 4",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NUM. 083 DE FECHA 08 DE ENERO DE 2026)"
+    }
+  ]
+}

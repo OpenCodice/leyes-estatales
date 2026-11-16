@@ -1,0 +1,27 @@
+{
+  "clave": "024",
+  "etiqueta": "Artículo 24",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "024.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › párrafo 1",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NUM. 029 DE FECHA 14 DE MARZO DE 2025)"
+    },
+    {
+      "id": "024.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › párrafo 2",
+      "texto": "La ciudadanía ejercerá sus derechos de acceso a cualquier información relativa a los partidos políticos, coaliciones, precandidaturas o candidaturas a cargos de elección popular, de conformidad con lo señalado por las normas que regulan la materia."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "058",
+  "etiqueta": "Artículo 58",
+  "titulo": "Título Sexto",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "058.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 1",
+      "texto": "El Titular del Poder Ejecutivo, no podrá ausentarse del Estado por más de treinta días naturales, salvo por enfermedad grave, en cuyo caso el Congreso si estuviere en sesiones, o en su defecto la Comisión Permanente, otorgará licencia que no excederá de seis meses y designará a un Gobernador Interino."
+    },
+    {
+      "id": "058.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 2",
+      "texto": "Cuando la falta del Gobernador sea temporal y menor a treinta días, el Secretario General de Gobierno asumirá provisionalmente la función de encargado del despacho."
+    },
+    {
+      "id": "058.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 3",
+      "texto": "Si la falta temporal se convirtiera en absoluta, se procederá en los términos del artículo 55."
+    }
+  ]
+}

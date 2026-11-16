@@ -1,0 +1,72 @@
+{
+  "clave": "080",
+  "etiqueta": "Artículo 80",
+  "titulo": "Título Octavo",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "080.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 1",
+      "texto": "La base de la división territorial y de la organización política y administrativa del Estado de Chiapas es el Municipio Libre."
+    },
+    {
+      "id": "080.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 2",
+      "texto": "(ÚLTIMA REFORMA PUBLICADA MEDIANTE P.O. NUM. 110 DE FECHA 24 DE JUNIO DE 2020)"
+    },
+    {
+      "id": "080.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 3",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O NUM.116 DE FECHA 08 DE JULIO DE 2026)"
+    },
+    {
+      "id": "080.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 4",
+      "texto": "Cada municipio será gobernado por un ayuntamiento de elección popular directa, integrado por un Presidente o Presidenta Municipal, una Sindicatura y el número de regidurías no podrá ser superior a quince, de conformidad con el principio de paridad de género; la ley determinará los requisitos de elegibilidad para la conformación de los Ayuntamientos los cuales, además, contarán con integrantes de representación proporcional."
+    },
+    {
+      "id": "080.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 5",
+      "texto": "La competencia que esta Constitución otorga al Gobierno Municipal se ejercerá por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna entre éste y el Gobierno del Estado."
+    },
+    {
+      "id": "080.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 6",
+      "texto": "(ADICIÓN PUBLICADA MEDIANTE P.O. NUM. 110 DE FECHA 24 DE JUNIO DE 2020)"
+    },
+    {
+      "id": "080.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 7",
+      "texto": "En los municipios indígenas regidos por sistemas normativos internos, elegirán a sus integrantes conforme a sus normas, tradiciones y prácticas democráticas, por ciudadanos pertenecientes a éstos."
+    }
+  ]
+}

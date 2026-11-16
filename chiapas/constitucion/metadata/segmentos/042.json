@@ -1,0 +1,27 @@
+{
+  "clave": "042",
+  "etiqueta": "Artículo 42",
+  "titulo": "Título Quinto",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "042.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 1",
+      "texto": "Incurrirán en responsabilidad y se harán acreedores a las sanciones que la ley señale, quienes habiendo sido electos diputados no se presentaren, sin causa justificada, a juicio del Congreso del Estado, a desempeñar el cargo dentro del plazo señalado en el artículo anterior."
+    },
+    {
+      "id": "042.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 2",
+      "texto": "También incurrirán en responsabilidad, que la misma ley sancionará, los partidos políticos que habiendo postulado candidatos en una elección para diputados acuerden que sus miembros que resultaren electos, no se presenten a desempeñar sus funciones. Se entiende también que los diputados que faltaren a sesión por tres veces consecutivas, sin causa justificada o sin previa licencia del Presidente del Congreso del Estado, renuncian a concurrir a las sesiones del año, por lo que deberá llamarse desde luego a los suplentes."
+    }
+  ]
+}

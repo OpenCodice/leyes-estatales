@@ -1,0 +1,72 @@
+{
+  "clave": "012",
+  "etiqueta": "Artículo 12",
+  "titulo": "Título Primero",
+  "capitulo": "Capítulo VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "012.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › párrafo 1",
+      "texto": "Las políticas públicas del Estado y los Municipios de Chiapas, tendrán como prioridad:"
+    },
+    {
+      "id": "012.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción I",
+      "texto": "I.- Erradicar la pobreza extrema y el hambre."
+    },
+    {
+      "id": "012.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción II",
+      "texto": "II.-Cubrir la demanda de educación básica e incrementar el acceso a la educación media y superior."
+    },
+    {
+      "id": "012.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción III",
+      "texto": "III.- Promover la igualdad plena entre todas las personas."
+    },
+    {
+      "id": "012.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción IV",
+      "texto": "IV.- Implementar programas de salud que reduzcan la mortalidad infantil y materna, combatan el virus de la inmunodeficiencia humana, las enfermedades endémicas, epidémicas y de trasmisión por vectores; procurando otorgar servicios de salud de calidad, mediante el ejercicio responsable y profesional de la medicina."
+    },
+    {
+      "id": "012.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción V",
+      "texto": "V.- Garantizar la protección de los recursos naturales, el acceso al agua potable, el saneamiento y los servicios básicos; así también, como la implementación de las medidas necesarias para reducir la emisión de gases de efecto invernadero."
+    },
+    {
+      "id": "012.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción VI",
+      "texto": "VI.- Garantizar el acceso a viviendas seguras y asequibles, en especial para los grupos en situación de desigualdad, así como mejorar la infraestructura de los asentamientos humanos marginales.\n\nLos planes de desarrollo estatal y municipal, establecerán mecanismos e instrumentos para alcanzar los objetivos descritos, en concordancia con el Plan Nacional de Desarrollo y los lineamientos internacionales adoptados por México."
+    }
+  ]
+}

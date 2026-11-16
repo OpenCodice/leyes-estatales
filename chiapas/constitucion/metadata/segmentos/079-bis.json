@@ -1,0 +1,27 @@
+{
+  "clave": "079-bis",
+  "etiqueta": "Artículo 79 Bis",
+  "titulo": "Título Séptimo",
+  "capitulo": "Capítulo VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "079-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 Bis › párrafo 1",
+      "texto": "(Se deroga mediante P.O. núm. 073 de fecha 18 de diciembre de 2019)"
+    },
+    {
+      "id": "079-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 Bis › párrafo 2",
+      "texto": "Se deroga."
+    }
+  ]
+}

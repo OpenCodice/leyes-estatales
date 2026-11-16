@@ -1,0 +1,27 @@
+{
+  "clave": "035",
+  "etiqueta": "Artículo 35",
+  "titulo": "Título Cuarto",
+  "capitulo": "Capítulo III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "035.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35 › párrafo 1",
+      "texto": "Para garantizar a la ciudadanía que el ejercicio del sufragio sea libre, igual, universal, secreto y directo se establecerá el Instituto de Elecciones y de Participación Ciudadana y el Tribunal Electoral del Estado. Estas autoridades electorales serán autónomas en los términos establecidos en la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "035.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35 › párrafo 2",
+      "texto": "La certeza, seguridad, veracidad, legalidad, independencia, imparcialidad, interculturalidad, objetividad y máxima publicidad, serán los principios rectores del proceso electoral que regirán la actuación de las autoridades electorales en el ejercicio de sus atribuciones."
+    }
+  ]
+}

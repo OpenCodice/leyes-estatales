@@ -1,0 +1,27 @@
+{
+  "clave": "121",
+  "etiqueta": "Artículo 121",
+  "titulo": "Título Décimo Primero",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "121.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 1",
+      "texto": "El Periódico Oficial es el órgano para dar a conocer a los habitantes del Estado las disposiciones de observancia general."
+    },
+    {
+      "id": "121.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121 › párrafo 2",
+      "texto": "Cuando no se fije la fecha en que deba comenzar su vigencia, las disposiciones serán obligatorias a los quince días de su promulgación. Se entiende hecha la promulgación, el día en que termine la inserción de la disposición respectiva en el Periódico Oficial."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "123",
+  "etiqueta": "Artículo 123",
+  "titulo": "Título Décimo Segundo",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "123.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 1",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NÚMERO 379, DE FECHA 27 DE NOVIEMBRE DEL 2024, DECRETO 026)"
+    },
+    {
+      "id": "123.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 2",
+      "texto": "Las leyes de desarrollo constitucional serán discutidas y aprobadas por mayoría calificada de los Diputados y las Diputadas presentes."
+    }
+  ]
+}

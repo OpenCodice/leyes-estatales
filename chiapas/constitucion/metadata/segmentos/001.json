@@ -1,0 +1,27 @@
+{
+  "clave": "001",
+  "etiqueta": "Artículo 1",
+  "titulo": "",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "001.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 1",
+      "texto": "El Estado de Chiapas es parte integrante de los Estados Unidos Mexicanos, desde el 14 de septiembre de 1824, por voluntad del pueblo chiapaneco, expresada por votación libre y directa."
+    },
+    {
+      "id": "001.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 2",
+      "texto": "Chiapas es un Estado Democrático de Derecho de composición pluricultural que reconoce los sistemas normativos internos de sus pueblos y comunidades indígenas, de acuerdo a lo establecido en esta Constitución y en la Constitución Política de los Estados Unidos Mexicanos y está comprometido con la protección de su biodiversidad."
+    }
+  ]
+}
