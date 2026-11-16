@@ -1,0 +1,63 @@
+{
+  "clave": "018",
+  "etiqueta": "Artículo 18",
+  "titulo": "TITULO III",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "018.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › párrafo 1",
+      "texto": "Son chihuahuenses, las personas:"
+    },
+    {
+      "id": "018.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción I",
+      "texto": "I. Nacidas en el Estado;"
+    },
+    {
+      "id": "018.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción II",
+      "texto": "II. Hijas de padre o madre mexicanos y vecinos del Estado que nazcan fuera de éste;"
+    },
+    {
+      "id": "018.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción III",
+      "texto": "III. Mexicanas que adquieran vecindad en el Estado;"
+    },
+    {
+      "id": "018.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción IV",
+      "texto": "IV. Derogada;"
+    },
+    {
+      "id": "018.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción V",
+      "texto": "V. Derogada.\n\n[Artículo reformado mediante Decreto No. 640-09 II P.O. publicado en el P.O.E. No. 99 del 12 de diciembre de 2009]"
+    }
+  ]
+}

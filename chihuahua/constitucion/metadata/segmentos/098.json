@@ -1,0 +1,27 @@
+{
+  "clave": "098",
+  "etiqueta": "Artículo 98",
+  "titulo": "TITULO VIII",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "098.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 1",
+      "texto": "Las ausencias temporales del Secretario General de Gobierno, cuando no excedan de 60 días, serán suplidas por el Fiscal General del Estado."
+    },
+    {
+      "id": "098.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No.1141-2010 XII P.E. publicado en el P.O.E. No. 74 del 15 de septiembre de 2010]"
+    }
+  ]
+}

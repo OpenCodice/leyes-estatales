@@ -1,0 +1,27 @@
+{
+  "clave": "159",
+  "etiqueta": "Artículo 159",
+  "titulo": "TITULO XII",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "159.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 159 › párrafo 1",
+      "texto": "El ejercicio de profesiones, especialidades, actividades técnicas y auxiliares en el área de salud estará sujeto a los requisitos y condiciones que establezcan las leyes."
+    },
+    {
+      "id": "159.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 159 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

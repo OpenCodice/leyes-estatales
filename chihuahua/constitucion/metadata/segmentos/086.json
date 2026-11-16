@@ -1,0 +1,27 @@
+{
+  "clave": "086",
+  "etiqueta": "Artículo 86",
+  "titulo": "TITULO VIII",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "086.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › párrafo 1",
+      "texto": "La elección de Gobernador será popular y directa en los términos que disponga esta Constitución, la Federal y la legislación electoral."
+    },
+    {
+      "id": "086.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

@@ -1,0 +1,387 @@
+{
+  "clave": "093",
+  "etiqueta": "Artículo 93",
+  "titulo": "TITULO VIII",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "093.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › párrafo 1",
+      "texto": "Son atribuciones y obligaciones de quien ocupe la titularidad del Poder Ejecutivo del Estado:"
+    },
+    {
+      "id": "093.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción I",
+      "texto": "I. Publicar y hacer cumplir las leyes federales."
+    },
+    {
+      "id": "093.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción II",
+      "texto": "II. Promulgar y publicar las leyes y decretos que expida el Congreso del Estado. Cuando así lo acuerde la Legislatura, la publicación se hará por medio de carteles que se fijen en los parajes públicos de las municipalidades o bien por bando solemne;"
+    },
+    {
+      "id": "093.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción III",
+      "texto": "III. Ejecutar y hacer que se cumplan las leyes y decretos que expida la Legislatura Local."
+    },
+    {
+      "id": "093.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción IV",
+      "texto": "IV. Expedir todos los reglamentos que estime convenientes y, en general, proveer en la esfera administrativa cuando fuere necesario o útil para la más exacta observancia de las leyes, promoviendo la participación ciudadana en los términos de la Ley."
+    },
+    {
+      "id": "093.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción V",
+      "texto": "V. Velar por la conservación del orden, tranquilidad y seguridad del Estado y por la personal de sus habitantes, protegiéndolos en el uso de sus derechos;"
+    },
+    {
+      "id": "093.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción VI",
+      "texto": "VI. Iniciar leyes y decretos ante el Congreso del Estado, en uso del derecho que le concede el artículo 68 en su fracción II;"
+    },
+    {
+      "id": "093.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción VII",
+      "texto": "VII. Hacer observaciones a las leyes o decretos en los términos del artículo 70."
+    },
+    {
+      "id": "093.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción VIII",
+      "texto": "VIII. Prestar al Poder Judicial los auxilios que demande para el ejercicio de sus funciones y hacer que se cumplan las sentencias de los Tribunales;"
+    },
+    {
+      "id": "093.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción IX",
+      "texto": "IX. Presentar anualmente al Congreso, a más tardar el día treinta de noviembre, la iniciativa de ley de ingresos y el proyecto de presupuesto de egresos para el año siguiente, dentro del cual se deberá destinar al presupuesto participativo por lo menos un 5% de los recursos para inversión pública productiva provenientes de los ingresos de libre disposición del Estado. La persona encargada de las finanzas del Estado deberá comparecer a dar cuenta de ambos, en la fecha en que el Congreso lo solicite.\n\nEl procedimiento para la determinación, organización, desarrollo, ejercicio, seguimiento y control del presupuesto participativo, incluyendo la regionalización del Estado para la distribución equitativa y proporcional de los recursos, será reglamentado asegurando el cumplimiento de las leyes aplicables a la rendición de cuentas en el ejercicio de los recursos públicos."
+    },
+    {
+      "id": "093.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción X",
+      "texto": "X. Delegar, a través de patente, la fe pública del Estado para el ejercicio de la función notarial, en los términos de la ley respectiva."
+    },
+    {
+      "id": "093.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XI",
+      "texto": "XI. Mandar en jefe la Guardia Nacional en el Estado conforme a la Ley Orgánica relativa;"
+    },
+    {
+      "id": "093.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XII",
+      "texto": "XII. Tener el mando de la fuerza pública en los municipios donde residiere habitual o transitoriamente;"
+    },
+    {
+      "id": "093.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XIII",
+      "texto": "XIII. Organizar conforme a la ley las fuerzas de seguridad pública del Estado, mandarlas en jefe y nombrar y ascender a sus jefes y Oficiales;"
+    },
+    {
+      "id": "093.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XIV",
+      "texto": "XIV. Exhortar a los ayuntamientos, presidentes de municipalidad y de sección y comisarios, cuando lo estime conveniente, para que se mejoren los ramos de la administración municipal;"
+    },
+    {
+      "id": "093.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XV",
+      "texto": "XV. Coordinar, con los respectivos presidentes municipales, presidentes de sección y comisarios de policía, los asuntos relativos a los ramos cuya administración corresponda al Ejecutivo;"
+    },
+    {
+      "id": "093.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XVI",
+      "texto": "XVI. Solicitar al Instituto Estatal Electoral someta a plebiscito, en los términos que disponga la ley, propuestas de actos o decisiones de gobierno considerados como trascendentes para la vida pública del Estado. La decisión que resulte del proceso plebiscitario será vinculante. De manera directa podrá realizar consultas ciudadanas para orientar sus actos o programas de gobierno."
+    },
+    {
+      "id": "093.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XVII",
+      "texto": "XVII. Enviar al Congreso del Estado, dentro de los seis meses siguientes, contados a partir de la fecha en que tome posesión, los Planes Estatales de Desarrollo y de Seguridad Pública, para su aprobación."
+    },
+    {
+      "id": "093.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XVIII",
+      "texto": "XVIII. Presidir todas las reuniones Oficiales a que concurra, a excepción de las del Congreso y Tribunales;"
+    },
+    {
+      "id": "093.XIX",
+      "tipo": "fraccion",
+      "marca": "XIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XIX",
+      "texto": "XIX. Asistir a la apertura del segundo período ordinario de sesiones del Congreso, a presentar un informe sobre el estado que guarde la administración pública, salvo lo dispuesto en el artículo 55, párrafos segundo y tercero.\n\nDe igual modo, asistir a la sesión de apertura de periodos extraordinarios cuando, de manera fundamentada, hubiere solicitado la convocatoria por medio de la Diputación Permanente, de conformidad con el artículo 51."
+    },
+    {
+      "id": "093.XX",
+      "tipo": "fraccion",
+      "marca": "XX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XX",
+      "texto": "XX. En cualquier momento optar por un gobierno de coalición con uno o varios de los partidos políticos representados en el Congreso del Estado, de acuerdo a lo establecido por la Ley, a fin de garantizar mayorías en la toma de decisiones de gobierno, así como la gobernabilidad democrática.\n\nEl gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por las dos terceras partes de los miembros presentes del Congreso del Estado.\n\nEn el registro de una coalición electoral, los partidos políticos deberán registrar una plataforma electoral y podrán convenir optar por la integración de un gobierno de coalición, en caso de que la persona postulada para asumir el cargo de Gobernador resulte electa."
+    },
+    {
+      "id": "093.XXI",
+      "tipo": "fraccion",
+      "marca": "XXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XXI",
+      "texto": "XXI. Pedir informes al Congreso y al Tribunal Superior de Justicia sobre asuntos de los ramos de su incumbencia, respectivamente, y darlos cuando dichos Poderes los pidan acerca de los que competen al Ejecutivo."
+    },
+    {
+      "id": "093.XXII",
+      "tipo": "fraccion",
+      "marca": "XXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XXII",
+      "texto": "XXII. Nombrar y remover libremente al Secretario General de Gobierno, Secretarios, Coordinadores y Directores, y recibirles la protesta de ley, pudiendo recabar la opinión del Congreso del Estado, si lo estimare conducente.\n\nNombrar a quienes ocupen la titularidad de la Fiscalía General del Estado, y de la Secretaría responsable del Control Interno del Ejecutivo y someterlo a la aprobación del Congreso del Estado.\n\nPara remover de sus cargos a las personas titulares de la Fiscalía General del Estado y de la Secretaría responsable del Control Interno del Ejecutivo, el Gobernador deberá someterlo a la aprobación del Congreso del Estado.\n\nQuien ocupe la titularidad de la Fiscalía General designará a las y los Fiscales Especializados, en los términos que se establezca en su ley orgánica y el Gobernador les extenderá su nombramiento y tomará su protesta de ley.\n\nEl Gobernador removerá libremente al resto de las y los Fiscales Especializados."
+    },
+    {
+      "id": "093.XXIII",
+      "tipo": "fraccion",
+      "marca": "XXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XXIII",
+      "texto": "XXIII. Presentar anualmente al Congreso del Estado la cuenta pública estatal, dentro de los dos meses posteriores a la terminación del ejercicio fiscal; así como presentar informes financieros trimestrales dentro del mes siguiente al cierre del periodo correspondiente;"
+    },
+    {
+      "id": "093.XXIV",
+      "tipo": "fraccion",
+      "marca": "XXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XXIV",
+      "texto": "XXIV. Cuidar de que los fondos públicos estén siempre asegurados y de que su recaudación y distribución se haga con arreglo a la ley;"
+    },
+    {
+      "id": "093.XXV",
+      "tipo": "fraccion",
+      "marca": "XXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XXV",
+      "texto": "XXV. Organizar y controlar la recaudación de los fondos públicos quedándole prohibido condonar contribuciones adeudadas en el ejercicio en curso;"
+    },
+    {
+      "id": "093.XXVI",
+      "tipo": "fraccion",
+      "marca": "XXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XXVI",
+      "texto": "XXVI. Condonar adeudos por concepto de rezagos, cuando lo considere justo y equitativo;"
+    },
+    {
+      "id": "093.XXVII",
+      "tipo": "fraccion",
+      "marca": "XXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XXVII",
+      "texto": "XXVII. Otorgar concesiones de acuerdo con las leyes de la materia."
+    },
+    {
+      "id": "093.XXVIII",
+      "tipo": "fraccion",
+      "marca": "XXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XXVIII",
+      "texto": "XXVIII. Representar al Estado en todo juicio o controversia que pueda afectar los intereses de éste, pudiendo nombrar uno o varios apoderados o delegados para tal efecto;"
+    },
+    {
+      "id": "093.XXIX",
+      "tipo": "fraccion",
+      "marca": "XXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XXIX",
+      "texto": "XXIX. Visitar a los municipios del Estado, cuando lo estime conveniente, ya sea por sí mismo o por quien designe, proveyendo lo necesario en el orden administrativo e informando al Congreso o al Tribunal Superior de Justicia, de los asuntos cuya atención les corresponda."
+    },
+    {
+      "id": "093.XXX",
+      "tipo": "fraccion",
+      "marca": "XXX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XXX",
+      "texto": "XXX. Expedir títulos profesionales con arreglo a las leyes;"
+    },
+    {
+      "id": "093.XXXI",
+      "tipo": "fraccion",
+      "marca": "XXXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XXXI",
+      "texto": "XXXI. Conceder indultos y conmutación de las penas impuestas por los Tribunales del Estado, de acuerdo con las leyes vigentes;"
+    },
+    {
+      "id": "093.XXXII",
+      "tipo": "fraccion",
+      "marca": "XXXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XXXII",
+      "texto": "XXXII. Proponer al Congreso del Estado la creación de organismos descentralizados, empresas de participación estatal mayoritaria, fideicomisos, patronatos, comisiones y comités;"
+    },
+    {
+      "id": "093.XXXIII",
+      "tipo": "fraccion",
+      "marca": "XXXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XXXIII",
+      "texto": "XXXIII. Formar la Estadística y el Catastro del Estado;"
+    },
+    {
+      "id": "093.XXXIV",
+      "tipo": "fraccion",
+      "marca": "XXXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XXXIV",
+      "texto": "XXXIV. Adquirir, administrar y enajenar los bienes propiedad del Estado, en los términos y condiciones previstos en la presente Constitución y en la ley. Esta señalará el régimen al que se sujetarán los bienes que adquieran para sus funciones los Poderes Legislativo y Judicial del Estado."
+    },
+    {
+      "id": "093.XXXV",
+      "tipo": "fraccion",
+      "marca": "XXXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XXXV",
+      "texto": "XXXV. Convocar a elecciones de Ayuntamientos, cuando por cualquier motivo desaparecieren éstos dentro del primer semestre del período constitucional correspondiente;"
+    },
+    {
+      "id": "093.XXXVI",
+      "tipo": "fraccion",
+      "marca": "XXXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XXXVI",
+      "texto": "XXXVI. Dirigir y controlar el funcionamiento del Registro Civil en el Estado;"
+    },
+    {
+      "id": "093.XXXVII",
+      "tipo": "fraccion",
+      "marca": "XXXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XXXVII",
+      "texto": "XXXVII. Delegar en las Autoridades Municipales, en los casos en que lo considere conveniente o necesario, la prestación de Servicios Públicos que correspondan al Estado, fijando las bases para ello y destinando al efecto los arbitrios necesarios, los que se tomarán de la Partida Presupuestal correspondiente;"
+    },
+    {
+      "id": "093.XXXVIII",
+      "tipo": "fraccion",
+      "marca": "XXXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XXXVIII",
+      "texto": "XXXVIII. Sujetándose a lo que establezcan las leyes respectivas, celebrar con la Federación convenios de carácter general para que los reos sentenciados por delitos del orden común extingan su condena en establecimientos dependientes del Ejecutivo Federal y solicitar a éste la inclusión de reos de nacionalidad extranjera sentenciados por delitos del orden común del Estado en los tratados internacionales que se celebren para el efecto de que puedan ser trasladados al país de su origen o residencia;"
+    },
+    {
+      "id": "093.XXXIX",
+      "tipo": "fraccion",
+      "marca": "XXXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XXXIX",
+      "texto": "XXXIX. Enviar al Congreso los nombramientos de las personas titulares de la Fiscalía General del Estado y de la Secretaría responsable del Control Interno del Ejecutivo para la aprobación correspondiente;"
+    },
+    {
+      "id": "093.XL",
+      "tipo": "fraccion",
+      "marca": "XL",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XL",
+      "texto": "XL. Designar libre y directamente a quien deba encargarse del despacho de la Fiscalía General y de la Secretaría responsable del Control Interno del Ejecutivo, por el tiempo que dure el procedimiento que se establece en esta Constitución para nombrar a las y los titulares de estas dependencias."
+    },
+    {
+      "id": "093.XLI",
+      "tipo": "fraccion",
+      "marca": "XLI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › Fracción XLI",
+      "texto": "XLI. Las demás que le asignen las leyes, ya sean Federales o del Estado.\n\n[Artículo reformado en la fracción IX mediante Decreto No. LXVII/RFCNT/0594/2023 XI P.E. publicado en el P.O.E. No.92 del 18 de noviembre de 2023]\n\n[Artículo reformado en la fracción IX y adicionado en la misma fracción con un segundo párrafo mediante Decreto No. LXVII/RFCNT/0528/2023 II P.O. publicado en el P.O. E. No. 54 del 23 de marzo de 2023]\n\n[Artículo reformado en las fracciones XXII y XL mediante Decreto No. LXVI/RFCNT/0640/2019 I P.O. publicado en el P.O.E. No. 10 del 01 de febrero de 2020]\n\n[Artículo reformado en el primer párrafo y en las fracciones IV y XVI mediante Decreto No. LXV/RFCNT/0769/2018 II P.O. publicado en el P.O.E. No. 50 del 23 de junio de 2018]\n\n[Artículo reformado en la fracción XX mediante Decreto No. LXV/RFCNT/0374/2017 VIII P.E publicado en el P.O.E. No. 69 del 30 de agosto de 2017]\n\n[Artículo reformado en los párrafos segundo y tercero de la fracción XXII y las fracciones XXXIX y XL y adicionado con los párrafos cuarto y quinto a la fracción XXII; mediante Decreto No. LXV/RFCTN/0362/2017 VI P.E. publicado en el P.O.E. No. 69 del 30 de agosto de 2017]\n\n[Artículo reformado en las fracciones XVII, XIX, XXI y XXIX mediante Decreto No. 910-2015 II P.O. publicado en el P.O.E. No. 98 del 9 de diciembre de 2015]\n\n[Artículo reformado en la fracción XXIII mediante Decreto 867-15 II P.O. publicado en el P.O.E. No. 34 del 29 de abril de 2015]\n\n[Artículo reformado en la fracción XXXIV mediante Decreto No. 1011-04 II P.O. publicado en el P.O.E. No. 87 del 30 de octubre del 2004]\n\n[Artículo reformado en la fracción X mediante Decreto No. 336-02 I P.O. publicado en el P.O.E. No. 94 del 23 de noviembre del 2002]\n\n[Artículo reformado en la fracción XXVIII mediante Decreto No. 277-02 II P.O. publicado en el P.O.E. No. 94 del 23 de noviembre del 2002]\n\n[Artículo reformado en la fracción XII mediante Decreto No. 403-94 XIV P.E. publicado en el P.O.E. No. 79 del 1 de octubre de 1994]\n\n[Artículo reformado en las fracciones II, VII, XXVII y XXXVIII mediante Decreto No. 296-79 3-4 P.E. publicada en el P.O.E. No. 7 del 24 de enero de 1979]\n\n[Artículo reformado en la fracción XXXVII mediante Decreto No. 130-63 publicado en el P.O.E. No. 56 del 13 de julio de 1963]"
+    }
+  ]
+}

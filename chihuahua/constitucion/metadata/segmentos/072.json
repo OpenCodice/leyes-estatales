@@ -1,0 +1,27 @@
+{
+  "clave": "072",
+  "etiqueta": "Artículo 72",
+  "titulo": "TITULO VII",
+  "capitulo": "CAPITULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "072.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72 › párrafo 1",
+      "texto": "Se reputará aprobado por el Gobernador todo proyecto no devuelto con observaciones al Congreso en el término a que se refiere el artículo 70."
+    },
+    {
+      "id": "072.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 1013-04 II P.O. publicado en el P.O.E. No. 30 del 10 de abril de 2004]"
+    }
+  ]
+}

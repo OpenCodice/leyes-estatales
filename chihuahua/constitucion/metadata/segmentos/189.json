@@ -1,0 +1,27 @@
+{
+  "clave": "189",
+  "etiqueta": "Artículo 189",
+  "titulo": "TITULO XIV",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "189.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 189 › párrafo 1",
+      "texto": "En las cuestiones de orden administrativo que señale la ley y con arreglo a lo que la misma disponga, se entenderá que la autoridad resuelve favorablemente la solicitud del particular si éste no obtiene respuesta escrita en un plazo de seis meses."
+    },
+    {
+      "id": "189.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 189 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

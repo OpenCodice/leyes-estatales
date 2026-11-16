@@ -1,0 +1,54 @@
+{
+  "clave": "042",
+  "etiqueta": "Artículo 42",
+  "titulo": "TITULO VII",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "042.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 1",
+      "texto": "Los diputados en ejercicio, durante el período de su encargo, no podrán desempeñar ninguna otra comisión, cargo o empleo de la Federación, de éste u otro Estado o de algún municipio, por los cuales se perciba remuneración, sin licencia previa del Congreso o de la Diputación Permanente."
+    },
+    {
+      "id": "042.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 2",
+      "texto": "Concedida la licencia, cesarán en sus funciones representativas mientras desempeñen la nueva ocupación. La misma regla se observará con los diputados suplentes cuando estuvieren en ejercicio."
+    },
+    {
+      "id": "042.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 3",
+      "texto": "La infracción de esta disposición será castigada, previa audiencia del interesado, con la pérdida del carácter de diputado."
+    },
+    {
+      "id": "042.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 4",
+      "texto": "Se exceptúa de lo dispuesto en este artículo a quienes ejerzan, cuando menos desde dos años antes al día de la elección, actividades docentes en instituciones Oficiales de educación superior."
+    },
+    {
+      "id": "042.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 5",
+      "texto": "[Artículo reformado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

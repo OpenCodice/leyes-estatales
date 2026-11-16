@@ -1,0 +1,63 @@
+{
+  "clave": "095",
+  "etiqueta": "Artículo 95",
+  "titulo": "TITULO VIII",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "095.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › párrafo 1",
+      "texto": "Para ser Secretario General de Gobierno, Secretario o Coordinador, se requiere:"
+    },
+    {
+      "id": "095.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › Fracción I",
+      "texto": "I. Ser ciudadano mexicano por nacimiento;"
+    },
+    {
+      "id": "095.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › Fracción II",
+      "texto": "II. Contar con pleno goce y ejercicio de sus derechos civiles y políticos."
+    },
+    {
+      "id": "095.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › Fracción III",
+      "texto": "III. Se deroga."
+    },
+    {
+      "id": "095.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › Fracción IV",
+      "texto": "IV. Ser mayor de 25 años;"
+    },
+    {
+      "id": "095.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › Fracción V",
+      "texto": "V. No ser ministro de algún culto religioso o haberse retirado del mismo en los términos de ley.\n\nEn el caso del Secretario General de Gobierno, se requiere ser mayor de treinta años, así como ser originario del Estado, o bien, haber residido en el mismo cuando menos durante cinco años.\n\n[Artículo reformado en el primer párrafo la fracción II y párrafo segundo; y derogado en la fracción III mediante Decreto No. LXVI/RFCNT/0640/2019 I P.O. publicado en el P.O.E. No. 10 del 01 de febrero de 2020]"
+    }
+  ]
+}

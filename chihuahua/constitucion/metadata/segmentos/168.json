@@ -1,0 +1,54 @@
+{
+  "clave": "168",
+  "etiqueta": "Artículo 168",
+  "titulo": "TITULO XII",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "168.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 168 › párrafo 1",
+      "texto": "El encargado de las finanzas del Estado y los demás funcionarios y empleados que manejen, recauden o administren fondos públicos, otorgarán garantía suficiente."
+    },
+    {
+      "id": "168.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 168 › párrafo 2",
+      "texto": "Asimismo, deberán asistir a los cursos de capacitación, profesionalización y/o certificación que implementen las instituciones especializadas en la fiscalización de recursos públicos, a efecto de cumplir con las obligaciones inherentes a su cargo."
+    },
+    {
+      "id": "168.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 168 › párrafo 3",
+      "texto": "[Artículo reformado en el segundo párrafo mediante Decreto No. LXVI/RFCNT/1030/2021 XII P.E. publicado en el P.O.E. No. 86 del 27 de octubre de 2021]"
+    },
+    {
+      "id": "168.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 168 › párrafo 4",
+      "texto": "[Artículo adicionado con un párrafo segundo mediante Decreto No. 910-2015 II P.O. publicado en el P.O.E. No. 98 del 9 de diciembre de 2015]"
+    },
+    {
+      "id": "168.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 168 › párrafo 5",
+      "texto": "[Artículo reformado mediante Decreto No. 922-07 II P.O. publicado en el P.O.E. No. 37 del 9 de mayo del 2007]"
+    }
+  ]
+}

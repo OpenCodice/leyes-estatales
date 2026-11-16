@@ -1,0 +1,27 @@
+{
+  "clave": "172",
+  "etiqueta": "Artículo 172",
+  "titulo": "TITULO XII",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "172.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 172 › párrafo 1",
+      "texto": "Se deroga."
+    },
+    {
+      "id": "172.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 172 › párrafo 2",
+      "texto": "[Artículo derogado mediante Decreto No. LXV/RFCNT/0362/2017 VI P.E. publicado en el P.O.E. No. 69 del 30 de agosto de 2017]"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "074",
+  "etiqueta": "Artículo 74",
+  "titulo": "TITULO VII",
+  "capitulo": "CAPITULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "074.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 1",
+      "texto": "Si se hubiese vencido el plazo que el Gobernador tiene para formular observaciones, el decreto o ley de que se trate será considerado promulgado, y por aprobación del Pleno Legislativo se podrá ordenar su publicación en el Periódico Oficial del Estado, si el Ejecutivo no lo hace dentro de los diez días siguientes a dicho vencimiento."
+    },
+    {
+      "id": "074.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 398-08 I P.O. publicado en el P.O.E. 72 del 09 de septiembre de 2009]"
+    }
+  ]
+}

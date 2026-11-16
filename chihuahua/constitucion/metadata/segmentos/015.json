@@ -1,0 +1,36 @@
+{
+  "clave": "015",
+  "etiqueta": "Artículo 15",
+  "titulo": "TITULO III",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "015.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › párrafo 1",
+      "texto": "La vecindad se pierde:"
+    },
+    {
+      "id": "015.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción I",
+      "texto": "I. Por dejar de residir en el Estado, manifestando a la autoridad la intención de cambiar de domicilio."
+    },
+    {
+      "id": "015.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción II",
+      "texto": "II. Por dejar de residir habitualmente en el Estado durante un año."
+    }
+  ]
+}

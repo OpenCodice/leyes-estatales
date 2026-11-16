@@ -1,0 +1,36 @@
+{
+  "clave": "186",
+  "etiqueta": "Artículo 186",
+  "titulo": "TITULO XIII",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "186.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 186 › párrafo 1",
+      "texto": "No se requerirá declaración de procedencia del Congreso del Estado, cuando los funcionarios mencionados en el artículo 179 cometan un delito durante el tiempo en que se encuentren separados de su cargo."
+    },
+    {
+      "id": "186.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 186 › párrafo 2",
+      "texto": "Si el servidor público ha vuelto a desempeñar sus funciones o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados en el artículo 179, se procederá de acuerdo con lo dispuesto en los artículos 181 y 183."
+    },
+    {
+      "id": "186.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 186 › párrafo 3",
+      "texto": "[Artículo reformado mediante Decreto No. 794-83 10 P.E. Bis publicado en el P.O.E. No. 105 del 31 de diciembre de 1983]"
+    }
+  ]
+}

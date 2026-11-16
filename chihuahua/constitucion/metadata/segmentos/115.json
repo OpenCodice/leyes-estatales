@@ -1,0 +1,27 @@
+{
+  "clave": "115",
+  "etiqueta": "Artículo 115",
+  "titulo": "TITULO IX",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "115.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 115 › párrafo 1",
+      "texto": "La Ley Orgánica del Poder Judicial determinará la jurisdicción, competencia y todo lo relativo a las y los servidores públicos y auxiliares de la administración de justicia."
+    },
+    {
+      "id": "115.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 115 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. LXV/RFCNT/0301/2017 II P.O. publicado en el P.O.E. No. 34 del 29 de abril de 2017]"
+    }
+  ]
+}

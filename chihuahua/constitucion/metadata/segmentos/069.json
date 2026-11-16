@@ -1,0 +1,36 @@
+{
+  "clave": "069",
+  "etiqueta": "Artículo 69",
+  "titulo": "TITULO VII",
+  "capitulo": "CAPITULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "069.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 1",
+      "texto": "Para que un proyecto tenga carácter de ley o de decreto, se requiere que sea aprobado por el Congreso y promulgado por el Ejecutivo. La aprobación deberá expresarse en votación nominal de más de la mitad del número de diputados presentes que integren el quórum a que se refiere el artículo 50."
+    },
+    {
+      "id": "069.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 2",
+      "texto": "Igual votación requerirán los acuerdos y las iniciativas de ley o de decreto que se presenten ante el Congreso de la Unión."
+    },
+    {
+      "id": "069.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 3",
+      "texto": "[Artículo reformado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

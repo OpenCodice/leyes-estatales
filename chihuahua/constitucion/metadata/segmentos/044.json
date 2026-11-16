@@ -1,0 +1,36 @@
+{
+  "clave": "044",
+  "etiqueta": "Artículo 44",
+  "titulo": "TITULO VII",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "044.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 1",
+      "texto": "El Congreso se renovará totalmente el año que corresponda."
+    },
+    {
+      "id": "044.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 2",
+      "texto": "Se instalará, en casos ordinarios, el día primero de septiembre y en los extraordinarios, el día que fije la convocatoria."
+    },
+    {
+      "id": "044.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 3",
+      "texto": "[Artículo reformado mediante Decreto No. LXVIII/RFCNT/0557/2026 VIII P.E. publicado en el P.O.E. No. 51 EE del 30 de junio de 2026]"
+    }
+  ]
+}

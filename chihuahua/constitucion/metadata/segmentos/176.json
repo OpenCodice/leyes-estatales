@@ -1,0 +1,27 @@
+{
+  "clave": "176",
+  "etiqueta": "Artículo 176",
+  "titulo": "TITULO XII",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "176.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 176 › párrafo 1",
+      "texto": "Los bienes que constituyan el patrimonio de la familia serán inalienables, no podrán sujetarse a gravámenes reales ni embargos, y serán transmisibles por herencia, con simplificación del procedimiento de los juicios sucesorios. La ley determinará los bienes que deban constituirlo, su valor máximo, las personas en cuyo beneficio se establezca y los requisitos de su constitución, ampliación, reducción o extinción."
+    },
+    {
+      "id": "176.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 176 › párrafo 2",
+      "texto": "La ley fijará la extensión del patrimonio de familia, así en cuanto a su objeto, determinando los demás bienes que deban formarlo y su valor total máximo, como respecto de las otras personas en cuyo beneficio se establezca, los requisitos para constituirlo y todo lo demás concerniente a esta materia."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "152",
+  "etiqueta": "Artículo 152",
+  "titulo": "TITULO XII",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "152.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 152 › párrafo 1",
+      "texto": "Derogado."
+    },
+    {
+      "id": "152.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 152 › párrafo 2",
+      "texto": "[Artículo derogado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

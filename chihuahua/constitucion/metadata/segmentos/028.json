@@ -1,0 +1,27 @@
+{
+  "clave": "028",
+  "etiqueta": "Artículo 28",
+  "titulo": "TITULO IV",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "028.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › párrafo 1",
+      "texto": "El ejercicio del poder público se limita a las facultades expresamente consignadas en esta Constitución, la Federal y las leyes que se expidan de conformidad con las mismas."
+    },
+    {
+      "id": "028.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 28 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

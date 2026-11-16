@@ -1,0 +1,36 @@
+{
+  "clave": "013",
+  "etiqueta": "Artículo 13",
+  "titulo": "TITULO III",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "013.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 1",
+      "texto": "Son vecinos del Estado:"
+    },
+    {
+      "id": "013.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción I",
+      "texto": "I. Las personas que residan habitualmente en su territorio durante dos años, o"
+    },
+    {
+      "id": "013.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción II",
+      "texto": "II. Las que residan habitualmente un año si en él contraen matrimonio con persona chihuahuense, adquieren bienes raíces o ejercen alguna profesión, arte, oficio o industria, salvo lo dispuesto en el artículo 14.\n\n[Artículo reformado mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    }
+  ]
+}

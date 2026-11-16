@@ -1,0 +1,27 @@
+{
+  "clave": "130",
+  "etiqueta": "Artículo 130",
+  "titulo": "TITULO XI",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "130.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 130 › párrafo 1",
+      "texto": "Los ayuntamientos se instalarán el día diez de septiembre de los años correspondientes a su renovación, y las juntas municipales y las comisarías de policía el día quince de diciembre de dichos años."
+    },
+    {
+      "id": "130.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 130 › párrafo 2",
+      "texto": "[Artículo reformado mediante Decreto No. LXVI/RFCNT/0261/2018 I P.O. publicado en el P.O.E. No. 100 del 12 de diciembre de 2020]"
+    }
+  ]
+}

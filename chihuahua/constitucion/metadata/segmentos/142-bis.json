@@ -1,0 +1,27 @@
+{
+  "clave": "142-bis",
+  "etiqueta": "Artículo 142 Bis",
+  "titulo": "TITULO XI",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "142-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 142 Bis › párrafo 1",
+      "texto": "La figura del Síndico tiene a su cargo la vigilancia de la Hacienda Pública Municipal y el Control Interno Municipal en los términos y con las atribuciones que le confiere la ley."
+    },
+    {
+      "id": "142-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 142 Bis › párrafo 2",
+      "texto": "[Artículo adicionado mediante Decreto No. LXV/RFCNT/0362/2017 VI P.E. publicado en el P.O.E. No. 69 del 30 de agosto de 2017]"
+    }
+  ]
+}

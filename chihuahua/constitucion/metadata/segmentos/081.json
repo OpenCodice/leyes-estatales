@@ -1,0 +1,45 @@
+{
+  "clave": "081",
+  "etiqueta": "Artículo 81",
+  "titulo": "TITULO VII",
+  "capitulo": "CAPITULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "081.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 1",
+      "texto": "La Diputación Permanente se instalará inmediatamente después de la última sesión ordinaria y acordará los días y hora de sus sesiones regulares."
+    },
+    {
+      "id": "081.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 2",
+      "texto": "Además, se reunirá siempre que fuere convocada por su Presidente; deberá celebrar por lo menos una sesión semanaria y sesionar con la concurrencia de tres de sus miembros cuando menos. Las decisiones se tomarán por mayoría de votos, y, en caso de empate, el Presidente tendrá voto de calidad."
+    },
+    {
+      "id": "081.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 3",
+      "texto": "[Artículo reformado en el segundo párrafo mediante Decreto No. 403-94 publicado en el P.O.E. No. 79 del 1º. de octubre de 1994]"
+    },
+    {
+      "id": "081.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 4",
+      "texto": "[Artículo reformado en el primer párrafo mediante Decreto No. 910-2015 II P.O. publicado en el P.O.E. No. 98 del 9 de diciembre de 2015]"
+    }
+  ]
+}
