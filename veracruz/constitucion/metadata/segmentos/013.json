@@ -1,0 +1,36 @@
+{
+  "clave": "013",
+  "etiqueta": "Artículo 13",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "013.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › párrafo 1",
+      "texto": "La vecindad se pierde por:"
+    },
+    {
+      "id": "013.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción I",
+      "texto": "I. Ausencia declarada judicialmente; o"
+    },
+    {
+      "id": "013.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Fracción II",
+      "texto": "II. Manifestación expresa de residir fuera del territorio del Estado.\n\nLa vecindad no se pierde por ausencia en el desempeño de algún cargo de elección popular, comisión oficial o con motivo del cumplimiento del deber de participar en defensa de la patria y de sus instituciones."
+    }
+  ]
+}

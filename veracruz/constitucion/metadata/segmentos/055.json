@@ -1,0 +1,36 @@
+{
+  "clave": "055",
+  "etiqueta": "Artículo 55",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "055.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 55 › párrafo 1",
+      "texto": "(REFORMADO, G.O. 27 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "055.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 55 › párrafo 2",
+      "texto": "El Poder Judicial se deposita en los Tribunales Superior de Justicia, de Disciplina Judicial y de Conciliación y Arbitraje, así como en los juzgados que señale la ley Orgánica de la materia."
+    },
+    {
+      "id": "055.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 55 › párrafo 3",
+      "texto": "En la elección de Magistradas, Magistrados, Juezas y Jueces de Primera Instancia que integran estos órganos jurisdiccionales, respectivamente, así como para la designación de las personas que integran el órgano de administración judicial se observará el principio de paridad de género de acuerdo con las formas y procedimientos que establezca la ley."
+    }
+  ]
+}

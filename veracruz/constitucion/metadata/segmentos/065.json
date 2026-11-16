@@ -1,0 +1,108 @@
+{
+  "clave": "065",
+  "etiqueta": "Artículo 65",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "065.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › párrafo 1",
+      "texto": "El pleno del Tribunal Superior de Justicia conocerá, en los términos que establezca la ley, de los asuntos siguientes."
+    },
+    {
+      "id": "065.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › Fracción I",
+      "texto": "I. De las controversias constitucionales que surjan entre:"
+    },
+    {
+      "id": "065.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 65 › Fracción I › inciso a)",
+      "texto": "a) Dos o más municipios;"
+    },
+    {
+      "id": "065.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 65 › Fracción I › inciso b)",
+      "texto": "b) Uno o más municipios y el Poder Ejecutivo o el Legislativo; y"
+    },
+    {
+      "id": "065.I.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 65 › Fracción I › inciso c)",
+      "texto": "c) El Poder Ejecutivo y el Legislativo.\n\nSiempre que las controversias versen sobre disposiciones generales de los Poderes Ejecutivo, Legislativo, o de los municipios, y la resolución del Pleno del Tribunal Superior de Justicia las declare inconstitucionales, ésta tendrá efectos generales cuando hubiere sido aprobada por las dos terceras partes de sus miembros, y surtirá efectos a partir de su publicación en la Gaceta Oficial del Estado."
+    },
+    {
+      "id": "065.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › Fracción II",
+      "texto": "II. De las acciones de inconstitucionalidad en contra de leyes o decretos que se consideren contrarios a esta Constitución, y que se ejerciten dentro de los treinta días siguientes a su promulgación y publicación por:\n\n(REFORMADO, G.O. 4 DE MAYO DE 2026)"
+    },
+    {
+      "id": "065.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 65 › Fracción II › inciso a)",
+      "texto": "a) La persona titular del Poder Ejecutivo; o"
+    },
+    {
+      "id": "065.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 65 › Fracción II › inciso b)",
+      "texto": "b) Cuando menos la tercera parte de los miembros del Congreso.\n\nLas resoluciones dictadas tendrán efectos generales cuando hubieren sido aprobadas por las dos terceras partes de los miembros del pleno del Tribunal Superior de Justicia, y surtirán efectos a partir de su publicación en la Gaceta Oficial del Estado, sin poder aplicarse retroactivamente excepto cuando se trate de asuntos del orden penal y en beneficio del inculpado."
+    },
+    {
+      "id": "065.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 65 › Fracción III",
+      "texto": "III. De las acciones por omisión legislativa, cuando se considere que el Congreso no ha aprobado alguna ley o decreto y que dicha omisión afecte el debido cumplimiento de esta Constitución, que interponga:\n\n(REFORMADO, G.O. 4 DE MAYO DE 2026)"
+    },
+    {
+      "id": "065.III.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 65 › Fracción III › inciso a)",
+      "texto": "a) La persona titular del Poder Ejecutivo; o"
+    },
+    {
+      "id": "065.III.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 65 › Fracción III › inciso b)",
+      "texto": "b) Cuando menos la tercera parte de los ayuntamientos.\n\nLa omisión legislativa surtirá sus efectos a partir de su publicación en la Gaceta Oficial del Estado.\n\nEn dicha resolución se determinará un plazo que comprenda dos períodos de sesiones ordinarias del Congreso del Estado, para que éste expida la ley o decreto de que se trate la omisión. Si transcurrido este plazo no se atendiere la resolución, el Tribunal Superior de Justicia dictará las bases a que deban sujetarse las autoridades, en tanto se expide dicha ley o decreto."
+    }
+  ]
+}

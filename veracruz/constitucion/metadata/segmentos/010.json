@@ -1,0 +1,234 @@
+{
+  "clave": "010",
+  "etiqueta": "Artículo 10",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "010.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 1",
+      "texto": "(REFORMADO, G.O. 3 DE AGOSTO DE 2020)"
+    },
+    {
+      "id": "010.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 2",
+      "texto": "Todas las personas tienen derecho a recibir una educación inclusiva y laica. El Estado y los municipios la impartirán en forma pública y gratuita. La inicial, la preescolar, la primaria y la secundaria conforman la educación básica; ésta y la media superior son obligatorias."
+    },
+    {
+      "id": "010.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 3",
+      "texto": "La educación superior se regirá y será obligatoria en términos del artículo 3° de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "010.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 4",
+      "texto": "La educación inicial es un derecho de la niñez y será responsabilidad del Estado concientizar sobre su importancia."
+    },
+    {
+      "id": "010.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 5",
+      "texto": "El sistema educativo de Veracruz se integra por las instituciones del Estado, de los municipios, sus entidades descentralizadas, las instituciones de educación superior dotadas de autonomía conforme a la ley como la Universidad Veracruzana y los particulares que impartan educación, en los términos que fije la ley."
+    },
+    {
+      "id": "010.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 6",
+      "texto": "La educación en Veracruz se orientará por los siguientes principios:"
+    },
+    {
+      "id": "010.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción I",
+      "texto": "I. Contribuirá a la mejor convivencia humana, a fin de fortalecer el aprecio y respeto por la naturaleza, la diversidad cultural, la dignidad de la persona, la integridad de las familias, la convicción del interés general de la sociedad, los ideales de fraternidad e igualdad de derechos de todas las personas, evitando los privilegios de razas, de religión, de grupos, de sexos o de individuos;\n\n(REFORMADA, G.O. 28 DE ENERO DE 2026)"
+    },
+    {
+      "id": "010.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción II",
+      "texto": "II. Promoverá los valores familiares y sociales que tiendan a la solidaridad humana, la preservación de la naturaleza, de los centros urbanos, el respeto y trato digno a los animales, así como el respeto a la ley;"
+    },
+    {
+      "id": "010.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción III",
+      "texto": "III. Desarrollará y promoverá el enriquecimiento, conservación y difusión de los bienes que integran el patrimonio artístico, histórico, científico y cultural;"
+    },
+    {
+      "id": "010.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción IV",
+      "texto": "IV. Será inclusiva, al tomar en cuenta las diversas capacidades, circunstancias y necesidades de los educandos. Con base en el principio de accesibilidad se realizarán ajustes razonables y se implementarán medidas específicas con el objetivo de eliminar las barreras para el aprendizaje y la participación;"
+    },
+    {
+      "id": "010.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción V",
+      "texto": "V. Priorizará el interés superior de niñas, niños, adolescentes y jóvenes en el acceso, permanencia y participación en los servicios educativos;"
+    },
+    {
+      "id": "010.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción VI",
+      "texto": "VI. Se basará en el respeto irrestricto de la dignidad de las personas, con un enfoque de derechos humanos, perspectiva de género y de igualdad sustantiva. Tenderá a desarrollar armónicamente todas las facultades del ser humano y fomentará en él, a la vez, el amor a la Patria, el respeto a todos los derechos, las libertades, la cultura de paz y la conciencia de la solidaridad internacional en la independencia y en la justicia; promoverá la honestidad, los valores y la mejora continua del proceso de enseñanza aprendizaje;"
+    },
+    {
+      "id": "010.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción VII",
+      "texto": "VII. Será equitativa, para lo cual el Estado implementará medidas que favorezcan el ejercicio pleno del derecho a la educación de las personas y combatan las desigualdades socioeconómicas, regionales y de género en el acceso, tránsito y permanencia en los servicios educativos;"
+    },
+    {
+      "id": "010.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción VIII",
+      "texto": "VIII. Será intercultural, al promover la convivencia armónica entre personas y comunidades para el respeto y reconocimiento de sus diferencias y derechos, en un marco de inclusión social;"
+    },
+    {
+      "id": "010.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción IX",
+      "texto": "IX. Será integral, educará para la vida, con el objeto de desarrollar en las personas capacidades cognitivas, socioemocionales y físicas que les permitan alcanzar su bienestar; y"
+    },
+    {
+      "id": "010.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción X",
+      "texto": "X. Será de excelencia, entendida como el mejoramiento integral constante que promueve el máximo logro de aprendizaje de los educandos, para el desarrollo de su pensamiento crítico y el fortalecimiento de los lazos entre escuela y comunidad.\n\nLa educación será organizada y garantizada por el Estado como un proceso integral y permanente, articulado en sus diversos ciclos, de acuerdo con las siguientes bases:"
+    },
+    {
+      "id": "010.I~2",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción I",
+      "texto": "I. el Estado impulsará la educación en todos sus niveles y modalidades, y establecerá la coordinación necesaria con las autoridades federales en la materia;"
+    },
+    {
+      "id": "010.II~2",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción II",
+      "texto": "II. Las maestras y los maestros son agentes fundamentales del proceso educativo y, por tanto, se reconoce su contribución a la transformación social;\n\n(REFORMADA, G.O. 28 DE ENERO DE 2026)"
+    },
+    {
+      "id": "010.III~2",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción III",
+      "texto": "III. Los programas educativos podrán ser complementados con aspectos que consideren las realidades y contextos, regionales y locales, incluyendo la investigación de la geografía, historia y cultura de Veracruz, así como su papel en el desarrollo de la nación mexicana y en el contexto internacional; de igual forma, incluirán la promoción del respeto, la tutela responsable, el trato digno y la protección de los animales como parte de una educación ambiental, ética y cívica integral;\n\nIV: Los planteles educativos constituyen un espacio fundamental para el proceso de enseñanza y aprendizaje. El Estado garantizará que los materiales didácticos, la infraestructura educativa, su mantenimiento y las condiciones del entorno sean idóneos y contribuyan a los fines de la educación;"
+    },
+    {
+      "id": "010.V~2",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción V",
+      "texto": "V. Llevará a cabo el establecimiento y desarrollo de programas especiales para una mejor integración a la sociedad de personas adultas mayores y con discapacidad;"
+    },
+    {
+      "id": "010.VI~2",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción VI",
+      "texto": "VI. En educación para personas adultas, se aplicarán estrategias que aseguren su derecho a ingresar a las instituciones educativas en sus distintos tipos y modalidades;"
+    },
+    {
+      "id": "010.VII~2",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción VII",
+      "texto": "VII. En los pueblos y comunidades indígenas se impartirá educación plurilingüe e intercultural basada en el respeto, promoción y preservación del patrimonio histórico y cultural, usos y costumbres, etnohistoria y cosmovisión;"
+    },
+    {
+      "id": "010.VIII~2",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción VIII",
+      "texto": "VIII. En las escuelas de educación básica de alta marginación, se impulsarán acciones que mejoren las condiciones de vida de los educandos, con énfasis en las de carácter alimentario.\n\nAsimismo, se respaldará a estudiantes en vulnerabilidad social, mediante el establecimiento de políticas incluyentes y transversales;"
+    },
+    {
+      "id": "010.IX~2",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción IX",
+      "texto": "IX. El Estado apoyará la investigación e innovación científica, humanística y tecnológica, y garantizará el acceso abierto a la información que derive de ella. Toda persona tiene derecho a gozar de los beneficios del desarrollo de la ciencia y la innovación tecnológica; y"
+    },
+    {
+      "id": "010.X~2",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción X",
+      "texto": "X. La educación superior y tecnológica tendrá como finalidades crear, conservar y transmitir la cultura y la ciencia, respetará las libertades de cátedra y de investigación, de libre examen y de discusión de las ideas y procurará su vinculación con el sector productivo.\n\nLas instituciones de educación superior del Estado dotadas de autonomía conforme a la Ley, como la Universidad Veracruzana, tendrán la facultad de autogobernarse, expedir su reglamentación y nombrar a sus autoridades; realizarán sus fines de conservar, crear y transmitir la cultura y la ciencia, a través de las funciones de docencia, investigación, difusión y extensión, respetando las libertades de cátedra, de investigación, de libre examen y discusión de las ideas;\n\ndeterminarán sus planes y programas; fijarán los términos de ingreso, promoción y permanencia de su personal académico; contarán con autonomía presupuestaria y administrarán libremente su patrimonio, que se integrará con las aportaciones federales y estatales, la transmisión de bienes y derechos de personas físicas o morales, nacionales o extranjeras, los recursos generados por los servicios que preste, así como por los demás que señale su ley.\n\nEn el caso de la Universidad Veracruzana, el presupuesto asignado no podrá ser menor al cuatro por ciento del total del presupuesto general del Estado, previsto para el ejercicio anual respectivo, el cual deberá ministrarse conforme al calendario autorizado en los términos que establezca la legislación aplicable y, en ningún caso, el monto del presupuesto asignado será inferior al otorgado en el ejercicio inmediato anterior.\n\nLos bienes inmuebles de las instituciones de educación superior del Estado dotadas de autonomía, destinados a la prestación del servicio público educativo, estarán exentos del pago de contribuciones locales y municipales."
+    }
+  ]
+}

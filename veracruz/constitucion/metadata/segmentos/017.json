@@ -1,0 +1,99 @@
+{
+  "clave": "017",
+  "etiqueta": "Artículo 17",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "017.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 1",
+      "texto": "El Poder Público del Estado es popular, representativo y democrático, y para su ejercicio se divide en Legislativo, Ejecutivo y Judicial. La capital y sede oficial de los poderes del Estado es el municipio de Xalapa-Enríquez."
+    },
+    {
+      "id": "017.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 2",
+      "texto": "No podrán reunirse dos o más de estos Poderes en una sola persona, asamblea o corporación, ni depositarse el Legislativo en un solo individuo, salvo lo previsto en las fracciones XXXIII del artículo 33 y III del artículo 65 de esta Constitución."
+    },
+    {
+      "id": "017.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 3",
+      "texto": "(REFORMADO, TERCER, PÁRRAFO; G.O. 18 DE NOVIEMBRE DE 2021)"
+    },
+    {
+      "id": "017.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 4",
+      "texto": "La ley regulará los procedimientos participativos de referendo, plebiscito, consulta popular y revocación de mandato. En el ámbito estatal, los procedimientos de plebiscito y referendo tendrán como base el proceso legislativo, en tanto la consulta popular y la revocación de mandato el voto universal, libre, directo, secreto, personal e intransferible; y, en el ámbito municipal el procedimiento tendrá como base el procedimiento edilicio del Cabildo."
+    },
+    {
+      "id": "017.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 5",
+      "texto": "(REFORMADO, CUARTO, PÁRRAFO; G.O. 4 DE MAYO DE 2026)"
+    },
+    {
+      "id": "017.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 6",
+      "texto": "Los miembros del Congreso y la persona titular del Poder Ejecutivo tienen derecho de iniciativa en los procedimientos participativos de referendo y plebiscito, así como de solicitar la realización de consultas populares, en términos de esta Constitución y la ley."
+    },
+    {
+      "id": "017.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 7",
+      "texto": "El referendo será obligatorio en los siguientes casos:"
+    },
+    {
+      "id": "017.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 8",
+      "texto": "(REFORMADO, G.O. 18 DE MARZO DE 2003)"
+    },
+    {
+      "id": "017.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › inciso a)",
+      "texto": "a) Para la reforma total o la abrogación de las disposiciones de esta Constitución; y"
+    },
+    {
+      "id": "017.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › inciso b)",
+      "texto": "b) Para los demás casos que establezcan esta Constitución y la ley.\n\nEl plebiscito será obligatorio en los casos que señalen esta Constitución y la ley."
+    }
+  ]
+}

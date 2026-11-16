@@ -1,0 +1,81 @@
+{
+  "clave": "039",
+  "etiqueta": "Artículo 39",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "039.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 1",
+      "texto": "(REFORMADO, PRIMER PÁRRAFO; G.O. 4 DE MAYO DE 2026)"
+    },
+    {
+      "id": "039.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 2",
+      "texto": "La persona titular del Poder Ejecutivo no podrá hacer observaciones a las siguientes resoluciones del Congreso:"
+    },
+    {
+      "id": "039.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › Fracción I",
+      "texto": "I. Las que dicte como integrante del Constituyente Permanente en el orden federal o cuando ejerza funciones de Colegio Electoral;"
+    },
+    {
+      "id": "039.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › Fracción II",
+      "texto": "II. La declaratoria de reformas a esta Constitución;"
+    },
+    {
+      "id": "039.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › Fracción III",
+      "texto": "III. Acuerdos;"
+    },
+    {
+      "id": "039.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › Fracción IV",
+      "texto": "IV. Las pronunciadas en un juicio político o en declaración de procedencia para acusar a algún servidor público como presunto responsable de la comisión de algún delito;"
+    },
+    {
+      "id": "039.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › Fracción V",
+      "texto": "V. Al decreto de convocatoria de la Diputación Permanente a período de sesiones extraordinarias; y\n\n(REFORMADA, G.O. 4 DE MAYO DE 2026)"
+    },
+    {
+      "id": "039.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › Fracción VI",
+      "texto": "VI. Las relativas a la licencia temporal o renuncia de la persona titular del Poder Ejecutivo o de los magistrados del Poder Judicial."
+    }
+  ]
+}

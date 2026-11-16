@@ -1,0 +1,72 @@
+{
+  "clave": "026",
+  "etiqueta": "Artículo 26",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "026.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › párrafo 1",
+      "texto": "El Congreso tendrá como asuntos de atención preferente:"
+    },
+    {
+      "id": "026.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › Fracción I",
+      "texto": "I. En el primer período de sesiones ordinarias:\n\n(REFORMADO, G.O. 14 DE OCTUBRE DE 2024)"
+    },
+    {
+      "id": "026.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 26 › Fracción I › inciso a)",
+      "texto": "a) Examinar, discutir y, en su caso, modificar y aprobar el presupuesto que, en relación con los ingresos y egresos del año siguiente, le sea presentado durante la segunda quincena de octubre por la Gobernadora o el Gobernador del Estado. Cuando sea año de renovación conjunta del Congreso del Estado y de la persona Titular del Poder Ejecutivo, ésta tendrá, a más tardar, hasta el día quince de noviembre para presentar el presupuesto.\n\n(REFORMADO, G.O. 18 DE MARZO DE 2003)"
+    },
+    {
+      "id": "026.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 26 › Fracción I › inciso b)",
+      "texto": "b) Examinar, discutir y aprobar las leyes de ingresos de los municipios, que sean presentadas en las fechas que indique la ley respectiva; y\n\n(DEROGADO; G.O. 17 DE JULIO DE 2015)"
+    },
+    {
+      "id": "026.I.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 26 › Fracción I › inciso c)",
+      "texto": "c) Se deroga\n\n(REFORMADO, G.O. 4 DE MAYO DE 2026)"
+    },
+    {
+      "id": "026.I.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 26 › Fracción I › inciso d)",
+      "texto": "d) Recibir el informe anual de la persona titular del Poder Ejecutivo sobre el estado general que guarda la administración pública estatal.\n\n(DEROGADA; G.O. 17 DE JULIO DE 2015)"
+    },
+    {
+      "id": "026.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › Fracción II",
+      "texto": "II. Se deroga"
+    }
+  ]
+}

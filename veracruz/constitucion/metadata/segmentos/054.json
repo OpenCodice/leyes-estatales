@@ -1,0 +1,27 @@
+{
+  "clave": "054",
+  "etiqueta": "Artículo 54",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "054.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › párrafo 1",
+      "texto": "(DEROGADO, G.O. 9 DE ENERO DE 2015)"
+    },
+    {
+      "id": "054.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 54 › párrafo 2",
+      "texto": "DEROGADO"
+    }
+  ]
+}

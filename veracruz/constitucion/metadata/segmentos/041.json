@@ -1,0 +1,126 @@
+{
+  "clave": "041",
+  "etiqueta": "Artículo 41",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "041.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › párrafo 1",
+      "texto": "Son atribuciones de la Diputación Permanente:"
+    },
+    {
+      "id": "041.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › párrafo 2",
+      "texto": "(REFORMADO, G.O. 4 DE MAYO DE 2026)"
+    },
+    {
+      "id": "041.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › Fracción I",
+      "texto": "I. Acordar por sí misma o a solicitud de la persona titular del Poder Ejecutivo, la convocatoria al Congreso para llevar a cabo períodos de sesiones extraordinarias;\n\n(ADICIONADO; G.O. 17 DE JULIO DE 2015)\n\nPara efectos de la discusión y, en su caso, aprobación de los dictámenes de las cuentas públicas podrá convocar de manera extraordinaria cuantas veces sean necesarias."
+    },
+    {
+      "id": "041.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › Fracción II",
+      "texto": "II. Llamar a los diputados sustitutos de la propia Diputación, por ausencia, muerte, renuncia, inhabilitación o licencia por más de un mes de los propietarios;"
+    },
+    {
+      "id": "041.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › Fracción III",
+      "texto": "III. Recibir las iniciativas que le sean presentadas y turnarlas a las comisiones que correspondan;"
+    },
+    {
+      "id": "041.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › Fracción IV",
+      "texto": "IV. Presidir la sesión pública y solemne convocada para el solo efecto de declarar formalmente instalado el nuevo Congreso;\n\n(REFORMADA, G.O. 27 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "041.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › Fracción V",
+      "texto": "V. Conceder o negar las solicitudes de licencia o renuncia que le sometan las Magistradas y Magistrados del Poder Judicial, así como de las y los integrantes del órgano de administración judicial, cuando la licencia exceda de un mes;"
+    },
+    {
+      "id": "041.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › Fracción VI",
+      "texto": "VI. Autorizar, con el voto de las dos terceras partes de los diputados presentes, al Ejecutivo del Estado o a los Ayuntamientos, a enajenar a título oneroso o gratuito, o conceder el uso y disfrute, de bienes propiedad del Estado o de los municipios, dando cuenta al Congreso en la primera sesión de éste, concluido el receso. Las enajenaciones o concesiones sólo podrán hacerse cuando medie interés social;"
+    },
+    {
+      "id": "041.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › Fracción VII",
+      "texto": "VII. Convocar a elecciones extraordinarias, si faltaren a la vez un diputado propietario y su suplente en el distrito electoral que corresponda, cuando dicha falta ocurra antes de un año para que las elecciones ordinarias se efectúen;\n\n(ADICIONADA, G.O. 20 DE JUNIO DE 2019)\n\nVII Bis. Llamar, en cualquier momento, cuando se trate de diputados elegidos por el principio de representación proporcional, al siguiente en el orden que corresponda, según las listas presentadas por los partidos políticos, si ocurriere la falta del propietario y del suplente;\n\n(DEROGADA, G.O. 27 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "041.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › Fracción VIII",
+      "texto": "VIII. Se deroga.\n\n(ADICIONADO, G.O. 14 DE NOVIEMBRE DE 2008)\n\nVIII bis. Designar provisionalmente a quien sustituya al Contralor General del Instituto Electoral Veracruzano, en caso de renuncia, inhabilitación, ausencia o muerte, informando al Congreso en la primera sesión que lleve a cabo tras concluir el receso, para que se proceda a la designación definitiva;\n\n(REFORMADA, G.O. 4 DE NOVIEMBRE DE 2016)"
+    },
+    {
+      "id": "041.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › Fracción IX",
+      "texto": "IX. Conocer de los asuntos relacionados con la hacienda de los municipios y la práctica de auditorías, revisión y aprobación de las cuentas respectivas;\n\n(ADICIONADA, G.O. 4 DE NOVIEMBRE DE 2016)"
+    },
+    {
+      "id": "041.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › Fracción X",
+      "texto": "X. Conocer de las negativas a las recomendaciones emitidas por la Comisión Estatal de Derechos Humanos por parte de las autoridades y servidores públicos, pudiendo llamarlos a solicitud de dicha Comisión, para que comparezcan ante este órgano legislativo a efecto de que expliquen el motivo de su negativa; y"
+    },
+    {
+      "id": "041.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › Fracción XI",
+      "texto": "XI. Las demás que le confiera expresamente esta Constitución."
+    }
+  ]
+}

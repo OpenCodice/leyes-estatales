@@ -1,0 +1,72 @@
+{
+  "clave": "050",
+  "etiqueta": "Artículo 50",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "050.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 1",
+      "texto": "El Poder Ejecutivo, para el despacho de los asuntos de su competencia, tendrá las dependencias centralizadas y entidades paraestatales que señale la ley, con las atribuciones y organización que ésta determine."
+    },
+    {
+      "id": "050.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 2",
+      "texto": "La ley establecerá las bases generales de creación de las entidades de la administración pública descentralizada y la intervención del Ejecutivo en su operación; así como las relaciones entre dichas entidades y el Ejecutivo, o entre aquéllas y los órganos de la administración pública centralizada."
+    },
+    {
+      "id": "050.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 3",
+      "texto": "(REFORMADO, TECER PÁRRAFO; G.O. 30 DE JUNIO DE 2025)"
+    },
+    {
+      "id": "050.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 4",
+      "texto": "Los titulares de las dependencias y entidades de la administración pública deberán ser veracruzanas o veracruzanos, y contar con título profesional expedido por autoridad o institución legalmente facultada para ello, no incurrir en los impedimentos establecidos en el artículo 18 Bis de esta Constitución, y cumplir con los demás requisitos que establezca la ley."
+    },
+    {
+      "id": "050.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 5",
+      "texto": "(ADICIONADO, CUARTO PÁRRAFO; G.O. 11 DE MAYO DE 2020)"
+    },
+    {
+      "id": "050.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 6",
+      "texto": "Para el nombramiento o designación de las personas titulares de las dependencias y entidades de la Administración Pública se deberá observar el principio de paridad de género, de conformidad con las formas y modalidades que determine la ley."
+    },
+    {
+      "id": "050.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 7",
+      "texto": "Los titulares de las dependencias y entidades de la administración pública podrán, con autorización escrita del Ejecutivo, celebrar acuerdos y convenios en el ámbito de su competencia."
+    }
+  ]
+}

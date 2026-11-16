@@ -1,0 +1,27 @@
+{
+  "clave": "007",
+  "etiqueta": "Artículo 7",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 1",
+      "texto": "Toda persona podrá ejercer el derecho de petición ante las autoridades del Estado, de los municipios, así como de los organismos autónomos, los cuales estarán obligados a dar respuesta escrita, motivada y fundada, en un plazo no mayor de cuarenta y cinco días hábiles."
+    },
+    {
+      "id": "007.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 2",
+      "texto": "La ley regulará los casos en los que, ante el silencio de la autoridad administrativa, la respuesta a la petición se considere en sentido afirmativo."
+    }
+  ]
+}

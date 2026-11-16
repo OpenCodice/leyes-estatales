@@ -1,0 +1,18 @@
+{
+  "clave": "024",
+  "etiqueta": "Artículo 24",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "024.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › párrafo 1",
+      "texto": "El Congreso no podrá abrir sus sesiones ni ejercer su función sin la concurrencia de más de la mitad del número total de diputados; pero los presentes deberán reunirse el día señalado por la ley y compeler a los ausentes a que concurran dentro de los ocho días siguientes, con la advertencia de que si no lo hicieren se entenderá, por ese solo hecho, excepto causa justificada, que no aceptan el cargo, llamándose desde luego a los suplentes, los que deberán presentarse en un plazo igual; y si tampoco lo hicieren, se declarará vacante el cargo y se convocará a nuevas elecciones, si se trata de diputados electos por mayoría relativa. Si fuesen diputados electos por el principio de representación proporcional, se llamará al siguiente en el orden que corresponda, según las listas presentadas por los partidos políticos."
+    }
+  ]
+}

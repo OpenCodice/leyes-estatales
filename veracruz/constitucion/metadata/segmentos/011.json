@@ -1,0 +1,45 @@
+{
+  "clave": "011",
+  "etiqueta": "Artículo 11",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "011.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › párrafo 1",
+      "texto": "Son veracruzanos:"
+    },
+    {
+      "id": "011.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción I",
+      "texto": "I. Los nacidos en el territorio del Estado; y\n\n(REFORMADA, G.O. 20 DE JUNIO DE 2014)"
+    },
+    {
+      "id": "011.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción II",
+      "texto": "II. Los hijos de padre o madre nativos del Estado, nacidos en el territorio nacional o en el extranjero.\n\n(ADICIONADA, G.O. 11 DE AGOSTO DE 2022)"
+    },
+    {
+      "id": "011.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción III",
+      "texto": "III. Las o los mexicanos nacidos fuera del territorio del estado, con hijos veracruzanos o con una residencia efectiva de cinco años en territorio veracruzano.\n\nNota de Editor: A través de la Sentencia de Acción de Inconstitucionalidad número 125/2020 y sus acumuladas 127/2022 Y 128/2022, el Tribunal Pleno de la Suprema Corte de Justicia de la Nación declaró en su resolutivo Segundo la invalidez de la porción normativa señalada “con hijos veracruzanos o”; del Decreto 240 por el que se reforma la fracción III del artículo 11 de la Constitución Política del Estado de Veracruz, publicado en la Gaceta Oficial del Estado el 11 de agosto de 2022. La declaratoria de invalidez surtirá sus efectos a partir de la notificación de los puntos resolutivos de dicha Sentencia al Poder Legislativo del Estado, la cual tuvo verificativo el día 2 de febrero de 2023. (Ver las anotaciones a la ficha 86 contenida en la parte final de este documento, en la sección de registro de reformas y modificaciones.)"
+    }
+  ]
+}

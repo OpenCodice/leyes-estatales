@@ -1,0 +1,180 @@
+{
+  "clave": "056",
+  "etiqueta": "Artículo 56",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "056.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › párrafo 1",
+      "texto": "El Poder Judicial del Estado tendrá las siguientes atribuciones:"
+    },
+    {
+      "id": "056.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción I",
+      "texto": "I. Garantizar la supremacía y control de esta Constitución mediante su interpretación y anular las leyes o decretos contrarios a ella,\n\n(REFORMADA, G.O. 4 DE NOVIEMBRE 2016)"
+    },
+    {
+      "id": "056.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción II",
+      "texto": "II. Proteger y salvaguardar los derechos humanos reconocidos por la Constitución General de la República, los tratados internacionales de los que el Estado Mexicano sea parte y esta Constitución, así como los que el pueblo de Veracruz se reserve, mediante el juicio de protección correspondiente;"
+    },
+    {
+      "id": "056.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción III",
+      "texto": "III. Interpretar y aplicar las leyes del fuero común y las federales en jurisdicción concurrente;\n\n(DEROGADA, G.O. 9 DE ENERO DE 2015)"
+    },
+    {
+      "id": "056.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción IV",
+      "texto": "IV. DEROGADA\n\n(DEROGADA, G.O. 9 DE ENERO DE 2015)"
+    },
+    {
+      "id": "056.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción V",
+      "texto": "V. DEROGADA\n\n(DEROGADA, G.O. 2 DE OCTUBRE DE 2017)"
+    },
+    {
+      "id": "056.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción VI",
+      "texto": "VI. Derogada.\n\n(REFORMADA, G.O. 4 DE FEBRERO DE 2020)"
+    },
+    {
+      "id": "056.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción VII",
+      "texto": "VII. En materia laboral conocer y resolver:"
+    },
+    {
+      "id": "056.VII.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 56 › Fracción VII › inciso a)",
+      "texto": "a) A través de los jueces laborales, los conflictos que se susciten entre los trabajadores y patrones, sólo entre aquellos o sólo entre éstos, derivados de las relaciones de trabajo o de hechos relacionado con ellas, conforme al apartado A del artículo 123 de la constitución Política de los Estados Unidos Mexicanos y la Ley Federal del Trabajo y, de igual forma, los conflictos laborales de las universidades e instituciones de educación superior dotadas de autonomía en el estado en términos de la Constitución Política de los Estados Unidos Mexicanos. De forma previa deberá agotarse la instancia conciliatoria correspondiente, conforme lo establecen la Constitución política de los Estados Unidos Mexicanos y la Ley Federal del trabajo y,"
+    },
+    {
+      "id": "056.VII.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "VII",
+      "ruta": "Artículo 56 › Fracción VII › inciso b)",
+      "texto": "b) Por conducto del Tribunal de Conciliación y Arbitraje, las controversias laborales que se susciten entre los Poderes Judicial o Legislativo y sus trabajadores, así como entre la administración pública estatal o municipales con sus empleados en los términos que fije la Ley."
+    },
+    {
+      "id": "056.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción VIII",
+      "texto": "VIII. Tramitar y resolver, mediante los procedimientos que señale la ley, los asuntos de los menores infractores;"
+    },
+    {
+      "id": "056.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción IX",
+      "texto": "IX. Dictar las medidas procedentes para que la administración de justicia sea pronta, expedita y completa;"
+    },
+    {
+      "id": "056.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción X",
+      "texto": "X. Conocer del juicio político como órgano de sentencia, cuando los servidores públicos incurran en actos u omisiones que constituyan perjuicio a los intereses públicos fundamentales y a su correcto despacho;\n\n(REFORMADA, G.O. 27 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "056.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción XI",
+      "texto": "XI. Conocer, en los términos que fije la ley, respectivo de los juicios de responsabilidad civil derivada del ejercicio del cargo, que se instauren a instancia de parte agraviada o de sus causahabientes, en contra de Magistradas y Magistrados del Poder Judicial, integrantes del órgano de administración judicial, Fiscal General del Estado, Secretarios de Despacho, y demás servidores públicos de los Poderes Ejecutivo y Judicial;"
+    },
+    {
+      "id": "056.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción XII",
+      "texto": "XII. Determinar y publicar los precedentes obligatorios, sustentados en cinco resoluciones consecutivas en el mismo sentido en la materia, que vinculen a todas las autoridades del Estado, en los términos que señale la ley;"
+    },
+    {
+      "id": "056.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción XIII",
+      "texto": "XIII. Resolver los conflictos de competencia que surjan entre los tribunales y juzgados;"
+    },
+    {
+      "id": "056.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción XIV",
+      "texto": "XIV. Adscribir a los magistrados a las salas correspondientes; y\n\n(DEROGADA, G.O. 27 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "056.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción XV",
+      "texto": "XV. Se deroga."
+    },
+    {
+      "id": "056.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción XVI",
+      "texto": "XVI. Las demás atribuciones que le señale esta Constitución y la Ley."
+    }
+  ]
+}
