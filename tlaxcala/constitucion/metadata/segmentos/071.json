@@ -1,0 +1,27 @@
+{
+  "clave": "071",
+  "etiqueta": "Artículo 71",
+  "titulo": "",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "071.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 21 DE MAYO DE 2024)"
+    },
+    {
+      "id": "071.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › párrafo 2",
+      "texto": "La institución del Ministerio Público del Estado se organizará en una Fiscalía General de Justicia del Estado, con la naturaleza de un órgano autónomo dotado de personalidad jurídica y patrimonio propios, con autonomía técnica, presupuestal y de gestión."
+    }
+  ]
+}

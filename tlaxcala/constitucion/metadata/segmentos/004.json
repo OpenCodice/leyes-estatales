@@ -1,0 +1,27 @@
+{
+  "clave": "004",
+  "etiqueta": "Artículo 4",
+  "titulo": "",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "004.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "004.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 2",
+      "texto": "El territorio del Estado es el que le corresponde conforme a la Constitución Política de los Estados Unidos Mexicanos."
+    }
+  ]
+}

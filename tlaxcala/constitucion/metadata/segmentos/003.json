@@ -1,0 +1,108 @@
+{
+  "clave": "003",
+  "etiqueta": "Artículo 3",
+  "titulo": "",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "003.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "003.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 2",
+      "texto": "En el Estado de Tlaxcala, por cuanto a su régimen interior:"
+    },
+    {
+      "id": "003.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción I",
+      "texto": "I. Serán Ley Suprema esta Constitución, las leyes y decretos del Congreso del Estado que emanen de ella;"
+    },
+    {
+      "id": "003.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción II",
+      "texto": "II. Todos los convenios y acuerdos de coordinación que celebren las autoridades estatales con las de la Federación y las municipales que requieran la aprobación del Congreso;"
+    },
+    {
+      "id": "003.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción III",
+      "texto": "III. Decretos;"
+    },
+    {
+      "id": "003.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción IV",
+      "texto": "IV. Reglamentos;"
+    },
+    {
+      "id": "003.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción V",
+      "texto": "V. Acuerdos;"
+    },
+    {
+      "id": "003.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción VI",
+      "texto": "VI. Circulares;"
+    },
+    {
+      "id": "003.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción VII",
+      "texto": "VII. La normatividad que en el ámbito de su competencia aprueben los ayuntamientos del Estado, en términos del artículo 115 de la Constitución Política de los Estados Unidos Mexicanos;"
+    },
+    {
+      "id": "003.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción VIII",
+      "texto": "VIII. Resoluciones judiciales, y"
+    },
+    {
+      "id": "003.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción IX",
+      "texto": "IX. Usos y costumbres."
+    }
+  ]
+}

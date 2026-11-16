@@ -1,0 +1,36 @@
+{
+  "clave": "042",
+  "etiqueta": "Artículo 42",
+  "titulo": "",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "042.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 18 DE MAYO DE 2001)"
+    },
+    {
+      "id": "042.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 2",
+      "texto": "El Congreso realizará dos períodos ordinarios de sesiones anuales. La Ley establecerá los tiempos y demás modalidades."
+    },
+    {
+      "id": "042.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 3",
+      "texto": "Además de las sesiones en los períodos ordinarios, el Congreso podrá celebrar sesiones extraordinarias en cualquier tiempo, cuando para tal efecto sea convocado por la Mesa Directiva o la Comisión Permanente, en su caso, por sí mismos o a solicitud del Gobernador. Estas sesiones se ocuparán únicamente de los asuntos contenidos en la convocatoria."
+    }
+  ]
+}

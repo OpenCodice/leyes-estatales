@@ -1,0 +1,27 @@
+{
+  "clave": "116",
+  "etiqueta": "Artículo 116",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "116.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "116.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › párrafo 2",
+      "texto": "Todo servidor público, antes de tomar posesión de su cargo, rendirá protesta de guardar y hacer guardar la Constitución Federal, la Particular del Estado y las Leyes que de ellas emanen. Sin este requisito los actos derivados de esas funciones serán ilegales."
+    }
+  ]
+}

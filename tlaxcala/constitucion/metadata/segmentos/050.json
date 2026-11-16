@@ -1,0 +1,27 @@
+{
+  "clave": "050",
+  "etiqueta": "Artículo 50",
+  "titulo": "",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "050.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 18 DE MAYO DE 2001)"
+    },
+    {
+      "id": "050.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 2",
+      "texto": "Toda Ley devuelta por el Ejecutivo con observaciones, volverá a sujetarse a discusión, y si fuere confirmada por el voto de las dos terceras partes de los diputados presentes, se remitirá nuevamente a aquél para que sin más trámite dentro del término de cinco días hábiles, la promulgue. La omisión a este mandato será motivo de responsabilidad."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "094",
+  "etiqueta": "Artículo 94",
+  "titulo": "",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "094.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 18 DE MAYO DE 2001)"
+    },
+    {
+      "id": "094.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 › párrafo 2",
+      "texto": "Las presidencias de comunidad formarán comités de obras y recursos materiales y publicarán en el Periódico Oficial la distribución de los recursos asignados."
+    },
+    {
+      "id": "094.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 › párrafo 3",
+      "texto": "La Ley Municipal determinará las demás facultades y obligaciones de los Ayuntamientos y de las presidencias de comunidad."
+    }
+  ]
+}

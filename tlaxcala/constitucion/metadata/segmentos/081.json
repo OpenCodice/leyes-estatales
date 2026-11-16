@@ -1,0 +1,333 @@
+{
+  "clave": "081",
+  "etiqueta": "Artículo 81",
+  "titulo": "",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "081.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 18 DE MAYO DE 2001)"
+    },
+    {
+      "id": "081.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 2",
+      "texto": "El Pleno del Tribunal Superior de Justicia, actuando como Tribunal de Control Constitucional del Estado, conocerá de los asuntos siguientes:"
+    },
+    {
+      "id": "081.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 3",
+      "texto": "(REFORMADA, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "081.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › Fracción I",
+      "texto": "I. De los medios de defensa que hagan valer los particulares contra leyes o actos de autoridades que vulneren los derechos humanos consagrados en esta Constitución;"
+    },
+    {
+      "id": "081.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › Fracción II",
+      "texto": "II. De los juicios de competencia constitucional, por actos o normas jurídicas de carácter general que violen esta Constitución y las Leyes que de ella emanen, y que susciten entre:"
+    },
+    {
+      "id": "081.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 81 › Fracción II › inciso a)",
+      "texto": "a) Los Poderes Legislativo y Ejecutivo del Estado;"
+    },
+    {
+      "id": "081.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 81 › Fracción II › inciso b)",
+      "texto": "b) El Poder Legislativo y un Ayuntamiento o Concejo Municipal;"
+    },
+    {
+      "id": "081.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 81 › Fracción II › inciso c)",
+      "texto": "c) El Poder Ejecutivo y un Ayuntamiento o Concejo Municipal;"
+    },
+    {
+      "id": "081.II.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 81 › Fracción II › inciso d)",
+      "texto": "d) Dos o más Ayuntamientos o concejos municipales, de Municipios diferentes, siempre que no se trate de cuestiones relativas a sus límites territoriales; en tal caso, la decisión corresponderá al Congreso; y,"
+    },
+    {
+      "id": "081.II.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 81 › Fracción II › inciso e)",
+      "texto": "e) Dos o más munícipes de un mismo Ayuntamiento o Concejo Municipal, incluidos los presidentes de comunidad."
+    },
+    {
+      "id": "081.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › Fracción III",
+      "texto": "III. De las acciones de inconstitucionalidad que se promuevan contra normas jurídicas de carácter general, provenientes del Congreso del Estado y en las que se plantee violación abstracta a esta Constitución. El ejercicio de estas acciones corresponderá:"
+    },
+    {
+      "id": "081.III.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 81 › Fracción III › inciso a)",
+      "texto": "a) Al equivalente al veinticinco por ciento de los diputados que integran el Poder Legislativo del Estado;"
+    },
+    {
+      "id": "081.III.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 81 › Fracción III › inciso b)",
+      "texto": "b) A la Comisión Estatal de Derechos Humanos;"
+    },
+    {
+      "id": "081.III.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 81 › Fracción III › inciso c)",
+      "texto": "c) A la Universidad Autónoma de Tlaxcala;\n\n(REFORMADO, P.O. 21 DE MAYO DE 2024)"
+    },
+    {
+      "id": "081.III.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 81 › Fracción III › inciso d)",
+      "texto": "d) A la persona titular de la Fiscalía General de Justicia del Estado, en los asuntos relativos a las funciones de ese Ente, e\n\n(REFORMADO, P.O. 21 DE JULIO DE 2015)"
+    },
+    {
+      "id": "081.III.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "III",
+      "ruta": "Artículo 81 › Fracción III › inciso e)",
+      "texto": "e) A los partidos políticos debidamente registrados ante el organismo público local electoral, en asuntos de la materia electoral."
+    },
+    {
+      "id": "081.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › Fracción IV",
+      "texto": "IV. De las acciones de inconstitucionalidad que se promuevan contra normas jurídicas de carácter general, provenientes de algún Ayuntamiento o Concejo Municipal y en las que se plantee violación abstracta a esta Constitución. El ejercicio de estas acciones corresponderá:"
+    },
+    {
+      "id": "081.IV.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 81 › Fracción IV › inciso a)",
+      "texto": "a) Al equivalente al veinticinco por ciento de los munícipes del mismo Ayuntamiento o Concejo Municipal, incluidos los presidentes de comunidad;"
+    },
+    {
+      "id": "081.IV.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 81 › Fracción IV › inciso b)",
+      "texto": "b) Al o los diputados, en cuyo distrito electoral se comprenda el Ayuntamiento o Concejo Municipal que haya expedido la norma impugnada;"
+    },
+    {
+      "id": "081.IV.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 81 › Fracción IV › inciso c)",
+      "texto": "c) Al Gobernador del Estado;"
+    },
+    {
+      "id": "081.IV.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 81 › Fracción IV › inciso d)",
+      "texto": "d) A la Comisión Estatal de Derechos Humanos;"
+    },
+    {
+      "id": "081.IV.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 81 › Fracción IV › inciso e)",
+      "texto": "e) A las Universidades Públicas estatales; y,\n\n(REFORMADO, P.O. 21 DE MAYO DE 2024)"
+    },
+    {
+      "id": "081.IV.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 81 › Fracción IV › inciso f)",
+      "texto": "f) A la persona titular de la Fiscalía General de Justicia del Estado, en los asuntos relativos a las funciones de ese Ente."
+    },
+    {
+      "id": "081.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › Fracción V",
+      "texto": "V. El trámite y resolución de los juicios de competencia constitucional y acciones de inconstitucionalidad a que se refieren las tres Fracciones anteriores, se sujetará a los términos siguientes:"
+    },
+    {
+      "id": "081.V.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 81 › Fracción V › inciso a)",
+      "texto": "a) El término para promover el juicio de competencia constitucional será de treinta días naturales, contados a partir de aquél en que la parte actora haya tenido conocimiento del acto o norma jurídica que pretenda impugnar;"
+    },
+    {
+      "id": "081.V.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 81 › Fracción V › inciso b)",
+      "texto": "b) El término para ejercitar las acciones de inconstitucionalidad será de noventa días naturales, contados a partir de aquél en que la norma jurídica que se desea impugnar, haya sido publicada en el Periódico Oficial del Gobierno del Estado;"
+    },
+    {
+      "id": "081.V.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 81 › Fracción V › inciso c)",
+      "texto": "c) La promoción para el juicio de competencia constitucional suspenderá la ejecución de los actos materiales que se impugnen, salvo que con ello se cause mayor perjuicio al interés público, a criterio del órgano de control constitucional.\n\nCuando se trate de impugnaciones a normas jurídicas, mediante juicios de competencia constitucional o acciones de inconstitucionalidad, no procederá la suspensión de la aplicación de la norma;\n\n(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)"
+    },
+    {
+      "id": "081.V.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 81 › Fracción V › inciso d)",
+      "texto": "d) Las resoluciones que declaren procedentes los juicios de competencia constitucional, cuando versen sobre normas jurídicas y las acciones de inconstitucionalidad, deberán ser aprobadas por mayoría de cinco magistrados, si el fin es declarar inválida la norma y con efectos generales; en caso contrario se desestimará la impugnación;\n\n(REFORMADO, P.O. 6 DE NOVIEMBRE DE 2015)"
+    },
+    {
+      "id": "081.V.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 81 › Fracción V › inciso e)",
+      "texto": "e) El quórum en las sesiones del Tribunal cuando deban votarse resoluciones que versen sobre normas jurídicas, se formará cuando menos con cinco Magistrados. De no obtenerse ese quórum, se suspenderá la sesión y se convocará para el día hábil siguiente; y si tampoco así se pudiese sesionar, se llamará a los suplentes que corresponda, hasta obtener dicho quórum, informando de ello al Congreso, para que, de no tener justificación, suspenda de sus funciones a los ausentes;"
+    },
+    {
+      "id": "081.V.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 81 › Fracción V › inciso f)",
+      "texto": "f) Los acuerdos de trámite que dicte el Presidente del Tribunal y el Magistrado ponente, podrán ser recurridos ante el Pleno del Tribunal.\n\nLas resoluciones dictadas por el Pleno del Tribunal, cualquiera que sea su sentido, son irrecurribles;\n\n(REFORMADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "081.V.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 81 › Fracción V › inciso g)",
+      "texto": "g) Las resoluciones definitivas del Tribunal, deberán publicarse en el boletín del Poder Judicial y un extracto de las mismas en el Periódico Oficial del Gobierno del Estado;"
+    },
+    {
+      "id": "081.V.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 81 › Fracción V › inciso h)",
+      "texto": "h) Las resoluciones del pleno deberán ser obedecidas; de no hacerlo, la autoridad omisa será destituida por el mismo pleno; e,"
+    },
+    {
+      "id": "081.V.i",
+      "tipo": "inciso",
+      "marca": "i",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 81 › Fracción V › inciso i)",
+      "texto": "i) La Ley reglamentaria de este Artículo determinará las demás características del funcionamiento y atribuciones del Tribunal de Control Constitucional."
+    },
+    {
+      "id": "081.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › Fracción VI",
+      "texto": "VI. De las acciones contra la omisión legislativa imputables al Congreso, Gobernador y Ayuntamientos o concejos municipales, por la falta de expedición de las normas jurídicas de carácter general, a que estén obligados en términos de las Constituciones Políticas, de los Estados Unidos Mexicanos, del Estado y de las Leyes.\n\nEl ejercicio de esta acción corresponderá a las autoridades estatales y municipales, así como a las personas residentes en el Estado.\n\nAl admitirse la demanda, se ordenará correr traslado a la responsable y al Director del Periódico Oficial del Gobierno del Estado, para que rindan sus informes. Se celebrará una audiencia de pruebas y alegatos e inmediatamente después se dictará la resolución correspondiente. De verificarse la omisión legislativa, se concederá a la responsable un término que no exceda de tres meses para expedir la norma jurídica solicitada. El incumplimiento a esta sentencia, será motivo de responsabilidad.\n\nEn lo conducente, serán aplicables a esta acción lo establecido en los incisos d),"
+    },
+    {
+      "id": "081.VI.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "VI",
+      "ruta": "Artículo 81 › Fracción VI › inciso e)",
+      "texto": "e), f), g) e i), de la fracción anterior.\n\n(ADICIONADA, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "081.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › Fracción VII",
+      "texto": "VII. De las cuestiones de inconstitucionalidad planteadas por los órganos jurisdiccionales cuando consideren de oficio o a instancia de parte, en algún proceso, que una norma con carácter general, aplicable al caso, de cuya validez dependa el fallo pueda ser contraria a la Constitución, en los términos que establezca la ley."
+    }
+  ]
+}

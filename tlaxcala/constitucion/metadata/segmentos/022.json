@@ -1,0 +1,63 @@
+{
+  "clave": "022",
+  "etiqueta": "Artículo 22",
+  "titulo": "",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "022.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "022.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › párrafo 2",
+      "texto": "Son derechos políticos de los ciudadanos:"
+    },
+    {
+      "id": "022.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción I",
+      "texto": "I. Votar en las elecciones populares del Estado;\n\n(REFORMADA, P.O. 10 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "022.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción II",
+      "texto": "II. Poder ser votado y registrado como candidato por partido político o de manera independiente para ocupar cargos de elección popular, o ser nombrado para cualquier otro empleo o comisión, si reúne los requisitos que la ley establezca. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y cumplan con los requisitos, condiciones y términos que determinen las leyes aplicables. Para la solicitud de registros y la postulación de candidaturas a cargos del Poder Judicial, y de los Tribunales de Justicia Administrativa y de Conciliación y Arbitraje se deberán cumplir los términos y requisitos establecidos en la presente Constitución y las leyes aplicables;"
+    },
+    {
+      "id": "022.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción III",
+      "texto": "III. Asociarse libremente para participar de forma pacífica en los asuntos del Estado, y"
+    },
+    {
+      "id": "022.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › Fracción IV",
+      "texto": "IV. Participar conforme a las leyes de la materia en las consultas populares, plebiscitarias y de referéndum."
+    }
+  ]
+}
