@@ -1,0 +1,27 @@
+{
+  "clave": "020",
+  "etiqueta": "Artículo 20",
+  "titulo": "TÍTULO II",
+  "capitulo": "CAPÍTULO ÚNICO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "020.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 1",
+      "texto": "Son personas extranjeras en el Estado quienes no posean las calidades determinadas en el artículo 30 de la Constitución Política de los Estados Unidos Mexicanos, quienes gozarán de los derechos humanos y garantías que reconoce esta Constitución."
+    },
+    {
+      "id": "020.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 2",
+      "texto": "Artículo reformado y reubicado POG 3 de noviembre de 2012 (Decreto 419)"
+    }
+  ]
+}

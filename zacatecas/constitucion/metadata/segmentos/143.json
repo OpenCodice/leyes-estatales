@@ -1,0 +1,72 @@
+{
+  "clave": "143",
+  "etiqueta": "Artículo 143",
+  "titulo": "TÍTULO VI",
+  "capitulo": "CAPÍTULO TERCERO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "143.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 143 › párrafo 1",
+      "texto": "Los bienes que integran el patrimonio del Estado pueden ser de dominio público y de dominio privado."
+    },
+    {
+      "id": "143.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 143 › Apartado A",
+      "texto": "A. Son bienes de dominio público:"
+    },
+    {
+      "id": "143.A.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 143 › Apartado A › Fracción I",
+      "texto": "I. Los de uso común;"
+    },
+    {
+      "id": "143.A.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 143 › Apartado A › Fracción II",
+      "texto": "II. Los inmuebles destinados a un servicio público;"
+    },
+    {
+      "id": "143.A.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 143 › Apartado A › Fracción III",
+      "texto": "III. Los muebles que normalmente sean insustituibles, de singular valor o importancia; y"
+    },
+    {
+      "id": "143.A.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 143 › Apartado A › Fracción IV",
+      "texto": "IV. Los demás que señalen las leyes respectivas.\n\nEstos bienes son inalienables, imprescriptibles e inembargables y no están sujetos, mientras no varíe su situación jurídica, a acción reivindicatoria o de posesión definitiva o provisional."
+    },
+    {
+      "id": "143.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 143 › Apartado B",
+      "texto": "B. Son bienes de dominio privado estatal los no comprendidos en las fracciones del apartado anterior."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "127",
+  "etiqueta": "Artículo 127",
+  "titulo": "TÍTULO V",
+  "capitulo": "CAPÍTULO QUINTO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "127.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 1",
+      "texto": "El gobierno municipal se deposita en una asamblea que se denominará “Ayuntamiento”, integrada por una Presidencia, una Sindicatura y las Regidurías."
+    },
+    {
+      "id": "127.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 2",
+      "texto": "Párrafo reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "127.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 3",
+      "texto": "La Ley Orgánica del Municipio determinará las facultades y obligaciones que competen a cada una de las personas integrantes del Ayuntamiento, así como la organización y funcionamiento de las dependencias administrativas."
+    },
+    {
+      "id": "127.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 4",
+      "texto": "Párrafo reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "024",
+  "etiqueta": "Artículo 24",
+  "titulo": "TÍTULO II",
+  "capitulo": "CAPÍTULO ÚNICO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "024.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › párrafo 1",
+      "texto": "El Gobierno del Estado brindará protección y defensa a los derechos humanos de las personas zacatecanas que residan en otra entidad federativa, y coadyuvará con la Federación cuando residan en otro país."
+    },
+    {
+      "id": "024.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › párrafo 2",
+      "texto": "Párrafo reformado POG 3 de noviembre de 2012 (Decreto 419) Párrafo reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "024.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › párrafo 3",
+      "texto": "El Estado combatirá en sus causas la migración que lesiona la dignidad humana El Poder Ejecutivo contará con una dependencia encargada de proponer, regular, conducir, aplicar y evaluar la política estatal en materia de migración, con la estructura y fines que señale la ley, sin contravenir a lo dispuesto por la legislación federal."
+    },
+    {
+      "id": "024.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 24 › párrafo 4",
+      "texto": "Párrafo reformado POG 25 de marzo de 2015 (Decreto 325)"
+    }
+  ]
+}

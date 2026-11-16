@@ -1,0 +1,27 @@
+{
+  "clave": "105",
+  "etiqueta": "Artículo 105",
+  "titulo": "TÍTULO IV",
+  "capitulo": "CAPÍTULO TERCERO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "105.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › párrafo 1",
+      "texto": "Las juezas y los jueces de primera instancia durarán en su cargo nueve años, podrán ser reelectos y si lo fueren sólo podrán ser privados de sus puestos en los términos del Título VII de esta Constitución y de la Ley General de Responsabilidades Administrativas."
+    },
+    {
+      "id": "105.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › párrafo 2",
+      "texto": "Artículo reformado POG 14 de enero de 2025 (Decreto 94)"
+    }
+  ]
+}

@@ -1,0 +1,63 @@
+{
+  "clave": "125",
+  "etiqueta": "Artículo 125",
+  "titulo": "TÍTULO V",
+  "capitulo": "CAPÍTULO CUARTO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "125.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › párrafo 1",
+      "texto": "La Legislatura del Estado podrá declarar la suspensión o desaparición de un Ayuntamiento si se comprueba alguno de los casos siguientes:"
+    },
+    {
+      "id": "125.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › Fracción I",
+      "texto": "I. Si en forma reiterada no se ha reunido o sesionado de acuerdo a la ley;"
+    },
+    {
+      "id": "125.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › Fracción II",
+      "texto": "II. Si por cualquier causa se ha desintegrado;"
+    },
+    {
+      "id": "125.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › Fracción III",
+      "texto": "III. Cuando ha tomado acuerdos en contravención a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos o por la presente Constitución;"
+    },
+    {
+      "id": "125.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › Fracción IV",
+      "texto": "IV. Por incumplimiento grave en la prestación de los servicios públicos que tiene a su cargo; y"
+    },
+    {
+      "id": "125.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 125 › Fracción V",
+      "texto": "V. Por perturbación grave de la paz pública que implique situación generalizada de ingobernabilidad por parte de la autoridad local;\n\nEn cualesquiera de los casos mencionados en los párrafos anteriores, la Legislatura del Estado indicará la causa legal del procedimiento y dentro del mismo respetará la garantía constitucional de audiencia, recibirá las pruebas que fueren procedentes conforme a derecho y los alegatos que quisieren presentar los integrantes del Ayuntamiento involucrados.\n\nLa declaratoria de suspensión o desaparición de poderes sólo surtirá efectos si es aprobada por las dos terceras partes de la Legislatura.\n\nLa legislación ordinaria desarrollará las causas y bases del procedimiento."
+    }
+  ]
+}

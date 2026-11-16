@@ -1,0 +1,45 @@
+{
+  "clave": "085",
+  "etiqueta": "Artículo 85",
+  "titulo": "TÍTULO IV",
+  "capitulo": "CAPÍTULO SEGUNDO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "085.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › párrafo 1",
+      "texto": "Las leyes, decretos y demás disposiciones de carácter general que la Gobernadora o el Gobernador promulgue, para su validez y observancia deberán ser refrendados por la persona titular de la Secretaría General de Gobierno."
+    },
+    {
+      "id": "085.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › párrafo 2",
+      "texto": "Párrafo reformado POG 23 de mayo de 2015 (Decreto 358) Párrafo reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "085.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › párrafo 3",
+      "texto": "Los reglamentos, decretos, acuerdos y demás disposiciones de carácter general que la Gobernadora o el Gobernador del Estado expida o autorice, para su validez y observancia deberán ser firmados por la persona titular de la Secretaría General de Gobierno y cuando sean de la competencia de una o más Secretarías, deberán ser refrendados por las personas titulares de las mismas."
+    },
+    {
+      "id": "085.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › párrafo 4",
+      "texto": "Párrafo adicionado POG 23 de mayo de 2015 (Decreto 358) Párrafo reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    }
+  ]
+}

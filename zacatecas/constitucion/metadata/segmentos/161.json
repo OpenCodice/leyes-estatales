@@ -1,0 +1,27 @@
+{
+  "clave": "161",
+  "etiqueta": "Artículo 161",
+  "titulo": "TÍTULO VIII",
+  "capitulo": "CAPÍTULO ÚNICO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "161.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 161 › párrafo 1",
+      "texto": "Ninguna licencia con goce de sueldo a personas servidoras o empleadas al servicio de los Poderes del Estado podrá exceder de dos meses, ni de seis en cualquier otro caso, y se concederán de conformidad con lo que determinen las leyes."
+    },
+    {
+      "id": "161.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 161 › párrafo 2",
+      "texto": "Artículo reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "018",
+  "etiqueta": "Artículo 18",
+  "titulo": "TÍTULO I",
+  "capitulo": "CAPÍTULO SEXTO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "018.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › párrafo 1",
+      "texto": "Los derechos de ciudadanía zacatecana se restituyen:"
+    },
+    {
+      "id": "018.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción I",
+      "texto": "I. Por recobrar la ciudadanía mexicana y establecer o tener establecida su residencia en el Estado de Zacatecas;\n\nFracción reformada POG 1 de octubre de 2003 (Decreto 305)"
+    },
+    {
+      "id": "018.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción II",
+      "texto": "II. Por restablecer su residencia en el Estado por lo menos durante seis meses; y\n\nFracción reformada POG 1 de octubre de 2003 (Decreto 305)"
+    },
+    {
+      "id": "018.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción III",
+      "texto": "III. Por extinción de la pena, concluir el término o cesar las causas de la suspensión."
+    }
+  ]
+}

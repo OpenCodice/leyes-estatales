@@ -1,0 +1,72 @@
+{
+  "clave": "066",
+  "etiqueta": "Artículo 66",
+  "titulo": "TÍTULO IV",
+  "capitulo": "CAPÍTULO PRIMERO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "066.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › párrafo 1",
+      "texto": "Son deberes de las Diputadas y los Diputados:"
+    },
+    {
+      "id": "066.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › párrafo 2",
+      "texto": "Proemio reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "066.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › Fracción I",
+      "texto": "I. Concurrir puntualmente a las sesiones de la Legislatura;"
+    },
+    {
+      "id": "066.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › Fracción II",
+      "texto": "II. Velar por el buen funcionamiento de las instituciones públicas del Estado y fungir como gestores de las demandas y peticiones de los habitantes de la Entidad;"
+    },
+    {
+      "id": "066.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › Fracción III",
+      "texto": "III. Visitar su distrito y presentar informe por escrito a la Legislatura sobre los problemas que hubieren detectado y las respectivas propuestas de solución;"
+    },
+    {
+      "id": "066.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › Fracción IV",
+      "texto": "IV. Rendir ante sus electores, al menos una vez al año, informe del desempeño de sus responsabilidades. Las Diputadas y los Diputados de representación proporcional harán lo propio; y\n\nFracción reformada POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "066.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › Fracción V",
+      "texto": "V. Los demás que dispongan la Ley Orgánica del Poder Legislativo y el Reglamento Interior de la Legislatura."
+    }
+  ]
+}
