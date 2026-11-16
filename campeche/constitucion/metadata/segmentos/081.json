@@ -1,0 +1,36 @@
+{
+  "clave": "081",
+  "etiqueta": "Artículo 81",
+  "titulo": "",
+  "capitulo": "CAPÍTULO XVI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "081.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 1",
+      "texto": "DEROGADO."
+    },
+    {
+      "id": "081.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 2",
+      "texto": "Nota: Se reformó mediante decreto No. 309 de la LI Legislatura, publicado en el P. O. del Gobierno del Estado No. 3617 de fecha 6 de noviembre de 1985."
+    },
+    {
+      "id": "081.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 3",
+      "texto": "Nota: Se derogó mediante decreto No. 162 de la LXII Legislatura, publicado en el P. O. del Gobierno del Estado No. 0466 Segunda Sección de fecha 27 de junio de 2017."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "040",
+  "etiqueta": "Artículo 40",
+  "titulo": "",
+  "capitulo": "CAPÍTULO XI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "040.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 1",
+      "texto": "El faltar a tres sesiones consecutivas sin causa justificada, o sin previa licencia del Presidente del Congreso, provocará la pérdida del derecho del diputado faltista a ejercer el cargo por lo que reste del período de sesiones."
+    },
+    {
+      "id": "040.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 2",
+      "texto": "Nota: Se reformó mediante decreto No. 264 de la LIII legislatura, publicado en el P. O. del Gobierno del Estado No. 133 de fecha 1 abril de 1992."
+    }
+  ]
+}

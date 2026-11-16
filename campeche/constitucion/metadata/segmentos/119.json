@@ -1,0 +1,54 @@
+{
+  "clave": "119",
+  "etiqueta": "Artículo 119",
+  "titulo": "",
+  "capitulo": "CAPÍTULO XX",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "119.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › párrafo 1",
+      "texto": "DEROGADO."
+    },
+    {
+      "id": "119.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › párrafo 2",
+      "texto": "Nota: Se reformó mediante decreto No. 145 de la XLIX Legislatura, publicado en el P. O. del Gobierno del Estado No. 2712 de fecha 25 de septiembre de 1979."
+    },
+    {
+      "id": "119.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › párrafo 3",
+      "texto": "Nota: Se reformó mediante decreto No. 87 de la LVII Legislatura, publicado en el P. O. No. 2478 de fecha 16 de octubre de 2001."
+    },
+    {
+      "id": "119.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › párrafo 4",
+      "texto": "Nota: Fe de erratas publicada en el P. O. No. 2490 de fecha 5 de noviembre de 2001."
+    },
+    {
+      "id": "119.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › párrafo 5",
+      "texto": "Nota: Se derogó mediante decreto No. 128 de la LX Legislatura, publicado en el P. O. No. 4770 de fecha 8 de junio de 2011."
+    }
+  ]
+}

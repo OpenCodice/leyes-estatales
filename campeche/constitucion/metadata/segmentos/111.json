@@ -1,0 +1,18 @@
+{
+  "clave": "111",
+  "etiqueta": "Artículo 111",
+  "titulo": "",
+  "capitulo": "CAPÍTULO XX",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "111.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 1",
+      "texto": "Si el presidente municipal a quien correspondiere el Gobierno Provisional estuviere impedido para asumir el mando del mismo, dentro del mes siguiente a la desaparición de los Poderes, corresponderá el Gobierno sucesivamente a los Presidentes Municipales que representen mayor población y que también se hubieren mantenido dentro del orden legal. Para calificar la importancia de los municipios por razón de su población, se atenderá al último censo."
+    }
+  ]
+}

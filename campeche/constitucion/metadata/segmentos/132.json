@@ -1,0 +1,27 @@
+{
+  "clave": "132",
+  "etiqueta": "Artículo 132",
+  "titulo": "",
+  "capitulo": "CAPÍTULO XXII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "132.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › párrafo 1",
+      "texto": "Esta Constitución no perderá su fuerza y vigor aun cuando por alguna rebelión se interrumpa su observancia. En caso de que por cualquier trastorno público se establezca en el Estado un Gobierno contrario a los principios que ella sanciona, tan luego como el pueblo recobre su libertad, se establecerá su observancia, y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados así los que hubieren figurado en el Gobierno emanado de la rebelión, como los que hubieren cooperado a ésta."
+    },
+    {
+      "id": "132.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › párrafo 2",
+      "texto": "Nota: Se adicionó el capítulo mediante decreto No. 3 de la LX Legislatura, publicado en el P. O. No. 4396, Segunda Sección de fecha 18 de noviembre de 2009."
+    }
+  ]
+}

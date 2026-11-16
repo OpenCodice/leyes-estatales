@@ -1,0 +1,45 @@
+{
+  "clave": "062",
+  "etiqueta": "Artículo 62",
+  "titulo": "",
+  "capitulo": "CAPÍTULO XV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "062.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › párrafo 1",
+      "texto": "No pueden ser gobernador:"
+    },
+    {
+      "id": "062.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › Fracción I",
+      "texto": "I. Los que pertenezcan o hayan pertenecido al Estado Eclesiástico o sean o hayan sido ministros de algún culto;"
+    },
+    {
+      "id": "062.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › Fracción II",
+      "texto": "II. Los que tengan mando alguno de fuerza pública dentro de los 45 días antes de la elección;"
+    },
+    {
+      "id": "062.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › Fracción III",
+      "texto": "III. Los que tengan algún cargo o comisión del Gobierno Federal o de otro u otros Estados, dentro de los 45 días antes de la elección."
+    }
+  ]
+}

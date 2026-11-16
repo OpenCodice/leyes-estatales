@@ -1,0 +1,63 @@
+{
+  "clave": "099",
+  "etiqueta": "Artículo 99",
+  "titulo": "",
+  "capitulo": "CAPÍTULO XVII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "099.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 1",
+      "texto": "El procedimiento de juicio político sólo podrá iniciarse durante el período en el que el servidor público desempeñe su cargo y dentro de un año después."
+    },
+    {
+      "id": "099.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 2",
+      "texto": "Las sanciones correspondientes se aplicarán en un período no mayor de un año a partir de iniciado el procedimiento."
+    },
+    {
+      "id": "099.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 3",
+      "texto": "Los plazos de prescripción de la responsabilidad administrativa, tanto de casos graves como no graves, serán los que prevea la legislación en la materia. En ningún caso el plazo de prescripción de las responsabilidades administrativas graves será inferior a 7 años."
+    },
+    {
+      "id": "099.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 4",
+      "texto": "Nota: Se reformó mediante decreto No. 224 de la L Legislatura, publicado en el P. O. del Gobierno del Estado No. 3251 de fecha 27 de mayo de 1983."
+    },
+    {
+      "id": "099.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 5",
+      "texto": "Nota: Se reformó mediante decreto No. 87 de la LXII Legislatura, publicado en el P.O. del Gobierno del Estado No.0297 de fecha 13 de octubre de 2016."
+    },
+    {
+      "id": "099.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 6",
+      "texto": "Nota: Se reformó mediante decreto No. 162 de la LXII Legislatura, publicado en el P. O. del Gobierno del Estado No. 0466 Segunda Sección de fecha 27 de junio de 2017."
+    }
+  ]
+}

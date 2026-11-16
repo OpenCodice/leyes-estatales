@@ -1,0 +1,36 @@
+{
+  "clave": "094",
+  "etiqueta": "Artículo 94",
+  "titulo": "",
+  "capitulo": "CAPÍTULO XVII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "094.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 › párrafo 1",
+      "texto": "Las resoluciones que el Congreso emita como Jurado de Sentencia, son inatacables."
+    },
+    {
+      "id": "094.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 › párrafo 2",
+      "texto": "Nota: Se reformó mediante decreto No. 264 de la LIII Legislatura, publicado en el P. O. del Gobierno del Estado No. 133 de fecha 1 abril de 1992."
+    },
+    {
+      "id": "094.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 › párrafo 3",
+      "texto": "Nota: Se reformó mediante decreto No. 87 de la LXII Legislatura, publicado en el P.O. del Gobierno del Estado No.0297 de fecha 13 de octubre de 2016."
+    }
+  ]
+}
