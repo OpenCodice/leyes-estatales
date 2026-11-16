@@ -1,0 +1,54 @@
+{
+  "clave": "083",
+  "etiqueta": "Artículo 83",
+  "titulo": "Título Octavo",
+  "capitulo": "Capítulo VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "083.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › párrafo 1",
+      "texto": "Los Municipios del Estado tendrán a su cargo las funciones y servicios públicos que establece la fracción III del artículo 115 de la Constitución Federal, así como las demás que le determinen las leyes."
+    },
+    {
+      "id": "083.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › párrafo 2",
+      "texto": "La ley establecerá los procedimientos para dirimir los conflictos que se presenten entre los Municipios y el Gobierno del Estado, o entre aquellos."
+    },
+    {
+      "id": "083.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › párrafo 3",
+      "texto": "Los Municipios, previo acuerdo entre sus Ayuntamientos, podrán coordinarse y asociarse para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan. En todo caso y tratándose de la asociación de municipios del Estado y uno o más de otras Entidades Federativas, deberán contar con la aprobación del Congreso del Estado y la legislatura respectiva."
+    },
+    {
+      "id": "083.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › párrafo 4",
+      "texto": "Sin perjuicio de su competencia constitucional, en el desempeño de las funciones o la prestación de los servicios públicos señalados en esta fracción, los Municipios observarán lo dispuesto por las leyes federales y estatales."
+    },
+    {
+      "id": "083.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › párrafo 5",
+      "texto": "Las comunidades indígenas, dentro del ámbito municipal podrán coordinarse y asociarse en los términos y para los efectos que prevenga la ley."
+    }
+  ]
+}

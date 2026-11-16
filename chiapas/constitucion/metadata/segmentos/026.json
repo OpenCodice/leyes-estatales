@@ -1,0 +1,27 @@
+{
+  "clave": "026",
+  "etiqueta": "Artículo 26",
+  "titulo": "Título Tercero",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "026.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › párrafo 1",
+      "texto": "Son personas vecinas del estado, quienes residan habitualmente dentro de su territorio con el ánimo de permanecer en él."
+    },
+    {
+      "id": "026.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › párrafo 2",
+      "texto": "La vecindad no se pierde por ausentarse con motivo del desempeño de un cargo de elección popular, de función pública o con motivo del cumplimiento del deber de todo mexicano de defender a la patria y a sus instituciones."
+    }
+  ]
+}

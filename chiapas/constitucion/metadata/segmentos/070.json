@@ -1,0 +1,45 @@
+{
+  "clave": "070",
+  "etiqueta": "Artículo 70",
+  "titulo": "Título Sexto",
+  "capitulo": "Capítulo V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "070.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 1",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NUM. 083 DE FECHA 08 DE ENERO DE 2026)"
+    },
+    {
+      "id": "070.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 2",
+      "texto": "La simplificación administrativa y digitalización de trámites y servicios, así como las buenas prácticas regulatorias y el desarrollo de capacidades tecnológicas, son políticas públicas obligatorias para el Estado y los Municipios, en sus respectivos ámbitos de competencia, que tienen como fin contribuir al bienestar de las personas, grupos, comunidades, sectores sociales y económicos, conforme a lo establecido en las disposiciones nacionales y estatales en la materia."
+    },
+    {
+      "id": "070.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 3",
+      "texto": "Las instituciones y dependencias competentes, en los órdenes estatal y municipal, formularán políticas públicas y trabajarán de manera coordinada para que los procesos de simplificación administrativa y digitalización contribuyan al desarrollo económico, la inclusión social, el acceso a servicios y el ejercicio pleno de derechos."
+    },
+    {
+      "id": "070.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 4",
+      "texto": "El Estado contará con un sistema de Gobierno Digital, en donde se establecerán las políticas públicas para incorporar el uso de tecnologías de la información y comunicación a los trámites gubernamentales, se procurará que aquellos que tengan mayor demanda sean accesibles para la población por medio de la plataforma que desarrolle el Gobierno del Estado."
+    }
+  ]
+}

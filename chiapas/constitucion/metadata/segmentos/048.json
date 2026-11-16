@@ -1,0 +1,90 @@
+{
+  "clave": "048",
+  "etiqueta": "Artículo 48",
+  "titulo": "Título Quinto",
+  "capitulo": "Capítulo IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "048.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › párrafo 1",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NUM. 374 2DA. SECCIÓN DE FECHA 04 DE JULIO DE 2018)"
+    },
+    {
+      "id": "048.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › párrafo 2",
+      "texto": "El derecho de iniciar leyes o decretos compete:"
+    },
+    {
+      "id": "048.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › Fracción I",
+      "texto": "I. Al Titular del Poder Ejecutivo del Estado."
+    },
+    {
+      "id": "048.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › Fracción II",
+      "texto": "II. A los Diputados del Congreso del Estado."
+    },
+    {
+      "id": "048.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › Fracción III",
+      "texto": "III. Al Titular del Poder Judicial del Estado, en lo relativo a su orden jurídico interno;\n\nasí como de aquellas materias que en razón de su actividad jurisdiccional tengan conocimiento.\n\n(REFORMA PUBLICADA MEDIANTE P.O. NÚM. 073 DE FECHA 18 DE DICIEMBRE DE 2019)\n\n(REFORMA PUBLICADA MEDIANTE P.O. NUM. 029 DE FECHA 14 DE MARZO DE 2025)"
+    },
+    {
+      "id": "048.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › Fracción IV",
+      "texto": "IV. Al Titular del Tribunal de Justicia Administrativa del Estado de Chiapas, en lo relativo a su orden jurídico interno; así como de aquellas materias que en razón de su actividad jurisdiccional tenga conocimiento."
+    },
+    {
+      "id": "048.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › Fracción V",
+      "texto": "V. A quien presida la Comisión Estatal de los Derechos Humanos, en materia de su ramo."
+    },
+    {
+      "id": "048.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › Fracción VI",
+      "texto": "VI. A los Ayuntamientos, en asuntos municipales."
+    },
+    {
+      "id": "048.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › Fracción VII",
+      "texto": "VII. A los ciudadanos del Estado, en los términos que disponga la Ley, la cual establecerá los requisitos, alcances, términos y procedimientos para su ejercicio."
+    }
+  ]
+}

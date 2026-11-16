@@ -1,0 +1,27 @@
+{
+  "clave": "015",
+  "etiqueta": "Artículo 15",
+  "titulo": "Título Primero",
+  "capitulo": "Capítulo VII",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "015.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › párrafo 1",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NUM. 077 DE FECHA 17 DE DICIEMBRE DEL 2025)"
+    },
+    {
+      "id": "015.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › párrafo 2",
+      "texto": "Los gobiernos estatal y municipal promoverán el establecimiento y creación de Industrias sostenibles y la investigación e innovación científica. Se reconocerá al turismo como una actividad estratégica para el desarrollo económico, social y cultural del Estado, impulsando su crecimiento de manera sostenible y responsable; asimismo, se protegerán los derechos, la seguridad y la integridad del turista en Chiapas."
+    }
+  ]
+}

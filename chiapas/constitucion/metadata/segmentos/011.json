@@ -1,0 +1,18 @@
+{
+  "clave": "011",
+  "etiqueta": "Artículo 11",
+  "titulo": "Título Primero",
+  "capitulo": "Capítulo VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "011.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › párrafo 1",
+      "texto": "El Estado establecerá e implementará políticas públicas con el propósito de erradicar la pobreza extrema, elevar el índice de desarrollo humano y la calidad de vida de sus habitantes."
+    }
+  ]
+}

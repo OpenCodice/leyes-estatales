@@ -1,0 +1,27 @@
+{
+  "clave": "104",
+  "etiqueta": "Artículo 104",
+  "titulo": "Título Noveno",
+  "capitulo": "Capítulo V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "104.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 › párrafo 1",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NUM. 047 DE FECHA 02 DE JULIO DE 2025)"
+    },
+    {
+      "id": "104.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 › párrafo 2",
+      "texto": "La Benemérita Universidad Autónoma de Chiapas, desde su fundación está orientada a la formación de ciudadanos que contribuyan al desarrollo sostenible de sus comunidades para lo que se constituye como un organismo autónomo descentralizado, de interés público, con personalidad jurídica y patrimonio propio, al servicio de los intereses de la Nación y del Estado."
+    }
+  ]
+}

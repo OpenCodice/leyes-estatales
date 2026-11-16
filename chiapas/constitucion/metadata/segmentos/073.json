@@ -1,0 +1,171 @@
+{
+  "clave": "073",
+  "etiqueta": "Artículo 73",
+  "titulo": "Título Séptimo",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "073.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › párrafo 1",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NÚM. 073 DE FECHA 18 DE DICIEMBRE DE 2019)"
+    },
+    {
+      "id": "073.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › párrafo 2",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NUM. 029 DE FECHA 14 DE MARZO DE 2025)"
+    },
+    {
+      "id": "073.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › párrafo 3",
+      "texto": "El Tribunal Superior de Justicia se integra por:"
+    },
+    {
+      "id": "073.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › Fracción I",
+      "texto": "I. El Pleno de Distrito."
+    },
+    {
+      "id": "073.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › Fracción II",
+      "texto": "II. Las Salas Regionales Colegiadas o Unitarias, especializadas en materia Civil, Familiar, Mercantil, Penal y de Justicia para Adolescentes, que conocerán y resolverán los asuntos que determine la legislación correspondiente."
+    },
+    {
+      "id": "073.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › Fracción III",
+      "texto": "III. Las Salas Regionales Colegiadas o Unitarias Mixtas, que conocerán y resolverán las materias que determine el Órgano de Administración Judicial, de conformidad con la legislación correspondiente."
+    },
+    {
+      "id": "073.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › Fracción IV",
+      "texto": "IV. Los Juzgados de Primera Instancia, que serán:"
+    },
+    {
+      "id": "073.IV.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 73 › Fracción IV › inciso a)",
+      "texto": "a) Juzgados Especializados o Mixtos, que conocerán las materias que determine el Órgano de Administración Judicial, en términos de la legislación correspondiente."
+    },
+    {
+      "id": "073.IV.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 73 › Fracción IV › inciso b)",
+      "texto": "b) Juzgados de Control y Tribunales de Enjuiciamiento."
+    },
+    {
+      "id": "073.IV.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 73 › Fracción IV › inciso c)",
+      "texto": "c) Juzgados de Primera Instancia Especializados en Juicio Oral que determine el Órgano de Administración Judicial."
+    },
+    {
+      "id": "073.IV.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 73 › Fracción IV › inciso d)",
+      "texto": "d) Juzgados Especializados en Justicia para Adolescentes."
+    },
+    {
+      "id": "073.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › Fracción V",
+      "texto": "V. Los Juzgados Especializados en Materia Burocrática."
+    },
+    {
+      "id": "073.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › Fracción VI",
+      "texto": "VI. Los Juzgados Especializados en Materia Laboral."
+    },
+    {
+      "id": "073.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › Fracción VII",
+      "texto": "VII. Los Juzgados de Paz y Conciliación."
+    },
+    {
+      "id": "073.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › Fracción VIII",
+      "texto": "VIII. Los Juzgados de Paz y Conciliación Indígena."
+    },
+    {
+      "id": "073.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › Fracción IX",
+      "texto": "IX. Los Juzgados Municipales."
+    },
+    {
+      "id": "073.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › Fracción X",
+      "texto": "X. El Centro Estatal de Justicia Alternativa."
+    },
+    {
+      "id": "073.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › Fracción XI",
+      "texto": "XI. El Instituto de la Defensoría Pública.\n\nLa Presidenta o el Presidente del Tribunal Superior de Justicia será titular del Poder Judicial, durará en su encargo tres años y su designación estará a cargo del Pleno de Distrito de entre las Magistradas o Magistrados Regionales, pudiendo ser reelecto por otro periodo.\n\nLa Presidenta o el Presidente del Tribunal Superior de Justicia de manera anual presentará ante el Congreso del Estado un informe escrito sobre el estado que guarda la impartición y administración de justicia en la Entidad.\n\nLa Presidenta o el Presidente del Tribunal Superior de Justicia, lo será también del Pleno de Distrito; no integrará Sala; y una vez concluido su encargo podrá reincorporarse a sus funciones jurisdiccionales por el tiempo que le falte para concluir el encargo por el que fue electa o electo.\n\n(REFORMA PUBLICADA MEDIANTE P.O. NUM. 029 DE FECHA 14 DE MARZO DE 2025)"
+    }
+  ]
+}

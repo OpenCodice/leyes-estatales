@@ -1,0 +1,81 @@
+{
+  "clave": "038",
+  "etiqueta": "Artículo 38",
+  "titulo": "Título Quinto",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "038.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › párrafo 1",
+      "texto": "Tendrá derecho a la asignación de Diputados de representación proporcional el partido político:"
+    },
+    {
+      "id": "038.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › párrafo 2",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NUM. 110 DE FECHA 24 DE JUNIO DE 2020)"
+    },
+    {
+      "id": "038.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › párrafo 3",
+      "texto": "Que haya registrado candidatos a diputados de mayoría relativa en cuando menos las dos terceras partes de los distritos uninominales."
+    },
+    {
+      "id": "038.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › párrafo 4",
+      "texto": "Que haya obtenido por lo menos el tres por ciento de la votación total válida para las diputaciones en el Estado."
+    },
+    {
+      "id": "038.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › párrafo 5",
+      "texto": "Al partido que obtenga el tres por ciento de la votación válida emitida en esa elección se le asignará una curul por el principio de representación proporcional, con independencia de los triunfos por el principio de mayoría relativa obtenidos. Hecho lo anterior, se procederá a asignar el resto de las diputaciones de representación proporcional, conforme a la fórmula establecida en la ley local."
+    },
+    {
+      "id": "038.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › párrafo 6",
+      "texto": "En ningún caso un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total del Congreso del Estado que exceda en ocho puntos su porcentaje de votación emitida."
+    },
+    {
+      "id": "038.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › párrafo 7",
+      "texto": "Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total del Congreso del Estado superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Así mismo, en la integración del Congreso del Estado, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales."
+    },
+    {
+      "id": "038.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › párrafo 8",
+      "texto": "El cómputo y la declaración de validez de las elecciones de diputados de representación proporcional, así como la asignación de éstos, será hecha por el Instituto de Elecciones y Participación Ciudadana encargado de la organización, desarrollo y vigilancia de las elecciones."
+    }
+  ]
+}

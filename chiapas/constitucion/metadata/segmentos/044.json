@@ -1,0 +1,27 @@
+{
+  "clave": "044",
+  "etiqueta": "Artículo 44",
+  "titulo": "Título Quinto",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "044.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 1",
+      "texto": "Las resoluciones del Congreso del Estado tendrán el carácter de ley, decreto o acuerdo serán firmadas por el presidente y por un secretario del Congreso."
+    },
+    {
+      "id": "044.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 2",
+      "texto": "Las leyes y decretos se comunicarán al Ejecutivo para su promulgación."
+    }
+  ]
+}

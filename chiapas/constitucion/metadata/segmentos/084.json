@@ -1,0 +1,45 @@
+{
+  "clave": "084",
+  "etiqueta": "Artículo 84",
+  "titulo": "Título Octavo",
+  "capitulo": "Capítulo VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "084.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › párrafo 1",
+      "texto": "Los Municipios administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que la Ley establezca a su favor, y en todo caso:"
+    },
+    {
+      "id": "084.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › inciso a)",
+      "texto": "a) Percibirán las contribuciones, incluyendo tasas adicionales, que establezca el Congreso del Estado sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.\n\nLos Municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones."
+    },
+    {
+      "id": "084.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › inciso b)",
+      "texto": "b) Las participaciones federales, que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente determine el Congreso del Estado."
+    },
+    {
+      "id": "084.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › inciso c)",
+      "texto": "c) Los ingresos derivados de la prestación de servicios públicos a su cargo.\n\nLas leyes estatales no establecerán exenciones o subsidios en favor de persona o institución alguna respecto de las contribuciones señaladas en los incisos a) y c). Sólo estarán exentos los bienes de dominio público de la Federación, del Estado o del Municipio, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.\n\nLos Ayuntamientos, en el ámbito de su competencia, propondrán al Congreso del Estado las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.\n\nEl Congreso del Estado aprobará las leyes de ingresos de los municipios, revisará, fiscalizará y en su caso aprobará sus cuentas públicas. Los presupuestos de egresos serán aprobados por los Ayuntamientos con base en sus ingresos disponibles.\n\nLos Recursos que integran la hacienda municipal serán ejercidos en forma directa por los Ayuntamientos, o bien, por quien ellos autoricen, conforme a la Ley."
+    }
+  ]
+}

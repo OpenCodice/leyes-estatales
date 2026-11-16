@@ -1,0 +1,54 @@
+{
+  "clave": "092",
+  "etiqueta": "Artículo 92",
+  "titulo": "Título Noveno",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "092.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › párrafo 1",
+      "texto": "El Ministerio Público se organizará en una Fiscalía General del Estado, como órgano público autónomo, dotado de personalidad jurídica y patrimonio propio."
+    },
+    {
+      "id": "092.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › párrafo 2",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NÚMERO 379, DE FECHA 27 DE NOVIEMBRE DEL 2024)"
+    },
+    {
+      "id": "092.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › párrafo 3",
+      "texto": "Corresponde la investigación de los delitos al Ministerio Público, a la Secretaría de Seguridad del Pueblo y a las policías, en el ámbito de su competencia y bajo la conducción de aquél; promoverán la participación ciudadana y fomentarán el desarrollo de los programas de prevención del delito, con el fin de incrementar los niveles de seguridad en el Estado."
+    },
+    {
+      "id": "092.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › párrafo 4",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NÚMERO 379, DE FECHA 27 DE NOVIEMBRE DEL 2024)"
+    },
+    {
+      "id": "092.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › párrafo 5",
+      "texto": "La persecución de los delitos del orden común, ante los tribunales, le corresponde al Ministerio Público, a través de la Fiscalía General del Estado, de acuerdo a las facultades conferidas en el Código Nacional de Procedimientos Penales, quien a su vez procurará que en los juicios del orden común en materia penal se respeten las formalidades esenciales del procedimiento para que la impartición de la justicia sea pronta y expedita."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "067",
+  "etiqueta": "Artículo 67",
+  "titulo": "Título Sexto",
+  "capitulo": "Capítulo III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "067.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 › párrafo 1",
+      "texto": "La glosa de las cuentas de Hacienda del Estado y de los Municipios estará a cargo del Órgano de Fiscalización Superior del Congreso del Estado."
+    },
+    {
+      "id": "067.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 › párrafo 2",
+      "texto": "La revisión y auditoría del gasto público será realizada por los órganos de fiscalización del Estado en términos de las leyes respectivas y dentro de los lineamientos del sistema nacional anticorrupción."
+    }
+  ]
+}
