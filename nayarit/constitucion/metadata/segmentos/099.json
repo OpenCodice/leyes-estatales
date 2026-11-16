@@ -1,0 +1,36 @@
+{
+  "clave": "099",
+  "etiqueta": "Artículo 99",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "099.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 1",
+      "texto": "(REFORMADO [ANTES DEROGADO. ANTERIOR TEXTO DEL ARTÍCULO 100] P.O. 18 DE OCTUBRE DE 2016)"
+    },
+    {
+      "id": "099.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 2",
+      "texto": "Todas las autoridades del Estado, tienen el deber de facilitar las labores del Ministerio Público, de prestarle auxilio cuando lo necesite y el de proporcionarle todos los datos y elementos que pidiere en el desempeño de su cargo."
+    },
+    {
+      "id": "099.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 3",
+      "texto": "Las facultades y obligaciones del Fiscal General y de los Agentes del Ministerio Público, serán las que se determinen en la ley de la materia"
+    }
+  ]
+}

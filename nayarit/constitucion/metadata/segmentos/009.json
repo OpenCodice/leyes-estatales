@@ -1,0 +1,63 @@
+{
+  "clave": "009",
+  "etiqueta": "Artículo 9",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "009.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › párrafo 1",
+      "texto": "Todos los habitantes del Estado sin distinción alguna, están obligados a:"
+    },
+    {
+      "id": "009.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › párrafo 2",
+      "texto": "(REFORMADA, P.O. 15 DE OCTUBRE DE 2011)"
+    },
+    {
+      "id": "009.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Fracción I",
+      "texto": "I. Respetar y observar el estricto cumplimiento de la Constitución General de la República, la particular del Estado y las leyes que de ellas emanen; nadie podrá, para sustraerse de propia autoridad a observancia de los preceptos legales, alegar que los ignora, que son notoriamente injustos o que pugnan con sus opiniones. No se podrá apelar a otros recursos que a los determinados por las mismas Leyes, ya sean de la Federación o del Estado."
+    },
+    {
+      "id": "009.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Fracción II",
+      "texto": "II. A prestar auxilio a las autoridades cuando para ello sean legalmente requeridos.\n\n(REFORMADA, P.O. 5 DE NOVIEMBRE DE 2020)"
+    },
+    {
+      "id": "009.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Fracción III",
+      "texto": "III. Recibir la educación inicial, preescolar, primaria, secundaria y media superior haciendo que sus hijos o pupilos menores de dieciocho años concurran a las escuelas públicas o privadas en la forma prevenida por las Leyes y conforme a los planes y programas que de acuerdo con ellas se expidan, y, en su caso, reciban la militar, en los términos que establezca la ley, así como participar en su proceso educativo, al revisar su progreso y desempeño, velando siempre por su bienestar y desarrollo.\n\n(ADICIONADA, P.O. 25 DE AGOSTO DE 1943)"
+    },
+    {
+      "id": "009.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Fracción IV",
+      "texto": "IV. A inscribirse en el catastro de su respectiva municipalidad, manifestando la propiedad que tenga, la industria, profesión o trabajo de que subsista."
+    }
+  ]
+}

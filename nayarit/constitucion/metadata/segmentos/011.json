@@ -1,0 +1,27 @@
+{
+  "clave": "011",
+  "etiqueta": "Artículo 11",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "011.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)"
+    },
+    {
+      "id": "011.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › párrafo 2",
+      "texto": "La vecindad se pierde: por dejar de residir habitualmente durante seis meses en el territorio del Estado."
+    }
+  ]
+}

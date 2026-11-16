@@ -1,0 +1,27 @@
+{
+  "clave": "096",
+  "etiqueta": "Artículo 96",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "096.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 21 DE ENERO DE 2013)"
+    },
+    {
+      "id": "096.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96 › párrafo 2",
+      "texto": "Los Agentes del Ministerio Público serán nombrados y removidos por el Fiscal General."
+    }
+  ]
+}

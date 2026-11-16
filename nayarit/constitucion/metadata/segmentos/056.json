@@ -1,0 +1,27 @@
+{
+  "clave": "056",
+  "etiqueta": "Artículo 56",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "056.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE MAYO DE 2004)"
+    },
+    {
+      "id": "056.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › párrafo 2",
+      "texto": "Desechada alguna iniciativa de ley o decreto, no podrá ser propuesta de nuevo en el mismo período de sesiones, pero esto no impedirá que algunos de sus artículos formen parte de otra. Esta disposición no regirá tratándose de la Ley de Ingresos y del Presupuesto de Egresos."
+    }
+  ]
+}

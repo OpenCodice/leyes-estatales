@@ -1,0 +1,180 @@
+{
+  "clave": "135",
+  "etiqueta": "Artículo 135",
+  "titulo": "TITULO DECIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "135.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 24 DE JULIO DE 2025)"
+    },
+    {
+      "id": "135.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › párrafo 2",
+      "texto": "Las elecciones del Gobernador del Estado, de los miembros del Congreso, de las Magistradas, Magistrados, Juezas y Jueces del Poder Judicial del Estado y de los integrantes de los Ayuntamientos se realizarán mediante elecciones libres, auténticas y periódicas, mismas que se celebrarán el primer domingo de junio del año que corresponda, a través del sufragio universal, secreto y directo."
+    },
+    {
+      "id": "135.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 10 DE JUNIO DE 2016) Apartado A.- De los partidos políticos y los candidatos independientes."
+    },
+    {
+      "id": "135.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › párrafo 4",
+      "texto": "(REFORMADA, P.O. 6 DE OCTUBRE DE 2020)"
+    },
+    {
+      "id": "135.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción I",
+      "texto": "I. Los partidos políticos son entidades de interés público; la ley determinará las normas y requisitos para su registro legal y las formas específicas de su participación y organización en el proceso electoral, y tendrán derecho a postular candidatos de forma individual, en coaliciones o en candidatura común con otros partidos, para la elección de gobernador, diputados e integrantes de los ayuntamientos, respetando las bases que establece la Constitución General de la República, esta Constitución y la ley de la materia.\n\nLos partidos políticos tienen como fin promover la participación del pueblo en la vida democrática, contribuir a la integración de la representación estatal y como organizaciones de ciudadanos, hacer posible el acceso de éstos al ejercicio del poder público, de acuerdo con los programas, principios e ideas que postulan y mediante el sufragio universal, libre, secreto y directo, así como las reglas para garantizar la paridad entre géneros, en candidaturas a legisladores locales e integrantes de ayuntamientos. Sólo los ciudadanos podrán formar partidos políticos y afiliarse libre e individualmente a ellos; por tanto, queda prohibida la intervención de organizaciones gremiales o con objeto social diferente en la creación de partidos y cualquier forma de afiliación corporativa.\n\nLa postulación de candidatos atenderá al principio de paridad de los géneros a los cargos a diputados e integrantes de ayuntamientos por el principio de mayoría relativa y representación proporcional, en los términos que establezca la ley.\n\nEn caso de ser aritméticamente imposible, se atenderá lo que disponga la ley respectiva.\n\nLa ley definirá los criterios para garantizar que se cumpla con la paridad de género de forma horizontal y vertical en las candidaturas.\n\nLas autoridades electorales solamente podrán intervenir en los asuntos internos de los partidos en los términos que establecen la Constitución General de la República, esta Constitución y la Ley;"
+    },
+    {
+      "id": "135.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción II",
+      "texto": "II. La ley garantizará que los partidos políticos cuenten de manera equitativa con elementos para llevar a cabo sus actividades y señalará las reglas a que se sujetará el financiamiento de los propios partidos y sus campañas electorales, debiendo garantizar que los recursos públicos prevalezcan sobre los de origen privado. Los candidatos independientes tendrán derecho de acceso a las prerrogativas destinadas para las campañas electorales en los términos que establezcan las leyes de la materia;"
+    },
+    {
+      "id": "135.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción III",
+      "texto": "III. El financiamiento público para los partidos políticos que mantengan su registro después de cada elección, se compondrá de las ministraciones destinadas al sostenimiento de sus actividades ordinarias permanentes, las tendientes a la obtención del voto durante los procesos electorales y las de carácter específico, y se otorgará de acuerdo a lo que disponga la ley.\n\nEl financiamiento público para el sostenimiento de sus actividades ordinarias permanentes se fijará anualmente, multiplicando el número total de ciudadanos inscritos en el padrón electoral por el sesenta y cinco por ciento del valor diario de la Unidad de Medida y Actualización vigente para en la zona geográfica correspondiente a la entidad.\n\nEl treinta por ciento de la cantidad que resulte de acuerdo a lo señalado anteriormente, se distribuirá entre los partidos políticos en forma igualitaria y el setenta por ciento restante de acuerdo con el porcentaje de votos que hubieren obtenido en la elección de diputados inmediata anterior, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y las Leyes de la materia;"
+    },
+    {
+      "id": "135.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción IV",
+      "texto": "IV. La ley fijará los límites a las erogaciones en los procesos internos de selección de candidatos y las campañas electorales de los partidos políticos. La propia ley establecerá el monto máximo que tendrán las aportaciones de sus simpatizantes cuya suma total no podrá exceder anualmente, para cada partido, al diez por ciento del tope de gastos establecido para la última campaña de Gobernador; asimismo ordenará los procedimientos para el control y vigilancia del origen y uso de todos los recursos con que cuenten y dispondrá las sanciones que deban imponerse por el incumplimiento de estas disposiciones;"
+    },
+    {
+      "id": "135.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción V",
+      "texto": "V. Los gastos erogados en las precampañas serán contabilizados, al monto autorizado a cada partido para los efectos de los topes de campaña, con base en los límites a que se refiere la fracción anterior;"
+    },
+    {
+      "id": "135.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción VI",
+      "texto": "VI. El partido político con registro local que no obtenga, al menos, el 3 por ciento del total de la votación válida emitida en cualquiera de las elecciones que se celebren para la renovación del Poder Ejecutivo o Legislativo en el Estado, le será cancelado el registro, y"
+    },
+    {
+      "id": "135.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción VII",
+      "texto": "VII. La ley establecerá el procedimiento para la liquidación de las obligaciones de los partidos que pierdan su registro y los supuestos en los que sus bienes y remanentes serán adjudicados al Estado.\n\n(REFORMADO PRIMER PÁRRAFO, P.O. 10 DE JUNIO DE 2016) Apartado B.- Del acceso de los partidos y candidatos independientes a los medios de comunicación social.\n\n(REFORMADA, P.O. 10 DE JUNIO DE 2016)"
+    },
+    {
+      "id": "135.I~2",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción I",
+      "texto": "I. El acceso equitativo, de los partidos políticos y candidatos, a los medios masivos de comunicación social tendrá las modalidades que al efecto fije la ley. El Instituto Estatal Electoral podrá administrar los espacios en medios de comunicación social, a excepción de lo que en esa materia compete al Instituto Nacional Electoral.\n\n(REFORMADA, P.O. 10 DE JUNIO DE 2016)"
+    },
+    {
+      "id": "135.II~2",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción II",
+      "texto": "II. Los partidos políticos y candidatos independientes en ningún momento por sí o por terceras personas podrán contratar o adquirir, tiempos en cualquier modalidad de radio y televisión. La contratación o adquisición, en su caso, se hará en los términos que dispongan la Constitución General de la República y las leyes aplicables.\n\nNinguna otra persona física o jurídica, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión o medios masivos de comunicación social dirigida a influir en las preferencias electorales de los ciudadanos, ni a favor o en contra de partidos políticos o de candidatos a cargos de elección popular. Queda prohibida la transmisión en territorio del estado de este tipo de mensajes contratados en el territorio nacional o en el extranjero.\n\n(REFORMADA, P.O. 10 DE JUNIO DE 2016)"
+    },
+    {
+      "id": "135.III~2",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción III",
+      "texto": "III. En la propaganda política o electoral se privilegiará la difusión de la ideología, principios, propuestas de los partidos o candidatos, el respeto a las instituciones o la promoción de la participación ciudadana para el ejercicio del poder público. Se prohíbe a los partidos políticos, simpatizantes, militantes, candidatos o cualquier persona realizar expresiones que calumnien a las personas. La ley establecerá las sanciones por la violación a esta disposición.\n\nTratándose de propaganda política o electoral que difundan los partidos políticos o candidatos independientes en medios distintos a radio y televisión, que calumnie a las personas, partidos e instituciones, será sancionada por el órgano competente en los términos que establezca la ley de la materia."
+    },
+    {
+      "id": "135.IV~2",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción IV",
+      "texto": "IV. La ley establecerá los plazos para la realización de los procesos partidistas de selección y postulación de candidatos a cargos de elección popular, así como las reglas para las precampañas y las campañas electorales.\n\nLa duración de las campañas para gobernador no podrá exceder de sesenta días, y en lo que respecta a los Diputados y Ayuntamientos no podrá exceder de treinta días. En ningún caso las precampañas podrán exceder el equivalente a las dos terceras partes del tiempo previsto para las campañas electorales.\n\nLas precampañas sólo tendrán lugar dentro de los procesos internos de selección de candidatos de los partidos políticos.\n\n(REFORMADO, P.O. 06 DE OCTUBRE DE 2010) La ley definirá los actos anticipados de precampaña o campaña electoral y determinará las sanciones que por ellos se impongan.\n\n(ADICIONADO, P.O. 06 DE OCTUBRE DE 2010) Toda persona que realice actos de proselitismo o promoción personal de cualquier índole sin sujetarse a las disposiciones o tiempos que señale la legislación de la materia, se le impondrán las sanciones que señale la ley.\n\n(REFORMADA, P.O. 10 DE JUNIO DE 2016)"
+    },
+    {
+      "id": "135.V~2",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 135 › Fracción V",
+      "texto": "V. En lo referente a la regulación de la propaganda gubernamental, se estará a lo dispuesto por la Constitución Política de los Estados Unidos Mexicanos y las leyes aplicables.\n\nApartado C.- Del Instituto Estatal Electoral.\n\n(REFORMADO, P.O. 10 DE JUNIO DE 2016) La organización de las elecciones estatales es una función pública que se realiza a través de un organismo público autónomo denominado Instituto Estatal Electoral, dotado de personalidad jurídica y patrimonio propio, en cuya integración participan el Instituto Nacional Electoral, los partidos políticos con registro o acreditación en el Estado y los ciudadanos, en los términos de ley. Sus principios rectores son la certeza, imparcialidad, independencia, legalidad, máxima publicidad y objetividad.\n\n(REFORMADO, P.O. 10 DE JUNIO DE 2016) El Instituto Estatal Electoral será autoridad en la materia electoral y de participación ciudadana, independiente en sus decisiones y funcionamiento y profesional en su desempeño; contará en su estructura con órganos de dirección, técnicos y de vigilancia en los términos que disponga la ley. La ley determinará las reglas para la organización y funcionamiento de sus órganos; los procedimientos y sanciones por violación a las leyes electorales. Las disposiciones de la legislación electoral, regirán las relaciones de trabajo entre el Instituto Estatal Electoral y los servidores del organismo público. Sus emolumentos serán los previstos en el Presupuesto de Egresos del Estado atendiendo al ejercicio fiscal del año correspondiente. Los consejos municipales y las mesas directivas de casilla estarán integradas por ciudadanos.\n\n(DEROGADO CUARTO PÁRRAFO, P.O. 10 DE JUNIO DE 2016) (REFORMADO, P.O. 10 DE JUNIO DE 2016) La fiscalización de las finanzas de los partidos políticos y candidatos independientes estará a cargo del Instituto Nacional Electoral en los términos de ley.\n\n(ADICIONADO, P.O. 31 DE ENERO DE 2023) Para los procesos de revocación de mandato, en los términos del artículo 17 de este ordenamiento, el Instituto Estatal Electoral, deberá realizar aquellas funciones que correspondan para su debida implementación.\n\n(REFORMADO, P.O. 10 DE JUNIO DE 2016) Apartado D.- Del Tribunal Estatal Electoral y el Sistema de Medios de Impugnación.\n\nHabrá un Tribunal Electoral autónomo, de carácter permanente con personalidad jurídica y patrimonio propios, independiente en sus decisiones que será la máxima autoridad jurisdiccional en la materia, con la jurisdicción y competencia que determinen esta Constitución y la ley. Contará con el personal jurídico y administrativo necesario para su adecuado funcionamiento en los términos que disponga la ley.\n\n(REFORMADO, P.O. 31 DE ENERO DE 2023) Al Tribunal le corresponde garantizar los actos y resoluciones electorales, así como en materia de revocación de mandato, en los términos que disponen esta Constitución y la ley; actuará con autonomía e independencia en sus decisiones y serán definitivas en el ámbito de su competencia. Sus determinaciones se sustentarán en los principios rectores de certeza, legalidad, independencia, imparcialidad, máxima publicidad y objetividad.\n\n(REFORMADO, P.O. 26 DE NOVIEMBRE DE 2019) Funcionará de conformidad a lo dispuesto por la ley secundaria del ámbito local, y se integrará por tres Magistrados designados por la Cámara de Senadores del Congreso de la Unión. Sus emolumentos serán los previstos en el Presupuesto de Egresos del Estado.\n\nLos Magistrados del Tribunal Electoral designarán a su Presidente por mayoría de votos cada tres años de conformidad a las formalidades y procedimiento previsto en la ley.\n\nQuien ocupe la Presidencia del Tribunal no podrá reelegirse.\n\nQuienes hayan fungido como magistrados electorales no podrán asumir un cargo público en los órganos emanados de las elecciones celebradas durante su periodo, ni ser postulados para un cargo de elección popular o asumir un cargo de dirigencia partidista, por un plazo equivalente a una cuarta parte del tiempo en que haya ejercido su función.\n\nEn materia electoral la interposición de los medios de impugnación, constitucionales o legales, no producirá efectos suspensivos sobre la resolución o el acto impugnado.\n\nEl Tribunal Electoral podrá resolver la no aplicación de leyes en materia electoral contrarias a la presente Constitución. Las resoluciones que se dicten en el ejercicio de esta facultad se limitarán al caso concreto sobre el que verse el juicio.\n\nLa ley fijará las causales de nulidad de las elecciones de gobernador, diputados y ayuntamientos, así como los plazos convenientes para el desahogo de todas las instancias impugnativas por violaciones graves, dolosas y determinantes en los siguientes casos señalados de manera enunciativa:"
+    },
+    {
+      "id": "135.V.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 135 › Fracción V › inciso a)",
+      "texto": "a) Se exceda el gasto de campaña en un cinco por ciento del monto total autorizado;"
+    },
+    {
+      "id": "135.V.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 135 › Fracción V › inciso b)",
+      "texto": "b) Se compre o adquiera cobertura informativa o tiempos en radio y televisión, fuera de los supuestos previstos en la ley;"
+    },
+    {
+      "id": "135.V.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 135 › Fracción V › inciso c)",
+      "texto": "c) Se reciban o utilicen recursos de procedencia ilícita o recursos públicos en las campañas.\n\nDichas violaciones deberán acreditarse de manera objetiva y material. Se presumirá que las violaciones son determinantes cuando la diferencia entre la votación obtenida entre el primero y el segundo lugar sea menor al cinco por ciento.\n\nEn caso de nulidad de la elección, se convocará a una elección extraordinaria, en la que no podrá participar la persona sancionada.\n\nEn el manejo de recursos económicos, materiales y humanos, los servidores en la entidad, independientemente del cargo y nivel de gobierno, tienen en todo tiempo la obligación de aplicar con imparcialidad los recursos públicos que están bajo su responsabilidad, sin influir en la equidad de la competencia entre los partidos políticos, precandidatos, aspirantes o candidatos.\n\nLas leyes correspondientes tipificarán los delitos en materia electoral y determinarán las sanciones que por ellos se impongan.\n\n(ADICIONADO, P.O. 31 DE ENERO DE 2023) Para garantizar los principios de constitucionalidad y legalidad de los actos y resoluciones electorales, incluidos los relativos a los procesos de revocación de mandato, se establecerá un sistema de medios de impugnación en los términos que señalen esta Constitución y la ley. Dicho sistema dará definitividad a las distintas etapas de los procesos electorales, de revocación de mandato, y garantizará la protección de los derechos políticos de los ciudadanos de votar, ser votados y de asociación."
+    }
+  ]
+}

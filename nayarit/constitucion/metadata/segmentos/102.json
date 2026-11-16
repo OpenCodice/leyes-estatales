@@ -1,0 +1,45 @@
+{
+  "clave": "102",
+  "etiqueta": "Artículo 102",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "102.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › párrafo 1",
+      "texto": "(REFORMADA SU NUMERACION, P.O. 17 DE MAYO DE 2004)"
+    },
+    {
+      "id": "102.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › párrafo 2",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O.13 DE OCTUBRE DE 2012)"
+    },
+    {
+      "id": "102.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › párrafo 3",
+      "texto": "El Estado garantizará la existencia de un servicio de defensoría pública del fuero común de calidad, que estará a cargo del Poder Ejecutivo, quien obligatoriamente deberá proveer en forma gratuita la prestación de asesoría y asistencia legal a quienes carezcan de recursos económicos para contratar servicios profesionales y para los fines que expresamente dispone la Constitución General de la República, y asegurará las condiciones de un servicio profesional de carrera para los defensores."
+    },
+    {
+      "id": "102.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › párrafo 4",
+      "texto": "La Ley organizará la institución, fijará su estructura administrativa, los requisitos para desempeñarse como defensor de oficio y las bases de coordinación con las instituciones educativas y asociaciones o colegios de profesionistas."
+    }
+  ]
+}

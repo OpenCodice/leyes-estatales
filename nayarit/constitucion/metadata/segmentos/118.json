@@ -1,0 +1,27 @@
+{
+  "clave": "118",
+  "etiqueta": "Artículo 118",
+  "titulo": "TITULO SEPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "118.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 16 DE DICIEMBRE DE 2009)"
+    },
+    {
+      "id": "118.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 118 › párrafo 2",
+      "texto": "Los fondos públicos se distribuirán conforme al Presupuesto de Egresos; los servidores públicos facultados, serán responsables de aquellos que distribuyan y no estuvieren comprendidos en dicho presupuesto o autorizados por una Ley posterior."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "129",
+  "etiqueta": "Artículo 129",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "129.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 129 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 28 DE DICIEMBRE DE 1983)"
+    },
+    {
+      "id": "129.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 129 › párrafo 2",
+      "texto": "En demandas del orden civil no habrá fuero, ni inmunidad para ningún servidor público."
+    }
+  ]
+}

@@ -1,0 +1,189 @@
+{
+  "clave": "091",
+  "etiqueta": "Artículo 91",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "091.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 1",
+      "texto": "El Poder Judicial, a través del Pleno del Tribunal Superior de Justicia, será competente para conocer de los siguientes medios de control constitucional, en los términos que disponga la ley:"
+    },
+    {
+      "id": "091.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 2",
+      "texto": "DEROGADO, P.O. 1 DE DICIEMBRE DE 2022 DEROGADO, P.O. 1 DE DICIEMBRE DE 2022"
+    },
+    {
+      "id": "091.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción I",
+      "texto": "I.- De las controversias constitucionales que se susciten entre:"
+    },
+    {
+      "id": "091.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 91 › Fracción I › inciso a)",
+      "texto": "a).- El Poder Legislativo y el Ejecutivo;"
+    },
+    {
+      "id": "091.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 91 › Fracción I › inciso b)",
+      "texto": "b).- El Poder Legislativo o Ejecutivo con uno o más municipios del Estado;"
+    },
+    {
+      "id": "091.I.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 91 › Fracción I › inciso c)",
+      "texto": "c).- Dos o más municipios;"
+    },
+    {
+      "id": "091.I.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 91 › Fracción I › inciso d)",
+      "texto": "d).- El Poder Legislativo o Ejecutivo con uno o más organismos autónomos del Estado;\n\n(REFORMADO, P.O. 18 DE JUNIO DE 2021)"
+    },
+    {
+      "id": "091.I.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 91 › Fracción I › inciso e)",
+      "texto": "e).- Uno o más municipios y uno o más organismos autónomos del Estado, y (ADICIONADO, P.O. 18 DE JUNIO DE 2021)"
+    },
+    {
+      "id": "091.I.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 91 › Fracción I › inciso f)",
+      "texto": "f).- Un órgano de relevancia constitucional y el Poder Legislativo o Ejecutivo, o contra uno o más órganos autónomos o uno o más municipios. Las controversias suscitadas por la Auditoría Superior del Estado de Nayarit, no procederán contra actos u omisiones del Congreso del Estado.\n\nLo anterior, siempre que tales controversias no sean competencia de la Suprema Corte de Justicia de la Nación conforme al artículo 105, fracción I, de la Constitución General de la República.\n\nLas controversias tendrán por objeto resolver si la disposición general, el acto o actos impugnados son conformes o contrarios a esta Constitución, y declarar su validez o invalidez.\n\n(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022) Siempre que las controversias versen sobre disposiciones generales y la resolución del Pleno del Tribunal Superior de Justicia las declare inválidas, dicha resolución tendrá efectos generales cuando hubieren sido aprobadas por una mayoría de por lo menos ocho votos.\n\nEn los demás casos la resolución tendrá efectos únicamente respecto de las partes en la controversia."
+    },
+    {
+      "id": "091.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción II",
+      "texto": "II.- De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma de carácter general y esta Constitución.\n\nLas acciones de inconstitucionalidad podrán ejercitarse dentro de los treinta días naturales siguientes a la fecha de la publicación de la norma, por:\n\n(REFORMADO, P.O. 21 DE ENERO DE 2013)"
+    },
+    {
+      "id": "091.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 91 › Fracción II › inciso a)",
+      "texto": "a).- Fiscal General del Estado;"
+    },
+    {
+      "id": "091.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 91 › Fracción II › inciso b)",
+      "texto": "b).- Cuando menos una tercera parte de los miembros integrantes del Congreso, en contra de leyes o decretos expedidos por la propia legislatura;"
+    },
+    {
+      "id": "091.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 91 › Fracción II › inciso c)",
+      "texto": "c).- Cuando menos una tercera parte de los integrantes de algún Ayuntamiento, en contra de disposiciones generales expedidas por éste;"
+    },
+    {
+      "id": "091.II.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 91 › Fracción II › inciso d)",
+      "texto": "d).- La Comisión Estatal de Defensa de los Derechos Humanos, en contra de normas generales que vulneren los derechos fundamentales previstos en esta Constitución.\n\n(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022) Las resoluciones dictadas tendrán efectos generales cuando hubieren sido aprobadas cuando menos por ocho votos de los integrantes del Pleno del Tribunal Superior de Justicia, y surtirán efectos a partir de su publicación en el Periódico Oficial, Órgano del Gobierno del Estado."
+    },
+    {
+      "id": "091.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción III",
+      "texto": "III.- De las acciones de inconstitucionalidad por omisión, en contra de cualquier autoridad, a quien la Constitución o una ley ordena expedir una norma de carácter general y dicha omisión produce violaciones a esta Constitución.\n\nEl ejercicio de esta acción corresponderá a cualquier autoridad o vecino del Estado.\n\n(REFORMADO, P.O. 1 DE DICIEMBRE DE 2022) La resolución que declare fundada la acción de inconstitucionalidad por omisión, deberá ser aprobada cuando menos por ocho votos y fijará el plazo para que la autoridad omisa expida la norma, el cual no podrá exceder de un año."
+    },
+    {
+      "id": "091.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción IV",
+      "texto": "IV.- DEROGADA, P.O. 1 DE DICIEMBRE DE 2022"
+    },
+    {
+      "id": "091.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción V",
+      "texto": "V.- DEROGADA, P.O. 1 DE DICIEMBRE DE 2022"
+    },
+    {
+      "id": "091.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción VI",
+      "texto": "VI.- DEROGADA, P.O. 10 DE JUNIO DE 2016 (REFORMADA, P.O. 13 DE OCTUBRE DE 2012)"
+    },
+    {
+      "id": "091.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción VII",
+      "texto": "VII.- De los conflictos por límites territoriales entre dos o más municipios del estado en los términos que establezca la ley de la materia, y (ADICIONADA, P.O. 13 DE OCTUBRE DE 2012)"
+    },
+    {
+      "id": "091.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › Fracción VIII",
+      "texto": "VIII.-Los demás que con base en la Constitución Federal, esta Constitución y demás leyes, se le confieran.\n\n(REFORMADO [ÚLTIMO PÁRRAFO], P.O. 27 DE ENERO DE 2025) Tratándose de controversias constitucionales o de acciones de inconstitucionalidad planteadas respecto de normas generales, en ningún caso su admisión dará lugar a la suspensión de la norma cuestionada."
+    }
+  ]
+}

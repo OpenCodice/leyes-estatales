@@ -1,0 +1,27 @@
+{
+  "clave": "139",
+  "etiqueta": "Artículo 139",
+  "titulo": "TITULO DECIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "139.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 139 › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 9 DE FEBRERO DE 1930)"
+    },
+    {
+      "id": "139.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 139 › párrafo 2",
+      "texto": "Los Poderes del Estado no reconocerán a los individuos que se apoderen del Poder Ejecutivo de la Unión o del Estado, por medio de una asonada motín o cuartelazo. Tampoco reconocerán como buena la renuncia del Presidente de los Estados Unidos Mexicanos, ni del Gobernador del Estado, cuando dicha renuncia sea hecha bajo presión de los incidentes del caso, bien por la fuerzas de las armas o bien por la fuerza bruta."
+    }
+  ]
+}

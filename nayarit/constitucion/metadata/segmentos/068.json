@@ -1,0 +1,27 @@
+{
+  "clave": "068",
+  "etiqueta": "Artículo 68",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "068.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 27 DE FEBRERO DE 1943)"
+    },
+    {
+      "id": "068.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 2",
+      "texto": "El Gobernador no podrá salir del territorio del Estado ni separarse del ejercicio de sus funciones sin permiso de la Cámara o Diputación Permanente en su caso, salvo que su ausencia no exceda de veinte días."
+    }
+  ]
+}

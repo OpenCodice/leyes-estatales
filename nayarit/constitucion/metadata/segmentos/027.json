@@ -1,0 +1,63 @@
+{
+  "clave": "027",
+  "etiqueta": "Artículo 27",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "027.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 1",
+      "texto": "(REFORMADO PRIMER PARRAFO, P.O. 14 DE NOVIEMBRE DE 2007)"
+    },
+    {
+      "id": "027.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 2",
+      "texto": "Para la asignación de los diputados por el principio de representación proporcional, se observarán las disposiciones que establezcan la ley y las siguientes bases:"
+    },
+    {
+      "id": "027.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 3",
+      "texto": "(REFORMADA, P.O. 10 DE JUNIO DE 2016)"
+    },
+    {
+      "id": "027.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción I",
+      "texto": "I. Que los partidos políticos hayan registrado fórmulas para la elección de diputados de mayoría relativa en cuando menos las dos terceras partes de los distritos electorales;\n\n(REFORMADA, P.O. 10 DE JUNIO DE 2016)"
+    },
+    {
+      "id": "027.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción II",
+      "texto": "II. Los partidos políticos que hayan obtenido un mínimo de tres por ciento de la votación total, tendrán derecho a la asignación, y (ADICIONADA, P.O. 06 DE OCTUBRE DE 2010)"
+    },
+    {
+      "id": "027.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción III",
+      "texto": "III. Cada partido político que obtenga el mínimo de votación a que se refiere la fracción anterior tendrá derecho a la asignación de cuando menos un diputado de representación proporcional.\n\n(REFORMADO, P.O. 10 DE JUNIO DE 2016) La ley determinará el procedimiento y requisitos a que se sujetará la asignación de diputados de representación proporcional, atendiendo lo establecido en el artículo anterior.\n\n(REUBICADO, P.O. 06 DE OCTUBRE DE 2010) Ningún partido político podrá contar con más de dieciocho diputados por ambos principios.\n\n(ADICIONADO, P.O. 6 DE OCTUBRE DE 2020) Los partidos políticos postularán entre sus candidatos de la lista de representación proporcional a una fórmula de personas migrantes."
+    }
+  ]
+}

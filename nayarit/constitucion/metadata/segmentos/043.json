@@ -1,0 +1,72 @@
+{
+  "clave": "043",
+  "etiqueta": "Artículo 43",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "043.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 25 DE AGOSTO DE 1943)"
+    },
+    {
+      "id": "043.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 2",
+      "texto": "Es deber de los Diputados visitar en los recesos del Congreso los pueblos del distrito que representen, para informarse:"
+    },
+    {
+      "id": "043.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 3",
+      "texto": "(REFORMADA, P.O. 15 DE OCTUBRE DE 2011)"
+    },
+    {
+      "id": "043.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › Fracción I",
+      "texto": "I. Del estado en que se encuentren la educación, los servicios de salud pública, así como lo relativo a la seguridad de sus habitantes."
+    },
+    {
+      "id": "043.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › Fracción II",
+      "texto": "II. De cómo cumplen con sus respectivas obligaciones los funcionarios y empleados públicos.\n\n(REFORMADA, P.O. 15 DE OCTUBRE DE 2011)"
+    },
+    {
+      "id": "043.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › Fracción III",
+      "texto": "III. Del estado en que se encuentren los sectores productivos, y"
+    },
+    {
+      "id": "043.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › Fracción IV",
+      "texto": "IV. De los obstáculos que se opongan al adelanto y progreso del distrito y de las medidas que sea conveniente dictar para corregir tales obstáculos y para favorecer el desarrollo de todos o algunos de los ramos de la riqueza pública."
+    }
+  ]
+}

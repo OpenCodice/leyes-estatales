@@ -1,0 +1,36 @@
+{
+  "clave": "126",
+  "etiqueta": "Artículo 126",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "126.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE JUNIO DE 2017)"
+    },
+    {
+      "id": "126.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126 › párrafo 2",
+      "texto": "No se requerirá declaración de procedencia del Congreso del Estado cuando alguno de los servidores públicos a que hace referencia el artículo 125 primer párrafo, cometa un delito durante el tiempo en que se encuentre separado de su encargo."
+    },
+    {
+      "id": "126.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126 › párrafo 3",
+      "texto": "Si el servidor público ha vuelto a desempeñar sus funciones propias o ha sido nombrado o electo para desempeñar otro cargo distinto, pero de los enumerados en el artículo 125 se procederá de acuerdo con lo dispuesto en dicho precepto."
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "clave": "116",
+  "etiqueta": "Artículo 116",
+  "titulo": "TITULO SEPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "116.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › párrafo 1",
+      "texto": "(REFORMADA SU NUMERACION, P.O. 21 DE OCTUBRE DE 2000)"
+    },
+    {
+      "id": "116.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › párrafo 2",
+      "texto": "(REFORMADA SU NUMERACION, P.O. 21 DE OCTUBRE DE 2000)"
+    },
+    {
+      "id": "116.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › párrafo 3",
+      "texto": "La Hacienda Pública del Estado, la constituyen:"
+    },
+    {
+      "id": "116.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › Fracción I",
+      "texto": "I. Los bienes de propiedad del Estado."
+    },
+    {
+      "id": "116.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › Fracción II",
+      "texto": "II. Los muebles e inmuebles vacantes del mismo."
+    },
+    {
+      "id": "116.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › Fracción III",
+      "texto": "III. Las rentas y contribuciones decretadas por el Congreso, único a quien compete legislar en esta materia."
+    },
+    {
+      "id": "116.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › Fracción IV",
+      "texto": "IV. El producto de los bienes que según las Leyes pertenezcan al Estado."
+    },
+    {
+      "id": "116.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › Fracción V",
+      "texto": "V. Las multas que conforme a las Leyes deban ingresar al Erario."
+    },
+    {
+      "id": "116.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › Fracción VI",
+      "texto": "VI. Las donaciones, legados, herencias y reintegros que se hagan o dejen al Tesoro Público.\n\n(ADICIONADA, P.O. 3 DE SEPTIEMBRE DE 1941)"
+    },
+    {
+      "id": "116.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › Fracción VII",
+      "texto": "VII. El importe de fianzas o depósitos carcelarios, y demás cantidades que por disposición de la autoridad Judicial deban ingresar al Erario."
+    }
+  ]
+}

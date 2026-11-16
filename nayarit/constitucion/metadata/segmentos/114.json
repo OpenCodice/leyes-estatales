@@ -1,0 +1,36 @@
+{
+  "clave": "114",
+  "etiqueta": "Artículo 114",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "114.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 18 DE OCTUBRE DE 2016)"
+    },
+    {
+      "id": "114.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 › párrafo 2",
+      "texto": "Los Ayuntamientos remitirán al Congreso del Estado, para su revisión y fiscalización por medio de la Auditoria Superior del Estado, todas sus Cuentas Públicas en los términos que establece esta Constitución y la ley de la materia."
+    },
+    {
+      "id": "114.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 114 › párrafo 3",
+      "texto": "Los Ayuntamientos establecerán sus propios órganos internos de control presupuestal y financiero, los cuales desarrollarán sus funciones de conformidad con lo que establezca la ley."
+    }
+  ]
+}

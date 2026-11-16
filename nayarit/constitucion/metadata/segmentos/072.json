@@ -1,0 +1,54 @@
+{
+  "clave": "072",
+  "etiqueta": "Artículo 72",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "072.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72 › párrafo 1",
+      "texto": "(REFORMADA SU DENOMINACION, P.O. 1 DE JUNIO DE 1994)"
+    },
+    {
+      "id": "072.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 1 DE JUNIO DE 1994)"
+    },
+    {
+      "id": "072.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72 › párrafo 3",
+      "texto": "Para el despacho de los negocios oficiales del Poder Ejecutivo, la administración pública será centralizada y paraestatal conforme a la Ley Orgánica que expida el Congreso, la que distribuirá los asuntos del orden administrativo de las dependencias y organismos y definirá las bases para la creación de las entidades paraestatales y la intervención del Ejecutivo en su funcionamiento."
+    },
+    {
+      "id": "072.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72 › párrafo 4",
+      "texto": "Las leyes determinarán las relaciones entre el Ejecutivo Estatal y las entidades paraestatales, o entre éstas y las dependencias de la administración centralizada."
+    },
+    {
+      "id": "072.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72 › párrafo 5",
+      "texto": "Al efecto, se formará en la esfera administrativa, los reglamentos necesarios para la exacta observancia de las disposiciones legales."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "136",
+  "etiqueta": "Artículo 136",
+  "titulo": "TITULO DECIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "136.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 136 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)"
+    },
+    {
+      "id": "136.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 136 › párrafo 2",
+      "texto": "La educación que imparte el Estado, se sujetará a las prevenciones del artículo 3º de la Constitución Federal."
+    },
+    {
+      "id": "136.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 136 › párrafo 3",
+      "texto": "(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010) La Universidad Autónoma de Nayarit es una institución autónoma de educación superior y media superior, conforme a la ley estará facultada para autogobernarse, expedir su reglamentación y nombrar a sus autoridades; con base en estos principios realizará sus fines de conservar, crear y transmitir la cultura y la ciencia, a través de la docencia, investigación, difusión y vinculación académica, con pleno respeto a las libertades de cátedra, investigación, libre examen y discusión de las ideas; determinará sus planes y programas; fijará los términos de ingreso, promoción y permanencia de su personal académico; y administrará libremente su patrimonio, el cual se integrará con las aportaciones federales y estatales, la transmisión de bienes y derechos de personas físicas o morales, nacionales o extranjeras, los recursos generados por los servicios que preste, así como por los demás que señale su ley orgánica."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "063",
+  "etiqueta": "Artículo 63",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "063.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 18 DE JUNIO DE 1980)"
+    },
+    {
+      "id": "063.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63 › párrafo 2",
+      "texto": "El Gobernador será electo popular y directamente cada seis años, empezará a ejercer sus funciones el diecinueve de septiembre posterior a la elección, protestando ante el Congreso del Estado y en ningún caso, ni por motivo alguno, podrá ser reelecto."
+    },
+    {
+      "id": "063.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63 › párrafo 3",
+      "texto": "(ADICIONADO, P.O. 31 DE ENERO DE 2023) El cargo de Gobernador del Estado puede ser revocado en los términos establecidos en esta Constitución."
+    }
+  ]
+}
