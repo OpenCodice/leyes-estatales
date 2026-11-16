@@ -1,0 +1,18 @@
+{
+  "clave": "001",
+  "etiqueta": "Artículo 1",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "001.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 1",
+      "texto": "El Estado de Tamaulipas es libre, soberano e independiente en cuanto a su Gobierno y administración interiores; pero está ligado a los Poderes de la Unión como parte integrante de los Estados Unidos Mexicanos, en todo aquello que fija expresamente la Constitución Política de los Estados Unidos Mexicanos y las Leyes que de ella emanan."
+    }
+  ]
+}

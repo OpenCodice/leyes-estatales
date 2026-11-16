@@ -1,0 +1,45 @@
+{
+  "clave": "133",
+  "etiqueta": "Artículo 133",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "133.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › párrafo 1",
+      "texto": "Los Municipios administrarán libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que la legislatura establezca a su favor, y en todo caso:"
+    },
+    {
+      "id": "133.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › Fracción I",
+      "texto": "I.- Percibirán las contribuciones, incluyendo tasas adicionales, que establezca la legislatura sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.\n\nLos Municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones;"
+    },
+    {
+      "id": "133.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › Fracción II",
+      "texto": "II.- Las participaciones federales, que serán cubiertas por la Federación a los Municipios con arreglo a las bases, montos y plazos que anualmente se determinen por la legislatura del Estado; y"
+    },
+    {
+      "id": "133.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › Fracción III",
+      "texto": "III.- Los ingresos derivados de la prestación de servicios públicos a su cargo.\n\nLas contribuciones a que se refieren las fracciones I y III no podrán ser objeto de exenciones o subsidios a favor de persona o institución alguna respecto de dichas contribuciones. Sólo estarán exentos los bienes de dominio público de la Federación, del Estado o los Municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.\n\nLos ayuntamientos, en el ámbito de su competencia, propondrán a la legislatura las cuotas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria.\n\nLa legislatura aprobará las leyes de ingresos de los Municipios, revisará y fiscalizará sus cuentas públicas.\n\nLos presupuestos de egresos serán aprobados por los ayuntamientos con base en sus ingresos disponibles, y deberán incluir en los mismos, los tabuladores desglosados de las remuneraciones que perciban los servidores públicos municipales, sujetándose a lo dispuesto en el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos y esta Constitución.\n\nLos recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos, o bien, por quien ellos autoricen, conforme a la ley."
+    }
+  ]
+}

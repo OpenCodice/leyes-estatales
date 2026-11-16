@@ -1,0 +1,27 @@
+{
+  "clave": "035",
+  "etiqueta": "Artículo 35",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "035.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35 › párrafo 1",
+      "texto": "Por muerte o imposibilidad calificada de la Diputada Propietaria o del Diputado Propietario y de la o el Suplente de un mismo Distrito, el Congreso dispondrá que se haga nueva elección siempre que ocurra dentro de los primeros dieciocho meses de su ejercicio."
+    },
+    {
+      "id": "035.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35 › párrafo 2",
+      "texto": "En caso de que una u otra ocurran después del término establecido a juicio del Congreso se llamará al Suplente de otro Distrito para que funja hasta terminar el período."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "122",
+  "etiqueta": "Artículo 122",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "122.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122 › párrafo 1",
+      "texto": "Los jueces de primera instancia y los jueces menores serán los necesarios para el despacho pronto y expedito de los asuntos de su competencia."
+    },
+    {
+      "id": "122.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122 › párrafo 2",
+      "texto": "Se deroga. (Párrafo derogado por Decreto No. 66-67, Edición Vespertina del P.O. Extraordinario No. 31, del 18 de noviembre de 2024)."
+    }
+  ]
+}

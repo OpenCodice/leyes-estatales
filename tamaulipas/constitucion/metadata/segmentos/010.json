@@ -1,0 +1,45 @@
+{
+  "clave": "010",
+  "etiqueta": "Artículo 10",
+  "titulo": "",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "010.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 1",
+      "texto": "Los derechos de ciudadano tamaulipeco se pierden:"
+    },
+    {
+      "id": "010.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción I",
+      "texto": "I.- En los casos de pérdida de la ciudadanía mexicana;"
+    },
+    {
+      "id": "010.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción II",
+      "texto": "II.- Por adquirir la ciudadanía de otro Estado, salvo cuando sea concedida a título honorífico;"
+    },
+    {
+      "id": "010.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Fracción III",
+      "texto": "III.- Por sentencia judicial."
+    }
+  ]
+}

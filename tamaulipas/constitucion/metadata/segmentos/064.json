@@ -1,0 +1,63 @@
+{
+  "clave": "064",
+  "etiqueta": "Artículo 64",
+  "titulo": "",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "064.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › párrafo 1",
+      "texto": "El derecho de iniciativa compete:"
+    },
+    {
+      "id": "064.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › Fracción I",
+      "texto": "I.- A las Diputadas y los Diputados del Congreso del Estado;"
+    },
+    {
+      "id": "064.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › Fracción II",
+      "texto": "II.- A la Gobernadora o al Gobernador del Estado;"
+    },
+    {
+      "id": "064.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › Fracción III",
+      "texto": "III.- Al Supremo Tribunal de Justicia;"
+    },
+    {
+      "id": "064.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › Fracción IV",
+      "texto": "IV.- A los Ayuntamientos;"
+    },
+    {
+      "id": "064.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › Fracción V",
+      "texto": "V.- A los ciudadanos en un número equivalente, por lo menos, al cero punto trece por ciento de la lista nominal de electores, en los términos que señalen las leyes.\n\nLa Ley del Congreso determinará el trámite que deba darse a las iniciativas.\n\nDurante los primeros quince días del periodo ordinario de sesiones la Gobernadora o el Gobernador del Estado podrá presentar hasta dos iniciativas para trámite preferente, o señalar con tal carácter hasta dos que hubiere presentado en periodos anteriores, cuando estén pendientes de dictamen. Cada iniciativa deberá ser discutida y votada por el Pleno del Congreso en un plazo máximo de treinta días naturales. Si no fuere así, la iniciativa, en sus términos y sin mayor trámite, será el primer asunto que deberá ser discutido y votado en la siguiente sesión del Pleno.\n\nNo podrán tener carácter preferente las iniciativas de adición o reforma a esta Constitución."
+    }
+  ]
+}

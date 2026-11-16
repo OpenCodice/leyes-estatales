@@ -1,0 +1,36 @@
+{
+  "clave": "128",
+  "etiqueta": "Artículo 128",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "128.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 128 › párrafo 1",
+      "texto": "La ley dispondrá la organización del servicio de defensoría pública, tanto en materia penal como de representación en asuntos familiares o civiles y para el otorgamiento de asesorías legales."
+    },
+    {
+      "id": "128.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 128 › párrafo 2",
+      "texto": "Tendrá una persona titular designada por el Ejecutivo del Estado y los defensores y asesores que sustente el presupuesto de egresos. Los defensores no podrán tener percepciones inferiores a las que corresponden a los agentes de Ministerio Público."
+    },
+    {
+      "id": "128.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 128 › párrafo 3",
+      "texto": "El cargo de defensor público o de asesor es incompatible con cualquier otro cargo, empleo o comisión en los sectores público, social o privado, excepto en la realización de actividades docentes, de investigación, literarias o de beneficencia."
+    }
+  ]
+}
