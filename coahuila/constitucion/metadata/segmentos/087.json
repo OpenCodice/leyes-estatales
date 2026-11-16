@@ -1,0 +1,72 @@
+{
+  "clave": "087",
+  "etiqueta": "Artículo 87º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPITULO III.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "087.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87º › párrafo 1",
+      "texto": "(REFORMADO PRIMER PARRAFO, P.O. 17 DE JUNIO DE 1988)"
+    },
+    {
+      "id": "087.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87º › párrafo 2",
+      "texto": "Para ser Secretario del Ramo, se requiere:"
+    },
+    {
+      "id": "087.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87º › párrafo 3",
+      "texto": "(REFORMADA P.O. 17 DE JUNIO DE 1988)"
+    },
+    {
+      "id": "087.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87º › Fracción I",
+      "texto": "I. Ser ciudadano mexicano por nacimiento.\n\n(REFORMADA P.O. 17 DE JUNIO DE 1988)"
+    },
+    {
+      "id": "087.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87º › Fracción II",
+      "texto": "II. Haber cumplido 25 años de edad para el día de la designación."
+    },
+    {
+      "id": "087.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87º › Fracción III",
+      "texto": "III. Estar en pleno ejercicio de sus derechos; y"
+    },
+    {
+      "id": "087.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87º › Fracción IV",
+      "texto": "IV. Gozar de buena reputación y no haber sido condenado por delito intencional que amerite pena corporal de más de un año de prisión; pero si se tratare de robo, fraude, falsificación, abuso de confianza y otro que lastime la buena fama en concepto público, inhabilitará para el cargo cualquiera que haya sido la pena."
+    }
+  ]
+}

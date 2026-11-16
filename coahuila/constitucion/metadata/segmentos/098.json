@@ -1,0 +1,27 @@
+{
+  "clave": "098",
+  "etiqueta": "Artículo 98º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPITULO IV.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "098.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE JUNIO DE 1988)"
+    },
+    {
+      "id": "098.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 98º › párrafo 2",
+      "texto": "Las contribuciones al gasto público serán determinadas anualmente por el Congreso del Estado, en forma proporcional y equitativa."
+    }
+  ]
+}

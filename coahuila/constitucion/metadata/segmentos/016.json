@@ -1,0 +1,63 @@
+{
+  "clave": "016",
+  "etiqueta": "Artículo 16º",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "016.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16º › párrafo 1",
+      "texto": "Son deberes de los habitantes del Estado:"
+    },
+    {
+      "id": "016.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16º › Fracción I",
+      "texto": "I. Someterse a las leyes vigentes y respetar las autoridades legítimamente constituidas, cooperando al buen nombre y prestigio de ellas."
+    },
+    {
+      "id": "016.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16º › Fracción II",
+      "texto": "II. Inscribirse en el padrón de su respectivo Municipio, manifestando la propiedad que tengan o industria, profesión o trabajo de que subsistan."
+    },
+    {
+      "id": "016.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16º › Fracción III",
+      "texto": "III. Contribuir a los gastos públicos del Municipio, del Estado y de la Federación en la forma proporcional y equitativa que dispongan las leyes correspondientes.\n\n(REFORMADO, P.O. 7 DE AGOSTO DE 2012)"
+    },
+    {
+      "id": "016.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16º › Fracción IV",
+      "texto": "IV. Adquirir la educación preescolar, primaria y secundaria , así como la educación media y hacer que la reciban los menores de edad que estén bajo su potestad o cuidado."
+    },
+    {
+      "id": "016.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16º › Fracción V",
+      "texto": "V. Cooperar en cuanto les sea posible al engrandecimiento y prosperidad del Estado y a la defensa de la independencia del territorio, la honra, derechos o intereses de la República en general y del Estado en particular."
+    }
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "clave": "020",
+  "etiqueta": "Artículo 20º",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "020.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20º › párrafo 1",
+      "texto": "El ejercicio de los derechos de ciudadanos coahuilenses se suspenden:"
+    },
+    {
+      "id": "020.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20º › Fracción I",
+      "texto": "I. Por sentencia ejecutoria que condene a la suspensión de esos derechos, por el tiempo que ella fije."
+    },
+    {
+      "id": "020.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20º › Fracción II",
+      "texto": "II. Por sentencia ejecutoria que condene a pena corporal durante el término de ésta."
+    },
+    {
+      "id": "020.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20º › Fracción III",
+      "texto": "III. Por incapacidad natural, durante el término que dure la privación de la inteligencia."
+    },
+    {
+      "id": "020.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20º › Fracción IV",
+      "texto": "IV. Por ser ebrio o tahúr consuetudinario."
+    },
+    {
+      "id": "020.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20º › Fracción V",
+      "texto": "V. Por no cumplir con las prevenciones de las leyes del Registro Civil.\n\n(REFORMADA, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "020.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20º › Fracción VI",
+      "texto": "VI. Por negarse a servir los cargos de elección popular sin causa justificada y calificada por quien corresponda. En este caso, la suspensión será por el tiempo que deba durar el cargo de que se trate y el remiso sufrirá, además, una sanción económica que fijará la ley de la materia.\n\n(ADICIONADA, P.O. 01 DE SEPTIEMBRE DE 2026)"
+    },
+    {
+      "id": "020.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20º › Fracción VII",
+      "texto": "VII. Por tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales; el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos y, por ser declarada como persona deudora alimentaria morosa.\n\nEn los supuestos previstos en esta fracción, la persona no podrá ser registrada como candidata para cualquier cargo de elección popular, ni ser nombrada para empleo, cargo o comisión en el servicio público.\n\nLa vigencia de inelegibilidad surtirá sus efectos el tiempo que dure la extinción de la sanción penal.\n\n(ADICIONADA, P.O. 01 DE SEPTIEMBRE DE 2026)"
+    },
+    {
+      "id": "020.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20º › Fracción VIII",
+      "texto": "VIII. Por estar prófugo o prófuga de la justicia desde que se dicte orden de aprehensión hasta en tanto quede sin efectos o prescriba la acción penal.\n\nEn el supuesto previsto en esta fracción, la persona no podrá ser registrada como candidata para cualquier cargo de elección popular, únicamente mientras subsista la suspensión de sus derechos."
+    }
+  ]
+}

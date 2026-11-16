@@ -1,0 +1,27 @@
+{
+  "clave": "091",
+  "etiqueta": "Artículo 91º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPITULO III.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "091.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE JUNIO DE 1988)"
+    },
+    {
+      "id": "091.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91º › párrafo 2",
+      "texto": "Las faltas temporales de los Secretarios del Ramo, serán suplidas por el funcionario que determine el reglamento interior respectivo."
+    }
+  ]
+}

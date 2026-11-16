@@ -1,0 +1,45 @@
+{
+  "clave": "007-g",
+  "etiqueta": "Artículo 7º G",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO II.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007-g.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º G › párrafo 1",
+      "texto": "Los derechos no son absolutos y tampoco lo son sus límites razonables, justos y previstos en ley proporcional."
+    },
+    {
+      "id": "007-g.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º G › párrafo 2",
+      "texto": "En ningún caso se afectará el contenido esencial que fija el núcleo básico que delimita el concepto, alcance y límites de los derechos humanos."
+    },
+    {
+      "id": "007-g.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º G › párrafo 3",
+      "texto": "El principio de proporcionalidad delimitará la validez de las restricciones o permisiones que, en su caso, una norma imponga a determinados derechos y deberes de las personas."
+    },
+    {
+      "id": "007-g.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º G › párrafo 4",
+      "texto": "Las autoridades están obligadas a respetar la proporcionalidad en su actuación de certeza y legalidad que determine sus facultades, atribuciones o deberes oficiales."
+    }
+  ]
+}

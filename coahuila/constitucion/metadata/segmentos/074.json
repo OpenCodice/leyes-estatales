@@ -1,0 +1,27 @@
+{
+  "clave": "074",
+  "etiqueta": "Artículo 74º",
+  "titulo": "TITULO TERCERO.",
+  "capitulo": "CAPITULO V.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "074.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74º › párrafo 1",
+      "texto": "En los casos de invasión y perturbación de la paz pública, la Diputación Permanente podrá conceder, con carácter de provisional, facultades extraordinarias al Ejecutivo para que haga frente a la situación; pero tan luego como se otorgue esta concesión, deberá convocar al Congreso a sesiones extraordinarias para que confirme, modifique o revoque el acuerdo relativo."
+    },
+    {
+      "id": "074.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74º › párrafo 2",
+      "texto": "(ADICIONADO CON SUS ARTÍCULOS, P.O. 11 DE NOVIEMBRE DE 2014)"
+    }
+  ]
+}

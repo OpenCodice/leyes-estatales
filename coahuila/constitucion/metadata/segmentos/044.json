@@ -1,0 +1,27 @@
+{
+  "clave": "044",
+  "etiqueta": "Artículo 44º",
+  "titulo": "TITULO TERCERO.",
+  "capitulo": "CAPITULO I.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "044.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015) (REFORMADO, P.O. 13 DE OCTUBRE DE 2001)"
+    },
+    {
+      "id": "044.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44º › párrafo 2",
+      "texto": "Para que los diputados se consideren legalmente electos, al declararse válidas las elecciones, deberán recibir del Instituto Electoral de Coahuila, el documento oficial que los acredite con esa calidad."
+    }
+  ]
+}

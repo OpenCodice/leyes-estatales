@@ -1,0 +1,54 @@
+{
+  "clave": "007-ñ",
+  "etiqueta": "Artículo 7º Ñ",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO II.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007-ñ.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º Ñ › párrafo 1",
+      "texto": "Toda persona goza de los derechos, libertades y garantías proclamadas en la Constitución Política de los Estados Unidos Mexicanos, los tratados internacionales de los que el Estado Mexicano sea parte, esta Constitución, las Cartas de Derechos y sus Protocolos Adicionales."
+    },
+    {
+      "id": "007-ñ.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º Ñ › párrafo 2",
+      "texto": "Las disposiciones legislativas no deberán entenderse como la negación de otros derechos que, siendo inherentes a la dignidad humana y a fin de favorecer la protección más favorable, no figuren expresamente en ellos."
+    },
+    {
+      "id": "007-ñ.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º Ñ › párrafo 3",
+      "texto": "Las personas juzgadoras podrán reconocer derechos, libertades y garantías conforme al derecho implícito que esté en concordancia con los principios de esta Constitución y el principio de primacía internacional."
+    },
+    {
+      "id": "007-ñ.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º Ñ › párrafo 4",
+      "texto": "(REFORMADO, P.O. 01 DE SEPTIEMBRE DE 2026)"
+    },
+    {
+      "id": "007-ñ.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º Ñ › párrafo 5",
+      "texto": "En los casos de lagunas o ambigüedades legislativas, las personas juzgadoras colmarán las omisiones de derechos y garantías bajo el principio de interpretación conforme, el principio pro persona, el principio de igualdad sustantiva o la construcción jurídica de las normas."
+    }
+  ]
+}

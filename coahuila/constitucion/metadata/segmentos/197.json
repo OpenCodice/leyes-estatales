@@ -1,0 +1,36 @@
+{
+  "clave": "197",
+  "etiqueta": "Artículo 197º",
+  "titulo": "TITULO NOVENO.",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "197.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 197º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 22 DE SEPTIEMBRE DE 2015) (REFORMADO, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "197.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 197º › párrafo 2",
+      "texto": "Para cumplir con lo que se previene en la fracción V del artículo que precede, el Congreso después de haber cumplido los requisitos que consignan las fracciones anteriores a la citada, mandará a cada Ayuntamiento del Estado, una copia del expediente a que se refiere la fracción IV de esta misma disposición, señalándoles, asimismo, que deberán emitir su voto, para los efectos legales correspondientes."
+    },
+    {
+      "id": "197.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 197º › párrafo 3",
+      "texto": "Una vez que se reciba el voto favorable de la mayoría absoluta de los Ayuntamientos de los Municipios, se podrá proceder a la formulación y presentación del dictamen a que se refiere la fracción VI del artículo anterior, así como a hacer la declaración que se señala en la fracción VII de la misma disposición."
+    }
+  ]
+}

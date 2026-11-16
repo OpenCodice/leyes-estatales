@@ -1,0 +1,36 @@
+{
+  "clave": "007-w",
+  "etiqueta": "Artículo 7º W",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO II.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007-w.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º W › párrafo 1",
+      "texto": "El Estado debe de prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos en los términos que determine la ley."
+    },
+    {
+      "id": "007-w.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º W › párrafo 2",
+      "texto": "La tutela de los derechos humanos implica reparar las violaciones graves de los derechos humanos ocurridas dentro y fuera del Estado, por medio de los tribunales del Poder Judicial conforme al principio de territorialidad o la prueba de conexión relevante."
+    },
+    {
+      "id": "007-w.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º W › párrafo 3",
+      "texto": "Se establecerá un sistema de garantías prevalentes de acceso a la justicia con trato sensible a favor de las víctimas que resulten afectadas de manera grave por un delito de lesa humanidad o por la violación de sus derechos humanos. Este sistema de protección prevalente garantizará igualmente el derecho a la consulta popular en la justicia, la protección retrospectiva de la ley más favorable para las víctimas, así como los derechos a la verdad, la reparación integral, la memoria, la no repetición y demás derechos fundamentales de las víctimas."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "086",
+  "etiqueta": "Artículo 86º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPITULO III.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "086.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE JUNIO DE 1988)"
+    },
+    {
+      "id": "086.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 86º › párrafo 2",
+      "texto": "Para el desempeño de los asuntos que la presente Constitución encomienda al Ejecutivo, habrán las Secretarías del Ramo, las dependencias y organismos que señale la Ley Orgánica de la Administración Pública Estatal."
+    }
+  ]
+}

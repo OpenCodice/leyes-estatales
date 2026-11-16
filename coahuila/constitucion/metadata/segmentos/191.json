@@ -1,0 +1,27 @@
+{
+  "clave": "191",
+  "etiqueta": "Artículo 191º",
+  "titulo": "TITULO OCTAVO.",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "191.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 191º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "191.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 191º › párrafo 2",
+      "texto": "Los servidores públicos que entren a ejercer su cargo después del día señalado por esta Constitución, sólo durarán en sus funciones el tiempo que faltare para completar el período respectivo."
+    }
+  ]
+}

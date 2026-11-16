@@ -1,0 +1,36 @@
+{
+  "clave": "007-p",
+  "etiqueta": "Artículo 7º P",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO II.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007-p.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º P › párrafo 1",
+      "texto": "Esta Constitución, las Cartas de Derechos y sus Protocolos Adicionales establecerán las garantías reforzadas de los derechos humanos de carácter fundamental."
+    },
+    {
+      "id": "007-p.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º P › párrafo 2",
+      "texto": "Los Protocolos Adicionales se crearán y reformarán en los mismos términos que establece esta Constitución para las Cartas de Derechos."
+    },
+    {
+      "id": "007-p.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º P › párrafo 3",
+      "texto": "Las cláusulas de intangibilidad de los derechos humanos serán respetadas por los poderes constituyentes o, en su caso, garantizadas por el Tribunal Constitucional Local en los términos previstos en la ley."
+    }
+  ]
+}

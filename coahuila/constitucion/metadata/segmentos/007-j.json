@@ -1,0 +1,27 @@
+{
+  "clave": "007-j",
+  "etiqueta": "Artículo 7º J",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO II.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007-j.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º J › párrafo 1",
+      "texto": "Las personas físicas y jurídicas están vinculadas a las obligaciones de respeto, promoción y protección de los derechos humanos."
+    },
+    {
+      "id": "007-j.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º J › párrafo 2",
+      "texto": "Los actos de los particulares podrán ser justiciables por violaciones de los derechos humanos cuando sean arbitrarias y requieran tutela efectiva e inmediata en los términos que disponga la ley."
+    }
+  ]
+}

@@ -1,0 +1,72 @@
+{
+  "clave": "007-d",
+  "etiqueta": "Artículo 7º D",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO II.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007-d.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º D › párrafo 1",
+      "texto": "Todos los seres humanos nacen libres e iguales en dignidad y derechos y, dotados de razón y conciencia, deben comportarse fraternalmente los unos con los otros."
+    },
+    {
+      "id": "007-d.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º D › párrafo 2",
+      "texto": "Todas las personas son libres e iguales en dignidad, derechos y deberes. Las personas se deben entre sí la solidaridad justa y necesaria para vivir en forma libre e igual."
+    },
+    {
+      "id": "007-d.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º D › párrafo 3",
+      "texto": "La libertad consiste en poder hacer todo aquello que no dañe o ponga en riesgo grave a los demás y que no esté explícitamente prohibido por ley."
+    },
+    {
+      "id": "007-d.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º D › párrafo 4",
+      "texto": "(REFORMADO, P.O. 01 DE SEPTIEMBRE DE 2026)"
+    },
+    {
+      "id": "007-d.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º D › párrafo 5",
+      "texto": "La igualdad consiste en poder tener, en igualdad de condiciones, las mismas oportunidades, poderes o recursos, para posibilitar el libre desarrollo de la personalidad, sin privilegios, discriminaciones, ni ventajas indebidas. El Estado garantizará la igualdad sustantiva mediante la adopción de medidas diferenciadas, proporcionales y razonables que eliminen desigualdades estructurales y aseguren condiciones reales de igualdad en el ejercicio de los derechos de las personas. La paridad es una garantía para alcanzar la igualdad sustantiva entre los géneros, de manera progresiva, transitoria y efectiva."
+    },
+    {
+      "id": "007-d.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º D › párrafo 6",
+      "texto": "La seguridad jurídica consiste en la certeza de aplicar normas válidas, ciertas, predecibles y razonables que delimiten la esfera de lo permitido y de lo prohibido por la ley."
+    },
+    {
+      "id": "007-d.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º D › párrafo 7",
+      "texto": "La solidaridad consiste en el deber necesario y proporcional que se deben de manera fraterna las personas para permitir la ayuda mutua, el desarrollo social de la comunidad y la libertad e igualdad en condiciones de mayor protección prevalente a las personas en condiciones de vulnerabilidad."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "032",
+  "etiqueta": "Artículo 32º",
+  "titulo": "TITULO TERCERO.",
+  "capitulo": "CAPITULO I.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "032.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32º › párrafo 1",
+      "texto": "Se deposita el ejercicio del Poder Legislativo en una Asamblea que se denominará: Congreso del Estado Independiente, Libre y Soberano de Coahuila de Zaragoza."
+    },
+    {
+      "id": "032.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32º › párrafo 2",
+      "texto": "(ADICIONADO, P.O. 01 DE SEPTIEMBRE DE 2026)"
+    },
+    {
+      "id": "032.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 32º › párrafo 3",
+      "texto": "En su integración y funcionamiento deberán garantizarse los principios de paridad, igualdad sustantiva y perspectiva de género."
+    }
+  ]
+}

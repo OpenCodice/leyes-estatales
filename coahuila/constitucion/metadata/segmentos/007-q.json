@@ -1,0 +1,72 @@
+{
+  "clave": "007-q",
+  "etiqueta": "Artículo 7º Q",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO II.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007-q.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º Q › párrafo 1",
+      "texto": "Los derechos se garantizarán conforme a la cláusula de igual protección."
+    },
+    {
+      "id": "007-q.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º Q › párrafo 2",
+      "texto": "La ley deberá garantizar la igualdad de hecho y de derecho."
+    },
+    {
+      "id": "007-q.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º Q › párrafo 3",
+      "texto": "(REFORMADO, P.O. 01 DE SEPTIEMBRE DE 2026)"
+    },
+    {
+      "id": "007-q.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º Q › párrafo 4",
+      "texto": "La cláusula de igualdad de género tendrá por objeto asegurar la participación e integración equilibrada de las personas en la vida social, cultural, política y económica. El Estado implementará políticas, programas y acciones que garanticen el derecho de las mujeres a la igualdad sustantiva, así como la erradicación de desigualdades, discriminaciones y exclusiones."
+    },
+    {
+      "id": "007-q.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º Q › párrafo 5",
+      "texto": "Las personas o grupos que se encuentren en una situación de desventaja y vulnerabilidad tienen derecho a que el Estado adopte medidas apropiadas y preferenciales para erradicar la condición de desigualdad."
+    },
+    {
+      "id": "007-q.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º Q › párrafo 6",
+      "texto": "El trato diferenciado se regirá por el principio de proporcionalidad y podrá consistir en prestaciones positivas, políticas públicas o cualquier otra garantía apropiada, temporal y eficaz para erradicar la desigualdad o la discriminación."
+    },
+    {
+      "id": "007-q.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º Q › párrafo 7",
+      "texto": "La violación grave por discriminación se reparará con las medidas que hagan cesar de inmediato las situaciones de desigualdad o de injusticia."
+    }
+  ]
+}

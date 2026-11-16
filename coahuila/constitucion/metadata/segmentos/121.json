@@ -1,0 +1,36 @@
+{
+  "clave": "121",
+  "etiqueta": "Artículo 121º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPITULO VI.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "121.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "121.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121º › párrafo 2",
+      "texto": "Para realizar los objetivos de la educación y la enseñanza, el Estado contará con los órganos de autoridad necesarios que determinen las leyes y los ordenamientos de la materia."
+    },
+    {
+      "id": "121.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 121º › párrafo 3",
+      "texto": "(DEROGADO, P.O. 20 DE MARZO DE 2001)"
+    }
+  ]
+}

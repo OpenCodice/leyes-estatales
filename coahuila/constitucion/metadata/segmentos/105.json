@@ -1,0 +1,45 @@
+{
+  "clave": "105",
+  "etiqueta": "Artículo 105º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPITULO IV.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "105.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105º › párrafo 1",
+      "texto": "(REFORMADA, P.O. 18 DE NOVIEMBRE DE 2011)"
+    },
+    {
+      "id": "105.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105º › párrafo 2",
+      "texto": "El Gobernador deberá presentar al Congreso, la Iniciativa de Ley de Ingresos y el Proyecto de Presupuesto de Egresos del Estado, a más tardar el 30 de noviembre del año anterior al del Ejercicio Fiscal que correspondan, o hasta el día 15 del mes de diciembre cuando inicie su encargo en los términos del Artículo 77 de esta Constitución. El Secretario de Finanzas del Estado, deberá comparecer a dar cuenta de los mismos."
+    },
+    {
+      "id": "105.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105º › párrafo 3",
+      "texto": "(REFORMADO, P.O. 17 DE JUNIO DE 1988)"
+    },
+    {
+      "id": "105.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105º › párrafo 4",
+      "texto": "No podrá haber otras partidas globales, fuera de las que se considere necesarias con ese carácter, en el mismo presupuesto. Su empleo requerirá acuerdo escrito del Gobernador del Estado."
+    }
+  ]
+}

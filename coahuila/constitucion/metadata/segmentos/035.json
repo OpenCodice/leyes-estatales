@@ -1,0 +1,90 @@
+{
+  "clave": "035",
+  "etiqueta": "Artículo 35º",
+  "titulo": "TITULO TERCERO.",
+  "capitulo": "CAPITULO I.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "035.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 29 DE JUNIO DE 2010)"
+    },
+    {
+      "id": "035.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º › párrafo 2",
+      "texto": "Para tener derecho a participar en la asignación de diputaciones de representación proporcional, los partidos políticos deberán satisfacer los requisitos que establezca la ley. Cubiertos los requisitos legales, las diputaciones serán distribuidas conforme a las fórmulas de asignación que determine la ley de la materia."
+    },
+    {
+      "id": "035.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º › párrafo 3",
+      "texto": "En todo caso, la elección de los diputados de representación proporcional se sujetará a los principios y bases siguientes:"
+    },
+    {
+      "id": "035.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º › Fracción I",
+      "texto": "I. El pluralismo político como equilibrio de representación democrática en los términos que disponga esta Constitución y las leyes."
+    },
+    {
+      "id": "035.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º › Fracción II",
+      "texto": "II. Se constituirá una circunscripción electoral cuya demarcación será el Estado.\n\n(REFORMADA, P.O. 29 DE JUNIO DE 2010)"
+    },
+    {
+      "id": "035.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º › Fracción III",
+      "texto": "III. El partido deberá registrar candidatos a diputados por mayoría relativa, en el número de distritos electorales que la ley señale."
+    },
+    {
+      "id": "035.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º › Fracción IV",
+      "texto": "IV. La ley establecerá las fórmulas, reglas, porcentajes específicos, rondas de asignación, requisitos y demás procedimientos para la asignación de los diputados de representación proporcional."
+    },
+    {
+      "id": "035.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º › Fracción V",
+      "texto": "V. El orden de asignación de los candidatos que aparezcan en las listas o fórmulas de representación proporcional.\n\n(REFORMADA, P.O. 6 DE FEBRERO DE 2009)"
+    },
+    {
+      "id": "035.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35º › Fracción VI",
+      "texto": "VI. El tope máximo de Diputados que puede alcanzar un partido por ambos principios, no excederá de dieciséis Diputados en los términos que disponga la ley.\n\n(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)\n\nEn ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida.\n\n(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)\n\nEsta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento.\n\n(ADICIONADO, P.O. 22 DE SEPTIEMBRE DE 2015)\n\nAsimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales."
+    }
+  ]
+}

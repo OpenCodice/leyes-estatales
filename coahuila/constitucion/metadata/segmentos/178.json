@@ -1,0 +1,27 @@
+{
+  "clave": "178",
+  "etiqueta": "Artículo 178º",
+  "titulo": "TITULO OCTAVO.",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "178.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 178º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 13 DE ENERO DE 1989)"
+    },
+    {
+      "id": "178.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 178º › párrafo 2",
+      "texto": "El Estado promoverá la conservación y el enriquecimiento del patrimonio histórico, cultural y artístico de la entidad y de los bienes y valores que lo integran, cualquiera que sea su régimen jurídico y su titularidad. La ley determinará los instrumentos necesarios para el logro de estos objetivos."
+    }
+  ]
+}

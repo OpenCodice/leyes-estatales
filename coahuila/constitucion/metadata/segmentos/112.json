@@ -1,0 +1,27 @@
+{
+  "clave": "112",
+  "etiqueta": "Artículo 112º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPITULO V.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "112.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112º › párrafo 1",
+      "texto": "Los particulares podrán prestar servicios de seguridad privada previa autorización que otorgue el estado, según las disposiciones que al efecto se expidan. Las corporaciones de seguridad privada serán auxiliares de las autoridades estatales de seguridad pública."
+    },
+    {
+      "id": "112.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112º › párrafo 2",
+      "texto": "(REFORMADA SU DENOMINACIÓN, P.O. 8 DE ABRIL DE 2012)"
+    }
+  ]
+}

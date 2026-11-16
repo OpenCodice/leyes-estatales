@@ -1,0 +1,27 @@
+{
+  "clave": "183",
+  "etiqueta": "Artículo 183º",
+  "titulo": "TITULO OCTAVO.",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "183.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 183º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "183.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 183º › párrafo 2",
+      "texto": "Todo servidor público en el Estado, antes de tomar posesión de su cargo o empleo, hará la protesta de guardar la Constitución Política de los Estados Unidos Mexicanos, la particular del Estado y las Leyes emanadas o que emanen de ambas, así como de desempeñar fielmente sus deberes. Si fueren de los que han de ejercer autoridad, añadirán la protesta de hacerlas guardar."
+    }
+  ]
+}

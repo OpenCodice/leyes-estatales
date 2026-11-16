@@ -1,0 +1,27 @@
+{
+  "clave": "092",
+  "etiqueta": "Artículo 92º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPITULO III.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "092.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 14 DE JULIO DE 2017) (REFORMADO, P.O. 8 DE ABRIL DE 2012)"
+    },
+    {
+      "id": "092.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92º › párrafo 2",
+      "texto": "Los reglamentos interiores de cada una de las secretarias del ramo serán expedidos por el Gobernador del Estado y en ellos se determinarán las atribuciones de sus unidades administrativas."
+    }
+  ]
+}

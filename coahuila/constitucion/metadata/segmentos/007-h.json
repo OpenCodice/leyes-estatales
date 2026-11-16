@@ -1,0 +1,27 @@
+{
+  "clave": "007-h",
+  "etiqueta": "Artículo 7º H",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO II.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007-h.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º H › párrafo 1",
+      "texto": "Los derechos solo pueden ser limitados por causa debida conforme al principio de proporcionalidad."
+    },
+    {
+      "id": "007-h.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º H › párrafo 2",
+      "texto": "Los poderes públicos están vinculados y limitados en su actuar por los derechos y garantías fundamentales."
+    }
+  ]
+}

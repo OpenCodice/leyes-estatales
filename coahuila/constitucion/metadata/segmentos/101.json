@@ -1,0 +1,27 @@
+{
+  "clave": "101",
+  "etiqueta": "Artículo 101º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPITULO IV.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "101.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 27 DE ENERO DE 1984)"
+    },
+    {
+      "id": "101.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101º › párrafo 2",
+      "texto": "En la administración de los recursos económicos del Estado, se observará lo dispuesto en esta Constitución y demás ordenamientos legales aplicables."
+    }
+  ]
+}

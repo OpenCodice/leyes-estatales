@@ -1,0 +1,27 @@
+{
+  "clave": "083",
+  "etiqueta": "Artículo 83º",
+  "titulo": "TITULO CUARTO.",
+  "capitulo": "CAPITULO II.",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "083.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 7 DE AGOSTO DE 2012)"
+    },
+    {
+      "id": "083.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83º › párrafo 2",
+      "texto": "El Ejecutivo tiene derecho de hacer observaciones a las leyes o decretos aprobados por el Congreso. Si quisiera hacer uso de esta facultad, en el término de treinta días naturales lo devolverá con sus observaciones, vencido este término sin realizar las observaciones, el Ejecutivo dispondrá de diez días naturales para promulgar y publicar la ley o decreto, transcurrido este segundo plazo, la ley o decreto será considerado promulgado, y el Presidente del Congreso o de la Diputación Permanente, dentro de los diez días naturales siguientes, ordenará su publicación en el Periódico Oficial del Gobierno del Estado de Coahuila de Zaragoza, sin que se requiera el refrendo previsto en el artículo 88 de esta Constitución."
+    }
+  ]
+}
