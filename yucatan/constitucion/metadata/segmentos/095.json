@@ -1,0 +1,35 @@
+{
+  "clave": "095",
+  "etiqueta": "Artículo 95",
+  "titulo": "TITULO NOVENO",
+  "capitulo": "CAPÍTULO ÚNICO",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo derogado D.O. 12-12-1997/ reformado D.O. 24-10-2025",
+      "fechas": [
+        "1997-12-12",
+        "2025-10-24"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "095.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › párrafo 1",
+      "texto": "El Estado reconoce a los animales como seres sintientes. En virtud de ello, debe garantizar la protección, el trato digno, la conservación y el cuidado de los animales, así como promover en la ciudadanía la corresponsabilidad social, ética y jurídica respecto de su vida, bienestar e integridad como sujetos de este derecho."
+    },
+    {
+      "id": "095.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › párrafo 2",
+      "texto": "Las autoridades competentes en el Estado adoptarán las medidas necesarias para fomentar una cultura de respeto, cuidado y protección de los animales, conforme a lo dispuesto en esta Constitución y en las leyes aplicables."
+    }
+  ]
+}

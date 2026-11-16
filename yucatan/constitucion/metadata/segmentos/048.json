@@ -1,0 +1,25 @@
+{
+  "clave": "048",
+  "etiqueta": "Artículo 48",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado D.O. 31-07-2019",
+      "fechas": [
+        "2019-07-31"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "048.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › párrafo 1",
+      "texto": "El Gobernador Constitucional del Estado entrará en funciones el día 1 de octubre y podrá durar en su encargo hasta seis años."
+    }
+  ]
+}

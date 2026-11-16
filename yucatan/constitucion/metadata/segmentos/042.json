@@ -1,0 +1,25 @@
+{
+  "clave": "042",
+  "etiqueta": "Artículo 42",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado DO 14-11-2019",
+      "fechas": [
+        "2019-11-14"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "042.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 1",
+      "texto": "Para funcionar durante los recesos, el Congreso designará a mayoría de votos una diputación permanente, debiendo integrarse de forma paritaria, compuesta de tres diputados y por cada uno de éstos un suplente."
+    }
+  ]
+}

@@ -1,0 +1,137 @@
+{
+  "clave": "050",
+  "etiqueta": "Artículo 50",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "050.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 1",
+      "texto": "Si al comenzar un período constitucional no se presentara el Gobernador electo o la elección no estuviere hecha y declarada el 1 de octubre, cesará el Gobernador cuyo período hubiere concluido; encargándose desde luego del Poder Ejecutivo, con el carácter de interino, quien nombre el Congreso."
+    },
+    {
+      "id": "050.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 2",
+      "texto": "Si éste no estuviere reunido, se encargará del despacho, provisionalmente, el Secretario General de Gobierno, entre tanto el Congreso se reúne y designa al Gobernador interino y convoca a las elecciones en los términos del artículo 51 de esta Constitución.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado D.O. 21-04-2023",
+          "fechas": [
+            "2023-04-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "050.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 3",
+      "texto": "Cuando el Gobernador requiera separarse del cargo hasta por noventa días naturales por causa justificada, presentará aviso al Congreso y atenderá el Despacho el funcionario que señale el Código de la Administración Pública de Yucatán.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado D.O. 21-04-2023",
+          "fechas": [
+            "2023-04-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "050.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 4",
+      "texto": "Después del segundo año del periodo respectivo, el Gobernador Constitucional podrá solicitar licencia para separarse del ejercicio de sus funciones por más de noventa días naturales, la cual será autorizada por el Congreso, por el voto de la mayoría de los integrantes presentes en la sesión de que se trate.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado D.O. 21-04-2023",
+          "fechas": [
+            "2023-04-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "050.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 5",
+      "texto": "Una vez autorizada la licencia a que se refiere el párrafo anterior, el Congreso procederá, de forma inmediata, a nombrar un Gobernador Interino. Si el Congreso no estuviese en sesiones, la Diputación Permanente convocará inmediatamente a sesión extraordinaria para tales efectos.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado D.O. 21-04-2023",
+          "fechas": [
+            "2023-04-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "050.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 6",
+      "texto": "Para reincorporarse al ejercicio de sus funciones, el Gobernador Constitucional con licencia informará por escrito al Congreso, quien tomará la nota correspondiente, notificará de inmediato al Gobernador Interino para que cese en el ejercicio del cargo en la fecha que se indique, haciéndolo del conocimiento del Pleno en su oportunidad.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado D.O. 21-04-2023",
+          "fechas": [
+            "2023-04-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "050.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 7",
+      "texto": "Si la falta temporal se convierte en absoluta, se procederá como disponen los artículos siguientes.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado D.O. 21-04-2023",
+          "fechas": [
+            "2023-04-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "050.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 8",
+      "texto": "Si la falta del Gobernador electo fuere por motivo de fuerza mayor, amenaza grave, coacción o cualquier otra causa que impida asumir materialmente sus funciones; deberá comprobarse este hecho y en tal caso, quien hubiere desempeñado legalmente las funciones, deberá transferirlas al Gobernador electo.",
+      "reformas": [
+        {
+          "nota": "Párrafo recorrido (antes párrafo tercero) D.O. 21-04-2023",
+          "fechas": [
+            "2023-04-21"
+          ]
+        }
+      ]
+    }
+  ]
+}

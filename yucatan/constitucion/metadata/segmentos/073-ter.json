@@ -1,0 +1,185 @@
+{
+  "clave": "073-ter",
+  "etiqueta": "Artículo 73 Ter",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "073-ter.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 Ter › párrafo 1",
+      "texto": "Son organismos constitucionales autónomos del Estado de Yucatán:"
+    },
+    {
+      "id": "073-ter.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 Ter › Fracción I",
+      "texto": "I.- La Comisión de Derechos Humanos del Estado de Yucatán;"
+    },
+    {
+      "id": "073-ter.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 Ter › Fracción II",
+      "texto": "II.- Se deroga;",
+      "reformas": [
+        {
+          "nota": "Fracción derogada DO 21-07-2025",
+          "fechas": [
+            "2025-07-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073-ter.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 Ter › Fracción III",
+      "texto": "III.- El Instituto Electoral y de Participación Ciudadana de Yucatán;"
+    },
+    {
+      "id": "073-ter.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 Ter › Fracción IV",
+      "texto": "IV.- El Tribunal Electoral del Estado de Yucatán;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DO 14-11-2019",
+          "fechas": [
+            "2019-11-14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073-ter.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 Ter › Fracción V",
+      "texto": "V.- El Tribunal de Justicia Administrativa del Estado de Yucatán;",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada DO 20-04-2016/ Reformada DO 14-11-2019/ 12-09-2022",
+          "fechas": [
+            "2016-04-20",
+            "2019-11-14"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073-ter.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 Ter › Fracción VI",
+      "texto": "VI.- La Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán;",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada DO 14-11-2019/ reformada DO 12-09-2022, 21-04-2023",
+          "fechas": [
+            "2019-11-14",
+            "2022-09-12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073-ter.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 Ter › Fracción VII",
+      "texto": "VII.- La Agencia de Transporte de Yucatán;",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada DO 14-11-2019/ reformada DO 21-04-2023, 21-04-2023",
+          "fechas": [
+            "2019-11-14",
+            "2023-04-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073-ter.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 Ter › Fracción VIII",
+      "texto": "VIII.- La Fiscalía General del Estado de Yucatán;",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada DO 21-04-2023/ reformada D.O. 27-06-2024, 21-04-2023",
+          "fechas": [
+            "2023-04-21",
+            "2024-06-27"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073-ter.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 Ter › Fracción IX",
+      "texto": "IX.- La Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán;",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada DO 21-04-2023/ reformada 27-06-2024",
+          "fechas": [
+            "2023-04-21"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073-ter.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 Ter › Fracción X",
+      "texto": "X.- Se deroga.",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada DO 27-06-2024/ derogada 04-07-2025",
+          "fechas": [
+            "2024-06-27"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "073-ter.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 Ter › párrafo 2",
+      "texto": "Los organismos autónomos reconocidos por esta Constitución deberán enviar al Poder Ejecutivo del Estado su proyecto de Presupuesto de Egresos, a más tardar el 15 de octubre de cada año. Asimismo, rendirán informe de su cuenta pública en los términos que señale la ley en la materia."
+    }
+  ]
+}

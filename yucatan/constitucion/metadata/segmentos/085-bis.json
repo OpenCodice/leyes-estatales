@@ -1,0 +1,125 @@
+{
+  "clave": "085-bis",
+  "etiqueta": "Artículo 85 Bis",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO ÚNICO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "085-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 Bis › párrafo 1",
+      "texto": "Los municipios tendrán a su cargo de manera exclusiva en el ámbito de sus respectivas jurisdicciones, las siguientes funciones y servicios públicos:"
+    },
+    {
+      "id": "085-bis.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 Bis › Fracción I",
+      "texto": "I.- Agua Potable, drenaje, alcantarillado, tratamiento y disposición de sus aguas residuales;"
+    },
+    {
+      "id": "085-bis.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 Bis › Fracción II",
+      "texto": "II.- Alumbrado público;"
+    },
+    {
+      "id": "085-bis.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 Bis › Fracción III",
+      "texto": "III.- Limpia, recolección, traslado, tratamiento y disposición final de residuos;"
+    },
+    {
+      "id": "085-bis.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 Bis › Fracción IV",
+      "texto": "IV.- Mercados y Centrales de Abasto;"
+    },
+    {
+      "id": "085-bis.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 Bis › Fracción V",
+      "texto": "V.- Panteones;"
+    },
+    {
+      "id": "085-bis.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 Bis › Fracción VI",
+      "texto": "VI.- Rastro;"
+    },
+    {
+      "id": "085-bis.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 Bis › Fracción VII",
+      "texto": "VII.- Calles, parques y jardines y su equipamiento;"
+    },
+    {
+      "id": "085-bis.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 Bis › Fracción VIII",
+      "texto": "VIII.- Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito, que estarán al mando del Presidente Municipal, en los términos de la ley en materia de seguridad pública del Estado y demás disposiciones aplicables;"
+    },
+    {
+      "id": "085-bis.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 Bis › Fracción IX",
+      "texto": "IX.- Derogada *"
+    },
+    {
+      "id": "085-bis.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 Bis › Fracción X",
+      "texto": "X.- Recaudación de contribuciones municipales, y",
+      "reformas": [
+        {
+          "nota": "Fracción reformada D.O. 01-04-2024",
+          "fechas": [
+            "2024-04-01"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "085-bis.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 Bis › Fracción XI",
+      "texto": "XI.- La autorización del uso del suelo y funcionamiento de establecimientos mercantiles.\n\nPor acuerdo de las dos terceras partes de sus integrantes, los ayuntamientos podrán convenir que el Gobierno del Estado se haga cargo temporalmente de alguno de los servicios que son de su competencia exclusiva o * De conformidad con lo dispuesto en el Decreto 698 publicado en el Diario Oficial el 31 de agosto de 2006 que éstos se presten de manera coordinada. Los convenios no podrán exceder del período constitucional del Ayuntamiento, pudiendo ser renovados hasta que el municipio esté en aptitud de asumir su competencia exclusiva, reservándose al municipio, en todo caso, la facultad reglamentaria en la materia del servicio de que se trate."
+    }
+  ]
+}

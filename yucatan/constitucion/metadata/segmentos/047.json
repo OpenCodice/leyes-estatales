@@ -1,0 +1,25 @@
+{
+  "clave": "047",
+  "etiqueta": "Artículo 47",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado D.O. 21-04-2023",
+      "fechas": [
+        "2023-04-21"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "047.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › párrafo 1",
+      "texto": "Para ser Gobernador Interino del Estado se requieren los mismos requisitos que para ser Gobernador Constitucional, a excepción de lo previsto en la fracción VII del artículo 46 de esta Constitución."
+    }
+  ]
+}

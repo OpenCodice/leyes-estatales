@@ -1,0 +1,27 @@
+{
+  "clave": "059",
+  "etiqueta": "Artículo 59",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "059.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59 › párrafo 1",
+      "texto": "El Poder Ejecutivo formulará informes trimestrales sobre el avance de la gestión y desempeño de la administración pública, así como de sus finanzas, los cuales deberán guardar congruencia con el Plan Estatal de Desarrollo y servirán de base para la integración del informe a que se refiere el artículo 28 de esta Constitución."
+    },
+    {
+      "id": "059.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59 › párrafo 2",
+      "texto": "Los informes trimestrales serán públicos y se pondrán a disposición de la ciudadanía, para su seguimiento y evaluación, en los términos que establezcan las leyes respectivas."
+    }
+  ]
+}
