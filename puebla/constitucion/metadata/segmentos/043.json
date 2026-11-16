@@ -1,0 +1,27 @@
+{
+  "clave": "043",
+  "etiqueta": "Artículo 43",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "043.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 1",
+      "texto": "Los Consejos Distritales Electorales respectivos, de conformidad con lo que disponga la Ley, dictaminarán y declararán la validez de las elecciones de los Diputados en cada uno de los Distritos Electorales Uninominales y otorgarán las constancias respectivas a las fórmulas de candidatos que hubiesen obtenido mayoría de votos. El Consejo General del Instituto Electoral del Estado hará la declaración de validez y la asignación de Diputados según el principio de representación proporcional, de conformidad con lo dispuesto por el artículo 35 de esta Constitución y lo que determine la Ley de la materia."
+    },
+    {
+      "id": "043.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 43 › párrafo 2",
+      "texto": "La declaración de validez, el otorgamiento de las constancias y la asignación de Diputados, podrán ser impugnados ante el Tribunal Electoral del Estado, en los términos que señale el Código de Instituciones y Procesos Electorales del Estado de Puebla, y el procedimiento de impugnación quedará determinado en la propia Ley de la materia. El fallo del Tribunal será definitivo y firme."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "084",
+  "etiqueta": "Artículo 84",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "084.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › párrafo 1",
+      "texto": "Para ser Secretario del Despacho se requiere ser ciudadano mexicano, estar en ejercicio de sus derechos, y tener veinticinco años cumplidos."
+    },
+    {
+      "id": "084.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 84 › párrafo 2",
+      "texto": "Todos los reglamentos, decretos y acuerdos expedidos por el Gobernador, para su validez y observancia deberán ser firmados por él y por el Secretario del ramo a que el asunto corresponda, y cuando se refieran a asuntos de la competencia de dos o más Secretarías, deberán ser refrendados por los titulares de las mismas."
+    }
+  ]
+}

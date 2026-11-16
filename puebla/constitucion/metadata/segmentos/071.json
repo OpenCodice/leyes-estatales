@@ -1,0 +1,45 @@
+{
+  "clave": "071",
+  "etiqueta": "Artículo 71",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "071.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › párrafo 1",
+      "texto": "La elección de Gobernador será directa, secreta, uninominal y por mayoría relativa en todo el territorio del Estado, en los términos de la Ley de la materia. La elección de Gobernador se efectuará el día y año de la elección de Presidente de la República."
+    },
+    {
+      "id": "071.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › párrafo 2",
+      "texto": "En la renovación de la titularidad del Poder Ejecutivo, se deberá garantizar el principio de paridad de género."
+    },
+    {
+      "id": "071.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › párrafo 3",
+      "texto": "Los partidos políticos, coaliciones electorales y candidaturas comunes, deberán alternar el género en la postulación en cada elección en términos de lo que disponga la legislación local en la materia."
+    },
+    {
+      "id": "071.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › párrafo 4",
+      "texto": "Lo anterior no será aplicable para los casos en los que esta Constitución prevé que la titularidad del Poder Ejecutivo sea ocupada por la o el gobernador interino, provisional o sustituto."
+    }
+  ]
+}

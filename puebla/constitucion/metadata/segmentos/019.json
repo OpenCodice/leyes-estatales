@@ -1,0 +1,36 @@
+{
+  "clave": "019",
+  "etiqueta": "Artículo 19",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "019.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › párrafo 1",
+      "texto": "Son ciudadanas del Estado las personas de nacionalidad mexicana que residan en la Entidad y reúnan además los siguientes requisitos:"
+    },
+    {
+      "id": "019.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › Fracción I",
+      "texto": "I.- Haber cumplido dieciocho años; y"
+    },
+    {
+      "id": "019.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 19 › Fracción II",
+      "texto": "II.- Tener modo honesto de vivir."
+    }
+  ]
+}

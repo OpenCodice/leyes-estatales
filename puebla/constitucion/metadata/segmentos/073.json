@@ -1,0 +1,36 @@
+{
+  "clave": "073",
+  "etiqueta": "Artículo 73",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "073.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › párrafo 1",
+      "texto": "No podrán ser electos para el período inmediato:"
+    },
+    {
+      "id": "073.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › inciso a)",
+      "texto": "a). El Gobernador provisional designado por la Comisión Permanente o el Gobernador interino designado por el Congreso, para suplir las faltas temporales del Gobernador de elección popular directa."
+    },
+    {
+      "id": "073.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › inciso b)",
+      "texto": "b). El Gobernador substituto designado por el Congreso para concluir el período por falta absoluta del Gobernador de elección popular directa."
+    }
+  ]
+}

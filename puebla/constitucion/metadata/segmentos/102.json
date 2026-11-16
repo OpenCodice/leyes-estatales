@@ -1,0 +1,117 @@
+{
+  "clave": "102",
+  "etiqueta": "Artículo 102",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "102.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › párrafo 1",
+      "texto": "El Municipio libre constituye la base de la división territorial y de la organización política y administrativa del Estado; cada Municipio será gobernado por un Ayuntamiento de elección popular directa, integrado por un Presidente o Presidenta Municipal y el número de regidurías y sindicaturas que la ley determine, de conformidad con el principio de paridad de género. Las elecciones de los Ayuntamientos se efectuarán el día y año en que se celebran las elecciones federales para elegir Diputadas y Diputados al Congreso General. Las atribuciones que esta Constitución otorga al Gobierno Municipal se ejercerán por el Ayuntamiento de manera exclusiva y no habrá autoridad intermedia alguna, entre éste y el Gobierno del Estado."
+    },
+    {
+      "id": "102.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › Fracción I",
+      "texto": "I.- Los Ayuntamientos se complementarán:"
+    },
+    {
+      "id": "102.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 102 › Fracción I › inciso a)",
+      "texto": "a) En el Municipio Capital del Estado, hasta con siete Regidores, que serán acreditados conforme al principio de representación proporcional."
+    },
+    {
+      "id": "102.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 102 › Fracción I › inciso b)",
+      "texto": "b) En los municipios que conforme al último censo general de población tengan noventa mil o más habitantes, hasta con cuatro Regidores, que serán acreditados conforme al mismo principio;"
+    },
+    {
+      "id": "102.I.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 102 › Fracción I › inciso c)",
+      "texto": "c) En los municipios que conforme al último censo general de población tengan de sesenta mil a noventa mil habitantes, hasta con tres Regidores, que serán acreditados conforme al mismo principio;"
+    },
+    {
+      "id": "102.I.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 102 › Fracción I › inciso d)",
+      "texto": "d) En los demás Municipios, hasta con dos Regidores que serán acreditados conforme al mismo principio;"
+    },
+    {
+      "id": "102.I.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 102 › Fracción I › inciso e)",
+      "texto": "e) En los casos a que se refieren las fracciones anteriores, los Regidores se acreditarán de entre los partidos políticos minoritarios que hayan obtenido por lo menos el tres por ciento de la votación emitida en el municipio, de acuerdo con las fórmulas y procedimientos que establezca la Ley de la materia."
+    },
+    {
+      "id": "102.I.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 102 › Fracción I › inciso f)",
+      "texto": "f) En todo caso, en la asignación de Regidores de representación proporcional se seguirá el orden que tuviesen los candidatos en las planillas correspondientes, con excepción de quienes hubiesen figurado como candidatos a Presidente Municipal o Primer Regidor y a Síndico."
+    },
+    {
+      "id": "102.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › Fracción II",
+      "texto": "II.- Las personas Titulares de las Presidencias Municipales, de las Regidurías y de la Sindicaturas Municipales de los Ayuntamientos no podrán ser electas consecutivamente para el mismo cargo.\n\nEn términos del párrafo que antecede, las personas servidoras públicas antes mencionadas, cuando tengan el carácter de propietarias, no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero las que tengan el carácter de suplentes sí podrán ser electas para el periodo inmediato como propietarias a menos que hayan estado en ejercicio.\n\nEn ningún caso podrá participar en la elección para la presidencia municipal, las regidurías y las sindicaturas, la persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad del cargo para el que se postula."
+    },
+    {
+      "id": "102.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › Fracción III",
+      "texto": "III.- Se deroga."
+    },
+    {
+      "id": "102.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › Fracción IV",
+      "texto": "IV.- Los Ayuntamientos se renovarán en su totalidad cada tres años, debiendo tomar posesión sus integrantes, el día quince de octubre del año en el que se celebre la elección.\n\nSi alguno de los miembros dejare de desempeñar su cargo, será sustituido por su suplente, o se procederá según lo disponga la ley; y"
+    },
+    {
+      "id": "102.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › Fracción V",
+      "texto": "V.- Los Consejos Municipales Electorales respectivos, de conformidad con lo que disponga la Ley de la materia, declararán la validez de las elecciones de los Ayuntamientos y expedirán las constancias de mayoría a los integrantes de las planillas que hubiesen obtenido el mayor número de votos. El Consejo General del Instituto Electoral del Estado hará la declaración de validez de la elección y la asignación de Regidores según el principio de representación proporcional."
+    }
+  ]
+}

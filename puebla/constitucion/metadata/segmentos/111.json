@@ -1,0 +1,27 @@
+{
+  "clave": "111",
+  "etiqueta": "Artículo 111",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "111.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 1",
+      "texto": "Las Leyes de Ingresos del Estado y de los Municipios y demás ordenamientos fiscales aplicables, fijarán y regularán las cuotas, tasas y tarifas correspondientes a los impuestos, derechos, contribuciones de mejoras, productos, aprovechamientos y demás conceptos de ingresos que conformen sus respectivas haciendas públicas, los cuales deberán ser suficientes para cubrir los presupuestos de egresos."
+    },
+    {
+      "id": "111.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 111 › párrafo 2",
+      "texto": "Las participaciones que corresponden al Estado y a los municipios en ingresos Federales, los incentivos económicos, los fondos de aportaciones federales y las reasignaciones, se recibirán y se ejercerán de conformidad con las leyes federales y estatales que los regulen y los convenios que se suscriban."
+    }
+  ]
+}
