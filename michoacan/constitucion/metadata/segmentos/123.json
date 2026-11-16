@@ -1,0 +1,360 @@
+{
+  "clave": "123",
+  "etiqueta": "Artículo 123",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "123.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "123.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 2",
+      "texto": "Son facultades y obligaciones de los ayuntamientos, de los concejos Municipales y de los Gobiernos Comunales:"
+    },
+    {
+      "id": "123.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 3",
+      "texto": "(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)"
+    },
+    {
+      "id": "123.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción I",
+      "texto": "I.- Representar jurídicamente al municipio;\n\n(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)"
+    },
+    {
+      "id": "123.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción II",
+      "texto": "II.- Administrar libremente su hacienda, la cual se formará de los rendimientos de los bienes que les pertenezcan, así como de las contribuciones y otros ingresos que el Congreso del Estado establezca a su favor y, en todo caso:"
+    },
+    {
+      "id": "123.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 123 › Fracción II › inciso a)",
+      "texto": "a) Percibir las contribuciones, incluyendo tasas adicionales, sobre la propiedad inmobiliaria, de su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan por base el cambio de valor de los inmuebles.\n\n(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)\n\nLos ayuntamientos y los Gobiernos Comunales podrán celebrar convenios con la Secretaría de Finanzas, para que ésta se haga cargo de las funciones relacionadas con la administración de esas contribuciones.\n\n(REFORMADO, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "123.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 123 › Fracción II › inciso b)",
+      "texto": "b) Las participaciones federales y estatales, que serán cubiertas con arreglo a las bases, montos y plazos que anualmente apruebe el Congreso del Estado, conforme a los criterios que el mismo determine"
+    },
+    {
+      "id": "123.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 123 › Fracción II › inciso c)",
+      "texto": "c) Los ingresos derivados de la prestación de servicios públicos a su cargo.\n\n(REFORMADO, P.O. 3 DE JULIO DE 2001)\n\nNo se establecerán exenciones o subsidios respecto de los incisos a) y c) en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo estarán exentos los bienes de dominio público de la Federación, del Estado y de los municipios, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público.\n\n(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)\n\nLos recursos que integran la hacienda municipal serán ejercidos en forma directa por los ayuntamientos y los Gobiernos Comunales, o bien por quien ellos autoricen, conforme a la Ley. Esta atribución incluye la transferencia del presupuesto a las comunidades indígenas en los términos de las leyes correspondientes.\n\n(ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)\n\nEn el caso de que una comunidad indígena decida ejercer su derecho al autogobierno y administrar directamente el presupuesto público conforme lo señalado en la Ley, el Ayuntamiento respectivo está obligado a sesionar para emitir el acuerdo de cabildo correspondiente. De no hacerlo en los tiempos establecidos, serán sujetos a sanciones administrativas o penales, en términos de la legislación aplicable.\n\n(ADICIONADA, P.O. 3 DE JULIO DE 2001)\n\nII Bis.- Proponer al Congreso del Estado, en el ámbito de su competencia, las cuotas y tarifas aplicables e impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria;\n\n(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE NOVIEMBRE DE 2015)"
+    },
+    {
+      "id": "123.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción III",
+      "texto": "III.- Aprobar su presupuesto de egresos con base en los ingresos disponibles y de conformidad con lo dispuesto en la Ley. Entregar al Congreso del Estado los informes trimestrales del ejercicio dentro de un plazo de treinta días naturales después de concluido el trimestre. La Cuenta Pública del ejercicio fiscal correspondiente deberá ser presentada al Congreso del Estado de Michoacán de Ocampo a más tardar el treinta y uno de marzo del año siguiente;\n\n(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)\n\nCada Ayuntamiento y Gobierno Comunal deberá aprobar en el presupuesto de egresos del ejercicio las partidas necesarias para solventar las obligaciones incurridas en ejercicios anteriores y pagaderas en dicho ejercicio, que constituyan deuda pública del Municipio o de las entidades paramunicipales que cuenta con la garantía del Municipio o del Estado, conforme a lo autorizado por las leyes y los decretos correspondientes, y aquéllas que se deriven de contratos de proyectos para prestación de servicios aprobados conforme a las leyes aplicables;\n\n(REFORMADA, P.O., 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "123.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción IV",
+      "texto": "IV.- Aprobar y expedir de conformidad con las leyes que emita el Congreso, el Bando de Gobierno Municipal, los reglamentos, circulares y disposiciones administrativas de observancia general dentro de sus respectivas jurisdicciones, que organicen la administración pública municipal, regulen las materias, procedimientos, funciones y servicios públicos de su competencia y aseguren la participación ciudadana y vecinal;\n\n(REFORMADA, P.O. 8 DE DICIEMBRE DE 1983)"
+    },
+    {
+      "id": "123.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción V",
+      "texto": "V.- Proporcionar en sus jurisdicciones los servicios de:\n\n(REFORMADO, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "123.V.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 123 › Fracción V › inciso a)",
+      "texto": "a) Agua potable, drenaje y alcantarillado, así como el tratamiento y disposición de sus aguas residuales;"
+    },
+    {
+      "id": "123.V.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 123 › Fracción V › inciso b)",
+      "texto": "b) Alumbrado público.\n\n(REFORMADO, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "123.V.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 123 › Fracción V › inciso c)",
+      "texto": "c) Limpia, recolección, traslado, tratamiento y disposición final de residuos;"
+    },
+    {
+      "id": "123.V.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 123 › Fracción V › inciso d)",
+      "texto": "d) Mercados y centrales de abasto."
+    },
+    {
+      "id": "123.V.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 123 › Fracción V › inciso e)",
+      "texto": "e) Panteones."
+    },
+    {
+      "id": "123.V.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 123 › Fracción V › inciso f)",
+      "texto": "f) Rastros.\n\n(REFORMADO, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "123.V.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 123 › Fracción V › inciso g)",
+      "texto": "g) Calles, parques y jardines y su equipamiento.\n\n(REFORMADO, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "123.V.h",
+      "tipo": "inciso",
+      "marca": "h",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 123 › Fracción V › inciso h)",
+      "texto": "h) Seguridad pública, en los términos del artículo 21 de la Constitución Política de los Estados Unidos Mexicanos, policía preventiva municipal y tránsito.\n\n(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)\n\nLa policía preventiva municipal estará al mando del Presidente Municipal, en los términos del reglamento correspondiente. Aquélla acatará las órdenes que la Gobernadora o Gobernador del Estado le transmita en aquellos casos que éste juzgue de fuerza mayor o alteración grave del orden público. El Ejecutivo Federal tendrá el mando de la fuerza pública en los lugares donde éste resida habitual o transitoriamente; e (ADICIONADO, P.O. 17 DE DICIEMBRE DE 2024)\n\nEn el caso de las Comunidades Indígenas con autogobierno, la seguridad comunal será brindada por los Gobiernos Comunales a sus poblaciones y tendrán el mando de las kuarichas, k’uajpirichas, guardias, rondas o rondines comunales de las comunidades indígenas, en términos de las normas generales federales y leyes estatales en materia de seguridad."
+    },
+    {
+      "id": "123.V.i",
+      "tipo": "inciso",
+      "marca": "i",
+      "apartado": "",
+      "fraccion": "V",
+      "ruta": "Artículo 123 › Fracción V › inciso i)",
+      "texto": "i) Los demás que el Congreso del Estado determine según las condiciones territoriales y socio-económicas de los municipios, así como su capacidad administrativa y financiera.\n\n(ADICIONADO, P.O. 3 DE JULIO DE 2001)\n\nSin perjuicio de su competencia constitucional, en el desempeño de las funciones, o la prestación de los servicios a su cargo, los municipios observarán lo dispuesto en las leyes federales y estatales.\n\n(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)\n\nLos municipios o comunidades indígenas con autogobierno, previo acuerdo de sus ayuntamientos o Gobiernos Comunales respectivamente y con sujeción a la Ley, podrán coordinarse y asociarse entre sí o con los de otras Entidades Federativas, para la más eficaz prestación de los servicios públicos o el mejor ejercicio de las funciones que les correspondan; en este último caso, deberán contar con la aprobación del Congreso.\n\n(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)\n\nCuando a juicio del ayuntamiento o Gobierno Comunal respectivo sea necesario, podrán celebrar convenios con el Estado para que éste, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal de algunos de ellos, o bien se presten o ejerzan coordinadamente por el Estado y el propio Municipio.\n\n(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)\n\nLas controversias que se susciten entre los ayuntamientos, los Gobiernos Comunales o entre éstos y el Gobierno del Estado, con motivo de los convenios que se celebren en materia de servicios públicos, se dirimirán conforme a lo que establezca la Ley.\n\n(REFORMADA, P.O. 20 DE OCTUBRE DE 2023)"
+    },
+    {
+      "id": "123.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción VI",
+      "texto": "VI. Formular, evaluar, aprobar, administrar, y difundir la zonificación y planes de desarrollo urbano municipal, así como los planes en materia de movilidad y seguridad vial de conformidad con la normatividad correspondiente;\n\n(REFORMADA, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "123.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción VII",
+      "texto": "VII.- Participar en la creación y administración de sus reservas territoriales;\n\n(REFORMADA, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "123.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción VIII",
+      "texto": "VIII.- Participar en la formulación de planes de desarrollo regional, los cuales deberán estar en concordancia con los planes generales de la materia. Cuando el Gobierno del Estado elabore proyectos de desarrollo regional deberá asegurar la participación de los municipios;\n\n(REFORMADA, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "123.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción IX",
+      "texto": "IX.- Autorizar, controlar y vigilar la utilización del suelo, en el ámbito de su competencia, en sus jurisdicciones territoriales e intervenir en la regularización de la tenencia de la tierra urbana;\n\n(REFORMADA, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "123.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción X",
+      "texto": "X.- Otorgar licencias y permisos para construcciones, y participar en la creación y administración de zonas de reservas ecológicas y en la elaboración y aplicación de programas de ordenamiento en esta materia;\n\n(REFORMADA, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "123.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción XI",
+      "texto": "XI.- Intervenir en la formulación y aplicación de programas de transporte público de pasajeros cuando aquellos afecten su ámbito territorial;\n\n(REFORMADA, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "123.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción XII",
+      "texto": "XII.- Celebrar convenios para la administración y custodia de las zonas federales.\n\nPara tal efecto y de conformidad con los fines señalados en el párrafo tercero del artículo 27 de la Constitución Política de los Estados Unidos Mexicanos, expedirán los reglamentos y disposiciones administrativas que fueren necesarios;\n\n(REFORMADA, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "123.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción XIII",
+      "texto": "XIII.- Vigilar las escuelas públicas y las particulares, tomando empeño para que en sus respectivas circunscripciones asistan a las escuelas todos los niños en edad escolar;\n\n(ADICIONADA, P.O. 8 DE OCTUBRE DE 2025)\n\nXIII Bis.- Prevenir y erradicar la violencia contra las mujeres, así como la aplicación de los principios y modalidades para garantizar su acceso a una vida libre de violencia que favorezcan su desarrollo integral y bienestar conforme a los principios de igualdad y de no discriminación, el respeto a la dignidad humana, la libertad y su empoderamiento.\n\nPara tal fin los Municipios en el ámbito de sus respectivas competencias deberán expedir las normas legales correspondientes, para garantizar el derecho de las mujeres a una vida libre de violencia, de conformidad con los Tratados Internacionales en Materia de Derechos Humanos de las Mujeres, ratificados por el Estado mexicano.\n\nPara el cumplimiento de esta fracción, las instancias municipales de la mujer deben de contar con personal especializado para brindar la debida atención;\n\n(REFORMADA, P.O. 31 DE JULIO DE 2015)"
+    },
+    {
+      "id": "123.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción XIV",
+      "texto": "XIV.- Conocer anualmente, en pleno, el estado que guarda la administración municipal, por informe que rendirá el Presidente o Concejero respectivo;\n\n(REFORMADA, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "123.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción XV",
+      "texto": "XV.- Procurar que los pueblos de su jurisdicción tengan las tierras y aguas necesarias para su subsistencia, cuidando de la conservación de sus arbolados, ejidos, tierras comunales y patrimonios de familia;\n\n(REFORMADA, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "123.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción XVI",
+      "texto": "XVI.- Participar, en su ámbito de competencia, en la protección, preservación y restauración de los recursos naturales y del equilibrio ecológico;\n\n(REFORMADA, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "123.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción XVII",
+      "texto": "XVII.- Cumplir y dictar disposiciones para fomentar el desarrollo de la agricultura e industrias rurales;\n\n(ADICIONADA, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "123.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción XVIII",
+      "texto": "XVIII.- Promover el fraccionamiento de latifundios;\n\n(ADICIONADA, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "123.XIX",
+      "tipo": "fraccion",
+      "marca": "XIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción XIX",
+      "texto": "XIX.- Supervisar la aplicación de las disposiciones que en materia de desarrollo urbano le competan, para impulsar un crecimiento adecuado de los núcleos de población;\n\n(ADICIONADA, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "123.XX",
+      "tipo": "fraccion",
+      "marca": "XX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción XX",
+      "texto": "XX.- Fomentar la participación ciudadana para el cumplimiento de sus fines;\n\n(ADICIONADA, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "123.XXI",
+      "tipo": "fraccion",
+      "marca": "XXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción XXI",
+      "texto": "XXI.- Formar sus cuerpos de policía preventiva municipal y tránsito;\n\n(ADICIONADA, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "123.XXII",
+      "tipo": "fraccion",
+      "marca": "XXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción XXII",
+      "texto": "XXII.- Colaborar ampliamente con los organismos electorales, en los términos de la Ley;\n\n(ADICIONADA, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "123.XXIII",
+      "tipo": "fraccion",
+      "marca": "XXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción XXIII",
+      "texto": "XXIII.- Consultar a los ciudadanos, a través de plebiscito, sobre actos o decisiones, cuando considere que sean trascendentales para la vida pública y el interés social del municipio, conforme a los procedimientos y formalidades que establezca la Ley de la materia. No podrán someterse a plebiscito los actos o decisiones relativos a materia tributaria o fiscal, de Egresos, régimen interno de la administración pública municipal y los demás que determine la Ley; y, (ADICIONADA, P.O. 3 DE JULIO DE 2001)"
+    },
+    {
+      "id": "123.XXIV",
+      "tipo": "fraccion",
+      "marca": "XXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción XXIV",
+      "texto": "XXIV.- Las demás que señalen las leyes."
+    }
+  ]
+}

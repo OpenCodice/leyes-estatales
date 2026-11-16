@@ -1,0 +1,27 @@
+{
+  "clave": "159",
+  "etiqueta": "Artículo 159",
+  "titulo": "TITULO NOVENO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "159.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 159 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 8 DE OCTUBRE DE 2025)"
+    },
+    {
+      "id": "159.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 159 › párrafo 2",
+      "texto": "No podrá hacerse cargo alguno que no esté comprendido en el Presupuesto de Egresos o determinado por la Ley. El Secretario de Finanzas se negará a obedecer cualquier orden de la persona Titular del Ejecutivo del Estado contraria a este respecto; pero si le fuere reiterada, la cumplirá dando cuenta inmediatamente al Congreso del Estado; de lo contrario, será responsable personal y pecuniariamente."
+    }
+  ]
+}

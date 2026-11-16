@@ -1,0 +1,36 @@
+{
+  "clave": "007",
+  "etiqueta": "Artículo 7",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "007.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "007.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 3",
+      "texto": "Son ciudadanos los que reúnan los requisitos que señala el artículo 34 de la Constitución Federal."
+    }
+  ]
+}

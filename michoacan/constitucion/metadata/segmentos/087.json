@@ -1,0 +1,27 @@
+{
+  "clave": "087",
+  "etiqueta": "Artículo 87",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "087.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)"
+    },
+    {
+      "id": "087.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › párrafo 2",
+      "texto": "Las Juezas y Jueces de Primera Instancia serán electos en los términos previstos en el artículo 69 de esta Constitución."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "138",
+  "etiqueta": "Artículo 138",
+  "titulo": "TITULO SEPTIMO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "138.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 24 DE JUNIO DE 2020)"
+    },
+    {
+      "id": "138.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 138 › párrafo 2",
+      "texto": "Todo individuo tiene derecho a recibir educación. El Estado y sus Municipios están obligados a impartir educación inicial, educación preescolar, primaria, secundaria, media superior y superior, así como la educación inclusiva y la educación especial que sea requerida. Toda educación que el Estado imparta será gratuita."
+    }
+  ]
+}

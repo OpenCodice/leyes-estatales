@@ -1,0 +1,63 @@
+{
+  "clave": "131",
+  "etiqueta": "Artículo 131",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "131.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 131 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 11 DE AGOSTO DE 1983)"
+    },
+    {
+      "id": "131.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 131 › párrafo 2",
+      "texto": "En el Estado de Michoacán de Ocampo quedan prohibidos los monopolios, las prácticas monopólicas, los estancos y las exenciones de impuestos en los términos y condiciones que señalan la Constitución General de la República, esta Constitución y las leyes que de ambas emanen."
+    },
+    {
+      "id": "131.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 131 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 25 DE JUNIO DE 2013)"
+    },
+    {
+      "id": "131.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 131 › párrafo 4",
+      "texto": "Pertenecen al Estado, además de los bienes de dominio público, de las contribuciones decretadas por el Congreso y de los impuestos, derechos, productos, aprovechamientos y participaciones que deba percibir, los inmuebles mostrencos, previa declaración que haga la Secretaría de Finanzas conforme lo determine la Ley."
+    },
+    {
+      "id": "131.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 131 › párrafo 5",
+      "texto": "El Congreso expedirá las leyes fiscales en los ámbitos estatal y municipales, que establecerán las bases, tanto para la fijación de los impuestos, derechos, productos y aprovechamientos, como para la manera de hacerlos efectivos y los medios que permitan la defensa de los contribuyentes."
+    },
+    {
+      "id": "131.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 131 › párrafo 6",
+      "texto": "El Presupuesto formará siempre un sólo cuerpo distribuido en partidas, según los conceptos de erogación y serán obligatoriamente incluidos en él los gastos y las dotaciones necesarias para atender los servicios públicos, según los planes y programas establecidos."
+    }
+  ]
+}

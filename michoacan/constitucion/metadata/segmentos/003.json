@@ -1,0 +1,423 @@
+{
+  "clave": "003",
+  "etiqueta": "Artículo 3",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "003.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 2",
+      "texto": "El Estado de Michoacán tiene una composición pluricultural, pluriétnica y multilingüe sustentada originalmente en sus pueblos y comunidades indígenas."
+    },
+    {
+      "id": "003.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 3",
+      "texto": "(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 4",
+      "texto": "Se reconoce la existencia de los pueblos indígenas, originarios, P’urhépecha, Nahua, Hñahñú u Otomí, Jñatjo o Mazahua, Matlatzinca o Pirinda y a todos aquellos que preservan todas o parte de sus instituciones económicas, sociales, culturales, políticas y territoriales, garantizándole los derechos consagrados en la Constitución Política de los Estados Unidos Mexicanos y los Instrumentos Internacionales relacionados en la materia."
+    },
+    {
+      "id": "003.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 5",
+      "texto": "(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 6",
+      "texto": "Ninguno de los derechos previstos en esta Constitución o en la legislación local, podrá ser invocado para conculcar otras prerrogativas obtenidas por los pueblos y comunidades indígenas del país en otras normas y/o resoluciones."
+    },
+    {
+      "id": "003.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 7",
+      "texto": "(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 8",
+      "texto": "Las comunidades indígenas son aquellas que se autodeterminan pertenecientes a un pueblo indígena, las cuales constituyen estructuras de organización política, social, económica y cultural, asentadas en un territorio, que tienen autoridades, formas de elección y representación propias, de acuerdo a sus sistemas normativos y de gobierno interno."
+    },
+    {
+      "id": "003.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 9",
+      "texto": "(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.p10",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 10",
+      "texto": "Esta Constitución reconoce la composición pluricultural del Estado y en consecuencia, la demodiversidad materializada en los diferentes sistemas, principios, normas, instituciones, prácticas democráticas y de gobierno de los pueblos y de las comunidades indígenas del Estado."
+    },
+    {
+      "id": "003.p11",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 11",
+      "texto": "(REFORMADO [N. DE E. REPUBLICADO], P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.p12",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 12",
+      "texto": "La conciencia de identidad indígena deberá ser criterio fundamental para determinar a quiénes se aplican las disposiciones sobre pueblos indígenas. En la aplicación serán considerados los principios de autoidentidad y autoadscripción."
+    },
+    {
+      "id": "003.p13",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 13",
+      "texto": "(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.p14",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 14",
+      "texto": "El derecho a la libre determinación de los pueblos indígenas, asentados en el Estado de Michoacán, se ejercerá en un marco constitucional de autonomía y autogobierno en sus ámbitos comunal, municipal, regional y como pueblo indígena."
+    },
+    {
+      "id": "003.p15",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 15",
+      "texto": "(REFORMADO, P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.p16",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 16",
+      "texto": "El Estado reconoce a los pueblos y comunidades indígenas como sujetos de derecho público con personalidad jurídica y patrimonio propio."
+    },
+    {
+      "id": "003.p17",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 17",
+      "texto": "(REFORMADO [N. DE E. REPUBLICADO ESTE PÁRRAFO], P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.p18",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 18",
+      "texto": "Los pueblos y las comunidades indígenas tendrán los derechos siguientes:"
+    },
+    {
+      "id": "003.p19",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 19",
+      "texto": "(REFORMADA, P.O. 16 DE MARZO DE 2012)"
+    },
+    {
+      "id": "003.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción I",
+      "texto": "I. A decidir y ejercer sus formas internas de gobierno, sus propios sistemas de participación, elección y organización social, económica, política y cultural, a través de las diversas formas y ámbitos de autonomía comunal, regional y como pueblo indígena;\n\n(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción II",
+      "texto": "II. A decidir y ejercer sus formas de autogobierno indígena;\n\nSe reconocen como dimensiones mínimas del derecho al autogobierno indígena, las siguientes:"
+    },
+    {
+      "id": "003.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 3 › Fracción II › inciso a)",
+      "texto": "a) La elección por sistemas normativos o usos y costumbres de sus autoridades y Gobiernos Comunales;"
+    },
+    {
+      "id": "003.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 3 › Fracción II › inciso b)",
+      "texto": "b) La integración de los Gobiernos Comunales, como manifestación de las formas de gobierno y organización políticas propias de las comunidades;"
+    },
+    {
+      "id": "003.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 3 › Fracción II › inciso c)",
+      "texto": "c) La administración directa del presupuesto y el ejercicio de funciones de gobierno por parte de comunidades indígenas con carácter de tenencias y encargaturas del orden independientes, de conformidad con lo señalado en la Ley;\n\ny,"
+    },
+    {
+      "id": "003.II.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 3 › Fracción II › inciso d)",
+      "texto": "d) Contar con representación dentro de los ayuntamientos que cuenten con población indígena privilegiando para tal efecto los sistemas normativos o usos y costumbres de las comunidades y observando el principio de paridad de género conforme a las normas aplicables.\n\nEl Estado garantiza el derecho de las mujeres indígenas a participar de manera efectiva y en condiciones de igualdad sustantiva en los procesos de desarrollo integral de sus pueblos y comunidades; en la toma de decisiones carácter público;\n\nen la promoción y respeto de sus derechos de acceso a la educación, a la salud y demás derechos humanos.\n\nSe reconoce al Concejo Mayor de Gobierno Comunal de Cherán, así como aquellos que logren dicha categoría, a los Concejos Comunales, a los Concejos de Autogobierno y a la Coordinación Comunal como expresiones de Gobierno Comunal y autoridades representativas investidas de personalidad jurídica y patrimonio propio. La máxima autoridad al interior de las comunidades bajo el régimen del autogobierno indígena en el Estado de Michoacán es la Asamblea General de Habitantes.\n\n(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.I~2",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción I",
+      "texto": "I. Bis. Las faenas y servicios comunales son reconocidas por esta constitución como una institución, un valor y una práctica de fundamental importancia para la vida de las comunidades indígenas y para la demodiversidad de Michoacán. Las faenas derivadas de acuerdos de asambleas y en favor del beneficio general de las comunidades serán consideradas como contribuciones a la hacienda municipal y estatal, sin que la práctica de éstas excluyan o sustituyan de algún modo la responsabilidad de los gobiernos estatal y municipal de asignar las partidas necesarias para garantizar el desarrollo de los pueblos indígenas;\n\n(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)\n\nII (SIC). A la libre asociación y coordinación de sus acciones y aspiraciones como comunidades, regiones y pueblos indígenas;\n\n(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción III",
+      "texto": "III. A participar en la integración plural en los órganos y entidades de gobierno estatal y municipal;\n\n(REFORMADA, P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción IV",
+      "texto": "IV. A la seguridad, en tanto derecho humano garantizado por la Constitución Política de los Estados Unidos Mexicanos y los tratados internacionales, y especialmente a la seguridad comunal entendida como un conjunto de principios, instituciones, autoridades, procedimientos y prácticas que tienen como objetivo principal salvaguardar a la comunidad indígena como unidad integral; a las personas que en ella habitan, a los territorios donde se asientan, a los valores, culturas, idiomas y conocimientos.\n\nEsta Constitución reconoce a las kuarichas, a las K’uajpirichas, a las guardias comunales y a los rondines comunales en comunidades indígenas, integrados conforme a los sistemas normativos o usos y costumbres y a la legislación aplicable federal y estatal en materia de seguridad, como instituciones de la seguridad comunal;\n\n(REFORMADA [N. DE E. REPUBLICADO], P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción V",
+      "texto": "V. A la consulta y a los mecanismos de participación ciudadana previstos en esta Constitución, cuando se prevean ejecutar acciones y medidas administrativas o legislativas que los afecten;\n\n(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción VI",
+      "texto": "VI. A la aplicación de sus sistemas normativos para la regulación y solución de sus conflictos en la jurisdicción interna, respetando la interpretación intercultural de los derechos humanos y los principios generales de esta Constitución. La ley establecerá los casos y procedimientos de validación por los jueces y tribunales correspondientes;\n\n(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción VII",
+      "texto": "VII. Al acceso a la procuración e impartición de justicia en su propia lengua; en los juicios y procedimientos en que sean parte de forma individual o colectiva, se considerarán durante todo el proceso y en las resoluciones, sus sistemas normativos y especificidades culturales; serán asistidos preferentemente con defensores, y con traductores intérpretes en lenguas, culturas y sistemas normativos indígenas;\n\n(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción VIII",
+      "texto": "VIII. Al acceso, uso, disfrute, protección y conservación de sus tierras, territorios, recursos naturales y biodiversidad, conforme a las formas y modalidades de propiedad y tenencia de la tierra;\n\n(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)"
+    },
+    {
+      "id": "003.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción IX",
+      "texto": "IX. Al reconocimiento, ejercicio y salvaguarda de los derechos de propiedad, posesión de tierras, territorios y recursos naturales, donde se encuentren asentados los pueblos, comunidades y regiones indígenas. La Gobernadora o Gobernador del Estado coadyuvará en las gestiones para que los pueblos y comunidades indígenas accedan al uso y aprovechamiento de los mismos;\n\n(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción X",
+      "texto": "X. A preservar, desarrollar, controlar, difundir y promover su patrimonio cultural tangible e intangible. La ley reglamentaria y las autoridades indígenas establecerán las medidas que permitan proteger la titularidad de los derechos sobre el patrimonio de los pueblos indígenas;\n\n(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción XI",
+      "texto": "XI. Al ejercicio, fortalecimiento y desarrollo de la medicina tradicional e indígena; y a los sistemas de salud comunitaria;\n\n(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción XII",
+      "texto": "XII. Al reconocimiento, uso, rescate, preservación, fortalecimiento y difusión de las lenguas indígenas. El Estado y los pueblos indígenas fomentarán las políticas públicas y creación de instancias para el estudio y desarrollo de las lenguas originarias;\n\n(REFORMADA, P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción XIII",
+      "texto": "XIII. A una educación indígena, intercultural, multilingüe y multicultural, en todos los niveles educativos, a través de un sistema que defina y reconozca sus propios modelos y métodos culturales de enseñanza y aprendizaje, cuyos enfoques y contenidos serán diseñados, reconocidos y garantizados de manera conjunta entre el Estado y los pueblos indígenas siempre acorde con lo establecido en la Constitución Federal y las disposiciones legales aplicables;\n\n(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)"
+    },
+    {
+      "id": "003.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción XIV",
+      "texto": "XIV. A adquirir, desarrollar, operar y administrar medios y sistemas de comunicación y difusión, de conformidad con las leyes de la materia. La Gobernadora o Gobernador del Estado coadyuvará en las gestiones para que los pueblos y comunidades indígenas accedan al uso y aprovechamiento de los mismos;\n\n(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción XV",
+      "texto": "XV. Al desarrollo local con identidad cultural y territorial, a partir de modelos propios de economía, en los ámbitos comunal y regional, que de forma coordinada se implementen con los diferentes órdenes de gobierno;\n\n(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción XVI",
+      "texto": "XVI. A la participación y consulta en la elaboración del Plan Estatal de Desarrollo y en los Planes de Desarrollo Municipales, incorporando las recomendaciones y propuestas que se realicen en los presupuestos;\n\n(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción XVII",
+      "texto": "XVII. Al reconocimiento y protección de derechos de las mujeres indígenas, a través de normas, políticas y acciones que garanticen su desarrollo y la igualdad de oportunidades en los ámbitos económico, social, cultural, político, educativo, civil y agrario; considerando la especificidad cultural comunitaria y promoviendo su participación ciudadana;\n\n(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción XVIII",
+      "texto": "XVIII. A la protección de derechos de los migrantes indígenas, mediante normas, políticas y acciones que garanticen el desarrollo de las personas, familias y comunidades migrantes. Los migrantes indígenas de otras entidades federativas, que residan temporal o permanentemente en el Estado, gozarán de los mismos derechos;\n\n(REFORMADA [N. DE E. REPUBLICADA], P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.XIX",
+      "tipo": "fraccion",
+      "marca": "XIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción XIX",
+      "texto": "XIX. A que la normatividad en la materia, procure asegurar el acceso a la representación política de los pueblos y comunidades indígenas en los cargos de elección y representación popular;\n\n(REFORMADA, P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.XX",
+      "tipo": "fraccion",
+      "marca": "XX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción XX",
+      "texto": "XX. A que los partidos políticos, bajo los principios del pluralismo político y cultural, procuren la participación de los pueblos y comunidades indígenas para el acceso a los cargos de elección y representación popular;\n\n(REFORMADA, P.O. 8 DE OCTUBRE DE 2025)"
+    },
+    {
+      "id": "003.XXI",
+      "tipo": "fraccion",
+      "marca": "XXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción XXI",
+      "texto": "XXI. La Gobernadora o Gobernador del Estado, establecerá los mecanismos para el reconocimiento de una instancia estatal de representación y vinculación de autoridades indígenas ante los órganos de gobierno; para participar en las instituciones y determinaciones de políticas públicas de atención a los pueblos y comunidades indígenas.\n\n(REFORMADA [N. DE E. ADICIONADA], P.O. 17 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "003.XXII",
+      "tipo": "fraccion",
+      "marca": "XXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › Fracción XXII",
+      "texto": "XXII. A que los Ayuntamientos respectivos, sesionen y emitan el Acuerdo de cabildo correspondiente en aquellos casos en los que las comunidades indígenas decidan ejercer su derecho al autogobierno y administrar directamente el presupuesto público, conforme a lo señalado en la Ley.\n\n(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2024)\n\nEl presupuesto anual del Gobierno del Estado relativo a programas establecidos de infraestructura social, educativa e hídrica deberá contemplar presupuesto para ser administrado por las comunidades indígenas de autogobierno y presupuesto directo, con base en los criterios poblacional, compensatorios, equitativos, justos y proporcionales, en los términos de las leyes aplicables.\n\n(REFORMADO [N. DE E. ADICIONADO], P.O. 17 DE DICIEMBRE DE 2024)\n\nAsimismo, el presupuesto anual deberá de contemplar dentro de los programas de seguridad pública estatal un rubro en seguridad pública para garantizar sus prácticas de seguridad comunal, el cual deberá ser administrado directamente por el Gobierno Comunal de Autogobierno en términos de la legislación aplicable.\n\n(REFORMADO [N. DE E. REUBICADO], P.O. 17 DE DICIEMBRE DE 2024)\n\nLas leyes correspondientes fijarán los medios, formas y términos para garantizar el ejercicio de los derechos de los pueblos y comunidades indígenas establecidos en esta Constitución."
+    }
+  ]
+}

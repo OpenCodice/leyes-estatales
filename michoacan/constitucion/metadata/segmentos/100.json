@@ -1,0 +1,90 @@
+{
+  "clave": "100",
+  "etiqueta": "Artículo 100",
+  "titulo": "TITULO TERCERO A",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "100.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 13 DE AGOSTO DE 2018)"
+    },
+    {
+      "id": "100.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › párrafo 2",
+      "texto": "El Ministerio Público estará a cargo de un Fiscal General del Estado."
+    },
+    {
+      "id": "100.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › párrafo 3",
+      "texto": "La Fiscalía General del Estado es un órgano autónomo, con personalidad jurídica, patrimonio propio, autonomía financiera, presupuestaria, técnica y de gestión en los términos que determine la Ley."
+    },
+    {
+      "id": "100.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › párrafo 4",
+      "texto": "El Fiscal General durará en su encargo nueve años y, no podrá ser reelecto; será designado y removido conforme a lo establecido por esta Constitución; será sujeto de responsabilidad política, penal o administrativa, en términos de la legislación aplicable."
+    },
+    {
+      "id": "100.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › párrafo 5",
+      "texto": "El Fiscal Estatal Anticorrupción durará en su encargo siete años y será nombrado por el Congreso del Estado, de conformidad con el procedimiento que para tal efecto se determine; podrá ser removido en los términos que la Ley establezca."
+    },
+    {
+      "id": "100.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › párrafo 6",
+      "texto": "La Ley Orgánica de la institución fijará la adscripción, obligaciones y atribuciones de los funcionarios y empleados que la integren, entre los cuales se incluirá la Fiscalía Especializada en Combate a la Corrupción; asimismo establecerá centros especializados en mecanismos alternativos de solución de controversias y determinará los casos que requieran supervisión judicial."
+    },
+    {
+      "id": "100.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › párrafo 7",
+      "texto": "El Fiscal General del Estado, deberá rendir al Congreso del Estado, un informe anual y cuando sea requerido respecto a las acciones y resultados de la institución a su cargo."
+    },
+    {
+      "id": "100.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › párrafo 8",
+      "texto": "(ADICIONADO, P.O. 8 DE OCTUBRE DE 2025)"
+    },
+    {
+      "id": "100.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › párrafo 9",
+      "texto": "Para proteger el derecho de las mujeres a una vida libre de violencias, la Fiscalía General del Estado, contará con la Fiscalía Especializada en Delitos relacionados con las Violencias de Género contra las Mujeres."
+    }
+  ]
+}

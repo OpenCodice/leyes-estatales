@@ -1,0 +1,36 @@
+{
+  "clave": "144",
+  "etiqueta": "Artículo 144",
+  "titulo": "TITULO SEPTIMO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "144.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 144 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "144.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 144 › párrafo 2",
+      "texto": "Para ejercer una profesión en el Estado, se requiere la posesión de un título legalmente expedido y registrado."
+    },
+    {
+      "id": "144.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 144 › párrafo 3",
+      "texto": "La ley determinará las profesiones que requieran título, la forma de su registro, el procedimiento para expedir licencias a los prácticos, y en general, reglamentará todo lo relativo al ejercicio de las profesiones."
+    }
+  ]
+}

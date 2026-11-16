@@ -1,0 +1,45 @@
+{
+  "clave": "090",
+  "etiqueta": "Artículo 90",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "090.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › párrafo 1",
+      "texto": "(REFORMADA SU DENOMINACIÓN, P.O. 23 DE MAYO DE 2006)"
+    },
+    {
+      "id": "090.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 13 DE NOVIEMBRE DE 2024)"
+    },
+    {
+      "id": "090.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › párrafo 3",
+      "texto": "Habrá juezas y jueces menores en las circunscripciones, distritos o regiones y municipios que determine el Órgano de Administración Judicial, serán electos en los términos previstos en el artículo 69 de esta Constitución, durarán en su encargo nueve años, con la competencia y atribuciones que la Ley les señale."
+    },
+    {
+      "id": "090.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 90 › párrafo 4",
+      "texto": "El Órgano de Administración Judicial establecerá juzgados comunales en las poblaciones que por sus características lo requieran. La competencia y atribuciones de estos juzgados, y los requisitos para ser Juez Comunal se establecerá en la Ley."
+    }
+  ]
+}

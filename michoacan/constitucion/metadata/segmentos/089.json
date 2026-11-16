@@ -1,0 +1,81 @@
+{
+  "clave": "089",
+  "etiqueta": "Artículo 89",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "089.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 22 DE JULIO DE 2011)"
+    },
+    {
+      "id": "089.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › párrafo 2",
+      "texto": "Son atribuciones de los tribunales y jueces de primera instancia:"
+    },
+    {
+      "id": "089.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › párrafo 3",
+      "texto": "(REFORMADA, P.O. 2 DE DICIEMBRE DE 2021)"
+    },
+    {
+      "id": "089.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción I",
+      "texto": "I. Conocer en primera instancia de los negocios civiles, penales, laborales y de jurisdicción concurrente de su región o distrito judicial, según corresponda;"
+    },
+    {
+      "id": "089.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción II",
+      "texto": "II. Conocer de las cuestiones de competencia y de acumulación que se susciten entre los jueces menores de materia civil del mismo distrito;\n\n(REFORMADA, P.O. 13 DE NOVIEMBRE DE 2024)"
+    },
+    {
+      "id": "089.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción III",
+      "texto": "III. Tener a su cargo al personal de su juzgado y poner en conocimiento del Tribunal de Disciplina Judicial las irregularidades cometidas por éstos;"
+    },
+    {
+      "id": "089.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción IV",
+      "texto": "IV. Conocer, a los que corresponda, de la ejecución del cumplimiento de las sanciones penales, medidas de seguridad y de las inconformidades que conforme a la Ley, deban conocer; y,"
+    },
+    {
+      "id": "089.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción V",
+      "texto": "V. Desempeñar las demás funciones que les confieran las leyes."
+    }
+  ]
+}

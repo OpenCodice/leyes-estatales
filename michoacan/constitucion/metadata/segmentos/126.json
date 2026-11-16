@@ -1,0 +1,27 @@
+{
+  "clave": "126",
+  "etiqueta": "Artículo 126",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "126.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE OCTUBRE DE 2023)"
+    },
+    {
+      "id": "126.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126 › párrafo 2",
+      "texto": "Los ayuntamientos distribuirán entre los regidores la atención de los servicios municipales, en comisiones colegiadas permanentes, las que emitirán dictámenes en todo caso para que el pleno de aquellos dicte los acuerdos convenientes y oportunos. La ejecución de tales acuerdos estará a cargo de los presidentes municipales. Los regidores no tendrán mando directo sobre los empleados municipales."
+    }
+  ]
+}

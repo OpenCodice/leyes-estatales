@@ -1,0 +1,27 @@
+{
+  "clave": "022",
+  "etiqueta": "Artículo 22",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "022.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 25 DE JUNIO DE 2014)"
+    },
+    {
+      "id": "022.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 22 › párrafo 2",
+      "texto": "El diputado suplente que haya ejercido el cargo de propietario, para efectos del artículo 20 de esta Constitución, se le contabilizará como un periodo."
+    }
+  ]
+}

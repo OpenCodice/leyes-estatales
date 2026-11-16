@@ -1,0 +1,27 @@
+{
+  "clave": "162",
+  "etiqueta": "Artículo 162",
+  "titulo": "TITULO NOVENO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "162.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 162 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE FEBRERO DE 1960)"
+    },
+    {
+      "id": "162.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 162 › párrafo 2",
+      "texto": "Queda prohibida en el Estado de Michoacán la pena de muerte."
+    }
+  ]
+}
