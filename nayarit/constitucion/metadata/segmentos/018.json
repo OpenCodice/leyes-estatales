@@ -1,0 +1,81 @@
+{
+  "clave": "018",
+  "etiqueta": "Artículo 18",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "018.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › párrafo 1",
+      "texto": "Son obligaciones del ciudadano nayarita:"
+    },
+    {
+      "id": "018.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción I",
+      "texto": "I. Las mismas que en esta Constitución se determinan a los vecinos nayaritas."
+    },
+    {
+      "id": "018.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción II",
+      "texto": "II. Alistarse en la Guardia Nacional.\n\n(REFORMADA, P.O. 31 DE ENERO DE 2023)"
+    },
+    {
+      "id": "018.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción III",
+      "texto": "III. Votar en las elecciones populares en el Distrito Electoral que le corresponda; así como en los procesos de revocación de mandato, en los términos que señale la ley."
+    },
+    {
+      "id": "018.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción IV",
+      "texto": "IV. Desempeñar los cargos de elección popular de la Federación y del Estado."
+    },
+    {
+      "id": "018.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción V",
+      "texto": "V. Desempeñar los cargos concejiles del municipio donde reside, las funciones electorales y de jurado."
+    },
+    {
+      "id": "018.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción VI",
+      "texto": "VI. Cooperar al mantenimiento de la paz y del orden público."
+    },
+    {
+      "id": "018.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción VII",
+      "texto": "VII. Las demás que para los mexicanos señala el artículo 31 de la Constitución Federal.\n\n(DEROGADO ULTIMO PARRAFO, P.O. 25 DE AGOSTO DE 1943)"
+    }
+  ]
+}

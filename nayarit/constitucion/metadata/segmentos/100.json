@@ -1,0 +1,54 @@
+{
+  "clave": "100",
+  "etiqueta": "Artículo 100",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "100.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › párrafo 1",
+      "texto": "(REFORMADA SU DENOMINACIÓN, P.O. 14 DE ENERO DE 2017)"
+    },
+    {
+      "id": "100.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › párrafo 2",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. 5 DE MAYO DE 2025)"
+    },
+    {
+      "id": "100.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › párrafo 3",
+      "texto": "La Fiscalía General contará, al menos, con las Fiscalías Especializadas en materia de delitos electorales, combate a la corrupción y en investigación de delitos relacionados con las violencias de género contra las mujeres; cuyos titulares serán nombrados y removidos por el voto de las dos terceras partes de los miembros del Congreso del Estado presentes en la sesión correspondiente, observando el principio de paridad de género."
+    },
+    {
+      "id": "100.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › párrafo 4",
+      "texto": "(REFORMADO, P.O. 28 DE MARZO DE 2018) Para la designación de los titulares de las Fiscalías Especializadas, el Congreso del Estado emitirá convocatoria pública para la postulación de candidatos, la cual deberá contener, al menos, las etapas de acreditación de requisitos, evaluación de conocimientos, control de confianza y escrutinio social, atendiendo el procedimiento que establece esta Constitución para la designación del Fiscal General."
+    },
+    {
+      "id": "100.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › párrafo 5",
+      "texto": "Los Fiscales Especializados deberán cubrir los mismos requisitos que para ser Fiscal General y durarán en su encargo ocho años sin posibilidad de ser ratificados."
+    }
+  ]
+}

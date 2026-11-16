@@ -1,0 +1,27 @@
+{
+  "clave": "120",
+  "etiqueta": "Artículo 120",
+  "titulo": "TITULO SEPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "120.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 120 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 21 DE OCTUBRE DE 2000)"
+    },
+    {
+      "id": "120.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 120 › párrafo 2",
+      "texto": "El año fiscal queda comprendido del primero de enero al 31 de diciembre, inclusive."
+    }
+  ]
+}

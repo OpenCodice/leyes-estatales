@@ -1,0 +1,27 @@
+{
+  "clave": "037",
+  "etiqueta": "Artículo 37",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "037.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 18 DE NOVIEMBRE DE 1995)"
+    },
+    {
+      "id": "037.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › párrafo 2",
+      "texto": "Durante el primer período ordinario de sesiones de cada año la Legislatura se ocupará preferentemente del examen y votación de las leyes de ingresos del Estado y de los Municipios, así como del presupuesto de egresos del Estado que se aplicarán para el año siguiente, decretando las contribuciones para cubrirlos."
+    }
+  ]
+}

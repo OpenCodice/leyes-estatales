@@ -1,0 +1,243 @@
+{
+  "clave": "017",
+  "etiqueta": "Artículo 17",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "017.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE AGOSTO DE 1947)"
+    },
+    {
+      "id": "017.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 2",
+      "texto": "Son derechos del ciudadano nayarita:"
+    },
+    {
+      "id": "017.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 3",
+      "texto": "(REFORMADA, P.O. 6 DE OCTUBRE DE 2020)"
+    },
+    {
+      "id": "017.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción I",
+      "texto": "I. Votar y ser votado en condiciones de paridad para todos los cargos de elección popular, teniendo las calidades que establezca la ley. El derecho de solicitar el registro de candidatos ante la autoridad electoral corresponde a los partidos políticos, así como a los ciudadanos que soliciten su registro de manera independiente y reúnan cuando menos el dos por ciento de apoyo ciudadano del padrón electoral de la geografía estatal, distrital, municipal o por demarcación, según corresponda; en ambos casos deben cumplir con los requisitos, condiciones y términos que determine la legislación en la materia.\n\n(ADICIONADO, P.O. 27 DE FEBRERO DE 2019) Los ciudadanos que residan en el extranjero, podrán ejercer su derecho al voto en la elección de Gobernador en los términos que disponga la Ley en la materia.\n\nLos ciudadanos que participen como candidatos independientes tendrán derecho a recibir financiamiento público y privado, en la forma y términos que establezca la ley de la materia.\n\nLa fiscalización de los recursos financieros que utilicen los candidatos independientes, se realizará conforme a lo establecido en la ley de la materia.\n\nLos ciudadanos podrán participar en los procesos de consulta popular de plebiscito, referéndum e iniciativa popular, en los términos que establezcan las leyes.\n\nLa ley regulará los mecanismos de participación ciudadana en los procesos de referéndum, plebiscito e iniciativa popular, los que se regirán por los siguientes principios:"
+    },
+    {
+      "id": "017.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 17 › Fracción I › inciso a)",
+      "texto": "a) El referéndum tiene por objeto someter a la aprobación de los ciudadanos respecto de los siguientes supuestos:"
+    },
+    {
+      "id": "017.I.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 17 › Fracción I › 1.",
+      "texto": "1.- Proyectos de reforma total de la Constitución, y"
+    },
+    {
+      "id": "017.I.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 17 › Fracción I › 2.",
+      "texto": "2.- Leyes en los términos y materias que la ley determine."
+    },
+    {
+      "id": "017.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 17 › Fracción I › inciso b)",
+      "texto": "b) El plebiscito tiene por objeto someter a consulta ciudadana, los actos de carácter administrativo del Poder Ejecutivo y los Ayuntamientos que afecten a la generalidad de los gobernados, en los términos y condiciones que prevea la ley."
+    },
+    {
+      "id": "017.I.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 17 › Fracción I › inciso c)",
+      "texto": "c) La iniciativa popular es el derecho de los ciudadanos para presentar iniciativas de ley o decreto, en los términos y condiciones previstas por la ley.\n\n(REFORMADA, P.O. 5 DE SEPTIEMBRE DE 1998)"
+    },
+    {
+      "id": "017.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción II",
+      "texto": "II. Asociarse individual y libremente para participar en forma pacífica en los asuntos políticos del Estado y de las demás prerrogativas consignadas en los artículos 35 y 41 de la Constitución General de la República.\n\n(REFORMADA, P.O. 19 DE MAYO DE 2022)"
+    },
+    {
+      "id": "017.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción III",
+      "texto": "III. Las y los nayaritas serán preferidos a los que no lo sean, observando el principio de paridad de género y en igualdad de circunstancias, para toda clase de concesiones, empleos, cargos o comisiones del Gobierno.\n\n(ADICIONADA, P.O. 31 DE ENERO DE 2023)"
+    },
+    {
+      "id": "017.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › Fracción IV",
+      "texto": "IV. Participar en los procesos de revocación de mandato.\n\nEl que se refiere a la revocación de Mandato del Gobernador, se llevará a cabo conforme a lo siguiente:\n\n(REFORMADO PRIMER PÁRRAFO, P.O. 13 DE ABRIL DE 2023)"
+    },
+    {
+      "id": "017.IV.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 17 › Fracción IV › 1.",
+      "texto": "1. Será convocado por el Instituto Estatal Electoral a petición de las ciudadanas y ciudadanos, en un número equivalente, al menos, al diez por ciento de los inscritos en la lista nominal de electores del Estado, siempre y cuando en la solicitud correspondan a por lo menos once municipios y que representen, como mínimo, el diez por ciento de la lista nominal de electores de cada uno de los municipios."
+    },
+    {
+      "id": "017.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 4",
+      "texto": "El Instituto Estatal Electoral, dentro de los siguientes treinta días a que se reciba la solicitud, verificará el requisito establecido en el párrafo anterior y emitirá inmediatamente la convocatoria al proceso para la revocación de mandato."
+    },
+    {
+      "id": "017.IV.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 17 › Fracción IV › 2.",
+      "texto": "2. Se podrá solicitar en una sola ocasión y durante los tres meses posteriores a la conclusión del tercer año del periodo constitucional del Gobernador."
+    },
+    {
+      "id": "017.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 5",
+      "texto": "Las ciudadanas y ciudadanos podrán recabar firmas para la solicitud de revocación de mandato durante el mes previo a la fecha prevista en el párrafo anterior. El Instituto Estatal Electoral emitirá, a partir de esta fecha, los formatos y medios para la recopilación de firmas, así como los lineamientos para las actividades relacionadas."
+    },
+    {
+      "id": "017.IV.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 17 › Fracción IV › 3.",
+      "texto": "3. Se realizará mediante votación libre, directa y secreta de ciudadanas y ciudadanos inscritos en la lista nominal, el domingo siguiente a los noventa días posteriores a la convocatoria y en fecha no coincidente con las jornadas electorales locales o federales."
+    },
+    {
+      "id": "017.IV.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 17 › Fracción IV › 4.",
+      "texto": "4. Para que el proceso de revocación de mandato sea válido, deberá haber una participación de, por lo menos, el cuarenta por ciento de las personas inscritas en la lista nominal de electores del Estado. La revocación de mandato sólo procederá por mayoría absoluta."
+    },
+    {
+      "id": "017.IV.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 17 › Fracción IV › 5.",
+      "texto": "5. El Instituto Estatal Electoral, tendrá a su cargo, en forma directa, la organización, desarrollo y cómputo de la votación. Emitirá los resultados de los procesos de revocación de mandato del titular del Poder Ejecutivo Estatal, los cuales podrán ser impugnados ante el Tribunal Estatal Electoral, en los términos de lo dispuesto por el Apartado D del artículo 135, de este ordenamiento."
+    },
+    {
+      "id": "017.IV.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 17 › Fracción IV › 6.",
+      "texto": "6. El Instituto Estatal Electoral, realizará el cómputo final del proceso de revocación de mandato, una vez resueltas las impugnaciones que se hubieren interpuesto ante el Tribunal Estatal Electoral. En su caso, se emitirá la declaratoria de revocación y se sujetará a lo dispuesto en el artículo 64, de este ordenamiento."
+    },
+    {
+      "id": "017.IV.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 17 › Fracción IV › 7.",
+      "texto": "7. Queda prohibido el uso de recursos públicos para la recolección de firmas, así como con fines de promoción y propaganda relacionados con los procesos de revocación de mandato."
+    },
+    {
+      "id": "017.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 6",
+      "texto": "El Instituto Estatal Electoral, promoverá la participación ciudadana y será la única instancia a cargo de la difusión de los mismos. La promoción será objetiva, imparcial y con fines informativos."
+    },
+    {
+      "id": "017.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 7",
+      "texto": "Ninguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en la opinión de las ciudadanas y ciudadanos."
+    },
+    {
+      "id": "017.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 8",
+      "texto": "Durante el tiempo que comprenda el proceso de revocación de mandato, desde la convocatoria y hasta la conclusión de la jornada, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental de cualquier orden de gobierno."
+    },
+    {
+      "id": "017.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 9",
+      "texto": "Los poderes públicos, los ayuntamientos, los órganos autónomos, las dependencias y entidades de la administración pública y cualquier otro ente de gobierno estatal o municipal, sólo podrán difundir las campañas de información relativas a los servicios educativos y de salud o las necesarias para la protección civil."
+    },
+    {
+      "id": "017.IV.8",
+      "tipo": "numeral",
+      "marca": "8",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 17 › Fracción IV › 8.",
+      "texto": "8. El Congreso del Estado emitirá la Ley reglamentaria."
+    }
+  ]
+}

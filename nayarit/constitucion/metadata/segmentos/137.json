@@ -1,0 +1,54 @@
+{
+  "clave": "137",
+  "etiqueta": "Artículo 137",
+  "titulo": "TITULO DECIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "137.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 16 DE DICIEMBRE DE 2010)"
+    },
+    {
+      "id": "137.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › párrafo 2",
+      "texto": "La ley regulará el servicio civil y en especial las condiciones de ingreso a éste; las promociones y ascensos con base en mérito y aptitud; los cambios, suspensiones y cesantías; los deberes de los servidores públicos y los recursos contra las resoluciones que los afecten; garantizando a los empleados públicos la estabilidad en el cargo."
+    },
+    {
+      "id": "137.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 5 DE MAYO DE 2025) Los servidores públicos del Estado, de los Municipios, de sus entidades y dependencias, así como de sus administraciones paraestatales y paramunicipales, fideicomisos públicos, instituciones y organismos autónomos, y cualquier otro ente público, recibirán una remuneración adecuada e irrenunciable por el desempeño de su función, empleo, cargo o comisión, que deberá ser proporcional a sus responsabilidades, sin tener en cuenta sexo, género, ni nacionalidad. Las leyes establecerán los mecanismos tendientes a reducir y erradicar la brecha salarial de género."
+    },
+    {
+      "id": "137.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › párrafo 4",
+      "texto": "(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010) La ley determinará los conceptos de retribuciones y límites salariales de los servidores públicos, la que no podrá ser igual o mayor que su superior jerárquico; salvo que el excedente sea consecuencia del desempeño de varios empleos públicos, que su remuneración sea producto de las condiciones generales de trabajo, derivado de un trabajo técnico calificado o por especialización en su función, en los términos del artículo 127 de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "137.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › párrafo 5",
+      "texto": "(ADICIONADO, P.O. 16 DE DICIEMBRE DE 2010) Nadie en el Estado podrá desempeñar dos o más cargos de elección popular, pero el interesado puede elegir el que le convenga. Una vez que el servidor público comience a ejercer el cargo por el que haya optado, el otro quedará sin efectos."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "078",
+  "etiqueta": "Artículo 78",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "078.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 1 DE JUNIO DE 1994)"
+    },
+    {
+      "id": "078.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › párrafo 2",
+      "texto": "El Secretario General de Gobierno o quien legalmente lo supla en sus faltas temporales, concurrirán a las sesiones del Congreso cuando el Gobernador, conforme a esta Constitución, deba asistir."
+    },
+    {
+      "id": "078.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › párrafo 3",
+      "texto": "Los demás Secretarios de las dependencias lo harán sólo cuando el Gobernador fuere requerido para informar sobre algún asunto encomendado a ellos."
+    }
+  ]
+}

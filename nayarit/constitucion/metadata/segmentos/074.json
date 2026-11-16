@@ -1,0 +1,27 @@
+{
+  "clave": "074",
+  "etiqueta": "Artículo 74",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "074.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 19 DE MAYO DE 2022)"
+    },
+    {
+      "id": "074.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 2",
+      "texto": "Para ser Secretario General de Gobierno o Secretario del Despacho, se requiere: ser ciudadano mexicano por nacimiento, originario del estado o vecino de él, en pleno goce de sus derechos, mayor de veinticinco años de edad, no ser militar en servicio activo, ni ministro de algún culto religioso y preferentemente contar con título profesional. Además, no estar inscrita o inscrito en el Registro de Deudores Alimentarios Morosos en el Estado de Nayarit o en otra entidad federativa; ni en el Registro Nacional de Personas Sancionadas en Materia de Violencia Política contra las Mujeres en Razón de Género."
+    }
+  ]
+}

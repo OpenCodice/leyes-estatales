@@ -1,0 +1,72 @@
+{
+  "clave": "082",
+  "etiqueta": "Artículo 82",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "082.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › párrafo 1",
+      "texto": "(REPUBLICADO, P.O. 1 DE DICIEMBRE DE 2022)"
+    },
+    {
+      "id": "082.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › párrafo 2",
+      "texto": "El Poder Judicial, tendrá competencia en los siguientes asuntos:"
+    },
+    {
+      "id": "082.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción I",
+      "texto": "I.- Garantizar la supremacía y tutela de la presente Constitución, interpretarla y anular actos, leyes o normas contrarias a ella;"
+    },
+    {
+      "id": "082.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción II",
+      "texto": "II.- Garantizar y proteger los derechos fundamentales previstos en esta Constitución;\n\n(REFORMADA, P.O. 25 DE SEPTIEMBRE DE 2018)"
+    },
+    {
+      "id": "082.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción III",
+      "texto": "III.- Resolver las controversias del orden civil, familiar, penal, laboral de su competencia, de adolescentes del fuero común, y mercantil en jurisdicción concurrente;"
+    },
+    {
+      "id": "082.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción IV",
+      "texto": "IV.- DEROGADA, P.O. 10 DE JUNIO DE 2016"
+    },
+    {
+      "id": "082.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción V",
+      "texto": "V.- Los demás que con base en la Constitución Federal, esta Constitución y demás leyes, se le confieran.\n\n(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2022) La ley regulará la forma en que los jueces de primera instancia se asociarán para la unificación de sus criterios considerando la competencia de los mismos, de ser el caso, el juzgador que disienta del criterio adoptado podrá solicitar al Tribunal Superior de Justicia para que, funcionando en Pleno o a través de alguna de sus salas, según disponga su Ley Orgánica, fije el criterio que deberá regir.\n\n(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2022) La unificación de criterios en términos del párrafo anterior no modificará los asuntos que dieron origen a su discrepancia.\n\n(ADICIONADO, P.O. 1 DE DICIEMBRE DE 2022) La ley establecerá los términos de creación e interrupción de la jurisprudencia que determinen tanto el Pleno del Tribunal Superior de Justicia como sus salas."
+    }
+  ]
+}

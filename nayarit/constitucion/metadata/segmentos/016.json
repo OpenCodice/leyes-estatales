@@ -1,0 +1,54 @@
+{
+  "clave": "016",
+  "etiqueta": "Artículo 16",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "016.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 25 DE MARZO DE 1970)"
+    },
+    {
+      "id": "016.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › párrafo 2",
+      "texto": "Son ciudadanos nayaritas, los varones y mujeres mexicanos por nacimiento o por naturalización, que reúnan además los siguientes requisitos:"
+    },
+    {
+      "id": "016.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Fracción I",
+      "texto": "I. La vecindad en el Estado con seis meses de residencia, por lo menos, dentro de su territorio."
+    },
+    {
+      "id": "016.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Fracción II",
+      "texto": "II. Haber cumplido dieciocho años de edad, y"
+    },
+    {
+      "id": "016.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › Fracción III",
+      "texto": "III. Tener un modo honesto de vivir."
+    }
+  ]
+}

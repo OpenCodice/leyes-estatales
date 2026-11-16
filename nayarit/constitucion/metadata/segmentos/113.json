@@ -1,0 +1,27 @@
+{
+  "clave": "113",
+  "etiqueta": "Artículo 113",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "113.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 113 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 21 DE ENERO DE 2013)"
+    },
+    {
+      "id": "113.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 113 › párrafo 2",
+      "texto": "Los miembros del ayuntamiento serán responsables personal y colectivamente conforme a las leyes civiles y penales, de los actos que ejecuten en el ejercicio de sus funciones, y dichas responsabilidades podrán ser exigidas, ante las autoridades que correspondan, ya sea directamente por los particulares cuando se ofendan sus derechos o por el Fiscal General cuando se ofendan los derechos de la sociedad."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "108",
+  "etiqueta": "Artículo 108",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "108.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 24 DE ENERO DE 2001)"
+    },
+    {
+      "id": "108.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › párrafo 2",
+      "texto": "La representación política y dirección administrativa, así como la ejecución de los acuerdos y resoluciones del Ayuntamiento, corresponderá al Presidente Municipal. A los Regidores compete el análisis y vigilancia colegiada de los ramos municipales y al Síndico la representación jurídica, el registro y revisión de la hacienda del Municipio."
+    },
+    {
+      "id": "108.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › párrafo 3",
+      "texto": "En ningún caso los Ayuntamientos, como cuerpos colegiados, podrán desempeñar las funciones del Presidente Municipal, ni éste por sí solo las de aquéllos."
+    }
+  ]
+}

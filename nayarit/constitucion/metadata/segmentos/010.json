@@ -1,0 +1,27 @@
+{
+  "clave": "010",
+  "etiqueta": "Artículo 10",
+  "titulo": "TITULO PRIMERO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "010.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 3 DE SEPTIEMBRE DE 1941)"
+    },
+    {
+      "id": "010.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 2",
+      "texto": "Son vecinos del Estado los habitantes que tengan seis meses de residencia habitual en cualquier parte de su territorio."
+    }
+  ]
+}

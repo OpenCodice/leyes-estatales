@@ -1,0 +1,54 @@
+{
+  "clave": "026",
+  "etiqueta": "Artículo 26",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "026.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › párrafo 1",
+      "texto": "(REFORMADO [PRIMER PÁRRAFO], P.O. 20 DE NOVIEMBRE DE 2025)"
+    },
+    {
+      "id": "026.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › párrafo 2",
+      "texto": "El Congreso del Estado se integrará por dieciocho diputados electos por mayoría relativa y doce diputados electos por representación proporcional, quienes no podrán ser reelectos para el período inmediato posterior al ejercicio de su mandato."
+    },
+    {
+      "id": "026.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 20 DE NOVIEMBRE DE 2025) Las personas diputadas suplentes podrán ser electas para el período inmediato con el carácter de propietarias, siempre que no hubieren estado en ejercicio, pero las personas diputadas propietarias no podrán ser electas para el período inmediato con el carácter de suplentes."
+    },
+    {
+      "id": "026.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › párrafo 4",
+      "texto": "En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que representen un porcentaje del total de la legislatura que exceda en ocho puntos su porcentaje de votación emitida. Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura, superior a la suma del porcentaje de su votación emitida más el ocho por ciento. Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales."
+    },
+    {
+      "id": "026.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › párrafo 5",
+      "texto": "La delimitación territorial de los distritos electorales, será aprobada por el Instituto Nacional Electoral tomando en consideración la legislación aplicable."
+    }
+  ]
+}

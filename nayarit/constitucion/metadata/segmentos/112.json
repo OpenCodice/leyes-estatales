@@ -1,0 +1,27 @@
+{
+  "clave": "112",
+  "etiqueta": "Artículo 112",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "112.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE AGOSTO DE 2008)"
+    },
+    {
+      "id": "112.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 112 › párrafo 2",
+      "texto": "El presidente municipal presentará anualmente al Ayuntamiento, un informe por escrito sobre el estado que guarda la administración pública municipal, así como de los avances del Plan Municipal de Desarrollo. Dicho informe será revisado y evaluado por los miembros del Ayuntamiento, en los términos que señale la ley."
+    }
+  ]
+}

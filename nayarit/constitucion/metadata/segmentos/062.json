@@ -1,0 +1,99 @@
+{
+  "clave": "062",
+  "etiqueta": "Artículo 62",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "062.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › párrafo 1",
+      "texto": "Para ser Gobernador se requiere:"
+    },
+    {
+      "id": "062.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › párrafo 2",
+      "texto": "(REFORMADA, P.O. 3 DE SEPTIEMBRE DE 1941)"
+    },
+    {
+      "id": "062.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › Fracción I",
+      "texto": "I. Ser ciudadano mexicano por nacimiento, hijo de padres mexicanos, nativo del Estado o con vecindad efectiva en él, no menor de cinco años inmediatamente anteriores al día de la elección.\n\n(REFORMADA, P.O. 25 DE JUNIO DE 1980)"
+    },
+    {
+      "id": "062.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › Fracción II",
+      "texto": "II. Tener 30 años cumplidos el día de la elección.\n\n(REFORMADA, P.O. 27 DE ENERO DE 2025)"
+    },
+    {
+      "id": "062.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › Fracción III",
+      "texto": "III. No ser Secretario o Subsecretario del Despacho del Poder Ejecutivo Estatal o Federal, Presidente Municipal, Síndico, Regidor, Secretario, Tesorero o Director de alguna Dependencia del Ayuntamiento; Fiscal General, Diputado Local o Federal, Senador de la República, Delegados, Subdelegados o Titulares de las Dependencias o entidades de la Administración Pública Federal en el Estado;\n\nMinistro, Magistrado o Juez del Poder Judicial de la Federación o del Estado, miembro del Órgano de Administración Judicial del Estado o la Federación, Magistrada o Magistrado del Tribunal de Disciplina Judicial del Estado o de la Federación; Magistrado Administrativo; el titular de organismo autónomo o descentralizado federal, estatal o municipal; así como los miembros en servicio activo en el Ejército Nacional o Armada de México; salvo que se hubieren separado de sus cargos o del servicio público al menos 90 días antes del día de la elección. En el caso de los consejeros y magistrados electorales del estado, el término de su separación se computará un año antes de la elección.\n\n(REFORMADA, P.O. 14 DE NOVIEMBRE DE 2007)"
+    },
+    {
+      "id": "062.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › Fracción IV",
+      "texto": "IV. No pertenecer al estado eclesiástico ni ser Ministro de algún culto religioso.\n\n(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)"
+    },
+    {
+      "id": "062.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › Fracción V",
+      "texto": "V. No estar suspendido en sus derechos políticos.\n\n(REFORMADA, P.O. 20 DE NOVIEMBRE DE 2025)"
+    },
+    {
+      "id": "062.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › Fracción VI",
+      "texto": "VI. No haber figurado directa ni indirectamente en alguna sedición, cuartelazo, motín o asonada.\n\n(ADICIONADA, P.O. 19 DE MAYO DE 2022)"
+    },
+    {
+      "id": "062.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › Fracción VII",
+      "texto": "VII. No estar inscrita o inscrito en el Registro de Deudores Alimentarios Morosos en el Estado de Nayarit o en otra entidad federativa, ni en el Registro Nacional de Personas Sancionadas en Materia de Violencia Política contra las Mujeres en Razón de Género.\n\n(ADICIONADO, P.O. 20 DE NOVIEMBRE DE 2025)"
+    },
+    {
+      "id": "062.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › Fracción VIII",
+      "texto": "VIII. No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la gubernatura."
+    }
+  ]
+}
