@@ -1,0 +1,36 @@
+{
+  "clave": "116",
+  "etiqueta": "Artículo 116",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IX",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "116.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › párrafo 1",
+      "texto": "Para ser Presidenta o Presidente Municipal, además de los requisitos exigidos para ser Regidora o Regidor, son necesarios los siguientes: (Ref. Según Decreto No. 425, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 088, de fecha 24 de julio de 2026.)"
+    },
+    {
+      "id": "116.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › Fracción I",
+      "texto": "I. Tener 25 años cumplidos, cuando menos, en la fecha de la elección;"
+    },
+    {
+      "id": "116.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › Fracción II",
+      "texto": "II. Ser persona originaria de la municipalidad que lo elija o vecina de ella cuando menos tres años anteriores a la elección siempre que sea ciudadana o ciudadano sinaloense por nacimiento o por vecindad, con residencia efectiva en el Estado en este último caso, no menor de cinco años inmediatamente anteriores al día de la elección (Ref. Según Decreto No. 425, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 088, de fecha 24 de julio de 2026.)"
+    }
+  ]
+}

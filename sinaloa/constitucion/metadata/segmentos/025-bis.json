@@ -1,0 +1,36 @@
+{
+  "clave": "025-bis",
+  "etiqueta": "Artículo 25 Bis",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "025-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 Bis › párrafo 1",
+      "texto": "Las Diputadas y los Diputados en funciones no podrán ser reelectos para el periodo inmediato posterior al ejercicio de su mandato."
+    },
+    {
+      "id": "025-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 Bis › párrafo 2",
+      "texto": "Las Diputadas y los Diputados suplentes podrán ser electos para el período inmediato con el carácter de propietarios, siempre que no hubieren estado en el ejercicio, pero las diputadas y los diputados propietarios no podrán ser electos para el período inmediato con el carácter de suplentes."
+    },
+    {
+      "id": "025-bis.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 Bis › párrafo 3",
+      "texto": "(Ref. Según Decreto No. 494, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 111, de fecha 16 de septiembre de 2026.)"
+    }
+  ]
+}

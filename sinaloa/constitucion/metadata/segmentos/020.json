@@ -1,0 +1,27 @@
+{
+  "clave": "020",
+  "etiqueta": "Artículo 20",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "020.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 1",
+      "texto": "No podrán reunirse dos o más poderes en una sola persona o corporación."
+    },
+    {
+      "id": "020.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 2",
+      "texto": "(Ref. según Decreto No. 231 de fecha 17 de mayo de 1974, publicado en el Periódico Oficial No. 60, de fecha 17 de mayo de 1974)."
+    }
+  ]
+}

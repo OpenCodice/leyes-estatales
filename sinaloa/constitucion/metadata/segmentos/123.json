@@ -1,0 +1,63 @@
+{
+  "clave": "123",
+  "etiqueta": "Artículo 123",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IX",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "123.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › párrafo 1",
+      "texto": "Los Municipios administrarán libremente su hacienda, la cual se formará de:"
+    },
+    {
+      "id": "123.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción I",
+      "texto": "I. Los bienes muebles e inmuebles que les pertenezcan y los rendimientos de éstos;"
+    },
+    {
+      "id": "123.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción II",
+      "texto": "II. Las contribuciones u otros ingresos, cualquiera que sea su denominación, que el Congreso del Estado establezca a su favor;"
+    },
+    {
+      "id": "123.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción III",
+      "texto": "III. Las participaciones federales, que serán cubiertas a los Municipios por la Federación, con arreglo a las bases de distribución equitativa, montos y plazos que anualmente determine el Congreso del Estado;"
+    },
+    {
+      "id": "123.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción IV",
+      "texto": "IV. Los ingresos derivados de la prestación de servicios públicos a su cargo; y,"
+    },
+    {
+      "id": "123.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 123 › Fracción V",
+      "texto": "V. Las Contribuciones (sic ¿contribuciones?) y tasas adicionales que se establezcan en el Estado sobre la propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación y mejora, así como las que tengan como base el cambio de valor de los inmuebles. Los Municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones.\n\nNo podrán establecerse exenciones o subsidios respecto a los ingresos señalados en las fracciones IV y V de este artículo en favor de personas o institución alguna respecto de dichas contribuciones. Sólo los bienes del dominio público de la Federación, de los Estados o de los Municipios estarán exentos de contribuciones señaladas en las fracciones IV y V de este artículo, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público. (Ref. según Decreto 536 de fecha 22 de marzo, publicado en el Periódico Oficial No. 074 de fecha 20 de junio del año 2001)"
+    }
+  ]
+}
