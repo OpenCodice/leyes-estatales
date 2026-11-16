@@ -1,0 +1,27 @@
+{
+  "clave": "100",
+  "etiqueta": "Artículo 100",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "100.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE MAYO DE 2013)"
+    },
+    {
+      "id": "100.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 100 › párrafo 2",
+      "texto": "El cobro y administración de los caudales públicos competen a la dependencia que señale la Ley Orgánica del Poder Ejecutivo. El personal de dicha dependencia tendrá las facultades y obligaciones señaladas por las leyes de la materia."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "127",
+  "etiqueta": "Artículo 127",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "127.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 1",
+      "texto": "(PÁRRAFO REFORMADO, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "127.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 2",
+      "texto": "El Gobernador del Estado, los Diputados Locales, las personas Magistradas del Supremo Tribunal de Justicia, del Tribunal de Disciplina Judicial del Estado y las personas integrantes Órgano de Administración Judicial, los titulares de las dependencias que señale la Ley Orgánica del Poder Ejecutivo, los miembros de los Ayuntamiento y los Magistrados del Tribunal de Justicia Administrativa, podrán ser sometidos a proceso judicial durante el tiempo de su encargo, pero sólo serán separados de su cargo cuando se trate de delitos comprendidos en el segundo párrafo del artículo 19 de la Constitución Política de los Estados Unidos Mexicanos o sus equivalentes en la ley penal."
+    },
+    {
+      "id": "127.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 3",
+      "texto": "Recibida copia certificada del auto de vinculación a proceso, la Legislatura del Estado declarará la separación del cargo."
+    },
+    {
+      "id": "127.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 4",
+      "texto": "Una vez separado el servidor público, conocerá del proceso el juez de control que resulte competente."
+    }
+  ]
+}

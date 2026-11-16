@@ -1,0 +1,117 @@
+{
+  "clave": "023",
+  "etiqueta": "Artículo 23",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "023.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "023.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › párrafo 2",
+      "texto": "Son prerrogativas del ciudadano guanajuatense:"
+    },
+    {
+      "id": "023.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › párrafo 3",
+      "texto": "(REFORMADA, P.O. 10 DE AGOSTO DE 2023)"
+    },
+    {
+      "id": "023.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › Fracción I",
+      "texto": "I. Tomar las armas en la Fuerza Armada permanente o en los cuerpos de reserva, para la defensa de la República, del Estado y de sus instituciones;\n\n(REFORMADA, P.O. 27 DE JUNIO DE 2014)"
+    },
+    {
+      "id": "023.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › Fracción II",
+      "texto": "II. Votar en las elecciones populares. En el caso de los ciudadanos guanajuatenses que residen en el extranjero podrán votar para la elección de Gobernador del Estado;\n\n(REFORMADA, P.O. 27 DE JUNIO DE 2014)"
+    },
+    {
+      "id": "023.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › Fracción III",
+      "texto": "III. Poder ser votado para todos los cargos de elección popular, teniendo las calidades que establezca la Ley;"
+    },
+    {
+      "id": "023.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › Fracción IV",
+      "texto": "IV. Asociarse para tratar los asuntos políticos del Estado;"
+    },
+    {
+      "id": "023.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › Fracción V",
+      "texto": "V. Ejercer el Derecho de Petición;"
+    },
+    {
+      "id": "023.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › Fracción VI",
+      "texto": "VI. Ser preferido, en igualdad de condiciones, sobre los no guanajuatenses, para el otorgamiento de empleo, cargo o comisión pública; y,\n\n(REFORMADA, P.O. 13 DE DICIEMBRE DE 2017)"
+    },
+    {
+      "id": "023.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › Fracción VII",
+      "texto": "VII. Participar en los mecanismos de participación ciudadana previstos en esta Constitución y en la Ley de la materia;\n\n(REFORMADA, P.O. 27 DE JUNIO DE 2014)"
+    },
+    {
+      "id": "023.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › Fracción VIII",
+      "texto": "VIII. Poder ser nombrado, para cualquier empleo o comisión del servicio público, teniendo las calidades que establezca la Ley; y\n\n(ADICIONADA, P.O. 27 DE JUNIO DE 2014)"
+    },
+    {
+      "id": "023.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › Fracción IX",
+      "texto": "IX. Las demás que señalen las leyes."
+    }
+  ]
+}

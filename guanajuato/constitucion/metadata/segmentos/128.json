@@ -1,0 +1,27 @@
+{
+  "clave": "128",
+  "etiqueta": "Artículo 128",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "128.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 128 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 3 DE FEBRERO DE 2017)"
+    },
+    {
+      "id": "128.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 128 › párrafo 2",
+      "texto": "La separación del cargo que declare el Congreso del Estado respecto de los servidores públicos que vayan a ser sujetos a proceso penal, no prejuzga sobre los fundamentos de la inculpación."
+    }
+  ]
+}

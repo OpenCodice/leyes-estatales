@@ -1,0 +1,36 @@
+{
+  "clave": "047",
+  "etiqueta": "Artículo 47",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "047.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 27 DE MAYO DE 2026)"
+    },
+    {
+      "id": "047.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › párrafo 2",
+      "texto": "Las personas diputadas no podrán ser reelectas para el mismo cargo para el período inmediato posterior al ejercicio de su mandato."
+    },
+    {
+      "id": "047.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › párrafo 3",
+      "texto": "Las personas diputadas propietarias no podrán ser electas para el periodo inmediato con el carácter de suplentes, pero éstas sí podrán ser electas para el período inmediato con el carácter de propietarias, siempre que no hubieran estado en ejercicio."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "130",
+  "etiqueta": "Artículo 130",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "130.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 130 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 3 DE FEBRERO DE 2017)"
+    },
+    {
+      "id": "130.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 130 › párrafo 2",
+      "texto": "En los casos en que el proceso penal concluya con resolución que tenga efectos absolutorios, el servidor público podrá ser restituido en el cargo, en los términos de la Ley."
+    },
+    {
+      "id": "130.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 130 › párrafo 3",
+      "texto": "Para ello será necesaria la declaratoria que, sin mayor trámite, emita el Congreso del Estado, previa solicitud del interesado."
+    }
+  ]
+}

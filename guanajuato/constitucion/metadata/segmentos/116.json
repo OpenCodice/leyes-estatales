@@ -1,0 +1,36 @@
+{
+  "clave": "116",
+  "etiqueta": "Artículo 116",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "116.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 15 DE NOVIEMBRE DE 1994)"
+    },
+    {
+      "id": "116.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › párrafo 2",
+      "texto": "Los ciudadanos que hayan sido electos en los comicios o, en su caso, los miembros del Concejo Municipal que designe el Congreso, se reunirán para iniciar actividades el día 10 de octubre siguiente a la fecha de la elección."
+    },
+    {
+      "id": "116.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 116 › párrafo 3",
+      "texto": "(REFORMADA, P.O. 17 DE FEBRERO DE 1984)"
+    }
+  ]
+}

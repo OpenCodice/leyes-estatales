@@ -1,0 +1,36 @@
+{
+  "clave": "040",
+  "etiqueta": "Artículo 40",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "040.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "040.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 2",
+      "texto": "Jamás podrán reunirse dos o más de estos Poderes en un solo individuo o corporación, ni el Legislativo depositar la suma de su poder en una sola persona."
+    },
+    {
+      "id": "040.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "021",
+  "etiqueta": "Artículo 21",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "021.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "021.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 2",
+      "texto": "Son guanajuatenses por nacimiento los nacidos dentro del territorio del Estado, y lo son por vecindad los mexicanos que residan en su territorio durante un período no menor de dos años."
+    },
+    {
+      "id": "021.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 3",
+      "texto": "La vecindad no se pierde por ausencia en el desempeño de un cargo público de elección popular, o de comisión pública encomendada por el Estado de Guanajuato."
+    },
+    {
+      "id": "021.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 4",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    }
+  ]
+}

@@ -1,0 +1,279 @@
+{
+  "clave": "077",
+  "etiqueta": "Artículo 77",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "077.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "077.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 2",
+      "texto": "Las facultades y obligaciones del Gobernador del Estado, son:"
+    },
+    {
+      "id": "077.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción I",
+      "texto": "I. Guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la Particular del Estado y las Leyes que de ellas emanen;"
+    },
+    {
+      "id": "077.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción II",
+      "texto": "II. Promulgar, publicar, cumplir y hacer cumplir las Leyes y Decretos del Estado;"
+    },
+    {
+      "id": "077.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción III",
+      "texto": "III. Proveer en la esfera administrativa a la exacta observancia de las Leyes, expidiendo los Reglamentos conducentes;"
+    },
+    {
+      "id": "077.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción IV",
+      "texto": "IV. Procurar la conservación del orden, y vigilar la tranquilidad y la seguridad del Estado;"
+    },
+    {
+      "id": "077.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción V",
+      "texto": "V. Rendir, ante el Congreso del Estado, el Informe a que se refiere el Artículo 78 de este Ordenamiento;\n\n(PRIMER PÁRRAFO REFORMADO, P.O. 22 DE DICIEMBRE DE 2015)"
+    },
+    {
+      "id": "077.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción VI",
+      "texto": "VI. Presentar al Congreso del Estado las iniciativas de Ley del Presupuesto General de Egresos del Estado y de Ley de Ingresos del Estado, así como la información financiera y cuenta pública con la periodicidad, forma y términos que establezca la Ley.\n\n(ADICIONADO, P.O. 8 DE AGOSTO DE 2008)\n\nLa iniciativa de Ley del Presupuesto General de Egresos del Estado deberá contener las erogaciones plurianuales para aquellos proyectos de inversión pública que se determinen conforme a lo dispuesto en la Ley.\n\n(ADICIONADO, P.O. 5 DE MARZO DE 2010)\n\nLa iniciativa de Ley del Presupuesto General de Egresos del Estado deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos;"
+    },
+    {
+      "id": "077.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción VII",
+      "texto": "VII. Vigilar que la recaudación y distribución de los Fondos Públicos se sujeten en todo a la Ley;"
+    },
+    {
+      "id": "077.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción VIII",
+      "texto": "VIII. Solicitar a la Diputación Permanente convoque al Congreso a Período Extraordinario de Sesiones, señalando los asuntos que deberán ser tratados en él;\n\n(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)"
+    },
+    {
+      "id": "077.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción IX",
+      "texto": "IX. Concurrir a la apertura del período ordinario de sesiones del Congreso que se inicie el día veinticinco de septiembre;"
+    },
+    {
+      "id": "077.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción X",
+      "texto": "X. Acordar discrecionalmente que los Funcionarios del Poder Ejecutivo comparezcan ante el Congreso en los casos en que éste así lo solicite, cuando se discuta o estudie un negocio relativo a sus funciones;"
+    },
+    {
+      "id": "077.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XI",
+      "texto": "XI. Nombrar y remover libremente a todos los Funcionarios y empleados del Poder Ejecutivo, cuyo nombramiento o remoción no esté determinado de otro modo en esta Constitución o en las Leyes.\n\n(REFORMADO, P.O. 14 DE JULIO DE 2017)\n\nIntervenir en la designación del Fiscal General del Estado y removerlo, en términos de lo dispuesto en el artículo 95, de esta Constitución;\n\n(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2016)\n\nNombrar al titular de la Secretaría del Poder Ejecutivo con atribuciones de Control Interno, con la ratificación de las dos terceras partes del Congreso del Estado.\n\n(REFORMADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "077.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XII",
+      "texto": "XII. Proponer, en los términos de la presente Constitución, a las personas que habrán de participar en la elección para las Magistraturas del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial del Estado, así como de personas juzgadoras del Poder Judicial.\n\nRealizar la propuesta de la persona integrante del Órgano de Administración Judicial correspondiente al Poder Ejecutivo, en los términos que establece esta Constitución.\n\n(REFORMADA, P.O. 26 DE FEBRERO DE 2010)"
+    },
+    {
+      "id": "077.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XIII",
+      "texto": "XIII. Emitir órdenes a la policía preventiva municipal, en los términos que prevé la fracción XVI del artículo 117 de esta Constitución;"
+    },
+    {
+      "id": "077.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XIV",
+      "texto": "XIV. DEROGADA, P.O. 10 DE AGOSTO DE 2023;"
+    },
+    {
+      "id": "077.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XV",
+      "texto": "XV. Auxiliar al Poder Judicial en la ejecución de sus resoluciones;"
+    },
+    {
+      "id": "077.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XVI",
+      "texto": "XVI. Conceder, conforme a las Leyes, indulto a los reos sentenciados por delitos del orden común;"
+    },
+    {
+      "id": "077.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XVII",
+      "texto": "XVII. Ejercer actos de dominio sobre los bienes inmuebles de dominio privado pertenecientes al Estado, previa autorización del Congreso o de la Diputación Permanente, en su caso, rindiéndole informe del uso que se hiciere de dicha autorización;\n\n(REFORMADA, P.O. 24 DE DICIEMBRE DE 1996)"
+    },
+    {
+      "id": "077.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XVIII",
+      "texto": "XVIII. Representar al Estado y delegar esta representación en los términos que establezca la Ley;"
+    },
+    {
+      "id": "077.XIX",
+      "tipo": "fraccion",
+      "marca": "XIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XIX",
+      "texto": "XIX. Rendir informes al Congreso del Estado sobre cualquier Ramo de la Administración Pública, y solicitar informes al Supremo Tribunal de Justicia sobre la administración de la Justicia;"
+    },
+    {
+      "id": "077.XX",
+      "tipo": "fraccion",
+      "marca": "XX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XX",
+      "texto": "XX. Expedir, por sí o por acuerdo, los Títulos Profesionales que previene la Ley de la materia;"
+    },
+    {
+      "id": "077.XXI",
+      "tipo": "fraccion",
+      "marca": "XXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXI",
+      "texto": "XXI. Crear, por Decreto Gubernativo, Organismos Descentralizados y constituir Empresas de Participación Estatal, Comisiones, Patronatos y Comités y asignarles las funciones que estime convenientes; y,\n\n(REFORMADA, P.O. 20 DE MARZO DE 2001)"
+    },
+    {
+      "id": "077.XXII",
+      "tipo": "fraccion",
+      "marca": "XXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXII",
+      "texto": "XXII. Convenir en los términos de Ley:"
+    },
+    {
+      "id": "077.XXII.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "XXII",
+      "ruta": "Artículo 77 › Fracción XXII › inciso a)",
+      "texto": "a) Con la Federación, para que el Estado asuma el ejercicio de sus funciones, la ejecución y operación de obras y la prestación de servicios públicos cuando el desarrollo económico y social lo hagan necesario. Para tal efecto, podrá convenir con los Municipios, para que éstos realicen la prestación de servicios o la atención de las funciones a las que se refiere este párrafo; y,"
+    },
+    {
+      "id": "077.XXII.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "XXII",
+      "ruta": "Artículo 77 › Fracción XXII › inciso b)",
+      "texto": "b) Con los Municipios, a fin de que éstos lleven a cabo la prestación de servicios o el ejercicio de funciones que le corresponden al Estado, o bien, para que éste efectúe el ejercicio de una función o la prestación de un servicio público, competencia del Municipio.\n\nAsimismo, asumirá el ejercicio de una función o la prestación de un servicio público municipal, de acuerdo al procedimiento y condiciones que señale la Ley, cuando a falta de convenio, el Congreso del Estado declare la imposibilidad del Municipio para ejercerla o prestarlo; y\n\n(REFORMADA, P.O. 26 DE FEBRERO DE 2010)"
+    },
+    {
+      "id": "077.XXIII",
+      "tipo": "fraccion",
+      "marca": "XXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXIII",
+      "texto": "XXIII. Dar cumplimiento a las resoluciones derivadas de un proceso de plebiscito;\n\n(ADICIONADA, P.O. 26 DE FEBRERO DE 2010)"
+    },
+    {
+      "id": "077.XXIV",
+      "tipo": "fraccion",
+      "marca": "XXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXIV",
+      "texto": "XXIV. Instrumentar, en los términos de ley, sistemas complementarios de seguridad social del personal del Ministerio Público, de las corporaciones policiales y de los servicios periciales, de sus familias y dependientes; y"
+    },
+    {
+      "id": "077.XXV",
+      "tipo": "fraccion",
+      "marca": "XXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXV",
+      "texto": "XXV. DEROGADA, P.O. 15 DE AGOSTO DE 2025; y\n\n(REFORMADA [N. DE E. ADICIONADA], P.O. 6 DE DICIEMBRE DE 2013) N. DE E. EL CONTENIDO DE ESTA FRACCIÓN EXISTÍA DESDE EL\n\nTEXTO ANTERIOR EN LA FRACCIÓN XXV, PERO DEL ANÁLISIS DEL DECRETO NÚMERO 100 PUBLICADO EL 6 DE DICIEMBRE DE 2013, SE ADVIERTE QUE SE RECORRIÓ EN SU NUMERACIÓN PARA SER XXVI."
+    },
+    {
+      "id": "077.XXVI",
+      "tipo": "fraccion",
+      "marca": "XXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXVI",
+      "texto": "XXVI. Las demás que le concedan esta Constitución y las leyes.\n\n(ADICIONADO, P.O. 19 DE ABRIL DE 2002)\n\nLos actos o decisiones del Gobernador del Estado, que se consideren trascendentales para el orden público o el interés social de la Entidad, con excepción de los que se refieran al nombramiento o destitución de los titulares de secretarías o dependencias del Ejecutivo o los realizados por causa de utilidad pública, podrán ser sometidos a plebiscito, a solicitud del Titular del Poder Ejecutivo o los ciudadanos. La Ley de la materia establecerá los requisitos y procedimiento para su ejecución, así como para que el resultado sea vinculatorio para el Titular del Poder Ejecutivo.\n\n(ADICIONADO, P.O. 19 DE ABRIL DE 2002)\n\nDentro de los dos años contados a partir de la publicación del decreto o acuerdo abrogatorio o derogatorio, resultado del plebiscito, no podrá expedirse decreto o acuerdo en el mismo sentido del abrogado o derogado.\n\n(ADICIONADO, P.O. 19 DE ABRIL DE 2002)\n\nSalvo en el caso de que el plebiscito sea solicitado por el titular del Poder Ejecutivo, el procedimiento no suspenderá los efectos del acto o decisión correspondiente. Si el resultado del plebiscito es en el sentido de desaprobar dicho acto o decisión, el titular del Poder Ejecutivo emitirá el decreto o acuerdo revocatorio que proceda en un plazo no mayor de quince días."
+    }
+  ]
+}

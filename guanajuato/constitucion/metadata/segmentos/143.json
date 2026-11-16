@@ -1,0 +1,36 @@
+{
+  "clave": "143",
+  "etiqueta": "Artículo 143",
+  "titulo": "TITULO DECIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "143.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 143 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 141], P.O. 6 DE SEPTIEMBRE DE 2016)"
+    },
+    {
+      "id": "143.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 143 › párrafo 2",
+      "texto": "Los actos ejecutados contra el tenor de las leyes prohibitivas o de interés público serán nulos si las mismas Leyes no disponen otra cosa."
+    },
+    {
+      "id": "143.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 143 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    }
+  ]
+}

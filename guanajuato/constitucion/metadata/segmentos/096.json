@@ -1,0 +1,45 @@
+{
+  "clave": "096",
+  "etiqueta": "Artículo 96",
+  "titulo": "TITULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "096.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "096.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96 › párrafo 2",
+      "texto": "Los bienes que integran el patrimonio del Estado, son:"
+    },
+    {
+      "id": "096.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96 › Fracción I",
+      "texto": "I. De dominio público; y,"
+    },
+    {
+      "id": "096.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 96 › Fracción II",
+      "texto": "II. De dominio privado."
+    }
+  ]
+}

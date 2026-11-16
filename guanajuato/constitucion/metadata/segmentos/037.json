@@ -1,0 +1,27 @@
+{
+  "clave": "037",
+  "etiqueta": "Artículo 37",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "037.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "037.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › párrafo 2",
+      "texto": "El Poder Legislativo se deposita en una Asamblea denominada Congreso del Estado Libre y Soberano de Guanajuato."
+    }
+  ]
+}

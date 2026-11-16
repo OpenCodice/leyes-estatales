@@ -1,0 +1,27 @@
+{
+  "clave": "141",
+  "etiqueta": "Artículo 141",
+  "titulo": "TITULO DECIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "141.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 139], P.O. 6 DE SEPTIEMBRE DE 2016)"
+    },
+    {
+      "id": "141.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 141 › párrafo 2",
+      "texto": "Los bienes muebles e inmuebles sitos en el Estado, se regirán por las Leyes locales."
+    }
+  ]
+}

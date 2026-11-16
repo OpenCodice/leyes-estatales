@@ -1,0 +1,36 @@
+{
+  "clave": "107",
+  "etiqueta": "Artículo 107",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "107.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 107 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE MARZO DE 2001)"
+    },
+    {
+      "id": "107.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 107 › párrafo 2",
+      "texto": "Los Municipios serán gobernados por un Ayuntamiento. La competencia de los Ayuntamientos se ejercerá en forma exclusiva y no habrá ninguna autoridad intermedia entre los Ayuntamientos y el Gobierno del Estado."
+    },
+    {
+      "id": "107.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 107 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    }
+  ]
+}

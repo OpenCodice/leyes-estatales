@@ -1,0 +1,54 @@
+{
+  "clave": "068",
+  "etiqueta": "Artículo 68",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "068.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "068.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 2",
+      "texto": "Para ser Gobernador del Estado se requiere:"
+    },
+    {
+      "id": "068.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › Fracción I",
+      "texto": "I. Ser ciudadano mexicano por nacimiento, originario del Estado o con residencia efectiva no menor de cinco años inmediatamente anteriores al día de la elección;\n\n(REFORMADA, P.O. 19 DE ABRIL DE 2002)"
+    },
+    {
+      "id": "068.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › Fracción II",
+      "texto": "II. Estar en ejercicio de sus derechos; y\n\n(REFORMADA, P.O. 7 DE OCTUBRE DE 2011)"
+    },
+    {
+      "id": "068.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › Fracción III",
+      "texto": "III. Tener por lo menos treinta años cumplidos al día de la elección."
+    }
+  ]
+}

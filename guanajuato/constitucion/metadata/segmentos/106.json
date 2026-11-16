@@ -1,0 +1,27 @@
+{
+  "clave": "106",
+  "etiqueta": "Artículo 106",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "106.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 106 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "106.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 106 › párrafo 2",
+      "texto": "El Municipio Libre, base de la división territorial del Estado y de su organización política y administrativa, es una Institución de carácter público, constituida por una comunidad de personas, establecida en un territorio delimitado, con personalidad jurídica y patrimonio propio, autónomo en su Gobierno Interior y libre en la administración de su Hacienda."
+    }
+  ]
+}

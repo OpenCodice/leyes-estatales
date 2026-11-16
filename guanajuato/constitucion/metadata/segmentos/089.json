@@ -1,0 +1,315 @@
+{
+  "clave": "089",
+  "etiqueta": "Artículo 89",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "089.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "089.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › párrafo 2",
+      "texto": "Las facultades y obligaciones del Órgano de Administración Judicial son:"
+    },
+    {
+      "id": "089.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción I",
+      "texto": "I. Contribuir a la defensa de la independencia y autonomía del Poder Judicial;"
+    },
+    {
+      "id": "089.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción II",
+      "texto": "II. Expedir y difundir los acuerdos generales para el adecuado ejercicio de sus funciones;"
+    },
+    {
+      "id": "089.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción III",
+      "texto": "III. Administrar la carrera judicial;\n\n(REFORMADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "089.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción IV",
+      "texto": "IV. Hacer del conocimiento del Congreso del Estado los cargos de persona magistrada, así como de personas juzgadoras sujetos a elección, la especialización por materia, el Partido Judicial respectivo y demás información que se requiera;"
+    },
+    {
+      "id": "089.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción V",
+      "texto": "V. Dictar las medidas que sean procedentes para que la impartición de justicia sea pronta, completa e imparcial en términos de Ley;\n\n(REFORMADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "089.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción VI",
+      "texto": "VI. Determinar el ingreso, permanencia y separación del personal de carrera judicial y administrativo, así como su formación, promoción y evaluación de desempeño;"
+    },
+    {
+      "id": "089.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción VII",
+      "texto": "VII. Establecer la competencia por materia de las salas, previa opinión del Pleno del Supremo Tribunal de Justicia;"
+    },
+    {
+      "id": "089.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción VIII",
+      "texto": "VIII. Aumentar o disminuir el número de salas previa opinión del Pleno del Supremo Tribunal de Justicia;\n\n(REFORMADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "089.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción IX",
+      "texto": "IX. Aumentar o disminuir el número de juzgados, su competencia territorial y especialización por materias, determinar su organización y funcionamiento y crear o suprimir plazas de personas servidoras públicas del Poder Judicial;\n\n(REFORMADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "089.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción X",
+      "texto": "X. Determinar la adscripción y cambio de adscripción del personal de los juzgados, así como dar curso a las renuncias que se presenten;"
+    },
+    {
+      "id": "089.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción XI",
+      "texto": "XI. DEROGADA, P.O. 15 DE AGOSTO DE 2025;"
+    },
+    {
+      "id": "089.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción XII",
+      "texto": "XII. Otorgar estímulos y recompensas a los servidores públicos judiciales que se hayan destacado en el desempeño de su cargo;"
+    },
+    {
+      "id": "089.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción XIII",
+      "texto": "XIII. Conceder licencias a los jueces, secretarios y demás empleados hasta por seis meses;"
+    },
+    {
+      "id": "089.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción XIV",
+      "texto": "XIV. Adoptar las providencias necesarias para el eficiente manejo administrativo del Poder Judicial;"
+    },
+    {
+      "id": "089.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción XV",
+      "texto": "XV. Expedir su reglamento interno remitiéndolo al periódico oficial del Gobierno del Estado para su publicación;"
+    },
+    {
+      "id": "089.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción XVI",
+      "texto": "XVI. Expedir los manuales de organización y procedimientos de los juzgados;\n\n(REFORMADA, P.O. 5 DE MARZO DE 2010)"
+    },
+    {
+      "id": "089.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción XVII",
+      "texto": "XVII. Formular el anteproyecto del presupuesto de egresos y someterlo a la aprobación del Pleno del Supremo Tribunal de Justicia, asimismo deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos;"
+    },
+    {
+      "id": "089.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción XVIII",
+      "texto": "XVIII. Ejercer el presupuesto de egresos y el fondo auxiliar para la impartición de justicia, con transparencia, eficacia, honradez y con estricto apego a las políticas de disciplina, racionalidad y austeridad;"
+    },
+    {
+      "id": "089.XIX",
+      "tipo": "fraccion",
+      "marca": "XIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción XIX",
+      "texto": "XIX. Informar trimestralmente al Pleno del Supremo Tribunal de Justicia sobre el ejercicio del presupuesto de egresos y del fondo auxiliar para la impartición de justicia;\n\n(REFORMADA, P.O. 15 DE AGOSTO DE 2025);"
+    },
+    {
+      "id": "089.XX",
+      "tipo": "fraccion",
+      "marca": "XX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción XX",
+      "texto": "XX. Inspeccionar, fiscalizar y vigilar el cumplimiento de las normas de funcionamiento administrativo del Poder Judicial;\n\n(REFORMADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "089.XXI",
+      "tipo": "fraccion",
+      "marca": "XXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción XXI",
+      "texto": "XXI. Designar a la persona que integrará la Comisión de Evaluación, prevista en el último párrafo del artículo 82;\n\n(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)"
+    },
+    {
+      "id": "089.XXII",
+      "tipo": "fraccion",
+      "marca": "XXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción XXII",
+      "texto": "XXII. Establecer, con arreglo a la Ley, los criterios, lineamientos y procedimientos para el desempeño y la evaluación de los servidores públicos del Poder Judicial;\n\n(REFORMADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "089.XXIII",
+      "tipo": "fraccion",
+      "marca": "XXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción XXIII",
+      "texto": "XXIII. Realizar el seguimiento constante y permanente de la actuación de las personas servidoras judiciales que no sean personas juzgadoras, así como expedir el dictamen de evaluación correspondiente en términos de Ley;\n\n(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)"
+    },
+    {
+      "id": "089.XXIV",
+      "tipo": "fraccion",
+      "marca": "XXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción XXIV",
+      "texto": "XXIV. Ordenar la práctica de auditorías de desempeño, calidad, administrativas y financieras en los Juzgados del Poder Judicial; así como en los órganos administrativos del Poder Judicial. Las Salas serán evaluadas por la Comisión de Evaluación en los términos de esta Constitución;"
+    },
+    {
+      "id": "089.XXV",
+      "tipo": "fraccion",
+      "marca": "XXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción XXV",
+      "texto": "XXV. DEROGADA, P.O. 15 DE AGOSTO DE 2025;"
+    },
+    {
+      "id": "089.XXVI",
+      "tipo": "fraccion",
+      "marca": "XXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción XXVI",
+      "texto": "XXVI. DEROGADA, P.O. 15 DE AGOSTO DE 2025;"
+    },
+    {
+      "id": "089.XXVII",
+      "tipo": "fraccion",
+      "marca": "XXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción XXVII",
+      "texto": "XXVII. DEROGADA, P.O. 15 DE AGOSTO DE 2025;"
+    },
+    {
+      "id": "089.XXVIII",
+      "tipo": "fraccion",
+      "marca": "XXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción XXVIII",
+      "texto": "XXVIII. DEROGADA, P.O. 15 DE AGOSTO DE 2025;"
+    },
+    {
+      "id": "089.XXIX",
+      "tipo": "fraccion",
+      "marca": "XXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción XXIX",
+      "texto": "XXIX. DEROGADA, P.O. 15 DE AGOSTO DE 2025;\n\n(REFORMADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "089.XXX",
+      "tipo": "fraccion",
+      "marca": "XXX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción XXX",
+      "texto": "XXX. Nombrar y remover a la persona titular del Órgano encargada de la Mediación y la Conciliación y a la persona titular de la Dirección de Administración;\n\n(REFORMADA, P.O. 22 DE DICIEMBRE DE 2015)"
+    },
+    {
+      "id": "089.XXXI",
+      "tipo": "fraccion",
+      "marca": "XXXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción XXXI",
+      "texto": "XXXI. Presentar al Congreso del Estado, la información financiera y la cuenta pública del Poder Judicial, con la periodicidad, forma y términos que establezcan las disposiciones aplicables y la Ley; y\n\n(ADICIONADA, P.O. 7 DE NOVIEMBRE DE 2006)"
+    },
+    {
+      "id": "089.XXXII",
+      "tipo": "fraccion",
+      "marca": "XXXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 89 › Fracción XXXII",
+      "texto": "XXXII. Las demás que le señalen las leyes."
+    }
+  ]
+}

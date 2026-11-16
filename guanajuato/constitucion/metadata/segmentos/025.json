@@ -1,0 +1,99 @@
+{
+  "clave": "025",
+  "etiqueta": "Artículo 25",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "025.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "025.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 2",
+      "texto": "Las prerrogativas del ciudadano guanajuatense se suspenden:"
+    },
+    {
+      "id": "025.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción I",
+      "texto": "I. Por incumplimiento de las obligaciones a que se refiere el artículo anterior. En este caso la suspensión durará un año y se impondrá independientemente de las demás sanciones a que se haga acreedor;\n\n(REFORMADA, P.O. 27 DE JUNIO DE 2014)"
+    },
+    {
+      "id": "025.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción II",
+      "texto": "II. Por estar sujeto a un proceso penal que merezca pena corporal, siempre y cuando se encuentre materialmente privado de su libertad;\n\n(REFORMADA, P.O. 26 DE FEBRERO DE 2010)"
+    },
+    {
+      "id": "025.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción III",
+      "texto": "III. Durante la extinción de una pena privativa de libertad;"
+    },
+    {
+      "id": "025.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción IV",
+      "texto": "IV. Por vagancia, malvivencia, ebriedad consuetudinaria o drogadicción declarada en términos de Ley;\n\n(REFORMADA, P.O. 21 DE AGOSTO DE 2023)"
+    },
+    {
+      "id": "025.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción V",
+      "texto": "V. Por estar prófugo de la justicia, desde que se dicte orden de aprehensión hasta la prescripción de la acción penal o de la sanción en su caso;\n\n(REFORMADA, P.O. 21 DE AGOSTO DE 2023)"
+    },
+    {
+      "id": "025.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción VI",
+      "texto": "VI. Por sentencia ejecutoria que decrete la pena de suspensión de derechos, en los términos que disponga la Ley;\n\n(ADICIONADA, P.O. 21 DE AGOSTO DE 2023)"
+    },
+    {
+      "id": "025.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción VII",
+      "texto": "VII. Por tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos; y\n\n(ADICIONADA, P.O. 21 DE AGOSTO DE 2023)"
+    },
+    {
+      "id": "025.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción VIII",
+      "texto": "VIII. Por estar declarada como persona deudora alimentaria morosa.\n\n(PÁRRAFO ADICIONADO, P.O. 21 DE AGOSTO DE 2023)\n\nEn los supuestos de las fracciones VII y VIII, la persona no podrá ser registrada como candidata para cualquier cargo de elección popular, ni ser nombrada para empleo, cargo o comisión en el servicio público."
+    }
+  ]
+}

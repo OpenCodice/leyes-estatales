@@ -1,0 +1,90 @@
+{
+  "clave": "085",
+  "etiqueta": "Artículo 85",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "085.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › párrafo 1",
+      "texto": "(PRIMER PÁRRAFO REFORMADO, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "085.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › párrafo 2",
+      "texto": "Para ser persona Magistrada del Supremo Tribunal de Justicia se requiere:"
+    },
+    {
+      "id": "085.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › Fracción I",
+      "texto": "I. Tener ciudadanía mexicana y guanajuatense en pleno ejercicio de sus derechos civiles y políticos;"
+    },
+    {
+      "id": "085.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › Fracción II",
+      "texto": "II. DEROGADA, P.O. 15 DE AGOSTO DE 2025;\n\n(REFORMADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "085.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › Fracción III",
+      "texto": "III. Contar el día de la publicación de la convocatoria señalada en la fracción I del artículo 86 bis de esta Constitución con título de licenciatura en derecho expedido legalmente y haber obtenido un promedio general de calificación de cuando menos ocho puntos o su equivalente y de nueve puntos o equivalente en las materias relacionadas con el cargo al que se postula en la licenciatura, especialidad, maestría o doctorado; deberá contar además con práctica profesional de al menos cinco años en un área jurídica afín a su candidatura;\n\n(REFORMADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "085.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › Fracción IV",
+      "texto": "IV. Contar con los conocimientos técnicos necesarios para el desempeño del cargo;\n\n(REFORMADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "085.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › Fracción V",
+      "texto": "V. Gozar de buena reputación y no haber sido condenada por delito doloso con sanción privativa de la libertad;\n\n(REFORMADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "085.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › Fracción VI",
+      "texto": "VI. Haber residido en el estado durante los últimos cinco años anteriores al día de la publicación de la convocatoria señalada en la fracción I del artículo 86 bis de esta Constitución; y\n\n(ADICIONADA, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "085.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 85 › Fracción VII",
+      "texto": "VII. No haber sido persona titular de una Secretaría de Estado federal o local o encargado de despacho, Fiscal General de la República o del Estado, senadora o senador, diputada o diputado federal o local, ni persona titular del poder ejecutivo de alguna entidad federativa, durante el año previo al día de la publicación de la convocatoria señalada en la fracción I del artículo 86 bis esta Constitución."
+    }
+  ]
+}

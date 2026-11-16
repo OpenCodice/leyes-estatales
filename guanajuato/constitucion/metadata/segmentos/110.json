@@ -1,0 +1,63 @@
+{
+  "clave": "110",
+  "etiqueta": "Artículo 110",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "110.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "110.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › párrafo 2",
+      "texto": "Para ser Presidente Municipal, Síndico o Regidor, se requiere:"
+    },
+    {
+      "id": "110.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › párrafo 3",
+      "texto": "(REFORMADA, P.O. 19 DE ABRIL DE 2002)"
+    },
+    {
+      "id": "110.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › Fracción I",
+      "texto": "I. Ser ciudadano guanajuatense en ejercicio de sus derechos;"
+    },
+    {
+      "id": "110.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › Fracción II",
+      "texto": "II. DEROGADA, P.O. 02 DE JUNIO DE 2023.\n\n(REFORMADA, P.O. 25 DE DICIEMBRE DE 1990)"
+    },
+    {
+      "id": "110.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › Fracción III",
+      "texto": "III. Tener cuando menos dos años de residir en el municipio en donde deba desempeñar el cargo, al tiempo de la elección.\n\n(ADICIONADO, P.O. 7 DE OCTUBRE DE 2011)\n\nLos guanajuatenses que migren al extranjero tendrán derecho a que se les reconozca la residencia binacional, cuando así lo acrediten en los términos de la ley de la materia, pero en todo caso, para poder ser electos, deberán incorporarse al municipio por lo menos ciento ochenta días previos al de la elección."
+    }
+  ]
+}
