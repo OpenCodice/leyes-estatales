@@ -1,0 +1,18 @@
+{
+  "clave": "012",
+  "etiqueta": "Artículo 12",
+  "titulo": "Título Segundo",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "012.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › párrafo 1",
+      "texto": "Son queretanos los nacidos y los avecindados en el territorio del Estado."
+    }
+  ]
+}

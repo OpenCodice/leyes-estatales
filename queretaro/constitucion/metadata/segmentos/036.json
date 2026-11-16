@@ -1,0 +1,45 @@
+{
+  "clave": "036",
+  "etiqueta": "Artículo 36",
+  "titulo": "Título Tercero",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "036.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › párrafo 1",
+      "texto": "Las faltas temporales y absolutas del Presidente Municipal, serán suplidas por el Regidor o Síndico propietarios que nombre el Ayuntamiento. (Ref. P. O. No. 34, 26-VI-14)"
+    },
+    {
+      "id": "036.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › párrafo 2",
+      "texto": "Los cargos de los integrantes del Ayuntamiento son renunciables por causa grave y justificada que calificará y resolverá el mismo Ayuntamiento. (Ref. P. O. No. 34, 26-VI-14)"
+    },
+    {
+      "id": "036.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › párrafo 3",
+      "texto": "Cuando el Ayuntamiento haya desaparecido o por falta absoluta de la mayoría de sus integrantes originada por cualquier causa, la Legislatura del Estado nombrará un Concejo Municipal que fungirá hasta terminar el periodo municipal o hasta que la Legislatura así lo determine, lo que suceda primero. (Ref. P. O. No. 64, 23-VIII-19)"
+    },
+    {
+      "id": "036.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 36 › párrafo 4",
+      "texto": "El Concejo Municipal deberá integrarse de forma paritaria, cumpliendo además con los requisitos que la Ley determine para el caso concreto. (Adición P. O. No. 64, 23-VIII-19)"
+    }
+  ]
+}

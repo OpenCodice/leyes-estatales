@@ -1,0 +1,27 @@
+{
+  "clave": "006",
+  "etiqueta": "Artículo 6",
+  "titulo": "Título Primero",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "006.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › párrafo 1",
+      "texto": "Toda persona tiene derecho a acceder de forma libre y universal a Internet y a las tecnologías de la información y la comunicación. (Ref. P. O. No. 35, 19-VII-13)"
+    },
+    {
+      "id": "006.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › párrafo 2",
+      "texto": "El Estado está obligado a implementar las políticas necesarias para hacer efectivo este derecho, en los términos establecidos por la Ley. (Ref. P. O. No. 35, 19-VII-13)"
+    }
+  ]
+}

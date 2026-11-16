@@ -1,0 +1,72 @@
+{
+  "clave": "018",
+  "etiqueta": "Artículo 18",
+  "titulo": "Título Segundo",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "018.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › párrafo 1",
+      "texto": "La iniciativa de leyes o decretos corresponde:"
+    },
+    {
+      "id": "018.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción I",
+      "texto": "I. Al Gobernador del Estado;"
+    },
+    {
+      "id": "018.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción II",
+      "texto": "II. A los Diputados;"
+    },
+    {
+      "id": "018.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción III",
+      "texto": "III. Al Tribunal Superior de Justicia;"
+    },
+    {
+      "id": "018.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción IV",
+      "texto": "IV. A los Ayuntamientos;"
+    },
+    {
+      "id": "018.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción V",
+      "texto": "V. A los organismos autónomos; y"
+    },
+    {
+      "id": "018.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción VI",
+      "texto": "VI. A los ciudadanos en los términos previstos en la Ley.\n\nLas iniciativas de Ley de Ingresos y de Presupuesto de Egresos del Estado sólo podrán ser presentadas por el Gobernador del Estado."
+    }
+  ]
+}
