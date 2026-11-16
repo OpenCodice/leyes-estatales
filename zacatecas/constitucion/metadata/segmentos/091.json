@@ -1,0 +1,54 @@
+{
+  "clave": "091",
+  "etiqueta": "Artículo 91",
+  "titulo": "TÍTULO IV",
+  "capitulo": "CAPÍTULO TERCERO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "091.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 1",
+      "texto": "La justicia se administra en nombre del Estado, en los plazos y términos que fijen esta Constitución y las leyes; los órganos jurisdiccionales emitirán sus resoluciones de manera pronta, completa e imparcial."
+    },
+    {
+      "id": "091.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 2",
+      "texto": "Párrafo reformado POG 14 de enero de 2025(Decreto 94)"
+    },
+    {
+      "id": "091.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 3",
+      "texto": "Su servicio será gratuito; en consecuencia, se prohíben las costas judiciales."
+    },
+    {
+      "id": "091.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 4",
+      "texto": "Párrafo adicionado POG 14 de enero de 2025(Decreto 94)"
+    },
+    {
+      "id": "091.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 5",
+      "texto": "Ningún juicio civil o penal tendrá más de dos instancias."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "055",
+  "etiqueta": "Artículo 55",
+  "titulo": "TÍTULO IV",
+  "capitulo": "CAPÍTULO PRIMERO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "055.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 55 › párrafo 1",
+      "texto": "Las diputadas y los diputados son inviolables por las opiniones que emitan en el desempeño de su cargo, no deberán ser reconvenidos por ellas, y tendrán las obligaciones y las responsabilidades que fijan el artículo 108 y relativos de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "055.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 55 › párrafo 2",
+      "texto": "Artículo reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    }
+  ]
+}

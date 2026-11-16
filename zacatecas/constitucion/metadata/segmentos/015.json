@@ -1,0 +1,90 @@
+{
+  "clave": "015",
+  "etiqueta": "Artículo 15",
+  "titulo": "TÍTULO I",
+  "capitulo": "CAPÍTULO SEXTO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "015.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › párrafo 1",
+      "texto": "Son obligaciones de la ciudadanía del Estado:"
+    },
+    {
+      "id": "015.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › párrafo 2",
+      "texto": "Párrafo reformado POG 23 de mayo de 2020 (Decreto 390)"
+    },
+    {
+      "id": "015.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción I",
+      "texto": "I. Inscribirse en el catastro de la municipalidad donde residan, manifestando la propiedad que tengan y la industria, profesión o trabajo de que subsistan;"
+    },
+    {
+      "id": "015.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción II",
+      "texto": "II. Inscribirse en los padrones electorales en los términos que señale la ley;"
+    },
+    {
+      "id": "015.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción III",
+      "texto": "III. Votar en las elecciones y consultas populares;\n\nFracción reformada POG 3 de octubre de 2012 (Decreto 422)"
+    },
+    {
+      "id": "015.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción IV",
+      "texto": "IV. Desempeñar las funciones censales, electorales y de jurado para las que fueren nombrados, las cuales se realizarán de forma gratuita salvo aquellas que se realicen profesionalmente;"
+    },
+    {
+      "id": "015.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción V",
+      "texto": "V. Desempeñar los cargos de elección popular del Estado o Municipio, los que en ningún caso serán gratuitos;"
+    },
+    {
+      "id": "015.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción VI",
+      "texto": "VI. Participar en los procesos de referéndum, de plebiscito, de iniciativa popular y de la revocación del mandato a que se convoque en los términos de esta Constitución y sus leyes reglamentarias; y"
+    },
+    {
+      "id": "015.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 15 › Fracción VII",
+      "texto": "VII. Los demás que deriven de la ley."
+    }
+  ]
+}

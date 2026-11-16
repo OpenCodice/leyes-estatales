@@ -1,0 +1,360 @@
+{
+  "clave": "082",
+  "etiqueta": "Artículo 82",
+  "titulo": "TÍTULO IV",
+  "capitulo": "CAPÍTULO SEGUNDO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "082.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › párrafo 1",
+      "texto": "Son facultades y obligaciones de la Gobernadora o del Gobernador del Estado."
+    },
+    {
+      "id": "082.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › párrafo 2",
+      "texto": "Párrafo reformado POG 28 de diciembre de 2002 (Decreto 156) Proemio reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "082.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción I",
+      "texto": "I. Cumplir y hacer cumplir la Constitución Política de los Estados Unidos Mexicanos, esta Constitución, y las leyes que de ellas emanen;"
+    },
+    {
+      "id": "082.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción II",
+      "texto": "II. Promulgar, publicar, cumplir y hacer cumplir las leyes y demás resoluciones de la Legislatura, y ordenar y reglamentar en lo administrativo lo necesario para su ejecución;"
+    },
+    {
+      "id": "082.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción III",
+      "texto": "III. Publicar, difundir y hacer cumplir las leyes federales;"
+    },
+    {
+      "id": "082.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción IV",
+      "texto": "IV. Proponer a la Legislatura, a más tardar el treinta de noviembre de cada año, las iniciativas de la Ley de Ingresos y el Presupuesto de Egresos e incluir en ellas la provisión de los recursos correspondientes al propio Legislativo y al Poder Judicial, de conformidad con los principios de equilibrio y separación de Poderes y mediante mecanismos que garanticen que, una vez aprobados, sean ejercidos con plena autonomía. En la iniciativa de Presupuesto de Egresos del Estado, deberán incluirse los tabuladores desglosados de las remuneraciones que se propone perciban las personas servidoras públicas, de conformidad con el artículo 160 de esta Constitución y demás disposiciones aplicables.\n\nFracción reformada POG 15 de febrero de 2006 (Decreto 241) y párrafo reformado 11 de diciembre de 2010 (Decreto 75) Párrafo reformado POG 16 de septiembre de 2026 (Decreto 370)\n\nSólo se podrá ampliar el plazo de presentación de la iniciativa de Ley de Ingresos y del Proyecto de Presupuesto de Egresos, cuando medie solicitud del Ejecutivo suficientemente justificada a juicio de la Legislatura, debiendo comparecer en todo caso la persona titular de la Secretaría del ramo correspondiente, a informar de las razones que lo motiven;\n\nPárrafo adicionado POG 17 de junio de 2009 (Decreto 305) Párrafo reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "082.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción V",
+      "texto": "V. Conceder dispensa de leyes relativas al estado civil de las personas, facultad que puede delegar en las Presidentas y Presidentes Municipales;\n\nFracción reformada POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "082.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción VI",
+      "texto": "VI. Elaborar y promulgar los reglamentos a las leyes y decretos expedidos por la Legislatura, cuando los propios ordenamientos lo determinen, o cuando sean necesarios para su debida ejecución y cumplimiento;"
+    },
+    {
+      "id": "082.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción VII",
+      "texto": "VII. Dictar las medidas que le correspondan, en el ámbito de su competencia, para que las elecciones constitucionales se celebren en las fechas previstas y en la forma establecida por las leyes respectivas;"
+    },
+    {
+      "id": "082.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción VIII",
+      "texto": "VIII. Otorgar y revocar las concesiones, permisos y autorizaciones que, de acuerdo con esta Constitución, las leyes y reglamentos, le competen;"
+    },
+    {
+      "id": "082.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción IX",
+      "texto": "IX. Intervenir, en los términos que esta Constitución establece, en los procesos de consulta popular que sean formalmente convocados, y cumplir con lo que determinen sus resultados en lo concerniente a asuntos de su competencia;\n\nFracción reformada POG 3 de octubre de 2012 (Decreto 422)"
+    },
+    {
+      "id": "082.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción X",
+      "texto": "X. Decretar expropiaciones por causa de utilidad pública en la forma que determine la ley, y aplicar las disposiciones de la Ley Reglamentaria de la Fracción XVII del Artículo 27 Constitucional;"
+    },
+    {
+      "id": "082.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XI",
+      "texto": "XI. Nombrar y remover libremente a las personas servidoras públicas de la Administración Pública estatal, en los términos de las leyes reglamentarias, con excepción del nombramiento de la persona titular del órgano interno de control del Poder Ejecutivo del Estado, cuya designación será aprobada por la Legislatura;\n\nFracción reformada POG 22 de marzo de 2017 (Decreto 128) Fracción reformada POG 16 de septiembre de 2026 (Decreto 370)\n\nEn el nombramiento de las personas servidoras públicas de la administración Pública estatal, se deberá observar el principio de paridad de género;\n\nPárrafo adicionado POG 24 de enero de 2026 (Decreto 187)"
+    },
+    {
+      "id": "082.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XII",
+      "texto": "XII. Designar a la persona Consejera del Pleno del Órgano de Administración Judicial del Estado, así como proponer candidaturas a Magistradas y Magistrados y Juezas y Jueces del Poder Judicial del Estado, conforme al procedimiento establecido en esta Constitución y las leyes;\n\nFracción reformada POG 28 de diciembre de 2002 (Decreto 156) Fracción reformada POG 14 de enero de 2025 (Decreto 94)\n\nXII-A. Designar a los integrantes del Comité de Evaluación al que se refiere el artículo 96 de esta Constitución;\n\nFracción adicionada POG 14 de enero de 2025 (Decreto 94)"
+    },
+    {
+      "id": "082.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XIII",
+      "texto": "XIII. Designar a los fedatarios públicos en los términos de la ley de la materia;"
+    },
+    {
+      "id": "082.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XIV",
+      "texto": "XIV. Recibir la protesta de ley que deban rendir las personas servidoras públicas que designe en ejercicio de sus facultades;\n\nFracción reformada POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "082.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XV",
+      "texto": "XV. Promover el desarrollo económico y social del Estado; iniciar e impulsar todas las obras que sean de beneficio colectivo;"
+    },
+    {
+      "id": "082.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XVI",
+      "texto": "XVI. Realizar visitas de trabajo a los Municipios del Estado, con el fin de evaluar su realidad política, económica y social e impulsar los programas de acciones que propicien su desarrollo integral;"
+    },
+    {
+      "id": "082.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XVII",
+      "texto": "XVII. Cuidar de la recaudación y administración de los ingresos del Estado, presentando anualmente a la Legislatura, a más tardar el 30 de abril, la cuenta pública estatal correspondiente al año anterior; asegurar el manejo honesto, limpio y transparente de los recursos públicos; informar a la población cada tres meses sobre la situación que guardan las finanzas del Estado;\n\nFracción reformada POG 4 de marzo de 2006 (Decreto 242); 17 de junio de 2009 (Decreto 305) y 22 de marzo de 2017 (Decreto 128)"
+    },
+    {
+      "id": "082.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XVIII",
+      "texto": "XVIII. Ordenar la inversión de los caudales públicos del Estado en los distintos ramos de la administración, de conformidad con lo prevenido por la ley;"
+    },
+    {
+      "id": "082.XIX",
+      "tipo": "fraccion",
+      "marca": "XIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XIX",
+      "texto": "XIX. Enajenar, con la autorización de la Legislatura, bienes inmuebles propiedad del Estado;\n\ncelebrar y ejecutar actos de dominio sobre bienes muebles propiedad del Estado;"
+    },
+    {
+      "id": "082.XX",
+      "tipo": "fraccion",
+      "marca": "XX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XX",
+      "texto": "XX. Cumplir con los planes y programas en materia de servicios públicos a cargo del Estado y procurar su máxima eficiencia;"
+    },
+    {
+      "id": "082.XXI",
+      "tipo": "fraccion",
+      "marca": "XXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XXI",
+      "texto": "XXI. Planear, programar y conducir las actividades y funciones de las dependencias y organismos que integran la Administración Pública estatal.\n\nConducir las acciones derivadas del sistema estatal de planeación, y ordenar a las dependencias y organismos dependientes del Estado el estricto cumplimiento de los programas y prioridades que se definan a través de los mecanismos establecidos por el propio sistema y por la consulta popular;"
+    },
+    {
+      "id": "082.XXII",
+      "tipo": "fraccion",
+      "marca": "XXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XXII",
+      "texto": "XXII. Planificar y ejecutar políticas de población, de manera concurrente con las autoridades federales y municipales, que propicien una distribución equilibrada de la población del Estado;"
+    },
+    {
+      "id": "082.XXIII",
+      "tipo": "fraccion",
+      "marca": "XXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XXIII",
+      "texto": "XXIII. Obtener de la Legislatura y del Tribunal Superior de Justicia información sobre los asuntos de sus respectivas competencias que estén ligados a las funciones a cargo del Ejecutivo, para adoptar las medidas que fortalezcan la colaboración de los tres Poderes, sin perjuicio del estricto respeto a la autonomía de cada uno de ellos;"
+    },
+    {
+      "id": "082.XXIV",
+      "tipo": "fraccion",
+      "marca": "XXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XXIV",
+      "texto": "XXIV. Informar ante la Legislatura, por sí o por medio del representante que designe al efecto, sobre los asuntos a discusión, cuando lo juzgue conveniente o cuando aquélla lo solicitare;"
+    },
+    {
+      "id": "082.XXV",
+      "tipo": "fraccion",
+      "marca": "XXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XXV",
+      "texto": "XXV. Coadyuvar para que las autoridades municipales den debido cumplimiento a disposiciones de carácter federal que así lo requieran;"
+    },
+    {
+      "id": "082.XXVI",
+      "tipo": "fraccion",
+      "marca": "XXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XXVI",
+      "texto": "XXVI. Por conducto de la Comisión Permanente, convocar a la Legislatura a periodo extraordinario de sesiones, para la atención de asuntos urgentes;"
+    },
+    {
+      "id": "082.XXVII",
+      "tipo": "fraccion",
+      "marca": "XXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XXVII",
+      "texto": "XXVII. Celebrar convenios con la Federación y los Municipios en materia de operación y ejecución de obra, de administración tributaria y de prestación de servicios, y la creación de organismos participantes. De ello dará cuenta a la Legislatura;"
+    },
+    {
+      "id": "082.XXVIII",
+      "tipo": "fraccion",
+      "marca": "XXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XXVIII",
+      "texto": "XXVIII. Celebrar convenios sobre límites con los Estados vecinos, sujetándolos a la aprobación de la Legislatura del Estado;"
+    },
+    {
+      "id": "082.XXIX",
+      "tipo": "fraccion",
+      "marca": "XXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XXIX",
+      "texto": "XXIX. Indultar, conmutar o reducir la pena a los reos sentenciados por los tribunales del Estado, con los requisitos establecidos por la ley;"
+    },
+    {
+      "id": "082.XXX",
+      "tipo": "fraccion",
+      "marca": "XXX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XXX",
+      "texto": "XXX. Hacer cumplir las resoluciones de los tribunales del Estado;"
+    },
+    {
+      "id": "082.XXXI",
+      "tipo": "fraccion",
+      "marca": "XXXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XXXI",
+      "texto": "XXXI. Tener el mando de la fuerza pública dependiente del Ejecutivo del Estado, y la del Municipio en que la Gobernadora o Gobernador resida habitual o transitoriamente.\n\nPárrafo reformado POG 16 de septiembre de 2026 (Decreto 370)\n\nAsumir temporalmente la dirección y el mando superior de las policías municipales en todo o en parte del territorio de la Entidad, cuando las circunstancias lo ameriten y los ordenamientos legales lo dispongan;"
+    },
+    {
+      "id": "082.XXXII",
+      "tipo": "fraccion",
+      "marca": "XXXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XXXII",
+      "texto": "XXXII. Proteger la seguridad de las personas, promover el respeto, protección y garantía de los derechos humanos y mantener la paz, la tranquilidad y el orden públicos en todo el Estado.\n\nOtorgar autorización para el funcionamiento de organismos auxiliares de seguridad, en los términos que establezca la ley de la materia;\n\nFracción reformada POG 3 de noviembre de 2012 (Decreto 419)"
+    },
+    {
+      "id": "082.XXXIII",
+      "tipo": "fraccion",
+      "marca": "XXXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XXXIII",
+      "texto": "XXXIII. En los casos de riesgo, siniestro o desastre graves, aplicar las medidas indispensables para hacer frente a estas contingencias, las que tendrán vigencia limitada, serán de carácter general y únicamente operarán en las zonas afectadas.\n\nEn estos casos, también podrá disponer de los recursos públicos que fueren necesarios, dando cuenta de inmediato a la Legislatura del Estado.\n\nIgualmente, podrá requerir la cooperación y colaboración de los habitantes del Estado;"
+    },
+    {
+      "id": "082.XXXIV",
+      "tipo": "fraccion",
+      "marca": "XXXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XXXIV",
+      "texto": "XXXIV. Expedir los títulos profesionales de las personas que hayan hecho sus estudios en los establecimientos de educación superior del Estado, previa la comprobación de los requisitos reglamentarios y legales correspondientes, a excepción de los que deban expedir las instituciones autónomas; y"
+    },
+    {
+      "id": "082.XXXIV~2",
+      "tipo": "fraccion",
+      "marca": "XXXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XXXIV",
+      "texto": "XXXIV. A. Solicitar se convoque a consultas populares; y\n\nFracción adicionada POG 15 de marzo de 2000 (Decreto 147) y reformada POG 3 de octubre de 2012 (Decreto 422)"
+    },
+    {
+      "id": "082.XXXIV~3",
+      "tipo": "fraccion",
+      "marca": "XXXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XXXIV",
+      "texto": "XXXIV. B. Se deroga.\n\nFracción adicionada POG 31 de mayo de 2016 (Decreto 598) Fracción Reformada POG 05 de septiembre de 2020 (Decreto 393) Fracción derogada 07 de junio de 2025 (Decreto 124)"
+    },
+    {
+      "id": "082.XXXV",
+      "tipo": "fraccion",
+      "marca": "XXXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › Fracción XXXV",
+      "texto": "XXXV. Las demás que expresamente le señale la presente Constitución."
+    }
+  ]
+}

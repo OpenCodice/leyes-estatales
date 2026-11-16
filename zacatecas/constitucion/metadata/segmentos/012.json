@@ -1,0 +1,81 @@
+{
+  "clave": "012",
+  "etiqueta": "Artículo 12",
+  "titulo": "TÍTULO I",
+  "capitulo": "CAPÍTULO QUINTO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "012.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › párrafo 1",
+      "texto": "Son zacatecanas y zacatecanos:"
+    },
+    {
+      "id": "012.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › párrafo 2",
+      "texto": "Proemio reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "012.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción I",
+      "texto": "I. Las personas nacidas dentro del territorio del Estado; y\n\nFracción reformada POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "012.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción II",
+      "texto": "II. Las personas mexicanas nacidas fuera del territorio del Estado, siempre que sean hijas o hijos de padres zacatecanos, o de padre zacatecano o madre zacatecana.\n\nFracción reformada POG 16 de septiembre de 2026 (Decreto 370)\n\nLas personas que reúnan cualquiera de los requisitos previstos en las dos fracciones anteriores, para gozar de todos los derechos y prerrogativas establecidos a favor de los zacatecanos por la presente Constitución, deberán residir en el territorio del Estado.\n\nPárrafo reformado POG 1 de octubre de 2003 (Decreto 305)\n\nPara el ejercicio de los derechos y prerrogativas en materia electoral, se entenderá que las personas zacatecanas tienen residencia binacional y simultánea en el extranjero y en territorio del Estado, cuando sin perjuicio de que tengan residencia en otro país, acrediten que por lo menos seis meses antes del día de la elección, poseen:\n\nPárrafo adicionado POG 1 de octubre de 2003 (Decreto 305) Párrafo reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "012.II.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 12 › Fracción II › inciso a)",
+      "texto": "a) Domicilio propio, no convencional, en territorio del Estado;\n\nInciso adicionado POG 1 de octubre de 2003 (Decreto 305)"
+    },
+    {
+      "id": "012.II.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 12 › Fracción II › inciso b)",
+      "texto": "b) …\n\nInciso adicionado POG 1 de octubre de 2003 (Decreto 305) y derogado 19 de abril de 2008 (Decreto 92)"
+    },
+    {
+      "id": "012.II.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 12 › Fracción II › inciso c)",
+      "texto": "c) Clave Única de Registro de Población; y\n\nInciso adicionado POG 1 de octubre de 2003 (Decreto 305)"
+    },
+    {
+      "id": "012.II.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "II",
+      "ruta": "Artículo 12 › Fracción II › inciso d)",
+      "texto": "d) Credencial para Votar con Fotografía.\n\nInciso adicionado POG 1 de octubre de 2003 (Decreto 305)\n\nLas personas zacatecanas serán preferidas frente a quienes no lo sean, para toda clase de concesiones que deban otorgar los gobiernos del Estado o de sus Municipios, y en la asignación de empleos, cargos o comisiones, remunerados u honoríficos, que corresponda discernir a dichos gobiernos.\n\nPárrafo reformado POG 1 de octubre de 2003 (Decreto 305) Párrafo reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "039",
+  "etiqueta": "Artículo 39",
+  "titulo": "TÍTULO III",
+  "capitulo": "CAPÍTULO PRIMERO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "039.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 1",
+      "texto": "Tanto en el ámbito estatal como en el distrital y municipal se podrá solicitar a una persona representante del Colegio de Notarios Públicos del Estado para que funja como fedatario en los casos que sea necesario."
+    },
+    {
+      "id": "039.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 2",
+      "texto": "Artículo reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    }
+  ]
+}

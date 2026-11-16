@@ -1,0 +1,27 @@
+{
+  "clave": "106",
+  "etiqueta": "Artículo 106",
+  "titulo": "TÍTULO IV",
+  "capitulo": "CAPÍTULO TERCERO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "106.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 106 › párrafo 1",
+      "texto": "Habrá en el Estado el número de juezas y jueces de primera instancia, de control y tribunales de enjuiciamiento, de tribunales laborales, que determine el Órgano de Administración Judicial del Estado y la Ley, con la jurisdicción, atribuciones y deberes que la misma señale."
+    },
+    {
+      "id": "106.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 106 › párrafo 2",
+      "texto": "Artículo reformado POG 22 de marzo de 2017 (Decreto 128) y 28 de marzo de 2020 (Decreto 385) Artículo reformado POG 14 de enero de 2025 (Decreto 94) Artículo reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    }
+  ]
+}

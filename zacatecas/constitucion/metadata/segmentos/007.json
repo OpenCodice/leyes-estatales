@@ -1,0 +1,45 @@
+{
+  "clave": "007",
+  "etiqueta": "Artículo 7",
+  "titulo": "TÍTULO I",
+  "capitulo": "CAPÍTULO SEGUNDO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 1",
+      "texto": "El Estado adopta para su régimen interior, la forma de gobierno republicano, representativo, democrático, laico y popular, tiene como base de su división territorial y organización política y administrativa el Municipio Libre."
+    },
+    {
+      "id": "007.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 2",
+      "texto": "Artículo reformado POG 12 de julio de 2014 (Decreto 177)"
+    },
+    {
+      "id": "007.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 3",
+      "texto": "Los gobiernos estatal y municipales dispondrán de los medios de democracia participativa y deliberativa para el desarrollo de la vida institucional, entre ellos, el presupuesto participativo, los derechos de consulta, audiencia y auditoría ciudadana, así como los cabildos abiertos, de conformidad con las leyes en la materia."
+    },
+    {
+      "id": "007.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 › párrafo 4",
+      "texto": "Párrafo adicionado POG 08 de abril de 2026 (Decreto 324)"
+    }
+  ]
+}

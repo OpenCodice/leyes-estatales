@@ -1,0 +1,63 @@
+{
+  "clave": "056",
+  "etiqueta": "Artículo 56",
+  "titulo": "TÍTULO IV",
+  "capitulo": "CAPÍTULO PRIMERO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "056.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › párrafo 1",
+      "texto": "Las Diputadas y los Diputados suplentes entrarán en funciones:"
+    },
+    {
+      "id": "056.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › párrafo 2",
+      "texto": "Proemio reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "056.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción I",
+      "texto": "I. Cuando las Diputadas o Diputados propietarios no se presenten para la instalación de la Legislatura dentro del término que se les señale para el efecto, salvo por causa justificada que calificará la Legislatura;\n\nFracción reformada POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "056.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción II",
+      "texto": "II. Cuando las Diputadas o Diputados propietarios hubiesen dejado de concurrir, sin causa justificada, a cinco sesiones consecutivas en el mismo periodo;\n\nFracción reformada POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "056.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción III",
+      "texto": "III. En las faltas absolutas de las diputaciones propietarias; y\n\nFracción reformada POG 16 de septiembre de 2026 (Decreto 370)"
+    },
+    {
+      "id": "056.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción IV",
+      "texto": "IV. En los demás casos que determine la ley.\n\nLa Legislatura sólo podrá convocar a elecciones para Diputadas o Diputados propietarios, cuando falten sus suplentes.\n\nPárrafo reformado POG 16 de septiembre de 2026 (Decreto 370)"
+    }
+  ]
+}

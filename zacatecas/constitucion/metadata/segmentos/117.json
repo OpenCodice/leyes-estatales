@@ -1,0 +1,621 @@
+{
+  "clave": "117",
+  "etiqueta": "Artículo 117",
+  "titulo": "TÍTULO V",
+  "capitulo": "CAPÍTULO PRIMERO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "117.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › párrafo 1",
+      "texto": "La división política y administrativa del territorio del estado comprende los siguientes Municipios:"
+    },
+    {
+      "id": "117.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › párrafo 2",
+      "texto": "Párrafo reformado POG 14 de septiembre de 2016 (Decreto 644)"
+    },
+    {
+      "id": "117.1",
+      "tipo": "numeral",
+      "marca": "1",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 1.",
+      "texto": "1. Apozol,"
+    },
+    {
+      "id": "117.2",
+      "tipo": "numeral",
+      "marca": "2",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 2.",
+      "texto": "2. Apulco,"
+    },
+    {
+      "id": "117.3",
+      "tipo": "numeral",
+      "marca": "3",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 3.",
+      "texto": "3. Atolinga,"
+    },
+    {
+      "id": "117.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 4.",
+      "texto": "4. Benito Juárez (con su cabecera en Florencia),"
+    },
+    {
+      "id": "117.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 5.",
+      "texto": "5. Calera (con su cabecera en Víctor Rosales),"
+    },
+    {
+      "id": "117.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 6.",
+      "texto": "6. Cañitas de Felipe Pescador,"
+    },
+    {
+      "id": "117.7",
+      "tipo": "numeral",
+      "marca": "7",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 7.",
+      "texto": "7. Concepción del Oro,"
+    },
+    {
+      "id": "117.8",
+      "tipo": "numeral",
+      "marca": "8",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 8.",
+      "texto": "8. Cuauhtémoc (con su cabecera en San Pedro Piedra Gorda),"
+    },
+    {
+      "id": "117.9",
+      "tipo": "numeral",
+      "marca": "9",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 9.",
+      "texto": "9. Chalchihuites,"
+    },
+    {
+      "id": "117.10",
+      "tipo": "numeral",
+      "marca": "10",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 10.",
+      "texto": "10. El Plateado de Joaquín Amaro,"
+    },
+    {
+      "id": "117.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › párrafo 3",
+      "texto": "Numeral reformado POG 17 de noviembre de 1999 (Decreto 96)"
+    },
+    {
+      "id": "117.11",
+      "tipo": "numeral",
+      "marca": "11",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 11.",
+      "texto": "11. El Salvador,"
+    },
+    {
+      "id": "117.12",
+      "tipo": "numeral",
+      "marca": "12",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 12.",
+      "texto": "12. General Enrique Estrada,"
+    },
+    {
+      "id": "117.13",
+      "tipo": "numeral",
+      "marca": "13",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 13.",
+      "texto": "13. Fresnillo,"
+    },
+    {
+      "id": "117.14",
+      "tipo": "numeral",
+      "marca": "14",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 14.",
+      "texto": "14. Trinidad García de la Cadena (con su cabecera en La Estanzuela),"
+    },
+    {
+      "id": "117.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › párrafo 4",
+      "texto": "Numeral reformado POG 14 de septiembre de 2016 (Decreto 644)"
+    },
+    {
+      "id": "117.15",
+      "tipo": "numeral",
+      "marca": "15",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 15.",
+      "texto": "15. Genaro Codina,"
+    },
+    {
+      "id": "117.16",
+      "tipo": "numeral",
+      "marca": "16",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 16.",
+      "texto": "16. Guadalupe,"
+    },
+    {
+      "id": "117.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › párrafo 5",
+      "texto": "Numeral reformado POG 17 de noviembre de 1999 (Decreto 96)"
+    },
+    {
+      "id": "117.17",
+      "tipo": "numeral",
+      "marca": "17",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 17.",
+      "texto": "17. Huanusco,"
+    },
+    {
+      "id": "117.18",
+      "tipo": "numeral",
+      "marca": "18",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 18.",
+      "texto": "18. Jalpa,"
+    },
+    {
+      "id": "117.19",
+      "tipo": "numeral",
+      "marca": "19",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 19.",
+      "texto": "19. Jerez (con su cabecera en Jerez de García Salinas),"
+    },
+    {
+      "id": "117.20",
+      "tipo": "numeral",
+      "marca": "20",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 20.",
+      "texto": "20. Jiménez del Teul,"
+    },
+    {
+      "id": "117.21",
+      "tipo": "numeral",
+      "marca": "21",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 21.",
+      "texto": "21. Juan Aldama,"
+    },
+    {
+      "id": "117.22",
+      "tipo": "numeral",
+      "marca": "22",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 22.",
+      "texto": "22. Juchipila,"
+    },
+    {
+      "id": "117.23",
+      "tipo": "numeral",
+      "marca": "23",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 23.",
+      "texto": "23. Luis Moya,"
+    },
+    {
+      "id": "117.24",
+      "tipo": "numeral",
+      "marca": "24",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 24.",
+      "texto": "24. Loreto,"
+    },
+    {
+      "id": "117.25",
+      "tipo": "numeral",
+      "marca": "25",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 25.",
+      "texto": "25. Mazapil,"
+    },
+    {
+      "id": "117.26",
+      "tipo": "numeral",
+      "marca": "26",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 26.",
+      "texto": "26. General Francisco R. Murguía (con su cabecera en Nieves),"
+    },
+    {
+      "id": "117.27",
+      "tipo": "numeral",
+      "marca": "27",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 27.",
+      "texto": "27. Melchor Ocampo,"
+    },
+    {
+      "id": "117.28",
+      "tipo": "numeral",
+      "marca": "28",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 28.",
+      "texto": "28. Mezquital del Oro,"
+    },
+    {
+      "id": "117.29",
+      "tipo": "numeral",
+      "marca": "29",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 29.",
+      "texto": "29. Miguel Auza,"
+    },
+    {
+      "id": "117.30",
+      "tipo": "numeral",
+      "marca": "30",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 30.",
+      "texto": "30. Momax,"
+    },
+    {
+      "id": "117.31",
+      "tipo": "numeral",
+      "marca": "31",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 31.",
+      "texto": "31. Monte Escobedo,"
+    },
+    {
+      "id": "117.32",
+      "tipo": "numeral",
+      "marca": "32",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 32.",
+      "texto": "32. Morelos,"
+    },
+    {
+      "id": "117.33",
+      "tipo": "numeral",
+      "marca": "33",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 33.",
+      "texto": "33. Moyahua de Estrada,"
+    },
+    {
+      "id": "117.34",
+      "tipo": "numeral",
+      "marca": "34",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 34.",
+      "texto": "34. Nochistlán de Mejía,"
+    },
+    {
+      "id": "117.35",
+      "tipo": "numeral",
+      "marca": "35",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 35.",
+      "texto": "35. Noria de Ángeles,"
+    },
+    {
+      "id": "117.36",
+      "tipo": "numeral",
+      "marca": "36",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 36.",
+      "texto": "36. Ojocaliente,"
+    },
+    {
+      "id": "117.37",
+      "tipo": "numeral",
+      "marca": "37",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 37.",
+      "texto": "37. General Pánfilo Natera,"
+    },
+    {
+      "id": "117.38",
+      "tipo": "numeral",
+      "marca": "38",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 38.",
+      "texto": "38. Pánuco,"
+    },
+    {
+      "id": "117.39",
+      "tipo": "numeral",
+      "marca": "39",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 39.",
+      "texto": "39. Pinos,"
+    },
+    {
+      "id": "117.40",
+      "tipo": "numeral",
+      "marca": "40",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 40.",
+      "texto": "40. Río Grande,"
+    },
+    {
+      "id": "117.41",
+      "tipo": "numeral",
+      "marca": "41",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 41.",
+      "texto": "41. Sain Alto,"
+    },
+    {
+      "id": "117.42",
+      "tipo": "numeral",
+      "marca": "42",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 42.",
+      "texto": "42. Santa María de la Paz,"
+    },
+    {
+      "id": "117.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › párrafo 6",
+      "texto": "Numeral adicionado POG 17 de noviembre de 2004 (Decreto 20)"
+    },
+    {
+      "id": "117.43",
+      "tipo": "numeral",
+      "marca": "43",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 43.",
+      "texto": "43. Sombrerete,"
+    },
+    {
+      "id": "117.44",
+      "tipo": "numeral",
+      "marca": "44",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 44.",
+      "texto": "44. Susticacán,"
+    },
+    {
+      "id": "117.45",
+      "tipo": "numeral",
+      "marca": "45",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 45.",
+      "texto": "45. Tabasco,"
+    },
+    {
+      "id": "117.46",
+      "tipo": "numeral",
+      "marca": "46",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 46.",
+      "texto": "46. Tepechitlán,"
+    },
+    {
+      "id": "117.47",
+      "tipo": "numeral",
+      "marca": "47",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 47.",
+      "texto": "47. Tepetongo,"
+    },
+    {
+      "id": "117.48",
+      "tipo": "numeral",
+      "marca": "48",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 48.",
+      "texto": "48. Teúl de González Ortega"
+    },
+    {
+      "id": "117.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › párrafo 7",
+      "texto": "Numeral adicionado POG 17 de noviembre de 2004 (Decreto 20)"
+    },
+    {
+      "id": "117.49",
+      "tipo": "numeral",
+      "marca": "49",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 49.",
+      "texto": "49. Tlaltenango de Sánchez Román,"
+    },
+    {
+      "id": "117.50",
+      "tipo": "numeral",
+      "marca": "50",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 50.",
+      "texto": "50. Trancoso,"
+    },
+    {
+      "id": "117.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › párrafo 8",
+      "texto": "Numeral adicionado POG 17 de noviembre de 1999 (Decreto 96)"
+    },
+    {
+      "id": "117.51",
+      "tipo": "numeral",
+      "marca": "51",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 51.",
+      "texto": "51. Valparaíso,"
+    },
+    {
+      "id": "117.52",
+      "tipo": "numeral",
+      "marca": "52",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 52.",
+      "texto": "52. Vetagrande,"
+    },
+    {
+      "id": "117.53",
+      "tipo": "numeral",
+      "marca": "53",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 53.",
+      "texto": "53. Villa de Cos,"
+    },
+    {
+      "id": "117.54",
+      "tipo": "numeral",
+      "marca": "54",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 54.",
+      "texto": "54. Villa García,"
+    },
+    {
+      "id": "117.55",
+      "tipo": "numeral",
+      "marca": "55",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 55.",
+      "texto": "55. Villa González Ortega,"
+    },
+    {
+      "id": "117.56",
+      "tipo": "numeral",
+      "marca": "56",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 56.",
+      "texto": "56. Villa Hidalgo,"
+    },
+    {
+      "id": "117.57",
+      "tipo": "numeral",
+      "marca": "57",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 57.",
+      "texto": "57. Villanueva, y"
+    },
+    {
+      "id": "117.58",
+      "tipo": "numeral",
+      "marca": "58",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › 58.",
+      "texto": "58. Zacatecas."
+    },
+    {
+      "id": "117.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › párrafo 9",
+      "texto": "Las modificaciones a los nombres de los Municipios se realizarán a iniciativa de los Ayuntamientos respectivos y con la aprobación de la Legislatura del Estado."
+    },
+    {
+      "id": "117.p10",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 117 › párrafo 10",
+      "texto": "Los límites de los Municipios quedan determinados en la forma que se encuentran al promulgarse la presente Constitución, y sólo podrán modificarse en los términos ordenados por esta Ley Fundamental."
+    }
+  ]
+}
