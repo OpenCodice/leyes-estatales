@@ -1,0 +1,135 @@
+{
+  "clave": "080",
+  "etiqueta": "Artículo 80",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "080.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › párrafo 1",
+      "texto": "Le está prohibido al Gobernador:"
+    },
+    {
+      "id": "080.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción I",
+      "texto": "I.- Mandar inmediata y personalmente en campaña la Guardia Nacional y demás fuerzas del Estado, sin haber obtenido para ello permiso del Congreso, o en su receso, de la Diputación Permanente."
+    },
+    {
+      "id": "080.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción II",
+      "texto": "II.- Recomendar asuntos a las autoridades judiciales y a las autoridades del Tribunal de lo Contencioso Administrativo; contrariar en cualquier forma las resoluciones dictadas por éstas, y disponer de los reos durante los procesos."
+    },
+    {
+      "id": "080.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción III",
+      "texto": "III.- Oponerse y hacer observaciones a los acuerdos del Congreso en que se le pidan informes sobre asuntos públicos;"
+    },
+    {
+      "id": "080.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción IV",
+      "texto": "IV.- Impedir que las elecciones se verifiquen en los días señalados por la Ley."
+    },
+    {
+      "id": "080.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción V",
+      "texto": "V.- Impedir, por ningún motivo, ni directa ni indirectamente, el libre ejercicio de las funciones del Congreso."
+    },
+    {
+      "id": "080.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción VI",
+      "texto": "VI.- Distraer los caudales públicos del Estado de los objetos a que están destinados por las leyes."
+    },
+    {
+      "id": "080.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción VII",
+      "texto": "VII.- Ordenar la aprehensión o la detención de persona alguna, o privarla de su libertad, excepto en los casos en que la Ley lo autorice para hacerlo. En tales casos, deberá ponerla inmediatamente a disposición de la autoridad competente."
+    },
+    {
+      "id": "080.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción VIII",
+      "texto": "VIII.- Ocupar la propiedad particular fuera de los casos prescritos por las leyes."
+    },
+    {
+      "id": "080.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción IX",
+      "texto": "IX.- Imponer contribución alguna, salvo el caso de que esté legalmente facultado para ello."
+    },
+    {
+      "id": "080.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción X",
+      "texto": "X.- Disponer en ningún caso, bajo pretexto alguno, de las rentas Municipales."
+    },
+    {
+      "id": "080.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción XI",
+      "texto": "XI.- Disponer sin facultades legales y fuera de los casos que la Ley lo permita, de los bienes pertenecientes al Estado."
+    },
+    {
+      "id": "080.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción XII",
+      "texto": "XII.- Disponer en ningún caso, bajo ningún pretexto, de los bienes considerados como propios del Municipio."
+    },
+    {
+      "id": "080.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 80 › Fracción XIII",
+      "texto": "XIII.- Conceder licencias para juegos de azar."
+    }
+  ]
+}

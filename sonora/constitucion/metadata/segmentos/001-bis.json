@@ -1,0 +1,414 @@
+{
+  "clave": "001-bis",
+  "etiqueta": "Artículo 1 Bis",
+  "titulo": "",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "001-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › párrafo 1",
+      "texto": "El Estado de Sonora tiene una composición pluricultural y multiétnica, sustentada originalmente en los pueblos indígenas, que son aquellas colectividades con una continuidad histórica de las sociedades precoloniales establecidas en el territorio actual del Estado, y que conservan, desarrollan y transmiten sus instituciones sociales, normativas, económicas, culturales y políticas, o parte de ellas."
+    },
+    {
+      "id": "001-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › párrafo 2",
+      "texto": "Son comunidades integrantes de un pueblo indígena, aquellas que forman una unidad social, económica y cultural, asentadas en un territorio y que reconocen autoridades propias de acuerdo con sus sistemas normativos."
+    },
+    {
+      "id": "001-bis.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › párrafo 3",
+      "texto": "El derecho de los pueblos indígenas a la libre determinación se ejercerá en un marco constitucional de autonomía que asegure la unidad estatal. Para el reconocimiento de los pueblos y comunidades indígenas se deben tomar en cuenta, además de los principios generales establecidos en los párrafos anteriores de este artículo, criterios etnolingüísticos, de asentamiento físico y de autoadscripción."
+    },
+    {
+      "id": "001-bis.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › párrafo 4",
+      "texto": "El Estado de Sonora reconoce a los pueblos y comunidades indígenas como sujetos de derecho público con personalidad jurídica y patrimonio propio."
+    },
+    {
+      "id": "001-bis.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › párrafo 5",
+      "texto": "A.- Esta Constitución reconoce y garantiza el derecho de los pueblos y las comunidades indígenas a la libre determinación y, en consecuencia, a la autonomía, asegurando la unidad estatal, para:"
+    },
+    {
+      "id": "001-bis.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción I",
+      "texto": "I.- Decidir, conforme a sus sistemas normativos y de acuerdo con la Constitución Política de los Estados Unidos Mexicanos y esta Constitución, sus formas internas de gobierno, de convivencia y de organización social, económica, política y cultural."
+    },
+    {
+      "id": "001-bis.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción II",
+      "texto": "II.- Aplicar y desarrollar sus propios sistemas normativos en la regulación y solución de sus conflictos internos, sujetándose a los principios generales que se establecen en la Constitución Política de los Estados Unidos Mexicanos y esta Constitución, respetando las garantías individuales, los derechos humanos y, de manera relevante, la dignidad e integridad de las mujeres. La ley establecerá los casos y procedimientos de validación por los jueces o tribunales correspondientes.\n\nLa jurisdicción indígena se ejercerá por las autoridades comunitarias de acuerdo con los sistemas normativos de los pueblos y comunidades indígenas, dentro del marco del orden jurídico vigente, en los términos de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes aplicables."
+    },
+    {
+      "id": "001-bis.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción III",
+      "texto": "III.- Elegir de acuerdo con sus sistemas normativos a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas disfrutarán y ejercerán su derecho de votar y ser votados en condiciones de igualdad;\n\nasí como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados, en un marco que respete el pacto federal y la soberanía del Estado. En ningún caso, sus sistemas normativos limitarán los derechos político-electorales de los y las ciudadanas en la elección de sus autoridades municipales."
+    },
+    {
+      "id": "001-bis.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción IV",
+      "texto": "IV.- Preservar, proteger y desarrollar su patrimonio cultural, material e inmaterial, que comprende todos los elementos que constituyan su cultura e identidad. Se reconoce la propiedad intelectual colectiva respecto de dicho patrimonio, en los términos que dispongan las leyes."
+    },
+    {
+      "id": "001-bis.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción V",
+      "texto": "V.- Promover el uso, desarrollo, preservación, estudio y difusión de las lenguas indígenas como un elemento constitutivo de la diversidad cultural de la Nación, así como una política lingüística multilingüe que permita su uso en los espacios públicos y en los privados que correspondan."
+    },
+    {
+      "id": "001-bis.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción VI",
+      "texto": "VI.- Participar, en términos del artículo 3o. constitucional, en la construcción de los modelos educativos para reconocer la composición pluricultural de la Nación con base en sus culturas, lenguas y métodos de enseñanza y aprendizaje."
+    },
+    {
+      "id": "001-bis.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción VII",
+      "texto": "VII.- Desarrollar, practicar, fortalecer y promover la medicina tradicional, así como la partería para la atención del embarazo, parto y puerperio. Se reconoce a las personas que las ejercen, incluidos sus saberes y prácticas de salud."
+    },
+    {
+      "id": "001-bis.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción VIII",
+      "texto": "VIII.- Conservar y mejorar el hábitat, y preservar la bioculturalidad y la integridad de sus tierras, incluidos sus lugares sagrados declarados por la autoridad competente, de conformidad con las disposiciones jurídicas aplicables en la materia."
+    },
+    {
+      "id": "001-bis.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción IX",
+      "texto": "IX.- Acceder, con respeto a las formas y modalidades de propiedad y tenencia de la tierra establecidas en la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y a las leyes de la materia, así como a los derechos adquiridos por terceros o por integrantes de la comunidad, al uso y disfrute preferente de los recursos naturales de los lugares que habitan y ocupan las comunidades, salvo aquellos que corresponden a las áreas estratégicas, en términos de la Constitución Política de los Estados Unidos Mexicanos. Para estos efectos, las comunidades podrán asociarse en términos de ley."
+    },
+    {
+      "id": "001-bis.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción X",
+      "texto": "X.- Elegir, en los municipios con población indígena, representantes ante los ayuntamientos, de acuerdo con los principios de paridad de género y pluriculturalidad conforme a las normas aplicables. Las leyes estatales reconocerán y regularán estos derechos, con el propósito de fortalecer su participación y representación política."
+    },
+    {
+      "id": "001-bis.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción XI",
+      "texto": "XI.- Acceder plenamente a la jurisdicción del Estado. Para garantizar ese derecho, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, se deberán tomar en cuenta sus sistemas normativos y especificidades culturales, respetando los preceptos de la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes respectivas.\n\nLas personas indígenas tienen, en todo tiempo, el derecho a ser asistidas y asesoradas por personas intérpretes, traductoras, defensoras y peritas especializadas en derechos indígenas, pluralismo jurídico, perspectiva de género, y diversidad cultural y lingüística."
+    },
+    {
+      "id": "001-bis.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción XII",
+      "texto": "XII.- Ejercer su derecho al desarrollo integral con base en sus formas de organización económica, social y cultural, con respeto a la integridad del medio ambiente y recursos naturales en términos de las disposiciones jurídicas aplicables."
+    },
+    {
+      "id": "001-bis.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción XIII",
+      "texto": "XIII.- Ser consultados sobre las medidas legislativas o administrativas que se pretendan adoptar, cuando estas puedan causar afectaciones o impactos significativos en su vida o entorno, con la finalidad de obtener su consentimiento o, en su caso, llegar a un acuerdo sobre tales medidas.\n\nLas consultas indígenas se realizarán de conformidad con principios y normas que garanticen el respeto y el ejercicio efectivo de los derechos sustantivos de los pueblos indígenas reconocidos por la Constitución Política de los Estados unidos Mexicanos y esta Constitución.\n\nCuando la medida administrativa que se pretenda adoptar beneficie a un particular, el costo de la consulta debe ser cubierto por éste.\n\nLa persona física o moral que obtenga un lucro por las medidas administrativas objeto de consulta debe otorgar a los pueblos y comunidades indígenas un beneficio justo y equitativo, en los términos que establezcan las leyes aplicables.\n\nLos pueblos y comunidades indígenas son los únicos legitimados para impugnar, por las vías jurisdiccionales establecidas, el incumplimiento del derecho reconocido en esta fracción. La ley de la materia regulará los términos, condiciones y procedimientos para llevar a cabo la impugnación.\n\nB.- El Estado y los municipios, deberán establecer las instituciones y determinar las políticas públicas que garanticen el ejercicio efectivo de los derechos de los pueblos indígenas y su desarrollo integral, intercultural y sostenible, las cuales deben ser diseñadas y operadas conjuntamente con ellos. Para tal efecto, dichas autoridades tienen la obligación de:"
+    },
+    {
+      "id": "001-bis.I~2",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción I",
+      "texto": "I.- Impulsar el desarrollo comunitario y regional de los pueblos y comunidades indígenas, para mejorar sus condiciones de vida y bienestar común, mediante planes de desarrollo que fortalezcan sus economías y fomenten la agroecología, los cultivos tradicionales, en especial el sistema milpa, las semillas nativas, los recursos agroalimentarios y el óptimo uso de la tierra, libres del uso de sustancias peligrosas y productos químicos tóxicos.\n\nLa ley establecerá los mecanismos que faciliten la organización y desarrollo de las economías de los pueblos y comunidades indígenas, y reconocerá el trabajo comunitario como parte de su organización social y cultural."
+    },
+    {
+      "id": "001-bis.II~2",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción II",
+      "texto": "II.- Determinar, mediante normas y criterios compensatorios, equitativos, justos y proporcionales, asignaciones presupuestales para los pueblos y comunidades indígenas, que serán administradas directamente por estos."
+    },
+    {
+      "id": "001-bis.III~2",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción III",
+      "texto": "III.- Adoptar las medidas necesarias para reconocer y proteger el patrimonio cultural, la propiedad intelectual colectiva, los conocimientos y las expresiones culturales tradicionales de los pueblos y comunidades indígenas, en los términos que establezca la ley."
+    },
+    {
+      "id": "001-bis.IV~2",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción IV",
+      "texto": "IV.- Garantizar y fortalecer la educación indígena, intercultural y plurilingüe, mediante:"
+    },
+    {
+      "id": "001-bis.IV.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 1 Bis › Fracción IV › inciso a)",
+      "texto": "a).- La alfabetización y la educación en todos los niveles, gratuita, integral y con pertinencia cultural y lingüística;"
+    },
+    {
+      "id": "001-bis.IV.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 1 Bis › Fracción IV › inciso b)",
+      "texto": "b).- La formación de profesionales indígenas y la implementación de la educación comunitaria;"
+    },
+    {
+      "id": "001-bis.IV.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 1 Bis › Fracción IV › inciso c)",
+      "texto": "c).- El establecimiento de un sistema de becas para las personas indígenas que cursen cualquier nivel educativo;"
+    },
+    {
+      "id": "001-bis.IV.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 1 Bis › Fracción IV › inciso d)",
+      "texto": "d).- La promoción de programas educativos bilingües, en concordancia con los métodos de enseñanza y aprendizaje de los pueblos y comunidades indígenas, y"
+    },
+    {
+      "id": "001-bis.IV.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "IV",
+      "ruta": "Artículo 1 Bis › Fracción IV › inciso e)",
+      "texto": "e).- La definición y desarrollo de programas educativos que reconozcan e impulsen la herencia cultural de los pueblos y comunidades indígenas y su importancia para la Nación; así como, la promoción de una relación intercultural, de no discriminación y libre de racismo."
+    },
+    {
+      "id": "001-bis.V~2",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción V",
+      "texto": "V.- Asegurar el acceso efectivo a los servicios de salud, mediante la ampliación de la cobertura del sistema nacional con perspectiva intercultural, así como reconocer las prácticas de la medicina tradicional."
+    },
+    {
+      "id": "001-bis.VI~2",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción VI",
+      "texto": "VI.- Garantizar el derecho a la alimentación nutritiva, suficiente y de calidad con pertinencia cultural, en especial para la población infantil."
+    },
+    {
+      "id": "001-bis.VII~2",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción VII",
+      "texto": "VII.- Mejorar las condiciones de los pueblos y comunidades indígenas y de sus espacios para la convivencia y recreación, mediante acciones que garanticen el acceso al financiamiento para la construcción y mejoramiento de vivienda, así como ampliar la cobertura de los servicios sociales básicos, en armonía con su entorno natural y cultural, sus conocimientos y tecnologías tradicionales."
+    },
+    {
+      "id": "001-bis.VIII~2",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción VIII",
+      "texto": "VIII.- Garantizar la participación efectiva de las mujeres indígenas, en condiciones de igualdad, en los procesos de desarrollo integral de los pueblos y comunidades indígenas; su acceso a la educación, así como a la propiedad y posesión de la tierra; su participación en la toma de decisiones de carácter público, y la promoción y respeto de sus derechos humanos."
+    },
+    {
+      "id": "001-bis.IX~2",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción IX",
+      "texto": "IX.- Garantizar y extender la red de comunicaciones que permita la articulación de los pueblos y comunidades, mediante la construcción y ampliación de vías de comunicación, caminos artesanales, radiodifusión, telecomunicación e Internet de banda ancha."
+    },
+    {
+      "id": "001-bis.X~2",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción X",
+      "texto": "X.- Establecer y garantizar las condiciones para que los pueblos y comunidades indígenas puedan adquirir, operar, promover, desarrollar y administrar sus medios de comunicación, telecomunicaciones y nuevas tecnologías de la información, garantizando espacios óptimos del espectro radioeléctrico y de las redes e infraestructura, haciendo uso de sus lenguas y otros elementos culturales."
+    },
+    {
+      "id": "001-bis.XI~2",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción XI",
+      "texto": "XI.- Adoptar medidas para que los pueblos y comunidades indígenas accedan a los medios de comunicación e información en condiciones de dignidad, equidad e interculturalidad, sin discriminación alguna para que reflejen la diversidad cultural indígena."
+    },
+    {
+      "id": "001-bis.XII~2",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción XII",
+      "texto": "XII.- Apoyar las actividades productivas y el desarrollo sustentable de las comunidades indígenas mediante acciones que permitan alcanzar la suficiencia de sus ingresos económicos, la creación de empleos, la incorporación de tecnologías y sus sistemas tradicionales de producción, para incrementar su propia capacidad productiva, así como para asegurar el acceso equitativo a los sistemas de abasto y comercialización.\n\nXIII).- Establecer políticas públicas para proteger a los migrantes de los pueblos indígenas, tanto en el territorio estatal como en el extranjero, mediante acciones destinadas a:"
+    },
+    {
+      "id": "001-bis.XII.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "XII",
+      "ruta": "Artículo 1 Bis › Fracción XII › inciso a)",
+      "texto": "a)Reconocer las formas organizativas de las comunidades indígenas residentes y de las personas indígenas migrantes en sus contextos de destino en el territorio nacional;"
+    },
+    {
+      "id": "001-bis.XII.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "XII",
+      "ruta": "Artículo 1 Bis › Fracción XII › inciso b)",
+      "texto": "b)Garantizar los derechos laborales de las personas jornaleras agrícolas, trabajadoras del hogar y con discapacidad;"
+    },
+    {
+      "id": "001-bis.XII.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "XII",
+      "ruta": "Artículo 1 Bis › Fracción XII › inciso c)",
+      "texto": "c) Mejorar las condiciones de salud de las mujeres, así como apoyar con programas especiales de educación y nutrición a niñas, niños, adolescentes y jóvenes de familias migrantes;"
+    },
+    {
+      "id": "001-bis.XII.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "XII",
+      "ruta": "Artículo 1 Bis › Fracción XII › inciso d)",
+      "texto": "d)Velar permanentemente por el respeto de sus derechos humanos, y"
+    },
+    {
+      "id": "001-bis.XII.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "XII",
+      "ruta": "Artículo 1 Bis › Fracción XII › inciso e)",
+      "texto": "e) Promover, con pleno respeto a su identidad, la difusión de sus culturas y la inclusión social en los lugares de destino que propicien acciones de fortalecimiento del vínculo familiar y comunitario."
+    },
+    {
+      "id": "001-bis.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Fracción XIV",
+      "texto": "XIV.- Consultar a los pueblos indígenas en la elaboración de los planes estatal y municipales de desarrollo y, en su caso, incorporar las recomendaciones y propuestas que realicen.\n\nPara garantizar el cumplimiento de las obligaciones señaladas en el párrafo que antecede, el Estado y los ayuntamientos, en el ámbito de sus respectivas competencias, establecerán las partidas específicas destinadas al cumplimiento de estas obligaciones en los presupuestos de egresos que aprueben, así como las formas y procedimientos para que las comunidades participen en el ejercicio y vigilancia de las mismas."
+    },
+    {
+      "id": "001-bis.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Apartado C",
+      "texto": "C. Esta Constitución reconoce a los pueblos y comunidades afromexicanas, cualquiera que sea su autodenominación, y tendrán en lo conducente los derechos señalados en los apartados anteriores de este artículo, a fin de garantizar su desarrollo e inclusión social, en los términos que establezca la Constitución Política de los Estados Unidos Mexicanos y esta Constitución, así como su libre determinación que se ejercerá en un marco constitucional de autonomía que asegure la unidad estatal."
+    },
+    {
+      "id": "001-bis.D",
+      "tipo": "apartado",
+      "marca": "D",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Apartado D",
+      "texto": "D. Esta Constitución reconoce y el Estado garantiza el derecho de las mujeres indígenas y afromexicanas a participar de manera efectiva y en condiciones de igualdad sustantiva en los procesos de desarrollo integral de sus pueblos y comunidades; en la toma de decisiones de carácter público; en la promoción y respeto de sus derechos de acceso a la educación, a la salud, a la propiedad y a la posesión de la tierra y demás derechos humanos."
+    },
+    {
+      "id": "001-bis.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Apartado D › párrafo 6",
+      "texto": "Se reconoce y garantiza el derecho de la niñez, adolescencia y juventud indígena y afromexicana a una atención adecuada, en sus propias lenguas, para hacer efectivo el conocimiento y ejercicio pleno de sus derechos de acceso a la educación, a la salud, a la tecnología, al arte, la cultura, el deporte y la capacitación para el trabajo, entre otros. Asimismo, para garantizar una vida libre de exclusión, discriminación y violencia, en especial de la violencia sexual y de género, y para establecer políticas dirigidas a prevenir y atender las adicciones, con visión de respeto a sus identidades culturales."
+    },
+    {
+      "id": "001-bis.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 1 Bis › Apartado D › párrafo 7",
+      "texto": "El Estado y los municipios adoptarán las medidas necesarias para hacer efectivos los derechos reconocidos en esta Constitución con el propósito de eliminar la discriminación, racismo, exclusión e invisibilidad de las que sean objeto los pueblos y comunidades indígenas y afromexicanas."
+    }
+  ]
+}

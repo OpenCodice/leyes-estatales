@@ -1,0 +1,153 @@
+{
+  "clave": "001",
+  "etiqueta": "Artículo 1",
+  "titulo": "",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "001.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 1",
+      "texto": "Los Derechos de las personas, son la base y el objeto de las instituciones sociales. En el Estado de Sonora toda persona gozará de los derechos humanos reconocidos en la Constitución Política de los Estados Unidos Mexicanos y en los tratados internacionales de los que el Estado Mexicano sea parte, así como de las garantías para su protección, cuyo ejercicio no podrá restringirse ni suspenderse, salvo en los casos y bajo las condiciones que la propia Constitución Federal establezca. El Estado de Sonora tutela el derecho a la vida, al sustentar que, desde el momento de la fecundación de un individuo, entra bajo la protección de la ley y se le reputa como nacido para todos los efectos legales correspondientes, hasta su muerte natural. Se exceptúa de este reconocimiento, el aborto causado por culpa de la mujer embarazada o cuando el embarazo sea resultado de una violación o cuando, de no provocarse el aborto, la mujer embarazada corra peligro de muerte, a juicio del médico que la asista, oyendo éste el dictamen de otro médico, siempre que esto fuere posible y no sea peligrosa la demora, así como los casos de donación de órganos humanos, en los términos de las disposiciones legales aplicables."
+    },
+    {
+      "id": "001.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 2",
+      "texto": "Las autoridades, los funcionarios y empleados del Estado y Municipios tienen la ineludible obligación de respetar y hacer respetar, en la órbita de sus facultades, las garantías y las prerrogativas que esta Constitución Local concede."
+    },
+    {
+      "id": "001.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 3",
+      "texto": "En el Estado de Sonora queda prohibida toda discriminación motivada por origen étnico o nacional, el género, la edad, las discapacidades, la condición social, las condiciones de salud, la religión, las opiniones, las preferencias sexuales, el estado civil o cualquier otra."
+    },
+    {
+      "id": "001.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 4",
+      "texto": "Las niñas y los niños tienen derecho a la satisfacción de sus necesidades de alimentación, salud, educación y sano esparcimiento para su desarrollo integral."
+    },
+    {
+      "id": "001.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 5",
+      "texto": "Los ascendientes, tutores y custodios tienen el deber de preservar estos derechos. El Estado proveerá lo necesario para propiciar el respeto a la dignidad de la niñez y el ejercicio pleno de sus derechos."
+    },
+    {
+      "id": "001.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 6",
+      "texto": "El Estado otorgará facilidades a los particulares para que coadyuven al cumplimiento de los derechos de la niñez."
+    },
+    {
+      "id": "001.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 7",
+      "texto": "El Gobierno del Estado establecerá un sistema universal de becas para las y los estudiantes de todos los niveles escolares del sistema de educación estatal para prevenir y combatir la deserción escolar, así como fomentar la formación integral y de competencias académicas, deportivas y culturales para las niñas, niños, adolescentes y jóvenes, con un enfoque inclusivo, dando prioridad a regiones o grupos con mayor rezago educativo, pobreza, marginación, vulnerabilidad, violencia, discapacidad física, discapacidad mental o alguna condición mental. El presupuesto asignado será progresivo y no podrá disminuirse respecto del asignado en el ejercicio fiscal inmediato anterior."
+    },
+    {
+      "id": "001.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 8",
+      "texto": "Toda persona tiene derecho a la cultura física y al deporte. Corresponde al Estado conforme a las Leyes en la materia su promoción, normativa, fomento, estímulo y difusión."
+    },
+    {
+      "id": "001.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 9",
+      "texto": "El Estado garantizará como un derecho de las personas, el tener la posibilidad de acceder a la conectividad de redes digitales de información y comunicación, como una política pública que otorga igualdad de oportunidades a sus habitantes en el acceso a nuevas tecnologías, con el fin de fortalecer el desarrollo cultural, económico, social y político del Estado."
+    },
+    {
+      "id": "001.p10",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 10",
+      "texto": "Toda persona tiene derecho a un medio ambiente sano para su desarrollo y bienestar. El Estado garantizará el respeto a ese derecho. El daño y deterioro ambiental generará responsabilidad para quien lo provoque, en términos de lo dispuesto por la Ley."
+    },
+    {
+      "id": "001.p11",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 11",
+      "texto": "Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible."
+    },
+    {
+      "id": "001.p12",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 12",
+      "texto": "Toda persona tiene derecho a la movilidad en condiciones de seguridad vial, accesibilidad, eficiencia, sostenibilidad, calidad, inclusión e igualdad."
+    },
+    {
+      "id": "001.p13",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 13",
+      "texto": "Toda persona tiene derecho a disfrutar de vivienda adecuada. La Ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo."
+    },
+    {
+      "id": "001.p14",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 14",
+      "texto": "El Estado garantizará la rehabilitación y habilitación de las personas que viven con discapacidad permanente, dando prioridad a las personas menores de dieciocho años de edad, en términos que fije la ley."
+    },
+    {
+      "id": "001.p15",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 15",
+      "texto": "Toda persona tiene derecho a la protección civil, a vivir en un entorno seguro y a la atención en caso de que ocurran fenómenos de carácter natural o antropogénico. Las autoridades adoptarán las medidas necesarias para proteger a las personas y comunidades frente a riesgos y amenazas derivados de esos fenómenos."
+    },
+    {
+      "id": "001.p16",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 1 › párrafo 16",
+      "texto": "El Estado destinará anualmente los recursos presupuestarios suficientes y oportunos, conforme al principio de progresividad, para garantizar los derechos establecidos en este artículo que impliquen la transferencia de recursos directos hacia la población destinataria. El monto de los recursos asignados no podrá ser disminuido, en términos reales, respecto del que se haya asignado en el ejercicio fiscal inmediato anterior."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "073",
+  "etiqueta": "Artículo 73",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "073.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › párrafo 1",
+      "texto": "El Gobernador cuyo origen sea la elección popular, ordinaria o extraordinaria, en ningún caso y por ningún motivo podrá volver a ocupar ese cargo ni aún con carácter de Interino, Provisional, Substituto o Encargado del Despacho."
+    },
+    {
+      "id": "073.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › párrafo 2",
+      "texto": "Nunca podrá ser electo en el periodo inmediato:"
+    },
+    {
+      "id": "073.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › inciso a)",
+      "texto": "a) El Gobernador Substituto Constitucional, o el designado para concluir el periodo en caso de falta absoluta del Constitucional, aún cuando tenga distinta denominación;"
+    },
+    {
+      "id": "073.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › inciso b)",
+      "texto": "b) El Gobernador Interino, el Provisional o el ciudadano que, bajo cualquier denominación, supla las faltas temporales del Gobernador, siempre que desempeñe el cargo en los dos últimos años del período."
+    }
+  ]
+}

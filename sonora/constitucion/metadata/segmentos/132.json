@@ -1,0 +1,81 @@
+{
+  "clave": "132",
+  "etiqueta": "Artículo 132",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "132.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › párrafo 1",
+      "texto": "Para ser Presidente Municipal, Síndico o Regidor de un Ayuntamiento, se requiere:"
+    },
+    {
+      "id": "132.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Fracción I",
+      "texto": "I.- Ser ciudadano sonorense en pleno ejercicio de sus derechos;"
+    },
+    {
+      "id": "132.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Fracción II",
+      "texto": "II.- Ser vecino del Municipio correspondiente, con residencia efectiva dentro del mismo, cuando menos de dos años si es nativo del Estado, o de cinco años, sí no lo es;"
+    },
+    {
+      "id": "132.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Fracción III",
+      "texto": "III.- No estar en servicio activo en el Ejército, ni tener mando de fuerzas en el mismo Municipio, a menos que, quien esté comprendido en tales casos, se separe definitivamente de su empleo o cargo, noventa días antes de la elección;"
+    },
+    {
+      "id": "132.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Fracción IV",
+      "texto": "IV.- No haber sido persona condenada por la comisión de un delito doloso, salvo que el antecedente penal hubiere prescrito; y para lo cual deberán gozar de buena reputación; no haber sido persona sancionada o condenada mediante resolución firme por violencia familiar o cualquier agresión de género en el ámbito privado o público; por delitos sexuales contra la libertad sexual o la intimidad corporal; y no ser deudor alimentario moroso, salvo que acredite estar al corriente del pago o que cancele en su totalidad la deuda, y que no cuente con registro vigente en algún padrón de deudores alimenticios."
+    },
+    {
+      "id": "132.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Fracción V",
+      "texto": "V.- No pertenecer al estado eclesiástico ni ser ministro de ningún culto."
+    },
+    {
+      "id": "132.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Fracción VI",
+      "texto": "VI.- No tener el carácter de servidor público, a menos que no haya ejercido o se separe del cargo noventa días antes de la elección, salvo que se trate de aquellos que desempeñen un empleo, cargo, comisión o de servicio de cualquier naturaleza dentro del ramo educativo público en cualquiera de sus tipos, modalidades o niveles, sea municipal, estatal o federal."
+    },
+    {
+      "id": "132.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › Fracción VII",
+      "texto": "VII.- No tener o haber tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula."
+    }
+  ]
+}

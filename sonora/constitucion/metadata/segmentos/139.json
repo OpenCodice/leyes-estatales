@@ -1,0 +1,99 @@
+{
+  "clave": "139",
+  "etiqueta": "Artículo 139",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "CAPITULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "139.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 139 › párrafo 1",
+      "texto": "Los Municipios administrarán los bienes de dominio público y privado de su patrimonio y podrán otorgar concesiones para su explotación, de conformidad con las leyes respectivas;"
+    },
+    {
+      "id": "139.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 139 › párrafo 2",
+      "texto": "administrarán libremente su hacienda, la que se formará con los rendimientos de los bienes que les pertenezcan, así como con las contribuciones y otros ingresos que establezca el Congreso del Estado a su favor, los cuales procederán de:"
+    },
+    {
+      "id": "139.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 139 › Apartado A",
+      "texto": "A) Contribuciones, incluyendo tasas adicionales, que establezcan las leyes sobre la propiedad inmobiliaria, su fraccionamiento, división, consolidación, traslación y mejora, así como los que tengan por base el cambio de valor de los inmuebles."
+    },
+    {
+      "id": "139.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 139 › Apartado A › párrafo 3",
+      "texto": "Los Municipios podrán celebrar convenios con el Estado para que éste se haga cargo de algunas de las funciones relacionadas con la administración de esas contribuciones."
+    },
+    {
+      "id": "139.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 139 › Apartado B",
+      "texto": "B) Los ingresos derivados de la prestación de los servicios públicos a su cargo."
+    },
+    {
+      "id": "139.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 139 › Apartado B › párrafo 4",
+      "texto": "No se establecerán exenciones ni se concederán subsidios respecto de las contribuciones señaladas en los incisos anteriores, en favor de personas físicas o morales, ni de instituciones oficiales o privadas. Sólo los bienes de dominio público de la Federación, del Estado o de los Municipios, estarán exentos de dichas contribuciones, salvo que tales bienes sean utilizados por entidades paraestatales o por particulares, bajo cualquier título, para fines administrativos o propósitos distintos a los de su objeto público."
+    },
+    {
+      "id": "139.C",
+      "tipo": "apartado",
+      "marca": "C",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 139 › Apartado C",
+      "texto": "C) Las participaciones federales que serán cubiertas por la Federación, a través del Estado, a los Municipios, con arreglo a las bases montos y plazos que anualmente se determinen por la Legislatura Local."
+    },
+    {
+      "id": "139.D",
+      "tipo": "apartado",
+      "marca": "D",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 139 › Apartado D",
+      "texto": "D) Subsidios, legados y donaciones que se establezcan a su favor."
+    },
+    {
+      "id": "139.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 139 › Apartado D › párrafo 5",
+      "texto": "Los Ayuntamientos, en el ámbito de su competencia, propondrán al Congreso del Estado las cuotas, tasas y tarifas aplicables a impuestos, derechos, contribuciones de mejoras y las tablas de valores unitarios de suelo y construcciones que sirvan de base para el cobro de las contribuciones sobre la propiedad inmobiliaria."
+    },
+    {
+      "id": "139.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 139 › Apartado D › párrafo 6",
+      "texto": "Los recursos que integran la Hacienda Municipal serán ejercidos en forma directa por los Ayuntamientos, o bien, por quien ellos autoricen conforme a la Ley, bajo los principios de honradez y eficacia según las bases establecidas en el artículo 150 de esta Constitución y en las leyes."
+    }
+  ]
+}

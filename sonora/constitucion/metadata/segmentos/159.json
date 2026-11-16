@@ -1,0 +1,45 @@
+{
+  "clave": "159",
+  "etiqueta": "Artículo 159",
+  "titulo": "TITULO SÉPTIMO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "159.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 159 › párrafo 1",
+      "texto": "En el caso de la fracción V del Artículo 76 de la Constitución General de la República, asumirá el Poder Ejecutivo cualquiera de las personas siguientes en el orden de su enumeración."
+    },
+    {
+      "id": "159.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 159 › Fracción I",
+      "texto": "I. El Presidente de la Diputación Permanente que intervino en la instalación de la Legislatura desaparecida."
+    },
+    {
+      "id": "159.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 159 › Fracción II",
+      "texto": "II. El último Presidente del Supremo Tribunal inmediatamente anterior al desaparecido."
+    },
+    {
+      "id": "159.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 159 › Fracción III",
+      "texto": "III. El último Secretario de Gobierno del régimen inmediatamente anterior al desaparecido.\n\nCuando la desaparición ocurriera durante los dos primeros años del período Constitucional, la persona que asuma el Poder Ejecutivo convocará desde luego a elecciones de Gobernador y de Diputados, sujetándose a la forma y términos prescritos por esta Constitución, y designará con carácter provisional a los Magistrados del Supremo Tribunal de Justicia. Cuando dicha desaparición sobreviniera durante los cuatro últimos años del período, el que asuma el Poder Ejecutivo convocará a elecciones de diputados y nombrará con carácter provisional a los Magistrados del Supremo Tribunal de Justicia.\n\nLa instalación de la Legislatura, en uno y otro caso, la hará la última Diputación Permanente, la cual será presidida por el Vicepresidente de la misma si su Presidente hubiere asumido el Poder Ejecutivo de conformidad con este artículo. Los Magistrados del Supremo Tribunal, nombrados con carácter provisional, seguirán en funciones entre tanto aprueba el Congreso los nombramientos de propietarios, que deberá someterle el Ejecutivo a más tardar dentro de treinta días contados a partir de la instalación de la Legislatura. Quien asumiere el Poder Ejecutivo en los casos de este articulo dictará todas aquellas medidas estrictamente indispensables para la buena marcha de la administración pública.\n\nEn el segundo de los casos mencionados, la persona que asuma el Poder Ejecutivo comunicará al Ejecutivo Federal la situación que prevalece para que se dé cumplimiento a la designación por parte del Senado, de Gobernador Substituto Constitucional, mediante terna que para tal efecto le enviará el Presidente de la República, de conformidad con la fracción V del Articulo 76 de la Constitución Federal."
+    }
+  ]
+}

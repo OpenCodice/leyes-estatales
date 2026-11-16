@@ -1,0 +1,27 @@
+{
+  "clave": "119",
+  "etiqueta": "Artículo 119",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "119.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › párrafo 1",
+      "texto": "Cuando algún Magistrado del Supremo Tribunal de Justicia estuviera impedido para conocer de un asunto determinado, será suplido, en los términos establecidos por la ley orgánica respectiva. Si el Magistrado impedido fuere el ponente de dicho asunto, quien lo substituya no asumirá la ponencia, quedando la elaboración del proyecto de resolución a cargo del magistrado siguiente en número, a quien no afecte impedimento."
+    },
+    {
+      "id": "119.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › párrafo 2",
+      "texto": "Cuando todos los magistrados en ejercicio estuvieron impedidos para conocer de determinado negocio, el Supremo Tribunal de Justicia se integrará por Magistrados suplentes, correspondiendo presidir los debates y ser ponente, al primero que conforme a la ley hubiera sido llamado."
+    }
+  ]
+}

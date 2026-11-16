@@ -1,0 +1,45 @@
+{
+  "clave": "009",
+  "etiqueta": "Artículo 9",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "009.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › párrafo 1",
+      "texto": "Son sonorenses:"
+    },
+    {
+      "id": "009.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Fracción I",
+      "texto": "I.- Los nacidos en el territorio del Estado."
+    },
+    {
+      "id": "009.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Fracción II",
+      "texto": "II.- Los mexicanos que tengan una residencia efectiva de dos años en el Estado."
+    },
+    {
+      "id": "009.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Fracción III",
+      "texto": "III.- Los hijos de padres sonorenses nacidos fuera del Estado, pero dentro del territorio de la República."
+    }
+  ]
+}

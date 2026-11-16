@@ -1,0 +1,27 @@
+{
+  "clave": "067-bis",
+  "etiqueta": "Artículo 67 Bis",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPÍTULO II BIS",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "067-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 Bis › párrafo 1",
+      "texto": "El Tribunal de Justicia Administrativa es un órgano dotado de plena autonomía para dictar sus fallos y establecer su organización, funcionamiento, procedimientos y, en su caso, recursos contra sus resoluciones. Este Tribunal, tiene a su cargo dirimir las controversias que se susciten entre la administración pública estatal y municipal y los particulares; imponer, en los términos que disponga la ley, las sanciones a los servidores públicos estatales y municipales por responsabilidad administrativa grave, y a los particulares que incurran en actos vinculados con faltas administrativas graves; así como fincar a los responsables, el pago de las indemnizaciones y sanciones pecuniarias que deriven de los daños y perjuicios que afecten a la Hacienda Pública Estatal o Municipal o al patrimonio de los entes públicos estatales o municipales y demás competencias que otorgue la ley."
+    },
+    {
+      "id": "067-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 Bis › párrafo 2",
+      "texto": "El Tribunal de Justicia Administrativa funcionará mediante una Sala Superior, la cual se compondrá de cinco Magistrados que serán nombrados por el titular del Poder Ejecutivo y ratificados mediante el voto de las dos terceras partes de los diputados presentes en la sesión que corresponda. Durarán en su encargo nueve años, pudiendo ser considerados para nuevos nombramientos."
+    }
+  ]
+}

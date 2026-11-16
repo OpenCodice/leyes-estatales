@@ -1,0 +1,45 @@
+{
+  "clave": "067-septies",
+  "etiqueta": "Artículo 67 Septies",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPÍTULO II BIS",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "067-septies.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 Septies › párrafo 1",
+      "texto": "El Instituto se integrará por:"
+    },
+    {
+      "id": "067-septies.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 Septies › Fracción I",
+      "texto": "I.- Un Consejo Ciudadano, compuesto por cinco consejeros ciudadanos con derecho a voz y voto;"
+    },
+    {
+      "id": "067-septies.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 Septies › Fracción II",
+      "texto": "II.- Un Comisionado Estatal del Instituto de Gestión Integral de Riesgos y Protección Civil del Estado de Sonora, que presidirá el Consejo y tendrá voto de calidad en caso de empate;"
+    },
+    {
+      "id": "067-septies.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 67 Septies › Fracción III",
+      "texto": "III.- Un Consejo Técnico Asesor, integrado por representantes de instituciones académicas, científicas y de la sociedad civil especializada.\n\nEl Consejo Ciudadano y el Consejo Técnico Asesor se integrarán conforme a los términos que establezca la ley de la materia."
+    }
+  ]
+}

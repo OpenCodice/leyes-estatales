@@ -1,0 +1,27 @@
+{
+  "clave": "050",
+  "etiqueta": "Artículo 50",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "050.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 1",
+      "texto": "Los Diputados en funciones, durante el periodo de su encargo, no podrán desempeñar comisión o empleo alguno de la Federación, de los otros Poderes del Estado o del Municipio, o cualquier otra responsabilidad pública, disfrutando sueldo o remuneración, a no ser que tengan licencia del Congreso; pero concedida que fuere esta licencia, cesarán en sus funciones legislativas mientras desempeñan el empleo o comisión. La infracción de esta disposición será castigada con la pérdida del carácter de Diputado."
+    },
+    {
+      "id": "050.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 2",
+      "texto": "Se deroga."
+    }
+  ]
+}

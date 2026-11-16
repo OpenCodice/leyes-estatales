@@ -1,0 +1,54 @@
+{
+  "clave": "150",
+  "etiqueta": "Artículo 150",
+  "titulo": "TITULO SÉPTIMO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "150.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 150 › párrafo 1",
+      "texto": "Los recursos económicos de que disponga el Gobierno del Estado, los municipios, así como sus respectivas administraciones públicas descentralizadas, y los organismos autónomos, se administrarán con eficiencia, eficacia, economía, transparencia y honradez para cumplir los objetivos y programas a los que estén destinados."
+    },
+    {
+      "id": "150.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 150 › párrafo 2",
+      "texto": "Los resultados del ejercicio de dichos recursos serán evaluados por el Instituto Superior de Auditoría y Fiscalización, con el objeto de propiciar que los recursos económicos se asignen en los respectivos presupuestos en los términos del párrafo anterior. Lo anterior, sin menoscabo de lo dispuesto en el artículo 67 de esta Constitución."
+    },
+    {
+      "id": "150.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 150 › párrafo 3",
+      "texto": "Las adquisiciones, arrendamientos y enajenaciones de todo tipo de bienes, prestación de servicios de cualquier naturaleza y la contratación de obra que realicen, se adjudicarán o llevarán a cabo a través de licitaciones públicas mediante convocatoria pública para que libremente se presenten proposiciones solventes en sobre cerrado, que será abierto públicamente, a fin de asegurar las mejores condiciones disponibles en cuanto a precio, calidad, financiamiento, oportunidad y demás circunstancias pertinentes."
+    },
+    {
+      "id": "150.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 150 › párrafo 4",
+      "texto": "El manejo de recursos económicos estatales se sujetará a las bases de esta Constitución."
+    },
+    {
+      "id": "150.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 150 › párrafo 5",
+      "texto": "Tratándose de esquemas de contratación distintos a las licitaciones públicas, la suma de los montos de los contratos que se realicen no podrá exceder del treinta por ciento del presupuesto autorizado a cada dependencia o entidad, para realizar obra pública y servicios relacionados a la misma en cada ejercicio presupuestal, sin que para el cálculo de dicho porcentaje se tomen en cuenta recursos presupuestales que estén destinados a mezclarse con recursos federales, ni tampoco incluirse estos últimos."
+    }
+  ]
+}
