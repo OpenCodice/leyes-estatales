@@ -1,0 +1,486 @@
+{
+  "clave": "077",
+  "etiqueta": "Artículo 77",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "077.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › párrafo 1",
+      "texto": "Son facultades y obligaciones de la Gobernadora o del Gobernador del Estado:"
+    },
+    {
+      "id": "077.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción I",
+      "texto": "I. Cumplir y hacer cumplir la Constitución Federal, las leyes del Congreso de la Unión y los Tratados Internacionales en materia de derechos fundamentales de los que el Estado Mexicano sea parte;"
+    },
+    {
+      "id": "077.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción II",
+      "texto": "II. Cuidar el cumplimiento de la presente Constitución y de las leyes, reglamentos, acuerdos y demás disposiciones que de ella emanen, expidiendo al efecto las órdenes correspondientes;"
+    },
+    {
+      "id": "077.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción III",
+      "texto": "III. Promulgar y publicar las leyes, decretos o acuerdos que expida la Legislatura del Estado, proveyendo en la esfera administrativa a su exacta observancia;"
+    },
+    {
+      "id": "077.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción IV",
+      "texto": "IV. Expedir los reglamentos necesarios para la ejecución y cumplimiento de las leyes y decretos expedidos por la Legislatura."
+    },
+    {
+      "id": "077.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción V",
+      "texto": "V. Presentar ante la Legislatura del Estado iniciativas de ley o decreto;"
+    },
+    {
+      "id": "077.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción VI",
+      "texto": "VI. Planear y conducir el desarrollo integral del Estado; formular, aprobar, desarrollar, ejecutar, controlar y evaluar el Plan Estatal de Desarrollo, planes sectoriales, metropolitanos y regionales, y los programas que de éstos se deriven. En los procesos de planeación metropolitana y regional deberá consultarse a los ayuntamientos;"
+    },
+    {
+      "id": "077.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción VII",
+      "texto": "VII. Convocar a la Legislatura a sesiones extraordinarias por conducto de la Diputación Permanente, expresando el objeto de ellas;"
+    },
+    {
+      "id": "077.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción VIII",
+      "texto": "VIII. Ejercitar todos los derechos que asigna a la Nación el artículo 27 de la Constitución Federal, siempre que por el texto mismo de ese artículo o por las disposiciones federales que de él se deriven no deban considerarse como reservados al Gobierno Federal o concedidos a los Cuerpos Municipales;"
+    },
+    {
+      "id": "077.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción IX",
+      "texto": "IX. Conservar el orden público en todo el territorio del Estado; mandar personalmente las fuerzas de seguridad pública del Estado y coordinarse en esta materia con la Federación, otras entidades y los municipios en términos de ley;"
+    },
+    {
+      "id": "077.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción X",
+      "texto": "X. Cuidar de la instrucción de la Guardia Nacional en el Estado, conforme a las leyes y reglamentos federales y mandarla como jefe;"
+    },
+    {
+      "id": "077.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XI",
+      "texto": "XI. Formular observaciones, dentro de los treinta días naturales siguientes a su recepción, a las leyes o decretos aprobados por la Legislatura, en términos de lo dispuesto por el artículo 59 de esta Constitución."
+    },
+    {
+      "id": "077.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XII",
+      "texto": "XII. Nombrar a las y los Magistrados del Tribunal de Justicia Administrativa del Estado de México, sometiendo los nombramientos a la aprobación de la Legislatura o de la Diputación Permanente, en su caso. En las designaciones respectivas, se favorecerá el principio de igualdad y equidad de género;"
+    },
+    {
+      "id": "077.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XIII",
+      "texto": "XIII. Aceptar las renuncias de las Magistradas y los Magistrados del Tribunal de Justicia Administrativa del Estado de México, previo sometimiento a la aprobación de la Legislatura o de la Diputación Permanente, en su caso, así como acordar sus licencias cuando éstas excedan de tres meses, sometiéndolas a la aprobación de la Legislatura del Estado o la Diputación permanente en su caso;"
+    },
+    {
+      "id": "077.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XIV",
+      "texto": "XIV. Nombrar y remover libremente a las personas servidoras públicas del Estado cuyo nombramiento o remoción no estén determinados en otra forma por esta Constitución y por las leyes.\n\nLos nombramientos que realice garantizaran el principio de igualdad y paridad de género. Las leyes determinarán las formas y modalidades que correspondan."
+    },
+    {
+      "id": "077.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XV",
+      "texto": "XV. Solicitar a la Legislatura Local, o en su caso, a la Diputación Permanente, la destitución por faltas graves, de las y los Magistrados del Tribunal de Justicia Administrativa del Estado de México."
+    },
+    {
+      "id": "077.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XVI",
+      "texto": "XVI. Hacer que las sentencias ejecutoriadas dictadas por los tribunales en materia penal sean debidamente ejecutadas;"
+    },
+    {
+      "id": "077.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XVII",
+      "texto": "XVII. Conceder el indulto necesario y por gracia, con arreglo a la ley de la materia."
+    },
+    {
+      "id": "077.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XVIII",
+      "texto": "XVIII. Rendir a la Legislatura del Estado, a través de la entrega, por sí mismo o por medio de un representante, de un documento impreso o de un archivo en medio magnético o electrónico, dentro del mes de septiembre de cada año, previo aviso a la Legislatura, por lo menos, con ocho días naturales de anticipación, el informe acerca del estado que guarde la administración pública, con excepción del último año del período constitucional de la Gobernadora o del Gobernador del Estado que deberá ser en los primeros quince días del mes de septiembre, en cuyo caso, el aviso deberá darse, por lo menos, con cinco días naturales de anticipación;"
+    },
+    {
+      "id": "077.XIX",
+      "tipo": "fraccion",
+      "marca": "XIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XIX",
+      "texto": "XIX. Enviar cada año a la Legislatura, a más tardar el 21 de noviembre, los proyectos de ley de ingresos y presupuesto de egresos del Gobierno del Estado, que deberán regir en el año fiscal inmediato siguiente, o hasta el 20 de diciembre, cuando inicie su periodo Constitucional el Ejecutivo Federal, y presentar la cuenta pública del año inmediato anterior, a más tardar el 30 de abril del año siguiente.\n\nDicho Presupuesto deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos conforme a lo previsto en el artículo 147 de esta Constitución."
+    },
+    {
+      "id": "077.XX",
+      "tipo": "fraccion",
+      "marca": "XX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XX",
+      "texto": "XX. Enviar cada año a la Legislatura a más tardar el 21 de noviembre o el 20 de diciembre, cuando inicie el periodo constitucional el Ejecutivo Federal, el proyecto de Ley de Ingresos de los Municipios, que considerará las propuestas que formulen los Ayuntamientos y que regirá en el año fiscal inmediato siguiente;"
+    },
+    {
+      "id": "077.XXI",
+      "tipo": "fraccion",
+      "marca": "XXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXI",
+      "texto": "XXI. Cuidar la recaudación y buena administración de la Hacienda Pública del Estado;"
+    },
+    {
+      "id": "077.XXII",
+      "tipo": "fraccion",
+      "marca": "XXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXII",
+      "texto": "XXII. Informar a la Legislatura por escrito o verbalmente, por conducto del titular de la dependencia a que corresponda el asunto, sobre cualquier ramo de la administración, cuando la Legislatura lo solicite;"
+    },
+    {
+      "id": "077.XXIII",
+      "tipo": "fraccion",
+      "marca": "XXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXIII",
+      "texto": "XXIII. Convenir con la Federación la asunción del ejercicio de funciones, la ejecución y operación de obras y la prestación de servicios públicos cuando el desarrollo económico y social lo haga necesario;"
+    },
+    {
+      "id": "077.XXIV",
+      "tipo": "fraccion",
+      "marca": "XXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXIV",
+      "texto": "XXIV. Fomentar la organización de instituciones para difundir o inculcar entre los habitantes de Estado, hábitos, costumbres o actividades que les permitan mejorar su nivel de vida;"
+    },
+    {
+      "id": "077.XXV",
+      "tipo": "fraccion",
+      "marca": "XXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXV",
+      "texto": "XXV. Nombrar y remover a la o el titular del Centro de Conciliación Laboral de conformidad con la legislación aplicable;"
+    },
+    {
+      "id": "077.XXVI",
+      "tipo": "fraccion",
+      "marca": "XXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXVI",
+      "texto": "XXVI. Prestar apoyo a los poderes Legislativo y Judicial y a los ayuntamientos, cuando le sea solicitado, para el ejercicio de sus funciones;"
+    },
+    {
+      "id": "077.XXVII",
+      "tipo": "fraccion",
+      "marca": "XXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXVII",
+      "texto": "XXVII. Derogada."
+    },
+    {
+      "id": "077.XXVIII",
+      "tipo": "fraccion",
+      "marca": "XXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXVIII",
+      "texto": "XXVIII. Conducir y administrar los ramos de la administración pública del gobierno del Estado, dictando y poniendo en ejecución las políticas correspondientes mediante las acciones públicas y los procedimientos necesarios para este fin;"
+    },
+    {
+      "id": "077.XXIX",
+      "tipo": "fraccion",
+      "marca": "XXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXIX",
+      "texto": "XXIX. Crear organismos auxiliares, cuya operación quedará sujeta a la ley reglamentaria;"
+    },
+    {
+      "id": "077.XXX",
+      "tipo": "fraccion",
+      "marca": "XXX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXX",
+      "texto": "XXX. Determinar los casos en los que sea de utilidad pública la ocupación de la propiedad privada y decretar la expropiación en términos de la ley respectiva;"
+    },
+    {
+      "id": "077.XXXI",
+      "tipo": "fraccion",
+      "marca": "XXXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXXI",
+      "texto": "XXXI. Asumir la representación política y jurídica del Municipio para tratar los asuntos que deban resolverse fuera del territorio estatal;"
+    },
+    {
+      "id": "077.XXXII",
+      "tipo": "fraccion",
+      "marca": "XXXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXXII",
+      "texto": "XXXII. Proponer a la Legislatura del Estado las ternas correspondientes para la designación de ayuntamientos provisionales, concejos municipales y miembros de los cuerpos edilicios en los casos previstos por ésta Constitución y en la ley orgánica respectiva;"
+    },
+    {
+      "id": "077.XXXIII",
+      "tipo": "fraccion",
+      "marca": "XXXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXXIII",
+      "texto": "XXXIII. Ser el conducto para cubrir a los Municipios las Participaciones Federales que les correspondan conforme a las bases, montos y plazos que fije la Legislatura;"
+    },
+    {
+      "id": "077.XXXIV",
+      "tipo": "fraccion",
+      "marca": "XXXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXXIV",
+      "texto": "XXXIV. Enviar a la Legislatura, al término de cada período constitucional, una memoria sobre el estado de los asuntos públicos;"
+    },
+    {
+      "id": "077.XXXV",
+      "tipo": "fraccion",
+      "marca": "XXXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXXV",
+      "texto": "XXXV. Formar la estadística del Estado y normar, con la participación de los municipios, la organización y funcionamiento del catastro y, en su caso, administrarlo conjuntamente con éstos, en la forma que establezca la ley;"
+    },
+    {
+      "id": "077.XXXVI",
+      "tipo": "fraccion",
+      "marca": "XXXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXXVI",
+      "texto": "XXXVI. Celebrar convenios con los municipios para la asunción por éstos, del ejercicio de funciones, ejecución y operación de obras y prestación de servicios públicos federales que el Estado asuma, en términos de la fracción XXIII de este artículo;"
+    },
+    {
+      "id": "077.XXXVII",
+      "tipo": "fraccion",
+      "marca": "XXXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXXVII",
+      "texto": "XXXVII. Otorgar el nombramiento de notario con arreglo a la ley de la materia;"
+    },
+    {
+      "id": "077.XXXVIII",
+      "tipo": "fraccion",
+      "marca": "XXXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXXVIII",
+      "texto": "XXXVIII. Las que sean propias de la autoridad pública del Gobierno del Estado y que no estén expresamente asignadas por esta Constitución a los otros Poderes del mismo Gobierno o a las autoridades de los municipios;"
+    },
+    {
+      "id": "077.XXXIX",
+      "tipo": "fraccion",
+      "marca": "XXXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XXXIX",
+      "texto": "XXXIX. Convenir con los municipios, para que el Gobierno del Estado, de manera directa o a través del organismo correspondiente, se haga cargo en forma temporal del ejercicio de funciones o de la prestación de servicios públicos municipales, o bien se presten o ejerzan coordinadamente por el Estado y el propio municipio;"
+    },
+    {
+      "id": "077.XL",
+      "tipo": "fraccion",
+      "marca": "XL",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XL",
+      "texto": "XL. Girar órdenes a la policía preventiva municipal en aquéllos casos en que juzgue como de fuerza mayor o alteración grave del orden público;"
+    },
+    {
+      "id": "077.XLI",
+      "tipo": "fraccion",
+      "marca": "XLI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XLI",
+      "texto": "XLI. Comunicar por escrito, con anticipación a su salida, a la Legislatura o a la Diputación Permanente, señalando los propósitos y objetivos del viaje e informar de las acciones realizadas dentro de los diez días siguientes de su regreso."
+    },
+    {
+      "id": "077.XLII",
+      "tipo": "fraccion",
+      "marca": "XLII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XLII",
+      "texto": "XLII. Representar al Estado en las controversias constitucionales establecidas en la fracción I del artículo 105 de la Constitución Política de los Estados Unidos Mexicanos, ante la Suprema Corte de Justicia de la Nación;"
+    },
+    {
+      "id": "077.XLIII",
+      "tipo": "fraccion",
+      "marca": "XLIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XLIII",
+      "texto": "XLIII. Representar al Poder Ejecutivo en las controversias constitucionales previstas en el artículo 88 Bis de esta Constitución;"
+    },
+    {
+      "id": "077.XLIV",
+      "tipo": "fraccion",
+      "marca": "XLIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XLIV",
+      "texto": "XLIV. Representar al Estado ante cualquier autoridad judicial del ámbito Federal o del fuero común, así como ante autoridades administrativas Federales o Locales en los procedimientos legales en que sea parte, sin perjuicio de las facultades que otorga esta Constitución a los otros poderes;"
+    },
+    {
+      "id": "077.XLV",
+      "tipo": "fraccion",
+      "marca": "XLV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XLV",
+      "texto": "XLV. Asumir la representación política y jurídica del Estado en los conflictos sobre límites territoriales que prevé el artículo 46 de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "077.XLVI",
+      "tipo": "fraccion",
+      "marca": "XLVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XLVI",
+      "texto": "XLVI. Solicitar a la Legislatura las consultas populares sobre los temas de trascendencia estatal, conforme a lo dispuesto en la presente Constitución y las leyes aplicables en la materia;"
+    },
+    {
+      "id": "077.XLVII",
+      "tipo": "fraccion",
+      "marca": "XLVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XLVII",
+      "texto": "XLVII. Derogada."
+    },
+    {
+      "id": "077.XLVIII",
+      "tipo": "fraccion",
+      "marca": "XLVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XLVIII",
+      "texto": "XLVIII. Optar en cualquier momento por un gobierno de coalición con uno o varios de los partidos políticos representados en la Legislatura del Estado.\n\nEl gobierno de coalición se regulará por el convenio y el programa respectivos, los cuales deberán ser aprobados por mayoría de las Diputadas y los Diputados presentes en la sesión del pleno de la Legislatura donde se discuta. Si la Legislatura se encontrara en receso la Diputación Permanente convocará de inmediato a la Legislatura del Estado a un periodo extraordinario. El convenio establecerá las causas de la disolución del gobierno de coalición."
+    },
+    {
+      "id": "077.XLIX",
+      "tipo": "fraccion",
+      "marca": "XLIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Fracción XLIX",
+      "texto": "XLIX. Garantizar la aplicación de las reglas y criterios de disciplina financiera, equilibrio presupuestario y responsabilidad hacendaria."
+    },
+    {
+      "id": "077.L",
+      "tipo": "apartado",
+      "marca": "L",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Apartado L",
+      "texto": "L. Celebrar el convenio correspondiente con la Secretaría de Hacienda y Crédito Público para adherirse al mecanismo de contratación de Deuda Estatal Garantizada."
+    },
+    {
+      "id": "077.L.LI",
+      "tipo": "fraccion",
+      "marca": "LI",
+      "apartado": "L",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Apartado L › Fracción LI",
+      "texto": "LI. Postular hasta dos personas aspirantes para ocupar cada cargo de Magistraturas del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial, y Juezas y Jueces del Poder Judicial, conforme al procedimiento establecido en esta Constitución, observando el principio de paridad de género, y"
+    },
+    {
+      "id": "077.L.LII",
+      "tipo": "fraccion",
+      "marca": "LII",
+      "apartado": "L",
+      "fraccion": "",
+      "ruta": "Artículo 77 › Apartado L › Fracción LII",
+      "texto": "LII. Las demás que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución, las leyes federales o las del Estado y sus respectivos reglamentos le atribuyen."
+    }
+  ]
+}

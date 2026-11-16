@@ -1,0 +1,27 @@
+{
+  "clave": "059",
+  "etiqueta": "Artículo 59",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "059.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59 › párrafo 1",
+      "texto": "La Gobernadora o el Gobernador del Estado podrá formular observaciones a las leyes o decretos que expida la Legislatura y remitirlas para su discusión y, en su caso, aprobación dentro de los treinta días naturales siguientes a su recepción."
+    },
+    {
+      "id": "059.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 59 › párrafo 2",
+      "texto": "Las leyes o decretos desechados en todo o en parte por el Ejecutivo, serán devueltos, con sus observaciones a la Legislatura. Deberán ser discutidos de nuevo por ésta, y si fuesen confirmados por las dos terceras partes del número total de sus integrantes serán ley o decreto y volverán al Ejecutivo para su promulgación."
+    }
+  ]
+}

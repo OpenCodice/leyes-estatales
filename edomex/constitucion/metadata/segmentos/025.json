@@ -1,0 +1,36 @@
+{
+  "clave": "025",
+  "etiqueta": "Artículo 25",
+  "titulo": "TITULO TERCERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "025.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 1",
+      "texto": "Son vecinos del Estado:"
+    },
+    {
+      "id": "025.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción I",
+      "texto": "I. Los habitantes que tengan cuando menos seis meses de residencia fija en determinado lugar del territorio de la entidad con el ánimo de permanecer en él; y"
+    },
+    {
+      "id": "025.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción II",
+      "texto": "II. Los que antes del tiempo señalado manifiesten a la autoridad municipal su deseo de adquirir la vecindad y acrediten haber hecho la manifestación contraria ante la autoridad del lugar donde tuvieron inmediatamente antes su residencia."
+    }
+  ]
+}

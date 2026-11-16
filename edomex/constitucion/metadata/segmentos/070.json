@@ -1,0 +1,27 @@
+{
+  "clave": "070",
+  "etiqueta": "Artículo 70",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "070.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 1",
+      "texto": "Cuando el Gobernador electo por causa de fuerza mayor, no se presente a desempeñar sus funciones el día en que deba tener lugar la renovación del período constitucional, lo suplirá el Presidente del Tribunal Superior de Justicia entre tanto la Legislatura se reúne para nombrar un Gobernador interino."
+    },
+    {
+      "id": "070.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 2",
+      "texto": "Si dentro de 30 días siguientes al inicio del período constitucional, el electo no se presenta a rendir protesta, la Legislatura convocará de inmediato a elecciones extraordinarias, las cuales deberán realizarse en un plazo no mayor de 120 días a partir del inicio del período constitucional."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "047",
+  "etiqueta": "Artículo 47",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "047.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › párrafo 1",
+      "texto": "En cualquier tiempo, la Diputación Permanente o el Ejecutivo del Estado por conducto de aquélla, podrán convocar a la Legislatura a sesiones extraordinarias."
+    },
+    {
+      "id": "047.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 47 › párrafo 2",
+      "texto": "Los períodos extraordinarios de sesiones se destinarán exclusivamente para deliberar sobre el asunto o asuntos comprendidos en la convocatoria, y concluirán antes del día de la apertura de sesiones ordinarias, aún cuando no hubieren llegado a terminarse los asuntos que motivaron su reunión, reservando su conclusión para las sesiones ordinarias."
+    }
+  ]
+}

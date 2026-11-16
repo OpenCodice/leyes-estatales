@@ -1,0 +1,27 @@
+{
+  "clave": "139-bis",
+  "etiqueta": "Artículo 139 Bis",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "139-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 139 Bis › párrafo 1",
+      "texto": "La simplificación administrativa, la digitalización de trámites y servicios, las buenas prácticas regulatorias, el Gobierno Digital y el desarrollo y fortalecimiento de capacidades tecnológicas públicas son instrumentos para el desarrollo y bienestar de las personas, grupos, comunidades y sectores sociales y económicos."
+    },
+    {
+      "id": "139-bis.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 139 Bis › párrafo 2",
+      "texto": "Es obligatorio para los Poderes del Estado, y los municipios, sus dependencias, organismos auxiliares y los organismos autónomos, implementar de manera permanente, continua y coordinada los modelos, herramientas y acciones que establezcan las disposiciones jurídicas aplicables, con el objetivo de generar certeza, seguridad jurídica, fomentar la transparencia, la eficacia y el gobierno abierto, y facilitar la gestión pública mediante el uso de las tecnologías de la información y comunicaciones."
+    }
+  ]
+}

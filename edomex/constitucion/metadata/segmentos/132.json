@@ -1,0 +1,27 @@
+{
+  "clave": "132",
+  "etiqueta": "Artículo 132",
+  "titulo": "TITULO SÉPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "132.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › párrafo 1",
+      "texto": "Tratándose de los delitos a que se refiere el artículo anterior, la Legislatura erigida en Gran Jurado declarará por mayoría absoluta del número total de sus integrantes si ha lugar o no a proceder contra el acusado. En caso negativo, no habrá procedimiento ulterior, pero tal declaración no será obstáculo para que la acusación continúe su curso cuando la persona haya dejado el cargo, salvo en el caso de prescripción de la acción conforme a la ley penal, los plazos de ésta se interrumpen en tanto el servidor desempeña alguno de los encargos a que se refiere el artículo anterior. En caso afirmativo, el acusado quedará separado de su cargo y sujeto a la acción de los tribunales comunes; si la decisión de éstos fuera condenatoria, el mismo acusado quedará separado definitivamente, y si es absolutoria podrá reasumir su función."
+    },
+    {
+      "id": "132.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 132 › párrafo 2",
+      "texto": "Contra las declaraciones y resoluciones de la Legislatura erigida en Gran Jurado no procede juicio o recurso alguno."
+    }
+  ]
+}

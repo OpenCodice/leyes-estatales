@@ -1,0 +1,36 @@
+{
+  "clave": "079",
+  "etiqueta": "Artículo 79",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "079.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › párrafo 1",
+      "texto": "Para ser Secretaria o Secretario General de Gobierno se requiere cumplir los mismos requisitos que para ser Gobernadora o Gobernador del Estado."
+    },
+    {
+      "id": "079.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › párrafo 2",
+      "texto": "Para ser secretaria o secretario del despacho del Ejecutivo, se requiere ser ciudadana mexicana o ciudadano mexicano en pleno ejercicio de sus derechos, y tener como mínimo 25 años cumplidos al día de la designación."
+    },
+    {
+      "id": "079.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › párrafo 3",
+      "texto": "En los nombramientos de las personas titulares en la administración pública del Poder Ejecutivo del Estado se deberá garantizar el principio de igualdad y paridad de género."
+    }
+  ]
+}

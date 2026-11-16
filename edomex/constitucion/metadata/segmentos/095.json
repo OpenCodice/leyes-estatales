@@ -1,0 +1,63 @@
+{
+  "clave": "095",
+  "etiqueta": "Artículo 95",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "095.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › párrafo 1",
+      "texto": "Corresponde al Pleno del Tribunal Superior de Justicia:"
+    },
+    {
+      "id": "095.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › Fracción I",
+      "texto": "I. Iniciar leyes o decretos;"
+    },
+    {
+      "id": "095.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › Fracción II",
+      "texto": "II. Postular, mediante votación de dos terceras partes de sus integrantes presentes, hasta dos personas aspirantes para ocupar cada cargo de Magistraturas del Tribunal Superior de Justicia y del Tribunal de Disciplina Judicial y Juezas y Jueces del Poder Judicial, conforme al procedimiento establecido en esta Constitución, observando el principio de paridad de género;"
+    },
+    {
+      "id": "095.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › Fracción III",
+      "texto": "III. Dirimir los conflictos de competencia que se susciten entre las salas regionales del Tribunal;"
+    },
+    {
+      "id": "095.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › Fracción IV",
+      "texto": "IV. Expedir y modificar el Reglamento Interior del Tribunal; y"
+    },
+    {
+      "id": "095.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › Fracción V",
+      "texto": "V. Ejercer las atribuciones que le señalen la Ley Orgánica del Poder Judicial y otros ordenamientos legales."
+    }
+  ]
+}

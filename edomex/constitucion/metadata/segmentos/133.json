@@ -1,0 +1,27 @@
+{
+  "clave": "133",
+  "etiqueta": "Artículo 133",
+  "titulo": "TITULO SÉPTIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "133.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › párrafo 1",
+      "texto": "La Gobernadora o el Gobernador del Estado, cuando el caso lo amerite, podrá pedir a la Legislatura o a la Diputación Permanente la destitución de las Magistradas o Magistrados del Tribunal de Justicia Administrativa del Estado de México. Si por el voto de las dos terceras partes de los miembros de la Legislatura o de la Diputación Permanente, en sesión de una u otra, se declara justificada la petición, la magistrada acusada o el magistrado acusado quedará privada o privado de su puesto a partir de la fecha en que se le haga saber la resolución, independientemente de la responsabilidad en que, en su caso, haya incurrido y se procederá a nueva designación."
+    },
+    {
+      "id": "133.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › párrafo 2",
+      "texto": "El Tribunal de Disciplina Judicial del Estado de México, cuando el caso lo amerite, por la comisión de delitos del fuero común, incluidas aquellas faltas y delitos relacionados con actos de corrupción, podrá pedir a la Legislatura o a la Diputación Permanente la destitución de las Magistradas o Magistrados del Tribunal Superior de Justicia, del Tribunal de Disciplina Judicial o de las personas integrantes del Órgano de Administración Judicial, misma que será aprobada en su caso por el voto de las dos terceras partes de los miembros presentes de la Legislatura o de la Diputación Permanente, en términos del procedimiento que al efecto determine la ley."
+    }
+  ]
+}

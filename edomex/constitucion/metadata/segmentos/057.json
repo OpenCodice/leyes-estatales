@@ -1,0 +1,36 @@
+{
+  "clave": "057",
+  "etiqueta": "Artículo 57",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "057.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › párrafo 1",
+      "texto": "Toda resolución de la Legislatura tendrá el carácter de ley, decreto, iniciativa al Congreso de la Unión o acuerdo. Las leyes o decretos aprobados se comunicarán al Ejecutivo para su promulgación, publicación y observancia, salvo aquéllos que sean de la incumbencia exclusiva de la Legislatura, en los que no tendrá el derecho de veto."
+    },
+    {
+      "id": "057.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › párrafo 2",
+      "texto": "Las leyes o decretos aprobados se comunicarán al Ejecutivo firmados por la Presidenta o el Presidente y las secretarias o los secretarios, y los acuerdos por las secretarias o los secretarios."
+    },
+    {
+      "id": "057.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › párrafo 3",
+      "texto": "Las iniciativas al Congreso de la Unión se comunicarán también con la firma de la Presidenta o del Presidente y las secretarias o los secretarios."
+    }
+  ]
+}

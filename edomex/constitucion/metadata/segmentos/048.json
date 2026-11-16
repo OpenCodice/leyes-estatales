@@ -1,0 +1,45 @@
+{
+  "clave": "048",
+  "etiqueta": "Artículo 48",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "048.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › párrafo 1",
+      "texto": "Las diputadas y los diputados en ejercicio tienen el deber de acudir a todas las sesiones ordinarias y extraordinarias y votar la resolución de los asuntos sujetos a debate. El mismo deber asiste a las diputadas y los diputados electos de concurrir a las juntas preparatorias necesarias a que sean convocados."
+    },
+    {
+      "id": "048.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › párrafo 2",
+      "texto": "En ningún caso la Legislatura del Estado podrá sesionar sin la concurrencia de la mitad más uno del total de sus miembros."
+    },
+    {
+      "id": "048.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › párrafo 3",
+      "texto": "Las diputadas y los diputados que asistan tanto a las juntas preparatorias como a las sesiones ordinarias y extraordinarias, y estás excepcionalmente no pudieran celebrarse por falta de quórum, deberán compeler a las y los ausentes a que se presenten en un plazo que no exceda de 48 horas, apercibidos de que, si no lo hacen, se llamará desde luego a las y los suplentes; y si éstas o éstos no se presentaran después de haber sido apercibidos, se declarará vacante la diputación y, si procede, se convocará elecciones extraordinarias."
+    },
+    {
+      "id": "048.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 48 › párrafo 4",
+      "texto": "Las diputadas y los diputados que falten a tres sesiones consecutivas sin previa licencia de la Presidenta o del Presidente de la Legislatura, perderán el derecho de ejercer sus funciones durante el periodo en que ocurran las faltas y se llamará desde luego a los suplentes."
+    }
+  ]
+}

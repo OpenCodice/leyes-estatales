@@ -1,0 +1,90 @@
+{
+  "clave": "119",
+  "etiqueta": "Artículo 119",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "119.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › párrafo 1",
+      "texto": "Para ser miembro propietario o suplente de un ayuntamiento se requiere:"
+    },
+    {
+      "id": "119.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › Fracción I",
+      "texto": "I. Ser mexicana o mexicano, ciudadana o ciudadano del Estado, en pleno ejercicio de sus derechos;"
+    },
+    {
+      "id": "119.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › Fracción II",
+      "texto": "II. Ser mexiquense con residencia efectiva en el municipio no menor a un año o vecino del mismo, con residencia efectiva en su territorio no menor a tres años, anteriores al día de la elección; y"
+    },
+    {
+      "id": "119.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › Fracción III",
+      "texto": "III. Ser de reconocida probidad y buena fama pública."
+    },
+    {
+      "id": "119.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › Fracción IV",
+      "texto": "IV. No estar condenada o condenado por sentencia ejecutoriada por el delito de violencia política contra las mujeres en razón de género;"
+    },
+    {
+      "id": "119.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › Fracción V",
+      "texto": "V. No estar inscrito o inscrita en el Registro de Deudores Alimentarios Morosos en el Estado, ni en otra entidad federativa;"
+    },
+    {
+      "id": "119.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › Fracción VI",
+      "texto": "VI. No estar condenada o condenado por sentencia ejecutoriada por delitos de violencia familiar, contra la libertad sexual o de violencia de género;"
+    },
+    {
+      "id": "119.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › Fracción VII",
+      "texto": "VII. No estar comprendido en alguno de los impedimentos que señala el artículo 116 de esta Constitución, y"
+    },
+    {
+      "id": "119.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 119 › Fracción VIII",
+      "texto": "VIII. No tener o haber tenido, en los últimos tres años anteriores al día de la elección, un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que esté ejerciendo la titularidad del cargo para el que se postula.\n\nPara efectos de las restricciones previstas en este artículo, la autoridad electoral competente deberá valorar la existencia de los vínculos referidos mediante criterios objetivos, documentales y verificables, garantizando en todo momento los principios de certeza jurídica, legalidad, igualdad y no discriminación."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "042",
+  "etiqueta": "Artículo 42",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "042.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 1",
+      "texto": "Las diputadas y diputados jamás podrán ser reconvenidos o enjuiciados por las declaraciones o los votos que emitan con relación al desempeño de su cargo."
+    },
+    {
+      "id": "042.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 42 › párrafo 2",
+      "texto": "Las presidentas o los presidentes de la Legislatura y de la Diputación Permanente velarán por el respeto al fuero constitucional de sus miembros y por la inviolabilidad del recinto donde se reúnan a sesionar."
+    }
+  ]
+}

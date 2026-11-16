@@ -1,0 +1,36 @@
+{
+  "clave": "137",
+  "etiqueta": "Artículo 137",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "137.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › párrafo 1",
+      "texto": "Las autoridades del Estado y de los municipios, en la esfera de su competencia, acatarán sin reservas los mandatos de la Constitución Política de los Estados Unidos Mexicanos y cumplirán con las disposiciones de las leyes federales y de los tratados internacionales."
+    },
+    {
+      "id": "137.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › párrafo 2",
+      "texto": "De conformidad con lo dispuesto en la legislación federal aplicable, los titulares de los poderes Ejecutivo, Legislativo y Judicial, de cualquier dependencia u organismo descentralizado de la Administración Pública Estatal y las presidentas o los presidentes municipales, podrán convenir acuerdos interinstitucionales con uno o varios órganos gubernamentales extranjeros u organizaciones internacionales."
+    },
+    {
+      "id": "137.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 137 › párrafo 3",
+      "texto": "El Estado de México no podrá establecer condonaciones de impuestos, de conformidad con los términos y condiciones que dispongan las leyes de la materia."
+    }
+  ]
+}
