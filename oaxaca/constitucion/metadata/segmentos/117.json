@@ -2,7 +2,7 @@
   "clave": "117",
   "etiqueta": "Artículo 117",
   "titulo": "TÍTULO SÉPTIMO",
-  "capitulo": "CAPÍTULO III",
+  "capitulo": "",
   "reformas_articulo": [],
   "bloques": [
     {
@@ -48,7 +48,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 117 › párrafo 5",
-      "texto": "Para la aplicación de las sanciones a que se refiere este precepto, el Congreso del Estado integrará una comisión de Diputados, de acuerdo a las normas que rigen su funcionamiento, la que se encargará de analizar la acusación y que a su vez substanciará el procedimiento respectivo con audiencia del inculpado;"
+      "texto": "Para la aplicación de las sanciones a que se refiere este precepto, el Congreso del Estado integrará una comisión de Diputados, de acuerdo a las normas que rigen su funcionamiento, la que se encargará de analizar la acusación y que a su vez substanciará el procedimiento respectivo con audiencia del inculpado; para que posteriormente proceda a emitir su dictamen."
     },
     {
       "id": "117.p6",
@@ -57,7 +57,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 117 › párrafo 6",
-      "texto": "para que posteriormente proceda a emitir su dictamen."
+      "texto": "Conociendo el dictamen el Congreso del Estado erigido en Jurado de Sentencia, aplicará la sanción respectiva mediante resolución de las dos terceras partes de los integrantes de la Legislatura, una vez practicadas las diligencias correspondientes y con audiencia del acusado."
     },
     {
       "id": "117.p7",
@@ -66,7 +66,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 117 › párrafo 7",
-      "texto": "Conociendo el dictamen el Congreso del Estado erigido en Jurado de Sentencia, aplicará la sanción respectiva mediante resolución de las dos terceras partes de los integrantes de la Legislatura, una vez practicadas las diligencias correspondientes y con audiencia del acusado."
+      "texto": "Las declaraciones y resoluciones del Congreso del Estado son inatacables."
     },
     {
       "id": "117.p8",
@@ -75,15 +75,6 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 117 › párrafo 8",
-      "texto": "Las declaraciones y resoluciones del Congreso del Estado son inatacables."
-    },
-    {
-      "id": "117.p9",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "",
-      "fraccion": "",
-      "ruta": "Artículo 117 › párrafo 9",
       "texto": "(Artículo reformado mediante decreto número 746, aprobado por la LXV Legislatura del Estado del 7 de diciembre del 2022 y publicado en el Periódico Oficial Extra del 15 de diciembre del 2022) (Artículo reformado mediante decreto número 1486, aprobado por la LXV Legislatura del Estado el 22 de julio del 2023, publicado en el Periódico Oficial número 29 Tercera Sección, de fecha 22 de julio del 2023) (Artículo reformado mediante decreto número 613, aprobado por la LXVI Legislatura del Estado el 12 de marzo del 2025 y publicado en el Periódico Oficial Extra, de fecha 14 de marzo del 2025)"
     }
   ]
