@@ -1,0 +1,27 @@
+{
+  "clave": "142",
+  "etiqueta": "Artículo 142",
+  "titulo": "TITULO DECIMO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "142.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 142 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 140], P.O. 6 DE SEPTIEMBRE DE 2016)"
+    },
+    {
+      "id": "142.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 142 › párrafo 2",
+      "texto": "La voluntad de los particulares no puede eximir de la observancia de la Ley ni alterarla o modificarla."
+    }
+  ]
+}

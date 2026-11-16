@@ -1,0 +1,27 @@
+{
+  "clave": "061",
+  "etiqueta": "Artículo 61",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "061.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 28 DE FEBRERO DE 2014)"
+    },
+    {
+      "id": "061.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 61 › párrafo 2",
+      "texto": "Las Leyes, Reglamentos, Circulares y cualesquiera otras disposiciones de observancia general obligan y surten sus efectos en el día o término que señalen, siempre que se publiquen en el Periódico Oficial del Gobierno del Estado de Guanajuato; de no señalarse día o término, iniciará su vigencia al día siguiente de su publicación en ese medio oficial."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "131",
+  "etiqueta": "Artículo 131",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "131.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 131 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 3 DE FEBRERO DE 2017)"
+    },
+    {
+      "id": "131.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 131 › párrafo 2",
+      "texto": "En los procesos judiciales del orden civil y penal, no hay inmunidad para ningún servidor público."
+    },
+    {
+      "id": "131.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 131 › párrafo 3",
+      "texto": "(ADICIONADO, P.O. 6 DE SEPTIEMBRE DE 2016)"
+    }
+  ]
+}

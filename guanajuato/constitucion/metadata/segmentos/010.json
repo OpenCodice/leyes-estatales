@@ -1,0 +1,243 @@
+{
+  "clave": "010",
+  "etiqueta": "Artículo 10",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "010.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 26 DE FEBRERO DE 2010)"
+    },
+    {
+      "id": "010.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 2",
+      "texto": "El proceso penal será acusatorio y oral. Se regirá por los principios de publicidad, contradicción, concentración, continuidad e inmediación."
+    },
+    {
+      "id": "010.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 3",
+      "texto": "De igual forma, le serán aplicables los principios generales previstos en el Apartado A del artículo 20 de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "010.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › párrafo 4",
+      "texto": "En todo proceso de orden penal el inculpado y la víctima o el ofendido tendrán las siguientes garantías:"
+    },
+    {
+      "id": "010.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado A",
+      "texto": "A. De los derechos de la víctima o del ofendido:"
+    },
+    {
+      "id": "010.A.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado A › Fracción I",
+      "texto": "I. Recibir asesoría jurídica; a que se le proporcione asistencia legal en la etapa de investigación; a ser informado desde su primera intervención en ésta, de los derechos que en su favor establecen la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y demás leyes aplicables; y a que, cuando lo solicite, se le explique la trascendencia y alcance legal de cada una de las actuaciones en las que intervenga y del desarrollo del procedimiento penal;"
+    },
+    {
+      "id": "010.A.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado A › Fracción II",
+      "texto": "II. Coadyuvar con el Ministerio Público; a que se le reciban todos los datos o elementos de prueba con los que cuente, tanto en la investigación como en el proceso, a que se desahoguen las diligencias correspondientes, y a intervenir en el juicio e interponer los recursos en los términos que prevea la ley.\n\nCuando el Ministerio Público considere que no es necesario el desahogo de la diligencia, deberá fundar y motivar su negativa;"
+    },
+    {
+      "id": "010.A.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado A › Fracción III",
+      "texto": "III. Recibir, desde la comisión del delito, atención médica, psicológica y asistencia social de urgencia;"
+    },
+    {
+      "id": "010.A.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado A › Fracción IV",
+      "texto": "IV. Que se le repare el daño. En los casos en que sea procedente, el Ministerio Público estará obligado a solicitar la reparación del daño, sin menoscabo de que la víctima u ofendido lo pueda solicitar directamente, y el juzgador no podrá absolver al sentenciado de dicha reparación si ha emitido una sentencia condenatoria.\n\nLa ley fijará procedimientos ágiles para ejecutar las sentencias en materia de reparación del daño y para garantizar su pago;"
+    },
+    {
+      "id": "010.A.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado A › Fracción V",
+      "texto": "V. A no estar presente en las audiencias en las que concurra el inculpado y al resguardo de su identidad y otros datos personales en los siguientes casos:\n\ncuando sean menores de edad; cuando se trate de delitos sexuales o secuestro; y cuando a juicio del juzgador sea necesario para su protección, salvaguardando en todo caso los derechos de la defensa.\n\nEl Ministerio Público deberá garantizar la protección de víctimas, ofendidos, testigos y en general de todos los sujetos que intervengan en el proceso. También deberá tomar las medidas necesarias para la protección de los familiares de la víctima, de su domicilio y posesiones cuando se pongan en peligro por el probable responsable o sus cómplices, mediante actos de intimidación o represalias. Los jueces deberán vigilar el buen cumplimiento de esta obligación;"
+    },
+    {
+      "id": "010.A.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado A › Fracción VI",
+      "texto": "VI. Solicitar las medidas cautelares y providencias necesarias para la protección y restitución de sus derechos;"
+    },
+    {
+      "id": "010.A.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado A › Fracción VII",
+      "texto": "VII. Impugnar ante autoridad judicial las omisiones del Ministerio Público en la investigación de los delitos, así como las resoluciones de reserva, no ejercicio, desistimiento de la acción penal o suspensión del procedimiento cuando no esté satisfecha la reparación del daño;"
+    },
+    {
+      "id": "010.A.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado A › Fracción VIII",
+      "texto": "VIII. Someterse a la práctica de exámenes físicos o mentales sólo con su expreso consentimiento;"
+    },
+    {
+      "id": "010.A.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado A › Fracción IX",
+      "texto": "IX. Gozar del anonimato sobre su victimización en los medios de comunicación, para proteger su intimidad; y"
+    },
+    {
+      "id": "010.A.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado A › Fracción X",
+      "texto": "X. Los demás que otorga la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las demás leyes."
+    },
+    {
+      "id": "010.B",
+      "tipo": "apartado",
+      "marca": "B",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B",
+      "texto": "B. De los derechos de toda persona inculpada:"
+    },
+    {
+      "id": "010.B.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › Fracción I",
+      "texto": "I. A que se presuma su inocencia mientras no se dicte sentencia firme o ejecutoriada emitida por el juez de la causa;"
+    },
+    {
+      "id": "010.B.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › Fracción II",
+      "texto": "II. A declarar o a guardar silencio. Desde el momento de su detención se le harán saber los motivos de la misma y su derecho a guardar silencio, el cual no podrá ser utilizado en su perjuicio. Queda prohibida y será sancionada por la ley penal, toda incomunicación, intimidación o tortura, y la intervención de las comunicaciones del detenido con su defensor. La confesión rendida sin la asistencia del defensor carecerá de todo valor probatorio;"
+    },
+    {
+      "id": "010.B.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › Fracción III",
+      "texto": "III. A que se le informe, tanto en el momento de su detención como en su comparecencia ante el Ministerio Público o el juez, los hechos que se le imputan y los derechos que le asisten.\n\nLa ley establecerá beneficios a favor del inculpado, procesado o sentenciado, que preste ayuda eficaz para la investigación y persecución de los delitos que se señalen en la misma;"
+    },
+    {
+      "id": "010.B.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › Fracción IV",
+      "texto": "IV. Se le recibirán los testigos y demás pruebas pertinentes que ofrezca, concediéndosele el tiempo que la ley estime necesario al efecto y auxiliándosele para obtener la comparecencia de las personas cuyo testimonio solicite, en los términos que señale la ley;"
+    },
+    {
+      "id": "010.B.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › Fracción V",
+      "texto": "V. Será juzgado en audiencia pública por un juez o tribunal. La publicidad sólo podrá restringirse en los casos de excepción que determine la ley, por razones de seguridad pública, protección de las víctimas, testigos y menores, cuando se ponga en riesgo la revelación de datos legalmente protegidos, o cuando el tribunal estime que existen razones fundadas para justificarlo;"
+    },
+    {
+      "id": "010.B.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › Fracción VI",
+      "texto": "VI. Le serán facilitados todos los datos que solicite para su defensa y que consten en el proceso.\n\nEl inculpado y su defensor tendrán acceso a los registros de la investigación cuando el primero se encuentre detenido y cuando pretenda recibírsele declaración o entrevistarlo. Asimismo, antes de su primera comparecencia ante juez podrán consultar dichos registros, con la oportunidad debida para preparar la defensa. A partir de este momento no podrán mantenerse en reserva las actuaciones de la investigación; salvo los casos excepcionales expresamente señalados en la ley cuando ello sea imprescindible para salvaguardar el éxito de la investigación y siempre que sean oportunamente revelados para no afectar el derecho de defensa;\n\n(REFORMADO, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "010.B.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › Fracción VII",
+      "texto": "VII. Será juzgado antes de cuatro meses si se tratare de delitos cuya pena máxima no exceda de dos años de prisión, y antes de un año si la pena excediere de ese tiempo salvo que solicite mayor plazo para su defensa. En caso de no cumplirse el plazo señalado y no se haya dictado sentencia, dentro de la etapa de juicio, el órgano jurisdiccional que conozca del asunto deberá dar aviso inmediato al Tribunal de Disciplina Judicial del Estado y justificar las razones de su demora;"
+    },
+    {
+      "id": "010.B.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › Fracción VIII",
+      "texto": "VIII. Tendrá derecho a una defensa adecuada por abogado, al cual elegirá libremente incluso desde el momento de su detención. Si no quiere o no puede nombrar un abogado, después de haber sido requerido para hacerlo, el juez le designará un defensor público. También tendrá derecho a que su defensor comparezca en todos los actos del proceso y éste tendrá obligación de hacerlo cuantas veces se le requiera;"
+    },
+    {
+      "id": "010.B.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › Fracción IX",
+      "texto": "IX. En ningún caso podrá prolongarse la prisión o detención, por falta de pago de honorarios de defensores o por cualquiera otra prestación de dinero, por causa de responsabilidad civil o algún otro motivo análogo.\n\nLa prisión preventiva no podrá exceder del tiempo que como máximo de pena fije la ley al delito que motivare el proceso y en ningún caso será superior a dos años, salvo que su prolongación se deba al ejercicio del derecho de defensa del inculpado. Si cumplido este término no se ha pronunciado sentencia, el inculpado será puesto en libertad de inmediato mientras se sigue el proceso, sin que ello obste para imponer otras medidas cautelares.\n\nEn toda pena de prisión que imponga una sentencia, se computará el tiempo de la detención; y"
+    },
+    {
+      "id": "010.B.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › Fracción X",
+      "texto": "X. Los demás que otorga la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las demás leyes.\n\nEn los términos y condiciones que señale la ley, el inculpado, la víctima o el ofendido contarán en el proceso con los servicios gratuitos de peritos a cargo del Estado, para proveer a su adecuada defensa, para coadyuvar con el Ministerio Público o para el ejercicio por particulares de la acción penal."
+    }
+  ]
+}

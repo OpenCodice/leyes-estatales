@@ -1,0 +1,27 @@
+{
+  "clave": "075",
+  "etiqueta": "Artículo 75",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "075.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "075.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › párrafo 2",
+      "texto": "El cargo de Gobernador del Estado sólo es renunciable por causa grave calificada por el Congreso del Estado, ante el cual ha de ser presentada la renuncia."
+    }
+  ]
+}

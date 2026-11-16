@@ -1,0 +1,36 @@
+{
+  "clave": "074",
+  "etiqueta": "Artículo 74",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "074.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "074.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 2",
+      "texto": "Cuando la falta absoluta de Gobernador ocurra en los tres últimos años del ejercicio Constitucional, el Congreso del Estado, erigido en Colegio Electoral, procederá a elegir al Gobernador Sustituto para que termine el Período Constitucional de acuerdo a la Fracción IX del Artículo 63 de este Ordenamiento."
+    },
+    {
+      "id": "074.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 3",
+      "texto": "En tanto el Congreso realiza la elección, o de no estar reunido éste, se procederá de conformidad con lo dispuesto en el artículo anterior, en lo que fuere conducente."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "091",
+  "etiqueta": "Artículo 91",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "091.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 15 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "091.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 2",
+      "texto": "Las personas servidoras públicas adscritas al Poder Judicial del Estado de Guanajuato que tengan título de Licenciado en Derecho o su equivalente no podrán ejercer la profesión de abogado, sino en negocio propio, de su cónyuge, de sus ascendientes o descendientes sin limitación de grado, ni desempeñar otro cargo o empleo público o privado, a excepción de los docentes."
+    }
+  ]
+}

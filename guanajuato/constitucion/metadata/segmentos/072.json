@@ -1,0 +1,27 @@
+{
+  "clave": "072",
+  "etiqueta": "Artículo 72",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "072.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "072.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72 › párrafo 2",
+      "texto": "En el acto de Toma de Posesión de su cargo el Gobernador deberá rendir protesta, ante el Congreso del Estado o la Diputación Permanente, en su caso, en la forma siguiente: \"Protesto guardar y hacer guardar la Constitución Política de los Estados Unidos Mexicanos, la del Estado de Guanajuato y las Leyes que de ellas emanen y desempeñar con lealtad y patriotismo el cargo que me ha conferido el pueblo, para bien de la Nación y del Estado de Guanajuato, y si así no lo hiciere, que el pueblo me lo demande\"."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "020",
+  "etiqueta": "Artículo 20",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "020.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "020.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 2",
+      "texto": "La calidad de guanajuatense se adquiere por nacimiento o por vecindad."
+    }
+  ]
+}

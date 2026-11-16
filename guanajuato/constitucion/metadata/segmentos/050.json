@@ -1,0 +1,36 @@
+{
+  "clave": "050",
+  "etiqueta": "Artículo 50",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "050.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "050.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 2",
+      "texto": "Los Diputados en ejercicio no podrán desempeñar ningún empleo, cargo o comisión públicos por el que se disfrute de sueldo, hecha excepción de los docentes, sin previa licencia del Congreso o de la Diputación Permanente; pero entonces cesarán en su función representativa mientras dure su nuevo cargo. La infracción de esta disposición será castigada con la pérdida del carácter de Diputado."
+    },
+    {
+      "id": "050.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 50 › párrafo 3",
+      "texto": "(REFORMADA, P.O. 17 DE FEBRERO DE 1984)"
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "clave": "069",
+  "etiqueta": "Artículo 69",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "069.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "069.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 2",
+      "texto": "No son elegibles al cargo de Gobernador del Estado:"
+    },
+    {
+      "id": "069.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 3",
+      "texto": "(REFORMADA, P.O. 27 DE MAYO DE 2026)"
+    },
+    {
+      "id": "069.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción I",
+      "texto": "I. Las personas secretarias de Estado de la Federación, las personas Ministras de la Suprema Corte de Justicia de la Nación, la persona titular de la Fiscal General de la República, la personas titular de la Jefatura de Gobierno de la Ciudad de México, las personas Magistradas del Supremo Tribunal de Justicia del Estado, las personas titulares o Encargadas de las Dependencias de los Ramos en que se divida la Administración Pública Estatal, la personas titular de la Fiscalía General del Estado, las personas militares en servicio activo y las personas ciudadanas con mando de fuerza en el Estado, a no ser que se separen definitivamente de su cargo, por lo menos seis meses antes de la fecha de la elección;\n\n(REFORMADA, P.O. 21 DE AGOSTO DE 2023)"
+    },
+    {
+      "id": "069.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción II",
+      "texto": "II. Los que sean Ministros de cualquier culto religioso en los términos que señalen las leyes respectivas;\n\n(REFORMADA, P.O. 27 DE JUNIO DE 2014)"
+    },
+    {
+      "id": "069.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción III",
+      "texto": "III. El Consejero Presidente o Consejero Electoral en los consejos General, locales o distritales del Instituto Nacional Electoral, el Secretario Ejecutivo, Director Ejecutivo o personal profesional directivo del propio Instituto, salvo que se hubiere separado de su encargo, de manera definitiva, tres años antes del día de la elección;\n\n(REFORMADA, P.O. 21 DE AGOSTO DE 2023)"
+    },
+    {
+      "id": "069.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción IV",
+      "texto": "IV. El Consejero Presidente o Consejero Electoral y el Secretario Ejecutivo del organismo público electoral local, Magistrado Presidente o Magistrado Electoral del órgano jurisdiccional electoral local, salvo que se hubieren separado de su encargo, de manera definitiva, tres años antes del día de la elección;\n\n(REFORMADA, P.O. 27 DE MAYO DE 2026)"
+    },
+    {
+      "id": "069.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción V",
+      "texto": "V. No estar comprendido en alguno de los supuestos establecidos en el artículo 70 de esta Constitución;\n\n(REFORMADA, P.O. 27 DE MAYO DE 2026)"
+    },
+    {
+      "id": "069.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción VI",
+      "texto": "VI. Las personas que hayan tenido resolución firme por infracción que constituya violencia política contra las mujeres en razón de género, emitidas por los órganos jurisdiccionales en materia electoral, en tanto se extingue la sanción impuesta; y\n\n(ADICIONADA, P.O. 27 DE MAYO DE 2026)"
+    },
+    {
+      "id": "069.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › Fracción VII",
+      "texto": "VII. La persona que tenga o haya tenido en los últimos tres años anteriores al día de la elección un vínculo de matrimonio o concubinato o unión de hecho, o de parentesco por consanguinidad o civil en línea recta sin limitación de grado y en línea colateral hasta el cuarto grado o de afinidad hasta el segundo grado, con la persona que está ejerciendo la titularidad de la gobernatura."
+    }
+  ]
+}

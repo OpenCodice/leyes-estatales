@@ -1,0 +1,36 @@
+{
+  "clave": "049",
+  "etiqueta": "Artículo 49",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "049.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 3 DE FEBRERO DE 2017)"
+    },
+    {
+      "id": "049.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 2",
+      "texto": "Los Diputados son irreprochables por las opiniones que emitan en el desempeño de su cargo y jamás podrán ser reconvenidos ni juzgados por ellas."
+    },
+    {
+      "id": "049.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 3",
+      "texto": "El Presidente del Congreso y, en su caso, el de la Diputación Permanente, velará por el respeto a lo señalado en el párrafo anterior, así como por la inviolabilidad del recinto donde se reúnan a sesionar."
+    }
+  ]
+}

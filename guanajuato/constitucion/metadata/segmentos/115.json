@@ -1,0 +1,27 @@
+{
+  "clave": "115",
+  "etiqueta": "Artículo 115",
+  "titulo": "TITULO OCTAVO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "115.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 115 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "115.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 115 › párrafo 2",
+      "texto": "Ningún ciudadano puede renunciar ni excusarse de servir al cargo de Presidente, Síndico o Regidor, salvo por causa justificada, a juicio del Congreso del Estado, o de la Diputación Permanente, en su caso."
+    }
+  ]
+}

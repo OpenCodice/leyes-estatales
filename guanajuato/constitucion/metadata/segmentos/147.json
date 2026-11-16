@@ -1,0 +1,27 @@
+{
+  "clave": "147",
+  "etiqueta": "Artículo 147",
+  "titulo": "TITULO DECIMO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "147.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 147 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984) (REUBICADO [N. DE E. ANTES ARTÍCULO 145], P.O. 6 DE SEPTIEMBRE DE 2016)"
+    },
+    {
+      "id": "147.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 147 › párrafo 2",
+      "texto": "Esta Constitución no perderá su fuerza y vigor, aún cuando por cualquier causa se interrumpa su observancia en alguna o en algunas de las poblaciones del Estado. Tan luego como desaparezca el motivo, se restablecerá su observancia."
+    }
+  ]
+}

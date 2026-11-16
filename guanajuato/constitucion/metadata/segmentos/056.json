@@ -1,0 +1,72 @@
+{
+  "clave": "056",
+  "etiqueta": "Artículo 56",
+  "titulo": "TITULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "056.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE FEBRERO DE 1984)"
+    },
+    {
+      "id": "056.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › párrafo 2",
+      "texto": "El derecho de iniciar Leyes o Decretos, compete:"
+    },
+    {
+      "id": "056.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción I",
+      "texto": "I. Al Gobernador del Estado;"
+    },
+    {
+      "id": "056.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción II",
+      "texto": "II. A los Diputados al Congreso del Estado;"
+    },
+    {
+      "id": "056.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción III",
+      "texto": "III. Al Supremo Tribunal de Justicia en el ramo de sus atribuciones; y,\n\n(REFORMADA, P.O. 19 DE ABRIL DE 2002)"
+    },
+    {
+      "id": "056.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción IV",
+      "texto": "IV. A los Ayuntamientos o Concejos Municipales; y,\n\n(REFORMADA, P.O. 13 DE DICIEMBRE DE 2017)"
+    },
+    {
+      "id": "056.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56 › Fracción V",
+      "texto": "V. A los ciudadanos que representen cuando menos el cero punto cinco por ciento de la lista nominal de electores correspondientes a la Entidad y reúnan los requisitos previstos en la Ley.\n\nADICIONADO, P.O. 20 DE MARZO DE 2001) Cuando la iniciativa incida en la competencia municipal, el Congreso recabará la opinión de los Ayuntamientos durante el proceso legislativo, en los términos de la Ley respectiva."
+    }
+  ]
+}
