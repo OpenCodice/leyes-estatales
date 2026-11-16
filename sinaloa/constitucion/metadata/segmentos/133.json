@@ -1,0 +1,45 @@
+{
+  "clave": "133",
+  "etiqueta": "Artículo 133",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "133.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › párrafo 1",
+      "texto": "Son causas que podrán motivar la instauración del juicio político en contra de la Gobernadora o Gobernador del Estado, las Magistradas y Magistrados del Supremo Tribunal de Justicia y de las Diputadas y Diputados Locales, las siguientes faltas u omisiones en que incurran durante el ejercicio de su encargo, que redunden en perjuicio de los intereses públicos fundamentales o de su buen despacho: (Ref. Según Decreto No. 425, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 088, de fecha 24 de julio de 2026.)"
+    },
+    {
+      "id": "133.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › Fracción I",
+      "texto": "I. La violación grave a disposición expresa de la Constitución Política de los Estados Unidos Mexicanos, o de la Constitución Política del Estado, o a las Leyes que de ellas emanen;"
+    },
+    {
+      "id": "133.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › Fracción II",
+      "texto": "II. El manejo indebido de fondos y recursos del Estado o de la Federación; y,"
+    },
+    {
+      "id": "133.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 133 › Fracción III",
+      "texto": "III. Los ataques a la libertad electoral.\n\nRespecto a los diversos servidores públicos señalados en el artículo anterior, son causas de responsabilidad, además de las mencionadas en este Artículo, los actos u omisiones que señalen las leyes de la materia.\n\nNo procederá el juicio político por la sola expresión de las ideas. (Ref. según Decreto No. 24 de fecha 26 de enero de 1984, publicado en el Periódico Oficial No. 12, de fecha 27 de enero de 1984)."
+    }
+  ]
+}

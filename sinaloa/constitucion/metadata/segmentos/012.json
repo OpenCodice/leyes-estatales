@@ -1,0 +1,90 @@
+{
+  "clave": "012",
+  "etiqueta": "Artículo 12",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "012.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › párrafo 1",
+      "texto": "Los derechos o prerrogativas de la ciudadana y el ciudadano sinaloense, se suspenden: (Ref. Según Decreto No. 425, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 088, de fecha 24 de julio de 2026.)"
+    },
+    {
+      "id": "012.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción I",
+      "texto": "I. Por la suspensión de los derechos o prerrogativas de la ciudadanía mexicana. (Ref. Según Decreto No. 425, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 088, de fecha 24 de julio de 2026.)"
+    },
+    {
+      "id": "012.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción II",
+      "texto": "II. Por incapacidad declarada conforme a la ley."
+    },
+    {
+      "id": "012.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción III",
+      "texto": "III. Por tener pendiente proceso y estar privado de la libertad desde la fecha del auto de vinculación a proceso si se trata de un juicio del orden penal común, o desde la declaración de haber lugar a formación de causa, en los casos de omisiones, faltas o delitos oficiales. (Ref. Según Decreto 147, de fecha 02 de octubre de 2014 y publicado en el Periódico Oficial “El Estado de Sinaloa”, No. 129 de fecha 22 de octubre de 2014)."
+    },
+    {
+      "id": "012.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción IV",
+      "texto": "IV. Por la falta de cumplimiento, sin causa justificada a cualquiera de las obligaciones que esta Constitución impone a la ciudadana y el ciudadano sinaloense. (Ref. Según Decreto No. 425, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 088, de fecha 24 de julio de 2026.)"
+    },
+    {
+      "id": "012.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción V",
+      "texto": "V. Por disposición expresa de autoridad judicial en sentencia que haya causado ejecutoria."
+    },
+    {
+      "id": "012.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción VI",
+      "texto": "VI. Por estar prófugo de la justicia, desde que se dicte la orden de aprehensión hasta que prescriba la acción penal; (Ref. Según Decreto 514, publicado en el Periódico Oficial “El Estado de Sinaloa”, No. 097, de fecha 11 de agosto de 2023)."
+    },
+    {
+      "id": "012.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción VII",
+      "texto": "VII. Por tener sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual; por violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género en cualquiera de sus modalidades y tipos.\n\nPor ser declarada como persona deudora alimentaria morosa.\n\nEn los supuestos de esta fracción, la persona no podrá ser registrada como candidata para acceder a cualquier cargo de elección popular, ni ser nombrada para empleo, cargo o comisión en el servicio público.\n\n(Adic. Según Decreto 514, publicado en el Periódico Oficial “El Estado de Sinaloa”, No. 097, de fecha 11 de agosto de 2023)."
+    },
+    {
+      "id": "012.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 12 › Fracción VIII",
+      "texto": "VIII. En los demás casos que las leyes determinen. (Adic. Según Decreto 514, publicado en el Periódico Oficial “El Estado de Sinaloa”, No. 097 de fecha 11 de agosto de 2023).\n\nUna vez suspendida o pérdida la calidad de ciudadana o ciudadano sinaloense, sólo se recobrará en la forma y términos que previene esta Constitución o la Ley respectiva.\n\n(Ref. Según Decreto No. 425, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 088, de fecha 24 de julio de 2026.)"
+    }
+  ]
+}

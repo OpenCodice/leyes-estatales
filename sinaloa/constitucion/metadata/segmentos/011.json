@@ -1,0 +1,45 @@
+{
+  "clave": "011",
+  "etiqueta": "Artículo 11",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "011.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › párrafo 1",
+      "texto": "La calidad de la ciudadana y el ciudadano sinaloense se pierde: (Ref. Según Decreto No. 425, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 088, de fecha 24 de julio de 2026.)"
+    },
+    {
+      "id": "011.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción I",
+      "texto": "I. Por la pérdida de la calidad de la ciudadanía mexicana. (Ref. Según Decreto No. 425, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 088, de fecha 24 de julio de 2026.)"
+    },
+    {
+      "id": "011.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción II",
+      "texto": "II. Por residencia de más de dos años consecutivos fuera del Estado, cuando la ciudadanía se ha adquirido por vecindad, salvo los casos de estudios, empleo, cargo o comisión de la Federación o instituciones descentralizadas de la misma, así como del Estado o de los Municipios. (Ref. según Decreto No. 23, publicado en el Periódico Oficial No. 148, de fecha 24 de diciembre de 1953)."
+    },
+    {
+      "id": "011.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Fracción III",
+      "texto": "III. En los demás casos que expresamente lo prevengan las leyes."
+    }
+  ]
+}

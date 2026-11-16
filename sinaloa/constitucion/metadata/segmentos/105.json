@@ -1,0 +1,27 @@
+{
+  "clave": "105",
+  "etiqueta": "Artículo 105",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "105.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › párrafo 1",
+      "texto": "El Poder Judicial juzgará en todos los asuntos de su competencia, conforme con la Constitución General de la República, la particular del Estado y las leyes que de una y otra emanen, de preferencia a las leyes secundarias aunque éstas sean posteriores."
+    },
+    {
+      "id": "105.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › párrafo 2",
+      "texto": "La función judicial se regirá por los principios de autonomía, eficiencia, imparcialidad, legalidad, objetividad, profesionalismo, responsabilidad, perspectiva de género y respeto a los derechos humanos. (Adic. Según Decreto No. 499, publicado en el Periódico Oficial “El Estado de Sinaloa” No. 102, de fecha 26 de agosto de 2026.)"
+    }
+  ]
+}
