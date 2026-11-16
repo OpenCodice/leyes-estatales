@@ -1,0 +1,27 @@
+{
+  "clave": "104",
+  "etiqueta": "Artículo 104",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "104.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 › párrafo 1",
+      "texto": "Las personas servidoras públicas del Poder Judicial del Estado deberán rendir la protesta a que se refiere el primer párrafo del artículo 158, de esta Constitución, previo al ejercicio de su encargo."
+    },
+    {
+      "id": "104.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 104 › párrafo 2",
+      "texto": "Las y los Magistrados del Supremo Tribunal de Justicia y del Tribunal de Disciplina Judicial, las y los integrantes del Pleno del Órgano de Administración Judicial, así como las Juezas y los Jueces lo harán ante el Congreso del Estado. El resto de las y los servidores públicos del Poder Judicial lo harán ante su superior jerárquico inmediato."
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "clave": "092",
+  "etiqueta": "Artículo 92",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "092.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › párrafo 1",
+      "texto": "Se prohíbe a la Gobernadora o al Gobernador:"
+    },
+    {
+      "id": "092.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción I",
+      "texto": "I.- Negarse a sancionar y publicar las Leyes y Decretos que expida el Congreso, en los términos que prescribe esta Constitución;"
+    },
+    {
+      "id": "092.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción II",
+      "texto": "II.- Intervenir directa o indirectamente en las funciones del Poder Legislativo, excepto el caso de iniciar alguna Ley o hacer observaciones a las que se remitan para su sanción;"
+    },
+    {
+      "id": "092.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción III",
+      "texto": "III.- Decretar la prisión de alguna persona o privarla de su libertad, sino cuando el bien y seguridad del Estado lo exija, y aun entonces deberá ponerla en libertad o a disposición de la Autoridad competente en el preciso término de 36 horas, salvo lo prevenido en la fracción XXXII del Artículo anterior;"
+    },
+    {
+      "id": "092.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción IV",
+      "texto": "IV.- Ocupar la propiedad particular, salvo en los casos de expropiación, por causa de utilidad pública y en la forma legal;"
+    },
+    {
+      "id": "092.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción V",
+      "texto": "V.- Mezclarse en los asuntos judiciales, ni disponer durante el juicio de las cosas que en él se versan o de las personas que están bajo la acción de la justicia;"
+    },
+    {
+      "id": "092.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción VI",
+      "texto": "VI.- Distraer los caudales públicos de los objetos a que están destinados por la Ley;"
+    },
+    {
+      "id": "092.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción VII",
+      "texto": "VII.- Expedir órdenes de recaudación o pago, sino por conducto de la Secretaría del ramo;"
+    },
+    {
+      "id": "092.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción VIII",
+      "texto": "VIII.- Impedir o retardar la instalación del Congreso;"
+    },
+    {
+      "id": "092.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción IX",
+      "texto": "IX.- Salir del territorio del Estado por más de quince días, sin permiso del Congreso o de la Diputación Permanente;"
+    },
+    {
+      "id": "092.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 92 › Fracción X",
+      "texto": "X.- Mandar personalmente en campaña la fuerza pública, sin permiso del Congreso o de la Diputación Permanente."
+    }
+  ]
+}

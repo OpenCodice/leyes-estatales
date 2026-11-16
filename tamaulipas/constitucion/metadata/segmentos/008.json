@@ -1,0 +1,63 @@
+{
+  "clave": "008",
+  "etiqueta": "Artículo 8",
+  "titulo": "",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "008.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › párrafo 1",
+      "texto": "Son obligaciones de los ciudadanos del Estado:"
+    },
+    {
+      "id": "008.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción I",
+      "texto": "I.- Votar en las elecciones y en las consultas populares, en los términos que señale la ley;"
+    },
+    {
+      "id": "008.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción II",
+      "texto": "II.- Desempeñar los cargos de elección popular y los concejiles para que fuere nombrado conforme a la Ley, salvo excusa legítima;"
+    },
+    {
+      "id": "008.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción III",
+      "texto": "III.- Se deroga. (Decreto No. LXIV-104, Edición Vespertina del P.O. Extraordinario No. 9, del 19 de junio de 2020)."
+    },
+    {
+      "id": "008.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción IV",
+      "texto": "IV.- Se deroga. (Decreto No. LXIV-104, Edición Vespertina del P.O. Extraordinario No. 9, del 19 de junio de 2020)."
+    },
+    {
+      "id": "008.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Fracción V",
+      "texto": "V.- Inscribirse en el padrón de su Municipalidad, manifestando la propiedad que tiene, o la industria, profesión o trabajo de que subsiste; los profesionistas además se inscribirán en el padrón que al efecto llevará la dependencia que señalen las leyes de la materia."
+    }
+  ]
+}

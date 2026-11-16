@@ -1,0 +1,27 @@
+{
+  "clave": "066",
+  "etiqueta": "Artículo 66",
+  "titulo": "",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "066.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › párrafo 1",
+      "texto": "En las normas sobre el funcionamiento interno del Congreso se contendrán las reglas que deberán observarse para la discusión, votación y formación de las leyes, decretos y acuerdos."
+    },
+    {
+      "id": "066.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 66 › párrafo 2",
+      "texto": "Ninguna iniciativa de ley o decreto que sea desechada podrá volver a presentarse en el mismo periodo de sesiones, salvo lo dispuesto para las Leyes de Ingresos del Estado o de los Municipios, y el Presupuesto de Egresos del Estado."
+    }
+  ]
+}

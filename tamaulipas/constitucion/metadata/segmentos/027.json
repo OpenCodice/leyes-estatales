@@ -1,0 +1,81 @@
+{
+  "clave": "027",
+  "etiqueta": "Artículo 27",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "027.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 1",
+      "texto": "La asignación de las 14 Diputadas y Diputados electos según el principio de Representación Proporcional y el sistema de asignación por lista estatal, se sujetará a lo que disponga la ley y a las siguientes bases:"
+    },
+    {
+      "id": "027.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción I",
+      "texto": "I.- Un partido político, para obtener el registro de su lista estatal, deberá acreditar que participa con candidatas y candidatos a Diputadas y Diputados por el principio de Mayoría Relativa en, por lo menos, las dos terceras partes de los Distritos Electorales Uninominales;"
+    },
+    {
+      "id": "027.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción II",
+      "texto": "II.- A los partidos políticos que hayan obtenido por lo menos el 3.0 % del total de la votación válida emitida, se les asignará una Diputada o Diputado y tendrán derecho a participar en la asignación restante de Diputadas y Diputados por el principio de Representación Proporcional;"
+    },
+    {
+      "id": "027.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción III",
+      "texto": "III.- Para la asignación de las diputaciones de Representación Proporcional se estará a las reglas y fórmulas que la ley establezca para tales efectos;"
+    },
+    {
+      "id": "027.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción IV",
+      "texto": "IV.- Ningún partido político podrá contar con más de 22 Diputadas o Diputados por ambos principios;"
+    },
+    {
+      "id": "027.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción V",
+      "texto": "V.- Tampoco podrá contar con un número de Diputadas o Diputados, por ambos principios, que representen un porcentaje del total del Congreso que exceda en ocho puntos a su porcentaje de votación estatal efectiva. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso, superior a la suma del porcentaje de su votación estatal efectiva más el ocho por ciento;"
+    },
+    {
+      "id": "027.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción VI",
+      "texto": "VI.- Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación estatal efectiva que hubiere recibido menos ocho puntos porcentuales; y"
+    },
+    {
+      "id": "027.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción VII",
+      "texto": "VII.- Las Diputadas y los Diputados electos según el principio de Representación Proporcional se asignarán en el orden en que fueron registrados en la lista estatal de cada partido político."
+    }
+  ]
+}

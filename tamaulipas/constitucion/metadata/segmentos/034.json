@@ -1,0 +1,27 @@
+{
+  "clave": "034",
+  "etiqueta": "Artículo 34",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "034.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › párrafo 1",
+      "texto": "En los casos del artículo anterior y en el de muerte o imposibilidad calificada de las Diputadas Propietarias o los Diputados Propietarios, concurrirán las y los Suplentes respectivos."
+    },
+    {
+      "id": "034.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › párrafo 2",
+      "texto": "Tratándose de Diputadas o de Diputados de Representación Proporcional, si la o el Suplente no pudiere concurrir, la vacante se cubrirá con la Diputada Propietaria o el Diputado Propietario del mismo Partido que siga en la lista estatal respectiva."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "044",
+  "etiqueta": "Artículo 44",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "044.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 1",
+      "texto": "El Congreso tendrá dos períodos ordinarios de sesiones cada año legislativo: el primero, improrrogable, iniciará el primero de octubre, durando el tiempo necesario para tratar todos los asuntos de su competencia, sin que pueda extenderse más allá del día quince de diciembre; el segundo dará principio el quince de enero y terminará el treinta de junio."
+    },
+    {
+      "id": "044.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 2",
+      "texto": "En fecha de la primera quincena de marzo de cada año, que determine el Pleno, celebrará sesión pública y solemne para el único objeto de recibir el informe de la Gobernadora o del Gobernador del Estado sobre el estado que guarda la administración pública a su cargo, conforme a lo previsto por esta Constitución."
+    },
+    {
+      "id": "044.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 44 › párrafo 3",
+      "texto": "En los años en que haya elecciones federales para renovar la Presidencia de la República, el informe que rinda la persona titular del Poder Ejecutivo del Estado, se realizará en la primera quincena de febrero."
+    }
+  ]
+}

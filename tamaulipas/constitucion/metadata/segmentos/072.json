@@ -1,0 +1,36 @@
+{
+  "clave": "072",
+  "etiqueta": "Artículo 72",
+  "titulo": "",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "072.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72 › párrafo 1",
+      "texto": "La formulación de observaciones sobre la Ley de Ingresos y el Presupuesto de Egresos del Estado que apruebe el Congreso con motivo del proceso presupuestario deberá hacerse dentro de los cinco días siguientes a su recepción, debiéndose expresar por escrito las razones que se estimen pertinentes. El Congreso las examinará y discutirá nuevamente el proyecto dentro de los siguientes tres días; el Ejecutivo podrá nombrar un representante para que asista con voz a la deliberación que se realice."
+    },
+    {
+      "id": "072.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72 › párrafo 2",
+      "texto": "En todo caso, la formulación y desahogo de las observaciones se hará dentro del plazo que establece esta Constitución para la vigencia del año fiscal."
+    },
+    {
+      "id": "072.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 72 › párrafo 3",
+      "texto": "Si los términos contenidos originalmente en la Ley de Ingresos o el Presupuesto de Egresos son confirmados por las dos terceras partes de las diputadas y los diputados presentes, volverá al Ejecutivo para su promulgación."
+    }
+  ]
+}
