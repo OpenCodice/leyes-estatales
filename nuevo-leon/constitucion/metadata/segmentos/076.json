@@ -1,0 +1,27 @@
+{
+  "clave": "076",
+  "etiqueta": "Artículo 76",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "076.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76 › párrafo 1",
+      "texto": "- El Congreso del Estado se reunirá en dos períodos ordinarios de sesiones para cada año de ejercicio de la legislatura. El primer periodo iniciará el primero de septiembre y concluirá el veinte de diciembre, y el segundo período comprenderá del primero de febrero al primero de mayo."
+    },
+    {
+      "id": "076.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76 › párrafo 2",
+      "texto": "Ambos períodos podrán ser prorrogados hasta por treinta días naturales."
+    }
+  ]
+}

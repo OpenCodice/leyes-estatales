@@ -1,0 +1,45 @@
+{
+  "clave": "070",
+  "etiqueta": "Artículo 70",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "070.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 1",
+      "texto": "Ningún partido político podrá contar con más de veintiséis diputados por ambos principios."
+    },
+    {
+      "id": "070.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 2",
+      "texto": "De igual manera, en ningún caso un partido político podrá contar con un número de diputados, por ambos principios, que representen un porcentaje del total del Congreso del Estado que exceda en ocho puntos a su porcentaje de votación efectiva."
+    },
+    {
+      "id": "070.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 3",
+      "texto": "Esta base no se aplicará al partido político que por sus triunfos en distritos uninominales obtenga un porcentaje de curules del total de la legislatura superior a la suma del porcentaje de su votación efectiva que hubiere recibido, más ocho puntos porcentuales."
+    },
+    {
+      "id": "070.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 70 › párrafo 4",
+      "texto": "Asimismo, en la integración de la legislatura, el porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación efectiva que hubiere recibido menos ocho puntos porcentuales."
+    }
+  ]
+}

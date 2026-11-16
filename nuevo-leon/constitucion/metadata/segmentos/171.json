@@ -1,0 +1,27 @@
+{
+  "clave": "171",
+  "etiqueta": "Artículo 171",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "171.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 171 › párrafo 1",
+      "texto": "Las personas tienen derecho a decidir sobre el uso, administración y destino de los proyectos y recursos asignados al presupuesto participativo para el mejoramiento y la recuperación de espacios públicos. Dichos recursos se sujetarán a los procedimientos de transparencia y rendición de cuentas."
+    },
+    {
+      "id": "171.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 171 › párrafo 2",
+      "texto": "La ley establecerá los porcentajes y procedimientos para la determinación, organización, desarrollo, ejercicio, seguimiento y control del presupuesto participativo."
+    }
+  ]
+}

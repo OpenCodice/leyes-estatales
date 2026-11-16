@@ -1,0 +1,36 @@
+{
+  "clave": "105",
+  "etiqueta": "Artículo 105",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "105.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › párrafo 1",
+      "texto": "La Auditoría Superior del Estado podrá solicitar y revisar, de manera casuística y concreta, información de ejercicios anteriores al de la Cuenta Pública en revisión, sin que por este motivo se entienda, para todos los efectos legales, abierta nuevamente la Cuenta Pública del ejercicio al que pertenece la información solicitada, exclusivamente cuando el programa, proyecto o la erogación, contenidos en el presupuesto en revisión abarque para su ejecución y pago, diversos ejercicios fiscales o se trate de revisiones sobre el cumplimiento de los objetivos de los programas. En este caso, las observaciones y recomendaciones que la Auditoría Superior del Estado emita, solo podrán referirse al ejercicio de los recursos públicos de la Cuenta Pública en revisión."
+    },
+    {
+      "id": "105.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › párrafo 2",
+      "texto": "Sin perjuicio de lo previsto en el párrafo anterior, en las situaciones excepcionales que determine la ley, derivado de denuncias, la Auditoría Superior del Estado revisará e investigará durante el ejercicio fiscal en curso a las entidades fiscalizadas, así como respecto de ejercicios anteriores."
+    },
+    {
+      "id": "105.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 105 › párrafo 3",
+      "texto": "Las entidades fiscalizadas proporcionarán la información que se solicite para la revisión, en los plazos y términos señalados por la ley y, en caso de incumplimiento, serán aplicables las sanciones previstas en la misma."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "026",
+  "etiqueta": "Artículo 26",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "026.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › párrafo 1",
+      "texto": "La investigación de los delitos corresponde al Ministerio Público y a las policías, las cuales actuarán bajo la conducción y mando de aquel en el ejercicio de esta función; y el ejercicio de la acción penal ante los tribunales corresponde al Ministerio Público, de acuerdo a la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "026.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › párrafo 2",
+      "texto": "Compete a la autoridad administrativa la aplicación de sanciones por las infracciones de los reglamentos gubernativos y de policía, así como en justicia cívica, las que únicamente consistirán en amonestación; multa; reparación del daño; arresto hasta por treinta y seis horas o trabajo a favor de la comunidad, el cual deberá ser aceptado de manera voluntaria. Si la persona que comete la infracción no pagare la multa que se le hubiese impuesto, se permutará esta por el arresto correspondiente que no excederá en ningún caso de treinta y seis horas."
+    },
+    {
+      "id": "026.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › párrafo 3",
+      "texto": "Si la persona que comete la infracción de los reglamentos gubernativos o de policía fuese jornalero, obrero o trabajador, no podrá ser sancionado con multa mayor del importe de su jornal o salario de un día."
+    },
+    {
+      "id": "026.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 26 › párrafo 4",
+      "texto": "Tratándose de trabajadores no asalariados, la multa que se imponga por infracción de los reglamentos gubernativos y de policía, así como en justicia cívica, no excederá del equivalente a un día de su ingreso."
+    }
+  ]
+}

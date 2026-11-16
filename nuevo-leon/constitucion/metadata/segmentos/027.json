@@ -1,0 +1,36 @@
+{
+  "clave": "027",
+  "etiqueta": "Artículo 27",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "027.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 1",
+      "texto": "El Ejecutivo del Estado organizará el sistema penitenciario sobre la base del respeto a los derechos humanos, trabajo, la capacitación para el mismo, la educación, la salud y el deporte, como medios para lograr la reinserción del sentenciado a la sociedad y procurar que no vuelva a delinquir, observando los beneficios que para él prevé la ley."
+    },
+    {
+      "id": "027.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 2",
+      "texto": "Las mujeres compurgarán sus penas en lugares separados de los destinados a los hombres para tal efecto."
+    },
+    {
+      "id": "027.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 3",
+      "texto": "El Estado podrá celebrar convenios con la Federación y otras entidades federativas para que las personas sentenciadas por delitos del ámbito de su competencia extingan las penas en establecimientos penitenciarios dependientes de una jurisdicción diversa."
+    }
+  ]
+}

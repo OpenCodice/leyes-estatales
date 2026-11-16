@@ -1,0 +1,81 @@
+{
+  "clave": "060",
+  "etiqueta": "Artículo 60",
+  "titulo": "",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "060.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › párrafo 1",
+      "texto": "La revocación de mandato del Gobernador del Estado es el instrumento de participación solicitado por la ciudadanía para determinar la conclusión anticipada en el desempeño del cargo a partir de la pérdida de la confianza y se llevará a cabo conforme a lo siguiente y lo que establezcan las leyes aplicables:"
+    },
+    {
+      "id": "060.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción I",
+      "texto": "I. Será convocado por el Instituto Estatal Electoral y de Participación Ciudadana a petición de la ciudadanía en un número equivalente, al menos, al diez por ciento de los inscritos en la lista nominal de electores, siempre y cuando la solicitud corresponda a por lo menos a la mitad más uno de los municipios de la entidad.\n\nEl Instituto Estatal Electoral y de Participación Ciudadana, dentro de los siguientes treinta días a que se reciba la solicitud, verificará el requisito establecido en el párrafo anterior y emitirá inmediatamente la convocatoria al proceso para la revocación de mandato."
+    },
+    {
+      "id": "060.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción II",
+      "texto": "II. Se podrá solicitar en una sola ocasión y durante los tres meses posteriores a la conclusión del tercer año del periodo constitucional.\n\nLa ciudadanía podrá recabar firmas para la solicitud de revocación de mandato durante el mes previo a la fecha prevista en el párrafo anterior. El Instituto Estatal Electoral y de Participación Ciudadana emitirá, a partir de esta fecha, los formatos y medios para la recopilación de firmas, así como los lineamientos para las actividades relacionadas."
+    },
+    {
+      "id": "060.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción III",
+      "texto": "III. La jornada, se realizará mediante votación libre, directa y secreta de ciudadanos inscritos en la lista nominal, el domingo siguiente a los noventa días posteriores a la convocatoria y en fecha no coincidente con las jornadas electorales, federal o locales."
+    },
+    {
+      "id": "060.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción IV",
+      "texto": "IV. Para que el proceso de revocación de mandato sea válido deberá haber una participación de, por lo menos, el cuarenta por ciento de las personas inscritas en la lista nominal de electores. La revocación de mandato solo procederá por mayoría absoluta."
+    },
+    {
+      "id": "060.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción V",
+      "texto": "V. El Instituto Estatal Electoral y de Participación Ciudadana, tendrá a su cargo, en forma directa, la organización, desarrollo y cómputo de la votación. Emitirá los resultados de los procesos de revocación de mandato, los cuales podrán ser impugnados ante el Tribunal Electoral del Estado, con base en lo dispuesto en el artículo 164 de la presente Constitución."
+    },
+    {
+      "id": "060.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción VI",
+      "texto": "VI. Una vez resueltas las impugnaciones que se hubieren interpuesto, el Instituto Estatal Electoral y de Participación Ciudadana emitirá la declaratoria de revocación de mandato. En caso de proceder, asumirá provisionalmente la titularidad del Poder Ejecutivo quien ocupe la Presidencia del Congreso. Dentro de los treinta días siguientes, el Congreso nombrará a quien concluirá el periodo constitucional, en ese periodo, en lo conducente, se aplicará lo dispuesto en el artículo 91 de esta Constitución."
+    },
+    {
+      "id": "060.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción VII",
+      "texto": "VII. Queda prohibido el uso de recursos públicos para la recolección de firmas, así como con fines de promoción y propaganda relacionados con los procesos de revocación de mandato.\n\nEl Instituto Estatal Electoral y de Participación Ciudadana promoverá la participación ciudadana y será la única instancia a cargo de la difusión del proceso de revocación de mandato. La promoción será objetiva, imparcial y con fines informativos.\n\nNinguna otra persona física o moral, sea a título propio o por cuenta de terceros, podrá contratar propaganda en radio y televisión dirigida a influir en la opinión de la ciudadanía.\n\nDurante el tiempo que comprende el proceso de revocación de mandato, desde la convocatoria y hasta la conclusión de la jornada, deberá suspenderse la difusión en los medios de comunicación de toda propaganda gubernamental tanto del Estado como de los municipios.\n\nLos poderes públicos, los órganos constitucionalmente autónomos, las dependencias y entidades de la administración pública y cualquier otro ente, tanto del Estado como de los municipios, solo podrán difundir las campañas de información relativas a los servicios educativos y de salud o las necesarias para la protección civil.\n\nDurante los tres días anteriores a la jornada de consulta y hasta el cierre oficial de las casillas, queda prohibida la publicación o difusión de encuestas o sondeos que tengan por objeto dar a conocer las preferencias de la ciudadanía o cualquier otro acto de difusión relacionado. No tendrá validez ningún pacto o disposición contrario a los principios establecidos en el presente artículo que limite de cualquier manera el derecho de la ciudadanía a la libertad de afiliación o de voto."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "073",
+  "etiqueta": "Artículo 73",
+  "titulo": "",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "073.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › párrafo 1",
+      "texto": "Los Diputados no podrán desempeñar ninguna otra comisión o empleo de la Federación, de las entidades federativas o de los municipios, por los cuales se disfrute sueldo, sin licencia previa en el ejercicio de la diputación, pero entonces cesarán sus funciones legislativas mientras dure su nuevo cargo o empleo. Quedan exceptuados de lo anterior los relacionados con la docencia y la investigación."
+    },
+    {
+      "id": "073.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 73 › párrafo 2",
+      "texto": "La misma regla se observará con los diputados suplentes cuando estuviesen en ejercicio."
+    }
+  ]
+}

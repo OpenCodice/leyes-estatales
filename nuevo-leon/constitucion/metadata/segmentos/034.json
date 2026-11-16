@@ -1,0 +1,36 @@
+{
+  "clave": "034",
+  "etiqueta": "Artículo 34",
+  "titulo": "",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "034.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › párrafo 1",
+      "texto": "Las Universidades y las demás Instituciones de Educación Superior realizarán sus fines de educar, investigar y difundir la cultura de acuerdo con los principios de esta Constitución, respetando la libertad de cátedra e investigación, de libre examen, discusión de las ideas y la integridad académica, así como la administración de su patrimonio. Adicionalmente, estas determinarán sus planes y programas y fijarán los términos de ingreso, promoción y permanencia de su personal académico. Participarán en el fortalecimiento de la educación superior de acuerdo con las políticas nacionales y estatales y lo dispuesto en el plan estratégico y el estatal de desarrollo."
+    },
+    {
+      "id": "034.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › párrafo 2",
+      "texto": "La educación superior en el Estado deberá desarrollar mecanismos de enlace con las comunidades locales y enfocar su misión en resolver problemas locales y regionales; así como contribuir a la vida pública y al fortalecimiento del desarrollo del Estado."
+    },
+    {
+      "id": "034.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › párrafo 3",
+      "texto": "Las Universidades Públicas y demás Instituciones Públicas de Educación Superior tendrán la facultad y responsabilidad de gobernarse a sí mismas y administrar su patrimonio cuando la ley les otorgue la autonomía."
+    }
+  ]
+}

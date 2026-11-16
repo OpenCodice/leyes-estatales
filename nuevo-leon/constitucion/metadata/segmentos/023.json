@@ -1,0 +1,27 @@
+{
+  "clave": "023",
+  "etiqueta": "Artículo 23",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "023.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › párrafo 1",
+      "texto": "El Estado garantizará el acceso a la justicia cívica a todas las personas en la entidad."
+    },
+    {
+      "id": "023.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › párrafo 2",
+      "texto": "La justicia cívica se constituye como instrumento primario para la prevención del delito, para el mantenimiento de la convivencia armónica, la preservación del orden y la tranquilidad en la sociedad. La autoridad administrativa será la responsable de imponer las sanciones correspondientes en la materia, mismas que estarán contenidas en la ley, la cual establecerá las conductas y procedimientos expeditos para su funcionamiento, y no podrá consistir en penas privativas de la libertad, salvo el arresto hasta por treinta y seis horas."
+    }
+  ]
+}

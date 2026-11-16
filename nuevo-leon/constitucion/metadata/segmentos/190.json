@@ -1,0 +1,27 @@
+{
+  "clave": "190",
+  "etiqueta": "Artículo 190",
+  "titulo": "",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "190.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 190 › párrafo 1",
+      "texto": "Queda prohibido desempeñar a la vez dos o más cargos o empleos remunerados del Estado, de los Municipios, o de uno y otros, o cualesquiera de ellos con uno de la federación, sean o no de elección popular, con excepción de los relativos a la instrucción pública y beneficencia."
+    },
+    {
+      "id": "190.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 190 › párrafo 2",
+      "texto": "Tampoco podrán desempeñarse a la vez dos cargos de elección popular."
+    }
+  ]
+}
