@@ -1,0 +1,63 @@
+{
+  "clave": "025",
+  "etiqueta": "Artículo 25",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "025.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 1",
+      "texto": "(REFORMADO, PRIMER PÁRRAFO; G.O. 14 DE OCTUBRE DE 2024)"
+    },
+    {
+      "id": "025.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 2",
+      "texto": "El Congreso se reunirá a partir del primer día de septiembre de cada año para celebrar un primer periodo de sesiones ordinarias, que concluirá el día quince de diciembre, pero que podrá prorrogarse hasta quince días más el año de renovación de la gubernatura del Estado, y a partir del día primero de abril de cada año, para celebrar un segundo período de sesiones ordinarias, que terminará el día último del mes de junio."
+    },
+    {
+      "id": "025.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 3",
+      "texto": "“NOTA DE EDITOR: La reforma al párrafo primero del artículo 25 de esta Constitución iniciará su vigencia a partir del primero de febrero de 2025, con las salvedades descritas posteriormente y, por tanto, será aplicable para la celebración del segundo periodo de sesiones ordinarias del primer año de ejercicio constitucional de la LXVII Legislatura del Congreso del Estado y para los subsecuentes de esa misma Legislatura."
+    },
+    {
+      "id": "025.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 4",
+      "texto": "En el caso de la LXVIII Legislatura del Congreso del Estado, por excepción, el primer periodo de sesiones ordinarias de su primer año de ejercicio constitucional iniciará el cinco de noviembre de 2027 y concluirá el treinta y uno de enero de 2028, para posteriormente celebrar sus períodos de sesiones ordinarias conforme a lo previsto en el presente Decreto., de conformidad con el artículo Tercero Transitorio del Decreto de reforma número 741, publicada en la Gaceta Oficial N°Ext. 412 Tomo III del 14 de octubre de 2024.” TEXTO ANTERIOR:"
+    },
+    {
+      "id": "025.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 5",
+      "texto": "Artículo 25. El Congreso se reunirá a partir del 5 de noviembre de cada año para celebrar un primer período de sesiones ordinarias, el cual concluirá el día último del mes de enero del año siguiente; y a partir del 2 de mayo de cada año, para celebrar un segundo período de sesiones ordinarias que terminará, el día último del mes de julio."
+    },
+    {
+      "id": "025.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 6",
+      "texto": "Las sesiones del Congreso y de sus comisiones serán públicas; pero cuando se trate de asuntos que exijan reserva, serán privadas, de conformidad con lo establecido por su normatividad interior."
+    }
+  ]
+}

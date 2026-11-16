@@ -1,0 +1,27 @@
+{
+  "clave": "053",
+  "etiqueta": "Artículo 53",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "053.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › párrafo 1",
+      "texto": "(DEROGADO, G.O. 9 DE ENERO DE 2015)"
+    },
+    {
+      "id": "053.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 53 › párrafo 2",
+      "texto": "DEROGADO."
+    }
+  ]
+}

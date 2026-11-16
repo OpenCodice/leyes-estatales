@@ -1,0 +1,36 @@
+{
+  "clave": "009",
+  "etiqueta": "Artículo 9",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "009.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › párrafo 1",
+      "texto": "(ADICIONADO, PRIMER PÁRRAFO; G.O. 10 DE SEPTIEMBRE DE 2018)"
+    },
+    {
+      "id": "009.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › párrafo 2",
+      "texto": "Toda familia veracruzana tiene derecho a disfrutar de vivienda digna y decorosa. La ley establecerá los instrumentos y apoyos necesarios a fin de alcanzar tal objetivo."
+    },
+    {
+      "id": "009.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 9 › párrafo 3",
+      "texto": "La propiedad y la posesión tendrán las modalidades y limitaciones señaladas por la Constitución Federal y la Ley."
+    }
+  ]
+}

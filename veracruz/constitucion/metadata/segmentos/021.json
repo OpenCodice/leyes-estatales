@@ -1,0 +1,162 @@
+{
+  "clave": "021",
+  "etiqueta": "Artículo 21",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "021.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 1",
+      "texto": "(REFORMADO, PRIMER PÁRRAFO; G.O. 29 DE JULIO DE 2019)"
+    },
+    {
+      "id": "021.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 2",
+      "texto": "El Congreso del Estado se integrará por cincuenta diputados y diputadas bajo el principio de paridad de los cuales treinta se elegirán por el principio de mayoría relativa en los distritos electorales uninominales y veinte por el principio de representación proporcional, conforme a las listas que presenten los partidos políticos en la circunscripción plurinominal que se constituya en el territorio del Estado."
+    },
+    {
+      "id": "021.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 3",
+      "texto": "(REFORMADO, SEGUNDO PÁRRAFO; G.O. 14 DE OCTUBRE DE 2024)"
+    },
+    {
+      "id": "021.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 4",
+      "texto": "El Congreso se renovará en su totalidad cada tres años y se instalará el día primero de septiembre inmediato posterior a las elecciones."
+    },
+    {
+      "id": "021.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 5",
+      "texto": "“NOTA DE EDITOR: La reforma al artículo 21, párrafo segundo, de esta Constitución entrará en vigor noventa días antes del inicio del proceso electoral en que se elijan diputaciones al Congreso del Estado en el año 2030, por lo que el período de las y los diputados elegidos el primer domingo de junio de 2027 iniciará el día cinco de noviembre posterior a la elección y concluirá el treinta y uno de agosto de 2030, de conformidad con el artículo Segundo transitorio del Decreto de reforma número 741, publicada en la Gaceta Oficial N°Ext. 412 Tomo III del 14 de octubre de 2024.” TEXTO ANTERIOR:"
+    },
+    {
+      "id": "021.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 6",
+      "texto": "(REFORMADO, PRIMER PÁRRAFO; G.O. 29 DE JULIO DE 2019)"
+    },
+    {
+      "id": "021.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 7",
+      "texto": "Artículo 21. … El Congreso se renovará en su totalidad cada tres años y se instalará el día cinco de noviembre inmediato posterior a las elecciones."
+    },
+    {
+      "id": "021.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 8",
+      "texto": "(REFORMADO, TERCER PÁRRAFO; G.O. 11 DE MAYO DE 2020)"
+    },
+    {
+      "id": "021.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 9",
+      "texto": "La ley desarrollará la fórmula de asignación de diputadas y diputados electos por el principio de representación proporcional, con base en lo previsto en este artículo. La demarcación de los distritos electorales uninominales estará a cargo del Instituto Nacional Electoral, como lo dispone el artículo 41, apartado B, de la Constitución federal."
+    },
+    {
+      "id": "021.p10",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 10",
+      "texto": "(REFORMADO, CUARTO PÁRRAFO; G.O. 11 DE MAYO DE 2020)"
+    },
+    {
+      "id": "021.p11",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › párrafo 11",
+      "texto": "La elección de diputadas y diputados según el principio representación proporcional y el sistema de asignación se sujetarán a las siguientes bases y a lo que disponga la ley, considerando en este proceso la paridad de género:"
+    },
+    {
+      "id": "021.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción I",
+      "texto": "I. Un partido político, para obtener el registro de sus listas, deberá acreditar que participa con candidatos a diputados por mayoría relativa en por lo menos veinte de los distritos uninominales;\n\n(REFORMADA, G.O. 9 DE ENERO DE 2015)"
+    },
+    {
+      "id": "021.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción II",
+      "texto": "II. Sólo los partidos políticos que alcancen por lo menos el tres por ciento del total de la votación válida emitida para las listas tendrán derecho a participar en la asignación de diputados según el principio de representación proporcional;"
+    },
+    {
+      "id": "021.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción III",
+      "texto": "III. Al partido político que cumpla con las dos bases anteriores, independiente y adicionalmente a las constancias de mayoría relativa que hubieren obtenido sus candidatos, le serán asignados por el principio de representación proporcional, de acuerdo con su porcentaje de la votación estatal emitida, el número de diputados de su lista que le correspondan;"
+    },
+    {
+      "id": "021.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción IV",
+      "texto": "IV. Ningún partido político podrá contar con más de treinta diputados por ambos principios;\n\n(REFORMADA, G.O. 9 DE ENERO DE 2015)"
+    },
+    {
+      "id": "021.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción V",
+      "texto": "V. En ningún caso, un partido político podrá contar con un número de diputados por ambos principios que represente un porcentaje del total del Congreso que exceda en ocho puntos a su porcentaje de votación estatal emitida. Esta base no se aplicará al partido político que, por sus triunfos en distritos uninominales, obtenga un porcentaje de curules del total del Congreso superior a la suma del porcentaje de su votación estatal emitida más el ocho por ciento. El porcentaje de representación de un partido político no podrá ser menor al porcentaje de votación que hubiere recibido menos ocho puntos porcentuales, y"
+    },
+    {
+      "id": "021.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 21 › Fracción VI",
+      "texto": "VI. En los términos de lo establecido en las bases contenidas en las fracciones III, IV y V anteriores, las diputaciones de representación proporcional que resten después de asignar las que correspondan al partido político que se halle en los supuestos de las fracciones IV o V, se adjudicarán a los demás partidos con derecho a ello, en proporción directa con las respectivas votaciones estatales efectivas de estos últimos. La ley desarrollará las reglas y fórmulas para estos efectos.\n\n(REFORMADO, QUINTO PÁRRAFO; G.O. 2 DE JULIO DE 2026)\n\nLas personas diputadas no podrán ser reelectas para el periodo inmediato posterior al ejercicio de su mandato. Las personas diputadas suplentes podrán ser electas para el periodo inmediato con el carácter de propietarios, siempre que no hubieren estado en ejercicio, pero las personas diputadas propietarias no podrán ser electas para el periodo inmediato con el carácter de suplentes."
+    }
+  ]
+}

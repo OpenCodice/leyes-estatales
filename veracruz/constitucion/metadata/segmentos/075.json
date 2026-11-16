@@ -1,0 +1,36 @@
+{
+  "clave": "075",
+  "etiqueta": "Artículo 75",
+  "titulo": "TITULO CUARTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "075.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › párrafo 1",
+      "texto": "(REFORMADO, G.O. 4 DE MAYO DE 2026)"
+    },
+    {
+      "id": "075.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › párrafo 2",
+      "texto": "La persona titular del Poder Ejecutivo organizará un sistema de planeación democrática para el desarrollo integral del Estado, que aliente y proteja la actividad económica de los particulares y del sector social, en los términos de esta Constitución y las leyes."
+    },
+    {
+      "id": "075.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › párrafo 3",
+      "texto": "Las autoridades participarán en la regulación, definición y determinación de los derechos de propiedad, así como de la posesión, con base en los principios de interés público y beneficio social; tales acciones tendrán como finalidad primordial el desarrollo económico equitativo y productivo en el Estado."
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "clave": "020",
+  "etiqueta": "Artículo 20",
+  "titulo": "TITULO SEGUNDO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "020.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 1",
+      "texto": "El Poder Legislativo se deposita en una asamblea denominada Congreso del Estado."
+    },
+    {
+      "id": "020.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 2",
+      "texto": "(ADICI0NADO, SEGUNDO PÁRRAFO; G.O. 15 DE MAYO DE 2026)"
+    },
+    {
+      "id": "020.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 3",
+      "texto": "En la integración y funcionamiento del Congreso del Estado deberán observarse los principios de paridad, igualdad sustantiva y perspectiva de género."
+    }
+  ]
+}
