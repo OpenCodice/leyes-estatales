@@ -1,0 +1,27 @@
+{
+  "clave": "113",
+  "etiqueta": "Artículo 113",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "113.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 113 › párrafo 1",
+      "texto": "La Secretaría del ramo hará la recaudación de los ingresos públicos y efectuará los pagos del Estado de acuerdo con las Leyes de Ingresos y de Presupuesto de Egresos que la Legislatura del Estado decrete para cada ejercicio fiscal y de conformidad a las leyes de la materia."
+    },
+    {
+      "id": "113.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 113 › párrafo 2",
+      "texto": "No se hará pago alguno que no esté previsto en la Ley del Presupuesto de Egresos."
+    }
+  ]
+}

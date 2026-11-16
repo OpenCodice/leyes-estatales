@@ -1,0 +1,27 @@
+{
+  "clave": "127",
+  "etiqueta": "Artículo 127",
+  "titulo": "TÍTULO DECIMOTERCERO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "127.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 1",
+      "texto": "(DEROGADO, P.O. 30 DE OCTUBRE DE 2017) (REFORMADO, P.O. 30 DE OCTUBRE DE 2017) (ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996) En los casos a que se refiere el artículo 111, párrafo quinto, de la Constitución Política de los Estados Unidos Mexicanos, recibidas las constancias por el Congreso del Estado, y previa la integración de cualquier otro elemento pertinente, se remitirán a las autoridades federales competentes para que actúen conforme a la ley. Tratándose del Gobernador del Estado, se procederá en los términos del artículo 128 de esta Constitución."
+    },
+    {
+      "id": "127.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 127 › párrafo 2",
+      "texto": "(DEROGADO, P.O. 30 DE OCTUBRE DE 2017) (REFORMADO, P.O. 30 DE OCTUBRE DE 2017) (ADICIONADO, P.O. 20 DE NOVIEMBRE DE 1996) Si la sentencia fuese absolutoria, será rehabilitado en los términos que dispone la ley."
+    }
+  ]
+}
