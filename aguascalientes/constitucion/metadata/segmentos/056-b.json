@@ -1,0 +1,108 @@
+{
+  "clave": "056-b",
+  "etiqueta": "Artículo 56º B",
+  "titulo": "",
+  "capitulo": "CAPITULO DUODECIMO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "056-b.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56º B › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)"
+    },
+    {
+      "id": "056-b.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56º B › párrafo 2",
+      "texto": "La Controversia Constitucional procede dentro del plazo de 30 días naturales, contra los actos y disposiciones generales que violen esta Constitución, entre los siguientes poderes y órganos de la entidad federativa:"
+    },
+    {
+      "id": "056-b.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56º B › Fracción I",
+      "texto": "I.- El Poder Ejecutivo y el Congreso del Estado o en su caso, la Diputación Permanente;"
+    },
+    {
+      "id": "056-b.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56º B › Fracción II",
+      "texto": "II.- El Poder Ejecutivo y un Municipio;"
+    },
+    {
+      "id": "056-b.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56º B › Fracción III",
+      "texto": "III.- El Congreso del Estado y un Municipio;"
+    },
+    {
+      "id": "056-b.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56º B › Fracción IV",
+      "texto": "IV.- Un Municipio y otro;"
+    },
+    {
+      "id": "056-b.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56º B › Fracción V",
+      "texto": "V.- Un órgano constitucional local autónomo y el Poder Ejecutivo;"
+    },
+    {
+      "id": "056-b.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56º B › Fracción VI",
+      "texto": "VI.- Un órgano constitucional local autónomo y el Congreso;"
+    },
+    {
+      "id": "056-b.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56º B › Fracción VII",
+      "texto": "VII.- Un órgano constitucional local autónomo y otro;"
+    },
+    {
+      "id": "056-b.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56º B › Fracción VIII",
+      "texto": "VIII.- Un órgano constitucional autónomo local y un Municipio; y"
+    },
+    {
+      "id": "056-b.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56º B › Fracción IX",
+      "texto": "IX.- El equivalente al treinta y tres por ciento o más de las y los integrantes del Cabildo y el propio Ayuntamiento."
+    }
+  ]
+}

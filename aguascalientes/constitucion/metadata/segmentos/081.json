@@ -1,0 +1,36 @@
+{
+  "clave": "081",
+  "etiqueta": "Artículo 81º",
+  "titulo": "",
+  "capitulo": "CAPITULO DECIMOSEPTIMO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "081.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 21 DE JUNIO DE 2010)"
+    },
+    {
+      "id": "081.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81º › párrafo 2",
+      "texto": "Pronunciada una sentencia condenatoria siendo un delito cometido durante el ejercicio de su encargo, no podrá concederse al sentenciado la gracia del indulto."
+    },
+    {
+      "id": "081.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81º › párrafo 3",
+      "texto": "En los juicios del orden civil no hay fuero ni inmunidad para ningún servidor público."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "007-c",
+  "etiqueta": "Artículo 7º C",
+  "titulo": "",
+  "capitulo": "CAPITULO PRIMERO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007-c.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º C › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 29 DE JUNIO DE 2026)"
+    },
+    {
+      "id": "007-c.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º C › párrafo 2",
+      "texto": "El Estado reconoce y garantiza el Derecho a la Ciudad Digna, como un derecho colectivo, que asegura a todas las personas el uso, acceso y disfrute pleno, equitativo, seguro, incluyente y sostenible del espacio urbano y rural, bajo los principios de justicia social, dignidad humana, democracia participativa, equidad territorial, respeto a la diversidad cultural, protección del medio ambiente y función social de la propiedad."
+    },
+    {
+      "id": "007-c.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º C › párrafo 3",
+      "texto": "Las autoridades estatales y municipales, en el ámbito de sus respectivas competencias, promoverán la planeación, el ordenamiento territorial y la gestión urbana con enfoque de derechos humanos, desarrollo sostenible y dignidad, garantizando la participación efectiva de la ciudadanía en la formulación, ejecución, seguimiento y evaluación de las políticas públicas que incidan en el desarrollo de las ciudades y comunidades."
+    },
+    {
+      "id": "007-c.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7º C › párrafo 4",
+      "texto": "(REFORMADO, P.O. 13 DE AGOSTO DE 1950)"
+    }
+  ]
+}

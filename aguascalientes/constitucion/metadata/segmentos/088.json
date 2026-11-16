@@ -1,0 +1,27 @@
+{
+  "clave": "088",
+  "etiqueta": "Artículo 88º",
+  "titulo": "",
+  "capitulo": "CAPITULO DECIMOCTAVO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "088.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88º › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 13 DE AGOSTO DE 1950)"
+    },
+    {
+      "id": "088.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 88º › párrafo 2",
+      "texto": "Cuando por circunstancias imprevistas no pudiere instalarse el Congreso, ni el Gobernador tomar posesión de su cargo el día fijado por esta Constitución, lo harán luego que sea posible."
+    }
+  ]
+}

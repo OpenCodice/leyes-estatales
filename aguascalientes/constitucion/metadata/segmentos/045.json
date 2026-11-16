@@ -1,0 +1,27 @@
+{
+  "clave": "045",
+  "etiqueta": "Artículo 45º",
+  "titulo": "",
+  "capitulo": "CAPITULO DECIMO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "045.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE AGOSTO DE 2015)"
+    },
+    {
+      "id": "045.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 45º › párrafo 2",
+      "texto": "En los casos en que el Gobernador se ausente legalmente del territorio del Estado, sin separarse de su cargo, el Secretario General de Gobierno quedará encargado del Despacho, y se limitará a conocer de los asuntos que fueren inaplazables y de los de mero trámite."
+    }
+  ]
+}

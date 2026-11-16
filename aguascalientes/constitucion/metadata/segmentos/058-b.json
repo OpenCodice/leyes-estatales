@@ -1,0 +1,144 @@
+{
+  "clave": "058-b",
+  "etiqueta": "Artículo 58º B",
+  "titulo": "",
+  "capitulo": "CAPITULO DECIMOCUARTO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "058-b.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º B › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 6 DE MAYO DE 2013)"
+    },
+    {
+      "id": "058-b.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º B › párrafo 2",
+      "texto": "El proceso penal será acusatorio y oral, y se regirá por los siguientes principios:"
+    },
+    {
+      "id": "058-b.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º B › Fracción I",
+      "texto": "I.- El proceso penal tendrá por objeto el esclarecimiento de los hechos, proteger al inocente, procurar que el culpable no quede impune y que los daños causados por el delito se reparen;"
+    },
+    {
+      "id": "058-b.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º B › Fracción II",
+      "texto": "II.- El proceso penal fomentará la aplicación de los criterios de oportunidad y evitará el ejercicio compulsivo de la acción penal;"
+    },
+    {
+      "id": "058-b.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º B › Fracción III",
+      "texto": "III.- Toda audiencia se desarrollará en presencia del juez, sin que pueda delegar en ninguna persona la producción o desahogo y la valoración de las pruebas, la cual deberá realizarse de manera libre y lógica;"
+    },
+    {
+      "id": "058-b.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º B › Fracción IV",
+      "texto": "IV.- Para los efectos de la sentencia sólo se considerarán como prueba aquellas que hayan sido producidas o desahogadas en la audiencia de juicio. La ley establecerá las excepciones y los requisitos para admitir en juicio la prueba anticipada, que por su naturaleza requiera desahogo previo. Los jueces tomarán conocimiento personal del material probatorio introducido en la audiencia y escucharán directamente los argumentos de las partes con la presencia interrumpida de los sujetos procesales que deben participar en ella conforme a la ley;"
+    },
+    {
+      "id": "058-b.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º B › Fracción V",
+      "texto": "V.- El juicio se celebrará ante un juez que no haya conocido del caso previamente.\n\nLa presentación de los argumentos y los elementos probatorios se desarrollará de manera pública, contradictoria y oral;"
+    },
+    {
+      "id": "058-b.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º B › Fracción VI",
+      "texto": "VI.- La producción de las pruebas, el debate y la emisión de la resolución, se desarrollarán ante el juez y las partes en audiencia que será continua, sucesiva y secuencial, salvo casos excepcionales previstos en la ley;"
+    },
+    {
+      "id": "058-b.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º B › Fracción VII",
+      "texto": "VII.- La carga de la prueba para demostrar la culpabilidad corresponde a la parte acusadora. Las partes tendrán igualdad procesal para sostener la acusación o la defensa, respectivamente;"
+    },
+    {
+      "id": "058-b.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º B › Fracción VIII",
+      "texto": "VIII.- Ningún juzgador podrá tratar asuntos que estén sujetos a proceso con cualquiera de las partes sin que esté presente la otra, respetando en todo momento el principio de contradicción. Todo acto jurisdiccional debe ser público, salvo las excepciones fundadas que establezca la Constitución Política de los Estados Unidos Mexicanos;"
+    },
+    {
+      "id": "058-b.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º B › Fracción IX",
+      "texto": "IX.- Las partes podrán debatir los hechos y argumentos de la contraparte, y controvertir cualquier medio de prueba durante el juicio;"
+    },
+    {
+      "id": "058-b.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º B › Fracción X",
+      "texto": "X.- El Ministerio Público y el Juez garantizarán la asistencia, acompañamiento, protección e intervención de las víctimas del delito;"
+    },
+    {
+      "id": "058-b.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º B › Fracción XI",
+      "texto": "XI.- Una vez iniciado el proceso penal, siempre y cuando no exista oposición del imputado, se podrá decretar su terminación anticipada en los supuestos y bajo las modalidades que determine la ley. Si el imputado reconoce ante la autoridad judicial, voluntariamente y con conocimiento de las consecuencias, su participación en el hecho punible y existen medios de convicción suficientes para corroborar la imputación, el juez citará a audiencia donde emitirá sentencia. La ley establecerá los beneficios que se podrán otorgar al imputado cuando acepte su responsabilidad;"
+    },
+    {
+      "id": "058-b.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º B › Fracción XII",
+      "texto": "XII.- El juez sólo condenará cuando exista convicción fundada y motivada de la existencia del delito y la culpabilidad del procesado; y"
+    },
+    {
+      "id": "058-b.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58º B › Fracción XIII",
+      "texto": "XIII.- El proceso penal se realizará respetando los derechos humanos, fundamentales y garantías de las personas, previstas en la Constitución Política de los Estados Unidos Mexicanos, en el Derecho Internacional de los Derechos Humanos del que el Estado Mexicano sea parte, ésta Constitución y toda normatividad que derive de ellos, para garantizar el respeto de la dignidad del ser humano. Cualquier prueba, audiencia o actuación procesal realizada, obtenida, incorporada o producida con violación de derechos humanos serán nulas. La ley sancionará la simulación o alteración de pruebas por las partes en el proceso.\n\nEstos principios se observarán también en las audiencias preliminares al juicio."
+    }
+  ]
+}

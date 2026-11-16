@@ -1,0 +1,72 @@
+{
+  "clave": "056-d",
+  "etiqueta": "Artículo 56º D",
+  "titulo": "",
+  "capitulo": "CAPITULO DUODECIMO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "056-d.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56º D › párrafo 1",
+      "texto": "(ADICIONADO, P.O. 8 DE AGOSTO DE 2023)"
+    },
+    {
+      "id": "056-d.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56º D › párrafo 2",
+      "texto": "La Acción de Inconstitucionalidad procede, dentro de los treinta días naturales siguientes a la publicación de la norma impugnada, por:"
+    },
+    {
+      "id": "056-d.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56º D › Fracción I",
+      "texto": "I.- El equivalente al treinta y tres por ciento de las y los integrantes del Congreso del Estado, en contra de las leyes estatales;"
+    },
+    {
+      "id": "056-d.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56º D › Fracción II",
+      "texto": "II.- La persona titular del Poder Ejecutivo del Estado en contra de normas estatales o municipales;"
+    },
+    {
+      "id": "056-d.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56º D › Fracción III",
+      "texto": "III.- La persona titular de la Fiscalía General del Estado, en contra de leyes estatales en materia sustantiva penal, así como las relacionadas en el ámbito de sus funciones que no se encuentren regulados por el Código Nacional de Procedimientos Penales;"
+    },
+    {
+      "id": "056-d.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56º D › Fracción IV",
+      "texto": "IV.- El Municipio, por mayoría de las y los integrantes de su Ayuntamiento, en contra de leyes estatales o normas generales de otros municipios; y"
+    },
+    {
+      "id": "056-d.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 56º D › Fracción V",
+      "texto": "V.- Los órganos constitucionales autónomos, en contra de leyes o normas de carácter general del Congreso del Estado, del Poder Ejecutivo, otros poderes u órganos, así como de los municipios que vulneren esta Constitución."
+    }
+  ]
+}

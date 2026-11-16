@@ -1,0 +1,27 @@
+{
+  "clave": "025",
+  "etiqueta": "Artículo 25º",
+  "titulo": "",
+  "capitulo": "CAPITULO SEXTO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "025.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 17 DE ABRIL DE 1977)"
+    },
+    {
+      "id": "025.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25º › párrafo 2",
+      "texto": "El Congreso, fuera del período ordinario que señala el artículo anterior, celebrará sesiones extraordinarias cuando para ello fuere convocado por la Diputación Permanente, pero se limitará a conocer de los asuntos comprendidos en la convocatoria."
+    }
+  ]
+}

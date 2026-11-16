@@ -1,0 +1,27 @@
+{
+  "clave": "064",
+  "etiqueta": "Artículo 64º",
+  "titulo": "",
+  "capitulo": "CAPITULO DECIMOQUINTO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "064.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64º › párrafo 1",
+      "texto": "(REFORMADO, P.O. 28 DE MAYO DE 2007)"
+    },
+    {
+      "id": "064.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64º › párrafo 2",
+      "texto": "No podrá hacerse pago alguno que no esté comprendido en el presupuesto o determinado por Ley posterior, salvo en el caso de las partidas de pago plurianuales aprobadas por el Congreso, en términos del Artículo 27 fracciones III y XXXIV de esta Constitución."
+    }
+  ]
+}
