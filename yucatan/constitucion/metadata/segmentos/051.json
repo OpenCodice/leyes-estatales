@@ -1,0 +1,36 @@
+{
+  "clave": "051",
+  "etiqueta": "Artículo 51",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "051.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › párrafo 1",
+      "texto": "En caso de falta absoluta del Gobernador, ocurrida en los 2 primeros años del período constitucional, si el Congreso estuviere en sesiones, se constituirá inmediatamente en Colegio Electoral y, concurriendo al menos las dos terceras partes del total de sus integrantes, nombrará, en escrutinio secreto y por mayoría absoluta de votos, un Gobernador interino."
+    },
+    {
+      "id": "051.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › párrafo 2",
+      "texto": "Si el Congreso no estuviere en sesiones, la Diputación Permanente nombrará al Gobernador provisional y convocará al Congreso a sesiones extraordinarias en los términos de Ley, para que este a su vez nombre al Gobernador interino y se expida la convocatoria a elecciones."
+    },
+    {
+      "id": "051.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › párrafo 3",
+      "texto": "Dicha convocatoria deberá ser expedida por el Congreso, dentro de los 10 días hábiles posteriores al del nombramiento del Gobernador interino, debiendo mediar entre la fecha de la convocatoria y la que se señale para la realización de las elecciones, un plazo no mayor de 6 meses."
+    }
+  ]
+}

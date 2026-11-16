@@ -1,0 +1,18 @@
+{
+  "clave": "101",
+  "etiqueta": "Artículo 101",
+  "titulo": "TÍTULO DÉCIMO",
+  "capitulo": "CAPÍTULO ÚNICO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "101.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 1",
+      "texto": "El procedimiento de Juicio Político sólo podrá iniciarse durante el período en que el servidor público esté en funciones o hasta un año después de haberse separado del cargo."
+    }
+  ]
+}

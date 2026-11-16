@@ -1,0 +1,209 @@
+{
+  "clave": "078",
+  "etiqueta": "Artículo 78",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO ÚNICO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "078.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › párrafo 1",
+      "texto": "Para ser regidora o regidor o integrante de un Concejo Municipal, se requiere:",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DO 13-03-2020",
+          "fechas": [
+            "2020-03-13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "078.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción I",
+      "texto": "I.- Ser ciudadano mexicano por nacimiento y tener además la calidad de ciudadano yucateco, en el ejercicio de sus derechos políticos y civiles, y con una residencia efectiva en el Municipio de que se trate, no menor de cinco años. La vecindad no se pierde por desempeñar los cargos de Diputado Federal, Senador de la República, o Gobernador del Estado, y Diputado Estatal, así como Funcionario Público Federal, o Estatal.\n\nDe ser oriundo del propio Municipio, éste plazo deberá reducirse a un año;"
+    },
+    {
+      "id": "078.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción II",
+      "texto": "II.- Tener dieciocho años cumplidos el día de la elección, con excepción del Presidente Municipal que deberá tener veintiún años;"
+    },
+    {
+      "id": "078.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción III",
+      "texto": "III.- Saber leer y escribir;"
+    },
+    {
+      "id": "078.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción IV",
+      "texto": "IV.- No ser ministro de culto religioso, salvo que se separe definitivamente de su encargo, cinco años antes de la elección, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos y en la Ley de la materia;"
+    },
+    {
+      "id": "078.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción V",
+      "texto": "V.- No ser Gobernador del Estado, Magistrado del Tribunal Superior de Justicia, del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios o del Tribunal de Disciplina Judicial o integrante del Órgano de Administración Judicial, durante el año calendario de la elección, a menos que se separe de sus funciones ciento veinte días antes de la elección;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DO 04-07-2025",
+          "fechas": [
+            "2025-07-04"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "078.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción VI",
+      "texto": "VI.- No estar en servicio activo en el Ejército Nacional, ni tener el mando de corporación policíaca alguna en el Municipio en que pretenda su elección, cuando menos durante los noventa días anteriores a ella;"
+    },
+    {
+      "id": "078.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción VII",
+      "texto": "VII.- No haber sido sentenciado con resolución firme de autoridad judicial competente, por la comisión de delito intencional, que amerite pena privativa de la libertad; o por actos de corrupción que ameriten la inhabilitación para ocupar cargos públicos.",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DO 13-03-2020",
+          "fechas": [
+            "2020-03-13"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "078.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción VIII",
+      "texto": "VIII.- No ser Magistrado o Secretario del Tribunal Electoral del Estado de Yucatán, ni Consejero, Secretario Ejecutivo o sus equivalentes, de los organismos electorales locales o nacionales, a menos que se separe de sus funciones tres años antes de la fecha de la elección;"
+    },
+    {
+      "id": "078.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción IX",
+      "texto": "IX.- No ser Consejero ciudadano electoral, local o federal, a menos que se separe de sus funciones tres años antes de la fecha de la elección;"
+    },
+    {
+      "id": "078.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción X",
+      "texto": "X.- Estar inscrito en el Registro Federal del Electores y contar con Credencial para Votar vigente;\n\nLos cargos de Presidente Municipal y Síndico son incompatibles con cualquier otro u otra, comisión o empleo público del Estado o la Federación;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada DO 12-08-2022",
+          "fechas": [
+            "2022-08-12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "078.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción XI",
+      "texto": "XI.- No ser deudor alimentario moroso;",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada DO 12-08-2022",
+          "fechas": [
+            "2022-08-12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "078.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción XII",
+      "texto": "XII.- No tener antecedentes penales por violencia familiar, delitos contra la intimidad personal, contra la imagen personal, violencia laboral contra las mujeres, violencia obstétrica, violencia por parentesco, violencia institucional, hostigamiento sexual, acoso sexual, abuso sexual, estupro, violación o feminicidio, y",
+      "reformas": [
+        {
+          "nota": "Fracción adicionada DO 12-08-2022",
+          "fechas": [
+            "2022-08-12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "078.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 78 › Fracción XIII",
+      "texto": "XIII.- Para ser Síndico se requiere, además de lo anterior:",
+      "reformas": [
+        {
+          "nota": "Fracción recorrida DO 12-08-2022",
+          "fechas": [
+            "2022-08-12"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "078.XIII.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "XIII",
+      "ruta": "Artículo 78 › Fracción XIII › inciso a)",
+      "texto": "a) Contar al día de la elección con el nivel escolar que establezca la ley, en cada caso, y"
+    },
+    {
+      "id": "078.XIII.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "XIII",
+      "ruta": "Artículo 78 › Fracción XIII › inciso b)",
+      "texto": "b) No ser directivo de algún partido político, o haberlo sido, un año antes de la elección.\n\nLos síndicos tendrán el carácter de mandatarios de los ayuntamientos y desempeñarán las funciones que establezca la Ley."
+    }
+  ]
+}

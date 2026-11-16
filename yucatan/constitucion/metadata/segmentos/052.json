@@ -1,0 +1,52 @@
+{
+  "clave": "052",
+  "etiqueta": "Artículo 52",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado D.O. 21-04-2023",
+      "fechas": [
+        "2023-04-21"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "052.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › párrafo 1",
+      "texto": "Si la falta del Gobernador fuere absoluta dentro de los últimos 4 años, se nombrará al sustituto, quien concluirá el período constitucional;"
+    },
+    {
+      "id": "052.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › párrafo 2",
+      "texto": "procediéndose en lo conducente, conforme a lo dispuesto en el artículo anterior."
+    },
+    {
+      "id": "052.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › párrafo 3",
+      "texto": "Para ser Gobernador Sustituto se requiere cumplir los mismos requisitos que para ser Gobernador Interino."
+    },
+    {
+      "id": "052.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 52 › párrafo 4",
+      "texto": "En caso de que la falta absoluta del Gobernador Constitucional ocurra en los dos últimos años del periodo constitucional y se cuente con un gobernador interino, en términos del párrafo quinto del artículo 50 de esta Constitución, el Congreso podrá ratificarlo como Gobernador Sustituto para que termine el periodo constitucional o nombrar a otra persona."
+    }
+  ]
+}

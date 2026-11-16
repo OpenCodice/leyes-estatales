@@ -1,0 +1,36 @@
+{
+  "clave": "034",
+  "etiqueta": "Artículo 34",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "034.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › párrafo 1",
+      "texto": "El Auditor Superior del Estado enviará al Congreso del Estado, el informe de resultados de la revisión de la cuenta pública a más tardar el 20 de febrero del año siguiente al de la presentación de dicha cuenta pública."
+    },
+    {
+      "id": "034.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › párrafo 2",
+      "texto": "El Congreso del Estado concluirá la revisión de la cuenta pública a más tardar dentro del año siguiente al de su presentación, en los términos que establezca la Ley."
+    },
+    {
+      "id": "034.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 34 › párrafo 3",
+      "texto": "La contabilidad gubernamental y la cuenta pública se regirán por las leyes aplicables en la materia."
+    }
+  ]
+}

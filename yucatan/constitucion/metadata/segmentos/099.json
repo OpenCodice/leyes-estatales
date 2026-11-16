@@ -1,0 +1,72 @@
+{
+  "clave": "099",
+  "etiqueta": "Artículo 99",
+  "titulo": "TÍTULO DÉCIMO",
+  "capitulo": "CAPÍTULO ÚNICO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "099.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 1",
+      "texto": "Podrán ser sujetos de juicio político los diputados locales en funciones; las magistraturas del Tribunal Superior de Justicia, del Tribunal de los Trabajadores al Servicio del Estado y de los Municipios, del Tribunal de Disciplina Judicial, las personas integrantes del Pleno del Órgano de Administración Judicial;"
+    },
+    {
+      "id": "099.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 2",
+      "texto": "el presidente de la Comisión de Derechos Humanos del Estado de Yucatán; el consejero presidente y los consejeros electorales del Instituto Electoral y de Participación Ciudadana de Yucatán; los magistrados del Tribunal Electoral del Estado de Yucatán; los magistrados del Tribunal de Justicia Administrativa del Estado de Yucatán; la persona titular de la Fiscalía Especializada en Combate a la Corrupción del Estado de Yucatán; la persona titular de la Agencia de Transporte de Yucatán; la persona titular de la Agencia de Inteligencia Patrimonial y Económica del Estado de Yucatán; la persona titular de la Fiscalía General del Estado de Yucatán; las personas titulares de las dependencias de la Administración Pública estatal y los directores generales o sus equivalentes de la Administración Pública paraestatal; y los presidentes municipales.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado D.O. 05-03-2025/ DO 04-07-2025, 21-07-2025",
+          "fechas": [
+            "2025-03-05",
+            "2025-07-04"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "099.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 3",
+      "texto": "Las sanciones consistirán en la destitución del servidor público y en su inhabilitación para desempeñarse."
+    },
+    {
+      "id": "099.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 4",
+      "texto": "En caso de conocer de la acusación, el Congreso del Estado, erigido en Gran Jurado, dictará la sanción correspondiente mediante la resolución de la mayoría absoluta de los miembros presentes, una vez practicadas las diligencias correspondientes y con audiencia del acusado."
+    },
+    {
+      "id": "099.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 5",
+      "texto": "Cuando al Congreso del Estado le sea comunicado, con efecto de notificación, la resolución que dicte la Cámara de Senadores con motivo del Juicio Político a que estuvo sujeto el Gobernador del Estado en los términos del artículo 110 de la Constitución Política de los Estados Unidos Mexicanos, con el carácter del Órgano Ejecutor procederá a aplicar la sanción correspondiente; pero cuando lo estime procedente solicitará a la Cámara de Senadores las aclaraciones que juzgue pertinentes, antes de ejecutar la sanción."
+    },
+    {
+      "id": "099.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 99 › párrafo 6",
+      "texto": "Las declaraciones y resoluciones de la Legislatura del Estado son definitivas."
+    }
+  ]
+}

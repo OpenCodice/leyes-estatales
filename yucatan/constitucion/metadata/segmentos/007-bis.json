@@ -1,0 +1,63 @@
+{
+  "clave": "007-bis",
+  "etiqueta": "Artículo 7 Bis",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "007-bis.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 Bis › párrafo 1",
+      "texto": "Se reconoce el derecho a la libre determinación del pueblo maya, bajo un marco autonómico en armonía con la unidad Estatal, conforme a las siguientes prerrogativas y atribuciones:"
+    },
+    {
+      "id": "007-bis.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 Bis › Fracción I",
+      "texto": "I.- Decidir sus formas internas de convivencia, organización social, económica, política y cultural;"
+    },
+    {
+      "id": "007-bis.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 Bis › Fracción II",
+      "texto": "II.- Preservar y enriquecer el idioma maya peninsular, los conocimientos y todos los elementos que constituyan la cultura e identidad del pueblo maya yucateco; para tal efecto, el Estado garantizará, la promoción, difusión, preservación y desarrollo de la lengua maya, por lo que a través de los Poderes públicos y órdenes de gobierno, en el ámbito de sus respectivas competencias, reconocerá, protegerá y promoverá su preservación, uso y desarrollo, en los términos de ley."
+    },
+    {
+      "id": "007-bis.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 Bis › Fracción III",
+      "texto": "III.- Acceder al uso, disfrute y aprovechamiento sustentable de los recursos naturales, flora y fauna silvestre de los lugares y sitios que habiten o en los que se encuentren ubicadas las comunidades; la libre asociación, y los derechos adquiridos por terceros o integrantes de su comunidad, en los términos y formas que para la propiedad y tenencia de la tierra establece la Constitución Política de los Estados Unidos Mexicanos y demás leyes relativas de la materia; salvo los casos que correspondan a las áreas estratégicas que se encuentran determinadas por las leyes."
+    },
+    {
+      "id": "007-bis.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 Bis › Fracción IV",
+      "texto": "IV.- Elegir, de acuerdo con sus normas, procedimientos y prácticas tradicionales, a las autoridades o representantes para el ejercicio de sus formas propias de gobierno interno, garantizando que las mujeres y los hombres indígenas disfruten y ejerzan su derecho de votar y ser votados en condiciones de igualdad; así como a acceder y desempeñar los cargos públicos y de elección popular para los que hayan sido electos o designados. En ningún caso las prácticas comunitarias podrán limitar los derechos político-electorales de los ciudadanos en la elección de sus autoridades municipales."
+    },
+    {
+      "id": "007-bis.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 7 Bis › Fracción V",
+      "texto": "V.- Los integrantes del pueblo maya serán considerados como sujetos de derecho público, tendrán acceso pleno a la jurisdicción del estado, en todos los juicios y procedimientos en que sean parte, individual o colectivamente, por lo que se deberán tomar en cuenta sus prácticas jurídicas y especificidades culturales, respetando los preceptos de esta Constitución; con derecho a ser asistidos por intérprete y defensor, en su propio idioma y cultura.\n\nAsimismo, compurgarán las penas preferentemente en los establecimientos más cercanos a su domicilio, de modo que se propicie su reintegración a la comunidad, como mecanismo esencial de rehabilitación social."
+    }
+  ]
+}

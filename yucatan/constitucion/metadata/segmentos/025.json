@@ -1,0 +1,25 @@
+{
+  "clave": "025",
+  "etiqueta": "Artículo 25",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado D.O. 26-06-2024, 28-07-2026",
+      "fechas": [
+        "2024-06-26"
+      ]
+    }
+  ],
+  "bloques": [
+    {
+      "id": "025.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 1",
+      "texto": "El presupuesto anual del Congreso del Estado no podrá exceder del 0.70% del presupuesto de egresos del Gobierno del Estado correspondiente. Sin perjuicio de lo anterior, los aumentos a su presupuesto anual, en su caso, deberán estar ajustados al índice inflacionario que se estime por parte del Instituto Nacional de Estadística y Geografía."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "038",
+  "etiqueta": "Artículo 38",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "038.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › párrafo 1",
+      "texto": "Los Proyectos de Ley o Decreto votados por el Congreso, se remitirán al Ejecutivo, quien, si no tuviere observaciones qué hacer, los publicará inmediatamente, excepto los que tuvieren el carácter ad referéndum."
+    },
+    {
+      "id": "038.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 38 › párrafo 2",
+      "texto": "Se considerará aceptado por el Ejecutivo, todo proyecto no devuelto con observaciones dentro de los 10 días hábiles siguientes. Transcurrido este término, si el Congreso hubiere concluido o suspendido sus sesiones, lo remitirá a más tardar el décimo día en que de nuevo estuviere reunido."
+    }
+  ]
+}

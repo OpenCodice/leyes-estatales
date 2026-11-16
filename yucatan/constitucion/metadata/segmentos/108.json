@@ -1,0 +1,45 @@
+{
+  "clave": "108",
+  "etiqueta": "Artículo 108",
+  "titulo": "TÍTULO DUODÉCIMO",
+  "capitulo": "CAPÍTULO ÚNICO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "108.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › párrafo 1",
+      "texto": "La presente Constitución puede ser adicionada y reformada. Para que las adiciones y reformas lleguen a ser parte de la Constitución, se requiere que el Congreso del Estado las apruebe por el voto de las dos terceras partes del número total de diputados."
+    },
+    {
+      "id": "108.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › párrafo 2",
+      "texto": "Para que las reformas relacionadas con el municipio formen parte de ésta Constitución, será necesaria la aprobación de la mayoría de los Ayuntamientos, en un plazo no mayor de noventa días naturales, contados a partir del día siguiente a aquel en que reciban el proyecto de minuta."
+    },
+    {
+      "id": "108.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › párrafo 3",
+      "texto": "Transcurrido el plazo fijado con anterioridad, y sin que el o los Ayuntamientos se hayan pronunciado, se entenderá como aprobado el proyecto de minuta."
+    },
+    {
+      "id": "108.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 108 › párrafo 4",
+      "texto": "El Congreso o la Diputación Permanente, harán en su caso, el cómputo de los votos emitidos por los ayuntamientos y la declaratoria correspondiente."
+    }
+  ]
+}

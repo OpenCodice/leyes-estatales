@@ -1,0 +1,35 @@
+{
+  "clave": "093",
+  "etiqueta": "Artículo 93",
+  "titulo": "TITULO NOVENO",
+  "capitulo": "CAPÍTULO ÚNICO",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "093.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › párrafo 1",
+      "texto": "Las niñas, niños y adolescentes en desamparo, los adultos mayores y las personas con discapacidad recibirán la protección y asistencia especial del Estado, a través de la creación de instituciones, instalaciones y servicios para su cuidado; así como programas sociales que garanticen el disfrute de una vida plena y aseguren su dignidad.",
+      "reformas": [
+        {
+          "nota": "Párrafo reformado DO 30-09-2020",
+          "fechas": [
+            "2020-09-30"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "093.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 93 › párrafo 2",
+      "texto": "Las leyes que se dicten en esta materia atenderán la vigilancia y orientarán la conveniente asistencia social con miras a lograr la interacción y desarrollo individual asumido por las instituciones de beneficencia pública y privada."
+    }
+  ]
+}
