@@ -1,0 +1,45 @@
+{
+  "clave": "018",
+  "etiqueta": "Artículo 18",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "018.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › párrafo 1",
+      "texto": "Son poblanos por nacimiento o por residencia, ejerciendo los mismos derechos y cumpliendo las mismas obligaciones en los términos que señale la presente Constitución y las leyes de la materia:"
+    },
+    {
+      "id": "018.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción I",
+      "texto": "I.- Los nacidos en territorio del Estado;"
+    },
+    {
+      "id": "018.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción II",
+      "texto": "II.- Los mexicanos mayores de edad hijos de padre o madre poblana, nacidos fuera del territorio del Estado; o"
+    },
+    {
+      "id": "018.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Fracción III",
+      "texto": "III.- Los mexicanos mayores de edad nacidos fuera del territorio del Estado, hijos de padres no poblanos, con residencia continua y comprobable de cinco años dentro del mismo, previa certificación que realice el Ayuntamiento del Municipio en el que residan."
+    }
+  ]
+}

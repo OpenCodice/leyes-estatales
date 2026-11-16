@@ -1,0 +1,63 @@
+{
+  "clave": "027",
+  "etiqueta": "Artículo 27",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO V",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "027.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › párrafo 1",
+      "texto": "La madre, el padre o el tutor tienen las siguientes obligaciones para con sus hijas e hijos:"
+    },
+    {
+      "id": "027.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción I",
+      "texto": "I.- Inscribirlos de manera inmediata en el Registro del Estado Civil de las Personas;"
+    },
+    {
+      "id": "027.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción II",
+      "texto": "II.- Darles protección, alimentación y atención para que puedan desarrollarse física, mental y socialmente de forma saludable, en condiciones de libertad y dignidad;"
+    },
+    {
+      "id": "027.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción III",
+      "texto": "III.- Educarlos bajo los principios de respeto, equidad e igualdad con plena conciencia de servicio a sus semejantes;"
+    },
+    {
+      "id": "027.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción IV",
+      "texto": "IV.- Cumplir con todos los programas públicos de salud y escolares obligatorios; y"
+    },
+    {
+      "id": "027.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Fracción V",
+      "texto": "V.- Gestionar ante las instituciones el tratamiento, la educación y el cuidado especial que requiera en su caso, la hija o el hijo con discapacidad, procurando su incorporación e inclusión a la sociedad."
+    }
+  ]
+}

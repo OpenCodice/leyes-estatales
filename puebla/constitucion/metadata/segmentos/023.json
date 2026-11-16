@@ -1,0 +1,45 @@
+{
+  "clave": "023",
+  "etiqueta": "Artículo 23",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "023.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › párrafo 1",
+      "texto": "Los derechos y prerrogativas de la ciudadanía se pierden:"
+    },
+    {
+      "id": "023.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › Fracción I",
+      "texto": "I.- En los casos de pérdida de la ciudadanía mexicana, conforme a lo establecido por la Constitución Política de los Estados Unidos Mexicanos;"
+    },
+    {
+      "id": "023.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › Fracción II",
+      "texto": "II.- Por adquirir la ciudadanía de otro Estado, salvo cuando haya sido concedida a título de honor o recompensa, por servicios prestados con anterioridad; y"
+    },
+    {
+      "id": "023.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 23 › Fracción III",
+      "texto": "III.- Por pena impuesta en sentencia judicial."
+    }
+  ]
+}

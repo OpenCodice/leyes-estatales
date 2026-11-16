@@ -1,0 +1,45 @@
+{
+  "clave": "091",
+  "etiqueta": "Artículo 91",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "091.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 1",
+      "texto": "Los cargos de orden judicial sólo son renunciables por las causas o motivos que establezca la Ley Orgánica del Poder Judicial del Estado."
+    },
+    {
+      "id": "091.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 2",
+      "texto": "Los servidores públicos del Poder Judicial del Estado deberán expresar, a través de declaración pública de intereses, los vínculos de parentesco consanguíneos o por afinidad hasta el cuarto grado, con otros integrantes del mismo Poder."
+    },
+    {
+      "id": "091.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 3",
+      "texto": "Los servidores públicos del Poder Judicial del Estado serán responsables por realizar o gestionar indebidamente nombramientos, promociones o gratificaciones cuando exista un interés personal, familiar, económico o de negocios en el caso. Asimismo, cuando sus actos u omisiones deriven en alguna ventaja o beneficio para él, su cónyuge, parientes consanguíneos o por afinidad hasta el cuarto grado, para terceros con los que tenga relaciones profesionales, laborales o de negocios, socios o sociedades de las que el servidor público o las personas antes referidas formen o hayan formado parte."
+    },
+    {
+      "id": "091.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 91 › párrafo 4",
+      "texto": "Las y los servidores públicos del Poder Judicial estarán obligados a presentar su declaración de situación patrimonial y de intereses en los casos y conforme a lo previsto en la Ley General de Responsabilidades Administrativas."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "143",
+  "etiqueta": "Artículo 143",
+  "titulo": "TÍTULO DÉCIMO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "143.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 143 › párrafo 1",
+      "texto": "Esta Constitución no perderá su fuerza y vigor aún cuando por cualquier motivo se interrumpa su observancia."
+    },
+    {
+      "id": "143.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 143 › párrafo 2",
+      "texto": "En caso de que por trastorno público se establezca un Gobierno contrario a los principios en ella sancionados, tan luego como el pueblo recobre su libertad, se restablecerá su observancia y con arreglo a ella y a las leyes que en su virtud se hubieren expedido, serán juzgados tanto los que hayan figurado en el Gobierno emanado de la rebelión, como los que hayan cooperado en ella."
+    }
+  ]
+}

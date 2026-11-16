@@ -1,0 +1,27 @@
+{
+  "clave": "011",
+  "etiqueta": "Artículo 11",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "011.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › párrafo 1",
+      "texto": "Las mujeres y los hombres son iguales ante la Ley. En el Estado de Puebla se reconoce el valor de la igualdad, fundamentado en el respeto a las diferencias y a la libertad. Además, el Estado garantizará el goce y ejercicio del derecho a la igualdad sustantiva de las mujeres."
+    },
+    {
+      "id": "011.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › párrafo 2",
+      "texto": "Queda prohibida toda acción tendiente al menoscabo de los derechos humanos, en razón de discriminación por raza, origen étnico o nacional, género, edad, discapacidad, condición social o económica, condiciones de salud, preferencias sexuales, filiación, instrucción y nivel cultural, apariencia física, estado civil, creencia religiosa, ideología política, opiniones expresadas, o cualquier otra que atente contra la dignidad, la libertad o la igualdad."
+    }
+  ]
+}

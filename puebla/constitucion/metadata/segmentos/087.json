@@ -1,0 +1,180 @@
+{
+  "clave": "087",
+  "etiqueta": "Artículo 87",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "087.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › párrafo 1",
+      "texto": "El Tribunal Superior de Justicia del Estado tendrá a su cargo decidir sobre las controversias entre particulares y demás asuntos que esta Constitución y las leyes prevean."
+    },
+    {
+      "id": "087.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › párrafo 2",
+      "texto": "El Tribunal Superior de Justicia del Estado se integrará por el número de Magistradas y Magistrados que establezca la Ley, los cuales serán nombrados conforme a lo dispuesto por esta Constitución, garantizando en todo momento el principio de paridad de género. Funcionará en Pleno y en salas, y contará con una Sala Especializada en Materia Constitucional. La Ley Orgánica distribuirá la competencia entre el Pleno y las salas; sin perjuicio de la facultad del Pleno para emitir acuerdos generales a fin de lograr una adecuada distribución de los asuntos que le competa conocer al Tribunal o para una mejor impartición de justicia."
+    },
+    {
+      "id": "087.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › párrafo 3",
+      "texto": "El Pleno del Tribunal Superior de Justicia nombrará a su Presidenta o Presidente, de entre sus integrantes, por un periodo improrrogable de dos años."
+    },
+    {
+      "id": "087.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › párrafo 4",
+      "texto": "La Sala Especializada en Materia Constitucional tendrá carácter permanente, gozará de autonomía de jurisdicción en la resolución de los asuntos de su competencia, y será garante y custodia de esta Constitución."
+    },
+    {
+      "id": "087.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › párrafo 5",
+      "texto": "Conforme a lo que establezca la Ley, el Órgano de Administración Judicial podrá asignar competencia en jurisdicción ordinaria a la Sala Especializada en Materia Constitucional."
+    },
+    {
+      "id": "087.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › párrafo 6",
+      "texto": "La Sala Especializada en Materia Constitucional conocerá de manera permanente, en los términos que señale la Ley reglamentaria, de los asuntos siguientes:"
+    },
+    {
+      "id": "087.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › Fracción I",
+      "texto": "I.- De las acciones de inconstitucionalidad que tengan por objeto plantear la posible contradicción entre una norma local de carácter general y esta Constitución;\n\nLas acciones de inconstitucionalidad podrán ejercitarse por:"
+    },
+    {
+      "id": "087.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 87 › Fracción I › inciso a)",
+      "texto": "a) El equivalente al treinta y tres por ciento de los integrantes del Congreso del Estado;"
+    },
+    {
+      "id": "087.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 87 › Fracción I › inciso b)",
+      "texto": "b) El Ejecutivo Estatal, por conducto del Consejero Jurídico del Gobierno;"
+    },
+    {
+      "id": "087.I.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 87 › Fracción I › inciso c)",
+      "texto": "c) Los partidos políticos con registro en el Estado, a través de sus dirigencias, exclusivamente en contra de normas electorales locales;"
+    },
+    {
+      "id": "087.I.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 87 › Fracción I › inciso d)",
+      "texto": "d) La Comisión de Derechos Humanos del Estado de Puebla, exclusivamente por normas de carácter general relacionadas con el ámbito de sus atribuciones;"
+    },
+    {
+      "id": "087.I.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 87 › Fracción I › inciso e)",
+      "texto": "e) Se deroga;"
+    },
+    {
+      "id": "087.I.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 87 › Fracción I › inciso f)",
+      "texto": "f) La Fiscalía General del Estado, exclusivamente por normas de carácter general relacionadas con el ámbito de sus atribuciones;"
+    },
+    {
+      "id": "087.I.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 87 › Fracción I › inciso g)",
+      "texto": "g) Los ciudadanos, en un número equivalente, al menos, al cero punto cinco por ciento de los inscritos en la lista nominal de electores, en los términos que determine la Ley."
+    },
+    {
+      "id": "087.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › Fracción II",
+      "texto": "II.- De las acciones que promueva el Presidente o Presidenta Municipal o el treinta y tres por ciento de los integrantes del Ayuntamiento, en contra de los bandos de policía y gobierno, reglamentos, circulares y disposiciones administrativas de observancia general dictados por éste, cuando resulten contrarios a lo previsto en esta Constitución;"
+    },
+    {
+      "id": "087.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › Fracción III",
+      "texto": "III.- Con excepción del poder judicial, de las controversias que se susciten entre los poderes, municipios y órganos a los que esta Constitución otorgue autonomía, cuando tengan por objeto la constitucionalidad de actos u omisiones que afecten sus respectivos ámbitos competenciales;"
+    },
+    {
+      "id": "087.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › Fracción IV",
+      "texto": "IV.- De la acción de tutela que promuevan las personas por violaciones a sus derechos humanos, en los términos que determine la Ley, y"
+    },
+    {
+      "id": "087.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › Fracción V",
+      "texto": "V.- De las acciones que los sujetos legitimados en la fracción I del presente artículo promuevan en contra de las omisiones legislativas atribuibles al Congreso del Estado, cuando medie mandato expreso en norma de carácter general."
+    },
+    {
+      "id": "087.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 87 › Fracción VI",
+      "texto": "VI.- Se deroga.\n\nLas razones que justifiquen las decisiones contenidas en las sentencias dictadas por la Sala Especializada en Materia Constitucional serán obligatorias para todas las autoridades jurisdiccionales del Estado de Puebla.\n\nLa Sala Especializada en Materia Constitucional, sólo podrá declarar la invalidez de las normas impugnadas u ordenar que se subsane una omisión legislativa, cuando dicho efecto sea determinado por unanimidad.\n\nLa Ley reglamentaria regulará los supuestos de procedencia y el procedimiento aplicable a los medios de control y demás recursos a cargo de la Sala Especializada en Materia Constitucional.\n\nLa Sala Especializada en Materia Constitucional, no ejercerá competencia en contra de actos procesales o resoluciones judiciales emitidas por los demás órganos jurisdiccionales del Poder Judicial.\n\nEl Tribunal Superior de Justicia del Estado deberá sistematizar y publicar de manera digital, los precedentes que en materia constitucional emita la Sala Especializada en Materia Constitucional para su consulta pública.\n\nLa administración del presupuesto del Tribunal Superior de Justicia corresponderá al Órgano de Administración Judicial, atendiendo a las necesidades de los órganos jurisdiccionales.\n\nEl conocimiento y la resolución de las controversias de trabajo de competencia estatal que se susciten entre trabajadores, patrones y sindicatos, derivadas de las relaciones de trabajo o de hechos relacionados con éstas, quedarán a cargo de los Tribunales Laborales del Poder Judicial del Estado, compuestos cada uno por un juez, de conformidad con lo que establezca la Ley Orgánica.\n\nAntes de acudir a los Tribunales Laborales, los trabajadores y patrones deberán asistir al Centro de Conciliación Laboral del Estado de Puebla como instancia conciliatoria, con excepción de aquellos supuestos que están eximidos de agotar el procedimiento de conciliación de conformidad con lo previsto en la Ley Federal de Trabajo.\n\nSe deroga.\n\nSe deroga."
+    }
+  ]
+}

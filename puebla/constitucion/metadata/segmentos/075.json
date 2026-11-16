@@ -1,0 +1,27 @@
+{
+  "clave": "075",
+  "etiqueta": "Artículo 75",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "075.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › párrafo 1",
+      "texto": "El Gobernador durará en su encargo seis años y tomará posesión en ceremonia que se celebrará el día catorce de diciembre del año de la elección."
+    },
+    {
+      "id": "075.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 75 › párrafo 2",
+      "texto": "El Gobernador, al tomar posesión de su cargo, prestará la protesta de Ley correspondiente ante el Congreso o ante la Comisión Permanente, en los recesos de aquél. En caso de que por cualquier circunstancia, el Gobernador no pudiere rendir la protesta ante el Congreso o ante la Comisión Permanente, lo hará de inmediato ante el Presidente del Tribunal Superior de Justicia del Estado."
+    }
+  ]
+}

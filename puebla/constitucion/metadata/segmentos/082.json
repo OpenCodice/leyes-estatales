@@ -1,0 +1,27 @@
+{
+  "clave": "082",
+  "etiqueta": "Artículo 82",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "082.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › párrafo 1",
+      "texto": "La Administración Pública del Estado será centralizada y paraestatal."
+    },
+    {
+      "id": "082.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › párrafo 2",
+      "texto": "El Consejero Jurídico es el representante jurídico del Estado. El Gobernador podrá otorgar esa representación a alguno de los servidores públicos que lo auxilien para casos singulares."
+    }
+  ]
+}

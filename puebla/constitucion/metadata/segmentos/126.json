@@ -1,0 +1,27 @@
+{
+  "clave": "126",
+  "etiqueta": "Artículo 126",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "126.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126 › párrafo 1",
+      "texto": "El Gobernador, los Diputados, el Auditor Superior, los Magistrados y Consejeros de la Judicatura del Poder Judicial del Estado, durante el período de su encargo, podrán ser sujetos a proceso penal por cualquier delito."
+    },
+    {
+      "id": "126.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 126 › párrafo 2",
+      "texto": "Cuando el proceso comprenda alguno de los delitos previstos en el artículo 19 de la Constitución Política de los Estados Unidos Mexicanos, el juez correspondiente ordenará la prisión preventiva oficiosamente; en caso de delito distinto, el órgano judicial competente podrá dictar las medidas cautelares de separación del cargo y la prisión preventiva mediante una motivación reforzada respecto de la plena justificación de la medida de conformidad con lo previsto por la legislación penal."
+    }
+  ]
+}

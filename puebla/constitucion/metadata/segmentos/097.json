@@ -1,0 +1,72 @@
+{
+  "clave": "097",
+  "etiqueta": "Artículo 97",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "097.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 97 › párrafo 1",
+      "texto": "El Fiscal General del Estado durará en su encargo siete años, y será designado y removido conforme a lo siguiente:"
+    },
+    {
+      "id": "097.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 97 › Fracción I",
+      "texto": "I.- A partir de la ausencia definitiva del Fiscal General del Estado, el Congreso del Estado contará con veinte días para integrar una lista de al menos diez candidatos al cargo, aprobada por las dos terceras partes de los miembros presentes, la cual enviará al Ejecutivo.\n\nSi el Ejecutivo no recibe la lista en el plazo antes señalado, enviará libremente al Congreso una terna y designará provisionalmente al Fiscal General del Estado, quien ejercerá sus funciones hasta en tanto se realice la designación definitiva conforme a lo establecido en este artículo. En este caso, el Fiscal General del Estado designado podrá formar parte de la terna."
+    },
+    {
+      "id": "097.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 97 › Fracción II",
+      "texto": "II.- Recibida la lista a que se refiere la fracción anterior, dentro de los diez días siguientes el Ejecutivo formulará una terna de entre los integrantes de la lista, y la enviará a la consideración del Congreso."
+    },
+    {
+      "id": "097.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 97 › Fracción III",
+      "texto": "III.- El Congreso, con base en la terna y previa comparecencia de las personas propuestas, designará al Fiscal General del Estado, con el voto de las dos terceras partes de los miembros presentes dentro del plazo de diez días.\n\nEn caso de que el Ejecutivo no envíe la terna a que se refiere la fracción anterior, el Congreso tendrá diez días para designar al Fiscal General del Estado, de entre los candidatos de la lista que señala la fracción I.\n\nSi el Congreso no hace la designación en los plazos que establecen los párrafos anteriores, el Ejecutivo designará al Fiscal General del Estado, de entre los candidatos que integren la lista o, en su caso, la terna respectiva."
+    },
+    {
+      "id": "097.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 97 › Fracción IV",
+      "texto": "IV.- El Fiscal General del Estado podrá ser removido por el Ejecutivo por las causas graves que establezca la Ley. La remoción podrá ser objetada por el voto de la mayoría de los miembros presentes del Congreso, dentro de un plazo de diez días hábiles, en cuyo caso el Fiscal General del Estado será restituido en el ejercicio de sus funciones. Si el Congreso no se pronuncia al respecto, se entenderá que no existe objeción."
+    },
+    {
+      "id": "097.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 97 › Fracción V",
+      "texto": "V.- En los recesos del Congreso, la Comisión Permanente lo convocará de inmediato a sesiones extraordinarias para la designación o formulación de objeción a la remoción del Fiscal General del Estado."
+    },
+    {
+      "id": "097.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 97 › Fracción VI",
+      "texto": "VI.- Las ausencias del Fiscal General del Estado serán suplidas en los términos que determine la Ley."
+    }
+  ]
+}

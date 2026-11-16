@@ -1,0 +1,27 @@
+{
+  "clave": "040",
+  "etiqueta": "Artículo 40",
+  "titulo": "TÍTULO TERCERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "040.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 1",
+      "texto": "Al abrirse el período de sesiones siguiente a la visita, los diputados presentarán al Congreso una memoria que contenga las observaciones que hayan hecho y en la que propongan las medidas que estimen conducentes al objeto mencionado en la última parte del artículo anterior."
+    },
+    {
+      "id": "040.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 40 › párrafo 2",
+      "texto": "Tratándose de la Diputada o Diputado Migrante, dentro del documento referido en el párrafo anterior, se podrán incorporar observaciones, propuestas y acciones estimadas para la atención de la población migrante de la Entidad."
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "clave": "124",
+  "etiqueta": "Artículo 124",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "124.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 124 › párrafo 1",
+      "texto": "Servidores públicos son las personas que desempeñan un empleo, cargo o comisión de cualquier naturaleza, sea cual fuere la forma de su elección o nombramiento:"
+    },
+    {
+      "id": "124.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 124 › Fracción I",
+      "texto": "I.- En el Estado."
+    },
+    {
+      "id": "124.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 124 › Fracción II",
+      "texto": "II.- En los Municipios del Estado."
+    },
+    {
+      "id": "124.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 124 › Fracción III",
+      "texto": "III.- En los Organismos Descentralizados, Empresas de Participación Estatal, Sociedades y Asociaciones asimiladas a éstos; y"
+    },
+    {
+      "id": "124.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 124 › Fracción IV",
+      "texto": "IV.- En fideicomisos públicos.\n\nLos servidores públicos a que se refiere el presente artículo estarán obligados a presentar, bajo protesta de decir verdad, su declaración patrimonial y de intereses ante las autoridades competentes y en los términos que determine la Ley."
+    }
+  ]
+}
