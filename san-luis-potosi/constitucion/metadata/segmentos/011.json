@@ -1,0 +1,36 @@
+{
+  "clave": "011",
+  "etiqueta": "Artículo 11",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "011.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › párrafo 1",
+      "texto": "(REFORMADO EN EL P.O. DEL EDO. EL 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "011.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › párrafo 2",
+      "texto": "La Universidad de San Luis Potosí es autónoma en todo lo que respecta a su régimen interior. Realizará sus fines de educar, investigar y difundir la cultura con base en la libertad de cátedra e investigación y en el libre examen y discusión de las ideas, de conformidad con lo establecido en la Constitución Política de los Estados Unidos Mexicanos, en esta Constitución y en su ley orgánica. El Estado, en la medida de sus posibilidades presupuestales, la dotará con un subsidio anual."
+    },
+    {
+      "id": "011.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 11 › párrafo 3",
+      "texto": "(ADICIONADO EN EL P.O. EL 05 MARZO 2025) En los procesos de elección de las personas titulares de: la rectoría; direcciones de las facultades o escuelas; consejerías de maestros, consejerías de alumnos; Órgano de Gobierno, y Junta Suprema de Gobierno, de la Universidad Autónoma de San Luis Potosí,́ se deberán implementar acciones para observar el principio de paridad de género. Atendiendo además a la figura jurídica de la reelección."
+    }
+  ]
+}

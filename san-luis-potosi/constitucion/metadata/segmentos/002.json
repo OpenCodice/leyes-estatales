@@ -1,0 +1,27 @@
+{
+  "clave": "002",
+  "etiqueta": "Artículo 2",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "002.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 1",
+      "texto": "(ARTÍCULO REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "002.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 2 › párrafo 2",
+      "texto": "El Estado es parte integrante de los Estados Unidos Mexicanos; es libre y soberano en cuanto a su régimen interior, sin más limitaciones que aquéllas que la Constitución Política de los Estados Unidos Mexicanos establece a las Entidades Federativas."
+    }
+  ]
+}

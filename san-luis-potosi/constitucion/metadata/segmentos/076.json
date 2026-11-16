@@ -1,0 +1,27 @@
+{
+  "clave": "076",
+  "etiqueta": "Artículo 76",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "076.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76 › párrafo 1",
+      "texto": "(ADICIONADA P.O. 19 DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "076.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 76 › párrafo 2",
+      "texto": "En ningún caso y por ningún motivo podrá volver a ocupar el cargo de Gobernador del Estado el ciudadano que lo haya desempeñado, así hubiere sido electo por sufragio directo o con el carácter de interino, provisional o sustituto."
+    }
+  ]
+}

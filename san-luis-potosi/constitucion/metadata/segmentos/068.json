@@ -1,0 +1,36 @@
+{
+  "clave": "068",
+  "etiqueta": "Artículo 68",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "068.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "068.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 2",
+      "texto": "(REFORMADO P.O. 26 DE JUNIO DE 2026)"
+    },
+    {
+      "id": "068.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 68 › párrafo 3",
+      "texto": "Todo proyecto de ley devuelto por el Gobernador del Estado con observaciones, necesita para su aprobación del voto aprobatorio de las dos terceras partes de sus miembros presentes de Diputados y, en este caso, se remitirá nuevamente al Ejecutivo para que, sin más trámite, sancione y publique la ley."
+    }
+  ]
+}

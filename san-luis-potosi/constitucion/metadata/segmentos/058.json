@@ -1,0 +1,36 @@
+{
+  "clave": "058",
+  "etiqueta": "Artículo 58",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "058.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "058.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 13 DE AGOSTO DE 2021)"
+    },
+    {
+      "id": "058.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 58 › párrafo 3",
+      "texto": "El Congreso del Estado, a través de la persona que ocupe su Presidencia, rendirá a la ciudadanía un informe de actividades, durante la primera quincena de septiembre de cada año de ejercicio."
+    }
+  ]
+}

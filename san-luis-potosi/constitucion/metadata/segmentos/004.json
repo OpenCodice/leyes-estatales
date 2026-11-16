@@ -1,0 +1,27 @@
+{
+  "clave": "004",
+  "etiqueta": "Artículo 4",
+  "titulo": "TÍTULO PRIMERO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "004.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 1",
+      "texto": "(ARTÍCULO REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "004.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 4 › párrafo 2",
+      "texto": "La soberanía del Estado radica esencial y originariamente en el pueblo potosino, quien la ejerce a través de los Poderes del Estado. Éstos residirán en la ciudad de San Luis Potosí, capital del Estado. El Ejecutivo, cuando las circunstancias lo ameriten, solicitará la aprobación del Congreso del Estado para que la residencia de los Poderes sea trasladada a otro lugar de la entidad por el tiempo que considere conveniente."
+    }
+  ]
+}

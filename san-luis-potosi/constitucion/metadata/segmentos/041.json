@@ -1,0 +1,36 @@
+{
+  "clave": "041",
+  "etiqueta": "Artículo 41",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "041.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "041.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › párrafo 2",
+      "texto": "Los Diputados son inviolables por las opiniones que manifiesten en el desempeño de su encargo y jamás podrán ser reconvenidos ni procesados por ellas."
+    },
+    {
+      "id": "041.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 41 › párrafo 3",
+      "texto": "El presidente del Congreso o de la Diputación Permanente, en su caso, velará por el respeto a la inmunidad de los Diputados y por la inviolabilidad del recinto legislativo."
+    }
+  ]
+}

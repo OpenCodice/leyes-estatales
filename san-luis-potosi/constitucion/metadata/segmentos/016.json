@@ -1,0 +1,54 @@
+{
+  "clave": "016",
+  "etiqueta": "Artículo 16",
+  "titulo": "TÍTULO SEGUNDO",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "016.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › párrafo 1",
+      "texto": "(REFORMADO EN EL P.O. 27 DE MAYO DE 2025)"
+    },
+    {
+      "id": "016.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 03 DE SEPTIEMBRE DE 2009)"
+    },
+    {
+      "id": "016.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › párrafo 3",
+      "texto": "(ARTICULO REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "016.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › párrafo 4",
+      "texto": "El Estado de San Luis Potosí ́reconoce la vida digna como fundamento de todos los derechos de los seres humanos. Queda prohibida la pena de muerte, la cual no podrá́ aplicarse en ningún caso."
+    },
+    {
+      "id": "016.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 16 › párrafo 5",
+      "texto": "Toda persona tiene derecho a decidir sobre su gestación de manera libre, informada, autónoma y responsable."
+    }
+  ]
+}

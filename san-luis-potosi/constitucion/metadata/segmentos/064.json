@@ -1,0 +1,27 @@
+{
+  "clave": "064",
+  "etiqueta": "Artículo 64",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "064.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "064.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 64 › párrafo 2",
+      "texto": "Las resoluciones del Congreso tendrán el carácter de ley, decreto, acuerdo o iniciativa al Congreso de la Unión."
+    }
+  ]
+}

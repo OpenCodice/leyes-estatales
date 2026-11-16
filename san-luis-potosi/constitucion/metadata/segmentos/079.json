@@ -1,0 +1,27 @@
+{
+  "clave": "079",
+  "etiqueta": "Artículo 79",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "079.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "079.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 79 › párrafo 2",
+      "texto": "El cargo de Gobernador del Estado es irrenunciable y el individuo que lo desempeñe sólo podrá separarse del mismo con licencia del Congreso, por causa grave o justificada."
+    }
+  ]
+}

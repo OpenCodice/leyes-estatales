@@ -1,0 +1,27 @@
+{
+  "clave": "083",
+  "etiqueta": "Artículo 83",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "083.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "083.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 83 › párrafo 2",
+      "texto": "Todas las leyes promulgadas por el Gobernador deberán ser refrendadas por el Secretario General de Gobierno y sin este requisito no surtirán efectos legales. Para su validez, los decretos, reglamentos, circulares, acuerdos y disposiciones de carácter general que dicte el Gobernador, además del Secretario General de Gobierno, deberán ser firmados por el Secretario del ramo que corresponda."
+    }
+  ]
+}

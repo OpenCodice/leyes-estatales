@@ -1,0 +1,36 @@
+{
+  "clave": "082",
+  "etiqueta": "Artículo 82",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "082.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "082.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › párrafo 2",
+      "texto": "El Gobernador del Estado se auxiliará con las dependencias y entidades que prevea la Ley Orgánica de la Administración Pública, para el despacho de los negocios de su competencia."
+    },
+    {
+      "id": "082.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 82 › párrafo 3",
+      "texto": "Esta ley determinará las atribuciones de cada una de las dependencias; definirá las bases generales para la creación de entidades paraestatales, así como la intervención del Ejecutivo para su operación; complementariamente, los reglamentos interiores de las dependencias prevendrán su organización, funcionamiento y atribuciones específicas."
+    }
+  ]
+}

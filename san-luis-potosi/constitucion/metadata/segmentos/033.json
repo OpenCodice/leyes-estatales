@@ -1,0 +1,72 @@
+{
+  "clave": "033",
+  "etiqueta": "Artículo 33",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "033.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 26 DE JUNIO DE 2014)"
+    },
+    {
+      "id": "033.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › párrafo 2",
+      "texto": "(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "033.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › párrafo 3",
+      "texto": "La ley establecerá el sistema de medios de impugnación jurisdiccionales, por los cuales deban resolverse las controversias que se susciten con motivo de los procesos electorales locales, así como las derivadas de los actos y resoluciones que emitan las autoridades electorales locales."
+    },
+    {
+      "id": "033.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › párrafo 4",
+      "texto": "(ADICIONADO P.O. DEL 29 DE JUNIO DE 2026. DC. 0572) La ley establecerá el sistema de nulidades de las elecciones por violaciones graves, dolosas y determinantes; para efectos de dicha nulidad, se aplicarán las causales y estándares previstos por la Constitución Federal en su artículo"
+    },
+    {
+      "id": "033.41",
+      "tipo": "numeral",
+      "marca": "41",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › 41.",
+      "texto": "41."
+    },
+    {
+      "id": "033.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › párrafo 5",
+      "texto": "Estos procedimientos jurisdiccionales tienen por objeto garantizar los principios de, certeza y definitividad de las diferentes etapas de los procesos electorales, así como el de legalidad de los actos y resoluciones de las autoridades en la materia."
+    },
+    {
+      "id": "033.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 33 › párrafo 6",
+      "texto": "En materia electoral los recursos se tramitarán en términos de la ley local de la materia."
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "clave": "110",
+  "etiqueta": "Artículo 110",
+  "titulo": "TÍTULO NOVENO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "110.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "110.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › párrafo 2",
+      "texto": "Los bienes que integran el patrimonio del Estado son:"
+    },
+    {
+      "id": "110.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › Fracción I",
+      "texto": "I.- Del dominio público:"
+    },
+    {
+      "id": "110.I.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 110 › Fracción I › inciso a)",
+      "texto": "a) Los de uso común;"
+    },
+    {
+      "id": "110.I.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 110 › Fracción I › inciso b)",
+      "texto": "b) Los destinados por el Gobierno del Estado a los servicios públicos;"
+    },
+    {
+      "id": "110.I.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 110 › Fracción I › inciso c)",
+      "texto": "c) Los inmuebles y muebles de valor histórico y cultural que se encuentren dentro de su territorio y que no sean propiedad de la Nación o de propiedad privada;"
+    },
+    {
+      "id": "110.I.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 110 › Fracción I › inciso d)",
+      "texto": "d) Las aguas que corren dentro del territorio del estado que no sean propiedad de la Nación, en los términos del artículo 27, párrafo quinto, de la Constitución Política de los Estados Unidos Mexicanos y que se localicen en dos o más predios;"
+    },
+    {
+      "id": "110.I.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 110 › Fracción I › inciso e)",
+      "texto": "e) Los cauces, vasos y riberas de las corrientes de aguas estatales;"
+    },
+    {
+      "id": "110.I.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 110 › Fracción I › inciso f)",
+      "texto": "f) Los terrenos ganados natural y artificialmente a los ríos estatales, arroyos o corrientes, lagos y lagunas de jurisdicción estatal; y"
+    },
+    {
+      "id": "110.I.g",
+      "tipo": "inciso",
+      "marca": "g",
+      "apartado": "",
+      "fraccion": "I",
+      "ruta": "Artículo 110 › Fracción I › inciso g)",
+      "texto": "g) Los demás que señalen las leyes respectivas; y"
+    },
+    {
+      "id": "110.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 110 › Fracción II",
+      "texto": "II.- Del dominio privado, los que ingresen a su patrimonio no comprendidos en la fracción anterior y aquellos que, de conformidad con las leyes, sean desafectados de un servicio público."
+    }
+  ]
+}

@@ -1,0 +1,450 @@
+{
+  "clave": "057",
+  "etiqueta": "Artículo 57",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPITULO IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "057.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "057.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › párrafo 2",
+      "texto": "Son atribuciones del Congreso:"
+    },
+    {
+      "id": "057.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción I",
+      "texto": "I.- Dictar, abrogar y derogar leyes;"
+    },
+    {
+      "id": "057.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción II",
+      "texto": "II.- Iniciar ante el Congreso de la Unión las leyes y decretos que sean de la competencia de éste, así como la reforma, abrogación y derogación de unas y otros;"
+    },
+    {
+      "id": "057.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción III",
+      "texto": "III.- Legislar, dentro del ámbito de su competencia, en materia de asentamientos humanos y desarrollo urbano, así como de uso y aprovechamiento de aguas de jurisdicción estatal;"
+    },
+    {
+      "id": "057.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción IV",
+      "texto": "IV.- Expedir la ley que establezca los procedimientos para el fraccionamiento y enajenación de las extensiones que llegaren a exceder los límites señalados en el artículo 27 de la Constitución Política de los Estados Unidos Mexicanos;\n\n(REFORMADA P.O. DEL 22 DE ABRIL DE 2026. DC. 0513)"
+    },
+    {
+      "id": "057.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción V",
+      "texto": "V.- Expedir leyes concurrentes con las federales en materia de protección al ambiente y de restauración, preservación del equilibrio ecológico, y en materia de protección y bienestar de los animales, en el ámbito de su competencia;"
+    },
+    {
+      "id": "057.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción VI",
+      "texto": "VI.- Expedir la Ley Orgánica del Municipio Libre;\n\n(REFORMADO, P.O. 15 DE JULIO DE 2014)"
+    },
+    {
+      "id": "057.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción VII",
+      "texto": "VII.- Dar las bases normativas a las que deberán sujetarse los ayuntamientos en la expedición de los bandos de policía y gobierno, los reglamentos, circulares y disposiciones administrativas de observancia general, dentro de sus respectivas jurisdicciones;"
+    },
+    {
+      "id": "057.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción VIII",
+      "texto": "VIII.- Aprobar las leyes que regulen su organización y funcionamiento internos;"
+    },
+    {
+      "id": "057.IX",
+      "tipo": "fraccion",
+      "marca": "IX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción IX",
+      "texto": "IX.- Dictar todas las leyes que sean necesarias para hacer efectivas las atribuciones que esta Constitución otorga a los Poderes del Estado;\n\n(REFORMADO, P.O. 06 DE NOVIEMBRE DE 2010) (REFORMADO P.O 03 DE JUNIO DE 2026)"
+    },
+    {
+      "id": "057.X",
+      "tipo": "fraccion",
+      "marca": "X",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción X",
+      "texto": "X.- Elaborar su respectivo presupuesto de egresos; el cual deberá incluir los tabuladores desglosados de las remuneraciones que se propone perciban sus servidores públicos, para remitirlo al Ejecutivo para su inclusión en el Presupuesto de Egresos del Estado; asimismo administrarlo y ejercerlo en forma autónoma, en los términos que disponga su Ley Orgánica.\n\n(ADICIONADO P.O 03 DE JUNIO DE 2026) El presupuesto del Congreso del Estado no podrá exceder del cero punto setenta por ciento del Presupuesto de Egresos del Estado;"
+    },
+    {
+      "id": "057.XI",
+      "tipo": "fraccion",
+      "marca": "XI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XI",
+      "texto": "XI.- Fijar los ingresos y egresos del Estado con base en los presupuestos anuales que el Ejecutivo deberá presentar;\n\n(REFORMADA, P.O. 01 DE SEPTIEMBRE DE 2023) (REFORMADA, P.O. 03 DE MARZO DE 2016) (REFORMADA, P.O. 18 DE MAYO DE 2006)"
+    },
+    {
+      "id": "057.XII",
+      "tipo": "fraccion",
+      "marca": "XII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XII",
+      "texto": "XII. Expedir las leyes que regulen la organización y facultades del Instituto de Fiscalización Superior del Estado; así como revisar y examinar, y, en su caso, señalar las irregularidades en las cuentas y actos relativos a la administración, inversión y aplicación de fondos públicos del Estado, de los municipios y sus entidades, así como de los organismos constitucionales autónomos, y proceder en los términos de ley;"
+    },
+    {
+      "id": "057.XIII",
+      "tipo": "fraccion",
+      "marca": "XIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XIII",
+      "texto": "XIII.- Crear y suprimir empleos públicos del Estado. Al aprobar el presupuesto general no podrá dejar de fijar la remuneración que corresponda a un empleo que esté establecido por la ley; y en el caso de que por cualquier circunstancia omita fijar dicha remuneración, se entenderá por señalada la que hubiere tenido en el presupuesto anterior o en la ley que estableció el empleo;"
+    },
+    {
+      "id": "057.XIV",
+      "tipo": "fraccion",
+      "marca": "XIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XIV",
+      "texto": "XIV.- Autorizar al Gobernador para contratar empréstitos a nombre del Estado, siempre que sean para la ejecución de obras o inversiones de beneficio social, salvo los que contrate en caso de emergencia por causa de desastre, señalando en todo caso los recursos con que deben cubrirse;\n\n(REFORMADA, P.O. 14 DE JULIO DE 2016)"
+    },
+    {
+      "id": "057.XV",
+      "tipo": "fraccion",
+      "marca": "XV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XV",
+      "texto": "XV.- Autorizar al Gobernador, así como a los ayuntamientos, para contratar empréstitos a nombre del Estado, y el Municipio, siempre que se destinen a inversiones públicas productivas, y a su refinanciamiento o reestructura, mismas que se deberán realizar bajo las mejores condiciones del mercado, inclusive los que contraigan los organismos descentralizados, empresas públicas, y fideicomisos; y en el caso del Estado, adicionalmente para otorgar garantías respecto al endeudamiento de los municipios. Lo anterior con base en la ley correspondiente, por los conceptos, y hasta por los montos que el Congreso del Estado apruebe. El Gobernador del Estado informará de su ejercicio al rendir la cuenta pública. En ningún caso se podrán destinar empréstitos para cubrir gasto corriente.\n\n(REFORMADO P.O. DEL 26 DE JUNIO DE 2026) El Congreso del Estado, por el voto aprobatorio de las dos terceras partes de sus miembros presentes, deberá autorizar los montos máximos para, en las mejores condiciones del mercado, contratar dichos empréstitos y obligaciones, previo análisis de su destino, capacidad de pago y, en su caso, el otorgamiento de garantía o el establecimiento de la fuente de pago.\n\nSin perjuicio de lo anterior, el Estado o los municipios podrán contratar obligaciones para cubrir sus necesidades a corto plazo, sin rebasar los límites máximos y condiciones que establezca la Ley General que expida el Congreso de la Unión. Las obligaciones a corto plazo deberán liquidarse a más tardar tres meses antes del término del periodo de gobierno correspondiente, y no podrán contratarse nuevas obligaciones durante ese tiempo;"
+    },
+    {
+      "id": "057.XVI",
+      "tipo": "fraccion",
+      "marca": "XVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XVI",
+      "texto": "XVI.- Decretar la desafectación de bienes destinados al dominio público y al uso común;"
+    },
+    {
+      "id": "057.XVII",
+      "tipo": "fraccion",
+      "marca": "XVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XVII",
+      "texto": "XVII.- Autorizar al Ejecutivo para enajenar bienes inmuebles propiedad del Estado, estableciendo en su caso los términos y condiciones;\n\n(REFORMADA, P.O. 11 DE JULIO DE 2015)"
+    },
+    {
+      "id": "057.XVIII",
+      "tipo": "fraccion",
+      "marca": "XVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XVIII",
+      "texto": "XVIII.- Aprobar el Plan Estatal de Desarrollo, en el plazo y con el procedimiento que disponga esta Constitución, y la ley de la materia;"
+    },
+    {
+      "id": "057.XIX",
+      "tipo": "fraccion",
+      "marca": "XIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XIX",
+      "texto": "XIX.- Fijar las contribuciones que deban recibir los municipios; establecer anualmente las bases, montos y plazos para la entrega de las participaciones federales que les corresponden y aprobar sus leyes de ingresos, cuotas y tarifas de los servicios públicos, conforme lo establezcan las leyes respectivas;"
+    },
+    {
+      "id": "057.XX",
+      "tipo": "fraccion",
+      "marca": "XX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XX",
+      "texto": "XX.- (DEROGADA, P.O. 18 DE MAYO DE 2006) (REFORMADO EN EL P.O. DEL 22 DE DICIEMBRE DE 2024) (ADICIONADO EN EL P.O. DEL 19 DE DICIEMBRE DE 2024) XX BIS. Emitir la convocatoria dirigida a los titulares de los Poderes Ejecutivo y Judicial del Estado, para la integración de los Comités de Evaluación que coadyuvarán en el proceso de elección popular de personas Juzgadoras, personas Magistradas del Poder Judicial del Estado y personas Magistradas del Tribunal de Disciplina Judicial.\n\n(ADICIONADO EN EL P.O. DEL 19 DE DICIEMBRE DE 2024) El Pleno del Congreso del Estado, a propuesta de la Junta de Coordinación Política, deberá́ integrar el Comité́ de Evaluación correspondiente a la Legislatura Local;"
+    },
+    {
+      "id": "057.XXI",
+      "tipo": "fraccion",
+      "marca": "XXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XXI",
+      "texto": "XXI.- Otorgar al Gobernador, por tiempo limitado, facultades extraordinarias en casos de desastre o perturbación grave de la paz pública. Las facultades extraordinarias quedarán precisadas en el decreto respectivo, debiendo aprobar o reprobar los actos emanados del uso de las mismas;"
+    },
+    {
+      "id": "057.XXII",
+      "tipo": "fraccion",
+      "marca": "XXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XXII",
+      "texto": "XXII.- Nombrar al Gobernador interino, provisional o substituto en los casos que esta Constitución determina;"
+    },
+    {
+      "id": "057.XXIII",
+      "tipo": "fraccion",
+      "marca": "XXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XXIII",
+      "texto": "XXIII.- Conceder licencias temporales al Gobernador para separarse de su encargo y para ausentarse de la entidad por más de quince días;\n\n(REFORMADA, P.O. 18 DE OCTUBRE DE 2016)"
+    },
+    {
+      "id": "057.XXIV",
+      "tipo": "fraccion",
+      "marca": "XXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XXIV",
+      "texto": "XXIV. Recibir el informe escrito del Gobernador del Estado durante la segunda quincena de septiembre de cada año; excepto el último año del ejercicio legal del Gobernador del Estado, que lo recibirá durante la primera quincena del mes de agosto del año que se trate. Cuando el Congreso y el titular del Ejecutivo así lo acuerden, éste comparecerá ante el Pleno de la Legislatura, a fin de que sus miembros le formulen observaciones y cuestionamientos sobre el estado que guarda la administración pública;\n\n(REFORMADA P.O. 15 DE JULIO DE 2014)"
+    },
+    {
+      "id": "057.XXV",
+      "tipo": "fraccion",
+      "marca": "XXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XXV",
+      "texto": "XXV.- Solicitar al Ejecutivo la comparecencia de cualquier funcionario de la administración pública estatal para que informe u oriente cuando se discute una ley o se estudie un asunto que se relacione con su función, así como para que informe sobre algún asunto de su competencia.\n\nEl Congreso del Estado también podrá solicitar comparecer a los titulares de los organismos constitucionales autónomos que prevé esta Constitución, para los fines previstos en el párrafo primero de esta fracción;"
+    },
+    {
+      "id": "057.XXVI",
+      "tipo": "fraccion",
+      "marca": "XXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XXVI",
+      "texto": "XXVI.- Erigir, suprimir y fusionar municipios tomando en cuenta criterios de orden demográfico, político, social y económico, así como en su caso consultar a la ciudadanía de los municipios interesados a través de plebiscito;"
+    },
+    {
+      "id": "057.XXVII",
+      "tipo": "fraccion",
+      "marca": "XXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XXVII",
+      "texto": "XXVII.- Por acuerdo al menos de las dos terceras partes de sus integrantes, suspender ayuntamientos, declarar que éstos han desaparecido y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves que prevenga la Ley Orgánica del Municipio Libre, dándoles la oportunidad para que rindan pruebas y aleguen en su defensa, con pleno respeto a la garantía de audiencia y legalidad;"
+    },
+    {
+      "id": "057.XXVIII",
+      "tipo": "fraccion",
+      "marca": "XXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XXVIII",
+      "texto": "XXVIII.- Establecer los límites de los municipios del Estado y resolver las diferencias que en esta materia se produzcan sobre las demarcaciones de sus respectivos territorios, excepto cuando estas diferencias tengan un carácter contencioso, así como fijar y modificar la división territorial, administrativa y judicial de la entidad;"
+    },
+    {
+      "id": "057.XXIX",
+      "tipo": "fraccion",
+      "marca": "XXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XXIX",
+      "texto": "XXIX.- Aprobar, en su caso, los convenios que celebre el Ejecutivo en relación con los límites del Estado;"
+    },
+    {
+      "id": "057.XXX",
+      "tipo": "fraccion",
+      "marca": "XXX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XXX",
+      "texto": "XXX.- Designar Concejos Municipales en los casos y bajo las condiciones que las leyes respectivas establezcan;"
+    },
+    {
+      "id": "057.XXXI",
+      "tipo": "fraccion",
+      "marca": "XXXI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XXXI",
+      "texto": "XXXI.- (DEROGADA, P.O. 26 DE FEBRERO DE 2021)"
+    },
+    {
+      "id": "057.XXXII",
+      "tipo": "fraccion",
+      "marca": "XXXII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XXXII",
+      "texto": "XXXII.- (DEROGADA, P.O. 26 DE FEBRERO DE 2021) (REFORMADA P.O. 19 DE DICIEMBRE 2024) (REFORMADA, P.O. 03 DE MARZO DE 2016) (REFORMADA, P.O. 26 DE JULIO DE 2005)"
+    },
+    {
+      "id": "057.XXXIII",
+      "tipo": "fraccion",
+      "marca": "XXXIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XXXIII",
+      "texto": "XXXIII. Elegir, en los términos de esta Constitución, a las personas Magistradas del Tribunal Estatal de Justicia Administrativa;\n\n(REFORMADA P.O. 03 OCTUBRE 2025) (REFORMADA P.O. 19 DE DICIEMBRE 2024) (REFORMADA, P.O. 26 DE JUNIO DE 2014) (REFORMADA, P.O. 26 DE JULIO DE 2005)"
+    },
+    {
+      "id": "057.XXXIV",
+      "tipo": "fraccion",
+      "marca": "XXXIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XXXIV",
+      "texto": "XXXIV. Designar a una persona consejera integrante del Órgano de Administración Judicial del Poder Judicial del Estado y, cuando proceda, conceder las licencias temporales, o definitivas, así como su renuncia al cargo;\n\n(REFORMADA P.O. 03 OCTUBRE 2025) (REFORMADA P.O. 22 DE DICIEMBRE DE 2024) (REFORMADA P.O. 19 DE DICIEMBRE DE 2024) (REFORMADA P.O. 26 DE JULIO DE 2005)"
+    },
+    {
+      "id": "057.XXXV",
+      "tipo": "fraccion",
+      "marca": "XXXV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XXXV",
+      "texto": "XXXV. Calificar las licencias que sean definitivas de las personas Magistradas del Supremo Tribunal de Justicia, de las personas Magistradas del Tribunal de Disciplina Judicial, de las personas Juzgadoras de Primera Instancia del Poder Judicial del Estado, así como conocer y resolver las solicitudes de destitución de las Magistraturas antes referidas, en los términos que establece esta Constitución;\n\n(REFORMADA, P.O. 26 DE JUNIO DE 2014) (REFORMADA P.O. 29 DE SEPTIEMBRE DE 1999)"
+    },
+    {
+      "id": "057.XXXVI",
+      "tipo": "fraccion",
+      "marca": "XXXVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XXXVI",
+      "texto": "XXXVI.- Nombrar al presidente de la Comisión Estatal de Derechos Humanos, y al del Tribunal Estatal de Conciliación y Arbitraje, así como conocer y resolver las solicitudes de destitución de los mismos, en los términos de la presente Constitución.\n\n(REFORMADA, P.O. 02 DE OCTUBRE DE 2017) (REFORMADA P.O. 26 DE JUNIO DE 2026)"
+    },
+    {
+      "id": "057.XXXVII",
+      "tipo": "fraccion",
+      "marca": "XXXVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XXXVII",
+      "texto": "XXXVII.- Elegir, en los términos de esta Constitución, al Fiscal General del Estado; al Fiscal Especializado en Delitos Relacionados con Hechos de Corrupción; y al Fiscal Especializado en Delitos Electorales; así como a oponerse con el voto aprobatorio de las dos terceras partes de sus miembros presentes, a la remoción de estos fiscales;"
+    },
+    {
+      "id": "057.XXXVIII",
+      "tipo": "fraccion",
+      "marca": "XXXVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XXXVIII",
+      "texto": "XXXVIII.- Recibir la protesta de ley que ante él deban rendir los servidores públicos;"
+    },
+    {
+      "id": "057.XXXIX",
+      "tipo": "fraccion",
+      "marca": "XXXIX",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XXXIX",
+      "texto": "XXXIX.- Designar el día anterior al de la clausura de cada período de sesiones ordinarias, a los integrantes de la Diputación Permanente que ha de funcionar en el receso del Congreso;\n\n(REFORMADA, P.O. 30 DE OCTUBRE DE 2017) XL- Instaurar los juicios políticos y, en su caso, aplicar las sanciones a que se refiere el Artículo 128 de esta Constitución;"
+    },
+    {
+      "id": "057.XLI",
+      "tipo": "fraccion",
+      "marca": "XLI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XLI",
+      "texto": "XLI.- Conceder premios y reconocimientos por servicios eminentes e importantes prestados a la humanidad, a la Nación, al Estado o a la comunidad;"
+    },
+    {
+      "id": "057.XLII",
+      "tipo": "fraccion",
+      "marca": "XLII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XLII",
+      "texto": "XLII.- Trasladar, a solicitud del Ejecutivo, la residencia de los Poderes del Estado cuando sea necesario por circunstancias extraordinarias;\n\n(REFORMADA, P.O. 18 DE MAYO DE 2006)"
+    },
+    {
+      "id": "057.XLIII",
+      "tipo": "fraccion",
+      "marca": "XLIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XLIII",
+      "texto": "XLIII. Nombrar y remover libremente al Oficial Mayor y a los empleados del Congreso; así como nombrar y remover al Auditor Superior del Estado, en los términos y conforme a los procedimientos previstos en esta Constitución y en la ley."
+    },
+    {
+      "id": "057.XLIV",
+      "tipo": "fraccion",
+      "marca": "XLIV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XLIV",
+      "texto": "XLIV.- Calificar las excusas que expongan el Gobernador, diputados al Congreso local y miembros de los ayuntamientos de los municipios del Estado, para no desempeñar los cargos para los que han sido electos;\n\n(REFORMADA P.O. 18 DE DICIEMBRE DE 2025. DC. 0333)"
+    },
+    {
+      "id": "057.XLV",
+      "tipo": "fraccion",
+      "marca": "XLV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XLV",
+      "texto": "XLV.- Conceder amnistías por delitos del fuero común, en términos de la ley de la materia;"
+    },
+    {
+      "id": "057.XLVI",
+      "tipo": "fraccion",
+      "marca": "XLVI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XLVI",
+      "texto": "XLVI.- Cuidar que en los días fijados por las leyes se celebren las elecciones que previenen esta Constitución y la Constitución Política de los Estados Unidos Mexicanos;"
+    },
+    {
+      "id": "057.XLVII",
+      "tipo": "fraccion",
+      "marca": "XLVII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XLVII",
+      "texto": "XLVII.- En casos de urgencia, dispensar o abreviar los trámites legislativos; y"
+    },
+    {
+      "id": "057.XLVIII",
+      "tipo": "fraccion",
+      "marca": "XLVIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 57 › Fracción XLVIII",
+      "texto": "XLVIII.- Las demás que la Constitución Política de los Estados Unidos Mexicanos, la presente Constitución y las leyes que de ellas emanen le atribuyan."
+    }
+  ]
+}

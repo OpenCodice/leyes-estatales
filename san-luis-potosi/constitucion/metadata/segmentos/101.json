@@ -1,0 +1,72 @@
+{
+  "clave": "101",
+  "etiqueta": "Artículo 101",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO III",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "101.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 1",
+      "texto": "(REFORMADO P.O. 22 DE DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "101.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 2",
+      "texto": "(REFORMADO P.O. 19 DICIEMBRE 2024)"
+    },
+    {
+      "id": "101.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 26 DE MARZO DE 2015)"
+    },
+    {
+      "id": "101.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 4",
+      "texto": "(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "101.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 5",
+      "texto": "El Tribunal de Disciplina Judicial es un órgano con independencia técnica y de gestión, integrado por tres personas Magistradas del Tribunal de Disciplina Judicial electas por voto de la ciudadanía. La duración de su cargo será́ de seis años, serán sustituidos de manera escalonada y no podrán ser electos para un nuevo periodo. Cada dos años se renovará la presidencia del Tribunal de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación. Sus funciones incluyen la supervisión, evaluación, investigación de conductas irregulares y aplicación de sanciones administrativas."
+    },
+    {
+      "id": "101.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 6",
+      "texto": "El objetivo principal del Tribunal de Disciplina Judicial es preservar la integridad, eficacia y legitimidad del Poder Judicial del Estado, garantizando que todos los operadores judiciales actúen con los más altos estándares éticos y profesionales."
+    },
+    {
+      "id": "101.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 101 › párrafo 7",
+      "texto": "El Tribunal de Disciplina Judicial desahogará el procedimiento de responsabilidades administrativas de manera biinstancial, conforme a las disposiciones previstas en la Ley."
+    }
+  ]
+}

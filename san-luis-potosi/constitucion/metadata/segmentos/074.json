@@ -1,0 +1,27 @@
+{
+  "clave": "074",
+  "etiqueta": "Artículo 74",
+  "titulo": "TÍTULO SÉPTIMO",
+  "capitulo": "CAPITULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "074.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 1",
+      "texto": "(ADICIONADA P.O. EL 19 DICIEMBRE DE 2024)"
+    },
+    {
+      "id": "074.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 74 › párrafo 2",
+      "texto": "El Gobernador del Estado no podrá durar en su encargo más de seis años e iniciará su ejercicio el veintiséis de septiembre del año de su elección."
+    }
+  ]
+}

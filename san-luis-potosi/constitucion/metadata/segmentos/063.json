@@ -1,0 +1,27 @@
+{
+  "clave": "063",
+  "etiqueta": "Artículo 63",
+  "titulo": "TÍTULO SEXTO",
+  "capitulo": "CAPÍTULO VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "063.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "063.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 63 › párrafo 2",
+      "texto": "Toda iniciativa de ley que fuere desechada conforme al Reglamento del Congreso, no podrá volver a ser presentada en el mismo período de sesiones."
+    }
+  ]
+}

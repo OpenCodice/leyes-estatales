@@ -1,0 +1,27 @@
+{
+  "clave": "020",
+  "etiqueta": "Artículo 20",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "020.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "020.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 20 › párrafo 2",
+      "texto": "La calidad de potosino se adquiere por nacimiento o por vecindad."
+    }
+  ]
+}

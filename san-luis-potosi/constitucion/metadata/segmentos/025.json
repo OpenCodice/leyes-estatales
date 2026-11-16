@@ -1,0 +1,72 @@
+{
+  "clave": "025",
+  "etiqueta": "Artículo 25",
+  "titulo": "TÍTULO CUARTO",
+  "capitulo": "CAPITULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "025.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 1",
+      "texto": "(REFORMADO, P.O. 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "025.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 2",
+      "texto": "Son obligaciones de los ciudadanos potosinos:"
+    },
+    {
+      "id": "025.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › párrafo 3",
+      "texto": "(REFORMADA, P.O. 31 DE MAYO DE 2017)"
+    },
+    {
+      "id": "025.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción I",
+      "texto": "I.- Desempeñar los cargos de elección popular para los que sean electos que, en ningún caso, serán gratuitos;"
+    },
+    {
+      "id": "025.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción II",
+      "texto": "II.- Inscribirse en el padrón electoral en los términos que determine la ley de la materia;"
+    },
+    {
+      "id": "025.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción III",
+      "texto": "III.- Desempeñar las funciones electorales que les sean asignadas por la autoridad competente; y"
+    },
+    {
+      "id": "025.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Fracción IV",
+      "texto": "IV.- Votar en las elecciones populares en los términos que señale la ley."
+    }
+  ]
+}

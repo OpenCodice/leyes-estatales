@@ -1,0 +1,36 @@
+{
+  "clave": "094",
+  "etiqueta": "Artículo 94",
+  "titulo": "TÍTULO OCTAVO",
+  "capitulo": "CAPÍTULO II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "094.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 › párrafo 1",
+      "texto": "(REFORMADO EN EL P.O. DEL EDO. EL 19 DICIEMBRE 2024)"
+    },
+    {
+      "id": "094.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 › párrafo 2",
+      "texto": "(REFORMADO EN EL P.O. DEL 20 DE NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "094.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 94 › párrafo 3",
+      "texto": "El cargo de persona Magistrada no es renunciable, sino por causa justificada calificada por el Congreso del Estado."
+    }
+  ]
+}

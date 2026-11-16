@@ -1,0 +1,63 @@
+{
+  "clave": "030",
+  "etiqueta": "Artículo 30",
+  "titulo": "TÍTULO QUINTO",
+  "capitulo": "CAPÍTULO I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "030.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 1",
+      "texto": "(REFORMADO EN EL P.O. DEL EDO. EL 20 NOVIEMBRE DE 1996)"
+    },
+    {
+      "id": "030.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 2",
+      "texto": "El sufragio es el derecho que otorga la ley a los ciudadanos para participar en la vida política del Estado y constituye un deber cívico y legal que se ejerce a través del voto para expresar la voluntad soberana del individuo. El voto deberá ser libre, universal, secreto y directo. Las autoridades garantizarán la libertad y secreto del mismo."
+    },
+    {
+      "id": "030.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 3",
+      "texto": "(REFORMADO, P.O. 31 DE MAYO DE 2017) (REFORMADO, P.O. 26 DE JUNIO DE 2014) Los ciudadanos potosinos que residan en el extranjero podrán ejercer su derecho al voto en la elección de Gobernador del Estado, en los términos que disponga la Ley Electoral del Estado de San Luis Potosí."
+    },
+    {
+      "id": "030.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 4",
+      "texto": "(REFORMADO, P.O. 31 DE MAYO DE 2017) Corresponde a los ciudadanos potosinos partidos políticos y a las autoridades electorales locales y federales, administrativas y jurisdiccionales, cada una en ámbito de su competencia, la preparación, desarrollo y vigilancia de los procesos electorales, así como velar porque los mismos se lleven a cabo bajo los principios de certeza, legalidad, imparcialidad, independencia, máxima publicidad, objetividad y equidad."
+    },
+    {
+      "id": "030.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 5",
+      "texto": "(ADICIONADO, P.O. 31 DE MAYO DE 2017) La ley determinará los organismos que tendrán a su cargo esta función y la debida corresponsabilidad de los partidos políticos y de los ciudadanos; además, establecerá los medios de impugnación para garantizar que los actos de los organismos electorales administrativos y jurisdiccionales, se ajusten a lo dispuesto por esta Constitución y las leyes que de ella emanen."
+    },
+    {
+      "id": "030.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 30 › párrafo 6",
+      "texto": "(ADICIONADO, P.O. 31 DE MAYO DE 2017) Durante el tiempo que comprendan las campañas electorales, y hasta la conclusión de la jornada electoral, deberá suspenderse toda difusión de propaganda gubernamental en los medios de comunicación social, tanto de los poderes, Ejecutivo, Legislativo y Judicial, así como de los ayuntamientos y sus delegaciones. Se exceptúa de lo anterior la información que difundan las autoridades electorales, las relativas a servicios de salud y el ámbito educativo, así como a la protección civil en casos de emergencia."
+    }
+  ]
+}
