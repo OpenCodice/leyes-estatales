@@ -48,16 +48,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 4 › Apartado B",
-      "texto": "B. Formulará recomendaciones públicas no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que le presente la Comisión. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa;"
-    },
-    {
-      "id": "004.p4",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "B",
-      "fraccion": "",
-      "ruta": "Artículo 4 › Apartado B › párrafo 4",
-      "texto": "además, el Congreso del Estado o la Diputación Permanente, en su caso, podrá llamar, a solicitud de la Comisión, a las autoridades o servidores públicos responsables para que comparezcan ante el Pleno Legislativo, a efecto de que expliquen el motivo de su negativa."
+      "texto": "B. Formulará recomendaciones públicas no vinculatorias, denuncias y quejas ante las autoridades respectivas. Todo servidor público está obligado a responder las recomendaciones que le presente la Comisión. Cuando las recomendaciones emitidas no sean aceptadas o cumplidas por las autoridades o servidores públicos, éstos deberán fundar, motivar y hacer pública su negativa; además, el Congreso del Estado o la Diputación Permanente, en su caso, podrá llamar, a solicitud de la Comisión, a las autoridades o servidores públicos responsables para que comparezcan ante el Pleno Legislativo, a efecto de que expliquen el motivo de su negativa."
     },
     {
       "id": "004.C",
@@ -78,13 +69,22 @@
       "texto": "D. Tendrá un Consejo integrado por seis consejeros que deberán cumplir con los requisitos que establezca la ley para ocupar el cargo, mismos que serán elegidos por el voto de las dos terceras partes de los diputados presentes de la Legislatura. La ley determinará los procedimientos a seguir para la presentación de las propuestas respectivas ante el Pleno. Los consejeros durarán en su encargo tres años y anualmente serán sustituidos los dos consejeros de mayor antigüedad en el cargo, salvo que fuesen propuestos y reelectos para un segundo período."
     },
     {
+      "id": "004.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 4 › Apartado D › párrafo 4",
+      "texto": "El Presidente de la Comisión Estatal de los Derechos Humanos, quien lo será también del Consejo, será elegido en los mismos términos del párrafo anterior. Durará en su encargo cinco años, podrá ser reelecto por una sola vez y solo podrá ser removido de sus funciones en los términos del Título XIII de esta Constitución."
+    },
+    {
       "id": "004.p5",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "D",
       "fraccion": "",
       "ruta": "Artículo 4 › Apartado D › párrafo 5",
-      "texto": "El Presidente de la Comisión Estatal de los Derechos Humanos, quien lo será también del Consejo, será elegido en los mismos términos del párrafo anterior. Durará en su encargo cinco años, podrá ser reelecto por una sola vez y solo podrá ser removido de sus funciones en los términos del Título XIII de esta Constitución."
+      "texto": "El Presidente de la Comisión Estatal de los Derechos Humanos presentará anualmente a los poderes estatales un informe de actividades. Al efecto, comparecerá ante el Congreso del Estado en los términos que disponga la ley."
     },
     {
       "id": "004.p6",
@@ -93,7 +93,7 @@
       "apartado": "D",
       "fraccion": "",
       "ruta": "Artículo 4 › Apartado D › párrafo 6",
-      "texto": "El Presidente de la Comisión Estatal de los Derechos Humanos presentará anualmente a los poderes estatales un informe de actividades. Al efecto, comparecerá ante el Congreso del Estado en los términos que disponga la ley."
+      "texto": "Toda persona tiene derecho a la identidad. El Estado garantizará que el registro sea universal, oportuno y gratuito de acuerdo con lo establecido en la ley."
     },
     {
       "id": "004.p7",
@@ -102,7 +102,7 @@
       "apartado": "D",
       "fraccion": "",
       "ruta": "Artículo 4 › Apartado D › párrafo 7",
-      "texto": "Toda persona tiene derecho a la identidad. El Estado garantizará que el registro sea universal, oportuno y gratuito de acuerdo con lo establecido en la ley."
+      "texto": "Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de los municipios, así como la participación de la ciudadanía para la consecución de dichos fines."
     },
     {
       "id": "004.p8",
@@ -111,7 +111,7 @@
       "apartado": "D",
       "fraccion": "",
       "ruta": "Artículo 4 › Apartado D › párrafo 8",
-      "texto": "Toda persona tiene derecho al acceso, disposición y saneamiento de agua para consumo personal y doméstico en forma suficiente, salubre, aceptable y asequible. El Estado garantizará este derecho y la ley definirá las bases, apoyos y modalidades para el acceso y uso equitativo y sustentable de los recursos hídricos, estableciendo la participación de los municipios, así como la participación de la ciudadanía para la consecución de dichos fines."
+      "texto": "Todas las mujeres en el Estado tienen derecho a una protección y atención efectiva contra todo tipo de violencia. El incumplimiento de este derecho será sancionado por la Ley."
     },
     {
       "id": "004.p9",
@@ -120,7 +120,7 @@
       "apartado": "D",
       "fraccion": "",
       "ruta": "Artículo 4 › Apartado D › párrafo 9",
-      "texto": "Todas las mujeres en el Estado tienen derecho a una protección y atención efectiva contra todo tipo de violencia. El incumplimiento de este derecho será sancionado por la Ley."
+      "texto": "Todos los habitantes del Estado tienen derecho a acceder en igualdad de oportunidades a los beneficios del desarrollo social. Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad de la persona y de los grupos en que se integra, sean reales y efectivas; y remover los obstáculos que impidan o dificulten su plenitud."
     },
     {
       "id": "004.p10",
@@ -129,7 +129,7 @@
       "apartado": "D",
       "fraccion": "",
       "ruta": "Artículo 4 › Apartado D › párrafo 10",
-      "texto": "Todos los habitantes del Estado tienen derecho a acceder en igualdad de oportunidades a los beneficios del desarrollo social. Corresponde a los poderes públicos promover las condiciones para que la libertad y la igualdad de la persona y de los grupos en que se integra, sean reales y efectivas; y remover los obstáculos que impidan o dificulten su plenitud."
+      "texto": "Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como al ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. Las leyes respectivas, establecerán los mecanismos para el acceso y participación a cualquier manifestación cultural, y promoverá la protección del patrimonio cultural material e inmaterial."
     },
     {
       "id": "004.p11",
@@ -138,7 +138,7 @@
       "apartado": "D",
       "fraccion": "",
       "ruta": "Artículo 4 › Apartado D › párrafo 11",
-      "texto": "Toda persona tiene derecho al acceso a la cultura y al disfrute de los bienes y servicios que presta el Estado en la materia, así como al ejercicio de sus derechos culturales. El Estado promoverá los medios para la difusión y desarrollo de la cultura, atendiendo a la diversidad cultural en todas sus manifestaciones y expresiones con pleno respeto a la libertad creativa. Las leyes respectivas, establecerán los mecanismos para el acceso y participación a cualquier manifestación cultural, y promoverá la protección del patrimonio cultural material e inmaterial."
+      "texto": "Es derecho de todo habitante del Estado de Chihuahua, el aprovechamiento de las fuentes renovables de energía solar, eólica y cualquier otro tipo de energía proveniente de sustancias orgánicas, para la generación de energía para el autoabastecimiento en los términos que establezca la ley en la materia."
     },
     {
       "id": "004.p12",
@@ -147,7 +147,7 @@
       "apartado": "D",
       "fraccion": "",
       "ruta": "Artículo 4 › Apartado D › párrafo 12",
-      "texto": "Es derecho de todo habitante del Estado de Chihuahua, el aprovechamiento de las fuentes renovables de energía solar, eólica y cualquier otro tipo de energía proveniente de sustancias orgánicas, para la generación de energía para el autoabastecimiento en los términos que establezca la ley en la materia."
+      "texto": "En el Estado se reconoce el derecho humano a la participación ciudadana, entendida como la capacidad de las personas para intervenir en las decisiones de la administración pública, deliberar, discutir y cooperar con las autoridades, así como para incidir en la formulación, ejecución y evaluación de las políticas y actos de gobierno, a través de los instrumentos que prevé la legislación aplicable."
     },
     {
       "id": "004.p13",
@@ -156,7 +156,7 @@
       "apartado": "D",
       "fraccion": "",
       "ruta": "Artículo 4 › Apartado D › párrafo 13",
-      "texto": "En el Estado se reconoce el derecho humano a la participación ciudadana, entendida como la capacidad de las personas para intervenir en las decisiones de la administración pública, deliberar, discutir y cooperar con las autoridades, así como para incidir en la formulación, ejecución y evaluación de las políticas y actos de gobierno, a través de los instrumentos que prevé la legislación aplicable."
+      "texto": "La interpretación de este artículo y de los derechos fundamentales, así como la actuación de las autoridades, serán congruentes con los instrumentos internacionales celebrados por el Estado Mexicano. Para estos efectos, cuando se presenten diferentes interpretaciones, se deberá preferir aquella que proteja con mayor eficacia a las personas o a los grupos afectados."
     },
     {
       "id": "004.p14",
@@ -165,15 +165,6 @@
       "apartado": "D",
       "fraccion": "",
       "ruta": "Artículo 4 › Apartado D › párrafo 14",
-      "texto": "La interpretación de este artículo y de los derechos fundamentales, así como la actuación de las autoridades, serán congruentes con los instrumentos internacionales celebrados por el Estado Mexicano. Para estos efectos, cuando se presenten diferentes interpretaciones, se deberá preferir aquella que proteja con mayor eficacia a las personas o a los grupos afectados."
-    },
-    {
-      "id": "004.p15",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "D",
-      "fraccion": "",
-      "ruta": "Artículo 4 › Apartado D › párrafo 15",
       "texto": "Toda persona tiene derecho a la cultura física y a la práctica del deporte. La ley reglamentaria respectiva, sentará las bases para el acceso a estos derechos y establecerá la concurrencia de los municipios y la participación de los sectores social y privado."
     },
     {

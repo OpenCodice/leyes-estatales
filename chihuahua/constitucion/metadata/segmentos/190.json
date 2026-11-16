@@ -2,7 +2,7 @@
   "clave": "190",
   "etiqueta": "Artículo 190",
   "titulo": "TITULO XIV",
-  "capitulo": "CAPÍTULO VI",
+  "capitulo": "",
   "reformas_articulo": [],
   "bloques": [
     {
@@ -12,16 +12,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 190 › párrafo 1",
-      "texto": "Ningún ciudadano podrá desempeñar ni conservar dos o más cargos de elección popular;"
-    },
-    {
-      "id": "190.p2",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "",
-      "fraccion": "",
-      "ruta": "Artículo 190 › párrafo 2",
-      "texto": "pero el electo podrá optar por el que le conviniere entendiéndose renunciado uno con la aceptación del otro."
+      "texto": "Ningún ciudadano podrá desempeñar ni conservar dos o más cargos de elección popular; pero el electo podrá optar por el que le conviniere entendiéndose renunciado uno con la aceptación del otro."
     }
   ]
 }
