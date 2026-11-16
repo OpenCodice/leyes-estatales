@@ -1,0 +1,27 @@
+{
+  "clave": "102",
+  "etiqueta": "Artículo 102",
+  "titulo": "Título Noveno",
+  "capitulo": "Capítulo IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "102.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › párrafo 1",
+      "texto": "(SE DEROGA MEDIANTE P.O. NUM. 042 DE FECHA 28 DE MAYO DE 2025)"
+    },
+    {
+      "id": "102.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 102 › párrafo 2",
+      "texto": "Se deroga."
+    }
+  ]
+}

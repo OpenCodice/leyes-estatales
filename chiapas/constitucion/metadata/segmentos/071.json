@@ -1,0 +1,27 @@
+{
+  "clave": "071",
+  "etiqueta": "Artículo 71",
+  "titulo": "Título Sexto",
+  "capitulo": "Capítulo VI",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "071.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › párrafo 1",
+      "texto": "En la administración pública estatal se establecerá el Servicio Profesional de Carrera, el cual tendrá como objeto: el ingreso, desarrollo y permanencia de los servidores públicos que al efecto determine la ley secundaria."
+    },
+    {
+      "id": "071.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 71 › párrafo 2",
+      "texto": "El Servicio Profesional de Carrera se regirá por los principios de: mérito, igualdad de oportunidades, legalidad, imparcialidad, vocación de servicio, objetividad, eficiencia, y lealtad institucional con el objetivo de impulsar la profesionalización de la función pública en beneficio de la sociedad."
+    }
+  ]
+}

@@ -1,0 +1,45 @@
+{
+  "clave": "062",
+  "etiqueta": "Artículo 62",
+  "titulo": "Título Sexto",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "062.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › párrafo 1",
+      "texto": "Los reglamentos, decretos, acuerdos y órdenes emitidos por el Gobernador, en ejercicio de sus facultades, deberán ir firmados por el o los titulares de la Dependencia que corresponda según la naturaleza del asunto; la firma del o los titulares referidos los hará responsables de dichos actos cuando sean contrarios a la Constitución y las leyes del Estado."
+    },
+    {
+      "id": "062.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › párrafo 2",
+      "texto": "Se exceptúa el cumplimiento del párrafo anterior, cuando el Gobernador del Estado ejerza su facultad de promulgación de leyes o decretos emitidos por el Congreso del Estado."
+    },
+    {
+      "id": "062.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › párrafo 3",
+      "texto": "En aras de dar cumplimiento a los principios constitucionales en materia de transparencia y acceso a la información pública, las Dependencias o Entidades a través de sus titulares, deberán exponer a la ciudadanía un informe anual del estado que guardan los asuntos de su competencia, observando para ello los parámetros establecidos en el marco legal aplicable."
+    },
+    {
+      "id": "062.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 62 › párrafo 4",
+      "texto": "La información relativa a las licitaciones y contratos públicos deberán hacerse del conocimiento de los ciudadanos deberán hacerse públicas a través de los portales de acceso a ella."
+    }
+  ]
+}

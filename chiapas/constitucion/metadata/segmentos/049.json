@@ -1,0 +1,72 @@
+{
+  "clave": "049",
+  "etiqueta": "Artículo 49",
+  "titulo": "Título Quinto",
+  "capitulo": "Capítulo IV",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "049.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 1",
+      "texto": "Todo proyecto de ley o decreto que sea rechazado por el Congreso del Estado, no podrá volver a presentarse en el mismo periodo de sesiones."
+    },
+    {
+      "id": "049.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 2",
+      "texto": "Los proyectos de ley o decreto aprobados por el Congreso del Estado, se remitirán al Ejecutivo, quien, si no tuviere observaciones que hacer, los publicará inmediatamente."
+    },
+    {
+      "id": "049.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 3",
+      "texto": "Se considerará aprobado por el Ejecutivo todo proyecto que no sea devuelto con observaciones dentro de los diez días hábiles siguientes; con la salvedad de que si transcurrido este término, el Congreso del Estado hubiere concluido o suspendido sus sesiones, la devolución deberá hacerse en el primer día del siguiente periodo de sesiones ordinarias."
+    },
+    {
+      "id": "049.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 4",
+      "texto": "El proyecto de ley o decreto observado por el Ejecutivo, será devuelto, con sus observaciones, al Congreso del Estado. Deberá ser discutido de nuevo por este y una vez aprobado, en los términos que la mayoría de los integrantes del Congreso decida, se comunicará al Ejecutivo quien deberá promulgar la ley o decreto."
+    },
+    {
+      "id": "049.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 5",
+      "texto": "El Ejecutivo del Estado no podrá hacer observaciones a las resoluciones del Congreso del Estado cuando este dicte sus normas internas de funcionamiento, ejerza funciones de cuerpo electoral o de jurado, cuando declare que debe acusarse a uno de los servidores públicos del Estado por responsabilidad política, o cuando se le retire la inmunidad procesal en materia penal."
+    },
+    {
+      "id": "049.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 6",
+      "texto": "Tampoco podrá hacerlas al decreto de convocatoria a sesiones extraordinarias que expida la Comisión Permanente."
+    },
+    {
+      "id": "049.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 49 › párrafo 7",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NÚMERO 379, DE FECHA 27 DE NOVIEMBRE DEL 2024, DECRETO 026)"
+    }
+  ]
+}

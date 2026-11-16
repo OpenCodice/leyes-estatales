@@ -1,0 +1,18 @@
+{
+  "clave": "003",
+  "etiqueta": "Artículo 3",
+  "titulo": "Título Primero",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "003.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 3 › párrafo 1",
+      "texto": "El Estado de Chiapas tiene la obligación de promover y respetar todos los Derechos Humanos contenidos en esta Constitución, en la Constitución Política de los Estados Unidos Mexicanos y en los Tratados Internacionales; así como de garantizar su ejercicio libre y pleno para asegurar la protección más amplia de toda persona."
+    }
+  ]
+}

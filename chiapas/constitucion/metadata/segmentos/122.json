@@ -1,0 +1,27 @@
+{
+  "clave": "122",
+  "etiqueta": "Artículo 122",
+  "titulo": "Título Décimo Segundo",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "122.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122 › párrafo 1",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NÚMERO 379, DE FECHA 27 DE NOVIEMBRE DEL 2024, DECRETO 026)"
+    },
+    {
+      "id": "122.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 122 › párrafo 2",
+      "texto": "El Congreso podrá expedir leyes para desarrollar el contenido de las normas constitucionales."
+    }
+  ]
+}

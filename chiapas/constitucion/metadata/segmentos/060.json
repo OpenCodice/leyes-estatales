@@ -1,0 +1,90 @@
+{
+  "clave": "060",
+  "etiqueta": "Artículo 60",
+  "titulo": "Título Sexto",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "060.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › párrafo 1",
+      "texto": "(ÚLTIMA REFORMA PUBLICADA MEDIANTE P.O. NUM. 412 DE FECHA 04 DE DICIEMBRE DE 2018)"
+    },
+    {
+      "id": "060.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › párrafo 2",
+      "texto": "Para el despacho de los asuntos administrativos del Estado, el Ejecutivo Estatal contará con las Dependencias y Entidades que establezcan las leyes, o los decretos y acuerdos que, conforme a ellas, expida el propio Ejecutivo."
+    },
+    {
+      "id": "060.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › párrafo 3",
+      "texto": "Los titulares de las Dependencias y Entidades deberán cumplir los siguientes requisitos:"
+    },
+    {
+      "id": "060.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › párrafo 4",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NUM. 294, DE FECHA 26 DE JULIO DE 2023, DECRETO 216)"
+    },
+    {
+      "id": "060.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción I",
+      "texto": "I.- Tener veinticinco años cumplidos."
+    },
+    {
+      "id": "060.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción II",
+      "texto": "II.- No pertenecer al estado eclesiástico."
+    },
+    {
+      "id": "060.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción III",
+      "texto": "III.- No haber cometido delito grave doloso."
+    },
+    {
+      "id": "060.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción IV",
+      "texto": "IV.- Ser ciudadano chiapaneco."
+    },
+    {
+      "id": "060.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 60 › Fracción V",
+      "texto": "V.- Los demás que señale la Ley.\n\nEl Titular del Ejecutivo será responsable de impulsar la equidad de género en la integración de la Administración Pública Estatal, por lo que no podrá nombrar a más del cincuenta por cierto de personas de un mismo género como titulares de las Dependencias de la Administración Pública del Estado.\n\nEl Titular del Ejecutivo podrá designar encargados de despacho en caso de ausencias de los titulares de las Dependencias y Entidades, los cuales tendrán las mismas atribuciones y facultades de los titulares."
+    }
+  ]
+}

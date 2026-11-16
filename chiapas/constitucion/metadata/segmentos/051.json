@@ -1,0 +1,36 @@
+{
+  "clave": "051",
+  "etiqueta": "Artículo 51",
+  "titulo": "Título Sexto",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "051.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › párrafo 1",
+      "texto": "Se deposita la titularidad del Poder Ejecutivo en la persona electa para tal cargo, a la que se le llamará “Gobernador o Gobernadora del Estado de Chiapas”."
+    },
+    {
+      "id": "051.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › párrafo 2",
+      "texto": "(ÚLTIMA REFORMA PUBLICADA MEDIANTE P.O. NUM. 110 DE FECHA 24 DE JUNIO DE 2020)"
+    },
+    {
+      "id": "051.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 51 › párrafo 3",
+      "texto": "Su elección será directa y en los términos que disponga la ley de la materia."
+    }
+  ]
+}

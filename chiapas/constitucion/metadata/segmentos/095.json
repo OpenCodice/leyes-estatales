@@ -1,0 +1,27 @@
+{
+  "clave": "095",
+  "etiqueta": "Artículo 95",
+  "titulo": "Título Noveno",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "095.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › párrafo 1",
+      "texto": "La ley establecerá las bases para la formación y actualización de los servidores públicos de la Fiscalía General del Estado, así como para el desarrollo de la carrera profesional de los mismos, la cual se regirá por los principios de legalidad, objetividad, eficiencia, profesionalismo, honradez y respeto a los derechos humanos."
+    },
+    {
+      "id": "095.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 95 › párrafo 2",
+      "texto": "El Fiscal General del Estado, presentará anualmente a los Poderes Legislativo y Ejecutivo, un informe de actividades. Comparecerá ante el Congreso del Estado cuando se le cite a rendir cuentas o a informar sobre su gestión."
+    }
+  ]
+}

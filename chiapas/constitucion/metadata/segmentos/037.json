@@ -1,0 +1,36 @@
+{
+  "clave": "037",
+  "etiqueta": "Artículo 37",
+  "titulo": "Título Quinto",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "037.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › párrafo 1",
+      "texto": "El Congreso del Estado se integrará en su totalidad con diputados electos cada tres años. Por cada diputado propietario se elegirá una persona suplente, en los términos que señale la ley."
+    },
+    {
+      "id": "037.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › párrafo 2",
+      "texto": "(ÚLTIMA REFORMA PUBLICADA MEDIANTE P.O. NUM. 101 DE FECHA 04 DE MAYO DE 2020)"
+    },
+    {
+      "id": "037.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 37 › párrafo 3",
+      "texto": "El Congreso del Estado, se integrará con veinticuatro diputados electos según el principio de mayoría relativa, mediante el sistema de distritos uninominales y por dieciséis diputados electos según el principio de representación proporcional, de acuerdo al sistema de listas votadas en una circunscripción plurinominal única, conforme lo determine la Ley."
+    }
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "clave": "120",
+  "etiqueta": "Artículo 120",
+  "titulo": "Título Décimo Primero",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "120.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 120 › párrafo 1",
+      "texto": "Los poderes públicos del Estado residirán en la ciudad de Tuxtla Gutiérrez. El Gobernador, en caso de trastorno público grave podrá trasladarse provisionalmente a otro lugar, siempre y cuando por las circunstancias el Congreso del Estado no pueda dictar el Decreto correspondiente conforme a las facultades que le confiere esta Constitución."
+    },
+    {
+      "id": "120.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 120 › párrafo 2",
+      "texto": "El Gobierno del Estado auxiliará a la Federación en materia de culto religioso."
+    }
+  ]
+}

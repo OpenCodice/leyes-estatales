@@ -1,0 +1,36 @@
+{
+  "clave": "017",
+  "etiqueta": "Artículo 17",
+  "titulo": "Título Segundo",
+  "capitulo": "Capítulo II",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "017.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 1",
+      "texto": "El pueblo de Chiapas adopta la forma de gobierno republicana, representativa, democrática, laica y popular."
+    },
+    {
+      "id": "017.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 2",
+      "texto": "La soberanía del Estado se ejerce por medio de los poderes públicos, los cuales se instituyen para garantizar la dignidad y los derechos humanos de los habitantes del Estado."
+    },
+    {
+      "id": "017.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 17 › párrafo 3",
+      "texto": "Para su ejercicio, el poder público se divide en: legislativo, ejecutivo y judicial. No podrán reunirse dos o más de estos poderes en una sola persona o corporación."
+    }
+  ]
+}

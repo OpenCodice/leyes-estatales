@@ -1,0 +1,90 @@
+{
+  "clave": "006",
+  "etiqueta": "Artículo 6",
+  "titulo": "Título Primero",
+  "capitulo": "Capítulo I",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "006.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › párrafo 1",
+      "texto": "Toda persona tendrá las siguientes garantías procesales:"
+    },
+    {
+      "id": "006.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción I",
+      "texto": "I. Un recurso judicial eficaz para la protección de la vida y la integridad personal."
+    },
+    {
+      "id": "006.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción II",
+      "texto": "II. Que se le presuma inocente mientras no se declare su responsabilidad en una sentencia firme, como resultado de un proceso público con todas las garantías necesarias para su defensa adecuada."
+    },
+    {
+      "id": "006.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción III",
+      "texto": "III. No será detenida arbitrariamente o desterrada."
+    },
+    {
+      "id": "006.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción IV",
+      "texto": "IV. Cuando una persona que pertenezca a un pueblo indígena y su lengua materna no sea el idioma español, tendrá derecho a que se le asigne un defensor social que hable su misma lengua y conozca su cultura, para que lo patrocine legalmente."
+    },
+    {
+      "id": "006.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción V",
+      "texto": "V. Será juzgada públicamente, en condiciones de igualdad y de manera imparcial por un tribunal independiente y conforme a las reglas del debido proceso."
+    },
+    {
+      "id": "006.VI",
+      "tipo": "fraccion",
+      "marca": "VI",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción VI",
+      "texto": "VI. No será sometida a juicio por una conducta que en el momento de su realización no fuese considerada como delito; tampoco se impondrá una pena mayor a la aplicable en el instante en que se cometió."
+    },
+    {
+      "id": "006.VII",
+      "tipo": "fraccion",
+      "marca": "VII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción VII",
+      "texto": "VII. Toda persona tiene derecho a un medio de defensa efectivo, que la proteja contra actos que violen sus derechos humanos reconocidos por esta Constitución."
+    },
+    {
+      "id": "006.VIII",
+      "tipo": "fraccion",
+      "marca": "VIII",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Fracción VIII",
+      "texto": "VIII. Las penas y medidas impuestas por la realización de un hecho tipificado como delito por la ley penal y demás leyes especializadas, deberán ser racionales y proporcionales al delito que sancione y al bien jurídico afectado, y corresponderá su aplicación al órgano competente del Poder Judicial del Estado, bajo el Sistema Acusatorio."
+    }
+  ]
+}

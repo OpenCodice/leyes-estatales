@@ -1,0 +1,63 @@
+{
+  "clave": "081",
+  "etiqueta": "Artículo 81",
+  "titulo": "Título Octavo",
+  "capitulo": "",
+  "reformas_articulo": [],
+  "bloques": [
+    {
+      "id": "081.p1",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 1",
+      "texto": "Los ayuntamientos tendrán una duración de tres años; serán asambleas deliberantes y tendrán autoridad y competencia propias en los asuntos que se sometan a su decisión, pero la ejecución de estas corresponderá exclusivamente a los presidentes municipales."
+    },
+    {
+      "id": "081.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 2",
+      "texto": "El Congreso del Estado, por acuerdo de las dos terceras partes de sus integrantes, podrá suspender ayuntamientos, declarar su desaparición y suspender o revocar el mandato a alguno de sus miembros, por alguna de las causas graves establecidas en la Ley, siempre y cuando sus miembros hayan tenido oportunidad suficiente para rendir las pruebas y hacer los alegatos que a su juicio convengan."
+    },
+    {
+      "id": "081.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 3",
+      "texto": "(REFORMA PUBLICADA MEDIANTE P.O. NUM. 061, TOMO III, DE FECHA 09 DE OCTUBRE DE 2019)"
+    },
+    {
+      "id": "081.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 4",
+      "texto": "En caso de renuncia o falta definitiva de algunos de los miembros del Ayuntamiento, el Congreso del Estado designará, de entre los que quedaren, las sustituciones correspondientes, debiendo observar las reglas y el principio de paridad entre los géneros establecidos en la Constitución."
+    },
+    {
+      "id": "081.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 5",
+      "texto": "En caso de declararse desaparecido un ayuntamiento o por renuncia o falta definitiva de la mayoría de sus miembros, el Congreso del Estado designará un Concejo Municipal integrado por los miembros que establezca la ley, que deberán cumplir los mismos requisitos señalados para ser miembro de un Ayuntamiento. Se deberá asegurar que en su composición se cumpla con los principios de equidad de género con los que fue integrado el ayuntamiento constitucional electo."
+    },
+    {
+      "id": "081.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 81 › párrafo 6",
+      "texto": "Si por cualquier circunstancia no se hubiese efectuado la elección del Ayuntamiento en la fecha prevista o fuera declarada nula la elección, el Congreso del Estado ordenará la realización de una elección extraordinaria conforme lo establezca la ley."
+    }
+  ]
+}
