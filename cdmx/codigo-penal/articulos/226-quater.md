@@ -1,6 +1,6 @@
 # Artículo 226 Quater
 
-- Comete el delito de abigeato, quien por sí o por interpósita persona se apodere de una o más cabezas de ganado, sin consentimiento de quien legalmente pueda disponer de ellas, se le impondrán de dos a cinco años de prisión.
+Comete el delito de abigeato, quien por sí o por interpósita persona se apodere de una o más cabezas de ganado, sin consentimiento de quien legalmente pueda disponer de ellas, se le impondrán de dos a cinco años de prisión.
 
 Se considerará ganado, para los efectos de este delito, a las especies: bovina, caballar, asnal, mular, ovina, caprina, porcina o de una o más colonias de abejas en un apiario; así como aquél domesticado, bravo, de pezuña, ganado mayor o ganado menor, independientemente de la actividad típica del animal.
 
