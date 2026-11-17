@@ -414,7 +414,7 @@
       "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/",
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/COD-ID-02.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 096: la fe de erratas «(Fe de erratas según oficio SSP/514/18/LIX … P. O. No. 92, 17-X-18)» quedó pegada al final de la fracción VI como texto de la ley, no como nota de reforma en su propio párrafo; 137: la nota de reforma «(Ref. 12-XI-21, Periódico Noticias)» quedó pegada como texto del párrafo (sin cursiva ni párrafo propio); 150: la nota de reforma «(Ref. 12-XI-21, Periódico Noticias)» quedó pegada como texto del párrafo (sin cursiva ni párrafo propio); 200: la nota de reforma «(Ref. 12-XI-21, Periódico Noticias)» quedó pegada como texto del párrafo (sin cursiva ni párrafo propio); 273: la nota «(Ref. 12-XI-21, Periódico Noticias)» que en el PDF cierra el párrafo 1 quedó pegada al inicio del párrafo 2 («Se presume su existencia…») (y 22 más)",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 096: la fe de erratas «(Fe de erratas según oficio SSP/514/18/LIX … P. O. No. 92, 17-X-18)» quedó pegada al final de la fracción VI como texto de la ley, no como nota de reforma en su propio párrafo; 137: la nota de reforma «(Ref. 12-XI-21, Periódico Noticias)» quedó pegada al final del único párrafo del cuerpo; debe ir en cursiva en su propio párrafo; 150: la nota «(Ref. 12-XI-21, Periódico Noticias)» quedó dentro del texto del párrafo en lugar de en su propio párrafo en cursiva; 158: la nota «(Ref. 12-XI-21, Periódico Noticias)» quedó dentro del texto del párrafo en lugar de en su propio párrafo en cursiva; 160: la nota «(Ref. 12-XI-21, Periódico Noticias)» (partida en el PDF como «12-/XI-21») quedó dentro del texto del párrafo en lugar de en su propio párrafo en cursiva (y 26 más)",
       "fecha": "2026-11-17",
       "pdf": {
         "sha256": "a99bca54143a18827dcc6b0ea00a88a56ebf950abaa8d99d75a046ec52fe4e16",
@@ -422,7 +422,7 @@
         "etag": "\"1e3ad9-639f9263a271f\"",
         "last_modified": "Tue, 15 Jul 2025 15:08:31 GMT"
       },
-      "extractor": "780c2ba98e8725ab"
+      "extractor": "d5141153547758e4"
     },
     {
       "clave": "queretaro/codigo-de-etica-del-poder-legislativo",
@@ -574,7 +574,7 @@
       "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-03.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 017: la nota de reforma de la fracción I «(Ref. P.O. No. 31. 4-IV-25)» quedó partida en dos párrafos («…(Ref. P.O.» y «No. 31. 4-IV-25)») y dentro del cuerpo, sin cursiva; la de la fracción III «(Ref. p.o.; 028: en la fracción XXXI, la «y» final (continuación del renglón en el PDF: «…o de particulares; y (Ref. P. O. No. 93, 27-IX-24)») quedó como párrafo suelto «y» después de la fracción; además la fe de erra; 053: las tablas de cuotas están aplanadas y desordenadas respecto del PDF (págs. 40 a 42): filas intercaladas y rótulos separados de sus valores (p. ej. «Constancia de estudios… Expedición de Kardex (const; 053-bis: la tabla de derechos (pág. 43) quedó aplanada y desordenada: «Bicicleta.» separado de sus valores, «Depósito vehicular.» y «Servicios auxiliares de transporte.» mezclados con las celdas, la matriz de ",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 028-duodecies: el Artículo 28 terdecies («El Centro realizará el cobro de derechos por los servicios de evaluación en materia de control de confianza.», nota Adición P. O. No. 92, 26-XII-17) quedó absorbido como últ; 053: la tabla de cuotas (págs. 40 a 42) quedó aplanada en párrafos con el orden de lectura revuelto por las columnas: celdas partidas e intercaladas (p. ej. «Expedición de certificado de antecedentes Por c; 053-bis: la tabla de derechos (pág. 43) quedó aplanada y desordenada: «Bicicleta.» separado de sus valores, «Depósito vehicular.» y «Servicios auxiliares de transporte.» mezclados con las celdas, la matriz de ",
       "fecha": "2026-11-17",
       "pdf": {
         "sha256": "9024704ce927e51f1c940ce23cd6729c5ce96cbd9c796e72ab9ca9c92ddb14b0",
@@ -582,7 +582,7 @@
         "etag": "\"ad4f5-6509c2d3cd767\"",
         "last_modified": "Wed, 29 Apr 2026 16:52:44 GMT"
       },
-      "extractor": "780c2ba98e8725ab"
+      "extractor": "d5141153547758e4"
     },
     {
       "clave": "queretaro/ley-organica-de-la-universidad-tecnologica-de-queretaro",
@@ -662,7 +662,7 @@
         "etag": "\"af90b-639fa4d11ef5f\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:57 GMT"
       },
-      "extractor": "780c2ba98e8725ab"
+      "extractor": "d5141153547758e4"
     },
     {
       "clave": "queretaro/ley-organica-del-tribunal-de-justicia-administrativa",
@@ -673,16 +673,21 @@
       "medio": "Periódico Oficial del Gobierno del Estado de Querétaro «La Sombra de Arteaga»",
       "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-11.pdf",
-      "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 023: la nota de reforma de la fracción II «(Ref. P.O. Mo. 87, 30-IX-21)» (con el «Mo.» del PDF) quedó pegada al final del párrafo «II. Los juicios que se promuevan… conforme a lo siguiente:» en vez de ir e; 026: las cinco notas «(Ref. P.O. Mo. 87, 30-IX-21)» (con el «Mo.» del PDF) quedaron pegadas al final de cada uno de los cinco párrafos en vez de ir como párrafos en cursiva aparte, a diferencia del resto d",
-      "fecha": "2026-11-17",
+      "estado": "incluida",
+      "version": "2021-10-08",
+      "unidades": 62,
       "pdf": {
         "sha256": "e9939cf083f3b52b33cab3360c2d8cbd4e6380ab1c3de7734590ed99f8914c9e",
         "bytes": 338832,
         "etag": "\"52b90-639fa4d1c9dc6\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:58 GMT"
       },
-      "extractor": "780c2ba98e8725ab"
+      "extractor": "d5141153547758e4",
+      "extractor_sha": "99cec6168d3e1cb2403cbf3503feb9d2e5d0f10c",
+      "alta": {
+        "fecha": "2026-11-17",
+        "via": "limpia"
+      }
     },
     {
       "clave": "queretaro/ley-organica-del-tribunal-electoral",
@@ -694,7 +699,7 @@
       "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-12.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 031: apartado B, fracción XV: la «y» final quedó como párrafo propio, separada de «…vacancia o impedimento;»; en el PDF (pág. 19) es continuación del mismo renglón/párrafo («impedimento; y (Ref. P. O. No. ",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 038: la nota de reforma «(Fe de erratas según oficio SSP/2398/20/LIX … P. O. No. 57, 3-VII-20)» quedó pegada en el cuerpo, al final del párrafo 1 y al final de la fracción III, en vez de ir en cursiva en s",
       "fecha": "2026-11-17",
       "pdf": {
         "sha256": "2d3921013d243e79ea5e6059c7c567997df2b3c4032862c2d2a68b60b3beb5f6",
@@ -702,7 +707,7 @@
         "etag": "\"502de-639fa4d2ab730\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:59 GMT"
       },
-      "extractor": "780c2ba98e8725ab"
+      "extractor": "d5141153547758e4"
     },
     {
       "clave": "queretaro/ley-organica-municipal",
@@ -714,7 +719,7 @@
       "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-13.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 005: faltan los últimos cuatro municipios de la tabla del PDF (SAN JOAQUIN, SAN JUAN DEL RIO, TEQUISQUIAPAN, TOLIMAN); el texto termina en «QUERETARO: SANTIAGO DE QUERÉTARO.». Además la tabla Municipio/Cab; 053: la «y» que cierra la fracción II («...de que se trate; y») quedó como párrafo suelto, separada de la fracción II y antes de su nota de reforma; en el PDF es el final del renglón de la fracción II.",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 005: faltan los últimos cuatro municipios de la tabla del PDF (SAN JOAQUIN, SAN JUAN DEL RIO, TEQUISQUIAPAN, TOLIMAN); el texto termina en «QUERETARO: SANTIAGO DE QUERÉTARO.». Además la tabla Municipio/Cab",
       "fecha": "2026-11-17",
       "pdf": {
         "sha256": "a4391f82ce9de0f078d36f2bf3e847888e74f6bf2cc6f0f14037b0fd3ef076c4",
@@ -722,7 +727,7 @@
         "etag": "\"b53e9-65ae6387442d6\"",
         "last_modified": "Mon, 07 Sep 2026 15:24:56 GMT"
       },
-      "extractor": "780c2ba98e8725ab"
+      "extractor": "d5141153547758e4"
     }
   ]
 }
