@@ -1,0 +1,5 @@
+# Artículo 15 Septies
+
+1. Las autoridades electorales tienen la obligación de traducir todos aquellos documentos, lineamientos o preceptos relacionados con la postulación de personas indígenas, al menos, a las lenguas wixaritari y náhuatl. En el mismo sentido, los documentos, lineamientos o preceptos relacionados con las personas con discapacidad deberán ser traducidos a lengua de señas utilizada predominantemente en el estado de Jalisco y al sistema de escritura braille, para su difusión.
+
+(Esta porción normativa fue reformada por Decreto 29235/LXIII/23 publicado en el Periódico Oficial El Estado de Jalisco el día veinte de julio del dos mil veintitrés, la cual fue declarada invalida en el RESOLUTIVO CUARTO, de la sentencia derivada de la Acción de Inconstitucionalidad 180/2024 pronunciada por el Pleno de la Suprema Corte de Justicia de la Nación, la que surtirá sus efectos a la fecha en la que concluya el proceso electoral 2023-2024 en el Estado de Jalisco, según lo establece el mismo resolutivo en comento)
