@@ -6,7 +6,7 @@
   "fuente": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/busquedasleyes/Listado'2.cfm",
   "medio": "Periódico Oficial del Estado de Jalisco",
   "version": "2026-07-24",
-  "num_articulos": 796,
+  "num_articulos": 797,
   "articulos": [
     {
       "clave": "001",
@@ -8575,6 +8575,24 @@
       "num_reformas": 0,
       "reformas": [],
       "archivo": "jalisco/codigo-electoral/articulos/445-n.md"
+    },
+    {
+      "clave": "445-nn",
+      "articulo": 445,
+      "letra": "Ñ",
+      "ordinal": "",
+      "etiqueta": "Artículo 445-Ñ",
+      "cita": "Artículo 445-Ñ CE Jalisco",
+      "titulo": "Título Décimo Sexto",
+      "capitulo": "Capítulo Único",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "",
+      "derogado": false,
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "jalisco/codigo-electoral/articulos/445-nn.md"
     },
     {
       "clave": "445-o",
