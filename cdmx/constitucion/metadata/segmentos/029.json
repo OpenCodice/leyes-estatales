@@ -173,7 +173,16 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 29 › Apartado C",
-      "texto": "C. De los requisitos de elegibilidad Para ser diputada o diputado se requiere:"
+      "texto": "C. De los requisitos de elegibilidad"
+    },
+    {
+      "id": "029.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 29 › Apartado C › párrafo 2",
+      "texto": "Para ser diputada o diputado se requiere:"
     },
     {
       "id": "029.C.a",
@@ -288,7 +297,16 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 29 › Apartado D",
-      "texto": "D. De las competencias del Congreso de la Ciudad de México El Congreso de la Ciudad de México tendrá las siguientes competencias legislativas:"
+      "texto": "D. De las competencias del Congreso de la Ciudad de México"
+    },
+    {
+      "id": "029.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 29 › Apartado D › párrafo 3",
+      "texto": "El Congreso de la Ciudad de México tendrá las siguientes competencias legislativas:"
     },
     {
       "id": "029.D.a",

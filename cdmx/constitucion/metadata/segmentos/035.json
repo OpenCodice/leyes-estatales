@@ -12,7 +12,25 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 35 › párrafo 1",
-      "texto": "DEL PODER JUDICIAL",
+      "texto": "DEL PODER JUDICIAL"
+    },
+    {
+      "id": "035.A",
+      "tipo": "apartado",
+      "marca": "A",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 35 › Apartado A",
+      "texto": "A. De la función judicial"
+    },
+    {
+      "id": "035.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 35 › Apartado A › párrafo 2",
+      "texto": "El derecho a la buena administración de justicia de los habitantes de la Ciudad de México, estará garantizado por el Tribunal Superior de Justicia, quien regirá su función autónoma por los principios pro persona, de legalidad y honradez, imparcialidad, accesibilidad, transparencia, máxima publicidad, rendición de cuentas y perspectiva de género y derechos humanos.",
       "reformas": [
         {
           "nota": "Párrafo reformado G.O. CDMX 23/12/24",
@@ -23,21 +41,12 @@
       ]
     },
     {
-      "id": "035.A",
-      "tipo": "apartado",
-      "marca": "A",
-      "apartado": "",
-      "fraccion": "",
-      "ruta": "Artículo 35 › Apartado A",
-      "texto": "A. De la función judicial El derecho a la buena administración de justicia de los habitantes de la Ciudad de México, estará garantizado por el Tribunal Superior de Justicia, quien regirá su función autónoma por los principios pro persona, de legalidad y honradez, imparcialidad, accesibilidad, transparencia, máxima publicidad, rendición de cuentas y perspectiva de género y derechos humanos."
-    },
-    {
-      "id": "035.p2",
+      "id": "035.p3",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "A",
       "fraccion": "",
-      "ruta": "Artículo 35 › Apartado A › párrafo 2",
+      "ruta": "Artículo 35 › Apartado A › párrafo 3",
       "texto": "Al Tribunal Superior de Justicia corresponde administrar justicia a los habitantes de la Ciudad de México, para lo cual tendrá, entre otras, las siguientes funciones:",
       "reformas": [
         {
@@ -83,12 +92,12 @@
       ]
     },
     {
-      "id": "035.p3",
+      "id": "035.p4",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "A",
       "fraccion": "",
-      "ruta": "Artículo 35 › Apartado A › párrafo 3",
+      "ruta": "Artículo 35 › Apartado A › párrafo 4",
       "texto": "Aunado a lo anterior, en la función jurisdiccional se privilegiarán los principios de igualdad sustantiva, justicia restaurativa y justicia redistributiva, y los fines de la justicia social, a fin de que respecto de los elementos no esenciales en el procedimiento impere un sistema auténtico que garantice y favorezca la tutela efectiva, sin dilaciones indebidas, de los derechos humanos, especialmente, de grupos sociales y personas que se encuentren en situaciones de pobreza, exclusión, marginación, desigualdad, discriminación o desventaja social.",
       "reformas": [
         {
@@ -100,12 +109,12 @@
       ]
     },
     {
-      "id": "035.p4",
+      "id": "035.p5",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "A",
       "fraccion": "",
-      "ruta": "Artículo 35 › Apartado A › párrafo 4",
+      "ruta": "Artículo 35 › Apartado A › párrafo 5",
       "texto": "Para garantizar el acceso a la justicia de forma ágil y oportuna, el Poder Judicial, el Tribunal Electoral, el Sistema de Justicia Laboral y el Tribunal de Justicia Administrativa, todos de la Ciudad de México, contarán con un Sistema de Justicia Electrónica, acorde con el principio de equivalencia funcional y mediante el uso de las tecnologías de la información y la comunicación, a efecto de proporcionar las herramientas para tramitar los juicios y sus instancias, en forma electrónica, de manera alternativa y adicional a su tramitación escrita, de acuerdo con su naturaleza y formalidades esenciales",
       "reformas": [
         {
@@ -141,12 +150,12 @@
       "texto": "1. El Poder Judicial de la Ciudad de México se deposita en un Tribunal Superior de Justicia que contará con una Sala Constitucional; un Órgano de Administración Judicial, Tribunal de Disciplina Judicial, Salas y Juzgados."
     },
     {
-      "id": "035.p5",
+      "id": "035.p6",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "B",
       "fraccion": "",
-      "ruta": "Artículo 35 › Apartado B › párrafo 5",
+      "ruta": "Artículo 35 › Apartado B › párrafo 6",
       "texto": "El Órgano de Administración Judicial determinará el número de salas, magistraturas, jueces y demás personal con el que contará. Son principios fundamentales la autonomía e independencia de las personas que integran el Poder Judicial los cuales deberán garantizarse en su ley orgánica.",
       "reformas": [
         {
@@ -158,12 +167,12 @@
       ]
     },
     {
-      "id": "035.p6",
+      "id": "035.p7",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "B",
       "fraccion": "",
-      "ruta": "Artículo 35 › Apartado B › párrafo 6",
+      "ruta": "Artículo 35 › Apartado B › párrafo 7",
       "texto": "La presidencia del Tribunal Superior de Justicia se renovará cada tres años de manera rotatoria en función del número de votos que obtenga cada candidatura en la elección respectiva, correspondiendo la presidencia a quienes alcancen mayor votación.",
       "reformas": [
         {
@@ -199,22 +208,13 @@
       "texto": "3. Las personas titulares de Magistraturas y Juzgados serán electas por voto libre, directo y secreto de la ciudadanía, conforme a lo previsto por esta Constitución y demás disposiciones relativas."
     },
     {
-      "id": "035.p7",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "B",
-      "fraccion": "",
-      "ruta": "Artículo 35 › Apartado B › párrafo 7",
-      "texto": "Las personas titulares de Magistraturas y Juzgados durarán nueve años en su cargo y podrán ser reelectos, y si lo fueren, sólo podrán ser privados de sus puestos en los términos que establece esta Constitución y las leyes."
-    },
-    {
       "id": "035.p8",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado B › párrafo 8",
-      "texto": "Las personas titulares de Magistraturas y Juzgados no podrán desempeñar ningún otro empleo o comisión, salvo los cargos no remunerados en actividades docentes, científicas, culturales o de beneficencia."
+      "texto": "Las personas titulares de Magistraturas y Juzgados durarán nueve años en su cargo y podrán ser reelectos, y si lo fueren, sólo podrán ser privados de sus puestos en los términos que establece esta Constitución y las leyes."
     },
     {
       "id": "035.p9",
@@ -223,6 +223,15 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado B › párrafo 9",
+      "texto": "Las personas titulares de Magistraturas y Juzgados no podrán desempeñar ningún otro empleo o comisión, salvo los cargos no remunerados en actividades docentes, científicas, culturales o de beneficencia."
+    },
+    {
+      "id": "035.p10",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 35 › Apartado B › párrafo 10",
       "texto": "Las personas titulares de Magistraturas y Juzgados del Poder Judicial, incluyendo al Tribunal de Disciplina Judicial y a los integrantes del Órgano de Administración Judicial, no podrán actuar como patronos, abogados o representantes en cualquier proceso ante los órganos judiciales de la Ciudad de México mientras estén en el cargo, cuando hayan sido separados del mismo por sanción disciplinaria o dentro de los dos años siguientes a su retiro o término del encargo.",
       "reformas": [
         {
@@ -249,23 +258,6 @@
       "texto": "4. Para ser magistrado o magistrada se deberán acreditar los requisitos establecidos en las fracciones I a V del artículo 95 de la Constitución Política de los Estados Unidos Mexicanos y los que disponga la ley. Mientras que, para ser jueza o juez, deberán acreditar los requisitos establecidos por las fracciones I a IV del artículo 97 de la Constitución Política de los Estados Unidos Mexicanos y los que disponga la ley."
     },
     {
-      "id": "035.p10",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "B",
-      "fraccion": "",
-      "ruta": "Artículo 35 › Apartado B › párrafo 10",
-      "texto": "Derogado.",
-      "reformas": [
-        {
-          "nota": "Párrafo derogado G.O. CDMX 23/12/24",
-          "fechas": [
-            "2024-12-23"
-          ]
-        }
-      ]
-    },
-    {
       "id": "035.p11",
       "tipo": "parrafo",
       "marca": "",
@@ -289,6 +281,23 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado B › párrafo 12",
+      "texto": "Derogado.",
+      "reformas": [
+        {
+          "nota": "Párrafo derogado G.O. CDMX 23/12/24",
+          "fechas": [
+            "2024-12-23"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "035.p13",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 35 › Apartado B › párrafo 13",
       "texto": "Derogado.",
       "reformas": [
         {
@@ -339,12 +348,12 @@
       "texto": "7. El ingreso, formación, ascenso, permanencia y separación del personal que forme parte de la carrera judicial del Poder Judicial de la Ciudad de México se sujetará a la regulación establecida en las disposiciones aplicables, y se basará en los resultados del desempeño y el reconocimiento de méritos."
     },
     {
-      "id": "035.p13",
+      "id": "035.p14",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "B",
       "fraccion": "",
-      "ruta": "Artículo 35 › Apartado B › párrafo 13",
+      "ruta": "Artículo 35 › Apartado B › párrafo 14",
       "texto": "Se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, honradez e independencia.",
       "reformas": [
         {
@@ -380,21 +389,21 @@
       "texto": "9. Las licencias de las personas magistradas o juezas, cuando no excedan de un mes, podrán ser concedidas por el Órgano de Administración Judicial; y será el Pleno del Tribunal de Disciplina Judicial quien conceda para el caso de sus Magistradas y Magistrados."
     },
     {
-      "id": "035.p14",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "B",
-      "fraccion": "",
-      "ruta": "Artículo 35 › Apartado B › párrafo 14",
-      "texto": "Las licencias que excedan de este tiempo, deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los integrantes presentes del Congreso, y en sus recesos por la Comisión Permanente para el caso de Magistradas y Magistrados del Tribunal de Disciplina Judicial; y por el Órgano de Administración Judicial para el caso de Magistradas, Magistrados, Juezas y Jueces."
-    },
-    {
       "id": "035.p15",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado B › párrafo 15",
+      "texto": "Las licencias que excedan de este tiempo, deberán justificarse y podrán concederse sin goce de sueldo por la mayoría de los integrantes presentes del Congreso, y en sus recesos por la Comisión Permanente para el caso de Magistradas y Magistrados del Tribunal de Disciplina Judicial; y por el Órgano de Administración Judicial para el caso de Magistradas, Magistrados, Juezas y Jueces."
+    },
+    {
+      "id": "035.p16",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 35 › Apartado B › párrafo 16",
       "texto": "Ninguna licencia podrá exceder del término de un año.",
       "reformas": [
         {
@@ -463,12 +472,12 @@
       "texto": "C. De la elección de personas Magistradas y Jueces."
     },
     {
-      "id": "035.p16",
+      "id": "035.p17",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "C",
       "fraccion": "",
-      "ruta": "Artículo 35 › Apartado C › párrafo 16",
+      "ruta": "Artículo 35 › Apartado C › párrafo 17",
       "texto": "La elección de las personas juzgadoras adscritas al Poder Judicial se sujetará estrictamente a las bases, etapas, procedimientos, términos, modalidades, requisitos, duración de los cargos y demás disposiciones que señalan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y demás leyes aplicables, para la elección de las personas juzgadoras adscritas al Poder Judicial de la Federación, en lo que resulte aplicable.",
       "reformas": [
         {
@@ -606,12 +615,12 @@
       "texto": "2. El Congreso recibirá postulaciones y remitirá los listados al Instituto Electoral de la Ciudad de México, en los plazos que refiera la convocatoria a efecto de que organice el proceso electivo."
     },
     {
-      "id": "035.p17",
+      "id": "035.p18",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "C",
       "fraccion": "",
-      "ruta": "Artículo 35 › Apartado C › párrafo 17",
+      "ruta": "Artículo 35 › Apartado C › párrafo 18",
       "texto": "Las personas candidatas podrán ser postuladas simultáneamente por uno o varios Poderes de la Ciudad de México, siempre que aspiren al mismo cargo. Los Poderes que no remitan sus postulaciones al término del plazo previsto en la convocatoria no podrán hacerlo posteriormente.",
       "reformas": [
         {
@@ -632,12 +641,12 @@
       "texto": "3. El Instituto Electoral de la Ciudad de México efectuará los cómputos de la elección, publicará los resultados y entregará las constancias de mayoría a las candidaturas que obtengan el mayor número de votos, asignando los cargos alternadamente entre mujeres y hombres, observando el principio de paridad de género, acatando los lineamientos que al efecto emita."
     },
     {
-      "id": "035.p18",
+      "id": "035.p19",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "C",
       "fraccion": "",
-      "ruta": "Artículo 35 › Apartado C › párrafo 18",
+      "ruta": "Artículo 35 › Apartado C › párrafo 19",
       "texto": "También declarará la validez de la elección y enviará los resultados al Tribunal Electoral de la Ciudad de México, quien resolverá las impugnaciones antes de que el Congreso instale el primer periodo de sesiones del año de la elección que corresponda, fecha en que las personas electas tomarán protesta de su encargo ante el órgano legislativo. Las autoridades electorales no podrán modificar los resultados de la elección ni la asignación de cargos después de esa fecha.",
       "reformas": [
         {
@@ -655,12 +664,12 @@
       ]
     },
     {
-      "id": "035.p19",
+      "id": "035.p20",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "C",
       "fraccion": "",
-      "ruta": "Artículo 35 › Apartado C › párrafo 19",
+      "ruta": "Artículo 35 › Apartado C › párrafo 20",
       "texto": "El Instituto Electoral de la Ciudad de México estará facultado para emitir los acuerdos generales o lineamientos que resulten necesarios para dar cumplimiento a lo dispuesto en el presente numeral.",
       "reformas": [
         {
@@ -672,30 +681,13 @@
       ]
     },
     {
-      "id": "035.p20",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "C",
-      "fraccion": "",
-      "ruta": "Artículo 35 › Apartado C › párrafo 20",
-      "texto": "Para el caso de Magistradas y Magistrados del Tribunal de Disciplina Judicial, la elección se realizará en todo el territorio de la Ciudad de México conforme al procedimiento previsto en este artículo y en los términos que dispongan las leyes aplicables.",
-      "reformas": [
-        {
-          "nota": "Párrafo adicionado G.O. CDMX 8/10/26",
-          "fechas": [
-            "2026-10-08"
-          ]
-        }
-      ]
-    },
-    {
       "id": "035.p21",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "C",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado C › párrafo 21",
-      "texto": "Para la elección de Magistradas, Magistrados, Juezas y Jueces del Tribunal Superior de Justicia, se dividirá la Ciudad de México en los distritos judiciales que sean necesarios para garantizar que la ciudadanía elija una candidatura por cada especialidad o materia, bajo el principio de paridad de género, identificando el Poder que postula a la persona candidata o si está en funciones.",
+      "texto": "Para el caso de Magistradas y Magistrados del Tribunal de Disciplina Judicial, la elección se realizará en todo el territorio de la Ciudad de México conforme al procedimiento previsto en este artículo y en los términos que dispongan las leyes aplicables.",
       "reformas": [
         {
           "nota": "Párrafo adicionado G.O. CDMX 8/10/26",
@@ -712,7 +704,7 @@
       "apartado": "C",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado C › párrafo 22",
-      "texto": "Las asignaciones de personas candidatas por distrito se hará de forma aleatoria en acto público por parte del Instituto Electoral de la Ciudad de México.",
+      "texto": "Para la elección de Magistradas, Magistrados, Juezas y Jueces del Tribunal Superior de Justicia, se dividirá la Ciudad de México en los distritos judiciales que sean necesarios para garantizar que la ciudadanía elija una candidatura por cada especialidad o materia, bajo el principio de paridad de género, identificando el Poder que postula a la persona candidata o si está en funciones.",
       "reformas": [
         {
           "nota": "Párrafo adicionado G.O. CDMX 8/10/26",
@@ -729,7 +721,7 @@
       "apartado": "C",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado C › párrafo 23",
-      "texto": "El Instituto Electoral de la Ciudad de México realizará en cada elección judicial las modificaciones necesarias al marco geográfico electoral para adecuar los distritos judiciales al número de cargos y especialidades a elegir.",
+      "texto": "Las asignaciones de personas candidatas por distrito se hará de forma aleatoria en acto público por parte del Instituto Electoral de la Ciudad de México.",
       "reformas": [
         {
           "nota": "Párrafo adicionado G.O. CDMX 8/10/26",
@@ -746,7 +738,7 @@
       "apartado": "C",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado C › párrafo 24",
-      "texto": "Las boletas electorales de la elección judicial distinguirán al Poder postulante, y cuando corresponda, a las personas juzgadoras en funciones en los cargos a elegir. Asimismo, distinguirán las especialidades que correspondan a cada ámbito territorial y contendrán los nombres completos de las personas candidatas.",
+      "texto": "El Instituto Electoral de la Ciudad de México realizará en cada elección judicial las modificaciones necesarias al marco geográfico electoral para adecuar los distritos judiciales al número de cargos y especialidades a elegir.",
       "reformas": [
         {
           "nota": "Párrafo adicionado G.O. CDMX 8/10/26",
@@ -763,7 +755,7 @@
       "apartado": "C",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado C › párrafo 25",
-      "texto": "Las candidaturas se ubicarán en recuadros para que la ciudadanía señale su preferencia, debiendo elegir una sola candidatura por especialidad o materia.",
+      "texto": "Las boletas electorales de la elección judicial distinguirán al Poder postulante, y cuando corresponda, a las personas juzgadoras en funciones en los cargos a elegir. Asimismo, distinguirán las especialidades que correspondan a cada ámbito territorial y contendrán los nombres completos de las personas candidatas.",
       "reformas": [
         {
           "nota": "Párrafo adicionado G.O. CDMX 8/10/26",
@@ -780,7 +772,7 @@
       "apartado": "C",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado C › párrafo 26",
-      "texto": "La jornada electoral judicial se celebrará en la misma ubicación donde se realicen las elecciones ordinarias federales o locales de ese año. Las autoridades electorales adoptarán las medidas necesarias para garantizar que la jornada electoral judicial se desarrolle sin la intervención de personas representantes de partidos políticos.",
+      "texto": "Las candidaturas se ubicarán en recuadros para que la ciudadanía señale su preferencia, debiendo elegir una sola candidatura por especialidad o materia.",
       "reformas": [
         {
           "nota": "Párrafo adicionado G.O. CDMX 8/10/26",
@@ -797,6 +789,23 @@
       "apartado": "C",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado C › párrafo 27",
+      "texto": "La jornada electoral judicial se celebrará en la misma ubicación donde se realicen las elecciones ordinarias federales o locales de ese año. Las autoridades electorales adoptarán las medidas necesarias para garantizar que la jornada electoral judicial se desarrolle sin la intervención de personas representantes de partidos políticos.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado G.O. CDMX 8/10/26",
+          "fechas": [
+            "2026-10-08"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "035.p28",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 35 › Apartado C › párrafo 28",
       "texto": "El escrutinio y cómputo de los votos se realizará en la casilla que fueron sufragados.",
       "reformas": [
         {
@@ -1033,12 +1042,12 @@
       "texto": "1. La administración del Poder Judicial estará a cargo de un Órgano de Administración Judicial, que contará con independencia técnica, de gestión y para tomar sus decisiones y adoptar sus resoluciones, conforme a las bases establecidas en esta Constitución y las leyes aplicables."
     },
     {
-      "id": "035.p28",
+      "id": "035.p29",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "E",
       "fraccion": "",
-      "ruta": "Artículo 35 › Apartado E › párrafo 28",
+      "ruta": "Artículo 35 › Apartado E › párrafo 29",
       "texto": "Determinará el número y especialización por materia de las Salas y Juzgados, y la inspección del cumplimiento de las normas de funcionamiento administrativo del Poder Judicial; y las demás que establezcan las leyes.",
       "reformas": [
         {
@@ -1059,21 +1068,21 @@
       "texto": "2. El Órgano de Administración Judicial será responsable del servicio de carrera del personal del Poder Judicial a quienes les apliquen las categorías previstas en la ley de la materia. Asimismo, del ingreso, permanencia, separación, formación, promoción y evaluación del desempeño del personal administrativo que sirva en el Poder Judicial."
     },
     {
-      "id": "035.p29",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "E",
-      "fraccion": "",
-      "ruta": "Artículo 35 › Apartado E › párrafo 29",
-      "texto": "La ley establecerá las bases para la formación, evaluación, certificación y actualización de funcionarias y funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género. El Tribunal Superior de Justicia de la Ciudad de México contará con un órgano auxiliar con autonomía técnica y de gestión denominado Instituto de Estudios Judiciales responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización del personal de carrera judicial y administrativo del Poder Judicial de la Ciudad de México, sus órganos auxiliares; así como llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial en términos de las disposiciones aplicables. El Instituto de Estudios Judiciales podrá prestar sus servicios a fiscalías, defensorías públicas, organismos de protección de los derechos humanos, instituciones de seguridad pública y al público en general."
-    },
-    {
       "id": "035.p30",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "E",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado E › párrafo 30",
+      "texto": "La ley establecerá las bases para la formación, evaluación, certificación y actualización de funcionarias y funcionarios, así como para el desarrollo de la carrera judicial, la cual se regirá por los principios de excelencia, objetividad, imparcialidad, profesionalismo, independencia y paridad de género. El Tribunal Superior de Justicia de la Ciudad de México contará con un órgano auxiliar con autonomía técnica y de gestión denominado Instituto de Estudios Judiciales responsable de diseñar e implementar los procesos de formación, capacitación, evaluación, certificación y actualización del personal de carrera judicial y administrativo del Poder Judicial de la Ciudad de México, sus órganos auxiliares; así como llevar a cabo los concursos de oposición para acceder a las distintas categorías de la carrera judicial en términos de las disposiciones aplicables. El Instituto de Estudios Judiciales podrá prestar sus servicios a fiscalías, defensorías públicas, organismos de protección de los derechos humanos, instituciones de seguridad pública y al público en general."
+    },
+    {
+      "id": "035.p31",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 35 › Apartado E › párrafo 31",
       "texto": "EI servicio de defensoría pública en asuntos del fuero común será proporcionado por el Instituto de Defensoría Pública, en los términos que establezcan las disposiciones aplicables. El Instituto de Estudios Judiciales será el encargado de capacitar a las y los defensores públicos, así como de llevar a cabo los concursos de oposición.",
       "reformas": [
         {
@@ -1094,12 +1103,12 @@
       "texto": "3. El Pleno del Órgano de Administración Judicial se integrará por cinco personas que durarán en su encargo seis años improrrogables, de las cuales una será designada por el Poder Ejecutivo, por conducto de la persona titular de la Jefatura de Gobierno; uno por el Congreso de la Ciudad de México mediante votación calificada de dos tercios de sus integrantes presentes; y tres por el Tribunal Superior de Justicia, mediante votación calificada de dos tercios de sus integrantes presentes. La presidencia del Órgano durará dos años y será rotatoria, en términos de lo que establezcan las leyes."
     },
     {
-      "id": "035.p31",
+      "id": "035.p32",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "E",
       "fraccion": "",
-      "ruta": "Artículo 35 › Apartado E › párrafo 31",
+      "ruta": "Artículo 35 › Apartado E › párrafo 32",
       "texto": "Derogado.",
       "reformas": [
         {
@@ -1201,12 +1210,12 @@
       "texto": "9. En el ámbito del Poder Judicial de la Ciudad de México, no podrán crearse ni mantenerse en operación fondos, fideicomisos, mandatos o contratos análogos que no estén previstos en la ley."
     },
     {
-      "id": "035.p32",
+      "id": "035.p33",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "E",
       "fraccion": "",
-      "ruta": "Artículo 35 › Apartado E › párrafo 32",
+      "ruta": "Artículo 35 › Apartado E › párrafo 33",
       "texto": "Derogado",
       "reformas": [
         {
@@ -1254,15 +1263,24 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 35 › Apartado F",
-      "texto": "F. Instituto de Servicios Periciales y Ciencias Forenses Es un órgano dependiente de la Presidencia del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México, especializado en la prestación de servicios periciales y forenses. La ley regulará su organización y funcionamiento. Contará con un consejo técnico que coadyuvará en el debido funcionamiento y el ejercicio de las atribuciones del propio Instituto, cuya integración y facultades estarán previstas en la ley."
+      "texto": "F. Instituto de Servicios Periciales y Ciencias Forenses"
     },
     {
-      "id": "035.p33",
+      "id": "035.p34",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "F",
       "fraccion": "",
-      "ruta": "Artículo 35 › Apartado F › párrafo 33",
+      "ruta": "Artículo 35 › Apartado F › párrafo 34",
+      "texto": "Es un órgano dependiente de la Presidencia del Tribunal Superior de Justicia del Poder Judicial de la Ciudad de México, especializado en la prestación de servicios periciales y forenses. La ley regulará su organización y funcionamiento. Contará con un consejo técnico que coadyuvará en el debido funcionamiento y el ejercicio de las atribuciones del propio Instituto, cuya integración y facultades estarán previstas en la ley."
+    },
+    {
+      "id": "035.p35",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 35 › Apartado F › párrafo 35",
       "texto": "En el ejercicio de sus funciones deberá garantizar la objetividad e imparcialidad de los dictámenes que emita, de conformidad con las leyes y los estándares nacionales e internacionales en la materia."
     },
     {
@@ -1319,21 +1337,21 @@
       "texto": "4. El Tribunal de Disciplina Judicial funcionará en comisiones y en Pleno, el cual será la autoridad sustanciadora."
     },
     {
-      "id": "035.p34",
+      "id": "035.p36",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "G",
       "fraccion": "",
-      "ruta": "Artículo 35 › Apartado G › párrafo 34",
+      "ruta": "Artículo 35 › Apartado G › párrafo 36",
       "texto": "El Tribunal conducirá sus investigaciones a través de una unidad responsable de integrar y presentar a sus comisiones los informes de probable responsabilidad, recolectar indicios y medios de prueba, requerir información y documentación, realizar inspecciones, llamar a comparecer y apercibir a personas que aporten elementos de prueba, solicitar medidas cautelares y de apremio para el desarrollo de sus investigaciones, entre otras que determinen las leyes."
     },
     {
-      "id": "035.p35",
+      "id": "035.p37",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "G",
       "fraccion": "",
-      "ruta": "Artículo 35 › Apartado G › párrafo 35",
+      "ruta": "Artículo 35 › Apartado G › párrafo 37",
       "texto": "Las sanciones que emita el Tribunal podrán incluir la amonestación, suspensión, sanción económica, destitución e inhabilitación de las personas servidoras públicas. EI Tribunal podrá dar vista al Ministerio Público ante la posible comisión de delitos.",
       "reformas": [
         {
@@ -1399,12 +1417,12 @@
       "texto": "8. Las Magistradas y los Magistrados del Tribunal de Disciplina ejercerán su función con independencia e imparcialidad. Durante su encargo, sólo podrán ser removidos en los términos del Título Cuarto de la Constitución general o del Título Sexto de esta Constitución."
     },
     {
-      "id": "035.p36",
+      "id": "035.p38",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "G",
       "fraccion": "",
-      "ruta": "Artículo 35 › Apartado G › párrafo 36",
+      "ruta": "Artículo 35 › Apartado G › párrafo 38",
       "texto": "Cualquier persona o autoridad podrá denunciar ante el Tribunal de Disciplina Judicial hechos que pudieran ser objeto de responsabilidad administrativa o penal cometidos por alguna persona servidora pública del Poder Judicial, incluyendo magistrados y jueces, a efecto de que investigue y, en su caso, sancione la conducta denunciada. El Tribunal de Disciplina Judicial conducirá y sustanciará sus procedimientos de manera pronta, completa, expedita e imparcial, conforme al procedimiento que establezca la ley."
     }
   ]

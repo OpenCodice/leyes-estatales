@@ -291,7 +291,16 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 59 › Apartado C",
-      "texto": "C. Derechos de participación política Los pueblos y barrios originarios y comunidades indígenas residentes tienen derecho a participar plenamente en la vida política, económica, social y cultural de la Ciudad de México. Para ello se implementarán las siguientes medidas especiales:"
+      "texto": "C. Derechos de participación política"
+    },
+    {
+      "id": "059.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 59 › Apartado C › párrafo 3",
+      "texto": "Los pueblos y barrios originarios y comunidades indígenas residentes tienen derecho a participar plenamente en la vida política, económica, social y cultural de la Ciudad de México. Para ello se implementarán las siguientes medidas especiales:"
     },
     {
       "id": "059.C.1",
@@ -363,7 +372,16 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 59 › Apartado E",
-      "texto": "E. Derechos culturales Los pueblos y barrios originarios y comunidades indígenas residentes, tienen derecho a preservar, revitalizar, utilizar, fomentar, mantener y transmitir sus historias, lenguas, tradiciones, filosofías, sistemas de escritura y literaturas, y a atribuir nombres a sus comunidades, lugares y personas. Así mismo, tienen derecho a mantener, administrar, proteger y desarrollar su patrimonio cultural, sus conocimientos tradicionales, sus ciencias, tecnologías, comprendidos los recursos humanos, las semillas y formas de conocimiento de las propiedades de la fauna y la flora, así como la danza y los juegos tradicionales, con respeto a las normas de protección animal."
+      "texto": "E. Derechos culturales"
+    },
+    {
+      "id": "059.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 59 › Apartado E › párrafo 4",
+      "texto": "Los pueblos y barrios originarios y comunidades indígenas residentes, tienen derecho a preservar, revitalizar, utilizar, fomentar, mantener y transmitir sus historias, lenguas, tradiciones, filosofías, sistemas de escritura y literaturas, y a atribuir nombres a sus comunidades, lugares y personas. Así mismo, tienen derecho a mantener, administrar, proteger y desarrollar su patrimonio cultural, sus conocimientos tradicionales, sus ciencias, tecnologías, comprendidos los recursos humanos, las semillas y formas de conocimiento de las propiedades de la fauna y la flora, así como la danza y los juegos tradicionales, con respeto a las normas de protección animal."
     },
     {
       "id": "059.F",
@@ -384,12 +402,12 @@
       "texto": "1. Los pueblos y barrios originarios y comunidades indígenas residentes tienen derecho a mantener y desarrollar sus sistemas o instituciones políticas, económicas y sociales; a disfrutar de forma segura de sus propios medios de subsistencia y desarrollo; a dedicarse a sus actividades económicas tradicionales y a expresar libremente su identidad cultural, creencias religiosas, rituales, prácticas, costumbres y su propia cosmovisión."
     },
     {
-      "id": "059.p3",
+      "id": "059.p5",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "F",
       "fraccion": "",
-      "ruta": "Artículo 59 › Apartado F › párrafo 3",
+      "ruta": "Artículo 59 › Apartado F › párrafo 5",
       "texto": "La administración y cuidado de los panteones comunitarios es facultad y responsabilidad de los pueblos y barrios originarios."
     },
     {
@@ -753,12 +771,12 @@
       "texto": "M. Órgano de implementación Se constituye un organismo público para cumplir con las disposiciones que se establecen en esta Constitución para los pueblos y barrios originarios y comunidades indígenas residentes de la Ciudad de México con personalidad jurídica y patrimonio propio. Concurrirán a este organismo los representantes de los pueblos a través de un Consejo cuya función esencial es la implementación de las políticas para garantizar el ejercicio de su autonomía; se encargará además del diseño de las políticas públicas con respecto a las comunidades indígenas residentes y población indígena en general."
     },
     {
-      "id": "059.p4",
+      "id": "059.p6",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "M",
       "fraccion": "",
-      "ruta": "Artículo 59 › Apartado M › párrafo 4",
+      "ruta": "Artículo 59 › Apartado M › párrafo 6",
       "texto": "Sus funciones y operación se determinarán en su ley orgánica."
     }
   ]
