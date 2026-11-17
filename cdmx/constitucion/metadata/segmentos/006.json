@@ -3,7 +3,14 @@
   "etiqueta": "Artículo 6",
   "titulo": "TÍTULO SEGUNDO",
   "capitulo": "CAPÍTULO II",
-  "reformas_articulo": [],
+  "reformas_articulo": [
+    {
+      "nota": "Artículo reformado G.O. CDMX 23/07/26",
+      "fechas": [
+        "2026-07-23"
+      ]
+    }
+  ],
   "bloques": [
     {
       "id": "006.p1",
@@ -12,7 +19,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 6 › párrafo 1",
-      "texto": "Ciudad de libertades y derechos"
+      "texto": "CIUDAD DE LIBERTADES Y DERECHOS"
     },
     {
       "id": "006.A",
@@ -132,6 +139,15 @@
       "texto": "E. Derechos sexuales Toda persona tiene derecho a la sexualidad; a decidir sobre la misma y con quién compartirla; a ejercerla de forma libre, responsable e informada, sin discriminación, con respeto a la preferencia sexual, la orientación sexual, la identidad de género, la expresión de género y las características sexuales, sin coerción o violencia; así como a la educación en sexualidad y servicios de salud integrales, con información completa, científica, no estereotipada, diversa y laica. Se respetará la autonomía progresiva de niñas, niños y adolescentes."
     },
     {
+      "id": "006.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado E › párrafo 2",
+      "texto": "Todas las niñas, mujeres y personas menstruantes tienen derecho a desarrollar el proceso biológico de la menstruación en condiciones dignas, seguras e informadas, libre de toda violencia y discriminación motivadas por el género y los estereotipos. Las autoridades fomentarán de forma progresiva y armónica el ejercicio de este derecho."
+    },
+    {
       "id": "006.F",
       "tipo": "apartado",
       "marca": "F",
@@ -193,6 +209,15 @@
       "fraccion": "",
       "ruta": "Artículo 6 › Apartado H",
       "texto": "H. Acceso a la justicia Toda persona tiene derecho a acceder a la justicia, a la tutela judicial efectiva y al debido proceso, así como a la defensa y asistencia jurídica gratuitas y de calidad en todo proceso jurisdiccional, en los términos que establezca la ley."
+    },
+    {
+      "id": "006.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "H",
+      "fraccion": "",
+      "ruta": "Artículo 6 › Apartado H › párrafo 3",
+      "texto": "Los órganos de impartición de justicia implementarán los mecanismos que permitan el derecho de acceso a la justicia, mediante el uso de las tecnologías de la información y comunicación, a efecto de tramitar los procesos jurisdiccionales en todas sus instancias de manera alternativa y adicional a su tramitación escrita, de acuerdo con su naturaleza y formalidades esenciales. Para ello, todos los órganos jurisdiccionales contarán con un Sistema de Justicia Electrónica, que garantice la interoperabilidad e interconexión entre los sistemas que utilicen, en los términos que señalen esta Constitución y las leyes."
     },
     {
       "id": "006.H.I",

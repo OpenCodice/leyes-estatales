@@ -12,7 +12,27 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 27 › párrafo 1",
-      "texto": "Democracia representativa"
+      "texto": "DEMOCRACIA REPRESENTATIVA",
+      "reformas": [
+        {
+          "nota": "Numeral reformado G.O. CDMX 23/12/24",
+          "fechas": [
+            "2024-12-23"
+          ]
+        },
+        {
+          "nota": "Párrafo adicionado G.O. CDMX 24/11/23",
+          "fechas": [
+            "2023-11-24"
+          ]
+        },
+        {
+          "nota": "Numeral reformado G.O. CDMX 23/12/24",
+          "fechas": [
+            "2024-12-23"
+          ]
+        }
+      ]
     },
     {
       "id": "027.A",
@@ -111,7 +131,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 27 › Apartado B › 5.",
-      "texto": "5. En las elecciones locales podrán participar los partidos políticos nacionales, así como los locales que obtengan el registro correspondiente en la ciudad, de conformidad con lo previsto por la ley."
+      "texto": "5. En las elecciones locales podrán participar los partidos políticos nacionales, así como los locales que obtengan el registro correspondiente en la ciudad, de conformidad con lo previsto por la ley, a excepción de la elección correspondiente de las personas titulares de magistraturas y juzgados del Poder Judicial local."
     },
     {
       "id": "027.B.6",
@@ -138,7 +158,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 27 › Apartado B › Fracción I",
-      "texto": "I. El contenido mínimo de los documentos básicos que rijan la vida interna de los partidos políticos locales y garantizará que estos sean democráticos, respeten los derechos de las y los militantes, candidatos y ciudadanos y contribuyan a la difusión de la cultura cívica democrática;"
+      "texto": "I. El contenido mínimo de los documentos básicos que rijan la vida interna de los partidos políticos locales y garantizará que estos sean democráticos, respeten los derechos de las y los militantes, candidatos y ciudadanos y contribuyan a la difusión de la cultura cívica democrática;\n\nAsimismo, deberá establecer los mecanismos necesarios para que los partidos políticos garanticen la prevención, atención, sanción y erradicación de la violencia política en razón de género en sus procedimientos;"
     },
     {
       "id": "027.B.II",
@@ -282,7 +302,24 @@
       "apartado": "D",
       "fraccion": "",
       "ruta": "Artículo 27 › Apartado D › 1.",
-      "texto": "1. La ley contará con un sistema de nulidades a través del cual se determinarán las causales que generarán la invalidez de elecciones de la Jefatura de Gobierno, diputaciones locales y alcaldías, así como de los procesos de participación ciudadana en la Ciudad de México."
+      "texto": "1. La ley contará con un sistema de nulidades a través del cual se determinarán las causales que generarán la invalidez de elecciones de la Jefatura de Gobierno, diputaciones locales, así como personas titulares de Magistraturas y Juzgados y alcaldías, así como de los procesos de participación ciudadana en la Ciudad de México."
+    },
+    {
+      "id": "027.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 27 › Apartado D › párrafo 2",
+      "texto": "Sin perjuicio de las demás causales previstas en la ley de la materia, será nula la elección en que se acrediten actos de intervención o injerencia extranjera que influyan en los resultados electorales.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado G.O. CDMX 05/06/26",
+          "fechas": [
+            "2026-06-05"
+          ]
+        }
+      ]
     },
     {
       "id": "027.D.2",
@@ -312,12 +349,12 @@
       "texto": "4. En los casos de faltas graves, las y los candidatos responsables serán sancionados con la cancelación de la candidatura por la autoridad electoral competente."
     },
     {
-      "id": "027.p2",
+      "id": "027.p3",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "D",
       "fraccion": "",
-      "ruta": "Artículo 27 › Apartado D › párrafo 2",
+      "ruta": "Artículo 27 › Apartado D › párrafo 3",
       "texto": "Además, los partidos políticos, ciudadanos y ciudadanas, militantes y personas servidoras públicas involucrados serán sancionados de conformidad con lo que establezcan las leyes."
     },
     {

@@ -12,7 +12,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 15 › párrafo 1",
-      "texto": "De los instrumentos de la planeación del desarrollo"
+      "texto": "DE LOS INSTRUMENTOS DE LA PLANEACIÓN DEL DESARROLLO"
     },
     {
       "id": "015.A",
@@ -147,16 +147,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 15 › Apartado B › 3.",
-      "texto": "3. El Plan General de Desarrollo de la Ciudad será elaborado por el Instituto de Planeación Democrática y Prospectiva. Para su aprobación, será enviado por la o el Jefe de Gobierno al Congreso, el cual deberá resolver en un periodo no mayor a seis meses posteriores a su presentación; trascurrido este plazo sin resolución, se considerará aprobado. Su vigencia será de veinte años y podrá ser modificado conforme a los procedimientos previstos para su aprobación."
-    },
-    {
-      "id": "015.p5",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "B",
-      "fraccion": "",
-      "ruta": "Artículo 15 › Apartado B › párrafo 5",
-      "texto": "La ley contendrá las sanciones por el incumplimiento en su aplicación."
+      "texto": "3. El Plan General de Desarrollo de la Ciudad será elaborado por el Instituto de Planeación Democrática y Prospectiva. Para su aprobación, será enviado por la o el Jefe de Gobierno al Congreso, el cual deberá resolver en un periodo no mayor a seis meses posteriores a su presentación; trascurrido este plazo sin resolución, se considerará aprobado. Su vigencia será de veinte años y podrá ser modificado conforme a los procedimientos previstos para su aprobación. La ley contendrá las sanciones por el incumplimiento en su aplicación."
     },
     {
       "id": "015.B.4",
@@ -282,7 +273,15 @@
       "apartado": "D",
       "fraccion": "",
       "ruta": "Artículo 15 › Apartado D › inciso a)",
-      "texto": "a) La Junta de Gobierno será el órgano rector del Instituto, de carácter plural e interdisciplinario, que se integrará por la o el Jefe de Gobierno, en carácter de presidente, cinco representantes del gabinete, tres representantes del Cabildo de la Ciudad de México y siete consejeras y consejeros ciudadanos;"
+      "texto": "a) La Junta de Gobierno será el Órgano rector del Instituto, de carácter plural e interdisciplinario, que se integrará por la o el Jefe de Gobierno, en carácter de presidente, siete representantes del gabinete, tres representantes del Cabildo de la Ciudad de México, siete consejeras y consejeros ciudadanos;",
+      "reformas": [
+        {
+          "nota": "Inciso reformado G.O. CDMX 27/08/25",
+          "fechas": [
+            "2025-08-27"
+          ]
+        }
+      ]
     },
     {
       "id": "015.D.b",
@@ -321,12 +320,12 @@
       "texto": "4. Las y los ciudadanos que integren la Junta de Gobierno y del Directorio Técnico deberán gozar de buena reputación y contar con reconocido mérito y trayectoria profesional y pública, en las materias relacionadas con la planeación del desarrollo."
     },
     {
-      "id": "015.p6",
+      "id": "015.p5",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "D",
       "fraccion": "",
-      "ruta": "Artículo 15 › Apartado D › párrafo 6",
+      "ruta": "Artículo 15 › Apartado D › párrafo 5",
       "texto": "Las y los ciudadanos que integren la Junta de Gobierno, el Directorio Técnico y el Consejo Ciudadano serán designados, de forma escalonada, por un comité técnico de selección integrado por once personalidades con fama pública de probidad y solvencia profesional en las materias de relevancia para la sustentabilidad."
     },
     {

@@ -12,7 +12,15 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 29 › párrafo 1",
-      "texto": "Del Congreso de la Ciudad"
+      "texto": "DEL CONGRESO DE LA CIUDAD",
+      "reformas": [
+        {
+          "nota": "Numeral reformado G.O. CDMX 05/06/26",
+          "fechas": [
+            "2026-06-05"
+          ]
+        }
+      ]
     },
     {
       "id": "029.A",
@@ -39,7 +47,7 @@
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 29 › Apartado A › 2.",
-      "texto": "2. El Congreso de la Ciudad de México se integrará por 66 diputaciones, 33 electas según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, y 33 según el principio de representación proporcional. Las diputaciones serán electas en su totalidad cada tres años, mediante el voto universal, libre y secreto. Por cada persona propietaria se elegirá una suplente del mismo género."
+      "texto": "2. El Congreso de la Ciudad de México se integrará por 66 diputaciones, 33 electas según el principio de mayoría relativa, mediante el sistema de distritos electorales uninominales, una diputación electa por el principio de mayoría relativa mediante el voto de las ciudadanas y ciudadanos originarios de la Ciudad de México residentes en el extranjero; y 32 diputadas y diputados electos según el principio de representación proporcional. Las diputaciones serán electas en su totalidad cada tres años, mediante el voto universal, libre y secreto. Por cada persona propietaria se elegirá una suplente del mismo género."
     },
     {
       "id": "029.A.3",
@@ -48,7 +56,7 @@
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 29 › Apartado A › 3.",
-      "texto": "3. En la integración del Congreso de la Ciudad de México, la ley electoral determinará los mecanismos para cumplir con el principio de paridad de género."
+      "texto": "3. En la integración del Congreso de la Ciudad de México, la ley electoral determinará los mecanismos para cumplir con el principio de paridad de género, igualdad sustantiva y perspectiva de género."
     },
     {
       "id": "029.A.4",
@@ -93,7 +101,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 29 › Apartado B › 1.",
-      "texto": "1. La elección, asignación, convocatoria a elección extraordinaria y sustitución de vacantes de las diputaciones se sujetará a lo establecido en la ley aplicable. En la asignación por el principio de representación proporcional, los partidos políticos registrarán una lista parcial de diecisiete fórmulas de candidatas y candidatos por el principio de representación proporcional, lista \"A\". Los otros diecisiete espacios de la lista de representación proporcional, lista \"B\", serán ocupadas de conformidad con el procedimiento que contemple la ley."
+      "texto": "1. La elección, asignación, convocatoria a elección extraordinaria y sustitución de vacantes de las diputaciones se sujetará a lo establecido en la ley aplicable. En la asignación por el principio de representación proporcional, los partidos políticos registrarán una lista parcial de diecisiete fórmulas de candidatas y candidatos por el principio de representación proporcional, lista “A”. Los otros diecisiete espacios de la lista de representación proporcional, lista “B”, serán ocupadas de conformidad con el procedimiento que contemple la ley."
     },
     {
       "id": "029.B.2",
@@ -138,7 +146,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 29 › Apartado B › 3.",
-      "texto": "3. Las y los diputados al Congreso de la Ciudad de México podrán ser reelectos PARA UN SÓLO PERÍODO CONSECUTIVO. La postulación deberá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Quienes hubieren accedido al Congreso por la vía de candidaturas sin partido deberán conservar esta calidad para poder ser reelectos."
+      "texto": "3. Las y los diputados al Congreso de la Ciudad de México podrán ser reelectos para un sólo período consecutivo. La postulación deberá ser realizada por el mismo partido o por cualquiera de los partidos integrantes de la coalición que los hubieren postulado, salvo que hayan renunciado o perdido su militancia antes de la mitad de su mandato. Quienes hubieren accedido al Congreso por la vía de candidaturas sin partido deberán conservar esta calidad para poder ser reelectos."
     },
     {
       "id": "029.B.4",
@@ -192,7 +200,7 @@
       "apartado": "C",
       "fraccion": "",
       "ruta": "Artículo 29 › Apartado C › inciso c)",
-      "texto": "c) Ser originario o contar con al menos dos años de vecindad efectiva en la Ciudad, anteriores al día de la elección. La residencia no se interrumpe por haber ocupado cargos públicos fuera de la entidad;"
+      "texto": "c) Ser originario o contar con al menos dos años de vecindad efectiva en la Ciudad, anteriores al día de la elección, salvo en el caso de candidaturas de las personas originarias de la Ciudad de México residentes en el extranjero. La residencia no se interrumpe por haber ocupado cargos públicos fuera de la entidad;"
     },
     {
       "id": "029.C.d",
@@ -210,7 +218,15 @@
       "apartado": "C",
       "fraccion": "",
       "ruta": "Artículo 29 › Apartado C › inciso e)",
-      "texto": "e) No ser titular de alguna Secretaría o Subsecretaría de Estado, de la Fiscalía General de la República, ni ministra o ministro de la Suprema Corte de Justicia de la Nación o integrante del Consejo de la Judicatura Federal, a menos que se haya separado definitivamente de sus funciones al menos 120 días antes de la jornada electoral local correspondiente o dos años antes en el caso de los y las ministros e integrantes del Consejo de (sic) Judicatura Federal;"
+      "texto": "e) No ser secretario, subsecretario de Estado, Fiscal General de la República a menos que se separe de sus funciones 120 días antes de la jornada electoral. No ser ministro de la Suprema Corte de Justicia de la Nación, integrante del Tribunal de Disciplina Judicial o del órgano de administración del Poder Judicial de la Federación, salvo que se hubiere separado de su cargo, de manera definitiva, dos años antes del día la elección.",
+      "reformas": [
+        {
+          "nota": "inciso reformado G.O. CDMX 23/12/24",
+          "fechas": [
+            "2024-12-23"
+          ]
+        }
+      ]
     },
     {
       "id": "029.C.f",
@@ -228,7 +244,15 @@
       "apartado": "C",
       "fraccion": "",
       "ruta": "Artículo 29 › Apartado C › inciso g)",
-      "texto": "g) No ser magistrada o magistrado del Poder Judicial, del Tribunal de Justicia Administrativa, consejera o consejero de la Judicatura de la Ciudad de México, a menos que se haya separado definitivamente de sus funciones antes del inicio del proceso electoral local correspondiente;"
+      "texto": "g) No ser magistrada o magistrado del Poder Judicial, del Tribunal de Justicia Administrativa o integrante del Órgano de Administración o del Tribunal de Disciplina Judicial de la Ciudad de México, a menos que se haya separado definitivamente de sus funciones antes del inicio del proceso electoral local correspondiente;",
+      "reformas": [
+        {
+          "nota": "Inciso reformado G.O. CDMX 23/12/24",
+          "fechas": [
+            "2024-12-23"
+          ]
+        }
+      ]
     },
     {
       "id": "029.C.h",
@@ -381,7 +405,15 @@
       "apartado": "D",
       "fraccion": "",
       "ruta": "Artículo 29 › Apartado D › inciso m)",
-      "texto": "m) Aprobar su presupuesto sujetándose a las disposiciones de austeridad y políticas de racionalidad del gasto público que establezca la ley. El monto anual no podrá ser mayor al cero punto ocho por ciento del Presupuesto de Egresos de la Ciudad; y el incremento del presupuesto anual que solicite y apruebe, no podrá ser superior a la inflación del ejercicio que concluye, de conformidad con los datos que publique la autoridad competente;"
+      "texto": "m) Aprobar su presupuesto sujetándose a las disposiciones de austeridad y políticas de racionalidad del gasto público que establezca la ley. El monto anual no podrá ser mayor al cero punto setenta por ciento del Presupuesto de Egresos de la Ciudad; y el incremento del presupuesto anual que solicite y apruebe, no podrá ser superior a la inflación del ejercicio que concluye, de conformidad con los datos que publique la autoridad competente;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada G.O. CDMX 05/06/26",
+          "fechas": [
+            "2026-06-05"
+          ]
+        }
+      ]
     },
     {
       "id": "029.D.n",
@@ -426,7 +458,107 @@
       "apartado": "D",
       "fraccion": "",
       "ruta": "Artículo 29 › Apartado D › inciso r)",
-      "texto": "r) Las demás que establezcan esta Constitución y las leyes."
+      "texto": "r) Con relación a la elección de personas titulares de magistraturas y juzgados integrantes del Poder Judicial de la Ciudad de México:"
+    },
+    {
+      "id": "029.D.I",
+      "tipo": "fraccion",
+      "marca": "I",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 29 › Apartado D › Fracción I",
+      "texto": "I. Nombrar por el voto de las dos terceras partes de los miembros presentes, a una persona integrante del órgano de administración del poder judicial;"
+    },
+    {
+      "id": "029.D.II",
+      "tipo": "fraccion",
+      "marca": "II",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 29 › Apartado D › Fracción II",
+      "texto": "II. Publicar la convocatoria para la integración del listado de candidaturas a más tardar el 30 de abril del año anterior al de la elección judicial que corresponda, que contendrá las etapas completas del procedimiento, sus fechas, plazos prorrogables y los cargos a elegir. La Presidencia del Órgano de Administración Judicial hará del conocimiento del Congreso de la Ciudad de México los cargos sujetos a elección, la especialización por materia y demás información que se requiera;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada G.O. CDMX 8/10/26",
+          "fechas": [
+            "2026-10-08"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "029.D.III",
+      "tipo": "fraccion",
+      "marca": "III",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 29 › Apartado D › Fracción III",
+      "texto": "III. Integrar el Comité de Evaluación del Poder Legislativo en términos de lo previsto por esta Constitución;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada G.O. CDMX 8/10/26",
+          "fechas": [
+            "2026-10-08"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "029.D.IV",
+      "tipo": "fraccion",
+      "marca": "IV",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 29 › Apartado D › Fracción IV",
+      "texto": "IV. Recibir las candidaturas de los Poderes Ejecutivo y Judicial e integrar las del Poder Legislativo y remitirlas al Instituto Electoral de la Ciudad de México en los plazos que refiera la convocatoria; y",
+      "reformas": [
+        {
+          "nota": "Fracción reformada G.O. CDMX 8/10/26",
+          "fechas": [
+            "2026-10-08"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "029.D.V",
+      "tipo": "fraccion",
+      "marca": "V",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 29 › Apartado D › Fracción V",
+      "texto": "V. Otorgar o negar las solicitudes de licencia o separación definitiva de las personas juzgadoras del Poder Judicial en los términos que establezcan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes aplicables;",
+      "reformas": [
+        {
+          "nota": "Fracción reformada G.O. CDMX 8/10/26",
+          "fechas": [
+            "2026-10-08"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "029.D.V.s",
+      "tipo": "inciso",
+      "marca": "s",
+      "apartado": "D",
+      "fraccion": "V",
+      "ruta": "Artículo 29 › Apartado D › Fracción V › inciso s)",
+      "texto": "s) Las demás que establezcan esta Constitución y las leyes.",
+      "reformas": [
+        {
+          "nota": "Inciso reformado G.O. CDMX 23/12/24",
+          "fechas": [
+            "2024-12-23"
+          ]
+        },
+        {
+          "nota": "Inciso adicionado G.O. CDMX 23/12/24",
+          "fechas": [
+            "2024-12-23"
+          ]
+        }
+      ]
     },
     {
       "id": "029.E",
@@ -462,7 +594,7 @@
       "apartado": "E",
       "fraccion": "",
       "ruta": "Artículo 29 › Apartado E › 3.",
-      "texto": "3. El Congreso de la Ciudad de México contará con una mesa directiva y un órgano de coordinación política que reflejarán en su composición la pluralidad y proporción de los grupos parlamentarios que integren al pleno. Sus presidencias serán rotativas cada año y no podrán depositarse simultáneamente en representantes de (sic) mismo partido político. En ningún caso se podrán desempeñar cargos en el órgano de coordinación política y en la mesa directiva al mismo tiempo."
+      "texto": "3. El Congreso de la Ciudad de México contará con una mesa directiva y un órgano de coordinación política que reflejarán en su composición la pluralidad y proporción de los grupos parlamentarios que integren al pleno. Sus presidencias serán rotativas cada año y no podrán depositarse simultáneamente en representantes de mismo partido político. En ningún caso se podrán desempeñar cargos en el órgano de coordinación política y en la mesa directiva al mismo tiempo."
     },
     {
       "id": "029.E.4",
@@ -489,16 +621,7 @@
       "apartado": "E",
       "fraccion": "",
       "ruta": "Artículo 29 › Apartado E › 6.",
-      "texto": "6. El Congreso de la Ciudad de México contará con una contraloría interna que ejercerá sus funciones en el marco del Sistema Anticorrupción nacional y local. La persona titular de la contraloría interna será nombrada por las dos terceras partes de las y los integrantes del Congreso de entre una terna propuesta por el Comité de Participación Ciudadana del Sistema Anticorrupción."
-    },
-    {
-      "id": "029.p2",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "E",
-      "fraccion": "",
-      "ruta": "Artículo 29 › Apartado E › párrafo 2",
-      "texto": "En caso de que el Congreso de la Ciudad de México rechace la totalidad de la terna propuesta, el Comité someterá una nueva dentro de los treinta días siguientes. Si esta segunda terna fuera rechazada, ocupará el cargo la persona que, dentro de dicha terna, sea designada por insaculación de entre las y los integrantes de esta segunda terna."
+      "texto": "6. El Congreso de la Ciudad de México contará con una contraloría interna que ejercerá sus funciones en el marco del Sistema Anticorrupción nacional y local. La persona titular de la contraloría interna será nombrada por las dos terceras partes de las y los integrantes del Congreso de entre una terna propuesta por el Comité de Participación Ciudadana del Sistema Anticorrupción. En caso de que el Congreso de la Ciudad de México rechace la totalidad de la terna propuesta, el Comité someterá una nueva dentro de los treinta días siguientes. Si esta segunda terna fuera rechazada, ocupará el cargo la persona que, dentro de dicha terna, sea designada por insaculación de entre las y los integrantes de esta segunda terna."
     },
     {
       "id": "029.E.7",
