@@ -1,6 +1,6 @@
 # Artículo 226 Quinquies
 
-- El delito de abigeato se considera calificado y se aumentará la pena hasta en una mitad, cuando:
+El delito de abigeato se considera calificado y se aumentará la pena hasta en una mitad, cuando:
 
 I. Sea cometido por quien tenga una relación laboral, o de parentesco por consanguinidad o afinidad hasta el cuarto grado con el propietario del ganado;
 
