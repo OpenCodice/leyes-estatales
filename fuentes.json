@@ -214,7 +214,7 @@
       "indice": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/busquedasleyes/Listado'2.cfm",
       "url": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/legislacion/C%C3%B3digos/Documentos_PDF-C%C3%B3digos/C%C3%B3digo%20Civil%20del%20Estado%20de%20Jalisco-240626.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 561: el párrafo se parte a media oración: «…lo dispuesto por el artículo» / «406. Para tal efecto…»; en el PDF es un solo párrafo; 566: el encabezado estructural «TÍTULO SEPTIMO De Niñas, Niños y Adolescentes» quedó pegado al final de la fracción V (último párrafo); 1441: la «y» final de la fracción II (pág. 155-165, renglón envuelto) quedó como párrafo aparte; el PDF la trae al final de «…más breve; y»; 1477: la «y» final de la fracción I quedó como párrafo aparte en vez de seguir a «…por cuenta del acreedor;»; 1488: «Artículos 1535 y / 1536.» partido en dos párrafos; es un solo párrafo envuelto en el PDF (y 14 más)",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 002: párrafos unidos: en el PDF (pág. 1) «…serán ley supletoria de toda la Legislación Estatal.» y «Cuando en este código o en otras leyes del Estado se use el genérico masculino…» son párrafos distintos (; 020: fracciones unidas: en el PDF (pág. 3) «I. Hay capacidad de goce … y» y «II. Hay capacidad de ejercicio …» son párrafos separados; el extracto pone la fracción II dentro del párrafo de la fracción I.; 182: párrafos unidos: en el PDF (pág. 20) «…la inaplicabilidad a su persona de los acuerdos tomados en la misma.» y «La resolución que en éste caso se dicte sólo afectará…» son párrafos distintos; el extra; 199-bis: fracciones unidas: en el PDF (pág. 22) «lll. Las votaciones … asentando registro de las mismas; y» e «IV. Dejar registro audiovisual de la sesión y sus acuerdos.» son párrafos separados; el extracto p; 231-bis: fracciones unidas: en el PDF (pág. 25) «lll. Las votaciones … asentando registro de las mismas; y» e «IV. Dejar registro audiovisual de la sesión y sus acuerdos.» son párrafos separados; el extracto p (y 33 más)",
       "fecha": "2026-11-17",
       "pdf": {
         "sha256": "c0d66178910ac334c25e4870471712ce21e6c562a820d2f9cc29d4dbae26c7d2",
@@ -222,7 +222,7 @@
         "etag": "\"e19698f214dd1:0\"",
         "last_modified": "Wed, 24 Jun 2026 21:36:47 GMT"
       },
-      "extractor": "79b0d83ecb3f8cab"
+      "extractor": "780c2ba98e8725ab"
     },
     {
       "clave": "jalisco/codigo-de-asistencia-social",
@@ -425,6 +425,26 @@
       "extractor": "780c2ba98e8725ab"
     },
     {
+      "clave": "queretaro/codigo-de-etica-del-poder-legislativo",
+      "etiqueta": "Código de Ética del Poder Legislativo del Estado de Querétaro",
+      "sigla": "CEPL Qro",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Gobierno del Estado de Querétaro «La Sombra de Arteaga»",
+      "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/",
+      "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/COD-ID-03.pdf",
+      "estado": "excluida",
+      "motivo": "invariantes rotos: [queretaro/codigo-de-etica-del-poder-legislativo] sin fugas de encabezado/pie: 007.md",
+      "fecha": "2026-11-17",
+      "pdf": {
+        "sha256": "4c844a991b9a7112f426e8d6dddca87444d3392e8f237265b5f8c3030cc5eaea",
+        "bytes": 217495,
+        "etag": "\"35197-6278691c29496\"",
+        "last_modified": "Fri, 22 Nov 2024 20:53:04 GMT"
+      },
+      "extractor": "780c2ba98e8725ab"
+    },
+    {
       "clave": "queretaro/codigo-de-procedimientos-civiles",
       "etiqueta": "Código de Procedimientos Civiles del Estado de Querétaro",
       "sigla": "CPC Qro",
@@ -505,6 +525,46 @@
       "extractor": "780c2ba98e8725ab"
     },
     {
+      "clave": "queretaro/ley-organica-de-la-agencia-de-energia",
+      "etiqueta": "Ley Orgánica de la Agencia de Energía del Estado de Querétaro",
+      "sigla": "LOAE Qro",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Gobierno del Estado de Querétaro «La Sombra de Arteaga»",
+      "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
+      "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-01.pdf",
+      "estado": "excluida",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 004: la fracción II quedó partida en dos párrafos por el salto de línea del PDF: «…de la Agencia de Energía del Estado de» / «Querétaro;». Debe ser un solo párrafo.; 006: la fracción I quedó partida en dos párrafos por el salto de línea del PDF: «…del Poder Ejecutivo del» / «Estado de Querétaro para su funcionamiento;». Debe ser un solo párrafo.; 020: las fracciones III («…inherentes al objeto de la» / «Agencia, y en cumplimiento…») y VI («…cuando así se lo instruya la» / «Junta de Gobierno;») quedaron partidas en dos párrafos cada una por el salto",
+      "fecha": "2026-11-17",
+      "pdf": {
+        "sha256": "1f112e032aa6cce059ebe25345dd72872bde3e39cbeeb0ebfd1e1ec37f22faa3",
+        "bytes": 396771,
+        "etag": "\"60de3-639fa4d395d3a\"",
+        "last_modified": "Tue, 15 Jul 2025 16:31:00 GMT"
+      },
+      "extractor": "780c2ba98e8725ab"
+    },
+    {
+      "clave": "queretaro/ley-organica-de-la-escuela-normal",
+      "etiqueta": "Ley Orgánica de la Escuela Normal del Estado de Querétaro",
+      "sigla": "LOEN Qro",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Gobierno del Estado de Querétaro «La Sombra de Arteaga»",
+      "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
+      "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-02.pdf",
+      "estado": "excluida",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 023: en la fracción X, los incisos A) El Secretario Administrativo, B) El Secretario de Finanzas, C) Los Directores de las Escuelas Anexas y D) El Director del Centro de Investigaciones Educativas quedaron; 032: el encabezado estructural «C) DEL SECRETARIO DE FINANZAS» (pág. 9) quedó pegado al final del artículo 32 como último párrafo; 037: el encabezado estructural «D) DE LOS DIRECTORES» (pág. 9) quedó pegado al final del artículo 37 como último párrafo",
+      "fecha": "2026-11-17",
+      "pdf": {
+        "sha256": "c7facfea4ae5f593de1e8cf8aac23a303f64f679f32e7a6fb37f54d449151dc1",
+        "bytes": 301797,
+        "etag": "\"49ae5-6509c1fd75c83\"",
+        "last_modified": "Wed, 29 Apr 2026 16:48:59 GMT"
+      },
+      "extractor": "780c2ba98e8725ab"
+    },
+    {
       "clave": "queretaro/ley-organica-de-la-fiscalia-general",
       "etiqueta": "Ley Orgánica de la Fiscalía General del Estado de Querétaro",
       "sigla": "LOFG Qro",
@@ -521,6 +581,26 @@
         "bytes": 709877,
         "etag": "\"ad4f5-6509c2d3cd767\"",
         "last_modified": "Wed, 29 Apr 2026 16:52:44 GMT"
+      },
+      "extractor": "780c2ba98e8725ab"
+    },
+    {
+      "clave": "queretaro/ley-organica-de-la-universidad-tecnologica-de-queretaro",
+      "etiqueta": "Ley Orgánica de la Universidad Tecnológica de Querétaro",
+      "sigla": "LOUTEQ",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Gobierno del Estado de Querétaro «La Sombra de Arteaga»",
+      "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
+      "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-05.pdf",
+      "estado": "excluida",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 008: las notas de reforma «(Ref. P.O. No. No. 87, 30-IX-21)» quedaron pegadas al final del texto de las fracciones I y III, dentro del párrafo, sin separarse en su propio párrafo en cursiva (el extractor n",
+      "fecha": "2026-11-17",
+      "pdf": {
+        "sha256": "dd24864b0fe2e0192443a28305a95efa3219c482d3c0c7c2ebd867bc54506708",
+        "bytes": 201987,
+        "etag": "\"31503-639fa4ce6a921\"",
+        "last_modified": "Tue, 15 Jul 2025 16:30:55 GMT"
       },
       "extractor": "780c2ba98e8725ab"
     },
@@ -601,6 +681,26 @@
         "bytes": 338832,
         "etag": "\"52b90-639fa4d1c9dc6\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:58 GMT"
+      },
+      "extractor": "780c2ba98e8725ab"
+    },
+    {
+      "clave": "queretaro/ley-organica-del-tribunal-electoral",
+      "etiqueta": "Ley Orgánica del Tribunal Electoral del Estado de Querétaro",
+      "sigla": "LOTE Qro",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Gobierno del Estado de Querétaro «La Sombra de Arteaga»",
+      "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
+      "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-12.pdf",
+      "estado": "excluida",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 031: apartado B, fracción XV: la «y» final quedó como párrafo propio, separada de «…vacancia o impedimento;»; en el PDF (pág. 19) es continuación del mismo renglón/párrafo («impedimento; y (Ref. P. O. No. ",
+      "fecha": "2026-11-17",
+      "pdf": {
+        "sha256": "2d3921013d243e79ea5e6059c7c567997df2b3c4032862c2d2a68b60b3beb5f6",
+        "bytes": 328414,
+        "etag": "\"502de-639fa4d2ab730\"",
+        "last_modified": "Tue, 15 Jul 2025 16:30:59 GMT"
       },
       "extractor": "780c2ba98e8725ab"
     },
