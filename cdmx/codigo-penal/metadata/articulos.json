@@ -6,7 +6,7 @@
   "fuente": "https://data.consejeria.cdmx.gob.mx/index.php/leyes/codigos",
   "medio": "Gaceta Oficial de la Ciudad de México",
   "version": "2026-08-21",
-  "num_articulos": 478,
+  "num_articulos": 479,
   "articulos": [
     {
       "clave": "001",
@@ -8526,6 +8526,24 @@
       "num_reformas": 0,
       "reformas": [],
       "archivo": "cdmx/codigo-penal/articulos/356-ter.md"
+    },
+    {
+      "clave": "356-cuarter",
+      "articulo": 356,
+      "letra": "",
+      "ordinal": "Cuarter",
+      "etiqueta": "Artículo 356 Cuarter",
+      "cita": "Artículo 356 Cuarter CP CDMX",
+      "titulo": "TÍTULO VIGÉSIMO SEXTO. DELITOS CONTRA LA DEMOCRACIA ELECTORAL",
+      "capitulo": "CAPÍTULO ÚNICO. DELITOS ELECTORALES",
+      "seccion": "",
+      "epigrafe": "",
+      "contexto": "DELITOS CONTRA LA DEMOCRACIA ELECTORAL · DELITOS ELECTORALES",
+      "derogado": false,
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
+      "archivo": "cdmx/codigo-penal/articulos/356-cuarter.md"
     },
     {
       "clave": "357",
