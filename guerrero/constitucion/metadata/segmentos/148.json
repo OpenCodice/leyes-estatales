@@ -2,7 +2,7 @@
   "clave": "148",
   "etiqueta": "Artículo 148",
   "titulo": "TÍTULO NOVENO",
-  "capitulo": "CAPÍTULO VI",
+  "capitulo": "",
   "reformas_articulo": [],
   "bloques": [
     {
@@ -12,6 +12,15 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 148 › párrafo 1",
+      "texto": "(REFORMADO, P.O. EDICIÓN 68 ALCANCE II, DE FECHA MARTES 26 DE AGOSTO DE 2025)"
+    },
+    {
+      "id": "148.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 148 › párrafo 2",
       "texto": "Para ser Auditora o Auditor Superior, Consejera o Consejero del Consejo de Políticas Públicas, Magistrada o Magistrado del Tribunal de Disciplina Judicial, Persona Integrante del Pleno del Órgano de Administración Judicial o Defensora o Defensor General del Instituto de la Defensoría, se requiere cumplir los requisitos generales establecidos en el artículo 111 de esta Constitución, y los especiales que para cada uno se señalen."
     }
   ]

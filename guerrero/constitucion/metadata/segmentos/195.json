@@ -2,7 +2,7 @@
   "clave": "195",
   "etiqueta": "Artículo 195",
   "titulo": "TÍTULO DÉCIMO TERCERO",
-  "capitulo": "CAPÍTULO IV",
+  "capitulo": "",
   "reformas_articulo": [],
   "bloques": [
     {
@@ -12,7 +12,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 195 › párrafo 1",
-      "texto": "Incurren en responsabilidad política las personas servidoras públicas que en ejercicio de sus funciones realicen actos u omisiones que vulneren los principios fundamentales de la presente Constitución o infrinjan las leyes que regulan el manejo del patrimonio del Estado o de los municipios."
+      "texto": "(REFORMADO PRIMER PÁRRAFO, (SIC) P.O. EDICIÓN 68 ALCANCE II, 26 DE AGOSTO DE 2025)"
     },
     {
       "id": "195.p2",
@@ -21,6 +21,15 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 195 › párrafo 2",
+      "texto": "Incurren en responsabilidad política las personas servidoras públicas que en ejercicio de sus funciones realicen actos u omisiones que vulneren los principios fundamentales de la presente Constitución o infrinjan las leyes que regulan el manejo del patrimonio del Estado o de los municipios."
+    },
+    {
+      "id": "195.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 195 › párrafo 3",
       "texto": "Además, procederá el fincamiento de responsabilidad política por las siguientes causas graves:"
     },
     {

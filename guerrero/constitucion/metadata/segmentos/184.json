@@ -2,7 +2,7 @@
   "clave": "184",
   "etiqueta": "Artículo 184",
   "titulo": "TÍTULO DÉCIMO PRIMERO",
-  "capitulo": "CAPÍTULO IV",
+  "capitulo": "",
   "reformas_articulo": [],
   "bloques": [
     {
@@ -12,6 +12,15 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 184 › párrafo 1",
+      "texto": "(REFORMADO, P.O. No. 56 ALCANCE I, DE FECHA VIERNES 14 DE JULIO DE 2017)"
+    },
+    {
+      "id": "184.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 184 › párrafo 2",
       "texto": "La hacienda pública del Estado deberá cumplir con las exigencias de transparencia y máxima publicidad; será debidamente auditada y fiscalizada por la Auditoría Superior del Estado de Guerrero."
     }
   ]

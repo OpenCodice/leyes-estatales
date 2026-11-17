@@ -2,7 +2,7 @@
   "clave": "181",
   "etiqueta": "Artículo 181",
   "titulo": "TÍTULO DÉCIMO PRIMERO",
-  "capitulo": "CAPÍTULO IV",
+  "capitulo": "",
   "reformas_articulo": [],
   "bloques": [
     {
@@ -12,6 +12,15 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 181 › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. EDICIÓN 51 ALCANCE I, 27 DE JUNIO DE 2025) D- 828"
+    },
+    {
+      "id": "181.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 181 › párrafo 2",
       "texto": "La Hacienda Pública del Estado será administrada por la Gobernadora o Gobernador del Estado de Guerrero, en los términos que señalen las leyes respectivas."
     },
     {

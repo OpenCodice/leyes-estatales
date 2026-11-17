@@ -2,7 +2,7 @@
   "clave": "196",
   "etiqueta": "Artículo 196",
   "titulo": "TÍTULO DÉCIMO TERCERO",
-  "capitulo": "CAPÍTULO IV",
+  "capitulo": "",
   "reformas_articulo": [],
   "bloques": [
     {
@@ -12,6 +12,15 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 196 › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. EDICIÓN 51 ALCANCE I, VIERNES 27 DE JUNIO DE 2025) DECRETO 828"
+    },
+    {
+      "id": "196.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 196 › párrafo 2",
       "texto": "Incurren en responsabilidad penal las y los servidores públicos que en el ejercicio de sus funciones realicen actos u omisiones tipificados como delitos."
     },
     {
@@ -24,12 +33,12 @@
       "texto": "1. Son sujetos de responsabilidad penal los servidores públicos mencionados en el artículo 195.1 de esta Constitución;"
     },
     {
-      "id": "196.p2",
+      "id": "196.p3",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
       "fraccion": "",
-      "ruta": "Artículo 196 › párrafo 2",
+      "ruta": "Artículo 196 › párrafo 3",
       "texto": "(REFORMADO, P.O. EDICIÓN 51 ALCANCE I, VIERNES 27 DE JUNIO DE 2025) DECRETO 828"
     },
     {
@@ -42,12 +51,12 @@
       "texto": "2. La Gobernadora o Gobernador, durante el ejercicio de su encargo, sólo podrá ser acusado por la comisión de delitos graves del orden común previstos en el Código Penal del Estado. Por los demás delitos podrá ser acusado, conforme a esta Constitución y las leyes respectivas, al concluir su mandato;"
     },
     {
-      "id": "196.p3",
+      "id": "196.p4",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
       "fraccion": "",
-      "ruta": "Artículo 196 › párrafo 3",
+      "ruta": "Artículo 196 › párrafo 4",
       "texto": "(REFORMADO, P.O. No. 56 ALCANCE I, DE FECHA VIERNES 14 DE JULIO DE 2017)"
     },
     {

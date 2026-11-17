@@ -2,7 +2,7 @@
   "clave": "172",
   "etiqueta": "Artículo 172",
   "titulo": "TÍTULO DÉCIMO",
-  "capitulo": "CAPÍTULO IV",
+  "capitulo": "",
   "reformas_articulo": [],
   "bloques": [
     {
@@ -12,6 +12,15 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 172 › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. EDICIÓN 51 ALCANCE I, VIERNES 27 DE JUNIO DE 2025) DECRETO 828"
+    },
+    {
+      "id": "172.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 172 › párrafo 2",
       "texto": "Los Ayuntamientos se integrarán por una presidenta o presidente municipal, sindicas y síndicos y regidoras y regidores, en los términos dispuestos en la ley y abrirán válidamente sus sesiones con la mayoría de sus integrantes."
     },
     {
@@ -24,12 +33,12 @@
       "texto": "1. Satisfecho el quórum de asistencia, las resoluciones del Ayuntamiento se tomarán conforme al principio de mayoría, salvo cuando esta Constitución o la ley determinen una votación distinta;"
     },
     {
-      "id": "172.p2",
+      "id": "172.p3",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
       "fraccion": "",
-      "ruta": "Artículo 172 › párrafo 2",
+      "ruta": "Artículo 172 › párrafo 3",
       "texto": "(REFORMADO P.O. No. 81, DE FECHA VIERNES 07 DE OCTUBRE DE 2016)"
     },
     {
@@ -42,21 +51,21 @@
       "texto": "2. Con sujeción a la Ley y siempre que se reúnan los requisitos que la misma establezca, en las localidades más importantes de cada municipio, habrá comisarias municipales de elección popular directa."
     },
     {
-      "id": "172.p3",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "",
-      "fraccion": "",
-      "ruta": "Artículo 172 › párrafo 3",
-      "texto": "Los Ayuntamientos también contarán con Consejos de Participación Ciudadana, que coadyuvarán a la mejor atención de las materias de interés vecinal;"
-    },
-    {
       "id": "172.p4",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 172 › párrafo 4",
+      "texto": "Los Ayuntamientos también contarán con Consejos de Participación Ciudadana, que coadyuvarán a la mejor atención de las materias de interés vecinal;"
+    },
+    {
+      "id": "172.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 172 › párrafo 5",
       "texto": "(REFORMADO, P.O. EDICIÓN 51 ALCANCE I, VIERNES 27 DE JUNIO DE 2025) DECRETO 828"
     },
     {

@@ -2,7 +2,7 @@
   "clave": "199",
   "etiqueta": "Artículo 199",
   "titulo": "TÍTULO DÉCIMO CUARTO",
-  "capitulo": "CAPÍTULO IV",
+  "capitulo": "",
   "reformas_articulo": [],
   "bloques": [
     {
@@ -12,7 +12,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 199 › párrafo 1",
-      "texto": "El Congreso del Estado podrá reformar o adicionar la presente Constitución, así como derogar sus disposiciones, en los términos que ella misma establece."
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. EDICIÓN No. 32 ALCANCE III, 21 DE ABRIL DE 2026)"
     },
     {
       "id": "199.p2",
@@ -21,6 +21,15 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 199 › párrafo 2",
+      "texto": "El Congreso del Estado podrá reformar o adicionar la presente Constitución, así como derogar sus disposiciones, en los términos que ella misma establece."
+    },
+    {
+      "id": "199.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 199 › párrafo 3",
       "texto": "(REFORMADO, P.O. EDICIÓN No. 32 ALCANCE III, MARTES 21 DE ABRIL DE 2026)"
     },
     {
@@ -33,12 +42,12 @@
       "texto": "1. Para que las reformas, adiciones y derogaciones lleguen a ser parte de la Constitución se deberá cumplir con el siguiente procedimiento."
     },
     {
-      "id": "199.p3",
+      "id": "199.p4",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
       "fraccion": "",
-      "ruta": "Artículo 199 › párrafo 3",
+      "ruta": "Artículo 199 › párrafo 4",
       "texto": "(REFORMADA, P.O. EDICIÓN No. 32 ALCANCE III, MARTES 21 DE ABRIL DE 2026)"
     },
     {

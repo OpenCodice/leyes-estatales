@@ -2,7 +2,7 @@
   "clave": "191",
   "etiqueta": "Artículo 191",
   "titulo": "TÍTULO DÉCIMO TERCERO",
-  "capitulo": "CAPÍTULO IV",
+  "capitulo": "",
   "reformas_articulo": [],
   "bloques": [
     {
@@ -12,6 +12,15 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 191 › párrafo 1",
+      "texto": "(REFORMADO PRIMER PÁRRAFO, P.O. EDICIÓN 51 ALCANCE I, 27 DE JUNIO DE 2025) D-828"
+    },
+    {
+      "id": "191.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 191 › párrafo 2",
       "texto": "Son Servidoras y Servidores públicos del Estado las y los representantes de elección popular, las y los funcionarios, empleados y, en general, toda persona que con independencia de su jerarquía o adscripción desempeñe un empleo, cargo o comisión dentro de los poderes Legislativo, Ejecutivo y Judicial, los Ayuntamientos, los Órganos Autónomos y los Órganos con Autonomía Técnica."
     },
     {
@@ -24,12 +33,12 @@
       "texto": "1. Los servidores públicos se encuentran sujetos al siguiente régimen jurídico:"
     },
     {
-      "id": "191.p2",
+      "id": "191.p3",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
       "fraccion": "",
-      "ruta": "Artículo 191 › párrafo 2",
+      "ruta": "Artículo 191 › párrafo 3",
       "texto": "(REFORMADO, P.O. No. 10, DE FECHA VIERNES 02 DE FEBRERO DE 2018)"
     },
     {
