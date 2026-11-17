@@ -12,7 +12,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 18 › párrafo 1",
-      "texto": "Patrimonio de la Ciudad La memoria y el patrimonio histórico, cultural, inmaterial y material, natural, rural y urbano territorial son bienes comunes, por lo que su protección y conservación son de orden público e interés general."
+      "texto": "PATRIMONIO DE LA CIUDAD La memoria y el patrimonio histórico, cultural, inmaterial y material, natural, rural y urbano territorial son bienes comunes, por lo que su protección y conservación son de orden público e interés general."
     },
     {
       "id": "018.A",
@@ -60,15 +60,6 @@
       "texto": "Para la recuperación y rehabilitación del patrimonio histórico, cultural, inmaterial y material, natural, rural, urbano territorial y otros bienes culturales en uso y ocupación de particulares, se estará a lo previsto en las leyes de la materia."
     },
     {
-      "id": "018.p4",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "A",
-      "fraccion": "",
-      "ruta": "Artículo 18 › Apartado A › párrafo 4",
-      "texto": "(REFORMADO G.O. CDMX 26 DE JULIO DE 2019)"
-    },
-    {
       "id": "018.A.3",
       "tipo": "numeral",
       "marca": "3",
@@ -78,12 +69,12 @@
       "texto": "3. El Gobierno de la Ciudad y las alcaldías, en coordinación con el gobierno federal, y conforme a la ley en la materia, establecerán la obligación para el registro y catalogación del patrimonio histórico, cultural, inmaterial y material, natural, rural y urbano territorial. Esta misma ley establecerá la obligación de la preservación de todos aquellos bienes declarados como monumentos, zonas, paisajes y rutas culturales y conjuntos artísticos e históricos que se encuentren en su territorio, así como los espacios naturales y rurales con categoría de protección."
     },
     {
-      "id": "018.p5",
+      "id": "018.p4",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "A",
       "fraccion": "",
-      "ruta": "Artículo 18 › Apartado A › párrafo 5",
+      "ruta": "Artículo 18 › Apartado A › párrafo 4",
       "texto": "Existirá un fondo para que las alcaldías cuenten con recursos para uso exclusivo para la preservación, protección, conservación, revalorización, restauración, investigación y difusión del patrimonio y de los bienes a que se refiere el párrafo anterior. El Congreso de la Ciudad de México, al aprobar el Presupuesto de Egresos, establecerá el monto de los recursos que se destinará a dicho fondo."
     },
     {
@@ -120,7 +111,24 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 18 › Apartado B › 1.",
-      "texto": "1. Las autoridades de la Ciudad, en coordinación con las autoridades federales, adoptarán medidas para la conservación y gestión de los sitios declarados patrimonio de la humanidad en la Ciudad y de los susceptibles de serlo, así como de aquellas relacionadas con el patrimonio inmaterial."
+      "texto": "1. Las autoridades de la Ciudad, en coordinación con las autoridades federales, adoptarán medidas para conservación y gestión de los sitios declarados patrimonio de la humanidad en la Ciudad y de los susceptibles de serlo, así como aquellas relacionadas con el patrimonio inmaterial."
+    },
+    {
+      "id": "018.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 18 › Apartado B › párrafo 5",
+      "texto": "En el caso del Patrimonio Cultural Inmaterial inscrito en la Lista Representativa de la Humanidad por la UNESCO, las autoridades de la Ciudad, en el ámbito de sus competencias y en coordinación con las autoridades federales, deberán garantizar de manera progresiva su salvaguardia mediante acciones y planes de carácter general, en concordancia con los tratados internacionales, promoviendo la participación efectiva de las comunidades portadoras, con enfoque de igualdad sustantiva, perspectiva de género e interseccionalidad, y reconociendo el papel relevante de las mujeres en la transmisión y continuidad de las prácticas culturales vivas.",
+      "reformas": [
+        {
+          "nota": "Numeral reformado G.O. CDMX 23/07/26",
+          "fechas": [
+            "2026-07-23"
+          ]
+        }
+      ]
     },
     {
       "id": "018.B.2",

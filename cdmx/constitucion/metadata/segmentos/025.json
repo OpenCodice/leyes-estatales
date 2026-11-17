@@ -12,7 +12,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 25 › párrafo 1",
-      "texto": "Democracia directa"
+      "texto": "DEMOCRACIA DIRECTA"
     },
     {
       "id": "025.A",
@@ -30,7 +30,16 @@
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 25 › Apartado A › 1.",
-      "texto": "1. Las y los ciudadanos tienen el derecho y el deber de participar en la resolución de problemas y temas de interés general y en el mejoramiento de las normas que regulan las relaciones en la comunidad, a través de los mecanismos de democracia directa y participativa reconocidos por esta Constitución. Dichos mecanismos se podrán apoyar en el uso intensivo de las tecnologías de información y comunicación."
+      "texto": "1. Las y los ciudadanos tienen el derecho y el deber de participar en la resolución de problemas y temas de interés general y en el mejoramiento de las normas que regulan las relaciones en la comunidad, a través de los mecanismos de democracia directa y participativa reconocidos por esta Constitución."
+    },
+    {
+      "id": "025.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado A › párrafo 2",
+      "texto": "Dichos mecanismos se podrán apoyar en el uso intensivo de las tecnologías de información y comunicación."
     },
     {
       "id": "025.A.2",
@@ -264,7 +273,7 @@
       "apartado": "E",
       "fraccion": "",
       "ruta": "Artículo 25 › Apartado E › 1.",
-      "texto": "1. Las y los ciudadanos tienen derecho a la consulta en los términos de los (sic) dispuesto en esta Constitución y la ley en la materia. A través de este instrumento, las autoridades someterán a consideración de las y los ciudadanos cualquier tema que tenga impacto trascendental en los distintos ámbitos temáticos o territoriales de la Ciudad."
+      "texto": "1. Las y los ciudadanos tienen derecho a la consulta en los términos de los dispuesto en esta Constitución y la ley en la materia. A través de este instrumento, las autoridades someterán a consideración de las y los ciudadanos cualquier tema que tenga impacto trascendental en los distintos ámbitos temáticos o territoriales de la Ciudad."
     },
     {
       "id": "025.E.2",
@@ -291,7 +300,24 @@
       "apartado": "F",
       "fraccion": "",
       "ruta": "Artículo 25 › Apartado F › 1.",
-      "texto": "1. Las y los ciudadanos tienen derecho a la consulta popular sobre temas de trascendencia de la Ciudad. El Congreso de la Ciudad de México convocará a la consulta, a solicitud de:"
+      "texto": "1. Las y los ciudadanos tienen derecho a la consulta popular sobre temas de trascendencia de la Ciudad."
+    },
+    {
+      "id": "025.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 25 › Apartado F › párrafo 3",
+      "texto": "El Congreso de la Ciudad de México convocará a la consulta, a solicitud de:",
+      "reformas": [
+        {
+          "nota": "Numeral reformado G.O. CDMX 23/12/24",
+          "fechas": [
+            "2024-12-23"
+          ]
+        }
+      ]
     },
     {
       "id": "025.F.a",
@@ -354,7 +380,7 @@
       "apartado": "F",
       "fraccion": "",
       "ruta": "Artículo 25 › Apartado F › 2.",
-      "texto": "2. La consulta popular se realizará el mismo día de la jornada electoral local. Ningún instrumento de participación ciudadana, excluyendo la consulta popular, podrá llevarse a cabo cuando exista proceso electoral en la Ciudad de México."
+      "texto": "2. La consulta popular se realizará el mismo día de la jornada electoral local. Ningún instrumento de participación ciudadana, excluyendo la consulta popular, podrá llevarse a cabo cuando exista proceso electoral ordinario en la Ciudad de México."
     },
     {
       "id": "025.F.3",

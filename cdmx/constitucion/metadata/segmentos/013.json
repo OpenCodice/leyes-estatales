@@ -12,7 +12,33 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 13 › párrafo 1",
-      "texto": "Ciudad habitable"
+      "texto": "CIUDAD HABITABLE",
+      "reformas": [
+        {
+          "nota": "Numeral reformado G.O. CDMX 24/12/25",
+          "fechas": [
+            "2025-12-24"
+          ]
+        },
+        {
+          "nota": "Numeral reformado G.O. CDMX 24/12/25",
+          "fechas": [
+            "2025-12-24"
+          ]
+        },
+        {
+          "nota": "Numeral reformado G.O. CDMX 24/12/25",
+          "fechas": [
+            "2025-12-24"
+          ]
+        },
+        {
+          "nota": "Numeral reformado G.O. CDMX 24/12/25",
+          "fechas": [
+            "2025-12-24"
+          ]
+        }
+      ]
     },
     {
       "id": "013.A",
@@ -66,7 +92,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 13 › Apartado B › 1.",
-      "texto": "1. Esta Constitución reconoce a los animales como seres sintientes y, por lo tanto, deben recibir trato digno. En la Ciudad de México toda persona tiene un deber ético y obligación jurídica de respetar la vida y la integridad de los animales; éstos, por su naturaleza son sujetos de consideración moral. Su tutela es de responsabilidad común."
+      "texto": "1. Esta Constitución reconoce a los animales como seres sintientes y, por lo tanto, deben recibir trato digno. En la Ciudad de México toda persona tiene un deber ético y obligación jurídica de respetar y proteger la vida y la integridad de los animales; éstos, por su naturaleza son sujetos de consideración moral. Su tutela es de responsabilidad común."
     },
     {
       "id": "013.B.2",
@@ -75,7 +101,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 13 › Apartado B › 2.",
-      "texto": "2. Las autoridades de la Ciudad garantizarán la protección, bienestar, así como el trato digno y respetuoso a los animales y fomentarán una cultura de cuidado y tutela responsable. Asimismo, realizarán acciones para la atención de animales en abandono."
+      "texto": "2. Las autoridades de la Ciudad garantizarán la protección, bienestar, así como el trato digno y respetuoso a los animales y fomentarán una cultura de cuidado y tutela responsable. Asimismo, realizarán acciones para la atención de animales en abandono. En la Ciudad de México queda prohibido el maltrato animal."
     },
     {
       "id": "013.B.3",
@@ -84,7 +110,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 13 › Apartado B › 3.",
-      "texto": "3. La ley determinará:"
+      "texto": "3. La ley garantizará la protección, el trato adecuado, la conservación y el cuidado de los animales y determinará:"
     },
     {
       "id": "013.B.a",
@@ -111,7 +137,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 13 › Apartado B › inciso c)",
-      "texto": "c) Las bases para promover la conservación, así como prevenir y evitar maltratos en la crianza y el aprovechamiento de animales de consumo humano;"
+      "texto": "c) Las bases para promover la protección, el trato digno, la conservación y el cuidado; así como prevenir y evitar maltratos en la crianza y el aprovechamiento de animales de consumo humano;"
     },
     {
       "id": "013.B.d",
@@ -138,16 +164,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 13 › Apartado C",
-      "texto": "C. Derecho a la vía pública Toda persona tiene derecho al uso pacífico de la vía pública, en los términos previstos por la ley."
-    },
-    {
-      "id": "013.p2",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "C",
-      "fraccion": "",
-      "ruta": "Artículo 13 › Apartado C › párrafo 2",
-      "texto": "Las autoridades adoptarán las medidas necesarias para garantizar el ejercicio de este derecho, con base en los objetivos de funcionalidad y movilidad de las vías públicas."
+      "texto": "C. Derecho a la vía pública Toda persona tiene derecho al uso pacífico de la vía pública, en los términos previstos por la ley. Las autoridades adoptarán las medidas necesarias para garantizar el ejercicio de este derecho, con base en los objetivos de funcionalidad y movilidad de las vías públicas."
     },
     {
       "id": "013.D",
@@ -168,22 +185,22 @@
       "texto": "1. Los espacios públicos son bienes comunes. Tienen una función política, social, educativa, cultural, lúdica y recreativa. Las personas tienen derecho a usar, disfrutar y aprovechar todos los espacios públicos para la convivencia pacífica y el ejercicio de las libertades políticas y sociales reconocidas por esta Constitución, de conformidad con lo previsto por la ley."
     },
     {
+      "id": "013.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado D › párrafo 2",
+      "texto": "Se entiende por espacio público al conjunto de bienes de uso común destinados a la generación y fomento de la interacción social, o bien, que permitan el desarrollo de las personas."
+    },
+    {
       "id": "013.p3",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "D",
       "fraccion": "",
       "ruta": "Artículo 13 › Apartado D › párrafo 3",
-      "texto": "(REFORMADO G.O. CDMX 26 DE JULIO DE 2019) Se entiende por espacio público al conjunto de bienes de uso común destinados a la generación y fomento de la interacción social, o bien, que permitan el desarrollo de las personas."
-    },
-    {
-      "id": "013.p4",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "D",
-      "fraccion": "",
-      "ruta": "Artículo 13 › Apartado D › párrafo 4",
-      "texto": "(REFORMADO G.O. CDMX 26 DE JULIO DE 2019) Son objetivos del espacio público:"
+      "texto": "Son objetivos del espacio público:"
     },
     {
       "id": "013.D.a",
@@ -273,7 +290,16 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 13 › Apartado F",
-      "texto": "F. Derecho al tiempo libre En la Ciudad de México, toda persona tiene derecho a tener tiempo para la convivencia, el esparcimiento, el cuidado personal, el descanso, el disfrute del ocio y a una duración razonable de sus jornadas de trabajo. En atención al principio de igualdad sustantiva, las autoridades impulsarán políticas sociales, económicas y territoriales que liberen tiempo y permitan a las personas alcanzar el bienestar."
+      "texto": "F. Derecho al tiempo libre En la Ciudad de México, toda persona tiene derecho a tener tiempo para la convivencia, el esparcimiento, el cuidado personal, el descanso, el disfrute del ocio y a una duración razonable de sus jornadas de trabajo."
+    },
+    {
+      "id": "013.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado F › párrafo 4",
+      "texto": "En atención al principio de igualdad sustantiva, las autoridades impulsarán políticas sociales, económicas y territoriales que liberen tiempo y permitan a las personas alcanzar el bienestar."
     }
   ]
 }

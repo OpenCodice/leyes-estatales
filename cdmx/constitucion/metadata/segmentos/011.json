@@ -12,7 +12,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 11 › párrafo 1",
-      "texto": "Ciudad incluyente"
+      "texto": "CIUDAD INCLUYENTE"
     },
     {
       "id": "011.A",
@@ -177,6 +177,23 @@
       "texto": "C. Derechos de las mujeres Esta Constitución reconoce la contribución fundamental de las mujeres en el desarrollo de la ciudad, promueve la igualdad sustantiva y la paridad de género. Las autoridades adoptarán todas las medidas necesarias, temporales y permanentes, para erradicar la discriminación, la desigualdad de género y toda forma de violencia contra las mujeres."
     },
     {
+      "id": "011.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado C › párrafo 2",
+      "texto": "Se garantiza que las mujeres y niñas en situación de violencia podrán acudir a un refugio o casa de emergencia con los apoyos sociales, económicos, psicológicos y jurídicos para mantenerse a salvo. Para cumplimiento de lo anterior, se deberán tomar las medidas presupuestales suficientes, en términos de la Ley de la materia.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado G.O. CDMX 29/08/24",
+          "fechas": [
+            "2024-08-29"
+          ]
+        }
+      ]
+    },
+    {
       "id": "011.D",
       "tipo": "apartado",
       "marca": "D",
@@ -237,7 +254,16 @@
       "apartado": "G",
       "fraccion": "",
       "ruta": "Artículo 11 › Apartado G › 1.",
-      "texto": "1. Esta Constitución reconoce los derechos de las personas con discapacidad. Se promoverá la asistencia personal, humana o animal, para su desarrollo en comunidad. Las autoridades adoptarán las medidas necesarias para salvaguardar integralmente el ejercicio de sus derechos y respetar su voluntad, garantizando en todo momento los principios de inclusión y accesibilidad, considerando el diseño universal y los ajustes razonables."
+      "texto": "1. Esta Constitución reconoce los derechos de las personas con discapacidad."
+    },
+    {
+      "id": "011.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "G",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado G › párrafo 3",
+      "texto": "Se promoverá la asistencia personal, humana o animal, para su desarrollo en comunidad. Las autoridades adoptarán las medidas necesarias para salvaguardar integralmente el ejercicio de sus derechos y respetar su voluntad, garantizando en todo momento los principios de inclusión y accesibilidad, considerando el diseño universal y los ajustes razonables."
     },
     {
       "id": "011.G.2",
@@ -348,15 +374,6 @@
       "texto": "2. Las autoridades adoptarán las medidas necesarias para salvaguardar la dignidad y el desarrollo de las niñas, niños y adolescentes en situación de calle, evitándose su participación en actividades que atenten contra su seguridad e integridad."
     },
     {
-      "id": "011.p2",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "K",
-      "fraccion": "",
-      "ruta": "Artículo 11 › Apartado K › párrafo 2",
-      "texto": "(REFORMADO SEGUNDO PÁRRAFO G.O. CDMX 26 DE JULIO DE 2019)"
-    },
-    {
       "id": "011.L",
       "tipo": "apartado",
       "marca": "L",
@@ -366,13 +383,13 @@
       "texto": "L. Derechos de las personas privadas de su libertad Las personas privadas de su libertad tendrán derecho a un trato humano, a vivir en condiciones de reclusión adecuadas que favorezcan su reinserción social y familiar, a la seguridad, al respeto de su integridad física y mental, a una vida libre de violencia, a no ser torturadas ni víctimas de tratos crueles, inhumanos o degradantes y a tener contacto con su familia."
     },
     {
-      "id": "011.p3",
+      "id": "011.p4",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "L",
       "fraccion": "",
-      "ruta": "Artículo 11 › Apartado L › párrafo 3",
-      "texto": "(DEROGADO SEGUNDO PÁRRAFO G.O. CDMX 26 DE JULIO DE 2019)"
+      "ruta": "Artículo 11 › Apartado L › párrafo 4",
+      "texto": "(Se deroga)"
     },
     {
       "id": "011.M",
@@ -399,16 +416,7 @@
       "apartado": "N",
       "fraccion": "",
       "ruta": "Artículo 11 › Apartado N › 1.",
-      "texto": "1. Las personas afrodescendientes gozan de los derechos reconocidos por esta Constitución."
-    },
-    {
-      "id": "011.p4",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "N",
-      "fraccion": "",
-      "ruta": "Artículo 11 › Apartado N › párrafo 4",
-      "texto": "Tienen derecho a la protección y promoción de sus conocimientos tradicionales y su patrimonio cultural, artístico, material e inmaterial."
+      "texto": "1. Las personas afrodescendientes gozan de los derechos reconocidos por esta Constitución. Tienen derecho a la protección y promoción de sus conocimientos tradicionales y su patrimonio cultural, artístico, material e inmaterial."
     },
     {
       "id": "011.N.2",

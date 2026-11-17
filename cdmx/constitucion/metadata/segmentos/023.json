@@ -12,7 +12,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 23 › párrafo 1",
-      "texto": "Deberes de las personas en la ciudad"
+      "texto": "DEBERES DE LAS PERSONAS EN LA CIUDAD"
     },
     {
       "id": "023.1",
@@ -75,7 +75,15 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 23 › inciso e)",
-      "texto": "e) Respetar la vida y la integridad de los animales como seres sintientes, así como brindarles un trato digno y respetuoso en los términos que dispone esta Constitución;"
+      "texto": "e) Respetar la vida y la integridad de los animales como seres sintientes, brindarles un trato digno y respetuoso, quedando prohibido su maltrato en los términos que dispone esta Constitución;",
+      "reformas": [
+        {
+          "nota": "Inciso reformado G.O.CDMX 24/12/25",
+          "fechas": [
+            "2025-12-24"
+          ]
+        }
+      ]
     },
     {
       "id": "023.f",

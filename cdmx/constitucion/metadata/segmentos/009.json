@@ -12,7 +12,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 9 › párrafo 1",
-      "texto": "Ciudad solidaria"
+      "texto": "CIUDAD SOLIDARIA"
     },
     {
       "id": "009.A",
@@ -78,6 +78,40 @@
       "texto": "1. Toda persona tiene derecho a una alimentación adecuada, nutritiva, diaria, suficiente y de calidad con alimentos inocuos, saludables, accesibles, asequibles y culturalmente aceptables que le permitan gozar del más alto nivel de desarrollo humano posible y la protejan contra el hambre, la malnutrición y la desnutrición."
     },
     {
+      "id": "009.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado C › párrafo 2",
+      "texto": "La lactancia materna forma parte integral del derecho a la alimentación y a la nutrición. Constituye un derecho de la niñez al ser un medio idóneo que le asegura una adecuada nutrición, al tiempo que favorece su crecimiento y desarrollo físico, cognitivo y emocional, previniendo enfermedades; además, permite a las madres ejercer su derecho a la salud y a decidir sobre su cuerpo.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado G.O.CDMX 24/03/23",
+          "fechas": [
+            "2023-03-24"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "009.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado C › párrafo 3",
+      "texto": "Las autoridades fomentarán de forma progresiva y armónica el ejercicio de este derecho.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado G.O.CDMX 24/03/23",
+          "fechas": [
+            "2023-03-24"
+          ]
+        }
+      ]
+    },
+    {
       "id": "009.C.2",
       "tipo": "numeral",
       "marca": "2",
@@ -85,6 +119,35 @@
       "fraccion": "",
       "ruta": "Artículo 9 › Apartado C › 2.",
       "texto": "2. Las autoridades, de manera progresiva, fomentarán la disponibilidad, distribución, abastecimiento equitativo y oportuno de alimentos nutritivos y de calidad; promoverán la seguridad y sustentabilidad alimentarias; y garantizarán el acceso a este derecho dando prioridad a las personas en pobreza y a las demás que determine la ley."
+    },
+    {
+      "id": "009.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado C › párrafo 4",
+      "texto": "Para el logro de este objetivo se establecerá, entre otros mecanismos, un Sistema de Comedores Públicos y Comunitarios, de conformidad con las reglas de operación que permitan costos mínimos o gratuitos para las personas usuarias.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado G.O.CDMX 24/06/24",
+          "fechas": [
+            "2024-06-24"
+          ]
+        },
+        {
+          "nota": "Numeral adicionado G.O. CDMX 27/08/25",
+          "fechas": [
+            "2025-08-27"
+          ]
+        },
+        {
+          "nota": "Numeral reformado G.O.CDMX 16/05/24",
+          "fechas": [
+            "2024-05-16"
+          ]
+        }
+      ]
     },
     {
       "id": "009.D",
@@ -147,7 +210,7 @@
       "apartado": "D",
       "fraccion": "",
       "ruta": "Artículo 9 › Apartado D › inciso c)",
-      "texto": "c) La existencia de entornos salubres y seguros, espacios públicos, actividades sociales, culturales y deportivas que mejoren la calidad de vida y la convivencia, propicien modos de vida saludables, desincentiven las violencias, las adicciones y las prácticas sedentarias;"
+      "texto": "c) La existencia de entornos salubres y seguros, espacios públicos, actividades sociales culturales y deportivas que mejoren la calidad de vida y la convivencia, propicien modos de vida saludables, desincentiven las violencias, las adicciones y las prácticas sedentarias;"
     },
     {
       "id": "009.D.d",
@@ -213,6 +276,15 @@
       "texto": "7. A toda persona se le permitirá el uso médico y terapéutico de la cannabis sativa, índica, americana o marihuana y sus derivados, de conformidad con la Constitución Política de los Estados Unidos Mexicanos y la legislación aplicable."
     },
     {
+      "id": "009.D.8",
+      "tipo": "numeral",
+      "marca": "8",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado D › 8.",
+      "texto": "8. Para garantizar el derecho de protección a la salud de las personas, la Ley de la materia y demás aplicables, sancionarán toda actividad relacionada con cigarrillos electrónicos, vapeadores y demás sistemas o dispositivos análogos que señale la ley; así como la producción, distribución y enajenación de sustancias tóxicas, precursores químicos, el uso ilícito del fentanilo y demás drogas sintéticas no autorizadas."
+    },
+    {
       "id": "009.E",
       "tipo": "apartado",
       "marca": "E",
@@ -237,7 +309,7 @@
       "apartado": "E",
       "fraccion": "",
       "ruta": "Artículo 9 › Apartado E › 2.",
-      "texto": "2. Las autoridades tomarán medidas para que las viviendas reúnan condiciones de accesibilidad, asequibilidad, habitabilidad, adaptación cultural, tamaño suficiente, diseño y ubicación seguros que cuenten con infraestructura y servicios básicos de agua potable, saneamiento, energía y servicios de protección civil."
+      "texto": "2. Las autoridades tomarán medidas para que las viviendas reúnan condiciones de accesibilidad, asequibilidad, habitabilidad, adaptación cultural, tamaño suficiente, diseño y ubicación seguros que cuenten con infraestructura y servicios básicos, conexión a la red de agua potable, captadores de agua pluvial y sistemas que permitan su reúso y saneamiento, energía y servicios de protección civil."
     },
     {
       "id": "009.E.3",
@@ -256,6 +328,29 @@
       "fraccion": "",
       "ruta": "Artículo 9 › Apartado E › 4.",
       "texto": "4. Se adoptarán medidas, de conformidad con la ley, contra el desalojo arbitrario e ilegal de los ocupantes de la vivienda."
+    },
+    {
+      "id": "009.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado E › párrafo 5",
+      "texto": "5 Las Unidades Habitacionales tendrán un presupuesto público para fortalecer su mejoramiento y mantenimiento, priorizando las de interés social, cuya asignación en cada ejercicio presupuestal será determinada de conformidad con las reglas de operación que se emitan.",
+      "reformas": [
+        {
+          "nota": "Numeral adicionado G.O.CDMX 8/07/24",
+          "fechas": [
+            "2024-07-08"
+          ]
+        },
+        {
+          "nota": "Numeral reformado G.O.CDMX 16/05/24",
+          "fechas": [
+            "2024-05-16"
+          ]
+        }
+      ]
     },
     {
       "id": "009.F",
@@ -282,7 +377,61 @@
       "apartado": "F",
       "fraccion": "",
       "ruta": "Artículo 9 › Apartado F › 2.",
-      "texto": "2. La Ciudad garantizará la cobertura universal del agua, su acceso diario, continuo, equitativo y sustentable. Se incentivará la captación del agua pluvial."
+      "texto": "2. La Ciudad garantizará la cobertura universal del agua, su acceso diario, continuo, equitativo y sustentable, aplicando los recursos administrativos, financieros y tecnológicos disponibles, conforme las siguientes bases:"
+    },
+    {
+      "id": "009.F.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado F › inciso a)",
+      "texto": "a) Una política de uso y aprovechamiento del agua pluvial, consistente en la implementación y promoción de un sistema amplio de captación de agua de lluvia, priorizando aquellas zonas que no cuenten con infraestructura que les permita acceder a la red hidráulica de la Ciudad, aquellas en donde se presenten condiciones de marginación económica y pobreza urbana, así como centros educativos;"
+    },
+    {
+      "id": "009.F.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado F › inciso b)",
+      "texto": "b) La obligación de contar con mecanismos de captación, tratamiento, disposición y uso de aguas servidas;"
+    },
+    {
+      "id": "009.F.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado F › inciso c)",
+      "texto": "c) Instrumentos que regulen el uso de sistemas para infiltración de agua al manto freático;"
+    },
+    {
+      "id": "009.F.d",
+      "tipo": "inciso",
+      "marca": "d",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado F › inciso d)",
+      "texto": "d) La implementación de programas que contribuyan a fortalecer la conciencia pública y la cultura sobre el ahorro y uso sustentable del agua y la reducción de la contaminación mediante la disminución del uso de productos químicos y materiales altamente contaminantes;\n\nUna cultura que considere a los recursos hídricos como finitos, vulnerables y valorables y que incluya las habilidades técnicas para su uso, el conocimiento de los múltiples beneficios y servicios ambientales que prestan a los ecosistemas y el ambiente;"
+    },
+    {
+      "id": "009.F.e",
+      "tipo": "inciso",
+      "marca": "e",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado F › inciso e)",
+      "texto": "e) El desarrollo de estudios sobre las cuencas hidrográficas, el diseño de materiales y nuevas tecnologías para la gestión integral del agua, la minimización de la huella hídrica, la formulación de estrategias para la reducción de la demanda de agua, el mejor aprovechamiento de las mismas y la planeación urbana con un enfoque de sustentabilidad;"
+    },
+    {
+      "id": "009.F.f",
+      "tipo": "inciso",
+      "marca": "f",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado F › inciso f)",
+      "texto": "f) Se incentivará la captación de agua pluvial."
     },
     {
       "id": "009.F.3",
@@ -292,6 +441,50 @@
       "fraccion": "",
       "ruta": "Artículo 9 › Apartado F › 3.",
       "texto": "3. El agua es un bien público, social y cultural. Es inalienable, inembargable, irrenunciable y esencial para la vida. La gestión del agua será pública y sin fines de lucro."
+    },
+    {
+      "id": "009.F.4",
+      "tipo": "numeral",
+      "marca": "4",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado F › 4.",
+      "texto": "4. Al integrar su infraestructura, la obra pública ponderará el uso de materiales y diseños en calles y avenidas que permitan la infiltración para la reducción de inundaciones y la recarga de mantos friáticos y/o acuíferos donde sea factible."
+    },
+    {
+      "id": "009.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado F › párrafo 6",
+      "texto": "En los casos y sitios que sean posible, como zanjas de infiltración, jardines de lluvia, materiales permeables, entre otros."
+    },
+    {
+      "id": "009.p7",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado F › párrafo 7",
+      "texto": "Se deberá transformar paulatinamente el diseño de la red de infraestructura hidráulica bajo una política de observancia progresiva, que permita que la ciudad abastezca a las viviendas de líneas de agua tratada y agua potable para diferenciar los usos en el hogar y que las lógicas de tratamiento de las aguas servidas obedezcan al enfoque de agua por diseño."
+    },
+    {
+      "id": "009.p8",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado F › párrafo 8",
+      "texto": "La infraestructura de tratamiento de las aguas servidas deberá integrar y/o considerar en sus enfoques “soluciones basadas en la naturaleza”.",
+      "reformas": [
+        {
+          "nota": "Numeral adicionado G.O.CDMX 16/05/24",
+          "fechas": [
+            "2024-05-16"
+          ]
+        }
+      ]
     }
   ]
 }
