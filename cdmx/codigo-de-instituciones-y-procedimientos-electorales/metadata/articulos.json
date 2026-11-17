@@ -98,8 +98,8 @@
       "titulo": "TÍTULO PRIMERO. OBJETO Y SUJETOS DEL CÓDIGO",
       "capitulo": "CAPÍTULO ÚNICO",
       "seccion": "",
-      "epigrafe": "Fe de Erratas G.O. CDMX 13/11/2023",
-      "contexto": "OBJETO Y SUJETOS DEL CÓDIGO · CDMX 13/11/2023",
+      "epigrafe": "",
+      "contexto": "OBJETO Y SUJETOS DEL CÓDIGO",
       "derogado": false,
       "ultima_reforma": null,
       "num_reformas": 0,
@@ -489,10 +489,11 @@
       "epigrafe": "",
       "contexto": "DE LA REPRESENTACIÓN PROPORCIONAL · PRINCIPIOS DE ASIGNACIÓN POR REPRESENTACIÓN PROPORCIONAL · PARA LAS DIPUTACIONES",
       "derogado": false,
-      "ultima_reforma": "2023-06-02",
-      "num_reformas": 1,
+      "ultima_reforma": "2023-11-13",
+      "num_reformas": 2,
       "reformas": [
-        "2023-06-02"
+        "2023-06-02",
+        "2023-11-13"
       ],
       "archivo": "cdmx/codigo-de-instituciones-y-procedimientos-electorales/articulos/024.md"
     },
@@ -1701,10 +1702,11 @@
       "epigrafe": "",
       "contexto": "DEL INSTITUTO ELECTORAL DE LA CIUDAD DE MÉXICO · DE LOS ÓRGANOS EJECUTIVOS · DE LA SECRETARÍA EJECUTIVA",
       "derogado": false,
-      "ultima_reforma": "2022-06-02",
-      "num_reformas": 1,
+      "ultima_reforma": "2026-04-09",
+      "num_reformas": 2,
       "reformas": [
-        "2022-06-02"
+        "2022-06-02",
+        "2026-04-09"
       ],
       "archivo": "cdmx/codigo-de-instituciones-y-procedimientos-electorales/articulos/086.md"
     },
@@ -6307,9 +6309,11 @@
       "epigrafe": "",
       "contexto": "DE LOS PARTIDOS POLÍTICOS · DEL FINANCIAMIENTO DE LOS PARTIDOS POLÍTICOS · DEL FINANCIAMIENTO PÚBLICO",
       "derogado": false,
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2017-06-07",
+      "num_reformas": 1,
+      "reformas": [
+        "2017-06-07"
+      ],
       "archivo": "cdmx/codigo-de-instituciones-y-procedimientos-electorales/articulos/333.md"
     },
     {
@@ -6322,8 +6326,8 @@
       "titulo": "TÍTULO TERCERO. DE LOS PARTIDOS POLÍTICOS",
       "capitulo": "CAPÍTULO VIII. DEL FINANCIAMIENTO DE LOS PARTIDOS POLÍTICOS",
       "seccion": "SECCIÓN SEGUNDA. DEL FINANCIAMIENTO PÚBLICO",
-      "epigrafe": "Sic. G.O. CDMX 07/06/2017",
-      "contexto": "DE LOS PARTIDOS POLÍTICOS · DEL FINANCIAMIENTO DE LOS PARTIDOS POLÍTICOS · DEL FINANCIAMIENTO PÚBLICO · G.O. CDMX 07/06/2017",
+      "epigrafe": "",
+      "contexto": "DE LOS PARTIDOS POLÍTICOS · DEL FINANCIAMIENTO DE LOS PARTIDOS POLÍTICOS · DEL FINANCIAMIENTO PÚBLICO",
       "derogado": false,
       "ultima_reforma": null,
       "num_reformas": 0,
@@ -6340,8 +6344,8 @@
       "titulo": "TÍTULO TERCERO. DE LOS PARTIDOS POLÍTICOS",
       "capitulo": "CAPÍTULO VIII. DEL FINANCIAMIENTO DE LOS PARTIDOS POLÍTICOS",
       "seccion": "SECCIÓN SEGUNDA. DEL FINANCIAMIENTO PÚBLICO",
-      "epigrafe": "Sic. G.O. CDMX 07/06/2017",
-      "contexto": "DE LOS PARTIDOS POLÍTICOS · DEL FINANCIAMIENTO DE LOS PARTIDOS POLÍTICOS · DEL FINANCIAMIENTO PÚBLICO · G.O. CDMX 07/06/2017",
+      "epigrafe": "",
+      "contexto": "DE LOS PARTIDOS POLÍTICOS · DEL FINANCIAMIENTO DE LOS PARTIDOS POLÍTICOS · DEL FINANCIAMIENTO PÚBLICO",
       "derogado": false,
       "ultima_reforma": null,
       "num_reformas": 0,
