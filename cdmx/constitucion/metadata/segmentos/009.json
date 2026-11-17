@@ -57,7 +57,16 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 9 › Apartado B",
-      "texto": "B. Derecho al cuidado Toda persona tiene derecho al cuidado que sustente su vida y le otorgue los elementos materiales y simbólicos para vivir en sociedad a lo largo de toda su vida. Las autoridades establecerán un sistema de cuidados que preste servicios públicos universales, accesibles, pertinentes, suficientes y de calidad y desarrolle políticas públicas. El sistema atenderá de manera prioritaria a las personas en situación de dependencia por enfermedad, discapacidad, ciclo vital, especialmente la infancia y la vejez y a quienes, de manera no remunerada, están a cargo de su cuidado."
+      "texto": "B. Derecho al cuidado"
+    },
+    {
+      "id": "009.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado B › párrafo 2",
+      "texto": "Toda persona tiene derecho al cuidado que sustente su vida y le otorgue los elementos materiales y simbólicos para vivir en sociedad a lo largo de toda su vida. Las autoridades establecerán un sistema de cuidados que preste servicios públicos universales, accesibles, pertinentes, suficientes y de calidad y desarrolle políticas públicas. El sistema atenderá de manera prioritaria a las personas en situación de dependencia por enfermedad, discapacidad, ciclo vital, especialmente la infancia y la vejez y a quienes, de manera no remunerada, están a cargo de su cuidado."
     },
     {
       "id": "009.C",
@@ -78,12 +87,12 @@
       "texto": "1. Toda persona tiene derecho a una alimentación adecuada, nutritiva, diaria, suficiente y de calidad con alimentos inocuos, saludables, accesibles, asequibles y culturalmente aceptables que le permitan gozar del más alto nivel de desarrollo humano posible y la protejan contra el hambre, la malnutrición y la desnutrición."
     },
     {
-      "id": "009.p2",
+      "id": "009.p3",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "C",
       "fraccion": "",
-      "ruta": "Artículo 9 › Apartado C › párrafo 2",
+      "ruta": "Artículo 9 › Apartado C › párrafo 3",
       "texto": "La lactancia materna forma parte integral del derecho a la alimentación y a la nutrición. Constituye un derecho de la niñez al ser un medio idóneo que le asegura una adecuada nutrición, al tiempo que favorece su crecimiento y desarrollo físico, cognitivo y emocional, previniendo enfermedades; además, permite a las madres ejercer su derecho a la salud y a decidir sobre su cuerpo.",
       "reformas": [
         {
@@ -95,12 +104,12 @@
       ]
     },
     {
-      "id": "009.p3",
+      "id": "009.p4",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "C",
       "fraccion": "",
-      "ruta": "Artículo 9 › Apartado C › párrafo 3",
+      "ruta": "Artículo 9 › Apartado C › párrafo 4",
       "texto": "Las autoridades fomentarán de forma progresiva y armónica el ejercicio de este derecho.",
       "reformas": [
         {
@@ -121,12 +130,12 @@
       "texto": "2. Las autoridades, de manera progresiva, fomentarán la disponibilidad, distribución, abastecimiento equitativo y oportuno de alimentos nutritivos y de calidad; promoverán la seguridad y sustentabilidad alimentarias; y garantizarán el acceso a este derecho dando prioridad a las personas en pobreza y a las demás que determine la ley."
     },
     {
-      "id": "009.p4",
+      "id": "009.p5",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "C",
       "fraccion": "",
-      "ruta": "Artículo 9 › Apartado C › párrafo 4",
+      "ruta": "Artículo 9 › Apartado C › párrafo 5",
       "texto": "Para el logro de este objetivo se establecerá, entre otros mecanismos, un Sistema de Comedores Públicos y Comunitarios, de conformidad con las reglas de operación que permitan costos mínimos o gratuitos para las personas usuarias.",
       "reformas": [
         {
@@ -330,12 +339,12 @@
       "texto": "4. Se adoptarán medidas, de conformidad con la ley, contra el desalojo arbitrario e ilegal de los ocupantes de la vivienda."
     },
     {
-      "id": "009.p5",
+      "id": "009.p6",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "E",
       "fraccion": "",
-      "ruta": "Artículo 9 › Apartado E › párrafo 5",
+      "ruta": "Artículo 9 › Apartado E › párrafo 6",
       "texto": "5 Las Unidades Habitacionales tendrán un presupuesto público para fortalecer su mejoramiento y mantenimiento, priorizando las de interés social, cuya asignación en cada ejercicio presupuestal será determinada de conformidad con las reglas de operación que se emitan.",
       "reformas": [
         {
@@ -452,22 +461,13 @@
       "texto": "4. Al integrar su infraestructura, la obra pública ponderará el uso de materiales y diseños en calles y avenidas que permitan la infiltración para la reducción de inundaciones y la recarga de mantos friáticos y/o acuíferos donde sea factible."
     },
     {
-      "id": "009.p6",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "F",
-      "fraccion": "",
-      "ruta": "Artículo 9 › Apartado F › párrafo 6",
-      "texto": "En los casos y sitios que sean posible, como zanjas de infiltración, jardines de lluvia, materiales permeables, entre otros."
-    },
-    {
       "id": "009.p7",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "F",
       "fraccion": "",
       "ruta": "Artículo 9 › Apartado F › párrafo 7",
-      "texto": "Se deberá transformar paulatinamente el diseño de la red de infraestructura hidráulica bajo una política de observancia progresiva, que permita que la ciudad abastezca a las viviendas de líneas de agua tratada y agua potable para diferenciar los usos en el hogar y que las lógicas de tratamiento de las aguas servidas obedezcan al enfoque de agua por diseño."
+      "texto": "En los casos y sitios que sean posible, como zanjas de infiltración, jardines de lluvia, materiales permeables, entre otros."
     },
     {
       "id": "009.p8",
@@ -476,6 +476,15 @@
       "apartado": "F",
       "fraccion": "",
       "ruta": "Artículo 9 › Apartado F › párrafo 8",
+      "texto": "Se deberá transformar paulatinamente el diseño de la red de infraestructura hidráulica bajo una política de observancia progresiva, que permita que la ciudad abastezca a las viviendas de líneas de agua tratada y agua potable para diferenciar los usos en el hogar y que las lógicas de tratamiento de las aguas servidas obedezcan al enfoque de agua por diseño."
+    },
+    {
+      "id": "009.p9",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 9 › Apartado F › párrafo 9",
       "texto": "La infraestructura de tratamiento de las aguas servidas deberá integrar y/o considerar en sus enfoques “soluciones basadas en la naturaleza”.",
       "reformas": [
         {

@@ -12,7 +12,16 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 39 › párrafo 1",
-      "texto": "SISTEMA DE JUSTICIA LABORAL El Sistema de Justicia Laboral se integrará de la siguiente forma:"
+      "texto": "SISTEMA DE JUSTICIA LABORAL"
+    },
+    {
+      "id": "039.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 39 › párrafo 2",
+      "texto": "El Sistema de Justicia Laboral se integrará de la siguiente forma:"
     },
     {
       "id": "039.A",
@@ -33,12 +42,12 @@
       "texto": "B. Tribunal Burocrático, que dirimirán los conflictos individuales y colectivos, que se presenten entre las instituciones públicas de la Ciudad de México y las personas trabajadoras a su servicio, respecto de los cuales no exista régimen especial, así como aquellos que se presenten entre organizaciones sindicales o al interior de estas."
     },
     {
-      "id": "039.p2",
+      "id": "039.p3",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "B",
       "fraccion": "",
-      "ruta": "Artículo 39 › Apartado B › párrafo 2",
+      "ruta": "Artículo 39 › Apartado B › párrafo 3",
       "texto": "La ley determinará su organización, funcionamiento y naturaleza jurídica en los términos de lo dispuesto por el artículo 123 de la Constitución Política de los Estados Unidos Mexicanos y esta Constitución."
     }
   ]

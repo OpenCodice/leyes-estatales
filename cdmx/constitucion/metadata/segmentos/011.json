@@ -21,7 +21,16 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 11 › Apartado A",
-      "texto": "A. Grupos de atención prioritaria La Ciudad de México garantizará la atención prioritaria para el pleno ejercicio de los derechos de las personas que debido a la desigualdad estructural enfrentan discriminación, exclusión, maltrato, abuso, violencia y mayores obstáculos para el pleno ejercicio de sus derechos y libertades fundamentales."
+      "texto": "A. Grupos de atención prioritaria"
+    },
+    {
+      "id": "011.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado A › párrafo 2",
+      "texto": "La Ciudad de México garantizará la atención prioritaria para el pleno ejercicio de los derechos de las personas que debido a la desigualdad estructural enfrentan discriminación, exclusión, maltrato, abuso, violencia y mayores obstáculos para el pleno ejercicio de sus derechos y libertades fundamentales."
     },
     {
       "id": "011.B",
@@ -174,15 +183,24 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 11 › Apartado C",
-      "texto": "C. Derechos de las mujeres Esta Constitución reconoce la contribución fundamental de las mujeres en el desarrollo de la ciudad, promueve la igualdad sustantiva y la paridad de género. Las autoridades adoptarán todas las medidas necesarias, temporales y permanentes, para erradicar la discriminación, la desigualdad de género y toda forma de violencia contra las mujeres."
+      "texto": "C. Derechos de las mujeres"
     },
     {
-      "id": "011.p2",
+      "id": "011.p3",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "C",
       "fraccion": "",
-      "ruta": "Artículo 11 › Apartado C › párrafo 2",
+      "ruta": "Artículo 11 › Apartado C › párrafo 3",
+      "texto": "Esta Constitución reconoce la contribución fundamental de las mujeres en el desarrollo de la ciudad, promueve la igualdad sustantiva y la paridad de género. Las autoridades adoptarán todas las medidas necesarias, temporales y permanentes, para erradicar la discriminación, la desigualdad de género y toda forma de violencia contra las mujeres."
+    },
+    {
+      "id": "011.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado C › párrafo 4",
       "texto": "Se garantiza que las mujeres y niñas en situación de violencia podrán acudir a un refugio o casa de emergencia con los apoyos sociales, económicos, psicológicos y jurídicos para mantenerse a salvo. Para cumplimiento de lo anterior, se deberán tomar las medidas presupuestales suficientes, en términos de la Ley de la materia.",
       "reformas": [
         {
@@ -227,7 +245,16 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 11 › Apartado E",
-      "texto": "E. Derechos de las personas jóvenes Las personas jóvenes son titulares de derechos y tendrán la protección de la ley para participar en la vida pública y en la planeación y desarrollo de la Ciudad. Las autoridades adoptarán medidas para garantizar el pleno ejercicio de sus derechos, en particular a la identidad individual y colectiva, al libre desarrollo de su personalidad, a la autonomía, independencia y emancipación; a la participación política, económica, social, ambiental y cultural, y a la educación, al trabajo digno y a la vivienda. En razón de lo anterior se reconocerá el carácter diverso y heterogéneo de las personas jóvenes, así como sus necesidades específicas."
+      "texto": "E. Derechos de las personas jóvenes"
+    },
+    {
+      "id": "011.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado E › párrafo 5",
+      "texto": "Las personas jóvenes son titulares de derechos y tendrán la protección de la ley para participar en la vida pública y en la planeación y desarrollo de la Ciudad. Las autoridades adoptarán medidas para garantizar el pleno ejercicio de sus derechos, en particular a la identidad individual y colectiva, al libre desarrollo de su personalidad, a la autonomía, independencia y emancipación; a la participación política, económica, social, ambiental y cultural, y a la educación, al trabajo digno y a la vivienda. En razón de lo anterior se reconocerá el carácter diverso y heterogéneo de las personas jóvenes, así como sus necesidades específicas."
     },
     {
       "id": "011.F",
@@ -236,7 +263,16 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 11 › Apartado F",
-      "texto": "F. Derechos de personas mayores Las personas mayores tienen los derechos reconocidos en esta Constitución, que comprenden, entre otros, a la identidad, a una ciudad accesible y segura, a servicios de salud especializados y cuidados paliativos, así como a una pensión económica no contributiva a partir de la edad que determine la ley. Tomando en cuenta las necesidades específicas de mujeres y hombres, la Ciudad establecerá un sistema integral para su atención que prevenga el abuso, abandono, aislamiento, negligencia, maltrato, violencia y cualquier situación que implique tratos o penas crueles, inhumanas o degradantes o atente contra su seguridad e integridad."
+      "texto": "F. Derechos de personas mayores"
+    },
+    {
+      "id": "011.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 11 › Apartado F › párrafo 6",
+      "texto": "Las personas mayores tienen los derechos reconocidos en esta Constitución, que comprenden, entre otros, a la identidad, a una ciudad accesible y segura, a servicios de salud especializados y cuidados paliativos, así como a una pensión económica no contributiva a partir de la edad que determine la ley. Tomando en cuenta las necesidades específicas de mujeres y hombres, la Ciudad establecerá un sistema integral para su atención que prevenga el abuso, abandono, aislamiento, negligencia, maltrato, violencia y cualquier situación que implique tratos o penas crueles, inhumanas o degradantes o atente contra su seguridad e integridad."
     },
     {
       "id": "011.G",
@@ -257,12 +293,12 @@
       "texto": "1. Esta Constitución reconoce los derechos de las personas con discapacidad."
     },
     {
-      "id": "011.p3",
+      "id": "011.p7",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "G",
       "fraccion": "",
-      "ruta": "Artículo 11 › Apartado G › párrafo 3",
+      "ruta": "Artículo 11 › Apartado G › párrafo 7",
       "texto": "Se promoverá la asistencia personal, humana o animal, para su desarrollo en comunidad. Las autoridades adoptarán las medidas necesarias para salvaguardar integralmente el ejercicio de sus derechos y respetar su voluntad, garantizando en todo momento los principios de inclusión y accesibilidad, considerando el diseño universal y los ajustes razonables."
     },
     {
@@ -383,12 +419,12 @@
       "texto": "L. Derechos de las personas privadas de su libertad Las personas privadas de su libertad tendrán derecho a un trato humano, a vivir en condiciones de reclusión adecuadas que favorezcan su reinserción social y familiar, a la seguridad, al respeto de su integridad física y mental, a una vida libre de violencia, a no ser torturadas ni víctimas de tratos crueles, inhumanos o degradantes y a tener contacto con su familia."
     },
     {
-      "id": "011.p4",
+      "id": "011.p8",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "L",
       "fraccion": "",
-      "ruta": "Artículo 11 › Apartado L › párrafo 4",
+      "ruta": "Artículo 11 › Apartado L › párrafo 8",
       "texto": "(Se deroga)"
     },
     {

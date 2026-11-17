@@ -21,7 +21,16 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 10 › Apartado A",
-      "texto": "A. Derecho al desarrollo sustentable Toda persona tiene derecho a participar en un desarrollo económico, social, cultural y político en el que puedan realizarse plenamente todos los derechos humanos y libertades fundamentales."
+      "texto": "A. Derecho al desarrollo sustentable"
+    },
+    {
+      "id": "010.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado A › párrafo 2",
+      "texto": "Toda persona tiene derecho a participar en un desarrollo económico, social, cultural y político en el que puedan realizarse plenamente todos los derechos humanos y libertades fundamentales."
     },
     {
       "id": "010.B",
@@ -60,12 +69,12 @@
       "texto": "3. Toda persona que desempeñe una ocupación en la ciudad, temporal o permanente, asalariada o no, tendrá derecho a ejercer un trabajo digno."
     },
     {
-      "id": "010.p2",
+      "id": "010.p3",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "B",
       "fraccion": "",
-      "ruta": "Artículo 10 › Apartado B › párrafo 2",
+      "ruta": "Artículo 10 › Apartado B › párrafo 3",
       "texto": "Queda prohibida la profesión, industria, comercio interior o exterior, trabajo o cualquiera otra de las actividades que refiere el numeral 8 del apartado D, del artículo 9 anterior.",
       "reformas": [
         {
@@ -272,22 +281,13 @@
       "texto": "10. Las autoridades administrativas y el Poder Judicial de la Ciudad de México, en el ámbito de sus competencias, garantizarán una justicia laboral honesta, imparcial, profesional, pronta, expedita, pública y gratuita, que incluya los servicios de conciliación y mediación."
     },
     {
-      "id": "010.p3",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "B",
-      "fraccion": "",
-      "ruta": "Artículo 10 › Apartado B › párrafo 3",
-      "texto": "Antes de acudir a los tribunales laborales, las personas trabajadoras y patronas deberán comparecer a la instancia conciliatoria correspondiente. En la Ciudad de México, la función conciliatoria estará a cargo de un Centro de Conciliación, especializado e imparcial. Será un organismo público descentralizado del Gobierno de la Ciudad de México con personalidad jurídica y patrimonio propio con autonomía técnica, operativa, presupuestaria, de decisión y de gestión."
-    },
-    {
       "id": "010.p4",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 10 › Apartado B › párrafo 4",
-      "texto": "Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración, funcionamiento, sectorización y atribuciones, se determinarán en su ley correspondiente."
+      "texto": "Antes de acudir a los tribunales laborales, las personas trabajadoras y patronas deberán comparecer a la instancia conciliatoria correspondiente. En la Ciudad de México, la función conciliatoria estará a cargo de un Centro de Conciliación, especializado e imparcial. Será un organismo público descentralizado del Gobierno de la Ciudad de México con personalidad jurídica y patrimonio propio con autonomía técnica, operativa, presupuestaria, de decisión y de gestión."
     },
     {
       "id": "010.p5",
@@ -296,6 +296,15 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 10 › Apartado B › párrafo 5",
+      "texto": "Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración, funcionamiento, sectorización y atribuciones, se determinarán en su ley correspondiente."
+    },
+    {
+      "id": "010.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › párrafo 6",
       "texto": "La ley determinará el procedimiento que se deberá observar en la instancia conciliatoria, así como las reglas para que los convenios laborales adquieran condición de cosa juzgada para su ejecución. En todo caso, la etapa de conciliación consistirá en una sola audiencia obligatoria. Las subsecuentes audiencias de conciliación sólo se realizarán con el acuerdo de las partes en conflicto.",
       "reformas": [
         {
@@ -325,12 +334,12 @@
       "texto": "12. Las personas trabajadoras no asalariadas, prestadoras de servicios por cuenta propia, que producen bienes y artesanías y comerciantes, tienen derecho a realizar un trabajo digno y a poseer una identidad formal en la Ciudad de México, a asociarse para defender sus intereses, recibir capacitación, y las demás que establezca la legislación en la materia."
     },
     {
-      "id": "010.p6",
+      "id": "010.p7",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "B",
       "fraccion": "",
-      "ruta": "Artículo 10 › Apartado B › párrafo 6",
+      "ruta": "Artículo 10 › Apartado B › párrafo 7",
       "texto": "Las autoridades de la Ciudad garantizarán a los locatarios de los mercados públicos condiciones sanitarias, certeza y seguridad jurídica adecuadas. Conservarán sus derechos adquiridos y gozarán de los mismos derechos que esta Constitución y las leyes reconocen a las personas trabajadoras no asalariadas."
     },
     {
@@ -343,12 +352,12 @@
       "texto": "13. Los derechos de las personas trabajadoras no asalariadas, prestadoras de servicios por cuenta propia y comerciantes que realicen sus actividades en el espacio público serán ejercidos a través del establecimiento de zonas especiales de comercio y de cultura popular en los términos que defina la ley con la participación de los propios trabajadores."
     },
     {
-      "id": "010.p7",
+      "id": "010.p8",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "B",
       "fraccion": "",
-      "ruta": "Artículo 10 › Apartado B › párrafo 7",
+      "ruta": "Artículo 10 › Apartado B › párrafo 8",
       "texto": "La ley determinará los mecanismos para un proceso gradual de regularización, formalización y regulación en materia urbana, de espacio público, fiscal, de salud pública y de seguridad social.",
       "reformas": [
         {
