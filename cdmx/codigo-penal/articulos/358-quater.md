@@ -1,0 +1,3 @@
+# Artículo 358 Quater
+
+Se impondrá de cuatrocientos a ochocientos días multa y destitución del cargo en administración pública, dirección partidista, candidatura o cargo de elección popular, a quienes habiendo sido magistrados electorales locales, consejeros electorales locales, secretario ejecutivo del Instituto Electoral de la Ciudad de México o cargo equivalente en los organismos públicos distritales electorales, desempeñen o sean designados en cargos públicos por los Poderes Ejecutivo o Legislativo cuya elección hayan calificado o participado, asuman cargos de dirigencia partidista o sean postulados a cargos de elección popular, dentro de los dos años siguientes a la conclusión de su encargo.
