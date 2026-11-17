@@ -10,7 +10,7 @@
       "indice": "https://data.consejeria.cdmx.gob.mx/index.php/leyes/codigos",
       "url": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/CODIGOS_2025/CODIGO_CIVIL_PARA_EL_DF_15.4.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 135-quater: el texto del artículo «135 Quitus» (rótulo «Artículo 135 Quitus.» y su párrafo) quedó dentro del archivo 135-quater; falta su archivo; 138-quintus: el artículo «138 Sextus» quedó absorbido como párrafo de 138-quintus; falta su archivo; 182-quintus: el artículo «182 Sextus» quedó absorbido como párrafo de 182-quintus; falta su archivo; 236: párrafo partido a media oración: «…cónyuge engañado;» / «pero si éste no denuncia…» (en el PDF es un solo párrafo, sin espacio entre renglones); 272: párrafo partido a media oración tras «convengan en divorciarse;» (en el PDF es continuo) (y 40 más)",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 119: la nota «N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO…» quedó como último párrafo del art. 119; en el PDF va después de la fracción VI pero ant; 135: falta la nota «FRACCIÓN ADICIONADA G.O. CDMX 27/08/25» que el PDF pone después de la fracción IV; el extractor la omitió; 146: falta la nota «a nota «N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.» que el PDF pone entre el encabezado del Capítu; 291-bis: falta la nota «N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.» que el PDF pone tras el encabezado «Capítulo XI Del co; 293: la nota «N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO…» quedó como último párrafo del art. 293; en el PDF va después del texto y justo antes de la nota «(REFORMADO, G.O. 29 DE DI (y 21 más)",
       "fecha": "2026-11-17",
       "pdf": {
         "sha256": "98e7c7b6df959bade40683db121bed1927cae922a04012ac0c58486584bfd921",
@@ -18,7 +18,7 @@
         "etag": "\"2a97b0-65c937d985e6f\"",
         "last_modified": "Mon, 28 Sep 2026 23:33:17 GMT"
       },
-      "extractor": "79b0d83ecb3f8cab"
+      "extractor": "780c2ba98e8725ab"
     },
     {
       "clave": "cdmx/codigo-de-instituciones-y-procedimientos-electorales",
@@ -501,6 +501,126 @@
         "bytes": 1089723,
         "etag": "\"10a0bb-639f92616dfc5\"",
         "last_modified": "Tue, 15 Jul 2025 15:08:28 GMT"
+      },
+      "extractor": "780c2ba98e8725ab"
+    },
+    {
+      "clave": "queretaro/ley-organica-de-la-fiscalia-general",
+      "etiqueta": "Ley Orgánica de la Fiscalía General del Estado de Querétaro",
+      "sigla": "LOFG Qro",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Gobierno del Estado de Querétaro «La Sombra de Arteaga»",
+      "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
+      "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-03.pdf",
+      "estado": "excluida",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 017: la nota de reforma de la fracción I «(Ref. P.O. No. 31. 4-IV-25)» quedó partida en dos párrafos («…(Ref. P.O.» y «No. 31. 4-IV-25)») y dentro del cuerpo, sin cursiva; la de la fracción III «(Ref. p.o.; 028: en la fracción XXXI, la «y» final (continuación del renglón en el PDF: «…o de particulares; y (Ref. P. O. No. 93, 27-IX-24)») quedó como párrafo suelto «y» después de la fracción; además la fe de erra; 053: las tablas de cuotas están aplanadas y desordenadas respecto del PDF (págs. 40 a 42): filas intercaladas y rótulos separados de sus valores (p. ej. «Constancia de estudios… Expedición de Kardex (const; 053-bis: la tabla de derechos (pág. 43) quedó aplanada y desordenada: «Bicicleta.» separado de sus valores, «Depósito vehicular.» y «Servicios auxiliares de transporte.» mezclados con las celdas, la matriz de ",
+      "fecha": "2026-11-17",
+      "pdf": {
+        "sha256": "9024704ce927e51f1c940ce23cd6729c5ce96cbd9c796e72ab9ca9c92ddb14b0",
+        "bytes": 709877,
+        "etag": "\"ad4f5-6509c2d3cd767\"",
+        "last_modified": "Wed, 29 Apr 2026 16:52:44 GMT"
+      },
+      "extractor": "780c2ba98e8725ab"
+    },
+    {
+      "clave": "queretaro/ley-organica-del-poder-ejecutivo",
+      "etiqueta": "Ley Orgánica del Poder Ejecutivo del Estado de Querétaro",
+      "sigla": "LOPE Qro",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Gobierno del Estado de Querétaro «La Sombra de Arteaga»",
+      "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
+      "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-08.pdf",
+      "estado": "excluida",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 019: la nota de la fracción XIV («(Modificación según oficio DALJ/601/15 publicado en el P.» / «O. No. 79, 15-X-15)») quedó partida en dos párrafos sueltos, sin cursiva, en vez de una sola nota; en el PDF ; 022: en las fracciones XXXIII y XXXIV, el texto «(esta adición/reforma entra en vigor 6 meses después…)» es parte de la nota de reforma en el PDF (mismo renglón), pero quedó como párrafo suelto sin cursiva; 034: al final del artículo quedó colado el fragmento «(Modificación según oficio DALJ/601/15», truncado, que es la nota del encabezado del Capítulo Décimo Quinto (De la Secretaría de Desarrollo Social), no; 035: las notas «(Modificación según oficio DALJ/601/15 publicado en el P. O. No. 79, 15-X-15)» quedaron pegadas al final del párrafo/fracción, sin cursiva y sin párrafo propio, en el proemio y las fraccion; 036: mismo caso que 035: las notas «(Modificación según oficio DALJ/601/15 …)» de las fracciones I a IX y XI quedaron inline en el texto de la fracción, sin cursiva ni párrafo propio",
+      "fecha": "2026-11-17",
+      "pdf": {
+        "sha256": "db070215ab5a699c0f61d0f5e3b9eeee0e714f02922d4de9d02ac818cb16d2bd",
+        "bytes": 838385,
+        "etag": "\"ccaf1-639fa4d02ad15\"",
+        "last_modified": "Tue, 15 Jul 2025 16:30:56 GMT"
+      },
+      "extractor": "780c2ba98e8725ab"
+    },
+    {
+      "clave": "queretaro/ley-organica-del-poder-judicial",
+      "etiqueta": "Ley Orgánica del Poder Judicial del Estado de Querétaro",
+      "sigla": "LOPJ Qro",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Gobierno del Estado de Querétaro «La Sombra de Arteaga»",
+      "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
+      "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-09.pdf",
+      "estado": "excluida",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 210: queda un párrafo final suelto «9» después de la nota «(Adición P. O. No. 80, 19-VIII-24)»: en el PDF (pág. 71) es un dígito pegado a la nota («19-VIII-24)9»), no texto de la ley; el extractor lo dejó ",
+      "fecha": "2026-11-17",
+      "pdf": {
+        "sha256": "f27d5800bd68347f1a35db15ac5996b577483c2b9e9b03b43533ff363b7e8bda",
+        "bytes": 666718,
+        "etag": "\"a2c5e-639fa4d0acb3a\"",
+        "last_modified": "Tue, 15 Jul 2025 16:30:57 GMT"
+      },
+      "extractor": "780c2ba98e8725ab"
+    },
+    {
+      "clave": "queretaro/ley-organica-del-poder-legislativo",
+      "etiqueta": "Ley Orgánica del Poder Legislativo del Estado de Querétaro",
+      "sigla": "LOPL Qro",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Gobierno del Estado de Querétaro «La Sombra de Arteaga»",
+      "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
+      "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-10.pdf",
+      "estado": "excluida",
+      "motivo": "invariantes rotos: [queretaro/ley-organica-del-poder-legislativo] sin fugas de encabezado/pie: 163.md, 207.md",
+      "fecha": "2026-11-17",
+      "pdf": {
+        "sha256": "753b8b962b4607929c6fe11cb761aee9f6c1db33e3fe94168aa659399288a4bc",
+        "bytes": 719115,
+        "etag": "\"af90b-639fa4d11ef5f\"",
+        "last_modified": "Tue, 15 Jul 2025 16:30:57 GMT"
+      },
+      "extractor": "780c2ba98e8725ab"
+    },
+    {
+      "clave": "queretaro/ley-organica-del-tribunal-de-justicia-administrativa",
+      "etiqueta": "Ley Orgánica del Tribunal de Justicia Administrativa del Estado de Querétaro",
+      "sigla": "LOTJA Qro",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Gobierno del Estado de Querétaro «La Sombra de Arteaga»",
+      "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
+      "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-11.pdf",
+      "estado": "excluida",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 023: la nota de reforma de la fracción II «(Ref. P.O. Mo. 87, 30-IX-21)» (con el «Mo.» del PDF) quedó pegada al final del párrafo «II. Los juicios que se promuevan… conforme a lo siguiente:» en vez de ir e; 026: las cinco notas «(Ref. P.O. Mo. 87, 30-IX-21)» (con el «Mo.» del PDF) quedaron pegadas al final de cada uno de los cinco párrafos en vez de ir como párrafos en cursiva aparte, a diferencia del resto d",
+      "fecha": "2026-11-17",
+      "pdf": {
+        "sha256": "e9939cf083f3b52b33cab3360c2d8cbd4e6380ab1c3de7734590ed99f8914c9e",
+        "bytes": 338832,
+        "etag": "\"52b90-639fa4d1c9dc6\"",
+        "last_modified": "Tue, 15 Jul 2025 16:30:58 GMT"
+      },
+      "extractor": "780c2ba98e8725ab"
+    },
+    {
+      "clave": "queretaro/ley-organica-municipal",
+      "etiqueta": "Ley Orgánica Municipal del Estado de Querétaro",
+      "sigla": "LOM Qro",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Gobierno del Estado de Querétaro «La Sombra de Arteaga»",
+      "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
+      "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-13.pdf",
+      "estado": "excluida",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 005: faltan los últimos cuatro municipios de la tabla del PDF (SAN JOAQUIN, SAN JUAN DEL RIO, TEQUISQUIAPAN, TOLIMAN); el texto termina en «QUERETARO: SANTIAGO DE QUERÉTARO.». Además la tabla Municipio/Cab; 053: la «y» que cierra la fracción II («...de que se trate; y») quedó como párrafo suelto, separada de la fracción II y antes de su nota de reforma; en el PDF es el final del renglón de la fracción II.",
+      "fecha": "2026-11-17",
+      "pdf": {
+        "sha256": "a4391f82ce9de0f078d36f2bf3e847888e74f6bf2cc6f0f14037b0fd3ef076c4",
+        "bytes": 742377,
+        "etag": "\"b53e9-65ae6387442d6\"",
+        "last_modified": "Mon, 07 Sep 2026 15:24:56 GMT"
       },
       "extractor": "780c2ba98e8725ab"
     }
