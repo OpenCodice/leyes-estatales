@@ -1,6 +1,26 @@
 {
   "documentos": [
     {
+      "clave": "cdmx/codigo-civil",
+      "etiqueta": "Código Civil para el Distrito Federal",
+      "sigla": "CC CDMX",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Gaceta Oficial de la Ciudad de México",
+      "indice": "https://data.consejeria.cdmx.gob.mx/index.php/leyes/codigos",
+      "url": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/CODIGOS_2025/CODIGO_CIVIL_PARA_EL_DF_15.4.pdf",
+      "estado": "excluida",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 135-quater: el texto del artículo «135 Quitus» (rótulo «Artículo 135 Quitus.» y su párrafo) quedó dentro del archivo 135-quater; falta su archivo; 138-quintus: el artículo «138 Sextus» quedó absorbido como párrafo de 138-quintus; falta su archivo; 182-quintus: el artículo «182 Sextus» quedó absorbido como párrafo de 182-quintus; falta su archivo; 236: párrafo partido a media oración: «…cónyuge engañado;» / «pero si éste no denuncia…» (en el PDF es un solo párrafo, sin espacio entre renglones); 272: párrafo partido a media oración tras «convengan en divorciarse;» (en el PDF es continuo) (y 40 más)",
+      "fecha": "2026-11-17",
+      "pdf": {
+        "sha256": "98e7c7b6df959bade40683db121bed1927cae922a04012ac0c58486584bfd921",
+        "bytes": 2791344,
+        "etag": "\"2a97b0-65c937d985e6f\"",
+        "last_modified": "Mon, 28 Sep 2026 23:33:17 GMT"
+      },
+      "extractor": "79b0d83ecb3f8cab"
+    },
+    {
       "clave": "cdmx/codigo-de-instituciones-y-procedimientos-electorales",
       "etiqueta": "Código de Instituciones y Procedimientos Electorales de la Ciudad de México",
       "sigla": "CIPE CDMX",
@@ -161,6 +181,26 @@
         "fecha": "2026-11-17",
         "via": "limpia"
       }
+    },
+    {
+      "clave": "jalisco/codigo-civil",
+      "etiqueta": "Código Civil del Estado de Jalisco",
+      "sigla": "CC Jalisco",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Estado de Jalisco",
+      "indice": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/busquedasleyes/Listado'2.cfm",
+      "url": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/legislacion/C%C3%B3digos/Documentos_PDF-C%C3%B3digos/C%C3%B3digo%20Civil%20del%20Estado%20de%20Jalisco-240626.pdf",
+      "estado": "excluida",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 561: el párrafo se parte a media oración: «…lo dispuesto por el artículo» / «406. Para tal efecto…»; en el PDF es un solo párrafo; 566: el encabezado estructural «TÍTULO SEPTIMO De Niñas, Niños y Adolescentes» quedó pegado al final de la fracción V (último párrafo); 1441: la «y» final de la fracción II (pág. 155-165, renglón envuelto) quedó como párrafo aparte; el PDF la trae al final de «…más breve; y»; 1477: la «y» final de la fracción I quedó como párrafo aparte en vez de seguir a «…por cuenta del acreedor;»; 1488: «Artículos 1535 y / 1536.» partido en dos párrafos; es un solo párrafo envuelto en el PDF (y 14 más)",
+      "fecha": "2026-11-17",
+      "pdf": {
+        "sha256": "c0d66178910ac334c25e4870471712ce21e6c562a820d2f9cc29d4dbae26c7d2",
+        "bytes": 2275503,
+        "etag": "\"e19698f214dd1:0\"",
+        "last_modified": "Wed, 24 Jun 2026 21:36:47 GMT"
+      },
+      "extractor": "79b0d83ecb3f8cab"
     },
     {
       "clave": "jalisco/codigo-de-asistencia-social",
