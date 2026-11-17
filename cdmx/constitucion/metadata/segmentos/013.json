@@ -164,7 +164,16 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 13 › Apartado C",
-      "texto": "C. Derecho a la vía pública Toda persona tiene derecho al uso pacífico de la vía pública, en los términos previstos por la ley. Las autoridades adoptarán las medidas necesarias para garantizar el ejercicio de este derecho, con base en los objetivos de funcionalidad y movilidad de las vías públicas."
+      "texto": "C. Derecho a la vía pública"
+    },
+    {
+      "id": "013.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado C › párrafo 2",
+      "texto": "Toda persona tiene derecho al uso pacífico de la vía pública, en los términos previstos por la ley. Las autoridades adoptarán las medidas necesarias para garantizar el ejercicio de este derecho, con base en los objetivos de funcionalidad y movilidad de las vías públicas."
     },
     {
       "id": "013.D",
@@ -185,21 +194,21 @@
       "texto": "1. Los espacios públicos son bienes comunes. Tienen una función política, social, educativa, cultural, lúdica y recreativa. Las personas tienen derecho a usar, disfrutar y aprovechar todos los espacios públicos para la convivencia pacífica y el ejercicio de las libertades políticas y sociales reconocidas por esta Constitución, de conformidad con lo previsto por la ley."
     },
     {
-      "id": "013.p2",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "D",
-      "fraccion": "",
-      "ruta": "Artículo 13 › Apartado D › párrafo 2",
-      "texto": "Se entiende por espacio público al conjunto de bienes de uso común destinados a la generación y fomento de la interacción social, o bien, que permitan el desarrollo de las personas."
-    },
-    {
       "id": "013.p3",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "D",
       "fraccion": "",
       "ruta": "Artículo 13 › Apartado D › párrafo 3",
+      "texto": "Se entiende por espacio público al conjunto de bienes de uso común destinados a la generación y fomento de la interacción social, o bien, que permitan el desarrollo de las personas."
+    },
+    {
+      "id": "013.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "D",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado D › párrafo 4",
       "texto": "Son objetivos del espacio público:"
     },
     {
@@ -290,15 +299,24 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 13 › Apartado F",
-      "texto": "F. Derecho al tiempo libre En la Ciudad de México, toda persona tiene derecho a tener tiempo para la convivencia, el esparcimiento, el cuidado personal, el descanso, el disfrute del ocio y a una duración razonable de sus jornadas de trabajo."
+      "texto": "F. Derecho al tiempo libre"
     },
     {
-      "id": "013.p4",
+      "id": "013.p5",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "F",
       "fraccion": "",
-      "ruta": "Artículo 13 › Apartado F › párrafo 4",
+      "ruta": "Artículo 13 › Apartado F › párrafo 5",
+      "texto": "En la Ciudad de México, toda persona tiene derecho a tener tiempo para la convivencia, el esparcimiento, el cuidado personal, el descanso, el disfrute del ocio y a una duración razonable de sus jornadas de trabajo."
+    },
+    {
+      "id": "013.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "F",
+      "fraccion": "",
+      "ruta": "Artículo 13 › Apartado F › párrafo 6",
       "texto": "En atención al principio de igualdad sustantiva, las autoridades impulsarán políticas sociales, económicas y territoriales que liberen tiempo y permitan a las personas alcanzar el bienestar."
     }
   ]

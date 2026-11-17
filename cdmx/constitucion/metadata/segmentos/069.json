@@ -12,7 +12,16 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 69 › párrafo 1",
-      "texto": "REFORMAS A LA CONSTITUCIÓN Esta Constitución podrá ser reformada o adicionada en cualquier tiempo, de conformidad con lo siguiente:"
+      "texto": "REFORMAS A LA CONSTITUCIÓN"
+    },
+    {
+      "id": "069.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 2",
+      "texto": "Esta Constitución podrá ser reformada o adicionada en cualquier tiempo, de conformidad con lo siguiente:"
     },
     {
       "id": "069.1",
@@ -60,22 +69,13 @@
       "texto": "5. Sólo el Congreso, por el voto de las dos terceras partes de sus integrantes, podrá disponer la celebración del referéndum sobre las reformas aprobadas a esta Constitución."
     },
     {
-      "id": "069.p2",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "",
-      "fraccion": "",
-      "ruta": "Artículo 69 › párrafo 2",
-      "texto": "Una vez aprobadas las adiciones, reformas o derogaciones constitucionales, el Congreso hará la declaratoria del inicio del procedimiento del referéndum."
-    },
-    {
       "id": "069.p3",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 69 › párrafo 3",
-      "texto": "En su caso, el referéndum se realizará en la fecha que establezca el Congreso de la Ciudad."
+      "texto": "Una vez aprobadas las adiciones, reformas o derogaciones constitucionales, el Congreso hará la declaratoria del inicio del procedimiento del referéndum."
     },
     {
       "id": "069.p4",
@@ -84,7 +84,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 69 › párrafo 4",
-      "texto": "Cuando la participación total corresponda, al menos, al treinta y tres por ciento de las y los ciudadanos inscritos en la lista nominal de electores, el referéndum será vinculante."
+      "texto": "En su caso, el referéndum se realizará en la fecha que establezca el Congreso de la Ciudad."
     },
     {
       "id": "069.p5",
@@ -93,6 +93,15 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 69 › párrafo 5",
+      "texto": "Cuando la participación total corresponda, al menos, al treinta y tres por ciento de las y los ciudadanos inscritos en la lista nominal de electores, el referéndum será vinculante."
+    },
+    {
+      "id": "069.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 69 › párrafo 6",
       "texto": "La Sala Constitucional de la Ciudad de México, en los términos que determine la ley, será competente para substanciar y resolver sobre las impugnaciones que se presenten en el desarrollo del procedimiento de referéndum."
     },
     {

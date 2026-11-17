@@ -12,15 +12,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 7 › párrafo 1",
-      "texto": "CIUDAD DEMOCRÁTICA",
-      "reformas": [
-        {
-          "nota": "Numeral adicionado G.O. CDMX 19/12/25",
-          "fechas": [
-            "2025-12-19"
-          ]
-        }
-      ]
+      "texto": "CIUDAD DEMOCRÁTICA"
     },
     {
       "id": "007.A",
@@ -74,7 +66,24 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 7 › Apartado B",
-      "texto": "B. Libertad de reunión y asociación Todas las personas tienen derecho a reunirse pacíficamente y asociarse libremente para promover, ejercer y proteger intereses u objetos lícitos, observándose las previsiones contenidas en la Constitución Política de los Estados Unidos Mexicanos y en esta Constitución."
+      "texto": "B. Libertad de reunión y asociación"
+    },
+    {
+      "id": "007.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado B › párrafo 2",
+      "texto": "Todas las personas tienen derecho a reunirse pacíficamente y asociarse libremente para promover, ejercer y proteger intereses u objetos lícitos, observándose las previsiones contenidas en la Constitución Política de los Estados Unidos Mexicanos y en esta Constitución.",
+      "reformas": [
+        {
+          "nota": "Numeral adicionado G.O. CDMX 19/12/25",
+          "fechas": [
+            "2025-12-19"
+          ]
+        }
+      ]
     },
     {
       "id": "007.C",
