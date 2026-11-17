@@ -26,13 +26,7 @@
       },
       "revision_pendiente": {
         "fecha": "2026-11-17",
-        "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 004: la nota «Fe de Erratas G.O. CDMX 13/11/2023» quedó pegada al inicio del cuerpo de la fracción «II Bis. Bloques de competitividad…» (mismo párrafo) en vez de ir en su propio párrafo; 004: la nota «Fe de Erratas G.O. CDMX 13/11/2023» quedó pegada al párrafo «Para el caso de la elección de las personas integrantes del Poder Judicial…» (mismo párrafo); 005: se omitió la nota «Fe de Erratas G.O. CDMX 13/11/2023» que el PDF pone entre la nota «Fracción reformada G.O. CDMX 02/06/2023» y el rótulo «Artículo 5» (pág. 8); no está ni en 004 ni en 005; 006: la nota «Fe de Erratas G.O. CDMX 13/11/2023» quedó pegada al párrafo «Las personas que se encuentren sujetas a prisión preventiva…» (mismo párrafo); 024: se omitió la nota «Fe de Erratas 13/11/2023» que el PDF pone tras «Fracción adicionada G.O. CDMX 02/06/2023», al final del art. 24 y antes del encabezado «SECCIÓN SEGUNDA» (pág. 24-25) (y 39 más)",
-        "pdf": {
-          "sha256": "491dc07938d7bd104142e7c02d216410f7f9cbaff6e5053f3a99a08a7a72cf2b",
-          "bytes": 2073772,
-          "etag": "\"1fa4ac-65721cb8ad0cf\"",
-          "last_modified": "Tue, 21 Jul 2026 16:48:40 GMT"
-        }
+        "motivo": "La corrección de extracción no quedó confirmada contra el PDF (arts. 013, 016, 125, 180, 207, 257, 265, 273 y más); se conserva el texto publicado."
       }
     },
     {
@@ -73,13 +67,7 @@
       },
       "revision_pendiente": {
         "fecha": "2026-11-17",
-        "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 031: inciso d. pegado al c. en un solo párrafo; en el PDF (pág. 12) son renglones separados; 029-bis: el rótulo del PDF deja un «- » suelto al inicio del cuerpo (se vuelve viñeta); 029-ter: el rótulo del PDF deja un «- » suelto al inicio del cuerpo (se vuelve viñeta); 049: absorbió «ARTÍCULOS 50.-» (rótulo en plural) y «ARTÍCULO 50 BIS» con su texto, pág. 18; 050: artículo del PDF sin archivo; su texto quedó dentro del 049 (y 36 más)",
-        "pdf": {
-          "sha256": "5ac9b74e0d17e2df796bdfca78027b4df05fca33707d0f5b0f394a251bb59785",
-          "bytes": 1816703,
-          "etag": "\"1bb87f-65ca0c2fe416f\"",
-          "last_modified": "Tue, 29 Sep 2026 15:23:16 GMT"
-        }
+        "motivo": "La corrección de extracción no quedó confirmada contra el PDF (arts. 031, 138, 179, 191, 227, 237, 267, 291 y más); se conserva el texto publicado."
       }
     },
     {
@@ -108,13 +96,7 @@
       },
       "revision_pendiente": {
         "fecha": "2026-11-17",
-        "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 006: fracción VII inciso a) partido en dos párrafos: «especialmente cuando se trate de mujeres indígenas y/o afrodescendientes o personas de la diversidad sexo-genérica;» es la continuación del inciso a) e; 018: fracción III partida en dos párrafos: «adicciones; accidentes; interrupción legal del embarazo; …» continúa la misma fracción en el PDF (pág. 19, mismo sangrado e interlineado), pero quedó como párraf; 021: fracción I partida: la «y» final quedó como párrafo suelto; en el PDF (pág. 21) es el renglón final de la fracción I; 034: fracción I partida: «cuando se trate de violencia sexual, serán trasladadas a la agencia del Ministerio Público que corresponda;» es continuación de la fracción I en el PDF (pág. 28), no un párrafo ap",
-        "pdf": {
-          "sha256": "ffb25616e2ad9d19fc2f8dd3c08ed05aabcb59debb8081d91dfcc1a225e02eb6",
-          "bytes": 671650,
-          "etag": "\"a3fa2-65a0b19d1b3cf\"",
-          "last_modified": "Thu, 27 Aug 2026 17:59:44 GMT"
-        }
+        "motivo": "La corrección de extracción no quedó confirmada contra el PDF (arts. 006, 018, 021, 034, 035); se conserva el texto publicado."
       }
     },
     {
@@ -143,13 +125,7 @@
       },
       "revision_pendiente": {
         "fecha": "2026-11-17",
-        "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 031-bis-19: el párrafo «Las personas que ejerzan profesiones de trabajo social y psicología…» está partido en dos: termina en «DIF-» y «CDMX.» queda como párrafo aparte; en el PDF es una sola oración con salto de",
-        "pdf": {
-          "sha256": "ec9522c9f3e730f9d5e954630dc9719637d1bfa059e707d2ede141559b4e9905",
-          "bytes": 821247,
-          "etag": "\"c87ff-65ca0ee08df0f\"",
-          "last_modified": "Tue, 29 Sep 2026 15:35:18 GMT"
-        }
+        "motivo": "La corrección de extracción no quedó confirmada contra el PDF (arts. 034, 036, 058, 078, 106); se conserva el texto publicado."
       }
     },
     {
@@ -178,13 +154,7 @@
       },
       "revision_pendiente": {
         "fecha": "2026-11-17",
-        "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 082: dos párrafos unidos: en el PDF (pág. 30) «…su retribución será cubierta en los términos que señale la normatividad correspondiente» (sin punto final) y «El o la titular de la Alcaldía garantizará al C; 068: posible párrafo partido a media oración: «…tengan validez;» y «cuando no haya ese número, o las faltas excedieran el plazo indicado, se llamará al suplente respectivo.» quedaron en párrafos separados ",
-        "pdf": {
-          "sha256": "859852c3fb00f2b23236b72faf8cf7566440cc4e508e38db27a58b5e2c25d74f",
-          "bytes": 701710,
-          "etag": "\"ab50e-65c93e15cd5cf\"",
-          "last_modified": "Tue, 29 Sep 2026 00:01:11 GMT"
-        }
+        "motivo": "La corrección de extracción no quedó confirmada contra el PDF (arts. 024, 043, 068, 073, 170); se conserva el texto publicado."
       }
     },
     {
@@ -213,14 +183,153 @@
       },
       "revision_pendiente": {
         "fecha": "2026-11-17",
-        "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 031: falta el último renglón del artículo en el PDF, tras «La o el Presidente responderá sólo ante el Pleno…»: «En la elección de la Presidencia de la Mesa Directiva se atenderá el principio de paridad» (p",
-        "pdf": {
-          "sha256": "05cc0999c9a2c4764b7dc0f12e42d6c38462ab22e468457fb003527ea642c74d",
-          "bytes": 747516,
-          "etag": "\"b67fc-6573b9fabc58f\"",
-          "last_modified": "Wed, 22 Jul 2026 23:37:33 GMT"
-        }
+        "motivo": "La corrección de extracción no quedó confirmada contra el PDF (arts. 004, 118); se conserva el texto publicado."
       }
+    },
+    {
+      "clave": "jalisco/codigo-de-asistencia-social",
+      "etiqueta": "Código de Asistencia Social del Estado de Jalisco",
+      "sigla": "CAS Jalisco",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Estado de Jalisco",
+      "indice": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/busquedasleyes/Listado'2.cfm",
+      "url": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/legislacion/C%C3%B3digos/Documentos_PDF-C%C3%B3digos/C%C3%B3digo%20de%20Asistencia%20Social%20del%20Estado%20de%20Jalisco-251125.pdf",
+      "estado": "excluida",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 005: los incisos «n) En estado de orfandad por feminicidio u homicidio;» y «ñ) Con enfermedades o trastornos mentales;» están unidos en un solo párrafo; en el PDF son dos renglones/párrafos separados; 136: el art. 137 (rótulo «Artículo 137-.» que el parser no reconoció) quedó dentro del art. 136 como párrafos 2 a 5; no existe archivo 137; 137: falta el archivo del art. 137 (con sus fracciones I a III, multas de 30 a 300 UMA); su texto está dentro del 136",
+      "fecha": "2026-11-17",
+      "pdf": {
+        "sha256": "5bbe8f632753b2a654b3a2b643fe4d36f2ed4577ee5f0a78ce2aa854ef6d67ec",
+        "bytes": 627545,
+        "etag": "\"177e13176c5edc1:0\"",
+        "last_modified": "Wed, 26 Nov 2025 00:32:05 GMT"
+      },
+      "extractor": "da7ecbddfe36b77c"
+    },
+    {
+      "clave": "jalisco/codigo-de-procedimientos-civiles",
+      "etiqueta": "Código de Procedimientos Civiles del Estado de Jalisco",
+      "sigla": "CPC Jalisco",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Estado de Jalisco",
+      "indice": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/busquedasleyes/Listado'2.cfm",
+      "url": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/legislacion/C%C3%B3digos/Documentos_PDF-C%C3%B3digos/C%C3%B3digo%20de%20Procedimientos%20Civiles%20del%20Estado%20de%20Jalisco-250424.pdf",
+      "estado": "excluida",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 988: el PDF trae dos renglones «Artículo 988.-»: el primero (tutor interino…) y un segundo «Artículo 988.- Se deroga.»; el extractor dejó el segundo dentro del art. 988 como último párrafo con su rótulo («; 1089: el párrafo único quedó partido en dos: «…las disposiciones de los artículos 686 a» y, como párrafo aparte, «692.». En el PDF es un solo párrafo (el corte es salto de línea del renglón).",
+      "fecha": "2026-11-17",
+      "pdf": {
+        "sha256": "a67d7fe23be0aef93b12791ba3bf060ff2dd773cfe15496adfae7dc36bebdd74",
+        "bytes": 1372537,
+        "etag": "\"848195334097da1:0\"",
+        "last_modified": "Thu, 25 Apr 2024 18:41:35 GMT"
+      },
+      "extractor": "da7ecbddfe36b77c"
+    },
+    {
+      "clave": "jalisco/codigo-electoral",
+      "etiqueta": "Código Electoral del Estado de Jalisco",
+      "sigla": "CE Jalisco",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Estado de Jalisco",
+      "indice": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/busquedasleyes/Listado'2.cfm",
+      "url": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/legislacion/C%C3%B3digos/Documentos_PDF-C%C3%B3digos/C%C3%B3digo%20Electoral%20del%20Estado%20de%20Jalisco-300926.pdf",
+      "estado": "excluida",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 459-ter-1: El rótulo del PDF «Artículo 459 Ter. 1.» (art. 459 Ter, párrafo 1) se leyó como clave «459 Ter 1»: encabezado «# Artículo 459 Ter 1» incorrecto y el numeral «1.» se perdió del primer párrafo.; 609: Al final del artículo quedó colado el encabezado de estructura «Título Séptimo Bis.» (el epígrafe «Juicio para la protección de los derechos político-electorales del Ciudadano» sigue en el PDF; no es ; 609-quinquies: Absorbió al art. 609 Sexties: tras el párrafo 1 trae «Capítulo Tercero Sentencias y Notificaciones Artículo 609. Sexties.» como párrafo y todo el texto del 609 Sexties (párrs. 1 y 2, incisos a y b); e; 729: el párrafo 2 quedó partido en dos: «Dicha documentación deberá cumplir con los requisitos…» es continuación del mismo párrafo 2 en el PDF (misma interlínea de 11.5 pt, sin sangría ni espacio previo, s",
+      "fecha": "2026-11-17",
+      "pdf": {
+        "sha256": "85f9994646c6b19492be0fcd372f3d821e734ded536c87e62bc2db1ac48ed4cc",
+        "bytes": 1133292,
+        "etag": "\"111c8cb6a51dd1:0\"",
+        "last_modified": "Wed, 30 Sep 2026 18:37:14 GMT"
+      },
+      "extractor": "da7ecbddfe36b77c"
+    },
+    {
+      "clave": "jalisco/codigo-penal",
+      "etiqueta": "Código Penal para el Estado Libre y Soberano de Jalisco",
+      "sigla": "CP Jalisco",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Estado de Jalisco",
+      "indice": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/busquedasleyes/Listado'2.cfm",
+      "url": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/legislacion/C%C3%B3digos/Documentos_PDF-C%C3%B3digos/C%C3%B3digo%20Penal%20para%20el%20Estado%20Libre%20y%20Soberano%20de%20Jalisco%20-271026.pdf",
+      "estado": "excluida",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 021: la fracción XX se partió en dos párrafos a mitad de oración: «…en los artículos 310 y» / «311.»; en el PDF es un solo párrafo (salto de renglón); 135: el artículo «Art. 135 bis. Se deroga.» (rótulo propio en el PDF, entre el 135 y el 136) quedó como último párrafo del 135 y no tiene archivo; 142: la nota editorial «(La porción normativa resaltada fue reformada por Decreto 30134/LXIV/26 … Acción de Inconstitucionalidad 48/2026 …)» quedó pegada al final del párrafo de la ley, sin cursiva ni párr; 154-a: la nota editorial «(las porciones normativas resaltadas fueron reformadas …)» del PDF quedó pegada al texto de la ley, sin cursiva y sin párrafo propio como nota de reforma (Decreto 27295/LXII/19 / AI; 154-b: la nota editorial «(las porciones normativas resaltadas fueron reformadas …)» del PDF quedó pegada al texto de la ley, sin cursiva y sin párrafo propio como nota de reforma: va pegada a la fracción I  (y 18 más)",
+      "fecha": "2026-11-17",
+      "pdf": {
+        "sha256": "d292feb4317d0b0e34f8ac19f542a046f04135d95adbd083fc57fc1051d25e25",
+        "bytes": 1227998,
+        "etag": "\"18852ea55a66dd1:0\"",
+        "last_modified": "Tue, 27 Oct 2026 21:32:19 GMT"
+      },
+      "extractor": "da7ecbddfe36b77c"
+    },
+    {
+      "clave": "jalisco/ley-organica-del-poder-ejecutivo",
+      "etiqueta": "Ley Orgánica del Poder Ejecutivo del Estado de Jalisco",
+      "sigla": "LOPE Jalisco",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Estado de Jalisco",
+      "indice": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/busquedasleyes/Listado'2.cfm",
+      "url": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/legislacion/Leyes/Documentos_PDF-Leyes/Ley%20Org%C3%A1nica%20del%20Poder%20Ejecutivo%20del%20Estado%20de%20Jalisco-240926.pdf",
+      "estado": "incluida",
+      "version": "2026-09-19",
+      "unidades": 93,
+      "pdf": {
+        "sha256": "76a2bd0ca7a46c7c2acf2f426ee55c758575c90e0134818a60d8cdd3c9ca34f9",
+        "bytes": 728997,
+        "etag": "\"3492c066904cdd1:0\"",
+        "last_modified": "Fri, 25 Sep 2026 01:51:37 GMT"
+      },
+      "extractor": "da7ecbddfe36b77c",
+      "extractor_sha": "671aed92bfbbcba95ab760b02d6573450eeb2313",
+      "alta": {
+        "fecha": "2026-11-17",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "jalisco/ley-organica-del-poder-judicial",
+      "etiqueta": "Ley Orgánica del Poder Judicial del Estado de Jalisco",
+      "sigla": "LOPJ Jalisco",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Estado de Jalisco",
+      "indice": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/busquedasleyes/Listado'2.cfm",
+      "url": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/legislacion/Leyes/Documentos_PDF-Leyes/Ley%20Org%C3%A1nica%20del%20Poder%20Judicial%20del%20Estado%20de%20Jalisco-141026.pdf",
+      "estado": "excluida",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 004: el artículo 4 absorbió al artículo 5 (4 párrafos, pág. 2) y al 5 Bis: el texto «Artículo 5. Los tribunales…» y «Artículo 5 Bis.- Con el objeto de simplificar…» quedó como párrafos del 004; no existen ; 023: el párrafo «Así como removerlos en los términos que determinen las leyes.» (pág. 11) está partido en párrafo aparte; en el PDF es continuación del párrafo anterior (línea previa justificada a ancho co; 034: la fracción «XIX. Derogado» quedó unida al párrafo siguiente «Para efectos de un adecuado control y evaluación…» (en el PDF, págs. 14-15, son párrafos separados); 051: el artículo 51 bis («Las salas especializadas, auxiliares y regionales mixtas conocerán de…») quedó dentro del 051, sin archivo 051-bis, y sus fracciones l., ll., lll. quedaron unidas en un solo párra; 058: el cuerpo quedó como «Derogado)» / «DEROGADO)»: perdió el paréntesis de apertura; el PDF dice «(Derogado)» / «(DEROGADO)» (el rótulo se comió el «(») (y 46 más)",
+      "fecha": "2026-11-17",
+      "pdf": {
+        "sha256": "5accea9bc1fac719a2aa773b637fc783dd0dcded7195165263df77f61b7fd91f",
+        "bytes": 958175,
+        "etag": "\"c1dc9f802e5cdd1:0\"",
+        "last_modified": "Wed, 14 Oct 2026 22:51:08 GMT"
+      },
+      "extractor": "da7ecbddfe36b77c"
+    },
+    {
+      "clave": "jalisco/ley-organica-del-poder-legislativo",
+      "etiqueta": "Ley Orgánica del Poder Legislativo del Estado de Jalisco",
+      "sigla": "LOPL Jalisco",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Estado de Jalisco",
+      "indice": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/busquedasleyes/Listado'2.cfm",
+      "url": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/legislacion/Leyes/Documentos_PDF-Leyes/Ley%20Org%C3%A1nica%20del%20Poder%20Legislativo%20del%20Estado%20de%20Jalisco%20-240926.pdf",
+      "estado": "excluida",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 028: el párrafo 3 está truncado: dice «recibir el apoyo de la proyectos.»; falta «Secretaría General y sus Coordinaciones, para el desahogo de sus reuniones de trabajo y la difusión de sus» (el PDF lo trae; 132-f: absorbió al artículo siguiente: tras el párrafo 2 quedó pegado el rótulo «Artículo 132G.» y sus 5 párrafos; 132-g: el artículo 132 G del PDF no tiene archivo propio (su texto quedó dentro de 132-f)",
+      "fecha": "2026-11-17",
+      "pdf": {
+        "sha256": "9f90541efbf612c3b609b8b55fd7284607f9008b11c8af60a774add6ed4a50be",
+        "bytes": 815750,
+        "etag": "\"b06e77e7884cdd1:0\"",
+        "last_modified": "Fri, 25 Sep 2026 00:57:57 GMT"
+      },
+      "extractor": "da7ecbddfe36b77c"
     }
   ]
 }
