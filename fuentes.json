@@ -394,7 +394,7 @@
       "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/",
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/COD-ID-01.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 005: la «y» final de la fracción LI («…normativa complementaria; y») quedó como párrafo suelto, separada de su fracción y antes de la nota de reforma; en el PDF es la primera palabra de la línea siguiente ; 165: el epígrafe estructural «De la financiación y del fomento.» (Capítulo IV) quedó como último párrafo del artículo; 167: el epígrafe estructural «De la participación social.» (Capítulo V) quedó como último párrafo del artículo",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 165: el epígrafe estructural «De la financiación y del fomento.» (Capítulo IV) quedó como último párrafo del artículo; 167: el epígrafe estructural «De la participación social.» (Capítulo V) quedó como último párrafo del artículo",
       "fecha": "2026-11-17",
       "pdf": {
         "sha256": "a41b5ae5e7bd94b166d30f6f4333a5a649f5d0963ed9fcaff618725b29bed572",
@@ -402,7 +402,7 @@
         "etag": "\"11fa50-639f9262ce875\"",
         "last_modified": "Tue, 15 Jul 2025 15:08:30 GMT"
       },
-      "extractor": "1c30c4739e558313"
+      "extractor": "d5141153547758e4"
     },
     {
       "clave": "queretaro/codigo-civil",
@@ -494,7 +494,7 @@
       "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/",
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/COD-ID-07.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 150-bis: el artículo absorbió a su vecino: tras «Derogado.» y su nota quedó el rótulo «ARTÍCULO 150 BIS UNO.- Derogado.» con su nota (pág. 42); falta el archivo 150-bis-uno; 155: la conjunción «o» con que termina la fracción I (en el PDF «o (Ref. P. O. No. 67, 19-VIII-25)» en renglón aparte) quedó como párrafo suelto «o», separada de la fracción I; 157-ter: la fracción VI quedó partida en dos párrafos a media oración: «…relación laboral, de docencia o educativa;» y «parentesco, sea cónyuge o mantenga concubinato.» (pág. 45); 137: el PDF trae «hecho. ((Ref. P. O. No. 29, 8-VI-12)»: el párrafo 2 terminó con un «(» suelto dentro del texto y la nota quedó con un solo paréntesis; 166-bis: dos notas de reforma quedaron dentro del texto del párrafo, sin separar en su propio párrafo en cursiva: «(Adición. P. O. No. 58, 15-VII-26)» al final de la fracción XIV y «(Adición P.O. NO. 71, 21-XI (y 3 más)",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 150-bis: el archivo absorbió al artículo vecino: tras «Derogado.» y su nota trae un segundo párrafo «ARTÍCULO 150 BIS UNO.- Derogado.» con su nota (pág. 42). El PDF lo tiene como artículo propio y no existe ar; 157-ter: la fracción VI está partida en dos párrafos: «...relación laboral, de docencia o educativa;» y «parentesco, sea cónyuge o mantenga concubinato.». En el PDF (pág. 45) son renglones consecutivos de una ; 166-bis: en la fracción XIV la nota «(Adición. P. O. No. 58, 15-VII-26)» no se separó: quedó dentro del cuerpo del párrafo, sin cursiva y pegada a «poco accesible;», a diferencia de las demás fracciones, donde; 221: el artículo absorbió a seis vecinos: contiene también «ARTÍCULO 22I BIS» (221 bis, clandestinaje) y 221 BIS-A, BIS-B, BIS-C, BIS-D y BIS-E (págs. 71-73), más las notas de los encabezados de Capítulo V; 306: la nota de reforma del párrafo 1 quedó como «_(Ref. P. O. No. 61, 1- IX-17)_» con un espacio dentro de la fecha; el PDF la parte por fin de renglón («1-» / «IX-17») y dice «1-IX-17» (como en las demás",
       "fecha": "2026-11-17",
       "pdf": {
         "sha256": "7ddbfd13dc1c1007317e7ed98ce09ca90350a55e7769d80a6a6a538a7ccdec5b",
@@ -502,7 +502,7 @@
         "etag": "\"f167c-65ae626b7b731\"",
         "last_modified": "Mon, 07 Sep 2026 15:19:58 GMT"
       },
-      "extractor": "1c30c4739e558313"
+      "extractor": "d5141153547758e4"
     },
     {
       "clave": "queretaro/codigo-urbano",
@@ -514,7 +514,7 @@
       "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/",
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/COD-ID-06.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 152: el párrafo 2 quedó partido a media oración: «…banquetas que tengan por lo menos» / «1.80 metros de ancho libres…»; en el PDF (pág. 48) es un solo párrafo continuo; 215: la «y» que cierra el inciso 5 de la fracción I.b quedó como párrafo suelto, separado de «…ordenamiento territorial;»; en el PDF (pág. 66) es continuación del mismo renglón/párrafo («territorial; y (Re; 240: el párrafo «Al apéndice de la escritura… eléctricos y de gas;» quedó partido y «documentos administrativos que dan origen a la autorización del condominio, así como el Reglamento interno del condomini; 337: el artículo es un solo párrafo en el PDF (pág. 97); quedó partido tras «…Instituto Nacional de Antropología e Historia;» y «para dichas construcciones se estará a lo previsto…» salió como párrafo apar; 359: la «y» que cierra la fracción I («…volumetría, entre otros; y») quedó como párrafo suelto; en el PDF (pág. 102) es la continuación del mismo renglón/párrafo de la fracción I (y 1 más)",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 152: el párrafo 2 quedó partido a media oración: «…banquetas que tengan por lo menos» / «1.80 metros de ancho libres…»; en el PDF (pág. 48) es un solo párrafo continuo; 217: la fracción II quedó partida en dos párrafos a mitad de la nota de fe de erratas: un párrafo termina en «…publicado en el P. O.» y otro, separado, dice «No. 38, 11-V-18)». En el PDF (pág. 67) es un so; 240: el párrafo «Al apéndice de la escritura… eléctricos y de gas;» quedó partido y «documentos administrativos que dan origen a la autorización del condominio, así como el Reglamento interno del condomini; 337: el artículo es un solo párrafo en el PDF (pág. 97); quedó partido tras «…Instituto Nacional de Antropología e Historia;» y «para dichas construcciones se estará a lo previsto…» salió como párrafo apar; 359: la «y» que cierra la fracción I («…volumetría, entre otros; y») quedó como párrafo suelto; en el PDF (pág. 102) es la continuación del mismo renglón/párrafo de la fracción I (y 1 más)",
       "fecha": "2026-11-17",
       "pdf": {
         "sha256": "dd0ee6809ce314fb877eecac864a07d1a053d38277eb7b83812940b2d7d256ee",
@@ -522,7 +522,7 @@
         "etag": "\"10a0bb-639f92616dfc5\"",
         "last_modified": "Tue, 15 Jul 2025 15:08:28 GMT"
       },
-      "extractor": "1c30c4739e558313"
+      "extractor": "d5141153547758e4"
     },
     {
       "clave": "queretaro/ley-organica-de-la-agencia-de-energia",
@@ -614,7 +614,7 @@
       "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-08.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 019: la nota de la fracción XIV («(Modificación según oficio DALJ/601/15 publicado en el P.» / «O. No. 79, 15-X-15)») quedó partida en dos párrafos sueltos, sin cursiva, en vez de una sola nota; en el PDF ; 022: en las fracciones XXXIII y XXXIV, el texto «(esta adición/reforma entra en vigor 6 meses después…)» es parte de la nota de reforma en el PDF (mismo renglón), pero quedó como párrafo suelto sin cursiva; 034: al final del artículo quedó colado el fragmento «(Modificación según oficio DALJ/601/15», truncado, que es la nota del encabezado del Capítulo Décimo Quinto (De la Secretaría de Desarrollo Social), no; 035: las notas «(Modificación según oficio DALJ/601/15 publicado en el P. O. No. 79, 15-X-15)» quedaron pegadas al final del párrafo/fracción, sin cursiva y sin párrafo propio, en el proemio y las fraccion; 036: mismo caso que 035: las notas «(Modificación según oficio DALJ/601/15 …)» de las fracciones I a IX y XI quedaron inline en el texto de la fracción, sin cursiva ni párrafo propio",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 031: la fracción XXVI quedó partida en dos párrafos: «XXVI. Intervenir en las controversias que se susciten entre turistas y prestadores de servicios;» y, suelto, «llevando a cabo audiencias de conciliació",
       "fecha": "2026-11-17",
       "pdf": {
         "sha256": "db070215ab5a699c0f61d0f5e3b9eeee0e714f02922d4de9d02ac818cb16d2bd",
@@ -622,7 +622,7 @@
         "etag": "\"ccaf1-639fa4d02ad15\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:56 GMT"
       },
-      "extractor": "1c30c4739e558313"
+      "extractor": "d5141153547758e4"
     },
     {
       "clave": "queretaro/ley-organica-del-poder-judicial",
@@ -642,7 +642,7 @@
         "etag": "\"a2c5e-639fa4d0acb3a\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:57 GMT"
       },
-      "extractor": "1c30c4739e558313"
+      "extractor": "d5141153547758e4"
     },
     {
       "clave": "queretaro/ley-organica-del-poder-legislativo",
