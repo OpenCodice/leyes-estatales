@@ -12,7 +12,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 4 › párrafo 1",
-      "texto": "Principios de interpretación y aplicación de los derechos humanos"
+      "texto": "PRINCIPIOS DE INTERPRETACIÓN Y APLICACIÓN DE LOS DERECHOS HUMANOS"
     },
     {
       "id": "004.A",
@@ -21,7 +21,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 4 › Apartado A",
-      "texto": "A. De la protección de los derechos humanos (REFORMADO G.O. CDMX 26 DE JULIO DE 2019)"
+      "texto": "A. De la protección de los derechos humanos"
     },
     {
       "id": "004.A.1",
@@ -69,22 +69,13 @@
       "texto": "5. Las autoridades deberán prevenir, investigar, sancionar y reparar las violaciones a los derechos humanos."
     },
     {
-      "id": "004.p2",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "A",
-      "fraccion": "",
-      "ruta": "Artículo 4 › Apartado A › párrafo 2",
-      "texto": "(REFORMADO G.O. CDMX 26 DE JULIO DE 2019)"
-    },
-    {
       "id": "004.A.6",
       "tipo": "numeral",
       "marca": "6",
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 4 › Apartado A › 6.",
-      "texto": "6. Las autoridades jurisdiccionales de la Ciudad ejercerán el control de constitucionalidad, favoreciendo en todo tiempo la protección más amplia para las personas, dejando de aplicar aquellas normas contrarias a esta Constitución."
+      "texto": "6. Las autoridades jurisdiccionales de la Ciudad ejercerán el control de constitucionalidad, favoreciendo en todo tiempo la protección más amplia para las personas, dejando de aplicar aquellas normas contrarias esta Constitución."
     },
     {
       "id": "004.B",

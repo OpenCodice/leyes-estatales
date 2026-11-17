@@ -12,7 +12,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 10 › párrafo 1",
-      "texto": "Ciudad productiva"
+      "texto": "CIUDAD PRODUCTIVA"
     },
     {
       "id": "010.A",
@@ -60,6 +60,23 @@
       "texto": "3. Toda persona que desempeñe una ocupación en la ciudad, temporal o permanente, asalariada o no, tendrá derecho a ejercer un trabajo digno."
     },
     {
+      "id": "010.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › párrafo 2",
+      "texto": "Queda prohibida la profesión, industria, comercio interior o exterior, trabajo o cualquiera otra de las actividades que refiere el numeral 8 del apartado D, del artículo 9 anterior.",
+      "reformas": [
+        {
+          "nota": "Párrafo adicionado G.O. CDMX 27/08/25",
+          "fechas": [
+            "2025-08-27"
+          ]
+        }
+      ]
+    },
+    {
       "id": "010.B.4",
       "tipo": "numeral",
       "marca": "4",
@@ -84,7 +101,15 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 10 › Apartado B › inciso b)",
-      "texto": "b) La igualdad sustantiva en el trabajo y el salario;"
+      "texto": "b) La igualdad sustantiva en el trabajo y el salario, así como para erradicar la brecha salarial en razón de género;",
+      "reformas": [
+        {
+          "nota": "Inciso reformado G.O. CDMX 27/08/25",
+          "fechas": [
+            "2025-08-27"
+          ]
+        }
+      ]
     },
     {
       "id": "010.B.c",
@@ -102,7 +127,15 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 10 › Apartado B › inciso d)",
-      "texto": "d) La realización de las tareas de inspección del trabajo. Las autoridades deberán otorgar los medios idóneos para su adecuado funcionamiento; y"
+      "texto": "d) La realización de las tareas de inspección del trabajo. Las autoridades deberán otorgar los medios idóneos para su adecuado funcionamiento; y",
+      "reformas": [
+        {
+          "nota": "Inciso reformado G.O. CDMX 27/08/25",
+          "fechas": [
+            "2025-08-27"
+          ]
+        }
+      ]
     },
     {
       "id": "010.B.e",
@@ -111,7 +144,15 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 10 › Apartado B › inciso e)",
-      "texto": "e) La protección eficaz de las personas trabajadoras frente a los riesgos de trabajo, incluyendo los riesgos psicosociales y ergonómicos, y el desarrollo de las labores productivas en un ambiente que garantice la seguridad, salud, higiene y bienestar."
+      "texto": "e) La protección eficaz de las personas trabajadoras frente a los riesgos de trabajo, incluyendo los riesgos psicosociales y ergonómicos, y el desarrollo de las labores productivas en un ambiente que garantice la seguridad, salud, higiene y bienestar.",
+      "reformas": [
+        {
+          "nota": "Inciso reformado G.O. CDMX 27/08/25",
+          "fechas": [
+            "2025-08-27"
+          ]
+        }
+      ]
     },
     {
       "id": "010.B.5",
@@ -228,7 +269,42 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 10 › Apartado B › 10.",
-      "texto": "10. Las autoridades en el ámbito de sus competencias garantizarán una justicia laboral honesta, imparcial y profesional, pronta y expedita, pública y gratuita que incluya los servicios de conciliación y mediación."
+      "texto": "10. Las autoridades administrativas y el Poder Judicial de la Ciudad de México, en el ámbito de sus competencias, garantizarán una justicia laboral honesta, imparcial, profesional, pronta, expedita, pública y gratuita, que incluya los servicios de conciliación y mediación."
+    },
+    {
+      "id": "010.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › párrafo 3",
+      "texto": "Antes de acudir a los tribunales laborales, las personas trabajadoras y patronas deberán comparecer a la instancia conciliatoria correspondiente. En la Ciudad de México, la función conciliatoria estará a cargo de un Centro de Conciliación, especializado e imparcial. Será un organismo público descentralizado del Gobierno de la Ciudad de México con personalidad jurídica y patrimonio propio con autonomía técnica, operativa, presupuestaria, de decisión y de gestión."
+    },
+    {
+      "id": "010.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › párrafo 4",
+      "texto": "Se regirá por los principios de certeza, independencia, legalidad, imparcialidad, confiabilidad, eficacia, objetividad, profesionalismo, transparencia y publicidad. Su integración, funcionamiento, sectorización y atribuciones, se determinarán en su ley correspondiente."
+    },
+    {
+      "id": "010.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado B › párrafo 5",
+      "texto": "La ley determinará el procedimiento que se deberá observar en la instancia conciliatoria, así como las reglas para que los convenios laborales adquieran condición de cosa juzgada para su ejecución. En todo caso, la etapa de conciliación consistirá en una sola audiencia obligatoria. Las subsecuentes audiencias de conciliación sólo se realizarán con el acuerdo de las partes en conflicto.",
+      "reformas": [
+        {
+          "nota": "Numeral reformado G.O. CDMX 23/07/26",
+          "fechas": [
+            "2026-07-23"
+          ]
+        }
+      ]
     },
     {
       "id": "010.B.11",
@@ -237,7 +313,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 10 › Apartado B › 11.",
-      "texto": "11. Las autoridades impulsarán la constitución y funcionamiento de cooperativas de las personas trabajadoras y otras formas de organización productiva del sector social de la economía, que contribuyan al desarrollo económico de la Ciudad y el mejoramiento de las condiciones de vida de sus habitantes."
+      "texto": "11. Las autoridades impulsarán la constitución y el funcionamiento de sociedades cooperativas de las personas trabajadoras, de servicios de cuidados y de otras formas de organización productiva del sector social de la economía, que contribuyan al desarrollo económico de la Ciudad y el mejoramiento de las condiciones de vida de sus habitantes."
     },
     {
       "id": "010.B.12",
@@ -249,12 +325,12 @@
       "texto": "12. Las personas trabajadoras no asalariadas, prestadoras de servicios por cuenta propia, que producen bienes y artesanías y comerciantes, tienen derecho a realizar un trabajo digno y a poseer una identidad formal en la Ciudad de México, a asociarse para defender sus intereses, recibir capacitación, y las demás que establezca la legislación en la materia."
     },
     {
-      "id": "010.p2",
+      "id": "010.p6",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "B",
       "fraccion": "",
-      "ruta": "Artículo 10 › Apartado B › párrafo 2",
+      "ruta": "Artículo 10 › Apartado B › párrafo 6",
       "texto": "Las autoridades de la Ciudad garantizarán a los locatarios de los mercados públicos condiciones sanitarias, certeza y seguridad jurídica adecuadas. Conservarán sus derechos adquiridos y gozarán de los mismos derechos que esta Constitución y las leyes reconocen a las personas trabajadoras no asalariadas."
     },
     {
@@ -267,13 +343,21 @@
       "texto": "13. Los derechos de las personas trabajadoras no asalariadas, prestadoras de servicios por cuenta propia y comerciantes que realicen sus actividades en el espacio público serán ejercidos a través del establecimiento de zonas especiales de comercio y de cultura popular en los términos que defina la ley con la participación de los propios trabajadores."
     },
     {
-      "id": "010.p3",
+      "id": "010.p7",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "B",
       "fraccion": "",
-      "ruta": "Artículo 10 › Apartado B › párrafo 3",
-      "texto": "La ley determinará los mecanismos para un proceso gradual de regularización, formalización y regulación en materia urbana, de espacio público, fiscal, de salud pública y de seguridad social."
+      "ruta": "Artículo 10 › Apartado B › párrafo 7",
+      "texto": "La ley determinará los mecanismos para un proceso gradual de regularización, formalización y regulación en materia urbana, de espacio público, fiscal, de salud pública y de seguridad social.",
+      "reformas": [
+        {
+          "nota": "Numeral adicionado G.O. CDMX 24/11/23",
+          "fechas": [
+            "2023-11-24"
+          ]
+        }
+      ]
     },
     {
       "id": "010.B.14",
@@ -291,7 +375,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 10 › Apartado C",
-      "texto": "C. De las relaciones de las instituciones públicas de la Ciudad con sus trabajadores"
+      "texto": "C. De las relaciones de las instituciones públicas de la Ciudad, con sus personas trabajadoras."
     },
     {
       "id": "010.C.1",
@@ -372,7 +456,7 @@
       "apartado": "C",
       "fraccion": "",
       "ruta": "Artículo 10 › Apartado C › 9.",
-      "texto": "9. Los conflictos laborales que se presenten entre las instituciones públicas de la Ciudad y sus trabajadores, así como los conflictos internos sindicales y los intersindicales, serán dirimidos por el Tribunal Local de Conciliación y Arbitraje, en los términos establecidos por la ley."
+      "texto": "9. Los conflictos laborales que se presenten entre las instituciones públicas de la Ciudad y sus personas trabajadoras, así como aquellos que se presenten entre organizaciones sindicales o al interior de estas, serán dirimidos por un Tribunal Burocrático en los términos establecidos por la ley."
     },
     {
       "id": "010.C.10",
@@ -382,6 +466,42 @@
       "fraccion": "",
       "ruta": "Artículo 10 › Apartado C › 10.",
       "texto": "10. El Gobierno de la Ciudad será garante y responsable de todos los derechos de las personas trabajadoras del poder Ejecutivo y de sus alcaldías."
+    },
+    {
+      "id": "010.C.11",
+      "tipo": "numeral",
+      "marca": "11",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado C › 11.",
+      "texto": "11. Ninguna persona que se encuentre en los siguientes supuestos podrá ejercer un empleo, cargo o comisión en el servicio público, ni podrá registrarse como candidata a cargos de elección popular:"
+    },
+    {
+      "id": "010.C.a",
+      "tipo": "inciso",
+      "marca": "a",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado C › inciso a)",
+      "texto": "a) Cuente con sentencia firme por la comisión intencional de delitos contra la vida y la integridad corporal; contra la libertad y seguridad sexuales, el normal desarrollo psicosexual;"
+    },
+    {
+      "id": "010.C.b",
+      "tipo": "inciso",
+      "marca": "b",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado C › inciso b)",
+      "texto": "b) Cuente con sentencia firme por delitos de violencia familiar, violencia familiar equiparada o doméstica, violación a la intimidad sexual; por violencia política contra las mujeres en razón de género, en cualquiera de sus modalidades y tipos, o"
+    },
+    {
+      "id": "010.C.c",
+      "tipo": "inciso",
+      "marca": "c",
+      "apartado": "C",
+      "fraccion": "",
+      "ruta": "Artículo 10 › Apartado C › inciso c)",
+      "texto": "c) Se encuentre inscrita en el Registro de Deudores Alimentarios Morosos, a menos que acredite estar al corriente del pago, cancele esa deuda o se tramite el descuento correspondiente."
     },
     {
       "id": "010.D",

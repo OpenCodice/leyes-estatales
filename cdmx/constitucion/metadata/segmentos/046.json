@@ -12,7 +12,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 46 › párrafo 1",
-      "texto": "Organismos Autónomos"
+      "texto": "ORGANISMOSAUTÓNOMOS"
     },
     {
       "id": "046.A",
@@ -57,7 +57,15 @@
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 46 › Apartado A › inciso d)",
-      "texto": "d) Instituto de Transparencia, Acceso a la Información y Protección de Datos Personales;"
+      "texto": "d) Se deroga;",
+      "reformas": [
+        {
+          "nota": "Inciso derogado G.O. CDMX 19/12/25",
+          "fechas": [
+            "2025-12-19"
+          ]
+        }
+      ]
     },
     {
       "id": "046.A.e",
@@ -102,7 +110,16 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 46 › Apartado B › 1.",
-      "texto": "1. Los organismos autónomos ajustarán sus actuaciones a los principios reconocidos en el derecho a la buena administración, serán independientes en sus decisiones y funcionamiento, profesionales en su desempeño e imparciales en sus actuaciones. Contarán con estatutos jurídicos que lo garanticen. Las leyes y estatutos jurídicos garantizarán que exista equidad de género en sus órganos de gobierno. Tendrán facultad para establecer su normatividad interna, presentar iniciativas de reforma legal o constitucional local en la materia de su competencia, así como las demás que determinen esta Constitución y las leyes de la materia."
+      "texto": "1. Los organismos autónomos ajustarán sus actuaciones a los principios reconocidos en el derecho a la buena administración, serán independientes en sus decisiones y funcionamiento, profesionales en su desempeño e imparciales en sus actuaciones. Contarán con estatutos jurídicos que lo garanticen. Las leyes y estatutos jurídicos garantizarán que exista equidad de género en sus órganos de gobierno."
+    },
+    {
+      "id": "046.p2",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Apartado B › párrafo 2",
+      "texto": "Tendrán facultad para establecer su normatividad interna, presentar iniciativas de reforma legal o constitucional local en la materia de su competencia, así como las demás que determinen esta Constitución y las leyes de la materia."
     },
     {
       "id": "046.B.2",
@@ -114,12 +131,12 @@
       "texto": "2. La Legislatura asignará los presupuestos necesarios para garantizar el ejercicio de las atribuciones de estos organismos a partir de la propuesta que presenten en los plazos y términos previstos en la legislación de la materia."
     },
     {
-      "id": "046.p2",
+      "id": "046.p3",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "B",
       "fraccion": "",
-      "ruta": "Artículo 46 › Apartado B › párrafo 2",
+      "ruta": "Artículo 46 › Apartado B › párrafo 3",
       "texto": "Dichas asignaciones deberán garantizar suficiencia para el oportuno y eficaz cumplimiento de las obligaciones conferidas a los organismos, sujeto a las previsiones de ingreso de la hacienda pública local."
     },
     {
@@ -132,13 +149,39 @@
       "texto": "3. Los organismos autónomos contarán con órganos de control interno adscritos al Sistema Local Anticorrupción y su personal se sujetará al régimen de responsabilidades de las personas servidoras públicas, en los términos previstos por esta Constitución y las leyes."
     },
     {
-      "id": "046.p3",
+      "id": "046.p4",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "B",
       "fraccion": "",
-      "ruta": "Artículo 46 › Apartado B › párrafo 3",
+      "ruta": "Artículo 46 › Apartado B › párrafo 4",
       "texto": "Las y los titulares de los órganos internos de control de los organismos autónomos serán seleccionados y formados a través de un sistema de profesionalización y rendirán cuentas ante el Sistema Local Anticorrupción. La ley establecerá las facultades e integración de dichos órganos."
+    },
+    {
+      "id": "046.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Apartado B › párrafo 5",
+      "texto": "Las remuneraciones del personal que labore en los organismos autónomos se fijarán de conformidad con el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos."
+    },
+    {
+      "id": "046.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 46 › Apartado B › párrafo 6",
+      "texto": "La remuneración de las y los titulares de los organismos constitucionales autónomos no será superior a la que perciba el Jefe de Gobierno.",
+      "reformas": [
+        {
+          "nota": "Numeral adicionado G.O. CDMX 05/06/26",
+          "fechas": [
+            "2026-06-05"
+          ]
+        }
+      ]
     },
     {
       "id": "046.B.4",
@@ -147,16 +190,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 46 › Apartado B › 4.",
-      "texto": "4. Las remuneraciones del personal que labore en los organismos autónomos se fijarán de conformidad con el artículo 127 de la Constitución Política de los Estados Unidos Mexicanos."
-    },
-    {
-      "id": "046.p4",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "B",
-      "fraccion": "",
-      "ruta": "Artículo 46 › Apartado B › párrafo 4",
-      "texto": "La remuneración de las y los titulares de los organismos constitucionales autónomos no será superior a la que perciba el Jefe de Gobierno."
+      "texto": "4. Las remuneraciones de las personas consejeras electorales, de las personas magistradas electorales, de las personas servidoras públicas del Instituto Electoral de la Ciudad de México y del Tribunal Electoral de la Ciudad de México, no excederán el límite establecido en el artículo 127 de la Constitución Federal y no podrán adquirir o contratar con recursos públicos seguros de gastos médicos, de vida o de pensiones privadas, seguros de separación individualizados, cajas de ahorro especiales, regímenes especiales de retiro u otras prestaciones que no estén previstas por la ley, decreto, disposición general, contrato colectivo o condiciones generales de trabajo."
     },
     {
       "id": "046.C",
@@ -174,16 +208,7 @@
       "apartado": "C",
       "fraccion": "",
       "ruta": "Artículo 46 › Apartado C › 1.",
-      "texto": "1. Se constituirán, cada cuatro años, consejos ciudadanos de carácter honorífico por materia para proponer al Congreso, a las personas titulares y consejeras de los organismos autónomos, con excepción de aquellos para los que la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes prevean mecanismos de designación distintos. Estos consejos sólo sesionarán cuando se requiera iniciar un proceso de nombramiento de la materia de que se trate."
-    },
-    {
-      "id": "046.p5",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "C",
-      "fraccion": "",
-      "ruta": "Artículo 46 › Apartado C › párrafo 5",
-      "texto": "La ley respectiva determinará el procedimiento para cubrir las ausencias."
+      "texto": "1. Se constituirán, cada cuatro años, consejos ciudadanos de carácter honorífico por materia para proponer al Congreso, a las personas titulares y consejeras de los organismos autónomos, con excepción de aquellos para los que la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes prevean mecanismos de designación distintos. Estos consejos sólo sesionarán cuando se requiera iniciar un proceso de nombramiento de la materia de que se trate. La ley respectiva determinará el procedimiento para cubrir las ausencias."
     },
     {
       "id": "046.C.2",

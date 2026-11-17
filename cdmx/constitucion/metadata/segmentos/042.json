@@ -12,7 +12,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 42 › párrafo 1",
-      "texto": "Seguridad Ciudadana"
+      "texto": "SEGURIDAD CIUDADANA"
     },
     {
       "id": "042.A",
@@ -30,16 +30,7 @@
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 42 › Apartado A › 1.",
-      "texto": "1. Las instituciones de seguridad ciudadana serán de carácter civil, disciplinado (sic) y profesional."
-    },
-    {
-      "id": "042.p2",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "A",
-      "fraccion": "",
-      "ruta": "Artículo 42 › Apartado A › párrafo 2",
-      "texto": "Su función se sustenta en la protección integral de las personas y tiene como principios rectores la prevención social de las violencias y del delito, la atención a las personas, la transparencia en sus procedimientos y actuaciones, la garantía del ejercicio de los derechos humanos y libertades, así como la convivencia pacífica entre todas las personas."
+      "texto": "1. Las instituciones de seguridad ciudadana serán de carácter civil, disciplinado y profesional. Su función se sustenta en la protección integral de las personas y tiene como principios rectores la prevención social de las violencias y del delito, la atención a las personas, la transparencia en sus procedimientos y actuaciones, la garantía del ejercicio de los derechos humanos y libertades, así como la convivencia pacífica entre todas las personas."
     },
     {
       "id": "042.A.2",
@@ -51,12 +42,12 @@
       "texto": "2. La selección, ingreso, formación, evaluación, permanencia, reconocimiento y certificación de las y los integrantes de las instituciones de seguridad ciudadana, se hará conforme a lo previsto por la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes de la materia."
     },
     {
-      "id": "042.p3",
+      "id": "042.p2",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "A",
       "fraccion": "",
-      "ruta": "Artículo 42 › Apartado A › párrafo 3",
+      "ruta": "Artículo 42 › Apartado A › párrafo 2",
       "texto": "La ley local establecerá el servicio profesional de carrera."
     },
     {

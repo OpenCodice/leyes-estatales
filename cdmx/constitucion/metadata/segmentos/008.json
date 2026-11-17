@@ -12,7 +12,7 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 8 › párrafo 1",
-      "texto": "Ciudad educadora y del conocimiento"
+      "texto": "CIUDAD EDUCADORA Y DEL CONOCIMIENTO"
     },
     {
       "id": "008.A",
@@ -66,7 +66,16 @@
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 8 › Apartado A › 4.",
-      "texto": "4. La comunidad escolar es la base orgánica del sistema educativo, estará conformada por estudiantes, docentes, padres y madres de familia y autoridades escolares. Su labor principal será contribuir a mejorar el funcionamiento de las instituciones educativas y de los servicios educativos, en el diseño y ejecución de los mismos, conforme los derechos y obligaciones establecidos en las leyes en la materia. En todo momento se deberá respetar la libertad, la dignidad e integridad de todos los miembros de la comunidad escolar."
+      "texto": "4. La comunidad escolar es la base orgánica del sistema educativo, estará conformada por estudiantes, docentes, padres y madres de familia y autoridades escolares. Su labor principal será contribuir a mejorar el funcionamiento de las instituciones educativas y de los servicios educativos, en el diseño y ejecución de los mismos, conforme los derechos y obligaciones establecidos en las leyes en la materia."
+    },
+    {
+      "id": "008.p3",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado A › párrafo 3",
+      "texto": "En todo momento se deberá respetar la libertad, la dignidad e integridad de todos los miembros de la comunidad escolar."
     },
     {
       "id": "008.A.5",
@@ -84,7 +93,33 @@
       "apartado": "A",
       "fraccion": "",
       "ruta": "Artículo 8 › Apartado A › 6.",
-      "texto": "6. Atendiendo al principio rector del interés superior de la niñez, las autoridades velarán por el pleno ejercicio del derecho de las niñas y de los niños a recibir educación, garantizando su acceso y respetando su pleno cumplimiento."
+      "texto": "6. Atendiendo al principio rector del interés superior de la niñez, las autoridades garantizarán el pleno acceso al derecho de las niñas y los niños a recibir educación."
+    },
+    {
+      "id": "008.p4",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado A › párrafo 4",
+      "texto": "En la Ciudad de México, todas las niñas y niños inscritos en planteles públicos de educación básica, tendrán derecho a contar con una beca que se denominará Bienestar para niñas y niños."
+    },
+    {
+      "id": "008.p5",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "A",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado A › párrafo 5",
+      "texto": "En cada ejercicio fiscal, los planteles educativos de educación pública básica en la Ciudad de México contarán con la asignación presupuestal que determine el Congreso a fin de dignificar las condiciones de los inmuebles, misma que se ejercerá con la participación de los padres y madres de familia. El programa para el ejercicio de este derecho se denominará La escuela es nuestra.",
+      "reformas": [
+        {
+          "nota": "Numeral reformado G.O. CDMX 24/12/25",
+          "fechas": [
+            "2025-12-24"
+          ]
+        }
+      ]
     },
     {
       "id": "008.A.7",
@@ -201,7 +236,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 8 › Apartado B › 5.",
-      "texto": "5. El sistema educativo local se adaptará a las necesidades de la comunidad escolar y responderá a su diversidad social y cultural. Asimismo, fomentará la innovación, la preservación, la educación ambiental y el respeto a los derechos humanos, la cultura, la formación cívica, ética, la educación y creación artísticas, la educación tecnológica, la educación física y el deporte. Las autoridades de la Ciudad de México contarán con un sistema de escuelas de nivel medio superior en el que se impartirán estudios al más alto nivel académico."
+      "texto": "5. El sistema educativo local se adaptará a las necesidades de la comunidad escolar y responderá a su diversidad social y cultural. Asimismo, fomentará la innovación, la preservación, la educación ambiental y el respeto a los derechos humanos, la protección de los animales, la cultura, la formación cívica, ética, la educación y creación artísticas, la educación tecnológica, la educación física y el deporte. Las autoridades de la Ciudad de México contarán con un sistema de escuelas de nivel medio superior en el que se impartirán estudios al más alto nivel académico."
     },
     {
       "id": "008.B.6",
@@ -210,7 +245,7 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 8 › Apartado B › 6.",
-      "texto": "6.Las autoridades promoverán esquemas eficientes para el suministro de alimentos sanos y nutritivos conforme a los lineamientos que la autoridad en la materia determine."
+      "texto": "6. Las autoridades promoverán esquemas eficientes para el suministro de alimentos sanos y nutritivos conforme a los lineamientos que la autoridad en la materia determine."
     },
     {
       "id": "008.B.7",
@@ -237,7 +272,16 @@
       "apartado": "B",
       "fraccion": "",
       "ruta": "Artículo 8 › Apartado B › 9.",
-      "texto": "9. En la Ciudad de México los particulares podrán impartir educación en todos sus tipos y modalidades. En los términos que establezca la ley, se otorgará y retirará el reconocimiento de validez oficial a los estudios de educación inicial, media superior y superior que se realicen en planteles particulares y, en el caso de la educación básica, deberán obtener previamente, en cada caso, la autorización expresa de la autoridad."
+      "texto": "9. En la Ciudad de México los particulares podrán impartir educación en todos sus tipos y modalidades."
+    },
+    {
+      "id": "008.p6",
+      "tipo": "parrafo",
+      "marca": "",
+      "apartado": "B",
+      "fraccion": "",
+      "ruta": "Artículo 8 › Apartado B › párrafo 6",
+      "texto": "En los términos que establezca la ley, se otorgará y retirará el reconocimiento de validez oficial a los estudios de educación inicial, media superior y superior que se realicen en planteles particulares y, en el caso de la educación básica, deberán obtener previamente, en cada caso, la autorización expresa de la autoridad."
     },
     {
       "id": "008.B.10",
@@ -294,12 +338,12 @@
       "texto": "4. Las autoridades, en el ámbito de sus competencias, fortalecerán y apoyarán la generación, ejecución y difusión de proyectos de investigación científica y tecnológica, así como la vinculación de éstos con los sectores productivos, sociales y de servicios, a fin de resolver problemas y necesidades de la Ciudad, contribuir a su desarrollo económico y social, elevar el bienestar de la población y reducir la desigualdad; la formación de técnicos y profesionales que para el mismo se requieran; la enseñanza de la ciencia y la tecnología desde la enseñanza básica; y el apoyo a creadores e inventores."
     },
     {
-      "id": "008.p3",
+      "id": "008.p7",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "C",
       "fraccion": "",
-      "ruta": "Artículo 8 › Apartado C › párrafo 3",
+      "ruta": "Artículo 8 › Apartado C › párrafo 7",
       "texto": "Garantizan igualmente la preservación, el rescate y desarrollo de técnicas y prácticas tradicionales y originarias en la medicina y en la protección, restauración y buen uso de los recursos naturales y el cuidado del medio ambiente."
     },
     {
@@ -456,12 +500,12 @@
       "texto": "3. Las autoridades, en el ámbito de sus respectivas competencias protegerán los derechos culturales."
     },
     {
-      "id": "008.p4",
+      "id": "008.p8",
       "tipo": "parrafo",
       "marca": "",
       "apartado": "D",
       "fraccion": "",
-      "ruta": "Artículo 8 › Apartado D › párrafo 4",
+      "ruta": "Artículo 8 › Apartado D › párrafo 8",
       "texto": "Asimismo, favorecerán la promoción y el estímulo al desarrollo de la cultura y las artes. Los derechos culturales podrán ampliarse conforme a la ley en la materia que además establecerá los mecanismos y modalidades para su exigibilidad."
     },
     {

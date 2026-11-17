@@ -12,7 +12,15 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 31 › párrafo 1",
-      "texto": "De la Comisión Permanente"
+      "texto": "DE LA COMISIÓN PERMANENTE",
+      "reformas": [
+        {
+          "nota": "Numeral adicionado G.O. CDMX 8/10/26",
+          "fechas": [
+            "2026-10-08"
+          ]
+        }
+      ]
     },
     {
       "id": "031.1",
@@ -58,6 +66,15 @@
       "fraccion": "",
       "ruta": "Artículo 31 › 5.",
       "texto": "5. La Comisión Permanente tiene competencia para aprobar solicitudes de licencia de las y los diputados y tomar protesta a los legisladores suplentes."
+    },
+    {
+      "id": "031.6",
+      "tipo": "numeral",
+      "marca": "6",
+      "apartado": "",
+      "fraccion": "",
+      "ruta": "Artículo 31 › 6.",
+      "texto": "6. La Comisión Permanente tiene competencia para otorgar o negar las solicitudes de licencia o separación definitiva de las personas juzgadoras del Poder Judicial en los términos que establezcan la Constitución Política de los Estados Unidos Mexicanos, esta Constitución y las leyes aplicables, durante los períodos de receso."
     }
   ]
 }

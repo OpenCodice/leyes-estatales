@@ -1,6 +1,6 @@
 {
-  "fuente": "Gaceta Oficial de la Ciudad de México — Congreso de la Ciudad de México",
-  "version": "2019-12-10",
+  "fuente": "Gaceta Oficial de la Ciudad de México — Consejería Jurídica y de Servicios Legales",
+  "version": "2026-10-08",
   "articulos": [
     {
       "clave": "001",
@@ -33,9 +33,11 @@
       "etiqueta": "Artículo 3",
       "titulo": "TÍTULO PRIMERO",
       "capitulo": "",
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2024-09-02",
+      "num_reformas": 1,
+      "reformas": [
+        "2024-09-02"
+      ],
       "archivo": "articulos/003.md"
     },
     {
@@ -45,11 +47,9 @@
       "etiqueta": "Artículo 4",
       "titulo": "TÍTULO SEGUNDO",
       "capitulo": "CAPÍTULO I",
-      "ultima_reforma": "2019-07-26",
-      "num_reformas": 1,
-      "reformas": [
-        "2019-07-26"
-      ],
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
       "archivo": "articulos/004.md"
     },
     {
@@ -71,9 +71,11 @@
       "etiqueta": "Artículo 6",
       "titulo": "TÍTULO SEGUNDO",
       "capitulo": "CAPÍTULO II",
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2026-07-23",
+      "num_reformas": 1,
+      "reformas": [
+        "2026-07-23"
+      ],
       "archivo": "articulos/006.md"
     },
     {
@@ -83,9 +85,11 @@
       "etiqueta": "Artículo 7",
       "titulo": "TÍTULO SEGUNDO",
       "capitulo": "CAPÍTULO II",
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2025-12-19",
+      "num_reformas": 1,
+      "reformas": [
+        "2025-12-19"
+      ],
       "archivo": "articulos/007.md"
     },
     {
@@ -95,9 +99,11 @@
       "etiqueta": "Artículo 8",
       "titulo": "TÍTULO SEGUNDO",
       "capitulo": "CAPÍTULO II",
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2025-12-24",
+      "num_reformas": 1,
+      "reformas": [
+        "2025-12-24"
+      ],
       "archivo": "articulos/008.md"
     },
     {
@@ -107,9 +113,15 @@
       "etiqueta": "Artículo 9",
       "titulo": "TÍTULO SEGUNDO",
       "capitulo": "CAPÍTULO II",
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2025-08-27",
+      "num_reformas": 5,
+      "reformas": [
+        "2023-03-24",
+        "2024-05-16",
+        "2024-06-24",
+        "2024-07-08",
+        "2025-08-27"
+      ],
       "archivo": "articulos/009.md"
     },
     {
@@ -119,9 +131,13 @@
       "etiqueta": "Artículo 10",
       "titulo": "TÍTULO SEGUNDO",
       "capitulo": "CAPÍTULO II",
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2026-07-23",
+      "num_reformas": 3,
+      "reformas": [
+        "2023-11-24",
+        "2025-08-27",
+        "2026-07-23"
+      ],
       "archivo": "articulos/010.md"
     },
     {
@@ -131,10 +147,10 @@
       "etiqueta": "Artículo 11",
       "titulo": "TÍTULO SEGUNDO",
       "capitulo": "CAPÍTULO II",
-      "ultima_reforma": "2019-07-26",
+      "ultima_reforma": "2024-08-29",
       "num_reformas": 1,
       "reformas": [
-        "2019-07-26"
+        "2024-08-29"
       ],
       "archivo": "articulos/011.md"
     },
@@ -157,10 +173,10 @@
       "etiqueta": "Artículo 13",
       "titulo": "TÍTULO SEGUNDO",
       "capitulo": "CAPÍTULO II",
-      "ultima_reforma": "2019-07-26",
+      "ultima_reforma": "2025-12-24",
       "num_reformas": 1,
       "reformas": [
-        "2019-07-26"
+        "2025-12-24"
       ],
       "archivo": "articulos/013.md"
     },
@@ -183,9 +199,11 @@
       "etiqueta": "Artículo 15",
       "titulo": "TÍTULO TERCERO",
       "capitulo": "",
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2025-08-27",
+      "num_reformas": 1,
+      "reformas": [
+        "2025-08-27"
+      ],
       "archivo": "articulos/015.md"
     },
     {
@@ -195,9 +213,15 @@
       "etiqueta": "Artículo 16",
       "titulo": "TÍTULO TERCERO",
       "capitulo": "",
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2024-10-03",
+      "num_reformas": 5,
+      "reformas": [
+        "2023-08-07",
+        "2024-05-03",
+        "2024-05-16",
+        "2024-09-11",
+        "2024-10-03"
+      ],
       "archivo": "articulos/016.md"
     },
     {
@@ -219,10 +243,10 @@
       "etiqueta": "Artículo 18",
       "titulo": "TÍTULO TERCERO",
       "capitulo": "",
-      "ultima_reforma": "2019-07-26",
+      "ultima_reforma": "2026-07-23",
       "num_reformas": 1,
       "reformas": [
-        "2019-07-26"
+        "2026-07-23"
       ],
       "archivo": "articulos/018.md"
     },
@@ -281,9 +305,11 @@
       "etiqueta": "Artículo 23",
       "titulo": "TÍTULO CUARTO",
       "capitulo": "CAPÍTULO I",
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2025-12-24",
+      "num_reformas": 1,
+      "reformas": [
+        "2025-12-24"
+      ],
       "archivo": "articulos/023.md"
     },
     {
@@ -305,9 +331,11 @@
       "etiqueta": "Artículo 25",
       "titulo": "TÍTULO CUARTO",
       "capitulo": "CAPÍTULO II",
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2024-12-23",
+      "num_reformas": 1,
+      "reformas": [
+        "2024-12-23"
+      ],
       "archivo": "articulos/025.md"
     },
     {
@@ -329,9 +357,13 @@
       "etiqueta": "Artículo 27",
       "titulo": "TÍTULO CUARTO",
       "capitulo": "CAPÍTULO II",
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2026-06-05",
+      "num_reformas": 3,
+      "reformas": [
+        "2023-11-24",
+        "2024-12-23",
+        "2026-06-05"
+      ],
       "archivo": "articulos/027.md"
     },
     {
@@ -353,9 +385,13 @@
       "etiqueta": "Artículo 29",
       "titulo": "TÍTULO QUINTO",
       "capitulo": "CAPÍTULO I",
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2026-10-08",
+      "num_reformas": 3,
+      "reformas": [
+        "2024-12-23",
+        "2026-06-05",
+        "2026-10-08"
+      ],
       "archivo": "articulos/029.md"
     },
     {
@@ -365,12 +401,9 @@
       "etiqueta": "Artículo 30",
       "titulo": "TÍTULO QUINTO",
       "capitulo": "CAPÍTULO I",
-      "ultima_reforma": "2019-12-04",
-      "num_reformas": 2,
-      "reformas": [
-        "2019-11-27",
-        "2019-12-04"
-      ],
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
       "archivo": "articulos/030.md"
     },
     {
@@ -380,9 +413,11 @@
       "etiqueta": "Artículo 31",
       "titulo": "TÍTULO QUINTO",
       "capitulo": "CAPÍTULO I",
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2026-10-08",
+      "num_reformas": 1,
+      "reformas": [
+        "2026-10-08"
+      ],
       "archivo": "articulos/031.md"
     },
     {
@@ -392,10 +427,11 @@
       "etiqueta": "Artículo 32",
       "titulo": "TÍTULO QUINTO",
       "capitulo": "CAPÍTULO II",
-      "ultima_reforma": "2019-07-26",
-      "num_reformas": 1,
+      "ultima_reforma": "2026-10-08",
+      "num_reformas": 2,
       "reformas": [
-        "2019-07-26"
+        "2024-12-23",
+        "2026-10-08"
       ],
       "archivo": "articulos/032.md"
     },
@@ -406,11 +442,9 @@
       "etiqueta": "Artículo 33",
       "titulo": "TÍTULO QUINTO",
       "capitulo": "CAPÍTULO II",
-      "ultima_reforma": "2019-07-26",
-      "num_reformas": 1,
-      "reformas": [
-        "2019-07-26"
-      ],
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
       "archivo": "articulos/033.md"
     },
     {
@@ -432,10 +466,12 @@
       "etiqueta": "Artículo 35",
       "titulo": "TÍTULO QUINTO",
       "capitulo": "CAPÍTULO III",
-      "ultima_reforma": "2019-12-10",
-      "num_reformas": 1,
+      "ultima_reforma": "2026-10-08",
+      "num_reformas": 3,
       "reformas": [
-        "2019-12-10"
+        "2024-09-06",
+        "2024-12-23",
+        "2026-10-08"
       ],
       "archivo": "articulos/035.md"
     },
@@ -446,10 +482,10 @@
       "etiqueta": "Artículo 36",
       "titulo": "TÍTULO QUINTO",
       "capitulo": "CAPÍTULO III",
-      "ultima_reforma": "2019-07-26",
+      "ultima_reforma": "2024-12-23",
       "num_reformas": 1,
       "reformas": [
-        "2019-07-26"
+        "2024-12-23"
       ],
       "archivo": "articulos/036.md"
     },
@@ -460,11 +496,9 @@
       "etiqueta": "Artículo 37",
       "titulo": "TÍTULO QUINTO",
       "capitulo": "CAPÍTULO III",
-      "ultima_reforma": "2019-12-10",
-      "num_reformas": 1,
-      "reformas": [
-        "2019-12-10"
-      ],
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
       "archivo": "articulos/037.md"
     },
     {
@@ -474,9 +508,11 @@
       "etiqueta": "Artículo 38",
       "titulo": "TÍTULO QUINTO",
       "capitulo": "CAPÍTULO III",
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2024-12-23",
+      "num_reformas": 1,
+      "reformas": [
+        "2024-12-23"
+      ],
       "archivo": "articulos/038.md"
     },
     {
@@ -498,9 +534,11 @@
       "etiqueta": "Artículo 40",
       "titulo": "TÍTULO QUINTO",
       "capitulo": "CAPÍTULO III",
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2024-12-23",
+      "num_reformas": 1,
+      "reformas": [
+        "2024-12-23"
+      ],
       "archivo": "articulos/040.md"
     },
     {
@@ -546,12 +584,9 @@
       "etiqueta": "Artículo 44",
       "titulo": "TÍTULO QUINTO",
       "capitulo": "CAPÍTULO IV",
-      "ultima_reforma": "2019-10-28",
-      "num_reformas": 2,
-      "reformas": [
-        "2019-07-26",
-        "2019-10-28"
-      ],
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
       "archivo": "articulos/044.md"
     },
     {
@@ -561,11 +596,9 @@
       "etiqueta": "Artículo 45",
       "titulo": "TÍTULO QUINTO",
       "capitulo": "CAPÍTULO IV",
-      "ultima_reforma": "2019-07-26",
-      "num_reformas": 1,
-      "reformas": [
-        "2019-07-26"
-      ],
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
       "archivo": "articulos/045.md"
     },
     {
@@ -575,9 +608,12 @@
       "etiqueta": "Artículo 46",
       "titulo": "TÍTULO QUINTO",
       "capitulo": "CAPÍTULO V",
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2026-06-05",
+      "num_reformas": 2,
+      "reformas": [
+        "2025-12-19",
+        "2026-06-05"
+      ],
       "archivo": "articulos/046.md"
     },
     {
@@ -599,12 +635,9 @@
       "etiqueta": "Artículo 48",
       "titulo": "TÍTULO QUINTO",
       "capitulo": "CAPÍTULO V",
-      "ultima_reforma": "2019-11-27",
-      "num_reformas": 2,
-      "reformas": [
-        "2019-07-26",
-        "2019-11-27"
-      ],
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
       "archivo": "articulos/048.md"
     },
     {
@@ -614,9 +647,11 @@
       "etiqueta": "Artículo 49",
       "titulo": "TÍTULO QUINTO",
       "capitulo": "CAPÍTULO V",
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2025-12-19",
+      "num_reformas": 1,
+      "reformas": [
+        "2025-12-19"
+      ],
       "archivo": "articulos/049.md"
     },
     {
@@ -626,9 +661,11 @@
       "etiqueta": "Artículo 50",
       "titulo": "TÍTULO QUINTO",
       "capitulo": "CAPÍTULO V",
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2024-12-23",
+      "num_reformas": 1,
+      "reformas": [
+        "2024-12-23"
+      ],
       "archivo": "articulos/050.md"
     },
     {
@@ -782,9 +819,11 @@
       "etiqueta": "Artículo 63",
       "titulo": "TÍTULO SEXTO",
       "capitulo": "CAPÍTULO I",
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2024-12-23",
+      "num_reformas": 1,
+      "reformas": [
+        "2024-12-23"
+      ],
       "archivo": "articulos/063.md"
     },
     {
@@ -806,9 +845,11 @@
       "etiqueta": "Artículo 65",
       "titulo": "TÍTULO SEXTO",
       "capitulo": "CAPÍTULO II",
-      "ultima_reforma": null,
-      "num_reformas": 0,
-      "reformas": [],
+      "ultima_reforma": "2024-12-23",
+      "num_reformas": 1,
+      "reformas": [
+        "2024-12-23"
+      ],
       "archivo": "articulos/065.md"
     },
     {
@@ -854,11 +895,9 @@
       "etiqueta": "Artículo 69",
       "titulo": "TÍTULO OCTAVO",
       "capitulo": "",
-      "ultima_reforma": "2019-07-26",
-      "num_reformas": 1,
-      "reformas": [
-        "2019-07-26"
-      ],
+      "ultima_reforma": null,
+      "num_reformas": 0,
+      "reformas": [],
       "archivo": "articulos/069.md"
     },
     {

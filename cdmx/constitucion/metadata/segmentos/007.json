@@ -12,7 +12,15 @@
       "apartado": "",
       "fraccion": "",
       "ruta": "Artículo 7 › párrafo 1",
-      "texto": "Ciudad democrática"
+      "texto": "CIUDAD DEMOCRÁTICA",
+      "reformas": [
+        {
+          "nota": "Numeral adicionado G.O. CDMX 19/12/25",
+          "fechas": [
+            "2025-12-19"
+          ]
+        }
+      ]
     },
     {
       "id": "007.A",
@@ -93,16 +101,7 @@
       "apartado": "C",
       "fraccion": "",
       "ruta": "Artículo 7 › Apartado C › 2.",
-      "texto": "2. Las personas profesionales de la información tienen derecho a desempeñarse de manera libre y a mantener el secreto profesional, que salvaguarda a periodistas y colaboradores periodísticos en cumplimiento de sus funciones, así como a no ser obligados a revelar sus fuentes de información."
-    },
-    {
-      "id": "007.p2",
-      "tipo": "parrafo",
-      "marca": "",
-      "apartado": "C",
-      "fraccion": "",
-      "ruta": "Artículo 7 › Apartado C › párrafo 2",
-      "texto": "En su desempeño se respetará, como eje fundamental, la cláusula de conciencia para salvaguarda de su dignidad personal y profesional e independencia."
+      "texto": "2. Las personas profesionales de la información tienen derecho a desempeñarse de manera libre y a mantener el secreto profesional, que salvaguarda a periodistas y colaboradores periodísticos en cumplimiento de sus funciones, así como a no ser obligados a revelar sus fuentes de información. En su desempeño se respetará, como eje fundamental, la cláusula de conciencia para salvaguarda de su dignidad personal y profesional e independencia."
     },
     {
       "id": "007.C.3",
@@ -210,7 +209,16 @@
       "apartado": "E",
       "fraccion": "",
       "ruta": "Artículo 7 › Apartado E › 4.",
-      "texto": "4. Toda persona tiene derecho al acceso, rectificación y cancelación de sus datos personales, así como a manifestar su oposición respecto del tratamiento de los mismos, en los términos que disponga la ley. Su manejo se regirá por los principios de veracidad, licitud, consentimiento, información, calidad, finalidad, lealtad, proporcionalidad y responsabilidad."
+      "texto": "4. Toda persona tiene derecho al acceso, rectificación, cancelación y portabilidad de sus datos personales, así como a manifestar su oposición respecto del tratamiento de estos, en los términos que disponga la ley. Su manejo se regirá por los principios de veracidad, licitud, consentimiento, información, calidad, finalidad, lealtad, proporcionalidad y responsabilidad."
+    },
+    {
+      "id": "007.E.5",
+      "tipo": "numeral",
+      "marca": "5",
+      "apartado": "E",
+      "fraccion": "",
+      "ruta": "Artículo 7 › Apartado E › 5.",
+      "texto": "5. La defensa y garantía del derecho de acceso a la información pública, privacidad y protección de datos personales en posesión de sujetos obligados, estará a cargo de la Secretaría de la Contraloría General de la Ciudad de México a través del órgano desconcentrado que para tal efecto prevea la ley, así como de las autoridades garantes que corresponda."
     },
     {
       "id": "007.F",
