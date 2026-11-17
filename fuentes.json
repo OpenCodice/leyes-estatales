@@ -1,0 +1,166 @@
+{
+  "documentos": [
+    {
+      "clave": "cdmx/codigo-de-instituciones-y-procedimientos-electorales",
+      "etiqueta": "Código de Instituciones y Procedimientos Electorales de la Ciudad de México",
+      "sigla": "CIPE CDMX",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Gaceta Oficial de la Ciudad de México",
+      "indice": "https://data.consejeria.cdmx.gob.mx/index.php/leyes/codigos",
+      "url": "https://data.consejeria.cdmx.gob.mx/images/leyes/codigos/CODIGO_DE_INSTITUCIONES_Y_PROC_ELECTORALES_CDMX_6.3.pdf",
+      "estado": "incluida",
+      "version": "2026-07-13",
+      "unidades": 523,
+      "pdf": {
+        "sha256": "491dc07938d7bd104142e7c02d216410f7f9cbaff6e5053f3a99a08a7a72cf2b",
+        "bytes": 2073772,
+        "etag": "\"1fa4ac-65721cb8ad0cf\"",
+        "last_modified": "Tue, 21 Jul 2026 16:48:40 GMT"
+      },
+      "extractor": "83226d5e93aa68d6",
+      "extractor_sha": "62cf000607ef9f5fb4f8849947dac075d9232b48",
+      "alta": {
+        "fecha": "2026-11-17",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "cdmx/codigo-de-procedimientos-civiles",
+      "etiqueta": "Código de Procedimientos Civiles para el Distrito Federal",
+      "sigla": "CPC CDMX",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Gaceta Oficial de la Ciudad de México",
+      "indice": "https://data.consejeria.cdmx.gob.mx/index.php/leyes/codigos",
+      "estado": "excluida",
+      "motivo": "Su Título Especial de la Justicia de Paz vuelve a numerar sus artículos desde el 1, y un archivo por número de artículo no puede guardar dos artículos con el mismo número.",
+      "fecha": "2026-11-17"
+    },
+    {
+      "clave": "cdmx/codigo-penal",
+      "etiqueta": "Código Penal para el Distrito Federal",
+      "sigla": "CP CDMX",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Gaceta Oficial de la Ciudad de México",
+      "indice": "https://data.consejeria.cdmx.gob.mx/index.php/leyes/codigos",
+      "url": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/50226/CODIGO_PENAL_PARA_EL_DF_12.9.pdf",
+      "estado": "incluida",
+      "version": "2026-08-21",
+      "unidades": 476,
+      "pdf": {
+        "sha256": "5ac9b74e0d17e2df796bdfca78027b4df05fca33707d0f5b0f394a251bb59785",
+        "bytes": 1816703,
+        "etag": "\"1bb87f-65ca0c2fe416f\"",
+        "last_modified": "Tue, 29 Sep 2026 15:23:16 GMT"
+      },
+      "extractor": "83226d5e93aa68d6",
+      "extractor_sha": "62cf000607ef9f5fb4f8849947dac075d9232b48",
+      "alta": {
+        "fecha": "2026-11-17",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "cdmx/ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia",
+      "etiqueta": "Ley de Acceso de las Mujeres a una Vida Libre de Violencia de la Ciudad de México",
+      "sigla": "LAMVLV CDMX",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Gaceta Oficial de la Ciudad de México",
+      "indice": "https://data.consejeria.cdmx.gob.mx/index.php/leyes/leyes",
+      "url": "https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_DE_ACCESO_DE_LAS_MUJERES_A_UNA_VIDA_LIBRE_DE_VIOLENCIA_DE_LA_CDMX_12.5.pdf",
+      "estado": "incluida",
+      "version": "2026-07-23",
+      "unidades": 101,
+      "pdf": {
+        "sha256": "ffb25616e2ad9d19fc2f8dd3c08ed05aabcb59debb8081d91dfcc1a225e02eb6",
+        "bytes": 671650,
+        "etag": "\"a3fa2-65a0b19d1b3cf\"",
+        "last_modified": "Thu, 27 Aug 2026 17:59:44 GMT"
+      },
+      "extractor": "83226d5e93aa68d6",
+      "extractor_sha": "62cf000607ef9f5fb4f8849947dac075d9232b48",
+      "alta": {
+        "fecha": "2026-11-17",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "cdmx/ley-de-los-derechos-de-ninas-ninos-y-adolescentes",
+      "etiqueta": "Ley de los Derechos de Niñas, Niños y Adolescentes de la Ciudad de México",
+      "sigla": "LDNNA CDMX",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Gaceta Oficial de la Ciudad de México",
+      "indice": "https://data.consejeria.cdmx.gob.mx/index.php/leyes/leyes",
+      "url": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/310826/LEY_DERECHOS_NINAS_NINOS_ADOLESCENTES_CDMX_7.5.pdf",
+      "estado": "incluida",
+      "version": "2026-08-21",
+      "unidades": 165,
+      "pdf": {
+        "sha256": "ec9522c9f3e730f9d5e954630dc9719637d1bfa059e707d2ede141559b4e9905",
+        "bytes": 821247,
+        "etag": "\"c87ff-65ca0ee08df0f\"",
+        "last_modified": "Tue, 29 Sep 2026 15:35:18 GMT"
+      },
+      "extractor": "83226d5e93aa68d6",
+      "extractor_sha": "62cf000607ef9f5fb4f8849947dac075d9232b48",
+      "alta": {
+        "fecha": "2026-11-17",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "cdmx/ley-organica-de-alcaldias",
+      "etiqueta": "Ley Orgánica de Alcaldías de la Ciudad de México",
+      "sigla": "LOA CDMX",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Gaceta Oficial de la Ciudad de México",
+      "indice": "https://data.consejeria.cdmx.gob.mx/index.php/leyes/leyes",
+      "url": "https://data.consejeria.cdmx.gob.mx/images/leyes/LEY_ORGANICA_DE_ALCALDIAS_DE_LA_CDMX_6.5.pdf",
+      "estado": "incluida",
+      "version": "2026-08-20",
+      "unidades": 247,
+      "pdf": {
+        "sha256": "859852c3fb00f2b23236b72faf8cf7566440cc4e508e38db27a58b5e2c25d74f",
+        "bytes": 701710,
+        "etag": "\"ab50e-65c93e15cd5cf\"",
+        "last_modified": "Tue, 29 Sep 2026 00:01:11 GMT"
+      },
+      "extractor": "83226d5e93aa68d6",
+      "extractor_sha": "62cf000607ef9f5fb4f8849947dac075d9232b48",
+      "alta": {
+        "fecha": "2026-11-17",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "cdmx/ley-organica-del-congreso",
+      "etiqueta": "Ley Orgánica del Congreso de la Ciudad de México",
+      "sigla": "LOC CDMX",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Gaceta Oficial de la Ciudad de México",
+      "indice": "https://data.consejeria.cdmx.gob.mx/index.php/leyes/leyes",
+      "url": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/260226/LEY_ORGANICA_DEL_CONGRESO_DE_LA_CDMX_7.5.pdf",
+      "estado": "incluida",
+      "version": "2026-07-13",
+      "unidades": 153,
+      "pdf": {
+        "sha256": "05cc0999c9a2c4764b7dc0f12e42d6c38462ab22e468457fb003527ea642c74d",
+        "bytes": 747516,
+        "etag": "\"b67fc-6573b9fabc58f\"",
+        "last_modified": "Wed, 22 Jul 2026 23:37:33 GMT"
+      },
+      "extractor": "83226d5e93aa68d6",
+      "extractor_sha": "62cf000607ef9f5fb4f8849947dac075d9232b48",
+      "alta": {
+        "fecha": "2026-11-17",
+        "via": "limpia"
+      }
+    }
+  ]
+}
