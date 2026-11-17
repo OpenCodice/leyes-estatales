@@ -38,8 +38,8 @@
         "etag": "\"1fa4ac-65721cb8ad0cf\"",
         "last_modified": "Tue, 21 Jul 2026 16:48:40 GMT"
       },
-      "extractor": "42d4cabe99a1e201",
-      "extractor_sha": "6454cc38026438fec6ac7baecbac859757f7f00a",
+      "extractor": "72336ca9161397bc",
+      "extractor_sha": "226ad04c25a591e31517a7171cc19194caf5ca44",
       "revision_pendiente": {
         "fecha": "2026-11-17",
         "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 004: falta la última nota de reforma del artículo: tras «Fracción reformada G.O. CDMX 02/06/2023» de la fracción X (pág. 8) el PDF trae «Fe de Erratas G.O. CDMX 13/11/2023» justo antes del rótulo del Artíc; 024: falta la nota final «Fe de Erratas 13/11/2023» que en el PDF sigue a «Fracción adicionada G.O. CDMX 02/06/2023» al cierre del artículo, antes del encabezado «SECCIÓN SEGUNDA PARA CONCEJALES»; quedó om; 086: la nota «Numeral reformado G.O. CDMX 09/04/2026» (tras el numeral 3 de las atribuciones de la Unidad de Transparencia) quedó como párrafo de texto normal, sin cursiva, a diferencia de las demás notas ; 111: la palabra «Derogado», que en el PDF está en renglón propio como anotación tras el primer párrafo, quedó pegada al final de ese párrafo («…denominado Dirección Distrital. Derogado») como si fuera text; 333: se omitió la nota «Sic. G.O. CDMX 07/06/2017» que el PDF pone al final del art. 333, tras la fracción VI («…primera semana que realice en el mes de enero de cada año.») y antes del «Artículo 334» (pág",
@@ -122,8 +122,8 @@
         "etag": "\"a3fa2-65a0b19d1b3cf\"",
         "last_modified": "Thu, 27 Aug 2026 17:59:44 GMT"
       },
-      "extractor": "42d4cabe99a1e201",
-      "extractor_sha": "6454cc38026438fec6ac7baecbac859757f7f00a",
+      "extractor": "72336ca9161397bc",
+      "extractor_sha": "226ad04c25a591e31517a7171cc19194caf5ca44",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -147,8 +147,8 @@
         "etag": "\"c87ff-65ca0ee08df0f\"",
         "last_modified": "Tue, 29 Sep 2026 15:35:18 GMT"
       },
-      "extractor": "42d4cabe99a1e201",
-      "extractor_sha": "6454cc38026438fec6ac7baecbac859757f7f00a",
+      "extractor": "72336ca9161397bc",
+      "extractor_sha": "226ad04c25a591e31517a7171cc19194caf5ca44",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -172,8 +172,8 @@
         "etag": "\"ab50e-65c93e15cd5cf\"",
         "last_modified": "Tue, 29 Sep 2026 00:01:11 GMT"
       },
-      "extractor": "42d4cabe99a1e201",
-      "extractor_sha": "6454cc38026438fec6ac7baecbac859757f7f00a",
+      "extractor": "72336ca9161397bc",
+      "extractor_sha": "226ad04c25a591e31517a7171cc19194caf5ca44",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -197,8 +197,8 @@
         "etag": "\"b67fc-6573b9fabc58f\"",
         "last_modified": "Wed, 22 Jul 2026 23:37:33 GMT"
       },
-      "extractor": "42d4cabe99a1e201",
-      "extractor_sha": "6454cc38026438fec6ac7baecbac859757f7f00a",
+      "extractor": "72336ca9161397bc",
+      "extractor_sha": "226ad04c25a591e31517a7171cc19194caf5ca44",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -242,8 +242,8 @@
         "etag": "\"177e13176c5edc1:0\"",
         "last_modified": "Wed, 26 Nov 2025 00:32:05 GMT"
       },
-      "extractor": "42d4cabe99a1e201",
-      "extractor_sha": "6454cc38026438fec6ac7baecbac859757f7f00a",
+      "extractor": "72336ca9161397bc",
+      "extractor_sha": "226ad04c25a591e31517a7171cc19194caf5ca44",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -267,7 +267,7 @@
         "etag": "\"848195334097da1:0\"",
         "last_modified": "Thu, 25 Apr 2024 18:41:35 GMT"
       },
-      "extractor": "42d4cabe99a1e201"
+      "extractor": "72336ca9161397bc"
     },
     {
       "clave": "jalisco/codigo-electoral",
@@ -287,8 +287,8 @@
         "etag": "\"111c8cb6a51dd1:0\"",
         "last_modified": "Wed, 30 Sep 2026 18:37:14 GMT"
       },
-      "extractor": "42d4cabe99a1e201",
-      "extractor_sha": "6454cc38026438fec6ac7baecbac859757f7f00a",
+      "extractor": "72336ca9161397bc",
+      "extractor_sha": "226ad04c25a591e31517a7171cc19194caf5ca44",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -312,7 +312,7 @@
         "etag": "\"18852ea55a66dd1:0\"",
         "last_modified": "Tue, 27 Oct 2026 21:32:19 GMT"
       },
-      "extractor": "42d4cabe99a1e201"
+      "extractor": "72336ca9161397bc"
     },
     {
       "clave": "jalisco/ley-organica-del-poder-ejecutivo",
@@ -332,8 +332,8 @@
         "etag": "\"3492c066904cdd1:0\"",
         "last_modified": "Fri, 25 Sep 2026 01:51:37 GMT"
       },
-      "extractor": "42d4cabe99a1e201",
-      "extractor_sha": "6454cc38026438fec6ac7baecbac859757f7f00a",
+      "extractor": "72336ca9161397bc",
+      "extractor_sha": "226ad04c25a591e31517a7171cc19194caf5ca44",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -357,7 +357,7 @@
         "etag": "\"c1dc9f802e5cdd1:0\"",
         "last_modified": "Wed, 14 Oct 2026 22:51:08 GMT"
       },
-      "extractor": "42d4cabe99a1e201"
+      "extractor": "72336ca9161397bc"
     },
     {
       "clave": "jalisco/ley-organica-del-poder-legislativo",
@@ -377,8 +377,8 @@
         "etag": "\"b06e77e7884cdd1:0\"",
         "last_modified": "Fri, 25 Sep 2026 00:57:57 GMT"
       },
-      "extractor": "42d4cabe99a1e201",
-      "extractor_sha": "6454cc38026438fec6ac7baecbac859757f7f00a",
+      "extractor": "72336ca9161397bc",
+      "extractor_sha": "226ad04c25a591e31517a7171cc19194caf5ca44",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -462,7 +462,7 @@
         "etag": "\"11096e-639f9260de6df\"",
         "last_modified": "Tue, 15 Jul 2025 15:08:28 GMT"
       },
-      "extractor": "42d4cabe99a1e201"
+      "extractor": "72336ca9161397bc"
     },
     {
       "clave": "queretaro/codigo-fiscal",
@@ -482,7 +482,7 @@
         "etag": "\"169e16-64a7f6d0d9759\"",
         "last_modified": "Tue, 10 Feb 2026 22:03:31 GMT"
       },
-      "extractor": "42d4cabe99a1e201"
+      "extractor": "72336ca9161397bc"
     },
     {
       "clave": "queretaro/codigo-penal",
@@ -682,8 +682,8 @@
         "etag": "\"52b90-639fa4d1c9dc6\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:58 GMT"
       },
-      "extractor": "42d4cabe99a1e201",
-      "extractor_sha": "6454cc38026438fec6ac7baecbac859757f7f00a",
+      "extractor": "72336ca9161397bc",
+      "extractor_sha": "226ad04c25a591e31517a7171cc19194caf5ca44",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
