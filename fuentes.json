@@ -10,15 +10,19 @@
       "indice": "https://data.consejeria.cdmx.gob.mx/index.php/leyes/codigos",
       "url": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/CODIGOS_2025/CODIGO_CIVIL_PARA_EL_DF_15.4.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 119: la nota «N. DE E. SE RECOMIENDA CONSULTAR EL DECRETO POR EL QUE SE CREA UNA NUEVA UNIDAD DEL SISTEMA MONETARIO…» quedó como último párrafo del art. 119; en el PDF va después de la fracción VI pero ant; 135: falta la nota «FRACCIÓN ADICIONADA G.O. CDMX 27/08/25» que el PDF pone después de la fracción IV; el extractor la omitió; 146: falta la nota «a nota «N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.» que el PDF pone entre el encabezado del Capítu; 291-bis: falta la nota «N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO, VÉASE TRANSITORIO PRIMERO DEL DECRETO QUE MODIFICA EL CÓDIGO.» que el PDF pone tras el encabezado «Capítulo XI Del co; 293: la nota «N. DE E. EN RELACIÓN CON LA ENTRADA EN VIGOR DEL PRESENTE ARTÍCULO…» quedó como último párrafo del art. 293; en el PDF va después del texto y justo antes de la nota «(REFORMADO, G.O. 29 DE DI (y 21 más)",
-      "fecha": "2026-11-17",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 024: último párrafo «(capitulo adicionado, G.O.CDMX. 29 de noviembre de 2024)» es la nota del encabezado «TÍTULO PRIMERO BIS» que sigue en el PDF, no del art. 24; quedó pegada como párrafo final del artícu; 024-c: último párrafo «(capitulo adicionado, G.O.CDMX 29 de noviembre de 2024)» anota el encabezado «CAPÍTULO SEGUNDO» (o cierra el capítulo), no el art. 24-C; es nota de estructura colada en el cuerpo; 024-o: último párrafo «(capitulo adicionado, G.O.CDMX 29 de noviembre de 2024)» anota el capítulo/título (precede a «TITULO SEGUNDO»), no el art. 24-O; es nota de estructura colada en el cuerpo; 308: el último párrafo «Artículo Reformado, G.O.CDMX 28 de junio de 2024» está en el PDF justo antes del rótulo «Artículo 309.» y es nota del 309; quedó como párrafo final del 308 y falta al inicio del 309; 309: falta al inicio la nota «Artículo Reformado, G.O.CDMX 28 de junio de 2024» (quedó al final del 308); además el último párrafo termina con «REFORMADO, G.O. 25 DE MAYO DE 2000», nota de encabezado de pá (y 7 más) Sin arreglo automático tras 3 intentos: se reintenta cuando cambie su PDF.",
+      "fecha": "2026-11-18",
       "pdf": {
         "sha256": "98e7c7b6df959bade40683db121bed1927cae922a04012ac0c58486584bfd921",
         "bytes": 2791344,
         "etag": "\"2a97b0-65c937d985e6f\"",
         "last_modified": "Mon, 28 Sep 2026 23:33:17 GMT"
       },
-      "extractor": "780c2ba98e8725ab"
+      "extractor": "757faa50d6afdc2b",
+      "reparacion": {
+        "intentos": 3,
+        "agotada": true
+      }
     },
     {
       "clave": "cdmx/codigo-de-instituciones-y-procedimientos-electorales",
@@ -79,15 +83,15 @@
       "url": "https://data.consejeria.cdmx.gob.mx/images/leyes/2025/2026/50226/CODIGO_PENAL_PARA_EL_DF_12.9.pdf",
       "estado": "incluida",
       "version": "2026-08-21",
-      "unidades": 479,
+      "unidades": 480,
       "pdf": {
         "sha256": "5ac9b74e0d17e2df796bdfca78027b4df05fca33707d0f5b0f394a251bb59785",
         "bytes": 1816703,
         "etag": "\"1bb87f-65ca0c2fe416f\"",
         "last_modified": "Tue, 29 Sep 2026 15:23:16 GMT"
       },
-      "extractor": "780c2ba98e8725ab",
-      "extractor_sha": "ada44abb53e1c82cad3dd0edde581cdc7d1d0f48",
+      "extractor": "757faa50d6afdc2b",
+      "extractor_sha": "559b636fe71f340de282afb942e71fc6281ecc40",
       "revision_pendiente": {
         "fecha": "2026-11-18",
         "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 135-ter: absorbió al artículo siguiente: al final quedó «(SIC) 135 QUÁTER.- Este delito se considerará tentativa de feminicidio, cuando las lesiones cometidas contra la mujer provoquen:» con sus fracciones I y; 148-ter: la nota «Capitulo Adicionado G.O. CDMX 23/08/24» (pág. 53), que anota el encabezado del Capítulo VII «Transfeminicidio», quedó como último párrafo del artículo; 148-quater: el texto empieza con «– Se deroga.»: el guion es del separador del rótulo del PDF («Artículo 148.- Quáter. – Se deroga.») y quedó dentro del párrafo; 182: la última línea del encabezado del Título Sexto («CAPACIDAD DE RESISTIR LA CONDUCTA.», pág. 66) quedó como último párrafo del artículo; 209-ter: el primer párrafo empieza con «– Al que, mediante violencia…»: el guion es del separador del rótulo del PDF («ARTÍCULO 209 TER. – Al que…») y quedó en el texto (y 1 más) Sin arreglo automático tras 3 intentos: se reintenta cuando cambie su PDF.",
@@ -407,7 +411,7 @@
         "etag": "\"11fa50-639f9262ce875\"",
         "last_modified": "Tue, 15 Jul 2025 15:08:30 GMT"
       },
-      "extractor": "d354e7cbd8f90fdd"
+      "extractor": "757faa50d6afdc2b"
     },
     {
       "clave": "queretaro/codigo-civil",
@@ -444,14 +448,14 @@
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/COD-ID-03.pdf",
       "estado": "excluida",
       "motivo": "invariantes rotos: [queretaro/codigo-de-etica-del-poder-legislativo] sin fugas de encabezado/pie: 007.md",
-      "fecha": "2026-11-17",
+      "fecha": "2026-11-18",
       "pdf": {
         "sha256": "4c844a991b9a7112f426e8d6dddca87444d3392e8f237265b5f8c3030cc5eaea",
         "bytes": 217495,
         "etag": "\"35197-6278691c29496\"",
         "last_modified": "Fri, 22 Nov 2024 20:53:04 GMT"
       },
-      "extractor": "780c2ba98e8725ab"
+      "extractor": "757faa50d6afdc2b"
     },
     {
       "clave": "queretaro/codigo-de-procedimientos-civiles",
@@ -596,15 +600,19 @@
       "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-03.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 028-duodecies: el Artículo 28 terdecies («El Centro realizará el cobro de derechos por los servicios de evaluación en materia de control de confianza.», nota Adición P. O. No. 92, 26-XII-17) quedó absorbido como últ; 053: la tabla de cuotas (págs. 40 a 42) quedó aplanada en párrafos con el orden de lectura revuelto por las columnas: celdas partidas e intercaladas (p. ej. «Expedición de certificado de antecedentes Por c; 053-bis: la tabla de derechos (pág. 43) quedó aplanada y desordenada: «Bicicleta.» separado de sus valores, «Depósito vehicular.» y «Servicios auxiliares de transporte.» mezclados con las celdas, la matriz de ",
-      "fecha": "2026-11-17",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 053: La tabla de cuotas del art. 53 quedó linearizada con las columnas revueltas: celdas de varias filas fundidas en un solo párrafo y palabras fuera de orden (p. ej. «Evaluación en Convalidación de ... ma; 053-bis: La tabla de cuotas del art. 53 Bis quedó revuelta: filas y rótulos fuera de orden o unidos («Por día. .2754 16 en adelante. .1836 Motocicleta.», «Depósito vehicular. Sedán, Minivan... Arrastre. Salvam Sin arreglo automático tras 3 intentos: se reintenta cuando cambie su PDF.",
+      "fecha": "2026-11-18",
       "pdf": {
         "sha256": "9024704ce927e51f1c940ce23cd6729c5ce96cbd9c796e72ab9ca9c92ddb14b0",
         "bytes": 709877,
         "etag": "\"ad4f5-6509c2d3cd767\"",
         "last_modified": "Wed, 29 Apr 2026 16:52:44 GMT"
       },
-      "extractor": "d5141153547758e4"
+      "extractor": "757faa50d6afdc2b",
+      "reparacion": {
+        "intentos": 3,
+        "agotada": true
+      }
     },
     {
       "clave": "queretaro/ley-organica-de-la-universidad-tecnologica-de-queretaro",
@@ -694,7 +702,7 @@
         "etag": "\"af90b-639fa4d11ef5f\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:57 GMT"
       },
-      "extractor": "d354e7cbd8f90fdd"
+      "extractor": "757faa50d6afdc2b"
     },
     {
       "clave": "queretaro/ley-organica-del-tribunal-de-justicia-administrativa",
@@ -730,16 +738,21 @@
       "medio": "Periódico Oficial del Gobierno del Estado de Querétaro «La Sombra de Arteaga»",
       "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-12.pdf",
-      "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 038: la nota de reforma «(Fe de erratas según oficio SSP/2398/20/LIX … P. O. No. 57, 3-VII-20)» quedó pegada en el cuerpo, al final del párrafo 1 y al final de la fracción III, en vez de ir en cursiva en s",
-      "fecha": "2026-11-17",
+      "estado": "incluida",
+      "version": "2020-07-03",
+      "unidades": 41,
       "pdf": {
         "sha256": "2d3921013d243e79ea5e6059c7c567997df2b3c4032862c2d2a68b60b3beb5f6",
         "bytes": 328414,
         "etag": "\"502de-639fa4d2ab730\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:59 GMT"
       },
-      "extractor": "d5141153547758e4"
+      "extractor": "757faa50d6afdc2b",
+      "extractor_sha": "559b636fe71f340de282afb942e71fc6281ecc40",
+      "alta": {
+        "fecha": "2026-11-18",
+        "via": "limpia"
+      }
     },
     {
       "clave": "queretaro/ley-organica-municipal",
@@ -752,14 +765,14 @@
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-13.pdf",
       "estado": "excluida",
       "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 005: faltan los últimos cuatro municipios de la tabla del PDF (SAN JOAQUIN, SAN JUAN DEL RIO, TEQUISQUIAPAN, TOLIMAN); el texto termina en «QUERETARO: SANTIAGO DE QUERÉTARO.». Además la tabla Municipio/Cab",
-      "fecha": "2026-11-17",
+      "fecha": "2026-11-18",
       "pdf": {
         "sha256": "a4391f82ce9de0f078d36f2bf3e847888e74f6bf2cc6f0f14037b0fd3ef076c4",
         "bytes": 742377,
         "etag": "\"b53e9-65ae6387442d6\"",
         "last_modified": "Mon, 07 Sep 2026 15:24:56 GMT"
       },
-      "extractor": "d5141153547758e4"
+      "extractor": "757faa50d6afdc2b"
     }
   ]
 }
