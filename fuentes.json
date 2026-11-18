@@ -42,8 +42,8 @@
         "etag": "\"1fa4ac-65721cb8ad0cf\"",
         "last_modified": "Tue, 21 Jul 2026 16:48:40 GMT"
       },
-      "extractor": "77fd913831065693",
-      "extractor_sha": "eac87fa9d6ee27d5caa9437bd544c326be771bb8",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "revision_pendiente": {
         "fecha": "2026-11-18",
         "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 111: la palabra «Derogado», que en el PDF está en renglón propio como anotación tras el primer párrafo, quedó pegada al final de ese párrafo («…denominado Dirección Distrital. Derogado») como si fuera text Sin arreglo automático tras 3 intentos: se reintenta cuando cambie su PDF.",
@@ -91,8 +91,8 @@
         "etag": "\"1bb87f-65ca0c2fe416f\"",
         "last_modified": "Tue, 29 Sep 2026 15:23:16 GMT"
       },
-      "extractor": "77fd913831065693",
-      "extractor_sha": "eac87fa9d6ee27d5caa9437bd544c326be771bb8",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "revision_pendiente": {
         "fecha": "2026-11-18",
         "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 135-ter: absorbió al artículo siguiente: al final quedó «(SIC) 135 QUÁTER.- Este delito se considerará tentativa de feminicidio, cuando las lesiones cometidas contra la mujer provoquen:» con sus fracciones I y; 148-ter: la nota «Capitulo Adicionado G.O. CDMX 23/08/24» (pág. 53), que anota el encabezado del Capítulo VII «Transfeminicidio», quedó como último párrafo del artículo; 148-quater: el texto empieza con «– Se deroga.»: el guion es del separador del rótulo del PDF («Artículo 148.- Quáter. – Se deroga.») y quedó dentro del párrafo; 182: la última línea del encabezado del Título Sexto («CAPACIDAD DE RESISTIR LA CONDUCTA.», pág. 66) quedó como último párrafo del artículo; 209-ter: el primer párrafo empieza con «– Al que, mediante violencia…»: el guion es del separador del rótulo del PDF («ARTÍCULO 209 TER. – Al que…») y quedó en el texto (y 1 más) Sin arreglo automático tras 3 intentos: se reintenta cuando cambie su PDF.",
@@ -128,8 +128,8 @@
         "etag": "\"a3fa2-65a0b19d1b3cf\"",
         "last_modified": "Thu, 27 Aug 2026 17:59:44 GMT"
       },
-      "extractor": "77fd913831065693",
-      "extractor_sha": "eac87fa9d6ee27d5caa9437bd544c326be771bb8",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -153,8 +153,8 @@
         "etag": "\"c87ff-65ca0ee08df0f\"",
         "last_modified": "Tue, 29 Sep 2026 15:35:18 GMT"
       },
-      "extractor": "77fd913831065693",
-      "extractor_sha": "eac87fa9d6ee27d5caa9437bd544c326be771bb8",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -178,8 +178,8 @@
         "etag": "\"ab50e-65c93e15cd5cf\"",
         "last_modified": "Tue, 29 Sep 2026 00:01:11 GMT"
       },
-      "extractor": "77fd913831065693",
-      "extractor_sha": "eac87fa9d6ee27d5caa9437bd544c326be771bb8",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -203,8 +203,8 @@
         "etag": "\"b67fc-6573b9fabc58f\"",
         "last_modified": "Wed, 22 Jul 2026 23:37:33 GMT"
       },
-      "extractor": "77fd913831065693",
-      "extractor_sha": "eac87fa9d6ee27d5caa9437bd544c326be771bb8",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -228,8 +228,8 @@
         "etag": "\"e19698f214dd1:0\"",
         "last_modified": "Wed, 24 Jun 2026 21:36:47 GMT"
       },
-      "extractor": "77fd913831065693",
-      "extractor_sha": "eac87fa9d6ee27d5caa9437bd544c326be771bb8",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -253,8 +253,8 @@
         "etag": "\"177e13176c5edc1:0\"",
         "last_modified": "Wed, 26 Nov 2025 00:32:05 GMT"
       },
-      "extractor": "77fd913831065693",
-      "extractor_sha": "eac87fa9d6ee27d5caa9437bd544c326be771bb8",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -270,7 +270,7 @@
       "indice": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/busquedasleyes/Listado'2.cfm",
       "url": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/legislacion/C%C3%B3digos/Documentos_PDF-C%C3%B3digos/C%C3%B3digo%20de%20Procedimientos%20Civiles%20del%20Estado%20de%20Jalisco-250424.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 988: el PDF trae dos renglones «Artículo 988.-»: el primero (tutor interino) y un segundo «Se deroga.». El segundo quedó dentro del archivo 988 como último párrafo con su rótulo («Artículo 988.- Se deroga.",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 988: el PDF trae dos renglones «Artículo 988.-»: el primero (tutor interino) y un segundo «Se deroga.». El segundo quedó dentro del archivo 988 como último párrafo con su rótulo («Artículo 988.- Se deroga. Sin arreglo automático tras 3 intentos: se reintenta cuando cambie su PDF.",
       "fecha": "2026-11-18",
       "pdf": {
         "sha256": "a67d7fe23be0aef93b12791ba3bf060ff2dd773cfe15496adfae7dc36bebdd74",
@@ -278,7 +278,11 @@
         "etag": "\"848195334097da1:0\"",
         "last_modified": "Thu, 25 Apr 2024 18:41:35 GMT"
       },
-      "extractor": "77fd913831065693"
+      "extractor": "46d1f4bd490095ed",
+      "reparacion": {
+        "intentos": 3,
+        "agotada": true
+      }
     },
     {
       "clave": "jalisco/codigo-electoral",
@@ -298,8 +302,8 @@
         "etag": "\"111c8cb6a51dd1:0\"",
         "last_modified": "Wed, 30 Sep 2026 18:37:14 GMT"
       },
-      "extractor": "77fd913831065693",
-      "extractor_sha": "eac87fa9d6ee27d5caa9437bd544c326be771bb8",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -347,8 +351,8 @@
         "etag": "\"3492c066904cdd1:0\"",
         "last_modified": "Fri, 25 Sep 2026 01:51:37 GMT"
       },
-      "extractor": "77fd913831065693",
-      "extractor_sha": "eac87fa9d6ee27d5caa9437bd544c326be771bb8",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -372,8 +376,8 @@
         "etag": "\"c1dc9f802e5cdd1:0\"",
         "last_modified": "Wed, 14 Oct 2026 22:51:08 GMT"
       },
-      "extractor": "77fd913831065693",
-      "extractor_sha": "eac87fa9d6ee27d5caa9437bd544c326be771bb8",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -397,8 +401,8 @@
         "etag": "\"b06e77e7884cdd1:0\"",
         "last_modified": "Fri, 25 Sep 2026 00:57:57 GMT"
       },
-      "extractor": "77fd913831065693",
-      "extractor_sha": "eac87fa9d6ee27d5caa9437bd544c326be771bb8",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -434,8 +438,8 @@
         "etag": "\"2760b-62f2745448ab2\"",
         "last_modified": "Thu, 27 Feb 2025 22:32:52 GMT"
       },
-      "extractor": "b911aa959cd234b1",
-      "extractor_sha": "de6b45d1411023b9c27fb95d430569fffffb779b",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -463,7 +467,7 @@
       "indice": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/codigos.php",
       "url": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/CODIGO%20FISCAL%20DEL%20ESTADO%20DE%20NUEVO%20LEON.pdf?2023-01-13",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 047: el último párrafo termina en «...los requisitos que establece el» y le falta «Artículo 48 de este código.» (pág. 42 del PDF: el remate «Artículo 48 de este código.» quedó fuera; el extractor lo tomó p; 048: el primer párrafo es el fragmento suelto «de este código.», cola del art. 47, antes del rótulo «ARTICULO 48.-»; la palabra «Artículo 48» del PDF se perdió; 055: fracción III: el PDF trae «irregularidades» y en renglón aparte un «.» antes del inciso A); el texto omite ese «.» y deja «irregularidades A).- Omisión...» pegado en el mismo párrafo de la fracción II; 203: el primer renglón de la nota que anota un encabezado de Capítulo/Título («_(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA_», cortada, cuyo resto no está) quedó como segundo párrafo d; 205: el primer renglón de la nota que anota un encabezado de Capítulo/Título («_(DEROGADO POR EL ARTICULO SEGUNDO TRANSITORIO DE LA LEY ORGANICA_», cortada, cuyo resto no está) quedó como segundo párrafo d (y 9 más)",
+      "motivo": "1 unidades no reproducen el PDF (nuevo-leon/codigo-fiscal/207)",
       "fecha": "2026-11-18",
       "pdf": {
         "sha256": "c343837dead2cb4ded98a9c5ad391694fac759ae7b5eec4e774ee82d65850c3b",
@@ -471,7 +475,7 @@
         "etag": "\"85222-5f2a45def9cfb\"",
         "last_modified": "Thu, 19 Jan 2023 21:10:48 GMT"
       },
-      "extractor": "b911aa959cd234b1"
+      "extractor": "46d1f4bd490095ed"
     },
     {
       "clave": "nuevo-leon/codigo-penal",
@@ -486,6 +490,26 @@
       "fecha": "2026-11-18"
     },
     {
+      "clave": "nuevo-leon/ley-de-adquisiciones-arrendamientos-y-contratacion-de-servicios",
+      "etiqueta": "Ley de Adquisiciones, Arrendamientos y Contratación de Servicios del Estado de Nuevo León",
+      "sigla": "LAACS NL",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Estado de Nuevo León",
+      "indice": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/",
+      "url": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/LEY%20DE%20ADQUISICIONES%2C%20ARRENDAMIENTOS%20Y%20CONTRATACION%20DE%20SERVICIOS%20DEL%20ESTADO%20DE%20NUEVO%20LEON.pdf?2023-06-30",
+      "estado": "excluida",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 001: pie de página «LXXIII Legislatura 1» colado en el texto; epígrafe marginal del PDF pegado al cuerpo (o como párrafo propio) del artículo; 002: epígrafe marginal del PDF pegado al cuerpo (o como párrafo propio) del artículo; 003: epígrafe marginal del PDF pegado al cuerpo (o como párrafo propio) del artículo; 004: pie de página «LXXIII Legislatura 2, 3, 4» colado en el texto; epígrafe marginal del PDF pegado al cuerpo (o como párrafo propio) del artículo; 005: epígrafe marginal del PDF pegado al cuerpo (o como párrafo propio) del artículo (y 89 más)",
+      "fecha": "2026-11-18",
+      "pdf": {
+        "sha256": "384409bf56c6a713ebe7d33a3a06a376bad8e8a32b7513708dfdbfbdeb4d9f80",
+        "bytes": 339246,
+        "etag": "\"52d2e-5ff9ae31d35ba\"",
+        "last_modified": "Mon, 03 Jul 2023 20:19:43 GMT"
+      },
+      "extractor": "46d1f4bd490095ed"
+    },
+    {
       "clave": "nuevo-leon/ley-de-asentamientos-humanos-ordenamiento-territorial-y-desarrollo-urbano",
       "etiqueta": "Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano para el Estado de Nuevo León",
       "sigla": "LAHOTDU NL",
@@ -494,7 +518,7 @@
       "medio": "Periódico Oficial del Estado de Nuevo León",
       "indice": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/",
       "estado": "excluida",
-      "motivo": "el enlace del Congreso lleva un espacio en la consulta ('….pdf?2026-03- 9') y la descarga lo rechaza; se podrá sumar cuando el descargador lo admita",
+      "motivo": "su PDF ya se descarga (se ignora la consulta inválida del enlace); falta construirlo y auditarlo",
       "fecha": "2026-11-18"
     },
     {
@@ -515,8 +539,8 @@
         "etag": "\"42031-5d4b1836e737a\"",
         "last_modified": "Mon, 03 Jan 2022 18:16:02 GMT"
       },
-      "extractor": "b911aa959cd234b1",
-      "extractor_sha": "de6b45d1411023b9c27fb95d430569fffffb779b",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -564,7 +588,7 @@
         "etag": "\"fa42-5c0e5d0b76764\"",
         "last_modified": "Mon, 26 Apr 2021 20:16:05 GMT"
       },
-      "extractor": "b911aa959cd234b1"
+      "extractor": "46d1f4bd490095ed"
     },
     {
       "clave": "nuevo-leon/ley-de-justicia-administrativa-para-el-estado-y-municipios",
@@ -596,8 +620,8 @@
         "etag": "\"2ba14-62f26d36c7f78\"",
         "last_modified": "Thu, 27 Feb 2025 22:01:02 GMT"
       },
-      "extractor": "b911aa959cd234b1",
-      "extractor_sha": "de6b45d1411023b9c27fb95d430569fffffb779b",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -612,7 +636,7 @@
       "medio": "Periódico Oficial del Estado de Nuevo León",
       "indice": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/",
       "estado": "excluida",
-      "motivo": "el enlace del Congreso lleva un espacio en la consulta ('….pdf?2026-03- 9') y la descarga lo rechaza; se podrá sumar cuando el descargador lo admita",
+      "motivo": "su PDF ya se descarga (se ignora la consulta inválida del enlace); falta construirlo y auditarlo",
       "fecha": "2026-11-18"
     },
     {
@@ -624,16 +648,21 @@
       "medio": "Periódico Oficial del Estado de Nuevo León",
       "indice": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/",
       "url": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/LEY%20DE%20SEGURIDAD%20PUBLICA%20PARA%20EL%20ESTADO%20DE%20NUEVO%20LEON.pdf?2026-06-15",
-      "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 002: el pie de página «LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE NUEVO LEÓN 1» quedó dentro del texto del artículo (no es texto de la ley, a veces partiendo una oración); 003: el pie de página «LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE NUEVO LEÓN 2» quedó dentro del texto del artículo (no es texto de la ley, a veces partiendo una oración); 004: el pie de página «LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE NUEVO LEÓN 3» quedó dentro del texto del artículo (no es texto de la ley, a veces partiendo una oración); 006: el pie de página «LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE NUEVO LEÓN 4» quedó dentro del texto del artículo (no es texto de la ley, a veces partiendo una oración); 015: el pie de página «LEY DE SEGURIDAD PÚBLICA DEL ESTADO DE NUEVO LEÓN 7» quedó dentro del texto del artículo (no es texto de la ley, a veces partiendo una oración) (y 58 más)",
-      "fecha": "2026-11-18",
+      "estado": "incluida",
+      "version": "2026-06-15",
+      "unidades": 304,
       "pdf": {
         "sha256": "5c14494a1455f2cd1b58b6928fea6639c0872f4d88cbc555070e3497ce3bdcbd",
         "bytes": 690624,
         "etag": "\"a89c0-65ab55c050aa6\"",
         "last_modified": "Sat, 05 Sep 2026 05:07:19 GMT"
       },
-      "extractor": "b911aa959cd234b1"
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
+      "alta": {
+        "fecha": "2026-11-18",
+        "via": "limpia"
+      }
     },
     {
       "clave": "nuevo-leon/ley-de-transparencia-y-acceso-a-la-informacion-publica",
@@ -665,7 +694,7 @@
         "etag": "\"ff06c-5fcf48b76132e\"",
         "last_modified": "Wed, 31 May 2023 03:02:05 GMT"
       },
-      "extractor": "b911aa959cd234b1"
+      "extractor": "46d1f4bd490095ed"
     },
     {
       "clave": "nuevo-leon/ley-organica-de-la-administracion-publica",
@@ -676,7 +705,7 @@
       "medio": "Periódico Oficial del Estado de Nuevo León",
       "indice": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/",
       "estado": "excluida",
-      "motivo": "el enlace del Congreso lleva un espacio en la consulta ('….pdf?2026-03- 9') y la descarga lo rechaza; se podrá sumar cuando el descargador lo admita",
+      "motivo": "su PDF ya se descarga (se ignora la consulta inválida del enlace); falta construirlo y auditarlo",
       "fecha": "2026-11-18"
     },
     {
@@ -689,7 +718,7 @@
       "indice": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/",
       "url": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/LEY%20ORGANICA%20DE%20LA%20FISCALIA%20GENERAL%20DE%20JUSTICIA%20DEL%20ESTADO%20DE%20NUEVO%20LEON.pdf?2026-06-15",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 033: al final del artículo quedó la nota que anota el encabezado del Capítulo VIII BIS («_(ADICIONADO CON LOS ARTÍCULOS QUE LO INTEGRAN, P.O. 12 DE FEBRERO_», además truncada: falta «DE 2024)»); no es text; 033-bis: (a) abre con la nota «ADICIONADO, P.O. 12 DE FEBRERO DE 2024» que en el PDF anota el encabezado del Capítulo VIII BIS, no el artículo; (b) el ARTÍCULO 33 BIS I (con sus fracciones I a XII y el párrafo",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 033-bis: la nota «_(ADICIONADO, P.O. 12 DE FEBRERO DE 2024)_» quedó como primer párrafo del artículo 33 Bis, pero en el PDF (pág. 23) es la nota del encabezado «CAPÍTULO VIII BIS / DE LA FISCALÍA ESPECIALIZADA",
       "fecha": "2026-11-18",
       "pdf": {
         "sha256": "ec737dabf50e2a0c9ecc052715273c94105183e2c80121de84ba0083ec65fcb8",
@@ -697,7 +726,7 @@
         "etag": "\"731cb-65ab5606f4a68\"",
         "last_modified": "Sat, 05 Sep 2026 05:08:33 GMT"
       },
-      "extractor": "b911aa959cd234b1"
+      "extractor": "46d1f4bd490095ed"
     },
     {
       "clave": "nuevo-leon/ley-organica-del-poder-judicial",
@@ -720,16 +749,21 @@
       "medio": "Periódico Oficial del Estado de Nuevo León",
       "indice": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/",
       "url": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/LEY%20ORGANICA%20DEL%20PODER%20LEGISLATIVO.pdf?2026-05-25",
-      "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 080-bis: el último párrafo trae pegado el rótulo de artículo del PDF «ARTÍCULO 80 BIS I.- La Contraloría Interna del Poder Legislativo, deberá incluir…»: el extractor no separó ese segundo encabezado (80 Bis I",
-      "fecha": "2026-11-18",
+      "estado": "incluida",
+      "version": null,
+      "unidades": 105,
       "pdf": {
         "sha256": "55de6341255b6241816b120a3e5a827725a1a2713c5221906332b6cb2670ed35",
         "bytes": 456569,
         "etag": "\"6f779-653c6d4c6ae61\"",
         "last_modified": "Tue, 09 Jun 2026 00:01:38 GMT"
       },
-      "extractor": "b911aa959cd234b1"
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
+      "alta": {
+        "fecha": "2026-11-18",
+        "via": "limpia"
+      }
     },
     {
       "clave": "queretaro/codigo-ambiental",
@@ -881,8 +915,8 @@
         "etag": "\"10a0bb-639f92616dfc5\"",
         "last_modified": "Tue, 15 Jul 2025 15:08:28 GMT"
       },
-      "extractor": "77fd913831065693",
-      "extractor_sha": "eac87fa9d6ee27d5caa9437bd544c326be771bb8",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -906,8 +940,8 @@
         "etag": "\"60de3-639fa4d395d3a\"",
         "last_modified": "Tue, 15 Jul 2025 16:31:00 GMT"
       },
-      "extractor": "77fd913831065693",
-      "extractor_sha": "eac87fa9d6ee27d5caa9437bd544c326be771bb8",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -931,8 +965,8 @@
         "etag": "\"49ae5-6509c1fd75c83\"",
         "last_modified": "Wed, 29 Apr 2026 16:48:59 GMT"
       },
-      "extractor": "77fd913831065693",
-      "extractor_sha": "eac87fa9d6ee27d5caa9437bd544c326be771bb8",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -980,8 +1014,8 @@
         "etag": "\"39e1a-639fa4ce30f3f\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:54 GMT"
       },
-      "extractor": "77fd913831065693",
-      "extractor_sha": "eac87fa9d6ee27d5caa9437bd544c326be771bb8",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1005,8 +1039,8 @@
         "etag": "\"31503-639fa4ce6a921\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:55 GMT"
       },
-      "extractor": "77fd913831065693",
-      "extractor_sha": "eac87fa9d6ee27d5caa9437bd544c326be771bb8",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1030,8 +1064,8 @@
         "etag": "\"40f77-639fa4cf0da88\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:55 GMT"
       },
-      "extractor": "77fd913831065693",
-      "extractor_sha": "eac87fa9d6ee27d5caa9437bd544c326be771bb8",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1055,8 +1089,8 @@
         "etag": "\"44f12-6509c3d013376\"",
         "last_modified": "Wed, 29 Apr 2026 16:57:08 GMT"
       },
-      "extractor": "77fd913831065693",
-      "extractor_sha": "eac87fa9d6ee27d5caa9437bd544c326be771bb8",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1080,8 +1114,8 @@
         "etag": "\"ccaf1-639fa4d02ad15\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:56 GMT"
       },
-      "extractor": "77fd913831065693",
-      "extractor_sha": "eac87fa9d6ee27d5caa9437bd544c326be771bb8",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -1105,8 +1139,8 @@
         "etag": "\"a2c5e-639fa4d0acb3a\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:57 GMT"
       },
-      "extractor": "77fd913831065693",
-      "extractor_sha": "eac87fa9d6ee27d5caa9437bd544c326be771bb8",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1150,8 +1184,8 @@
         "etag": "\"52b90-639fa4d1c9dc6\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:58 GMT"
       },
-      "extractor": "77fd913831065693",
-      "extractor_sha": "eac87fa9d6ee27d5caa9437bd544c326be771bb8",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -1175,8 +1209,8 @@
         "etag": "\"502de-639fa4d2ab730\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:59 GMT"
       },
-      "extractor": "77fd913831065693",
-      "extractor_sha": "eac87fa9d6ee27d5caa9437bd544c326be771bb8",
+      "extractor": "46d1f4bd490095ed",
+      "extractor_sha": "6f72f4f6a52c2b12ff1cb7018b817a359c3fab8f",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
