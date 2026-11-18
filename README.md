@@ -45,40 +45,40 @@ ensucia el historial del texto.
 ## Estados presentes
 
 <!-- ESTADOS:INICIO -->
-| Estado | Carpeta | Publicada por |
-|---|---|---|
-| Aguascalientes | [`aguascalientes/constitucion/`](aguascalientes/constitucion/) | Periódico Oficial del Estado de Aguascalientes — Congreso del Estado de Aguascalientes |
-| Baja California | [`baja-california/constitucion/`](baja-california/constitucion/) | H. Congreso del Estado de Baja California |
-| Baja California Sur | [`baja-california-sur/constitucion/`](baja-california-sur/constitucion/) | Boletín Oficial del Gobierno del Estado de Baja California Sur — H. Congreso del Estado de Baja California Sur (PDF generado del Word oficial) |
-| Campeche | [`campeche/constitucion/`](campeche/constitucion/) | Congreso del Estado de Campeche (Compendio Jurídico, legislacion.congresocam.gob.mx) |
-| Ciudad de México | [`cdmx/constitucion/`](cdmx/constitucion/) | Gaceta Oficial de la Ciudad de México — Congreso de la Ciudad de México |
-| Chiapas | [`chiapas/constitucion/`](chiapas/constitucion/) | H. Congreso del Estado de Chiapas (Legislación vigente) |
-| Chihuahua | [`chihuahua/constitucion/`](chihuahua/constitucion/) | H. Congreso del Estado de Chihuahua (Biblioteca Legislativa) |
-| Coahuila | [`coahuila/constitucion/`](coahuila/constitucion/) | Periódico Oficial del Estado de Coahuila de Zaragoza — Congreso del Estado de Coahuila de Zaragoza |
-| Colima | [`colima/constitucion/`](colima/constitucion/) | Periódico Oficial "El Estado de Colima" — Dirección de Proceso Legislativo del H. Congreso del Estado de Colima |
-| Durango | [`durango/constitucion/`](durango/constitucion/) | Periódico Oficial del Gobierno del Estado de Durango — H. Congreso del Estado de Durango |
-| Estado de México | [`edomex/constitucion/`](edomex/constitucion/) | Periódico Oficial «Gaceta del Gobierno» — Gobierno del Estado de México (Legislación vigente) |
-| Guanajuato | [`guanajuato/constitucion/`](guanajuato/constitucion/) | Periódico Oficial del Gobierno del Estado de Guanajuato — H. Congreso del Estado de Guanajuato |
-| Guerrero | [`guerrero/constitucion/`](guerrero/constitucion/) | Periódico Oficial del Gobierno del Estado de Guerrero — H. Congreso del Estado de Guerrero |
-| Hidalgo | [`hidalgo/constitucion/`](hidalgo/constitucion/) | Periódico Oficial del Estado de Hidalgo — Congreso del Estado de Hidalgo (Instituto de Estudios Legislativos) |
-| Jalisco | [`jalisco/constitucion/`](jalisco/constitucion/) | Periódico Oficial del Estado de Jalisco — Congreso del Estado de Jalisco |
-| Michoacán | [`michoacan/constitucion/`](michoacan/constitucion/) | Periódico Oficial del Gobierno del Estado de Michoacán — H. Congreso del Estado de Michoacán de Ocampo |
-| Morelos | [`morelos/constitucion/`](morelos/constitucion/) | Periódico Oficial «Tierra y Libertad» — Consejería Jurídica del Poder Ejecutivo del Estado de Morelos |
-| Nayarit | [`nayarit/constitucion/`](nayarit/constitucion/) | Periódico Oficial del Estado de Nayarit — Congreso del Estado de Nayarit |
-| Nuevo León | [`nuevo-leon/constitucion/`](nuevo-leon/constitucion/) | Periódico Oficial del Estado de Nuevo León — H. Congreso del Estado de Nuevo León |
-| Oaxaca | [`oaxaca/constitucion/`](oaxaca/constitucion/) | Periódico Oficial del Estado de Oaxaca — H. Congreso del Estado Libre y Soberano de Oaxaca |
-| Puebla | [`puebla/constitucion/`](puebla/constitucion/) | Periódico Oficial del Estado de Puebla — Orden Jurídico Poblano, Secretaría de Gobernación |
-| Querétaro | [`queretaro/constitucion/`](queretaro/constitucion/) | Periódico Oficial «La Sombra de Arteaga» — Poder Legislativo del Estado de Querétaro |
-| Quintana Roo | [`quintana-roo/constitucion/`](quintana-roo/constitucion/) | Periódico Oficial del Estado de Quintana Roo — Congreso del Estado de Quintana Roo |
-| San Luis Potosí | [`san-luis-potosi/constitucion/`](san-luis-potosi/constitucion/) | Periódico Oficial del Estado de San Luis Potosí — Congreso del Estado de San Luis Potosí (Instituto de Investigación y Evaluación Legislativa) |
-| Sinaloa | [`sinaloa/constitucion/`](sinaloa/constitucion/) | Periódico Oficial «El Estado de Sinaloa» — H. Congreso del Estado de Sinaloa |
-| Sonora | [`sonora/constitucion/`](sonora/constitucion/) | Boletín Oficial del Gobierno del Estado de Sonora — H. Congreso del Estado de Sonora |
-| Tabasco | [`tabasco/constitucion/`](tabasco/constitucion/) | Periódico Oficial del Estado de Tabasco — H. Congreso del Estado de Tabasco |
-| Tamaulipas | [`tamaulipas/constitucion/`](tamaulipas/constitucion/) | Periódico Oficial del Estado de Tamaulipas — H. Congreso del Estado de Tamaulipas |
-| Tlaxcala | [`tlaxcala/constitucion/`](tlaxcala/constitucion/) | Periódico Oficial del Gobierno del Estado de Tlaxcala — Congreso del Estado de Tlaxcala |
-| Veracruz | [`veracruz/constitucion/`](veracruz/constitucion/) | Gaceta Oficial del Estado de Veracruz — H. Congreso del Estado de Veracruz |
-| Yucatán | [`yucatan/constitucion/`](yucatan/constitucion/) | H. Congreso del Estado de Yucatán (Secretaría General del Poder Legislativo, Unidad de Servicios Técnico-Legislativos) |
-| Zacatecas | [`zacatecas/constitucion/`](zacatecas/constitucion/) | Poder Legislativo del Estado de Zacatecas (Congreso del Estado, LXV Legislatura) |
+| Estado | Carpeta | Publicada por | Otras leyes |
+|---|---|---|---|
+| Aguascalientes | [`aguascalientes/constitucion/`](aguascalientes/constitucion/) | Periódico Oficial del Estado de Aguascalientes — Congreso del Estado de Aguascalientes | — |
+| Baja California | [`baja-california/constitucion/`](baja-california/constitucion/) | Periódico Oficial del Estado de Baja California — H. Congreso del Estado de Baja California | — |
+| Baja California Sur | [`baja-california-sur/constitucion/`](baja-california-sur/constitucion/) | Boletín Oficial del Gobierno del Estado de Baja California Sur — H. Congreso del Estado de Baja California Sur (PDF generado del Word oficial) | — |
+| Campeche | [`campeche/constitucion/`](campeche/constitucion/) | Periódico Oficial del Estado de Campeche — Congreso del Estado de Campeche | — |
+| Ciudad de México | [`cdmx/constitucion/`](cdmx/constitucion/) | Gaceta Oficial de la Ciudad de México — Consejería Jurídica y de Servicios Legales | [CIPE CDMX](cdmx/codigo-de-instituciones-y-procedimientos-electorales/), [CP CDMX](cdmx/codigo-penal/), [LAMVLV CDMX](cdmx/ley-de-acceso-de-las-mujeres-a-una-vida-libre-de-violencia/), [LDNNA CDMX](cdmx/ley-de-los-derechos-de-ninas-ninos-y-adolescentes/), [LOA CDMX](cdmx/ley-organica-de-alcaldias/), [LOC CDMX](cdmx/ley-organica-del-congreso/) |
+| Chiapas | [`chiapas/constitucion/`](chiapas/constitucion/) | Periódico Oficial del Estado de Chiapas — H. Congreso del Estado de Chiapas | — |
+| Chihuahua | [`chihuahua/constitucion/`](chihuahua/constitucion/) | Periódico Oficial del Estado de Chihuahua — H. Congreso del Estado de Chihuahua | — |
+| Coahuila | [`coahuila/constitucion/`](coahuila/constitucion/) | Periódico Oficial del Estado de Coahuila de Zaragoza — Congreso del Estado de Coahuila de Zaragoza | — |
+| Colima | [`colima/constitucion/`](colima/constitucion/) | Periódico Oficial "El Estado de Colima" — Dirección de Proceso Legislativo del H. Congreso del Estado de Colima | — |
+| Durango | [`durango/constitucion/`](durango/constitucion/) | Periódico Oficial del Gobierno del Estado de Durango — H. Congreso del Estado de Durango | — |
+| Estado de México | [`edomex/constitucion/`](edomex/constitucion/) | Periódico Oficial «Gaceta del Gobierno» — Gobierno del Estado de México (Legislación vigente) | — |
+| Guanajuato | [`guanajuato/constitucion/`](guanajuato/constitucion/) | Periódico Oficial del Gobierno del Estado de Guanajuato — H. Congreso del Estado de Guanajuato | — |
+| Guerrero | [`guerrero/constitucion/`](guerrero/constitucion/) | Periódico Oficial del Gobierno del Estado de Guerrero — H. Congreso del Estado de Guerrero | — |
+| Hidalgo | [`hidalgo/constitucion/`](hidalgo/constitucion/) | Periódico Oficial del Estado de Hidalgo — Congreso del Estado de Hidalgo (Instituto de Estudios Legislativos) | — |
+| Jalisco | [`jalisco/constitucion/`](jalisco/constitucion/) | Periódico Oficial del Estado de Jalisco — Congreso del Estado de Jalisco | [CAS Jalisco](jalisco/codigo-de-asistencia-social/), [CC Jalisco](jalisco/codigo-civil/), [CE Jalisco](jalisco/codigo-electoral/), [LOPE Jalisco](jalisco/ley-organica-del-poder-ejecutivo/), [LOPL Jalisco](jalisco/ley-organica-del-poder-legislativo/) |
+| Michoacán | [`michoacan/constitucion/`](michoacan/constitucion/) | Periódico Oficial del Gobierno del Estado de Michoacán — H. Congreso del Estado de Michoacán de Ocampo | — |
+| Morelos | [`morelos/constitucion/`](morelos/constitucion/) | Periódico Oficial «Tierra y Libertad» — Consejería Jurídica del Poder Ejecutivo del Estado de Morelos | — |
+| Nayarit | [`nayarit/constitucion/`](nayarit/constitucion/) | Periódico Oficial del Estado de Nayarit — Congreso del Estado de Nayarit | — |
+| Nuevo León | [`nuevo-leon/constitucion/`](nuevo-leon/constitucion/) | Periódico Oficial del Estado de Nuevo León — H. Congreso del Estado de Nuevo León | — |
+| Oaxaca | [`oaxaca/constitucion/`](oaxaca/constitucion/) | Periódico Oficial del Estado de Oaxaca — H. Congreso del Estado Libre y Soberano de Oaxaca | — |
+| Puebla | [`puebla/constitucion/`](puebla/constitucion/) | Periódico Oficial del Estado de Puebla — Orden Jurídico Poblano, Secretaría de Gobernación | — |
+| Querétaro | [`queretaro/constitucion/`](queretaro/constitucion/) | Periódico Oficial «La Sombra de Arteaga» — Poder Legislativo del Estado de Querétaro | [CU Qro](queretaro/codigo-urbano/), [LOAE Qro](queretaro/ley-organica-de-la-agencia-de-energia/), [LOCB Qro](queretaro/ley-organica-del-colegio-de-bachilleres/), [LOCCL Qro](queretaro/ley-organica-del-centro-de-conciliacion-laboral/), [LOEN Qro](queretaro/ley-organica-de-la-escuela-normal/), [LOPE Qro](queretaro/ley-organica-del-poder-ejecutivo/), [LOPJ Qro](queretaro/ley-organica-del-poder-judicial/), [LOTE Qro](queretaro/ley-organica-del-tribunal-electoral/), [LOTJA Qro](queretaro/ley-organica-del-tribunal-de-justicia-administrativa/), [LOUAQ](queretaro/ley-organica-de-la-universidad-autonoma-de-queretaro/), [LOUTEQ](queretaro/ley-organica-de-la-universidad-tecnologica-de-queretaro/) |
+| Quintana Roo | [`quintana-roo/constitucion/`](quintana-roo/constitucion/) | Periódico Oficial del Estado de Quintana Roo — Congreso del Estado de Quintana Roo | — |
+| San Luis Potosí | [`san-luis-potosi/constitucion/`](san-luis-potosi/constitucion/) | Periódico Oficial del Estado de San Luis Potosí — Congreso del Estado de San Luis Potosí (Instituto de Investigación y Evaluación Legislativa) | — |
+| Sinaloa | [`sinaloa/constitucion/`](sinaloa/constitucion/) | Periódico Oficial «El Estado de Sinaloa» — H. Congreso del Estado de Sinaloa | — |
+| Sonora | [`sonora/constitucion/`](sonora/constitucion/) | Boletín Oficial del Gobierno del Estado de Sonora — H. Congreso del Estado de Sonora | — |
+| Tabasco | [`tabasco/constitucion/`](tabasco/constitucion/) | Periódico Oficial del Estado de Tabasco — H. Congreso del Estado de Tabasco | — |
+| Tamaulipas | [`tamaulipas/constitucion/`](tamaulipas/constitucion/) | Periódico Oficial del Estado de Tamaulipas — H. Congreso del Estado de Tamaulipas | — |
+| Tlaxcala | [`tlaxcala/constitucion/`](tlaxcala/constitucion/) | Periódico Oficial del Gobierno del Estado de Tlaxcala — Congreso del Estado de Tlaxcala | — |
+| Veracruz | [`veracruz/constitucion/`](veracruz/constitucion/) | Gaceta Oficial del Estado de Veracruz — H. Congreso del Estado de Veracruz | — |
+| Yucatán | [`yucatan/constitucion/`](yucatan/constitucion/) | Diario Oficial del Gobierno del Estado de Yucatán — H. Congreso del Estado de Yucatán | — |
+| Zacatecas | [`zacatecas/constitucion/`](zacatecas/constitucion/) | Periódico Oficial del Gobierno del Estado de Zacatecas — Poder Legislativo del Estado de Zacatecas | — |
 <!-- ESTADOS:FIN -->
 
 La tabla la regenera `scripts/readme_estatales.py` del extractor al dar de alta
@@ -107,10 +107,14 @@ python -m extractor validar --out ../leyes-estatales/jalisco/constitucion --perf
 La vigilancia vive en el extractor, para que el historial de este repo solo
 tenga cambios de texto legal:
 
+<!-- AUTOMATIZACION:INICIO -->
 | Dónde | Disparo | Qué hace |
 |-------|---------|----------|
-| `vigilar-estatales.yml` de [`constitucion-extractor`](https://github.com/OpenCodice/constitucion-extractor) | lunes (Worker `scheduler`) / manual | resuelve la URL vigente de cada estado, regenera, verifica cada artículo cambiado contra el PDF con un agente y abre aquí un PR por estado |
-| `revisar-pr.yml` (este repo) | cada PR | valida invariantes por estado (GATE) y fusiona solo el PR que llegó verificado |
+| `vigilar-estatales.yml` de [`constitucion-extractor`](https://github.com/OpenCodice/constitucion-extractor) | lunes (Worker `scheduler`) / manual | las constituciones: resuelve la URL vigente de cada estado, regenera, verifica cada artículo cambiado contra el PDF con un agente y abre aquí un PR por estado |
+| `vigilar-leyes-estatales.yml` de [`fiscal-extractor`](https://github.com/OpenCodice/fiscal-extractor) | lunes (Worker `scheduler`) / manual | las demás leyes de cada estado: reprocesa las que cambiaron, da de alta las nuevas por tandas tras revisarlas enteras contra su PDF, repara el extractor cuando encuentra defectos y abre aquí un PR |
+| `expandir-estatales.yml` de [`fiscal-extractor`](https://github.com/OpenCodice/fiscal-extractor) | miércoles (Worker `scheduler`) / manual | ronda de expansión: cuando la vigilancia anterior terminó, un agente escribe el registro de las leyes de un estado más y, si pasa las compuertas, lanza su vigilancia |
+| `revisar-pr.yml` de los dos extractores | cada PR de vigilancia | valida en un job sin secretos los invariantes de cada documento y los trailers de cada commit (GATE) y fusiona solo el PR que llegó verificado |
+<!-- AUTOMATIZACION:FIN -->
 
 Cada lunes resuelve el PDF vigente de cada estado y, si el texto cambió, abre
 un PR (uno por estado) que se fusiona solo cuando la extracción quedó

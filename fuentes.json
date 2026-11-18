@@ -218,16 +218,21 @@
       "medio": "Periódico Oficial del Estado de Jalisco",
       "indice": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/busquedasleyes/Listado'2.cfm",
       "url": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/legislacion/C%C3%B3digos/Documentos_PDF-C%C3%B3digos/C%C3%B3digo%20Civil%20del%20Estado%20de%20Jalisco-240626.pdf",
-      "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 002: párrafos unidos: en el PDF (pág. 1) «…serán ley supletoria de toda la Legislación Estatal.» y «Cuando en este código o en otras leyes del Estado se use el genérico masculino…» son párrafos distintos (; 020: fracciones unidas: en el PDF (pág. 3) «I. Hay capacidad de goce … y» y «II. Hay capacidad de ejercicio …» son párrafos separados; el extracto pone la fracción II dentro del párrafo de la fracción I.; 182: párrafos unidos: en el PDF (pág. 20) «…la inaplicabilidad a su persona de los acuerdos tomados en la misma.» y «La resolución que en éste caso se dicte sólo afectará…» son párrafos distintos; el extra; 199-bis: fracciones unidas: en el PDF (pág. 22) «lll. Las votaciones … asentando registro de las mismas; y» e «IV. Dejar registro audiovisual de la sesión y sus acuerdos.» son párrafos separados; el extracto p; 231-bis: fracciones unidas: en el PDF (pág. 25) «lll. Las votaciones … asentando registro de las mismas; y» e «IV. Dejar registro audiovisual de la sesión y sus acuerdos.» son párrafos separados; el extracto p (y 33 más)",
-      "fecha": "2026-11-17",
+      "estado": "incluida",
+      "version": "2026-06-18",
+      "unidades": 3214,
       "pdf": {
         "sha256": "c0d66178910ac334c25e4870471712ce21e6c562a820d2f9cc29d4dbae26c7d2",
         "bytes": 2275503,
         "etag": "\"e19698f214dd1:0\"",
         "last_modified": "Wed, 24 Jun 2026 21:36:47 GMT"
       },
-      "extractor": "780c2ba98e8725ab"
+      "extractor": "757faa50d6afdc2b",
+      "extractor_sha": "44b79a960ad1e0e3de620f745bc2aa7792cb14cd",
+      "alta": {
+        "fecha": "2026-11-18",
+        "via": "limpia"
+      }
     },
     {
       "clave": "jalisco/codigo-de-asistencia-social",
@@ -559,16 +564,21 @@
       "medio": "Periódico Oficial del Gobierno del Estado de Querétaro «La Sombra de Arteaga»",
       "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-01.pdf",
-      "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 004: la fracción II quedó partida en dos párrafos por el salto de línea del PDF: «…de la Agencia de Energía del Estado de» / «Querétaro;». Debe ser un solo párrafo.; 006: la fracción I quedó partida en dos párrafos por el salto de línea del PDF: «…del Poder Ejecutivo del» / «Estado de Querétaro para su funcionamiento;». Debe ser un solo párrafo.; 020: las fracciones III («…inherentes al objeto de la» / «Agencia, y en cumplimiento…») y VI («…cuando así se lo instruya la» / «Junta de Gobierno;») quedaron partidas en dos párrafos cada una por el salto",
-      "fecha": "2026-11-17",
+      "estado": "incluida",
+      "version": "2021-10-01",
+      "unidades": 29,
       "pdf": {
         "sha256": "1f112e032aa6cce059ebe25345dd72872bde3e39cbeeb0ebfd1e1ec37f22faa3",
         "bytes": 396771,
         "etag": "\"60de3-639fa4d395d3a\"",
         "last_modified": "Tue, 15 Jul 2025 16:31:00 GMT"
       },
-      "extractor": "780c2ba98e8725ab"
+      "extractor": "757faa50d6afdc2b",
+      "extractor_sha": "44b79a960ad1e0e3de620f745bc2aa7792cb14cd",
+      "alta": {
+        "fecha": "2026-11-18",
+        "via": "limpia"
+      }
     },
     {
       "clave": "queretaro/ley-organica-de-la-escuela-normal",
@@ -579,16 +589,21 @@
       "medio": "Periódico Oficial del Gobierno del Estado de Querétaro «La Sombra de Arteaga»",
       "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-02.pdf",
-      "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 023: en la fracción X, los incisos A) El Secretario Administrativo, B) El Secretario de Finanzas, C) Los Directores de las Escuelas Anexas y D) El Director del Centro de Investigaciones Educativas quedaron; 032: el encabezado estructural «C) DEL SECRETARIO DE FINANZAS» (pág. 9) quedó pegado al final del artículo 32 como último párrafo; 037: el encabezado estructural «D) DE LOS DIRECTORES» (pág. 9) quedó pegado al final del artículo 37 como último párrafo",
-      "fecha": "2026-11-17",
+      "estado": "incluida",
+      "version": "2026-02-27",
+      "unidades": 67,
       "pdf": {
         "sha256": "c7facfea4ae5f593de1e8cf8aac23a303f64f679f32e7a6fb37f54d449151dc1",
         "bytes": 301797,
         "etag": "\"49ae5-6509c1fd75c83\"",
         "last_modified": "Wed, 29 Apr 2026 16:48:59 GMT"
       },
-      "extractor": "780c2ba98e8725ab"
+      "extractor": "757faa50d6afdc2b",
+      "extractor_sha": "44b79a960ad1e0e3de620f745bc2aa7792cb14cd",
+      "alta": {
+        "fecha": "2026-11-18",
+        "via": "limpia"
+      }
     },
     {
       "clave": "queretaro/ley-organica-de-la-fiscalia-general",
@@ -615,6 +630,31 @@
       }
     },
     {
+      "clave": "queretaro/ley-organica-de-la-universidad-autonoma-de-queretaro",
+      "etiqueta": "Ley Orgánica de la Universidad Autónoma de Querétaro",
+      "sigla": "LOUAQ",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Gobierno del Estado de Querétaro «La Sombra de Arteaga»",
+      "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
+      "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-04.pdf",
+      "estado": "incluida",
+      "version": "1986-01-03",
+      "unidades": 53,
+      "pdf": {
+        "sha256": "e584c07d3caeb2e320d23d6912be240569d324810138121431a53f9fe99a619f",
+        "bytes": 237082,
+        "etag": "\"39e1a-639fa4ce30f3f\"",
+        "last_modified": "Tue, 15 Jul 2025 16:30:54 GMT"
+      },
+      "extractor": "757faa50d6afdc2b",
+      "extractor_sha": "44b79a960ad1e0e3de620f745bc2aa7792cb14cd",
+      "alta": {
+        "fecha": "2026-11-18",
+        "via": "limpia"
+      }
+    },
+    {
       "clave": "queretaro/ley-organica-de-la-universidad-tecnologica-de-queretaro",
       "etiqueta": "Ley Orgánica de la Universidad Tecnológica de Querétaro",
       "sigla": "LOUTEQ",
@@ -623,16 +663,71 @@
       "medio": "Periódico Oficial del Gobierno del Estado de Querétaro «La Sombra de Arteaga»",
       "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-05.pdf",
-      "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 008: las notas de reforma «(Ref. P.O. No. No. 87, 30-IX-21)» quedaron pegadas al final del texto de las fracciones I y III, dentro del párrafo, sin separarse en su propio párrafo en cursiva (el extractor n",
-      "fecha": "2026-11-17",
+      "estado": "incluida",
+      "version": "2021-10-08",
+      "unidades": 30,
       "pdf": {
         "sha256": "dd24864b0fe2e0192443a28305a95efa3219c482d3c0c7c2ebd867bc54506708",
         "bytes": 201987,
         "etag": "\"31503-639fa4ce6a921\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:55 GMT"
       },
-      "extractor": "780c2ba98e8725ab"
+      "extractor": "757faa50d6afdc2b",
+      "extractor_sha": "44b79a960ad1e0e3de620f745bc2aa7792cb14cd",
+      "alta": {
+        "fecha": "2026-11-18",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "queretaro/ley-organica-del-centro-de-conciliacion-laboral",
+      "etiqueta": "Ley Orgánica del Centro de Conciliación Laboral del Estado de Querétaro",
+      "sigla": "LOCCL Qro",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Gobierno del Estado de Querétaro «La Sombra de Arteaga»",
+      "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
+      "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-06.pdf",
+      "estado": "incluida",
+      "version": "2021-10-08",
+      "unidades": 53,
+      "pdf": {
+        "sha256": "0034d1b3e9dd73957ff6978812b8af4b368b6f90a2785e39e196700fa2b0ca24",
+        "bytes": 266103,
+        "etag": "\"40f77-639fa4cf0da88\"",
+        "last_modified": "Tue, 15 Jul 2025 16:30:55 GMT"
+      },
+      "extractor": "757faa50d6afdc2b",
+      "extractor_sha": "44b79a960ad1e0e3de620f745bc2aa7792cb14cd",
+      "alta": {
+        "fecha": "2026-11-18",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "queretaro/ley-organica-del-colegio-de-bachilleres",
+      "etiqueta": "Ley Orgánica del Colegio de Bachilleres del Estado de Querétaro",
+      "sigla": "LOCB Qro",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Gobierno del Estado de Querétaro «La Sombra de Arteaga»",
+      "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
+      "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-07.pdf",
+      "estado": "incluida",
+      "version": "2026-02-27",
+      "unidades": 56,
+      "pdf": {
+        "sha256": "9fe97b55aaee1112a23f3a6efeafbfc21ef782261d9e907c8300119b4e2b7dc1",
+        "bytes": 282386,
+        "etag": "\"44f12-6509c3d013376\"",
+        "last_modified": "Wed, 29 Apr 2026 16:57:08 GMT"
+      },
+      "extractor": "757faa50d6afdc2b",
+      "extractor_sha": "44b79a960ad1e0e3de620f745bc2aa7792cb14cd",
+      "alta": {
+        "fecha": "2026-11-18",
+        "via": "limpia"
+      }
     },
     {
       "clave": "queretaro/ley-organica-del-poder-ejecutivo",
