@@ -38,8 +38,8 @@
         "etag": "\"1fa4ac-65721cb8ad0cf\"",
         "last_modified": "Tue, 21 Jul 2026 16:48:40 GMT"
       },
-      "extractor": "d354e7cbd8f90fdd",
-      "extractor_sha": "3feb506d7a984832e818bd88a211ffbb8b8e4002",
+      "extractor": "757faa50d6afdc2b",
+      "extractor_sha": "eea76aa60fcabf8b2d16c961a303e18674bfb79a",
       "revision_pendiente": {
         "fecha": "2026-11-17",
         "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 004: falta la última nota de reforma del artículo: tras «Fracción reformada G.O. CDMX 02/06/2023» de la fracción X (pág. 8) el PDF trae «Fe de Erratas G.O. CDMX 13/11/2023» justo antes del rótulo del Artíc; 024: falta la nota final «Fe de Erratas 13/11/2023» que en el PDF sigue a «Fracción adicionada G.O. CDMX 02/06/2023» al cierre del artículo, antes del encabezado «SECCIÓN SEGUNDA PARA CONCEJALES»; quedó om; 086: la nota «Numeral reformado G.O. CDMX 09/04/2026» (tras el numeral 3 de las atribuciones de la Unidad de Transparencia) quedó como párrafo de texto normal, sin cursiva, a diferencia de las demás notas ; 111: la palabra «Derogado», que en el PDF está en renglón propio como anotación tras el primer párrafo, quedó pegada al final de ese párrafo («…denominado Dirección Distrital. Derogado») como si fuera text; 333: se omitió la nota «Sic. G.O. CDMX 07/06/2017» que el PDF pone al final del art. 333, tras la fracción VI («…primera semana que realice en el mes de enero de cada año.») y antes del «Artículo 334» (pág",
@@ -90,14 +90,15 @@
       "extractor_sha": "ada44abb53e1c82cad3dd0edde581cdc7d1d0f48",
       "revision_pendiente": {
         "fecha": "2026-11-18",
-        "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 135-ter: absorbió al artículo siguiente: al final quedó «(SIC) 135 QUÁTER.- Este delito se considerará tentativa de feminicidio, cuando las lesiones cometidas contra la mujer provoquen:» con sus fracciones I y; 148-ter: la nota «Capitulo Adicionado G.O. CDMX 23/08/24» (pág. 53), que anota el encabezado del Capítulo VII «Transfeminicidio», quedó como último párrafo del artículo; 148-quater: el texto empieza con «– Se deroga.»: el guion es del separador del rótulo del PDF («Artículo 148.- Quáter. – Se deroga.») y quedó dentro del párrafo; 182: la última línea del encabezado del Título Sexto («CAPACIDAD DE RESISTIR LA CONDUCTA.», pág. 66) quedó como último párrafo del artículo; 209-ter: el primer párrafo empieza con «– Al que, mediante violencia…»: el guion es del separador del rótulo del PDF («ARTÍCULO 209 TER. – Al que…») y quedó en el texto (y 1 más)",
+        "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 135-ter: absorbió al artículo siguiente: al final quedó «(SIC) 135 QUÁTER.- Este delito se considerará tentativa de feminicidio, cuando las lesiones cometidas contra la mujer provoquen:» con sus fracciones I y; 148-ter: la nota «Capitulo Adicionado G.O. CDMX 23/08/24» (pág. 53), que anota el encabezado del Capítulo VII «Transfeminicidio», quedó como último párrafo del artículo; 148-quater: el texto empieza con «– Se deroga.»: el guion es del separador del rótulo del PDF («Artículo 148.- Quáter. – Se deroga.») y quedó dentro del párrafo; 182: la última línea del encabezado del Título Sexto («CAPACIDAD DE RESISTIR LA CONDUCTA.», pág. 66) quedó como último párrafo del artículo; 209-ter: el primer párrafo empieza con «– Al que, mediante violencia…»: el guion es del separador del rótulo del PDF («ARTÍCULO 209 TER. – Al que…») y quedó en el texto (y 1 más) Sin arreglo automático tras 3 intentos: se reintenta cuando cambie su PDF.",
         "pdf": {
           "sha256": "5ac9b74e0d17e2df796bdfca78027b4df05fca33707d0f5b0f394a251bb59785",
           "bytes": 1816703,
           "etag": "\"1bb87f-65ca0c2fe416f\"",
           "last_modified": "Tue, 29 Sep 2026 15:23:16 GMT"
         },
-        "revisada": true
+        "revisada": true,
+        "agotada": true
       },
       "alta": {
         "fecha": "2026-11-17",
@@ -122,8 +123,8 @@
         "etag": "\"a3fa2-65a0b19d1b3cf\"",
         "last_modified": "Thu, 27 Aug 2026 17:59:44 GMT"
       },
-      "extractor": "d354e7cbd8f90fdd",
-      "extractor_sha": "3feb506d7a984832e818bd88a211ffbb8b8e4002",
+      "extractor": "757faa50d6afdc2b",
+      "extractor_sha": "eea76aa60fcabf8b2d16c961a303e18674bfb79a",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -147,8 +148,8 @@
         "etag": "\"c87ff-65ca0ee08df0f\"",
         "last_modified": "Tue, 29 Sep 2026 15:35:18 GMT"
       },
-      "extractor": "d354e7cbd8f90fdd",
-      "extractor_sha": "3feb506d7a984832e818bd88a211ffbb8b8e4002",
+      "extractor": "757faa50d6afdc2b",
+      "extractor_sha": "eea76aa60fcabf8b2d16c961a303e18674bfb79a",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -172,8 +173,8 @@
         "etag": "\"ab50e-65c93e15cd5cf\"",
         "last_modified": "Tue, 29 Sep 2026 00:01:11 GMT"
       },
-      "extractor": "d354e7cbd8f90fdd",
-      "extractor_sha": "3feb506d7a984832e818bd88a211ffbb8b8e4002",
+      "extractor": "757faa50d6afdc2b",
+      "extractor_sha": "eea76aa60fcabf8b2d16c961a303e18674bfb79a",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -197,8 +198,8 @@
         "etag": "\"b67fc-6573b9fabc58f\"",
         "last_modified": "Wed, 22 Jul 2026 23:37:33 GMT"
       },
-      "extractor": "d354e7cbd8f90fdd",
-      "extractor_sha": "3feb506d7a984832e818bd88a211ffbb8b8e4002",
+      "extractor": "757faa50d6afdc2b",
+      "extractor_sha": "eea76aa60fcabf8b2d16c961a303e18674bfb79a",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -242,8 +243,8 @@
         "etag": "\"177e13176c5edc1:0\"",
         "last_modified": "Wed, 26 Nov 2025 00:32:05 GMT"
       },
-      "extractor": "d354e7cbd8f90fdd",
-      "extractor_sha": "3feb506d7a984832e818bd88a211ffbb8b8e4002",
+      "extractor": "757faa50d6afdc2b",
+      "extractor_sha": "eea76aa60fcabf8b2d16c961a303e18674bfb79a",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -260,14 +261,14 @@
       "url": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/legislacion/C%C3%B3digos/Documentos_PDF-C%C3%B3digos/C%C3%B3digo%20de%20Procedimientos%20Civiles%20del%20Estado%20de%20Jalisco-250424.pdf",
       "estado": "excluida",
       "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 988: el PDF trae dos renglones «Artículo 988.-»: el primero (tutor interino) y un segundo «Se deroga.». El segundo quedó dentro del archivo 988 como último párrafo con su rótulo («Artículo 988.- Se deroga.",
-      "fecha": "2026-11-17",
+      "fecha": "2026-11-18",
       "pdf": {
         "sha256": "a67d7fe23be0aef93b12791ba3bf060ff2dd773cfe15496adfae7dc36bebdd74",
         "bytes": 1372537,
         "etag": "\"848195334097da1:0\"",
         "last_modified": "Thu, 25 Apr 2024 18:41:35 GMT"
       },
-      "extractor": "d354e7cbd8f90fdd"
+      "extractor": "757faa50d6afdc2b"
     },
     {
       "clave": "jalisco/codigo-electoral",
@@ -287,8 +288,8 @@
         "etag": "\"111c8cb6a51dd1:0\"",
         "last_modified": "Wed, 30 Sep 2026 18:37:14 GMT"
       },
-      "extractor": "d354e7cbd8f90fdd",
-      "extractor_sha": "3feb506d7a984832e818bd88a211ffbb8b8e4002",
+      "extractor": "757faa50d6afdc2b",
+      "extractor_sha": "eea76aa60fcabf8b2d16c961a303e18674bfb79a",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -304,15 +305,19 @@
       "indice": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/busquedasleyes/Listado'2.cfm",
       "url": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/legislacion/C%C3%B3digos/Documentos_PDF-C%C3%B3digos/C%C3%B3digo%20Penal%20para%20el%20Estado%20Libre%20y%20Soberano%20de%20Jalisco%20-271026.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 124-quater: al final del artículo quedó colado el epígrafe de estructura «Ataques a las Vías de Comunicación.» (Capítulo I del Título Tercero, pág. 32), que no es texto del artículo; el artículo termina en «…que ; 154-j: la nota «(las porciones normativas resaltadas fueron reformadas mediante Decreto Número 27295/LXII/19…)» quedó como párrafo aparte en cursiva; en el PDF (pág. 53) sigue a «…otras disposiciones aplicab",
-      "fecha": "2026-11-17",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 124-quater: al final del artículo quedó colado el epígrafe de estructura «Ataques a las Vías de Comunicación.» (Capítulo I del Título Tercero, pág. 32), que no es texto del artículo; el artículo termina en «…que ; 154-j: la nota «(las porciones normativas resaltadas fueron reformadas mediante Decreto Número 27295/LXII/19…)» quedó como párrafo aparte en cursiva; en el PDF (pág. 53) sigue a «…otras disposiciones aplicab Sin arreglo automático tras 3 intentos: se reintenta cuando cambie su PDF.",
+      "fecha": "2026-11-18",
       "pdf": {
         "sha256": "d292feb4317d0b0e34f8ac19f542a046f04135d95adbd083fc57fc1051d25e25",
         "bytes": 1227998,
         "etag": "\"18852ea55a66dd1:0\"",
         "last_modified": "Tue, 27 Oct 2026 21:32:19 GMT"
       },
-      "extractor": "d354e7cbd8f90fdd"
+      "extractor": "757faa50d6afdc2b",
+      "reparacion": {
+        "intentos": 3,
+        "agotada": true
+      }
     },
     {
       "clave": "jalisco/ley-organica-del-poder-ejecutivo",
@@ -332,8 +337,8 @@
         "etag": "\"3492c066904cdd1:0\"",
         "last_modified": "Fri, 25 Sep 2026 01:51:37 GMT"
       },
-      "extractor": "d354e7cbd8f90fdd",
-      "extractor_sha": "3feb506d7a984832e818bd88a211ffbb8b8e4002",
+      "extractor": "757faa50d6afdc2b",
+      "extractor_sha": "eea76aa60fcabf8b2d16c961a303e18674bfb79a",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -350,14 +355,14 @@
       "url": "https://congresoweb.congresojal.gob.mx/bibliotecavirtual/legislacion/Leyes/Documentos_PDF-Leyes/Ley%20Org%C3%A1nica%20del%20Poder%20Judicial%20del%20Estado%20de%20Jalisco-141026.pdf",
       "estado": "excluida",
       "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 020: el «20 A. El procedimiento para la elección y evaluación de los magistrados…» (artículo 20 A, pág. 10) quedó como tercer párrafo del 020; no existe archivo 020-a.; 100-n: el «Artículo 100 Ñ. (Derogado)» (pág. 22) quedó como segundo párrafo del 100-N; no existe archivo 100-ñ, y su rótulo quedó dentro del cuerpo de otro artículo.; 181: falta el renglón «Derogado» que el PDF (pág. 41) pone después de «X. Juez Menor.» y antes del art. 182; el artículo termina en la fracción X y ese texto se omitió.",
-      "fecha": "2026-11-17",
+      "fecha": "2026-11-18",
       "pdf": {
         "sha256": "5accea9bc1fac719a2aa773b637fc783dd0dcded7195165263df77f61b7fd91f",
         "bytes": 958175,
         "etag": "\"c1dc9f802e5cdd1:0\"",
         "last_modified": "Wed, 14 Oct 2026 22:51:08 GMT"
       },
-      "extractor": "d354e7cbd8f90fdd"
+      "extractor": "757faa50d6afdc2b"
     },
     {
       "clave": "jalisco/ley-organica-del-poder-legislativo",
@@ -377,8 +382,8 @@
         "etag": "\"b06e77e7884cdd1:0\"",
         "last_modified": "Fri, 25 Sep 2026 00:57:57 GMT"
       },
-      "extractor": "d354e7cbd8f90fdd",
-      "extractor_sha": "3feb506d7a984832e818bd88a211ffbb8b8e4002",
+      "extractor": "757faa50d6afdc2b",
+      "extractor_sha": "eea76aa60fcabf8b2d16c961a303e18674bfb79a",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -459,14 +464,14 @@
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/COD-ID-04.pdf",
       "estado": "excluida",
       "motivo": "1 unidades no reproducen el PDF (queretaro/codigo-de-procedimientos-civiles/872)",
-      "fecha": "2026-11-17",
+      "fecha": "2026-11-18",
       "pdf": {
         "sha256": "e4df41c5c3a0bd558b122f54de6a7c8d5fa102714be8c05be00f7ae6982f4fed",
         "bytes": 1116526,
         "etag": "\"11096e-639f9260de6df\"",
         "last_modified": "Tue, 15 Jul 2025 15:08:28 GMT"
       },
-      "extractor": "d354e7cbd8f90fdd"
+      "extractor": "757faa50d6afdc2b"
     },
     {
       "clave": "queretaro/codigo-fiscal",
@@ -478,15 +483,19 @@
       "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/",
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/COD-ID-05.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 124: la nota de reforma «(Ref. P. O. Np. 101, 23-XII-25)» quedó pegada al final del texto de la fracción V en vez de ir en su propio párrafo en cursiva (como las demás notas del artículo); 132: la nota «(Ref. P.O. 101, 23-XII-25)» quedó pegada al final del párrafo del inciso a) de la fracción II, no en párrafo propio; 137: la nota «(Re. P.O. No. 101, 23-XII-25)» quedó pegada al final de la fracción V, no en párrafo propio",
-      "fecha": "2026-11-17",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 124: la nota de reforma «(Ref. P. O. Np. 101, 23-XII-25)» quedó pegada al final del texto de la fracción V en vez de ir en su propio párrafo en cursiva (como las demás notas del artículo); 132: la nota «(Ref. P.O. 101, 23-XII-25)» quedó pegada al final del párrafo del inciso a) de la fracción II, no en párrafo propio; 137: la nota «(Re. P.O. No. 101, 23-XII-25)» quedó pegada al final de la fracción V, no en párrafo propio Sin arreglo automático tras 3 intentos: se reintenta cuando cambie su PDF.",
+      "fecha": "2026-11-18",
       "pdf": {
         "sha256": "c6ae928fc989a15faa0b352fafc55e98c3f87e917f6fd250990f65f24e52425a",
         "bytes": 1482262,
         "etag": "\"169e16-64a7f6d0d9759\"",
         "last_modified": "Tue, 10 Feb 2026 22:03:31 GMT"
       },
-      "extractor": "d354e7cbd8f90fdd"
+      "extractor": "757faa50d6afdc2b",
+      "reparacion": {
+        "intentos": 3,
+        "agotada": true
+      }
     },
     {
       "clave": "queretaro/codigo-penal",
@@ -521,16 +530,21 @@
       "medio": "Periódico Oficial del Gobierno del Estado de Querétaro «La Sombra de Arteaga»",
       "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/",
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/COD-ID-06.pdf",
-      "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 177: el párrafo «No se autorizará la fusión de lotes, unidades privativas o que pertenezcan a desarrollos inmobiliarios diferentes ya autorizados.» quedó partido a media oración: un párrafo termina en «…un; 217: en la fracción VI la nota «(Fe de erratas según oficio DALJ/2678/18/LVIII … P. O. No. 38, 11-V-18)» quedó pegada al final del párrafo de la fracción, en vez de ir en su propio párrafo en cursiva como ",
-      "fecha": "2026-11-18",
+      "estado": "incluida",
+      "version": "2023-11-17",
+      "unidades": 550,
       "pdf": {
         "sha256": "dd0ee6809ce314fb877eecac864a07d1a053d38277eb7b83812940b2d7d256ee",
         "bytes": 1089723,
         "etag": "\"10a0bb-639f92616dfc5\"",
         "last_modified": "Tue, 15 Jul 2025 15:08:28 GMT"
       },
-      "extractor": "d354e7cbd8f90fdd"
+      "extractor": "757faa50d6afdc2b",
+      "extractor_sha": "eea76aa60fcabf8b2d16c961a303e18674bfb79a",
+      "alta": {
+        "fecha": "2026-11-18",
+        "via": "limpia"
+      }
     },
     {
       "clave": "queretaro/ley-organica-de-la-agencia-de-energia",
@@ -630,8 +644,8 @@
         "etag": "\"ccaf1-639fa4d02ad15\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:56 GMT"
       },
-      "extractor": "d354e7cbd8f90fdd",
-      "extractor_sha": "3feb506d7a984832e818bd88a211ffbb8b8e4002",
+      "extractor": "757faa50d6afdc2b",
+      "extractor_sha": "eea76aa60fcabf8b2d16c961a303e18674bfb79a",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -655,8 +669,8 @@
         "etag": "\"a2c5e-639fa4d0acb3a\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:57 GMT"
       },
-      "extractor": "d354e7cbd8f90fdd",
-      "extractor_sha": "261b5a4e1062d4670f90fe597ea5ed865cc2f4ba",
+      "extractor": "757faa50d6afdc2b",
+      "extractor_sha": "eea76aa60fcabf8b2d16c961a303e18674bfb79a",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -700,8 +714,8 @@
         "etag": "\"52b90-639fa4d1c9dc6\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:58 GMT"
       },
-      "extractor": "d354e7cbd8f90fdd",
-      "extractor_sha": "3feb506d7a984832e818bd88a211ffbb8b8e4002",
+      "extractor": "757faa50d6afdc2b",
+      "extractor_sha": "eea76aa60fcabf8b2d16c961a303e18674bfb79a",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
