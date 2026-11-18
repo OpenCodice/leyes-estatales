@@ -580,9 +580,17 @@
       "parser": "articulado",
       "medio": "Periódico Oficial del Estado de Nuevo León",
       "indice": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/",
+      "url": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/LEY%20DE%20GOBIERNO%20MUNICIPAL%20DEL%20ESTADO%20DE%20NUEVO%20LEON.pdf",
       "estado": "excluida",
-      "motivo": "el PDF escribe 'ARTíCULO 110 Bis' con una í minúscula y el artículo 110 Bis se confunde con el 110 y sus 'Bis I' a 'Bis IV'",
-      "fecha": "2026-11-18"
+      "motivo": "1 unidades no reproducen el PDF (nuevo-leon/ley-de-gobierno-municipal/110)",
+      "fecha": "2026-11-18",
+      "pdf": {
+        "sha256": "51c4c02543ca0d2f00e2e92ba7a09faddf0cd98e49f91f1fbd562e65a4d16c2e",
+        "bytes": 530931,
+        "etag": "\"819f3-6435aab2caed8\"",
+        "last_modified": "Wed, 12 Nov 2025 00:15:58 GMT"
+      },
+      "extractor": "65626d9ed0abc1de"
     },
     {
       "clave": "nuevo-leon/ley-de-hacienda",
@@ -636,9 +644,17 @@
       "parser": "articulado",
       "medio": "Periódico Oficial del Estado de Nuevo León",
       "indice": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/",
+      "url": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/LEY%20DE%20JUSTICIA%20ADMINISTRATIVA%20PARA%20EL%20ESTADO%20Y%20MUNICIPIOS.pdf",
       "estado": "excluida",
-      "motivo": "el artículo 6 Bis no puede verificarse contra el PDF porque su rótulo ('6o Bis') no coincide con el del PDF",
-      "fecha": "2026-11-18"
+      "motivo": "1 unidades no reproducen el PDF (nuevo-leon/ley-de-justicia-administrativa-para-el-estado-y-municipios/006-bis)",
+      "fecha": "2026-11-18",
+      "pdf": {
+        "sha256": "a049b1725f916ed741ff4b9bf20b8341d584a18af79313ec43c84b75330ffb1c",
+        "bytes": 519619,
+        "etag": "\"7edc3-65d2d3a103c6a\"",
+        "last_modified": "Tue, 06 Oct 2026 14:58:09 GMT"
+      },
+      "extractor": "65626d9ed0abc1de"
     },
     {
       "clave": "nuevo-leon/ley-de-justicia-civica",
@@ -963,16 +979,21 @@
       "medio": "Periódico Oficial del Gobierno del Estado de Querétaro «La Sombra de Arteaga»",
       "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/",
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/COD-ID-01.pdf",
-      "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 165: el encabezado estructural «De la financiación y del fomento.» (epígrafe del Capítulo IV, que el PDF pone antes del art. 166) quedó como último párrafo del artículo 165; 167: el encabezado estructural «De la participación social.» (epígrafe del Capítulo V, que el PDF pone antes del art. 168) quedó como último párrafo del artículo 167",
-      "fecha": "2026-11-18",
+      "estado": "incluida",
+      "version": "2023-12-27",
+      "unidades": 505,
       "pdf": {
         "sha256": "a41b5ae5e7bd94b166d30f6f4333a5a649f5d0963ed9fcaff618725b29bed572",
         "bytes": 1178192,
         "etag": "\"11fa50-639f9262ce875\"",
         "last_modified": "Tue, 15 Jul 2025 15:08:30 GMT"
       },
-      "extractor": "2e7f4d95dacb5f74"
+      "extractor": "65626d9ed0abc1de",
+      "extractor_sha": "047afe2aa8b381f25e8f8bab5443c7594bb267aa",
+      "alta": {
+        "fecha": "2026-11-18",
+        "via": "limpia"
+      }
     },
     {
       "clave": "queretaro/codigo-civil",
@@ -1016,7 +1037,7 @@
         "etag": "\"35197-6278691c29496\"",
         "last_modified": "Fri, 22 Nov 2024 20:53:04 GMT"
       },
-      "extractor": "2e7f4d95dacb5f74"
+      "extractor": "65626d9ed0abc1de"
     },
     {
       "clave": "queretaro/codigo-de-procedimientos-civiles",
@@ -1027,16 +1048,21 @@
       "medio": "Periódico Oficial del Gobierno del Estado de Querétaro «La Sombra de Arteaga»",
       "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/",
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/COD-ID-04.pdf",
-      "estado": "excluida",
-      "motivo": "1 unidades no reproducen el PDF (queretaro/codigo-de-procedimientos-civiles/872)",
-      "fecha": "2026-11-18",
+      "estado": "incluida",
+      "version": "2024-09-20",
+      "unidades": 1032,
       "pdf": {
         "sha256": "e4df41c5c3a0bd558b122f54de6a7c8d5fa102714be8c05be00f7ae6982f4fed",
         "bytes": 1116526,
         "etag": "\"11096e-639f9260de6df\"",
         "last_modified": "Tue, 15 Jul 2025 15:08:28 GMT"
       },
-      "extractor": "2e7f4d95dacb5f74"
+      "extractor": "65626d9ed0abc1de",
+      "extractor_sha": "047afe2aa8b381f25e8f8bab5443c7594bb267aa",
+      "alta": {
+        "fecha": "2026-11-18",
+        "via": "limpia"
+      }
     },
     {
       "clave": "queretaro/codigo-fiscal",
@@ -1353,7 +1379,7 @@
         "etag": "\"af90b-639fa4d11ef5f\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:57 GMT"
       },
-      "extractor": "2e7f4d95dacb5f74"
+      "extractor": "65626d9ed0abc1de"
     },
     {
       "clave": "queretaro/ley-organica-del-tribunal-de-justicia-administrativa",
@@ -1415,7 +1441,7 @@
       "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-13.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 005: faltan los últimos cuatro municipios de la tabla del PDF (SAN JOAQUIN, SAN JUAN DEL RIO, TEQUISQUIAPAN, TOLIMAN); el texto termina en «QUERETARO: SANTIAGO DE QUERÉTARO.». Además la tabla Municipio/Cab",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 005: faltan los últimos cuatro municipios de la tabla del PDF (SAN JOAQUIN, SAN JUAN DEL RIO, TEQUISQUIAPAN, TOLIMAN); el texto termina en «QUERETARO: SANTIAGO DE QUERÉTARO.». Además la tabla Municipio/Cab Sin arreglo automático tras 3 intentos: se reintenta cuando cambie su PDF.",
       "fecha": "2026-11-18",
       "pdf": {
         "sha256": "a4391f82ce9de0f078d36f2bf3e847888e74f6bf2cc6f0f14037b0fd3ef076c4",
@@ -1423,7 +1449,11 @@
         "etag": "\"b53e9-65ae6387442d6\"",
         "last_modified": "Mon, 07 Sep 2026 15:24:56 GMT"
       },
-      "extractor": "2e7f4d95dacb5f74"
+      "extractor": "65626d9ed0abc1de",
+      "reparacion": {
+        "intentos": 3,
+        "agotada": true
+      }
     }
   ]
 }
