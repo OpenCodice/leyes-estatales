@@ -89,7 +89,7 @@
       "extractor": "780c2ba98e8725ab",
       "extractor_sha": "ada44abb53e1c82cad3dd0edde581cdc7d1d0f48",
       "revision_pendiente": {
-        "fecha": "2026-11-17",
+        "fecha": "2026-11-18",
         "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 135-ter: absorbió al artículo siguiente: al final quedó «(SIC) 135 QUÁTER.- Este delito se considerará tentativa de feminicidio, cuando las lesiones cometidas contra la mujer provoquen:» con sus fracciones I y; 148-ter: la nota «Capitulo Adicionado G.O. CDMX 23/08/24» (pág. 53), que anota el encabezado del Capítulo VII «Transfeminicidio», quedó como último párrafo del artículo; 148-quater: el texto empieza con «– Se deroga.»: el guion es del separador del rótulo del PDF («Artículo 148.- Quáter. – Se deroga.») y quedó dentro del párrafo; 182: la última línea del encabezado del Título Sexto («CAPACIDAD DE RESISTIR LA CONDUCTA.», pág. 66) quedó como último párrafo del artículo; 209-ter: el primer párrafo empieza con «– Al que, mediante violencia…»: el guion es del separador del rótulo del PDF («ARTÍCULO 209 TER. – Al que…») y quedó en el texto (y 1 más)",
         "pdf": {
           "sha256": "5ac9b74e0d17e2df796bdfca78027b4df05fca33707d0f5b0f394a251bb59785",
@@ -395,14 +395,14 @@
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/COD-ID-01.pdf",
       "estado": "excluida",
       "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 165: el encabezado estructural «De la financiación y del fomento.» (epígrafe del Capítulo IV, que el PDF pone antes del art. 166) quedó como último párrafo del artículo 165; 167: el encabezado estructural «De la participación social.» (epígrafe del Capítulo V, que el PDF pone antes del art. 168) quedó como último párrafo del artículo 167",
-      "fecha": "2026-11-17",
+      "fecha": "2026-11-18",
       "pdf": {
         "sha256": "a41b5ae5e7bd94b166d30f6f4333a5a649f5d0963ed9fcaff618725b29bed572",
         "bytes": 1178192,
         "etag": "\"11fa50-639f9262ce875\"",
         "last_modified": "Tue, 15 Jul 2025 15:08:30 GMT"
       },
-      "extractor": "983df11b63cd8087"
+      "extractor": "d354e7cbd8f90fdd"
     },
     {
       "clave": "queretaro/codigo-civil",
@@ -414,15 +414,19 @@
       "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/",
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/COD-ID-02.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 096: la fe de erratas «(Fe de erratas según oficio SSP/514/18/LIX … P. O. No. 92, 17-X-18)» quedó pegada al final de la fracción VI como texto de la ley, no como nota de reforma en su propio párrafo; 137: la nota de reforma «(Ref. 12-XI-21, Periódico Noticias)» quedó pegada al final del único párrafo del cuerpo; debe ir en cursiva en su propio párrafo; 150: la nota «(Ref. 12-XI-21, Periódico Noticias)» quedó dentro del texto del párrafo en lugar de en su propio párrafo en cursiva; 158: la nota «(Ref. 12-XI-21, Periódico Noticias)» quedó dentro del texto del párrafo en lugar de en su propio párrafo en cursiva; 160: la nota «(Ref. 12-XI-21, Periódico Noticias)» (partida en el PDF como «12-/XI-21») quedó dentro del texto del párrafo en lugar de en su propio párrafo en cursiva (y 26 más)",
-      "fecha": "2026-11-17",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 137: la nota «(Ref. 12-XI-21, Periódico Noticias)» quedó como párrafo suelto en texto plano (sin cursiva) dentro del cuerpo; en el PDF va pegada al final del texto; 150: la nota «(Ref. 12-XI-21, Periódico Noticias)» quedó pegada al texto del párrafo del cuerpo en lugar de ir en su propio párrafo en cursiva; 158: la nota «(Ref. 12-XI-21, Periódico Noticias)» quedó pegada al texto del párrafo del cuerpo en lugar de ir en su propio párrafo en cursiva; 160: la nota «(Ref. 12-XI-21, Periódico Noticias)» quedó pegada al texto del párrafo del cuerpo en lugar de ir en su propio párrafo en cursiva; 163: la nota «(Ref. 12-XI-21, Periódico Noticias)» quedó como párrafo suelto en texto plano (sin cursiva) dentro del cuerpo (y 10 más) Sin arreglo automático tras 3 intentos: se reintenta cuando cambie su PDF.",
+      "fecha": "2026-11-18",
       "pdf": {
         "sha256": "a99bca54143a18827dcc6b0ea00a88a56ebf950abaa8d99d75a046ec52fe4e16",
         "bytes": 1981145,
         "etag": "\"1e3ad9-639f9263a271f\"",
         "last_modified": "Tue, 15 Jul 2025 15:08:31 GMT"
       },
-      "extractor": "d5141153547758e4"
+      "extractor": "d354e7cbd8f90fdd",
+      "reparacion": {
+        "intentos": 3,
+        "agotada": true
+      }
     },
     {
       "clave": "queretaro/codigo-de-etica-del-poder-legislativo",
@@ -494,15 +498,19 @@
       "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/",
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/COD-ID-07.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 137: el párrafo 2 termina con un «(» suelto («…significado del hecho. (»): el PDF (pág. 36) trae «((Ref. P. O. No. 29, 8-VI-12)» con doble paréntesis y el primer «(» quedó pegado al cuerpo de la ley, mient; 127: una nota de reforma quedó con un espacio dentro de la fecha («1-XI- 90»); el PDF corta el renglón después del guion y dice «1-XI-90», sin espacio; 142-bis: una nota de reforma quedó con un espacio dentro de la fecha («27-V- 22»); el PDF corta el renglón después del guion y dice «27-V-22», sin espacio; 155: una nota de reforma quedó con un espacio dentro de la fecha («19-VIII- 25»); el PDF corta el renglón después del guion y dice «19-VIII-25», sin espacio; 160: una nota de reforma quedó con un espacio dentro de la fecha («15-X- 18»); el PDF corta el renglón después del guion y dice «15-X-18», sin espacio (y 14 más)",
-      "fecha": "2026-11-17",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 137: el párrafo 2 termina con un «(» suelto («…significado del hecho. (»): el PDF (pág. 36) trae «((Ref. P. O. No. 29, 8-VI-12)» con doble paréntesis y el primer «(» quedó pegado al cuerpo de la ley, mient; 127: una nota de reforma quedó con un espacio dentro de la fecha («1-XI- 90»); el PDF corta el renglón después del guion y dice «1-XI-90», sin espacio; 142-bis: una nota de reforma quedó con un espacio dentro de la fecha («27-V- 22»); el PDF corta el renglón después del guion y dice «27-V-22», sin espacio; 155: una nota de reforma quedó con un espacio dentro de la fecha («19-VIII- 25»); el PDF corta el renglón después del guion y dice «19-VIII-25», sin espacio; 160: una nota de reforma quedó con un espacio dentro de la fecha («15-X- 18»); el PDF corta el renglón después del guion y dice «15-X-18», sin espacio (y 14 más) Sin arreglo automático tras 3 intentos: se reintenta cuando cambie su PDF.",
+      "fecha": "2026-11-18",
       "pdf": {
         "sha256": "7ddbfd13dc1c1007317e7ed98ce09ca90350a55e7769d80a6a6a538a7ccdec5b",
         "bytes": 988796,
         "etag": "\"f167c-65ae626b7b731\"",
         "last_modified": "Mon, 07 Sep 2026 15:19:58 GMT"
       },
-      "extractor": "983df11b63cd8087"
+      "extractor": "d354e7cbd8f90fdd",
+      "reparacion": {
+        "intentos": 3,
+        "agotada": true
+      }
     },
     {
       "clave": "queretaro/codigo-urbano",
@@ -514,15 +522,15 @@
       "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/",
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Codigos/COD-ID-06.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 177: el párrafo «No se autorizará la fusión de lotes, unidades privativas o que pertenezcan a desarrollos inmobiliarios diferentes ya autorizados.» quedó partido a media oración: un párrafo termina en «…un",
-      "fecha": "2026-11-17",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 177: el párrafo «No se autorizará la fusión de lotes, unidades privativas o que pertenezcan a desarrollos inmobiliarios diferentes ya autorizados.» quedó partido a media oración: un párrafo termina en «…un; 217: en la fracción VI la nota «(Fe de erratas según oficio DALJ/2678/18/LVIII … P. O. No. 38, 11-V-18)» quedó pegada al final del párrafo de la fracción, en vez de ir en su propio párrafo en cursiva como ",
+      "fecha": "2026-11-18",
       "pdf": {
         "sha256": "dd0ee6809ce314fb877eecac864a07d1a053d38277eb7b83812940b2d7d256ee",
         "bytes": 1089723,
         "etag": "\"10a0bb-639f92616dfc5\"",
         "last_modified": "Tue, 15 Jul 2025 15:08:28 GMT"
       },
-      "extractor": "983df11b63cd8087"
+      "extractor": "d354e7cbd8f90fdd"
     },
     {
       "clave": "queretaro/ley-organica-de-la-agencia-de-energia",
@@ -638,16 +646,21 @@
       "medio": "Periódico Oficial del Gobierno del Estado de Querétaro «La Sombra de Arteaga»",
       "indice": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/",
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-09.pdf",
-      "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 032: la fracción I quedó pegada al proemio: el párrafo dice «…estará integrado por I. La persona Presidente del Poder Judicial…». En el PDF (pág. 6) «estará integrado por» termina el renglón y «I. La perso; 043: dos párrafos unidos en uno: «El Pleno sesionará válidamente con la presencia de diez de sus integrantes, entre ellos el Presidente.» (pág. 11, renglón propio con salto de párrafo antes) y «De toda ses; 210: queda un párrafo final suelto «9» después de la nota «(Adición P. O. No. 80, 19-VIII-24)»: en el PDF (pág. 71) es un dígito pegado a la nota («19-VIII-24)9»), no texto de la ley; el extractor lo dejó ",
-      "fecha": "2026-11-17",
+      "estado": "incluida",
+      "version": "2024-08-19",
+      "unidades": 220,
       "pdf": {
         "sha256": "f27d5800bd68347f1a35db15ac5996b577483c2b9e9b03b43533ff363b7e8bda",
         "bytes": 666718,
         "etag": "\"a2c5e-639fa4d0acb3a\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:57 GMT"
       },
-      "extractor": "983df11b63cd8087"
+      "extractor": "d354e7cbd8f90fdd",
+      "extractor_sha": "261b5a4e1062d4670f90fe597ea5ed865cc2f4ba",
+      "alta": {
+        "fecha": "2026-11-18",
+        "via": "limpia"
+      }
     },
     {
       "clave": "queretaro/ley-organica-del-poder-legislativo",
@@ -660,14 +673,14 @@
       "url": "https://site.legislaturaqueretaro.gob.mx/CloudPLQ/InvEst/Ley-Org/ORG-ID-10.pdf",
       "estado": "excluida",
       "motivo": "invariantes rotos: [queretaro/ley-organica-del-poder-legislativo] sin fugas de encabezado/pie: 163.md, 207.md",
-      "fecha": "2026-11-17",
+      "fecha": "2026-11-18",
       "pdf": {
         "sha256": "753b8b962b4607929c6fe11cb761aee9f6c1db33e3fe94168aa659399288a4bc",
         "bytes": 719115,
         "etag": "\"af90b-639fa4d11ef5f\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:57 GMT"
       },
-      "extractor": "d5141153547758e4"
+      "extractor": "d354e7cbd8f90fdd"
     },
     {
       "clave": "queretaro/ley-organica-del-tribunal-de-justicia-administrativa",
