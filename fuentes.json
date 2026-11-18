@@ -434,8 +434,8 @@
         "etag": "\"2760b-62f2745448ab2\"",
         "last_modified": "Thu, 27 Feb 2025 22:32:52 GMT"
       },
-      "extractor": "77fd913831065693",
-      "extractor_sha": "eac87fa9d6ee27d5caa9437bd544c326be771bb8",
+      "extractor": "b911aa959cd234b1",
+      "extractor_sha": "de6b45d1411023b9c27fb95d430569fffffb779b",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -471,7 +471,7 @@
         "etag": "\"85222-5f2a45def9cfb\"",
         "last_modified": "Thu, 19 Jan 2023 21:10:48 GMT"
       },
-      "extractor": "77fd913831065693"
+      "extractor": "b911aa959cd234b1"
     },
     {
       "clave": "nuevo-leon/codigo-penal",
@@ -496,6 +496,31 @@
       "estado": "excluida",
       "motivo": "el enlace del Congreso lleva un espacio en la consulta ('….pdf?2026-03- 9') y la descarga lo rechaza; se podrá sumar cuando el descargador lo admita",
       "fecha": "2026-11-18"
+    },
+    {
+      "clave": "nuevo-leon/ley-de-fiscalizacion-superior",
+      "etiqueta": "Ley de Fiscalización Superior del Estado de Nuevo León",
+      "sigla": "LFS NL",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Estado de Nuevo León",
+      "indice": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/",
+      "url": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/LEY%20DE%20FISCALIZACION%20SUPERIOR%20DEL%20ESTADO%20DE%20NUEVO%20LEON.pdf?2021-12-31",
+      "estado": "incluida",
+      "version": "2021-12-31",
+      "unidades": 109,
+      "pdf": {
+        "sha256": "771049f3659f7fad3bf76869a32cc9fd3f9066e75e8926c7c3a544d5accbd210",
+        "bytes": 270385,
+        "etag": "\"42031-5d4b1836e737a\"",
+        "last_modified": "Mon, 03 Jan 2022 18:16:02 GMT"
+      },
+      "extractor": "b911aa959cd234b1",
+      "extractor_sha": "de6b45d1411023b9c27fb95d430569fffffb779b",
+      "alta": {
+        "fecha": "2026-11-18",
+        "via": "limpia"
+      }
     },
     {
       "clave": "nuevo-leon/ley-de-gobierno-municipal",
@@ -539,7 +564,7 @@
         "etag": "\"fa42-5c0e5d0b76764\"",
         "last_modified": "Mon, 26 Apr 2021 20:16:05 GMT"
       },
-      "extractor": "77fd913831065693"
+      "extractor": "b911aa959cd234b1"
     },
     {
       "clave": "nuevo-leon/ley-de-justicia-administrativa-para-el-estado-y-municipios",
@@ -552,6 +577,31 @@
       "estado": "excluida",
       "motivo": "el artículo 6 Bis no puede verificarse contra el PDF porque su rótulo ('6o Bis') no coincide con el del PDF",
       "fecha": "2026-11-18"
+    },
+    {
+      "clave": "nuevo-leon/ley-de-responsabilidad-patrimonial",
+      "etiqueta": "Ley de Responsabilidad Patrimonial del Estado y Municipios de Nuevo León",
+      "sigla": "LRP NL",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Periódico Oficial del Estado de Nuevo León",
+      "indice": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/",
+      "url": "https://www.hcnl.gob.mx/trabajo_legislativo/leyes/pdf/LEY%20DE%20RESPONSABILIDAD%20PATRIMONIAL%20DEL%20ESTADO%20Y%20MUNICIPIOS.pdf?2023-09-28",
+      "estado": "incluida",
+      "version": "2023-09-28",
+      "unidades": 36,
+      "pdf": {
+        "sha256": "79514dabd662209221e32c5b4bf10d6d8a09a7c41a38b493381e8e2fbceb3b33",
+        "bytes": 178708,
+        "etag": "\"2ba14-62f26d36c7f78\"",
+        "last_modified": "Thu, 27 Feb 2025 22:01:02 GMT"
+      },
+      "extractor": "b911aa959cd234b1",
+      "extractor_sha": "de6b45d1411023b9c27fb95d430569fffffb779b",
+      "alta": {
+        "fecha": "2026-11-18",
+        "via": "limpia"
+      }
     },
     {
       "clave": "nuevo-leon/ley-de-responsabilidades-administrativas",
@@ -583,7 +633,7 @@
         "etag": "\"a89c0-65ab55c050aa6\"",
         "last_modified": "Sat, 05 Sep 2026 05:07:19 GMT"
       },
-      "extractor": "77fd913831065693"
+      "extractor": "b911aa959cd234b1"
     },
     {
       "clave": "nuevo-leon/ley-de-transparencia-y-acceso-a-la-informacion-publica",
@@ -615,7 +665,7 @@
         "etag": "\"ff06c-5fcf48b76132e\"",
         "last_modified": "Wed, 31 May 2023 03:02:05 GMT"
       },
-      "extractor": "77fd913831065693"
+      "extractor": "b911aa959cd234b1"
     },
     {
       "clave": "nuevo-leon/ley-organica-de-la-administracion-publica",
@@ -647,7 +697,7 @@
         "etag": "\"731cb-65ab5606f4a68\"",
         "last_modified": "Sat, 05 Sep 2026 05:08:33 GMT"
       },
-      "extractor": "77fd913831065693"
+      "extractor": "b911aa959cd234b1"
     },
     {
       "clave": "nuevo-leon/ley-organica-del-poder-judicial",
@@ -679,7 +729,7 @@
         "etag": "\"6f779-653c6d4c6ae61\"",
         "last_modified": "Tue, 09 Jun 2026 00:01:38 GMT"
       },
-      "extractor": "77fd913831065693"
+      "extractor": "b911aa959cd234b1"
     },
     {
       "clave": "queretaro/codigo-ambiental",
