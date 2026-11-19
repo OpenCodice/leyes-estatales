@@ -42,8 +42,8 @@
         "etag": "\"1fa4ac-65721cb8ad0cf\"",
         "last_modified": "Tue, 21 Jul 2026 16:48:40 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "revision_pendiente": {
         "fecha": "2026-11-18",
         "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 111: la palabra «Derogado», que en el PDF está en renglón propio como anotación tras el primer párrafo, quedó pegada al final de ese párrafo («…denominado Dirección Distrital. Derogado») como si fuera text Sin arreglo automático tras 3 intentos: se reintenta cuando cambie su PDF.",
@@ -91,8 +91,8 @@
         "etag": "\"1bb87f-65ca0c2fe416f\"",
         "last_modified": "Tue, 29 Sep 2026 15:23:16 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "revision_pendiente": {
         "fecha": "2026-11-18",
         "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 135-ter: absorbió al artículo siguiente: al final quedó «(SIC) 135 QUÁTER.- Este delito se considerará tentativa de feminicidio, cuando las lesiones cometidas contra la mujer provoquen:» con sus fracciones I y; 148-ter: la nota «Capitulo Adicionado G.O. CDMX 23/08/24» (pág. 53), que anota el encabezado del Capítulo VII «Transfeminicidio», quedó como último párrafo del artículo; 148-quater: el texto empieza con «– Se deroga.»: el guion es del separador del rótulo del PDF («Artículo 148.- Quáter. – Se deroga.») y quedó dentro del párrafo; 182: la última línea del encabezado del Título Sexto («CAPACIDAD DE RESISTIR LA CONDUCTA.», pág. 66) quedó como último párrafo del artículo; 209-ter: el primer párrafo empieza con «– Al que, mediante violencia…»: el guion es del separador del rótulo del PDF («ARTÍCULO 209 TER. – Al que…») y quedó en el texto (y 1 más) Sin arreglo automático tras 3 intentos: se reintenta cuando cambie su PDF.",
@@ -128,8 +128,8 @@
         "etag": "\"a3fa2-65a0b19d1b3cf\"",
         "last_modified": "Thu, 27 Aug 2026 17:59:44 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -153,8 +153,8 @@
         "etag": "\"c87ff-65ca0ee08df0f\"",
         "last_modified": "Tue, 29 Sep 2026 15:35:18 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -178,8 +178,8 @@
         "etag": "\"ab50e-65c93e15cd5cf\"",
         "last_modified": "Tue, 29 Sep 2026 00:01:11 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -203,8 +203,8 @@
         "etag": "\"b67fc-6573b9fabc58f\"",
         "last_modified": "Wed, 22 Jul 2026 23:37:33 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -232,7 +232,7 @@
       "indice": "https://www.congresogto.gob.mx/codigos",
       "url": "https://congreso-gto.s3.amazonaws.com/uploads/reforma/pdf/3660/CPJAEG_FDE_05Nov2025.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 003: se coló el pie/encabezado de página del PDF (\"Página N de 81\" y \"H. CONGRESO DEL ESTADO DE GUANAJUATO Expidió… Fe de Erratas…\") dentro del cuerpo del artículo, partiendo el texto donde cambia la págin; 006: se coló el pie/encabezado de página del PDF (\"Página N de 81\" y \"H. CONGRESO DEL ESTADO DE GUANAJUATO Expidió… Fe de Erratas…\") dentro del cuerpo del artículo, partiendo el texto donde cambia la págin; 008: se coló el pie/encabezado de página del PDF (\"Página N de 81\" y \"H. CONGRESO DEL ESTADO DE GUANAJUATO Expidió… Fe de Erratas…\") dentro del cuerpo del artículo, partiendo el texto donde cambia la págin; 013: se coló el pie/encabezado de página del PDF (\"Página N de 81\" y \"H. CONGRESO DEL ESTADO DE GUANAJUATO Expidió… Fe de Erratas…\") dentro del cuerpo del artículo, partiendo el texto donde cambia la págin; 025: se coló el pie/encabezado de página del PDF (\"Página N de 81\" y \"H. CONGRESO DEL ESTADO DE GUANAJUATO Expidió… Fe de Erratas…\") dentro del cuerpo del artículo, partiendo el texto donde cambia la págin (y 37 más)",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 322: la nota «(DEROGADO ÚLTIMO PÁRRAFO, P.O. 29 DE ABRIL DE 2020)» quedó como último párrafo del art. 322, pero en el PDF está después del salto de página, justo ANTES del rótulo «Artículo 323.»; por conve",
       "fecha": "2026-11-19",
       "pdf": {
         "sha256": "3f781072533adacf120400f395014ff023ecc7ebf97059ec1e90dfcd36886d01",
@@ -240,7 +240,7 @@
         "etag": "\"f92c44f976a7de7a1725dc5601664e2d\"",
         "last_modified": "Tue, 11 Nov 2025 16:38:46 GMT"
       },
-      "extractor": "0f73ad384bae1d15"
+      "extractor": "af85f1c4297c2945"
     },
     {
       "clave": "guanajuato/codigo-de-procedimientos-civiles",
@@ -264,7 +264,7 @@
       "indice": "https://www.congresogto.gob.mx/codigos",
       "url": "https://congreso-gto.s3.amazonaws.com/uploads/reforma/pdf/3693/CFEG_REF_31Diciembre2025.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 001: el encabezado/pie de página «Página N de 167 Secretaría General Publicada: … Instituto de Investigaciones Legislativas» quedó colado dentro del texto y parte un párrafo en dos.; 003: el encabezado/pie de página «Página N de 167 Secretaría General Publicada: … Instituto de Investigaciones Legislativas» quedó colado dentro del texto y parte un párrafo en dos.; 004: el encabezado/pie de página «Página N de 167 Secretaría General Publicada: … Instituto de Investigaciones Legislativas» quedó colado dentro del texto y parte un párrafo en dos. Además, al final queda ; 007: el encabezado/pie de página «Página N de 167 Secretaría General Publicada: … Instituto de Investigaciones Legislativas» quedó colado dentro del texto y parte un párrafo en dos.; 009: el encabezado/pie de página «Página N de 167 Secretaría General Publicada: … Instituto de Investigaciones Legislativas» quedó colado dentro del texto y parte un párrafo en dos. (y 114 más)",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 004: el epígrafe «Definición de aprovechamientos, productos y otros ingresos» (que en el PDF encabeza el art. 5) quedó como último párrafo del art. 4; 054: el epígrafe «Formas para presentar solicitudes, declaraciones, avisos e informes» (del art. 55) quedó como último párrafo del art. 54; 056: el epígrafe «Contratación de adquisiciones, arrendamientos, servicios u obra pública» (del art. 57) quedó como último párrafo del art. 56; 102: falta la nota «(ARTICULO REFORMADO, P.O. 30 DICIEMBRE 2022)» que el PDF pone antes del rótulo; debía ser su primer párrafo; 102-bis: falta la nota «(ARTICULO ADICIONADO, P.O. 30 DICIEMBRE 2022)» previa al rótulo; debía ser su primer párrafo (y 11 más)",
       "fecha": "2026-11-19",
       "pdf": {
         "sha256": "c85d2d83f7d1e5c97735a1a7282d313764ac937bd26aec2ec7f65cbdf9266d1d",
@@ -272,7 +272,7 @@
         "etag": "\"e32776cb460b0d69c4f9749b794a199b\"",
         "last_modified": "Fri, 16 Jan 2026 21:46:37 GMT"
       },
-      "extractor": "0f73ad384bae1d15"
+      "extractor": "af85f1c4297c2945"
     },
     {
       "clave": "guanajuato/codigo-penal",
@@ -308,7 +308,7 @@
       "indice": "https://www.congresogto.gob.mx/leyes",
       "url": "https://congreso-gto.s3.amazonaws.com/uploads/reforma/pdf/3690/LCFEG_REF_18Dic2025.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 003: el pie de página «Página 2 de 33 Secretaría General Publicada: P.O. Núm. 261; Vigésima Parte, 31-12-2025 Instituto de Investigaciones Legislativas» quedó dentro del texto del artículo; 004: el pie de página «Página 3 y 4 de 33 Secretaría General Publicada: P.O. Núm. 261; Vigésima Parte, 31-12-2025 Instituto de Investigaciones Legislativas» quedó dentro del texto del artículo; 012: el pie de página «Página 7 y 8 de 33 Secretaría General Publicada: P.O. Núm. 261; Vigésima Parte, 31-12-2025 Instituto de Investigaciones Legislativas» quedó dentro del texto del artículo; 014: el pie de página «Página 9 de 33 Secretaría General Publicada: P.O. Núm. 261; Vigésima Parte, 31-12-2025 Instituto de Investigaciones Legislativas» quedó dentro del texto del artículo; 016: el pie de página «Página 10 de 33 Secretaría General Publicada: P.O. Núm. 261; Vigésima Parte, 31-12-2025 Instituto de Investigaciones Legislativas» quedó dentro del texto del artículo (y 16 más)",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 004: párrafo partido a mitad de oración: «…del Fondo General de Participaciones» y «que se distribuye en función de la recaudación de Predial y Agua…» quedaron como dos párrafos, siendo uno solo en el PDF ; 012: omitida la fórmula-imagen (págs. 7-8, dos fórmulas): las fórmulas de distribución son imágenes en el PDF y no están en el texto: queda «Donde:» con definiciones sin la fórmula ni los símbolos (huecos ; 018: omitida la fórmula-imagen (págs. 11-12): las fórmulas de distribución son imágenes en el PDF y no están en el texto: queda «Donde:» con definiciones sin la fórmula ni los símbolos (huecos tipo «en el ; 024: párrafo partido a mitad de oración: «Es el coeficiente del Impuesto Especial sobre Producción y Servicios» / «por la enajenación de cerveza…» (PDF: un solo párrafo); además las fórmulas de distribució; 027: párrafo partido a mitad de oración: «…Servicios a» / «la venta final de gasolinas y diésel…»; además las fórmulas de distribución son imágenes en el PDF y no están en el texto: queda «Donde:» con defi (y 4 más)",
       "fecha": "2026-11-19",
       "pdf": {
         "sha256": "50b7382561bdc06889f0712a51b078df5ca813f470c66adc2ac5fc7f53450db4",
@@ -316,7 +316,7 @@
         "etag": "\"567bf4d9ed60385425067fe03109bdd7\"",
         "last_modified": "Mon, 12 Jan 2026 19:32:44 GMT"
       },
-      "extractor": "0f73ad384bae1d15"
+      "extractor": "af85f1c4297c2945"
     },
     {
       "clave": "guanajuato/ley-de-educacion",
@@ -328,7 +328,7 @@
       "indice": "https://www.congresogto.gob.mx/leyes",
       "url": "https://congreso-gto.s3.amazonaws.com/uploads/reforma/pdf/3713/LEEG_REF_14Mayo2026.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 003: el pie de página del PDF («Página N de 93 Publicada: P.O. Núm. 146 … Secretaria General Reforma: … Instituto de Investigaciones Legislativas») quedó colado dentro del texto del artículo; 004: el pie de página del PDF («Página N de 93 Publicada: P.O. Núm. 146 … Secretaria General Reforma: … Instituto de Investigaciones Legislativas») quedó colado dentro del texto del artículo; 005: el pie de página del PDF («Página N de 93 Publicada: P.O. Núm. 146 … Secretaria General Reforma: … Instituto de Investigaciones Legislativas») quedó colado dentro del texto del artículo; 006: el pie de página del PDF («Página N de 93 Publicada: P.O. Núm. 146 … Secretaria General Reforma: … Instituto de Investigaciones Legislativas») quedó colado dentro del texto del artículo; 010: el pie de página del PDF («Página N de 93 Publicada: P.O. Núm. 146 … Secretaria General Reforma: … Instituto de Investigaciones Legislativas») quedó colado dentro del texto del artículo (y 43 más)",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 003: el epígrafe «Universalidad, laicidad y gratuidad en la educación pública», que en el PDF encabeza el artículo siguiente, quedó como último párrafo de este artículo; 029: el epígrafe «Equidad educativa, acciones y destinatarios», que en el PDF encabeza el artículo siguiente, quedó como último párrafo de este artículo; 050: el epígrafe «Tipos, niveles, modalidades y opciones educativas», que en el PDF encabeza el artículo siguiente, quedó como último párrafo de este artículo; 052: el epígrafe «Diversidad lingüística, regional y multiculturalidad en educación», que en el PDF encabeza el artículo siguiente, quedó como último párrafo de este artículo; 064: el epígrafe «Políticas para la inclusión, permanencia, continuidad y conclusión», que en el PDF encabeza el artículo siguiente, quedó como último párrafo de este artículo (y 2 más)",
       "fecha": "2026-11-19",
       "pdf": {
         "sha256": "b8faad3f8d30a6c2d2a2c53199b2e8265bd3201ded9cfd1c1efc7d5866aeba70",
@@ -336,7 +336,7 @@
         "etag": "\"530f961715bf7058daed177b527263de\"",
         "last_modified": "Fri, 15 May 2026 22:29:07 GMT"
       },
-      "extractor": "0f73ad384bae1d15"
+      "extractor": "af85f1c4297c2945"
     },
     {
       "clave": "guanajuato/ley-de-instituciones-y-procedimientos-electorales",
@@ -360,7 +360,7 @@
       "indice": "https://www.congresogto.gob.mx/leyes",
       "url": "https://congreso-gto.s3.amazonaws.com/uploads/reforma/pdf/3703/LTAIPEG_REF08Abril2025.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 002: el pie de página «Página N de 66 Secretaria General Publicada: P.O. Núm. 70, Tercera Parte, 08-04-2026 Instituto de Investigaciones Legislativas» quedó colado dentro del texto (1 vez/veces), partiendo; 003: el pie de página «Página N de 66 Secretaria General Publicada: P.O. Núm. 70, Tercera Parte, 08-04-2026 Instituto de Investigaciones Legislativas» quedó colado dentro del texto (2 vez/veces), partiendo; 004: el pie de página «Página N de 66 Secretaria General Publicada: P.O. Núm. 70, Tercera Parte, 08-04-2026 Instituto de Investigaciones Legislativas» quedó colado dentro del texto (1 vez/veces), partiendo; 023: el pie de página «Página N de 66 Secretaria General Publicada: P.O. Núm. 70, Tercera Parte, 08-04-2026 Instituto de Investigaciones Legislativas» quedó colado dentro del texto (1 vez/veces), partiendo; 026: el pie de página «Página N de 66 Secretaria General Publicada: P.O. Núm. 70, Tercera Parte, 08-04-2026 Instituto de Investigaciones Legislativas» quedó colado dentro del texto (1 vez/veces), partiendo (y 29 más)",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 063: el epígrafe «Fideicomisos, fondos públicos y otros» (rótulo del art. 64, en pág. 34 antes de «Artículo 64.») quedó como último párrafo del art. 63",
       "fecha": "2026-11-19",
       "pdf": {
         "sha256": "aa81b63fe1ac8515d6377d8cbe49aea617c4ca8fcf7df092dc8104fc26b0a193",
@@ -368,7 +368,7 @@
         "etag": "\"00e35c77c9e75ebff22aa4e4ae89f1d2\"",
         "last_modified": "Thu, 16 Apr 2026 16:17:54 GMT"
       },
-      "extractor": "0f73ad384bae1d15"
+      "extractor": "af85f1c4297c2945"
     },
     {
       "clave": "guanajuato/ley-organica-de-la-fiscalia-general",
@@ -380,7 +380,7 @@
       "indice": "https://www.congresogto.gob.mx/leyes",
       "url": "https://congreso-gto.s3.amazonaws.com/uploads/reforma/pdf/3706/LOFEG_REF_21Abril2026.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 003: el encabezado/pie de página del PDF («Página N de 54 Secretaria General Publicada: P.O. Núm. 34 … Reforma: P.O. Núm. 79 … 21-04-2026») quedó colado dentro del cuerpo del artículo; 007: el encabezado/pie de página del PDF («Página N de 54 Secretaria General Publicada: P.O. Núm. 34 … Reforma: P.O. Núm. 79 … 21-04-2026») quedó colado dentro del cuerpo del artículo; 010: el encabezado/pie de página del PDF («Página N de 54 Secretaria General Publicada: P.O. Núm. 34 … Reforma: P.O. Núm. 79 … 21-04-2026») quedó colado dentro del cuerpo del artículo; 016: el encabezado/pie de página del PDF («Página N de 54 Secretaria General Publicada: P.O. Núm. 34 … Reforma: P.O. Núm. 79 … 21-04-2026») quedó colado dentro del cuerpo del artículo; 023: el encabezado/pie de página del PDF («Página N de 54 Secretaria General Publicada: P.O. Núm. 34 … Reforma: P.O. Núm. 79 … 21-04-2026») quedó colado dentro del cuerpo del artículo (y 31 más)",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 014: el epígrafe estructural «Designación, remoción y ausencia del Fiscal General» (que titula el art. 15) quedó como último párrafo del art. 14; 018: falta la nota de reforma «(REFORMADO, P.O. 27 DE DICIEMBRE DE 2024)» que el PDF pone justo antes del rótulo del art. 18; debía ser su primer párrafo y no aparece en ningún artículo",
       "fecha": "2026-11-19",
       "pdf": {
         "sha256": "88e98d5dafd8f9fa7960257dc94a0b559f6f3180240e9aea53c314edac0e98ba",
@@ -388,7 +388,7 @@
         "etag": "\"8dba5a7239afede682a47bdebe43e504\"",
         "last_modified": "Thu, 23 Apr 2026 22:40:22 GMT"
       },
-      "extractor": "0f73ad384bae1d15"
+      "extractor": "af85f1c4297c2945"
     },
     {
       "clave": "guanajuato/ley-organica-del-poder-ejecutivo",
@@ -412,7 +412,7 @@
       "indice": "https://www.congresogto.gob.mx/leyes",
       "url": "https://congreso-gto.s3.amazonaws.com/uploads/reforma/pdf/3614/LOPJEG_REF_28Abril2025.pdf",
       "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 004: pie/encabezado de página «Página 1 de 97 Secretaria General Publicada… Reforma… 28-04-2025» colado en el cuerpo (parte el párrafo); 017: pie/encabezado de página «Página 4 de 97 Secretaria General Publicada… Reforma… 28-04-2025» colado en el cuerpo (parte el párrafo); pie/encabezado de página «Página 5 de 97 Secretaria General Publicad; 024: pie/encabezado de página «Página 7 de 97 Secretaria General Publicada… Reforma… 28-04-2025» colado en el cuerpo (parte el párrafo); 028: pie/encabezado de página «Página 8 de 97 Secretaria General Publicada… Reforma… 28-04-2025» colado en el cuerpo (parte el párrafo); pie/encabezado de página «Página 9 de 97 Secretaria General Publicad; 029: pie/encabezado de página «Página 12 de 97 Secretaria General Publicada… Reforma… 28-04-2025» colado en el cuerpo (parte el párrafo) (y 55 más)",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 101-bis: la nota de reforma «(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)» que el PDF pone justo antes del rótulo (entre ella y el rótulo solo va el epígrafe) es del artículo y falta como primer párrafo; 231: la nota de reforma «(F. DE E., P.O. 26 DE JUNIO DE 2012)» que el PDF pone justo antes del rótulo (entre ella y el rótulo solo va el epígrafe) es del artículo y falta como primer párrafo; 278: la nota de reforma «(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)» que el PDF pone justo antes del rótulo (entre ella y el rótulo solo va el epígrafe) es del artículo y falta como primer párrafo; 279: la nota de reforma «(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)» que el PDF pone justo antes del rótulo (entre ella y el rótulo solo va el epígrafe) es del artículo y falta como primer párrafo; 280: la nota de reforma «(ADICIONADO, P.O. 28 DE NOVIEMBRE DE 2014)» que el PDF pone justo antes del rótulo (entre ella y el rótulo solo va el epígrafe) es del artículo y falta como primer párrafo (y 4 más)",
       "fecha": "2026-11-19",
       "pdf": {
         "sha256": "905a2fbb8bacfdd42be1d3017a00f6761ad115b47149f274574c440e7feba3e5",
@@ -420,7 +420,7 @@
         "etag": "\"22f1a8fb07addc3be3bc7e80c6d16db8\"",
         "last_modified": "Wed, 30 Apr 2025 17:23:11 GMT"
       },
-      "extractor": "0f73ad384bae1d15"
+      "extractor": "af85f1c4297c2945"
     },
     {
       "clave": "guanajuato/ley-organica-del-poder-legislativo",
@@ -443,16 +443,21 @@
       "medio": "Periódico Oficial del Gobierno del Estado de Guanajuato",
       "indice": "https://www.congresogto.gob.mx/leyes",
       "url": "https://congreso-gto.s3.amazonaws.com/uploads/reforma/pdf/3530/LOTJA_REF_13Dic2023.pdf",
-      "estado": "excluida",
-      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 007: pie/encabezado de página «Página 2 de 29 Secretaría General Publicada: ... Reforma: ...» colado entre «ingreso» y «indebidamente percibido», partiendo el inciso b) en dos párrafos; 008: pie «Página 3 de 29 Secretaría General Publicada: ...» colado como párrafo entre el inciso c) de la fracción I y la fracción II; 025: pie «Página 8 de 29 Secretaría General Publicada: ...» colado como párrafo entre las fracciones IX y X; 027: pie «Página 10 de 29 Secretaría General Publicada: ...» colado como párrafo entre las fracciones XIV y XV; 032: pie «Página 12 de 29 Secretaría General Publicada: ...» colado entre las fracciones III y IV (y 7 más)",
-      "fecha": "2026-11-19",
+      "estado": "incluida",
+      "version": null,
+      "unidades": 61,
       "pdf": {
         "sha256": "9e3a4adab4392232485871e649dd869957a0470c407fdea83e7e4b657e6a06ee",
         "bytes": 423213,
         "etag": "\"c99ca70ab10faa60c2b55b804ce7df27\"",
         "last_modified": "Fri, 15 Dec 2023 15:50:33 GMT"
       },
-      "extractor": "0f73ad384bae1d15"
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
+      "alta": {
+        "fecha": "2026-11-19",
+        "via": "limpia"
+      }
     },
     {
       "clave": "guanajuato/ley-para-el-gobierno-y-administracion-de-los-municipios",
@@ -481,11 +486,11 @@
       "pdf": {
         "sha256": "c0d66178910ac334c25e4870471712ce21e6c562a820d2f9cc29d4dbae26c7d2",
         "bytes": 2275503,
-        "etag": "\"e19698f214dd1:0\"",
-        "last_modified": "Wed, 24 Jun 2026 21:36:47 GMT"
+        "etag": null,
+        "last_modified": null
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -509,8 +514,8 @@
         "etag": "\"177e13176c5edc1:0\"",
         "last_modified": "Wed, 26 Nov 2025 00:32:05 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -558,8 +563,8 @@
         "etag": "\"111c8cb6a51dd1:0\"",
         "last_modified": "Wed, 30 Sep 2026 18:37:14 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -607,8 +612,8 @@
         "etag": "\"3492c066904cdd1:0\"",
         "last_modified": "Fri, 25 Sep 2026 01:51:37 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -632,8 +637,8 @@
         "etag": "\"c1dc9f802e5cdd1:0\"",
         "last_modified": "Wed, 14 Oct 2026 22:51:08 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -657,8 +662,8 @@
         "etag": "\"b06e77e7884cdd1:0\"",
         "last_modified": "Fri, 25 Sep 2026 00:57:57 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -694,8 +699,8 @@
         "etag": "\"2760b-62f2745448ab2\"",
         "last_modified": "Thu, 27 Feb 2025 22:32:52 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -743,8 +748,8 @@
         "etag": "\"85222-5f2a45def9cfb\"",
         "last_modified": "Thu, 19 Jan 2023 21:10:48 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -768,8 +773,8 @@
         "etag": "\"12a581-65ab5522ef9a1\"",
         "last_modified": "Sat, 05 Sep 2026 05:04:34 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -793,8 +798,8 @@
         "etag": "\"52d2e-5ff9ae31d35ba\"",
         "last_modified": "Mon, 03 Jul 2023 20:19:43 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -838,8 +843,8 @@
         "etag": "\"42031-5d4b1836e737a\"",
         "last_modified": "Mon, 03 Jan 2022 18:16:02 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -907,8 +912,8 @@
         "etag": "\"fa42-5c0e5d0b76764\"",
         "last_modified": "Mon, 26 Apr 2021 20:16:05 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -932,8 +937,8 @@
         "etag": "\"7edc3-65d2d3a103c6a\"",
         "last_modified": "Tue, 06 Oct 2026 14:58:09 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -981,8 +986,8 @@
         "etag": "\"5f0f0-65ab557652484\"",
         "last_modified": "Sat, 05 Sep 2026 05:06:02 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1006,8 +1011,8 @@
         "etag": "\"2ba14-62f26d36c7f78\"",
         "last_modified": "Thu, 27 Feb 2025 22:01:02 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1031,8 +1036,8 @@
         "etag": "\"a3f45-65d2d4348484e\"",
         "last_modified": "Tue, 06 Oct 2026 15:00:43 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1056,8 +1061,8 @@
         "etag": "\"a89c0-65ab55c050aa6\"",
         "last_modified": "Sat, 05 Sep 2026 05:07:19 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1081,8 +1086,8 @@
         "etag": "\"edfc6-5dd808613617d\"",
         "last_modified": "Mon, 25 Apr 2022 20:35:58 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1106,8 +1111,8 @@
         "etag": "\"46699-62cb5756b26ee\"",
         "last_modified": "Mon, 27 Jan 2025 19:55:30 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1131,8 +1136,8 @@
         "etag": "\"19bb0-6557a65af3bfa\"",
         "last_modified": "Tue, 30 Jun 2026 15:40:40 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1156,8 +1161,8 @@
         "etag": "\"ff06c-5fcf48b76132e\"",
         "last_modified": "Wed, 31 May 2023 03:02:05 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1181,8 +1186,8 @@
         "etag": "\"4312e-5cd9ce6142b87\"",
         "last_modified": "Tue, 05 Oct 2021 15:44:02 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1230,8 +1235,8 @@
         "etag": "\"634d6-5dfdbe16e545c\"",
         "last_modified": "Wed, 25 May 2022 20:25:56 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1255,8 +1260,8 @@
         "etag": "\"6f779-653c6d4c6ae61\"",
         "last_modified": "Tue, 09 Jun 2026 00:01:38 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1280,8 +1285,8 @@
         "etag": "\"11fa50-639f9262ce875\"",
         "last_modified": "Tue, 15 Jul 2025 15:08:30 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1349,8 +1354,8 @@
         "etag": "\"11096e-639f9260de6df\"",
         "last_modified": "Tue, 15 Jul 2025 15:08:28 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1422,8 +1427,8 @@
         "etag": "\"10a0bb-639f92616dfc5\"",
         "last_modified": "Tue, 15 Jul 2025 15:08:28 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1447,8 +1452,8 @@
         "etag": "\"60de3-639fa4d395d3a\"",
         "last_modified": "Tue, 15 Jul 2025 16:31:00 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1472,8 +1477,8 @@
         "etag": "\"49ae5-6509c1fd75c83\"",
         "last_modified": "Wed, 29 Apr 2026 16:48:59 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1521,8 +1526,8 @@
         "etag": "\"39e1a-639fa4ce30f3f\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:54 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1546,8 +1551,8 @@
         "etag": "\"31503-639fa4ce6a921\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:55 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1571,8 +1576,8 @@
         "etag": "\"40f77-639fa4cf0da88\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:55 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1596,8 +1601,8 @@
         "etag": "\"44f12-6509c3d013376\"",
         "last_modified": "Wed, 29 Apr 2026 16:57:08 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1621,8 +1626,8 @@
         "etag": "\"ccaf1-639fa4d02ad15\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:56 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -1646,8 +1651,8 @@
         "etag": "\"a2c5e-639fa4d0acb3a\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:57 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"
@@ -1691,8 +1696,8 @@
         "etag": "\"52b90-639fa4d1c9dc6\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:58 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-17",
         "via": "limpia"
@@ -1716,8 +1721,8 @@
         "etag": "\"502de-639fa4d2ab730\"",
         "last_modified": "Tue, 15 Jul 2025 16:30:59 GMT"
       },
-      "extractor": "7685c3b50bc9b495",
-      "extractor_sha": "207a6ea8e5f01242196abc937796faaa9db64ade",
+      "extractor": "af85f1c4297c2945",
+      "extractor_sha": "6ffcb05bc21d9e72d27fd4e736105e7e01786eb0",
       "alta": {
         "fecha": "2026-11-18",
         "via": "limpia"

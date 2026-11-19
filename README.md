@@ -58,7 +58,7 @@ ensucia el historial del texto.
 | Colima | [`colima/constitucion/`](colima/constitucion/) | Periódico Oficial "El Estado de Colima" — Dirección de Proceso Legislativo del H. Congreso del Estado de Colima | — |
 | Durango | [`durango/constitucion/`](durango/constitucion/) | Periódico Oficial del Gobierno del Estado de Durango — H. Congreso del Estado de Durango | — |
 | Estado de México | [`edomex/constitucion/`](edomex/constitucion/) | Periódico Oficial «Gaceta del Gobierno» — Gobierno del Estado de México (Legislación vigente) | — |
-| Guanajuato | [`guanajuato/constitucion/`](guanajuato/constitucion/) | Periódico Oficial del Gobierno del Estado de Guanajuato — H. Congreso del Estado de Guanajuato | — |
+| Guanajuato | [`guanajuato/constitucion/`](guanajuato/constitucion/) | Periódico Oficial del Gobierno del Estado de Guanajuato — H. Congreso del Estado de Guanajuato | [LOTJA Gto](guanajuato/ley-organica-del-tribunal-de-justicia-administrativa/) |
 | Guerrero | [`guerrero/constitucion/`](guerrero/constitucion/) | Periódico Oficial del Gobierno del Estado de Guerrero — H. Congreso del Estado de Guerrero | — |
 | Hidalgo | [`hidalgo/constitucion/`](hidalgo/constitucion/) | Periódico Oficial del Estado de Hidalgo — Congreso del Estado de Hidalgo (Instituto de Estudios Legislativos) | — |
 | Jalisco | [`jalisco/constitucion/`](jalisco/constitucion/) | Periódico Oficial del Estado de Jalisco — Congreso del Estado de Jalisco | [CAS Jalisco](jalisco/codigo-de-asistencia-social/), [CC Jalisco](jalisco/codigo-civil/), [CE Jalisco](jalisco/codigo-electoral/), [LOPE Jalisco](jalisco/ley-organica-del-poder-ejecutivo/), [LOPJ Jalisco](jalisco/ley-organica-del-poder-judicial/), [LOPL Jalisco](jalisco/ley-organica-del-poder-legislativo/) |
