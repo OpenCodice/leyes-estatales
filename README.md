@@ -77,7 +77,7 @@ ensucia el historial del texto.
 | Tamaulipas | [`tamaulipas/constitucion/`](tamaulipas/constitucion/) | Periódico Oficial del Estado de Tamaulipas — H. Congreso del Estado de Tamaulipas | — |
 | Tlaxcala | [`tlaxcala/constitucion/`](tlaxcala/constitucion/) | Periódico Oficial del Gobierno del Estado de Tlaxcala — Congreso del Estado de Tlaxcala | — |
 | Veracruz | [`veracruz/constitucion/`](veracruz/constitucion/) | Gaceta Oficial del Estado de Veracruz — H. Congreso del Estado de Veracruz | — |
-| Yucatán | [`yucatan/constitucion/`](yucatan/constitucion/) | Diario Oficial del Gobierno del Estado de Yucatán — H. Congreso del Estado de Yucatán | — |
+| Yucatán | [`yucatan/constitucion/`](yucatan/constitucion/) | Diario Oficial del Gobierno del Estado de Yucatán — H. Congreso del Estado de Yucatán | [CFis Yuc](yucatan/codigo-fiscal/) |
 | Zacatecas | [`zacatecas/constitucion/`](zacatecas/constitucion/) | Periódico Oficial del Gobierno del Estado de Zacatecas — Poder Legislativo del Estado de Zacatecas | — |
 <!-- ESTADOS:FIN -->
 
