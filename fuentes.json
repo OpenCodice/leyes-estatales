@@ -1971,6 +1971,255 @@
         "intentos": 3,
         "agotada": true
       }
+    },
+    {
+      "clave": "yucatan/codigo-civil",
+      "etiqueta": "Código Civil del Estado de Yucatán",
+      "sigla": "CC Yuc",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Diario Oficial del Gobierno del Estado de Yucatán",
+      "indice": "https://www.congresoyucatan.gob.mx/legislacion/codigos",
+      "url": "https://www.congresoyucatan.gob.mx/storage/legislacion/codigos/ca9da342d9e6c5faf13d9e39e9ec6591_2022-06-10.pdf",
+      "estado": "excluida",
+      "motivo": "El filtro de forma, previo a la revisión completa contra el PDF, encontró defectos de extracción: 003: párrafo suelto «15», sin el texto de su fracción; 013: párrafo suelto «17», sin el texto de su fracción; 015: párrafo suelto «18», sin el texto de su fracción; 036: párrafo suelto «23», sin el texto de su fracción; 040: párrafo suelto «24», sin el texto de su fracción (y 78 más)",
+      "fecha": "2026-11-25",
+      "pdf": {
+        "sha256": "7d0f56fe14a83eb6a9b151d6cad17cfe9ff357c9ef05a9210cf9eccbd40d708a",
+        "bytes": 2549552,
+        "etag": "\"26e730-5e11d1bf88f31\"",
+        "last_modified": "Fri, 10 Jun 2022 19:40:23 GMT"
+      },
+      "extractor": "cd63b4c62dc74899"
+    },
+    {
+      "clave": "yucatan/codigo-de-familia",
+      "etiqueta": "Código de Familia para el Estado de Yucatán",
+      "sigla": "CF Yuc",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Diario Oficial del Gobierno del Estado de Yucatán",
+      "indice": "https://www.congresoyucatan.gob.mx/legislacion/codigos",
+      "url": "https://www.congresoyucatan.gob.mx/storage/legislacion/codigos/d474fca229d7858e2f1156c9c626a090_2024-08-02.pdf",
+      "estado": "excluida",
+      "motivo": "invariantes rotos: [yucatan/codigo-de-familia] ningún cuerpo truncado: 001.md, 002.md, 003.md, 004.md",
+      "fecha": "2026-11-25",
+      "pdf": {
+        "sha256": "8525bafaa14bd1336f38779b5a70f655722273cc3817f5037081a82eb1ae2876",
+        "bytes": 2385394,
+        "etag": "\"2465f2-61eb53d1c3b78\"",
+        "last_modified": "Fri, 02 Aug 2024 15:47:03 GMT"
+      },
+      "extractor": "cd63b4c62dc74899"
+    },
+    {
+      "clave": "yucatan/codigo-de-la-administracion-publica",
+      "etiqueta": "Código de la Administración Pública de Yucatán",
+      "sigla": "CAP Yuc",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Diario Oficial del Gobierno del Estado de Yucatán",
+      "indice": "https://www.congresoyucatan.gob.mx/legislacion/codigos",
+      "estado": "excluida",
+      "motivo": "El índice del PDF termina con el rótulo «TRANSITORIOS» y el extractor corta el texto ahí: no queda ningún artículo.",
+      "fecha": "2026-11-25"
+    },
+    {
+      "clave": "yucatan/codigo-fiscal",
+      "etiqueta": "Código Fiscal del Estado de Yucatán",
+      "sigla": "CFis Yuc",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Diario Oficial del Gobierno del Estado de Yucatán",
+      "indice": "https://www.congresoyucatan.gob.mx/legislacion/codigos",
+      "url": "https://www.congresoyucatan.gob.mx/storage/legislacion/codigos/5c6e68c9b7bea85e9384441c5a6e73ac_2024-01-03.pdf",
+      "estado": "incluida",
+      "version": null,
+      "unidades": 271,
+      "pdf": {
+        "sha256": "4582d5f7acc71c4236b3b9ca947ac5b899c68228f20c79e9d83f8bbcb72a4684",
+        "bytes": 1524558,
+        "etag": "\"17434e-60e107b5d1414\"",
+        "last_modified": "Wed, 03 Jan 2024 20:30:12 GMT"
+      },
+      "extractor": "cd63b4c62dc74899",
+      "extractor_sha": "db0dfbe59649bae8d138c37049789070e303f99e",
+      "alta": {
+        "fecha": "2026-11-25",
+        "via": "limpia"
+      }
+    },
+    {
+      "clave": "yucatan/codigo-penal",
+      "etiqueta": "Código Penal del Estado de Yucatán",
+      "sigla": "CP Yuc",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Diario Oficial del Gobierno del Estado de Yucatán",
+      "indice": "https://www.congresoyucatan.gob.mx/legislacion/codigos",
+      "url": "https://www.congresoyucatan.gob.mx/storage/legislacion/codigos/8203bd322be5e97fcb3a51358afe2e8a_2026-10-22.pdf",
+      "estado": "excluida",
+      "motivo": "El filtro de forma, previo a la revisión completa contra el PDF, encontró defectos de extracción: 001: párrafo partido a media oración: «…s, preparados o cometidos fuera del Estado, cuando produzcan» / «o se pretenda que tengan efectos en el territorio del mismo,»; 001: párrafo partido a media oración: «…en su modalidad de narcomenudeo a que se refiere el artículo» / «474 y demás disposiciones aplicables al Capítulo VII del Tít»; 002: párrafo partido a media oración: «…meta un delito no previsto en este Código pero sí en una ley» / «especial, se aplicará ésta, observándose en lo conducente la»; 003: párrafo partido a media oración: «…y la reforma disminuya dicho término, se aplicará la ley más» / «favorable. Cuando el sujeto hubiese sido sentenciado a una s»; 007: párrafo partido a media oración: «…es u omisiones delictivas solamente pueden realizarse dolosa» / «o culposamente.» (y 330 más)",
+      "fecha": "2026-11-25",
+      "pdf": {
+        "sha256": "dfb945693eec1445ec708e21bda1fc8fd836dd2463efca378f4e355b49053533",
+        "bytes": 2475117,
+        "etag": "\"25c46d-65e720d30f95b\"",
+        "last_modified": "Thu, 22 Oct 2026 18:30:00 GMT"
+      },
+      "extractor": "cd63b4c62dc74899"
+    },
+    {
+      "clave": "yucatan/ley-de-asentamientos-humanos-ordenamiento-territorial-y-desarrollo-urbano",
+      "etiqueta": "Ley de Asentamientos Humanos, Ordenamiento Territorial y Desarrollo Urbano del Estado de Yucatán",
+      "sigla": "LAHOTDU Yuc",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Diario Oficial del Gobierno del Estado de Yucatán",
+      "indice": "https://www.congresoyucatan.gob.mx/legislacion/leyes",
+      "estado": "excluida",
+      "motivo": "El índice del PDF termina con el rótulo «TRANSITORIOS» y el extractor corta el texto ahí: no queda ningún artículo.",
+      "fecha": "2026-11-25"
+    },
+    {
+      "clave": "yucatan/ley-de-gobierno-de-los-municipios",
+      "etiqueta": "Ley de Gobierno de los Municipios del Estado de Yucatán",
+      "sigla": "LGM Yuc",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Diario Oficial del Gobierno del Estado de Yucatán",
+      "indice": "https://www.congresoyucatan.gob.mx/legislacion/leyes",
+      "url": "https://www.congresoyucatan.gob.mx/storage/legislacion/leyes/255eec4eb35693e90da2e2bc4ab466f5_2026-08-10.pdf",
+      "estado": "excluida",
+      "motivo": "El filtro de forma, previo a la revisión completa contra el PDF, encontró defectos de extracción: 001: párrafo partido a media oración: «…por la Constitución Política de los Estados Unidos Mexicanos» / «y la particular del Estado.»; 003: párrafo partido a media oración: «…s necesidades comunes y la mejor prestación de los servicios» / «públicos.»; 004: párrafo partido a media oración: «… auxilio a las autoridades, cuando para ello sean requeridos» / «legalmente;»; 007: párrafo partido a media oración: «…s habitantes y vecinos de un Municipio, tendrán los derechos» / «siguientes:»; 007: párrafo partido a media oración: «…as actividades tendientes a promover el Desarrollo Municipal» / «y el acceso a sus beneficios;» (y 280 más)",
+      "fecha": "2026-11-25",
+      "pdf": {
+        "sha256": "088dadf0c967cb7d2db1689d0de55e157d81d43188630378ddf9de1f556dbf34",
+        "bytes": 1864862,
+        "etag": "\"1c749e-658b3d3f4b4b4\"",
+        "last_modified": "Mon, 10 Aug 2026 16:27:18 GMT"
+      },
+      "extractor": "cd63b4c62dc74899"
+    },
+    {
+      "clave": "yucatan/ley-de-gobierno-del-poder-legislativo",
+      "etiqueta": "Ley de Gobierno del Poder Legislativo del Estado de Yucatán",
+      "sigla": "LGPL Yuc",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Diario Oficial del Gobierno del Estado de Yucatán",
+      "indice": "https://www.congresoyucatan.gob.mx/legislacion/leyes",
+      "url": "https://www.congresoyucatan.gob.mx/storage/legislacion/leyes/5964b19d58ef965b908ef20705b1e772_2026-08-10.pdf",
+      "estado": "excluida",
+      "motivo": "El filtro de forma, previo a la revisión completa contra el PDF, encontró defectos de extracción: 005: párrafo partido a media oración: «…ción de los diputados y profesionistas vinculados a la tarea» / «legislativa, que sustenten la actualización de la normativid»; 005: párrafo partido a media oración: «…ntación Legislativa: Diputado electo por medio de un partido» / «político, coalición o candidatura común o de manera independ»; 005: párrafo partido a media oración: «…ontienen el tema que describen a detalle y con los metadatos» / «necesarios;»; 005: párrafo partido a media oración: «…squeda amigables y bases de datos en línea con actualización» / «periódica;»; 006-bis: párrafo partido a media oración: «…a Mesa Directiva, previa consulta con la Junta de Gobierno y» / «Coordinación Política, podrá acordar que una Sesión del Plen» (y 118 más)",
+      "fecha": "2026-11-25",
+      "pdf": {
+        "sha256": "03cb0756da40eed55deeec30eb6e355606032b690737a616c8f014d373f55ac7",
+        "bytes": 980052,
+        "etag": "\"ef454-658b3d0fee631\"",
+        "last_modified": "Mon, 10 Aug 2026 16:26:29 GMT"
+      },
+      "extractor": "cd63b4c62dc74899"
+    },
+    {
+      "clave": "yucatan/ley-de-instituciones-y-procedimientos-electorales",
+      "etiqueta": "Ley de Instituciones y Procedimientos Electorales del Estado de Yucatán",
+      "sigla": "LIPE Yuc",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Diario Oficial del Gobierno del Estado de Yucatán",
+      "indice": "https://www.congresoyucatan.gob.mx/legislacion/leyes",
+      "url": "https://www.congresoyucatan.gob.mx/storage/legislacion/leyes/b09323d890b610a39ceef86569c88174_2026-10-29.pdf",
+      "estado": "excluida",
+      "motivo": "La revisión completa contra el PDF encontró defectos de extracción: 152-quater: el Artículo 152 Quinques (\"Para ser defensora o defensor se requiere, además de los requisitos…\" con su nota «Artículo adicionado D.O. 28-06-2023») quedó dentro del archivo 152-quater como párrafo pro; 371-bis: el epígrafe del artículo en el PDF («Artículo 371 Bis. Órgano de control interno», en su propio renglón) quedó pegado al inicio del primer párrafo del cuerpo: «Órgano de control interno El …»; el epíg; 371-ter: el epígrafe del artículo en el PDF («Artículo 371 Ter. Atribuciones», en su propio renglón) quedó pegado al inicio del primer párrafo del cuerpo: «Atribuciones El …»; el epígrafe es encabezado, no tex; 371-quater: el epígrafe del artículo en el PDF («Artículo 371 Quater. Requisitos», en su propio renglón) quedó pegado al inicio del primer párrafo del cuerpo: «Requisitos El …»; el epígrafe es encabezado, no text; 371-quinquies: el epígrafe del artículo en el PDF («Artículo 371 Quinquies. Responsabilidades», en su propio renglón) quedó pegado al inicio del primer párrafo del cuerpo: «Responsabilidades El …»; el epígrafe es en",
+      "fecha": "2026-11-25",
+      "pdf": {
+        "sha256": "75d569de981652912aa2923d40c1dbcdc784f408f5fdc8f847bcb271698c01db",
+        "bytes": 2226602,
+        "etag": "\"21f9aa-65efe243668b5\"",
+        "last_modified": "Thu, 29 Oct 2026 17:38:02 GMT"
+      },
+      "extractor": "cd63b4c62dc74899"
+    },
+    {
+      "clave": "yucatan/ley-de-la-fiscalia-general",
+      "etiqueta": "Ley de la Fiscalía General del Estado de Yucatán",
+      "sigla": "LFG Yuc",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Diario Oficial del Gobierno del Estado de Yucatán",
+      "indice": "https://www.congresoyucatan.gob.mx/legislacion/leyes",
+      "estado": "excluida",
+      "motivo": "El último artículo absorbe el decreto de expedición y su exposición de motivos.",
+      "fecha": "2026-11-25"
+    },
+    {
+      "clave": "yucatan/ley-de-los-trabajadores-al-servicio-del-estado-y-municipios",
+      "etiqueta": "Ley de los Trabajadores al Servicio del Estado y Municipios de Yucatán",
+      "sigla": "LTSEM Yuc",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Diario Oficial del Gobierno del Estado de Yucatán",
+      "indice": "https://www.congresoyucatan.gob.mx/legislacion/leyes",
+      "estado": "excluida",
+      "motivo": "El índice del PDF termina con el rótulo «TRANSITORIOS» y el extractor corta el texto ahí: no queda ningún artículo.",
+      "fecha": "2026-11-25"
+    },
+    {
+      "clave": "yucatan/ley-de-salud",
+      "etiqueta": "Ley de Salud del Estado de Yucatán",
+      "sigla": "LS Yuc",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Diario Oficial del Gobierno del Estado de Yucatán",
+      "indice": "https://www.congresoyucatan.gob.mx/legislacion/leyes",
+      "estado": "excluida",
+      "motivo": "El índice del PDF termina con el rótulo «TRANSITORIOS» y el extractor corta el texto ahí: no queda ningún artículo.",
+      "fecha": "2026-11-25"
+    },
+    {
+      "clave": "yucatan/ley-del-sistema-de-medios-de-impugnacion-en-materia-electoral",
+      "etiqueta": "Ley del Sistema de Medios de Impugnación en Materia Electoral del Estado de Yucatán",
+      "sigla": "LSMIME Yuc",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Diario Oficial del Gobierno del Estado de Yucatán",
+      "indice": "https://www.congresoyucatan.gob.mx/legislacion/leyes",
+      "url": "https://www.congresoyucatan.gob.mx/storage/legislacion/leyes/a6b2a1080222f1ca93ed410644e15d6e_2026-08-10.pdf",
+      "estado": "excluida",
+      "motivo": "El filtro de forma, previo a la revisión completa contra el PDF, encontró defectos de extracción: 001: párrafo partido a media oración: «…es de esta Ley son de orden público y de observancia general» / «en todo el territorio del Estado, y tienen por objeto reglam»; 002: párrafo partido a media oración: «…nterpretación de las disposiciones de esta Ley, corresponden» / «al Instituto Electoral y de Participación Ciudadana de Yucat»; 002: párrafo partido a media oración: «…, la sustanciación y resolución de los medios de impugnación» / «previstos en esta Ley, sus disposiciones se interpretarán co»; 002: párrafo partido a media oración: «… la jurisprudencia del Tribunal Electoral del Poder Judicial» / «de la Federación.»; 002: párrafo partido a media oración: «…rá considerar su carácter de entidad de interés público como» / «organización de ciudadanos, la libertad de decisión interna,» (y 235 más)",
+      "fecha": "2026-11-25",
+      "pdf": {
+        "sha256": "c7b941f15296fb6a30c6f2decd0f99aaa5903f3d47b55dcfab62e4d3f4b0a76f",
+        "bytes": 590990,
+        "etag": "\"9048e-658b3e6dffcb7\"",
+        "last_modified": "Mon, 10 Aug 2026 16:32:36 GMT"
+      },
+      "extractor": "cd63b4c62dc74899"
+    },
+    {
+      "clave": "yucatan/ley-del-sistema-estatal-anticorrupcion",
+      "etiqueta": "Ley del Sistema Estatal Anticorrupción de Yucatán",
+      "sigla": "LSEA Yuc",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Diario Oficial del Gobierno del Estado de Yucatán",
+      "indice": "https://www.congresoyucatan.gob.mx/legislacion/leyes",
+      "estado": "excluida",
+      "motivo": "Los títulos de sus secciones quedan pegados al artículo anterior y el último artículo absorbe los decretos de reforma que siguen a la ley.",
+      "fecha": "2026-11-25"
+    },
+    {
+      "clave": "yucatan/ley-organica-del-poder-judicial",
+      "etiqueta": "Ley Orgánica del Poder Judicial del Estado de Yucatán",
+      "sigla": "LOPJ Yuc",
+      "tipo": "ley",
+      "parser": "articulado",
+      "medio": "Diario Oficial del Gobierno del Estado de Yucatán",
+      "indice": "https://www.congresoyucatan.gob.mx/legislacion/leyes",
+      "estado": "excluida",
+      "motivo": "Los títulos de sus capítulos y secciones ('CAPÍTULO ÚNICO.- DISPOSICIONES GENERALES') quedan pegados al final del artículo anterior.",
+      "fecha": "2026-11-25"
     }
   ]
 }
